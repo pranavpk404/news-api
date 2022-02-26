@@ -27,6 +27,7 @@ jobs:
         FOURTHAPI: ${{ secrets.FOURTHAPI }}
         FIFTHAPI: ${{ secrets.FIFTHAPI }}
         SIXTHAPI: ${{ secrets.SIXTHAPI }}
+        SEVENTHAPI: ${{ secrets.SEVENTHAPI }}
       run: |
         python main.py
     - name: Commit and push if it changed

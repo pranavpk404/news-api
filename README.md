@@ -1,7 +1,6 @@
 # news-api
 [![Scrape latest data](https://github.com/pranav256/news-api/actions/workflows/main.yml/badge.svg)](https://github.com/pranav256/news-api/actions/workflows/main.yml)
 
-from newsapi.org
 
 Updates every hour
 

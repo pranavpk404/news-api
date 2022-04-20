@@ -2,7 +2,6 @@
 [![Scrape latest data](https://github.com/pranav256/news-api/actions/workflows/main.yml/badge.svg)](https://github.com/pranav256/news-api/actions/workflows/main.yml)
 
 
-Updates every hour
 
 Available Categories
 "general",

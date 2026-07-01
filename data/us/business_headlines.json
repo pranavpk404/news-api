@@ -3,9 +3,48 @@
   "country": "us",
   "category": "business",
   "mode": "country",
-  "fetched_at": "2026-07-01T19:03:13.668334+00:00",
+  "fetched_at": "2026-07-01T19:24:47.356614+00:00",
   "articles_count": 60,
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "CNBC",
+      "title": "American Airlines brings grab-and-go lounge to New York's JFK - CNBC",
+      "description": null,
+      "url": "https://www.cnbc.com/2026/06/30/american-airlines-louge-new-york-jfk.html",
+      "urlToImage": null,
+      "publishedAt": "2026-06-30T18:00:01Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Anthropic.com"
+      },
+      "author": "Anthropic",
+      "title": "Introducing Claude Sonnet 5 - Anthropic",
+      "description": null,
+      "url": "https://www.anthropic.com/news/claude-sonnet-5",
+      "urlToImage": null,
+      "publishedAt": "2026-06-30T17:58:16Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "STAT"
+      },
+      "author": "Matthew Herper, Brittany Trang",
+      "title": "Anthropic releases Claude Science, a product aimed at researchers, the pharma industry - statnews.com",
+      "description": "Anthropic released Claude Science, an application that optimizes its large language model for scientists and, especially, those doing research at pharma companies.",
+      "url": "https://www.statnews.com/2026/06/30/anthropic-release-claude-science-ceo-dario-amodei/",
+      "urlToImage": "https://www.statnews.com/wp-content/uploads/2026/06/ANT_BRIEFING_SF_JPEG_02-1024x576.jpg",
+      "publishedAt": "2026-06-30T17:00:10Z",
+      "content": "SAN FRANCISCO Anthropic, the artificial intelligence firm, on Tuesday announced the availability of Claude Science, an application that optimizes the companys large language model for use in scientif… [+845 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -34,32 +73,6 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "Rvbusiness.com"
-      },
-      "author": "RVBusiness",
-      "title": "Patrick Industries, Lippert to Combine in All-Stock Merger - RVBusiness",
-      "description": null,
-      "url": "https://rvbusiness.com/patrick-industries-lci-industries-to-combine-in-all-stock-merger/",
-      "urlToImage": null,
-      "publishedAt": "2026-06-30T15:38:21Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": "Reuters",
-      "title": "EXCLUSIVE: US House committee opens investigation into Merck, AbbVie China drug trials - Reuters",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQSXlTUDJFOVM5dHVaUlNqSmI2ekZMbUwzbk9LWll1cndIZDQ4S2VmaGRBdjFpVWVrTjRPT0RFUVVLelVnc0xlOG52b3p5S01KRHpvLUp0dDRvXzI4UjQ1dkIyRHBrRzVaM251eF93dVdlVERiRWZ5MzlSZXlITTd0S211RnRWT0xjTVl1dFdTWWRsTF9VQnV0VVVnRHZ2SFB1TzQ3bGhHSU83Ty1zZEt5Z1J6YlhMX1E?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2026-06-30T15:22:43Z",
-      "content": null
-    },
-    {
-      "source": {
         "id": "techcrunch",
         "name": "TechCrunch"
       },
@@ -70,6 +83,32 @@
       "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/06/e76ca02d-634a-44c9-a514-ce1b84d4d1ba.jpeg?resize=800,1200",
       "publishedAt": "2026-06-30T15:00:00Z",
       "content": "As companies struggle to integrate AI, theyre increasingly ready to bring in outside help and service providers are launching new purpose-built groups to make sure they get it.\r\nOn Tuesday, Amazon We… [+2122 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Theblock.co"
+      },
+      "author": "Kyle Baird",
+      "title": "Visa, Stripe, Coinbase and more join Open USD stablecoin that shares reserve revenue - The Block",
+      "description": "Expected to launch later this year, Open Standard said businesses will be able to mint and redeem Open USD without fees or volume limits.",
+      "url": "https://www.theblock.co/post/406736/visa-stripe-coinbase-join-open-usd-stablecoin-shares-reserve-revenue",
+      "urlToImage": "https://www.tbstat.com/wp/uploads/2021/07/20210712_Finance_Crypto_Move-1200x675.jpg",
+      "publishedAt": "2026-06-30T14:57:18Z",
+      "content": "More than 140 companies, including Visa, Stripe, Mastercard, BlackRock and Coinbase have joined Open Standard to launch Open USD (OUSD), a new stablecoin that shares most of the earnings from its res… [+2693 chars]"
+    },
+    {
+      "source": {
+        "id": "axios",
+        "name": "Axios"
+      },
+      "author": "Caitlin Owens",
+      "title": "Exclusive: FDA allows ZYN to sell pouches on health benefits - Axios",
+      "description": "The pouches can be marketed as less risky than cigarettes.",
+      "url": "https://www.axios.com/2026/06/30/fda-zyn-health-marketing",
+      "urlToImage": "https://images.axios.com/-L78Iak6cQBcP8RqzJDUPs3Nhpw=/1366x768/smart/2024/12/11/164023-1733935223053.jpg",
+      "publishedAt": "2026-06-30T14:56:58Z",
+      "content": "Driving the news: The FDA will allow 20 Zyn products to be marketed with the claim that \"using ZYN instead of cigarettes puts you at a lower risk of mouth cancer, heart disease, lung cancer, stroke, … [+1245 chars]"
     },
     {
       "source": {
@@ -102,26 +141,26 @@
         "id": null,
         "name": "Barron's"
       },
-      "author": "Barron's",
+      "author": "Callum Keown",
       "title": "SMCI Stock: Dell Could Get a Boost From Latest Super Micro Raid - Barron's",
-      "description": null,
+      "description": "SMCI stock tumbled after Taiwanese investigators raided the company's offices. Dell stock climbed.",
       "url": "https://www.barrons.com/articles/super-micro-smci-stock-raid-dell-c35f0183",
-      "urlToImage": null,
+      "urlToImage": "https://images.barrons.com/im-17696702/social",
       "publishedAt": "2026-06-30T14:07:00Z",
-      "content": null
+      "content": "All artificial-intelligence stocks are risky, butSuper Micro Computerseems riskier than others.\r\nCopyright ©2026Dow Jones &amp; Company, Inc. All Rights Reserved. 87990cbe856818d5eddac44c7b1cdeb8"
     },
     {
       "source": {
         "id": null,
-        "name": "Yahoo Entertainment"
+        "name": "Financial Times"
       },
-      "author": "Yahoo Finance",
-      "title": "Circle Internet stock falls on new stablecoin venture report - Yahoo Finance",
-      "description": null,
-      "url": "https://finance.yahoo.com/markets/crypto/articles/circle-internet-stock-falls-stablecoin-140523135.html",
-      "urlToImage": null,
-      "publishedAt": "2026-06-30T14:05:23Z",
-      "content": null
+      "author": "Malcolm Moore, Rachel Millard",
+      "title": "BP deputy chief to leave company in latest upheaval at oil major - Financial Times",
+      "description": "Carol Howle, the trading chief appointed deputy CEO less than three months ago, is set to retire",
+      "url": "https://www.ft.com/content/17f90a69-7c33-4b6b-a92d-eb944a101251?syn-25a6b1a6\\\\u003d1",
+      "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fc9cac305-3e45-4cda-ac7b-c1729639a386.jpg?source=next-barrier-page",
+      "publishedAt": "2026-06-30T14:00:07Z",
+      "content": "Then $75 per month. Complete digital access to quality FT journalism on any device. Cancel anytime during your trial."
     },
     {
       "source": {
@@ -152,6 +191,32 @@
     {
       "source": {
         "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Amalya Dubrovsky",
+      "title": "Stock market today: Dow, S&P 500, Nasdaq waver after record-setting session - Yahoo Finance",
+      "description": "Investors assessed a remarkable run-up in chip stocks in the first half of the year and the dollar's growing strength.",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-sp-500-nasdaq-rise-dow-eyes-fresh-record-to-wrap-up-standout-quarter-224823556.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/D660D0D144907F36E2DA9AC91401C523E3D8229EB858444F7CF23F72781B2124/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2025-04%2Fec530b50-1eb3-11f0-9fb4-3931ade834e4",
+      "publishedAt": "2026-06-30T13:47:47Z",
+      "content": "US stocks rose on Tuesday after a record-setting start to the week, as investors assessed a remarkable run-up in chip stocks in the first half of the year and the dollar's growing strength.\r\nThe Dow … [+1669 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Quartz India"
+      },
+      "author": "Cris Tolomia",
+      "title": "Judge refuses to dismiss state AGs' Meta child addiction lawsuit - Yahoo",
+      "description": "A federal judge in Oakland let most claims stand, ruling Meta's platform design practices plausibly constitute unfair conduct under consumer protection law",
+      "url": "https://qz.com/meta-state-ags-lawsuit-child-addiction-dismissed-063026",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/32ee31b040d0132d38255d2d288b4f45b19d26713eceb6ec1b26c7700a722f2d/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fquartz_855%2F7dead5f1a97d8ea306a35577f78ac1f9",
+      "publishedAt": "2026-06-30T13:38:56Z",
+      "content": "Meta lost its bid to dismiss a lawsuit brought by dozens of state attorneys general accusing it of designing Facebook and Instagram to be addictive to children and knowingly concealing the resulting … [+3075 chars]"
+    },
+    {
+      "source": {
+        "id": null,
         "name": "CNBC"
       },
       "author": "Diana Olick",
@@ -165,6 +230,19 @@
     {
       "source": {
         "id": null,
+        "name": "WSBT-TV"
+      },
+      "author": "WSBT 22",
+      "title": "BREAKING: Patrick Industries and Lippert reach final merger deal - WSBT",
+      "description": "Patrick Industries and Lippert have reached a definitive merger agreement.This comes after the companies called off merger talks just two months ago.RELATED: Li",
+      "url": "https://wsbt.com/news/local/patrick-industries-lippert-announce-merger-rv-suppliers-companies-recreational-vehicles-combined-company-shareholders-elkhart-indiana",
+      "urlToImage": "https://wsbt.com/resources/media2/16x9/1920/1320/center/90/d76afc4b-a3e7-45df-9368-2d19d14c3135-LippertPatrick.jpg",
+      "publishedAt": "2026-06-30T12:40:13Z",
+      "content": "ELKHART, Ind. (WSBT) Patrick Industries and Lippert have reached a definitive merger agreement.\r\nThis comes after the companies called off merger talks just two months ago.\r\nRELATED:Lippert Industrie… [+863 chars]"
+    },
+    {
+      "source": {
+        "id": null,
         "name": "Investor's Business Daily"
       },
       "author": null,
@@ -174,6 +252,19 @@
       "urlToImage": "https://www.investors.com/wp-content/uploads/2025/09/Stock-AeroVironment-switchblade-shut.jpg",
       "publishedAt": "2026-06-30T12:29:00Z",
       "content": "Information in Investors Business Daily is for informational and educational purposes only and should not be construed as an offer, recommendation, solicitation, or rating to buy or sell securities. … [+1064 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Vlad Schepkov",
+      "title": "Magnificent 7 stocks lose $2.3 trillion in June - Yahoo Finance",
+      "description": "Investing.com -- The \"Magnificent 7\" group of technology companies lost approximately $2.3 trillion in market value this month as investors increased scrutin...",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/magnificent-7-stocks-lose-2-122836497.html",
+      "urlToImage": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
+      "publishedAt": "2026-06-30T12:28:36Z",
+      "content": "Investing.com -- The \"Magnificent 7\" group of technology companies lost approximately $2.3 trillion in market value this month as investors increased scrutiny of large infrastructure spending by thes… [+1498 chars]"
     },
     {
       "source": {
@@ -191,15 +282,15 @@
     {
       "source": {
         "id": null,
-        "name": "Yahoo Entertainment"
+        "name": "Seeking Alpha"
       },
-      "author": "Amalya Dubrovsky",
-      "title": "Stock market today: Dow, S&P 500, Nasdaq futures nudge higher after record-setting session - Yahoo Finance",
-      "description": "Investors assessed a remarkable run-up in chip stocks in the first half of the year and the dollar's growing strength.",
-      "url": "https://finance.yahoo.com/markets/live/stock-market-today-sp-500-nasdaq-rise-dow-eyes-fresh-record-to-wrap-up-standout-quarter-224823556.html",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/D660D0D144907F36E2DA9AC91401C523E3D8229EB858444F7CF23F72781B2124/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2025-04%2Fec530b50-1eb3-11f0-9fb4-3931ade834e4",
-      "publishedAt": "2026-06-30T12:05:49Z",
-      "content": "US stocks rose on Tuesday after a record-setting start to the week, as investors assessed a remarkable run-up in chip stocks in the first half of the year and the dollar's growing strength.\r\nThe Dow … [+1669 chars]"
+      "author": "Rida Morwa",
+      "title": "2 Dividend Compounders To Generate Income For Life - Seeking Alpha",
+      "description": "A resilient income stream starts with investments that complement each other. Click here to know why income investors should consider O and MO stocks.",
+      "url": "https://seekingalpha.com/article/4918500-2-dividend-compounders-to-generate-income-for-life",
+      "urlToImage": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1410693132/image_1410693132.jpg?io=getty-c-w1536",
+      "publishedAt": "2026-06-30T11:35:00Z",
+      "content": "Analysts Disclosure: I/we have a beneficial long position in the shares of O, MO either through stock ownership, options, or other derivatives. I wrote this article myself, and it expresses my own op… [+1043 chars]"
     },
     {
       "source": {
@@ -213,6 +304,71 @@
       "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fa62ccf35-6a89-405f-88f4-859e5109cf66.jpg?source=next-barrier-page",
       "publishedAt": "2026-06-30T11:21:11Z",
       "content": "Then $75 per month. Complete digital access to quality FT journalism on any device. Cancel anytime during your trial."
+    },
+    {
+      "source": {
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
+      },
+      "author": "Jason Douglas, Junko Fukutome",
+      "title": "Japanese Yen Falls to 40-Year Low, Pleasing Tourists but Worrying Tokyo - WSJ",
+      "description": "The currency’s weakness is a problem in a country still not used to inflation",
+      "url": "https://www.wsj.com/finance/currencies/japanese-yen-falls-to-40-year-low-pleasing-tourists-but-worrying-tokyo-3903f1e5",
+      "urlToImage": "https://images.wsj.net/im-47324073/social",
+      "publishedAt": "2026-06-30T11:12:00Z",
+      "content": "TOKYOIf New Yorker John Caramichael is going to splurge a little, he would rather do it in Japan. \r\nWith the Japanese yen on Tuesday touching a 40-year low against the dollar, the 120,000 yen he spen… [+221 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Barron's"
+      },
+      "author": "Adam Clark",
+      "title": "How Nvidia Became a Chip Stock Loser—and Why It Might Stay That Way - Barron's",
+      "description": "Nvidia stock lags far behind the 94% gain for the PHLX Semiconductor Index for 2026 so far.",
+      "url": "https://www.barrons.com/articles/nvidia-stock-price-ai-chips-d7be8825",
+      "urlToImage": "https://images.barrons.com/im-81483218/social",
+      "publishedAt": "2026-06-30T11:10:38Z",
+      "content": "Nvidiastock rose Tuesday at the end of an underwhelming first half of the year. The chip maker is looking to its next-generation hardware to spark a rally but gains might be muted for a while yet.\r\nC… [+96 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Kitco NEWS"
+      },
+      "author": null,
+      "title": "Spot gold spikes to session high $4,048/oz after Consumer Confidence at 91.2 in June - KITCO",
+      "description": "(Kitco News) - Gold prices are trading at session highs after the latest data showed a mixed picture for U.S. consumer sentiment this month.The Consumer Confidence Index rose to 91.2 in June, below economists’ consensus forecast for a 94.2 reading but above t…",
+      "url": "https://www.kitco.com/news/article/2026-06-30/spot-gold-spikes-session-high-4048oz-after-consumer-confidence-912-june",
+      "urlToImage": "https://image-api.prod.kitco.com/image/54384448-6549-460f-9f15-8afe1b0a3067.jpeg?top=0&left=0&width=1000&height=562.78125&scale_width=1920&token=939356cde48a8963d99f727af9df5ce63c1d63871021eff82c1bedfbc0796a35",
+      "publishedAt": "2026-06-30T11:00:00Z",
+      "content": "(Kitco News) - Gold prices are trading at session highs after the latest data showed a mixed picture for U.S. consumer sentiment this month.\r\nThe Consumer Confidence Index rose to 91.2 in June, below… [+3098 chars]"
+    },
+    {
+      "source": {
+        "id": "fortune",
+        "name": "Fortune"
+      },
+      "author": "Jim Edwards",
+      "title": "AI stocks are in an ‘air pocket’, Meta and Microsoft traded like ‘bear market names - Fortune",
+      "description": "Everything you need to know before you reach the office this morning.",
+      "url": "https://fortune.com/2026/06/30/ai-stock-air-pocket-meta-microsoft-bear-market-dan-ives/",
+      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2024/07/GettyImages-1975339885-e1721383528935.jpg?resize=1200,600",
+      "publishedAt": "2026-06-30T10:35:00Z",
+      "content": "Were about to head into Q2 earnings season andas the recent market jolt around Apples price increase announcement showsinvestors are still nervous that this whole AI thing just isn't going to pan out… [+7252 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Benzinga"
+      },
+      "author": "Stjepan Kalinic",
+      "title": "Forget AMD And Micron — The Next Wave Of AI Winners Are The Ones Nobody Talks About - Benzinga",
+      "description": "Beyond NVIDIA: The AI trade is moving past chips. Explore the companies solving the huge physical bottlenecks in packaging and cooling.",
+      "url": "https://www.benzinga.com/analyst-stock-ratings/analyst-color/26/06/60180041/forget-amd-and-micron-the-next-wave-of-ai-winners-are-the-ones-nobody-talks-about",
+      "urlToImage": "https://cdn.benzinga.com/cdn-cgi/image/width=1200,height=800,fit=crop/files/images/story/2026/06/30/Creative-Ai-Background-With-Forex-Chart-.jpg",
+      "publishedAt": "2026-06-30T10:23:37Z",
+      "content": "However, that trade has become increasingly crowded. Valuations have expanded, money has flooded into cap-weighted ETFs, and the market has started treating AI and tech as interchangeable terms.\r\nYet… [+2119 chars]"
     },
     {
       "source": {
@@ -242,6 +398,32 @@
     },
     {
       "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "Joe Ciolli",
+      "title": "How Microsoft became the black sheep of the AI trade - Business Insider",
+      "description": "Shares are on pace to lose 18% in June, which would be Microsoft's worst month since 2000.",
+      "url": "https://www.businessinsider.com/microsoft-stock-price-outlook-ai-trade-oracle-parallels-black-sheep-2026-6#article",
+      "urlToImage": "https://i.insider.com/6a42de61e218c3b62535ef92?width=1200&format=jpeg",
+      "publishedAt": "2026-06-30T09:50:06Z",
+      "content": "When it comes to the elite group of AI stocks known as the Magnificent 7, the winners are pretty well-established.\r\nYou have Alphabet, which has established itself as the latest and greatest contende… [+3188 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "STAT"
+      },
+      "author": "John Wilkerson",
+      "title": "The loophole in Trump’s obesity drug deal with Eli Lilly and Novo Nordisk - statnews.com",
+      "description": "The Trump administration's grand bargain with drugmakers isn't working out as planned.",
+      "url": "https://www.statnews.com/2026/06/30/medicare-medicaid-glp1-costs-explained-balance-out-bridge-in/",
+      "urlToImage": "https://www.statnews.com/wp-content/uploads/2026/06/AdobeStock_1784070017_Editorial_Use_Only-1024x576.jpeg",
+      "publishedAt": "2026-06-30T09:39:08Z",
+      "content": "WASHINGTON The Trump administrations grand bargain with drugmakers on GLP-1s was based on a simple premise: lower prices in exchange for higher sales volume. Instead, the companies secured higher vol… [+794 chars]"
+    },
+    {
+      "source": {
         "id": "bloomberg",
         "name": "Bloomberg"
       },
@@ -268,19 +450,6 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": "Annika Kim Constantino",
-      "title": "Medicare will start covering obesity drugs for the first time. Here's what patients should know - CNBC",
-      "description": "The move could unlock millions of new patients for Novo Nordisk and Eli Lilly and expand access to medications that were previously out of reach for seniors.",
-      "url": "https://www.cnbc.com/2026/06/30/medicare-obesity-drug-glp-1-coverage-starting-july-1.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108139249-17461007952025-05-01t110135z_141929000_rc26x7av6mkm_rtrmadp_0_health-obesity-who.jpeg?v=1746100832&w=1920&h=1080",
-      "publishedAt": "2026-06-30T09:00:01Z",
-      "content": "Millions of older Americans in Medicare are about to receive a benefit that has never existed before: coverage of obesity drugs. \r\nStarting Wednesday, eligible beneficiaries can get GLP-1s to treat o… [+15066 chars]"
-    },
-    {
-      "source": {
         "id": "mashable",
         "name": "Mashable"
       },
@@ -290,19 +459,6 @@
       "url": "https://mashable.com/tech/quantum-computing-trump-eo-expainer",
       "urlToImage": "https://helios-i.mashable.com/imagery/articles/04BhEntSk9IDtEpzL642xYi/hero-image.fill.size_1200x675.v1782754265.jpg",
       "publishedAt": "2026-06-30T08:59:54Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Abcnews.com"
-      },
-      "author": "ABC News - Breaking News, Latest News and Videos",
-      "title": "Car crashes into cafe in Simi Valley, killing 1 and injuring 5 - ABC News - Breaking News, Latest News and Videos",
-      "description": null,
-      "url": "https://abcnews.com/US/tesla-crashes-cafe-simi-valley-killing-1-injuring/story?id\\\\u003d134327301",
-      "urlToImage": null,
-      "publishedAt": "2026-06-30T07:19:54Z",
       "content": null
     },
     {
@@ -334,28 +490,15 @@
     {
       "source": {
         "id": null,
-        "name": "Moneywise.com"
+        "name": "KABC-TV"
       },
-      "author": "Rudro Chakrabarti",
-      "title": "'Not constructive': Tim Cook blames Micron for Apple's $300 price hike. Micron suggests Apple helped cause the shortage - moneywise.com",
-      "description": "Apple raised prices across its lineup this week and blamed the chipmakers that supply its memory. One of those suppliers tells a different story about how the shortage started.",
-      "url": "https://moneywise.com/news/top-stories/tim-cook-apple-price-hike-micron",
-      "urlToImage": "https://media1.moneywise.com/production/articles/200062/facebook-thumb_hero-multi-header-1782793789721-1_20260630_003116.jpg",
-      "publishedAt": "2026-06-30T04:35:57Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Investing.com"
-      },
-      "author": "Investing.com",
-      "title": "Asia stocks rise on upbeat China PMI; tech spurs bumper quarter - Investing.com",
-      "description": "Asia stocks rise on upbeat China PMI; tech spurs bumper quarter",
-      "url": "https://www.investing.com/news/stock-market-news/asian-stocks-mixed-as-china-pmi-offsets-caution-ahead-of-us-jobs-data-4766836",
-      "urlToImage": "https://i-invdn-com.investing.com/news/LYNXNPEB6R07D_L.jpg",
-      "publishedAt": "2026-06-30T04:35:04Z",
-      "content": "Investing.com-- Most Asian stocks rose on Tuesday, with Chinese markets buoyed by stronger-than-expected business activity data, while strong gains in technology shares put regional bourses on track … [+3773 chars]"
+      "author": "Amy Powell",
+      "title": "Simi Valley crash: Woman struck, killed by Tesla outside Urbane Cafe restaurant - ABC7 Los Angeles",
+      "description": "A woman was killed when she was struck by a driver in a Tesla outside a restaurant in Simi Valley, authorities say.",
+      "url": "https://abc7.com/post/simi-valley-crash-1-killed-5-injured-car-slams-urbane-cafe-restaurant/19416545/",
+      "urlToImage": "https://cdn.abcotvs.com/dip/images/19418814_062926-kabc-11pm-simi-sidewalk-fatal-vid.jpg?w=1600",
+      "publishedAt": "2026-06-30T04:31:20Z",
+      "content": "SIMI VALLEY, Calif. (KABC) -- A 79-year-old woman was killed after being struck by a Tesla that ended up crashing into the outdoor seating area of a shopping center restaurant in Simi Valley on Monda… [+2062 chars]"
     },
     {
       "source": {
@@ -404,23 +547,10 @@
       "author": "WSJ",
       "title": "Exclusive | Warren Buffett Skips Midyear Donation to Gates Foundation as He Awaits Epstein Review - WSJ",
       "description": null,
-      "url": "https://www.wsj.com/business/warren-buffett-skips-midyear-donation-to-gates-foundation-amid-epstein-review-2290ef61",
+      "url": "https://www.wsj.com/business/warren-buffet-gates-foundation-epstein-2290ef61",
       "urlToImage": null,
       "publishedAt": "2026-06-30T01:08:00Z",
       "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Natesilver.net"
-      },
-      "author": "Joel Wertheimer",
-      "title": "Is the vibecession real — or is the survey broken? - Silver Bulletin",
-      "description": "A shift to online polling and undersampling of Republicans are skewing America’s most-cited measure of consumer sentiment.",
-      "url": "https://www.natesilver.net/p/is-the-vibecession-real-or-is-the",
-      "urlToImage": "https://substackcdn.com/image/fetch/$s_!yKha!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3234e86c-a944-4349-ac10-e964fccd255d_1024x683.jpeg",
-      "publishedAt": "2026-06-30T00:50:35Z",
-      "content": "Todays newsletter is a guest post from Joel Wertheimer. Joel is a civil rights attorney in New York and has served as a policy consultant to political candidates. He worked for President Obama from 2… [+10493 chars]"
     },
     {
       "source": {
@@ -489,6 +619,19 @@
     },
     {
       "source": {
+        "id": null,
+        "name": "MarketWatch"
+      },
+      "author": "William Gavin",
+      "title": "Rocket Lab to take on SpaceX’s Starlink with $8 billion acquisition - MarketWatch",
+      "description": "The company says it is buying Iridium Communications as a ‘shortcut’ to expanding its growing capabilities",
+      "url": "https://www.marketwatch.com/story/rocket-lab-to-take-on-spacexs-starlink-with-8-billion-acquisition-bf7ef649",
+      "urlToImage": "https://images.mktw.net/im-22494504/social",
+      "publishedAt": "2026-06-29T21:30:00Z",
+      "content": "Updated June 29, 2026, 5:30p.m. ET\r\nRocket Lab said Monday it plans to acquire Iridium Communications, positioning the expanding company as a head-on rival to SpaceX and its Starlink satellite-commun… [+397 chars]"
+    },
+    {
+      "source": {
         "id": "ars-technica",
         "name": "Ars Technica"
       },
@@ -516,41 +659,28 @@
     {
       "source": {
         "id": null,
-        "name": "Barron's"
+        "name": "Santa Barbara Independent"
       },
-      "author": "Al Root",
-      "title": "Tesla Stock Rises as Musk’s EV Maker Deepens Ties With SpaceX - Barron's",
-      "description": "Tesla stock rises. Elon Musk has been active on X recently. There are some tidbits for investors in his posts.",
-      "url": "https://www.barrons.com/articles/tesla-stock-price-musk-spacex-cbf394a8",
-      "urlToImage": "https://images.barrons.com/im-67240938/social",
-      "publishedAt": "2026-06-29T20:13:00Z",
-      "content": "After a tough week,Teslastock rose on Monday. Tweets from CEOElon Muskmight have helped.\r\nCopyright ©2026Dow Jones &amp; Company, Inc. All Rights Reserved. 87990cbe856818d5eddac44c7b1cdeb8"
+      "author": "The Santa Barbara Independent",
+      "title": "Santa Barbara City Council to Vote on Reopening State Street to Cars - The Santa Barbara Independent",
+      "description": null,
+      "url": "https://www.independent.com/2026/06/29/santa-barbara-city-council-to-vote-on-reopening-state-street-to-cars/",
+      "urlToImage": null,
+      "publishedAt": "2026-06-29T19:17:57Z",
+      "content": null
     },
     {
       "source": {
         "id": null,
-        "name": "Fox Business"
+        "name": "Barron's"
       },
-      "author": "Eric Revell",
-      "title": "Saks emerges from bankruptcy with a new name and a leaner store footprint - Fox Business",
-      "description": "Saks Global exits bankruptcy as Exemplar Luxury Group, cutting 75% of debt and closing 62 off-price stores including Saks OFF 5th locations.",
-      "url": "https://www.foxbusiness.com/markets/saks-emerges-from-bankruptcy-new-name-leaner-store-footprint",
-      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/01/0/0/saks-global-bankruptcy.jpg?ve=1&tl=1",
-      "publishedAt": "2026-06-29T19:17:00Z",
-      "content": "Luxury retailer Saks Global on Friday announced it will operate with a new name after it exited bankruptcy after cutting its store count and reducing its debt obligations.\r\nThe company – which is the… [+2932 chars]"
-    },
-    {
-      "source": {
-        "id": "usa-today",
-        "name": "USA Today"
-      },
-      "author": "Keith Laing",
-      "title": "Shoppers can soon save $3,500 on a new EV in California. Here's why - USA Today",
-      "description": "With new EV prices averaging nearly $55,000 and the federal government no longer offering tax credits, California is planning to offer $3,500 in instant rebates.",
-      "url": "https://www.usatoday.com/story/cars/shopping/evs/2026/06/29/california-3500-ev-rebate/90738351007/",
-      "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/05/05/USAT/89948723007-20260504-133709.jpg?crop=3000,1688,x0,y1156&width=3000&height=1688&format=pjpg&auto=webp",
-      "publishedAt": "2026-06-29T19:02:00Z",
-      "content": "<ul><li>California will offer a $3,500 instant rebate for new electric vehicle purchases.</li><li>The state is creating the program after the federal government ended its $7,500 tax credit.</li><li>F… [+4571 chars]"
+      "author": "Adam Clark",
+      "title": "Why Is Alphabet Stock (GOOGL) Up? Dow Entry and Google AI Limits on Meta. - Barron's",
+      "description": "Alphabet stock is rising Monday as the Google parent joins the Dow Jones Industrial Average.",
+      "url": "https://www.barrons.com/articles/alphabet-stock-price-google-dow-meta-limit-7f7838ff",
+      "urlToImage": "https://images.barrons.com/im-85531772/social",
+      "publishedAt": "2026-06-29T18:59:00Z",
+      "content": "Alphabetstock rose Monday on its first day of trading in theDow Jones Industrial Average.\r\nCopyright ©2026Dow Jones &amp; Company, Inc. All Rights Reserved. 87990cbe856818d5eddac44c7b1cdeb8"
     },
     {
       "source": {
@@ -567,110 +697,6 @@
     },
     {
       "source": {
-        "id": "bloomberg",
-        "name": "Bloomberg"
-      },
-      "author": "Ryan Vlastelica",
-      "title": "Microsoft’s $613 Billion Rout Sets Up Its Worst Month Since 2000 - Bloomberg.com",
-      "description": "Microsoft Corp. shares are heading for their worst month in years as investors continue to fret about how the software giant will fare in a world marked by artificial intelligence.",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-29/microsoft-s-570-billion-rout-sets-up-its-worst-month-since-2000",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iI0cojbseAbE/v1/1200x800.jpg",
-      "publishedAt": "2026-06-29T18:40:12Z",
-      "content": "Microsoft Corp. shares are heading for their worst month in years as investors continue to fret about how the software giant will fare in a world marked by artificial intelligence.\r\nThe stock has dro… [+158 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Barron's"
-      },
-      "author": "Mackenzie Tatananni",
-      "title": "Strategy Just Unveiled a Financial Overhaul: Bitcoin Sales, Dividends, and Stock Buybacks - Barron's",
-      "description": "Strategy is scrambling to reassure investors amid a slump in the price of its primary means for funding crypto purchases.",
-      "url": "https://www.barrons.com/articles/mstr-stock-buybacks-bitcoin-sales-f197e065",
-      "urlToImage": "https://images.barrons.com/im-94144980/social",
-      "publishedAt": "2026-06-29T18:27:00Z",
-      "content": "Strategyis rolling out a new financial framework to stabilize its business and reassure investors amid a prolonged slump in itsStretch preferred stock, the companys primary vehicle for fundingBitcoin… [+112 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": "Jessica Dickler",
-      "title": "IRS says Trump Account contributions will not trigger annual gift tax reporting requirements - CNBC",
-      "description": "Parents, guardians and others who contribute to a Trump Account will not be required to file a gift tax return, the IRS and Treasury Department said Monday.",
-      "url": "https://www.cnbc.com/2026/06/29/irs-trump-account-contributions-will-not-trigger-gift-tax-reporting.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108273538-1772640359534-gettyimages-2172231909-20240915-143304.jpeg?v=1772640401&w=1920&h=1080",
-      "publishedAt": "2026-06-29T18:05:12Z",
-      "content": "Contributions to Trump Accounts will not be subject to gift tax reporting under the safe harbor rules, according to guidance issued Monday by the U.S. Department of the Treasury and the Internal Reve… [+1588 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "OilPrice.com"
-      },
-      "author": "Alex Kimani",
-      "title": "ING Oil Prices Have Overshot To The Downside - Crude Oil Prices Today | OilPrice.com",
-      "description": "Global oil prices have collapsed back to pre-war levels, trading down near $70 per barrel, with a potential peace deal between the U.S. and Iran helping calm global markets and prompting the removal of massive war risk premiums from energy valuations.",
-      "url": "https://oilprice.com/Latest-Energy-News/World-News/ING-Oil-Prices-Have-Overshot-To-The-Downside.html",
-      "urlToImage": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-06-29_omqlk6voh0.jpg",
-      "publishedAt": "2026-06-29T18:00:00Z",
-      "content": "Azerbaijan and Turkmenistan signed a…\r\nBrent tops $73 as renewed…\r\nBy Alex Kimani - Jun 29, 2026, 1:00 PM CDTGlobal oil prices have collapsed back to pre-war levels, trading down near $70 per barrel,… [+2180 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Motley Fool"
-      },
-      "author": "Harsh Chauhan",
-      "title": "Prediction: Micron Technology Stock Is Going to $3,900 in 1 Year After Its Blowout Quarter - The Motley Fool",
-      "description": "Micron's phenomenal results and guidance suggest that the memory supercycle could supercharge the stock in the coming year.",
-      "url": "https://www.fool.com/investing/2026/06/29/prediction-micron-technology-stock-is-going-to-390/",
-      "urlToImage": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F876742%2Fmicron-technology-building-with-micon-logo-on-sign-and-building_micron.jpg&w=1200&op=resize",
-      "publishedAt": "2026-06-29T17:53:00Z",
-      "content": "Shares of Micron Technology(MU+0.90%) have shot up by a staggering 259% in 2026, as of this writing, and it looks like its red-hot rally isn't going to end any time soon.\r\nThe latest catalyst for Mic… [+4221 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Motley Fool"
-      },
-      "author": "Rachel Warren",
-      "title": "Here Are My Top \"Magnificent Seven\" Stocks to Buy Now - The Motley Fool",
-      "description": "These tech giants are turning expensive AI investments into healthy profit margins.",
-      "url": "https://www.fool.com/investing/2026/06/29/here-are-my-top-magnificent-seven-stocks-to-buy-no/",
-      "urlToImage": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F840447%2Fjumps-with-excitement-holding-phone-outdoors.jpg&w=1200&op=resize",
-      "publishedAt": "2026-06-29T17:00:00Z",
-      "content": "The \"Magnificent Seven\" continue to drive market momentum, but the landscape is shifting from a speculative infrastructure buildup to a rigorous execution phase. For long-term investors, the smart mo… [+3320 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Brian Sozzi",
-      "title": "Tech giants are not going to slash their AI spending plans, bullish tech analyst says - Yahoo Finance",
-      "description": "Expect big capital expenditure numbers this second quarter reporting season from the largest tech companies.",
-      "url": "https://finance.yahoo.com/markets/article/tech-giants-are-not-going-to-slash-their-ai-spending-plans-bullish-tech-analyst-says-165146278.html",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/CFF6CCACC958C883B1CD15B6D321841A111E62FBB9849E244C75EB9502208642/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-06%2F7ac24d44-1800-4fba-be95-d591ee4fe5a2",
-      "publishedAt": "2026-06-29T16:51:46Z",
-      "content": "Don't expect Big Tech CEOs to pull back on aggressive capital expenditure plans to appease weary shareholders.\r\nToday's hot take: \"My view is that this is an arms race. And if anyone cuts back, other… [+2392 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "KTVI Fox 2 St. Louis"
-      },
-      "author": "Michael Bartiromo, SavorNation",
-      "title": "Budweiser giving fans $6 to buy their own beer for America’s 250th: How to get one - FOX 2",
-      "description": "Budweiser is giving eligible Americans the chance to earn a $6 gift card they can spend on a beer (if they like) as a “thank you” for generations of patronage.",
-      "url": "https://fox2now.com/news/missouri/budweiser-giving-fans-6-to-buy-their-own-beer-for-americas-250th-how-to-get-one/",
-      "urlToImage": "https://fox2now.com/wp-content/uploads/sites/14/2024/11/snapshot-20.jpg?w=1280",
-      "publishedAt": "2026-06-29T16:45:16Z",
-      "content": "(SavorNation) In honor of the countrys upcoming birthday, Budweiser is giving eligible Americans the chance to earn a $6 gift card they can spend on a beer (if they like) as a thank you for generatio… [+1994 chars]"
-    },
-    {
-      "source": {
         "id": "the-verge",
         "name": "The Verge"
       },
@@ -681,32 +707,6 @@
       "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/Govee-Uplighter-Floor-Lamps5.webp?quality=90&strip=all&crop=0%2C3.4475213908639%2C100%2C93.104957218272&w=1200",
       "publishedAt": "2026-06-29T16:42:48Z",
       "content": "<ul><li></li><li></li><li></li></ul>\r\nPrime Day just ended, though some familiar deals are still kicking around ahead of Americas birthday.\r\nPrime Day just ended, though some familiar deals are still… [+1677 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": "MacKenzie Sigalos",
-      "title": "Alphabet stock pops 4% on Dow debut, but the tech giant faces major AI questions - CNBC",
-      "description": "Alphabet shares rose Monday as the company joined the Dow, but the blue-chip milestone comes as the stock remains under pressure.",
-      "url": "https://www.cnbc.com/2026/06/29/alphabet-googl-stock-dow-average.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108309435-1779226823798-gettyimages-2276602257-GOOGLE_IO.jpeg?v=1779226907&w=1920&h=1080",
-      "publishedAt": "2026-06-29T16:00:53Z",
-      "content": "Alphabet shares rose 4% on Monday as the company officially joined the Dow Jones Industrial Average, replacing Verizon and adding a symbolic blue-chip designation.\r\nThe move comes despite continued p… [+2103 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "SpaceNews"
-      },
-      "author": "Jeff Foust",
-      "title": "Beck: Iridium acquisition the “logical next step” for Rocket Lab - SpaceNews",
-      "description": "Beck: Iridium acquisition the “logical next step” for Rocket Lab",
-      "url": "https://spacenews.com/beck-iridium-acquisition-the-logical-next-step-for-rocket-lab/",
-      "urlToImage": "https://spacenews.com/wp-content/uploads/2026/06/beck-irdmacq.jpeg",
-      "publishedAt": "2026-06-29T15:20:45Z",
-      "content": "WASHINGTON Rocket Labs chief executive says the companys acquisition of Iridium was the logical next step in his ambitions to tap into the lucrative space services market.\r\nRocket Lab announced June … [+3242 chars]"
     },
     {
       "source": {
@@ -750,19 +750,6 @@
     {
       "source": {
         "id": null,
-        "name": "Quartz India"
-      },
-      "author": "https://qz.com/author/cristolomia",
-      "title": "Trump bought Axon stock before ICE sought $220M Taser contract - qz.com",
-      "description": "Trump purchased Axon Enterprise stock on Feb. 10. ICE posted a notice seeking roughly 17,800 new Tasers on Feb. 24",
-      "url": "https://qz.com/trump-axon-stock-ice-taser-contract-062926",
-      "urlToImage": "https://qz.com/cdn-cgi/image/width=1200,quality=85,format=auto/https://assets.qz.com/media/GettyImages-1229498717-300x200.jpg",
-      "publishedAt": "2026-06-29T12:46:06Z",
-      "content": "Trump bought Axon stock before ICE sought $220M Taser contract"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "AL.com"
       },
       "author": "AL.com",
@@ -772,6 +759,19 @@
       "urlToImage": null,
       "publishedAt": "2026-06-29T12:20:00Z",
       "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "NPR"
+      },
+      "author": "Geoff Brumfiel",
+      "title": "Red, white and glowing blue: Trump's push for new reactors reaches the finish line - NPR",
+      "description": "A program initiated by the Trump administration has allowed small companies to rush their testing of several new nuclear reactor designs. Some worry that safety is being compromised.",
+      "url": "https://www.npr.org/2026/06/29/nx-s1-5847944/new-nuclear-reactors-america-250-safety-concerns",
+      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2048x1152+0+213/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F13%2F65%2Fe0daaeb5476aa81f3476f40f2415%2Fvalar-tent.jpg",
+      "publishedAt": "2026-06-29T09:00:00Z",
+      "content": "A little over a year ago, President Trump set an ambitious goal: He wanted to see American companies build at least three new experimental nuclear reactors by July 4, 2026, the 250th anniversary of t… [+4627 chars]"
     },
     {
       "source": {

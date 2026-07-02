@@ -3,164 +3,60 @@
   "country": "us",
   "category": "business",
   "mode": "country",
-  "fetched_at": "2026-07-02T17:26:21.245492+00:00",
-  "articles_count": 60,
+  "fetched_at": "2026-07-02T19:02:39.285971+00:00",
+  "articles_count": 34,
   "articles": [
     {
       "source": {
-        "id": null,
-        "name": "CNBC"
+        "id": "google-news",
+        "name": "Google News"
       },
-      "author": "CNBC",
-      "title": "American Airlines brings grab-and-go lounge to New York's JFK - CNBC",
+      "author": "Reuters",
+      "title": "Kroger to buy grocer Giant Eagle in $1.65 billion deal as competition heats up - Reuters",
       "description": null,
-      "url": "https://www.cnbc.com/2026/06/30/american-airlines-louge-new-york-jfk.html",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOU0xTcWNLdGw2QWFGbUtjLTBIcjFtQXIybUdxTlRJdE9lV0F4ZlZsWkxndjgxek5UWVRuX1ZtVEFMbHRSaC1LaV9jd2IxNGphblY3X1NjZWtKbEtfalM3VzJxX2R1anJYM2JMS0NpSzM0S0MzSGZsSjVXTEx5R1FsOU1pMkZWTURwYl9IT2g0Tk9SenMyeFFfd2Z3dw?oc=5",
       "urlToImage": null,
-      "publishedAt": "2026-06-30T18:00:01Z",
+      "publishedAt": "2026-07-01T16:47:34Z",
       "content": null
     },
     {
       "source": {
         "id": null,
-        "name": "Anthropic.com"
+        "name": "New York Post"
       },
-      "author": "Anthropic",
-      "title": "Introducing Claude Sonnet 5 - Anthropic",
-      "description": null,
-      "url": "https://www.anthropic.com/news/claude-sonnet-5",
-      "urlToImage": null,
-      "publishedAt": "2026-06-30T17:58:16Z",
-      "content": null
+      "author": "Aurielle Weiss",
+      "title": "Multiple states installing new gas tax this week — as others plan to soon follow suit - New York Post",
+      "description": "States across the country are increasing their gas tax right as the Fourth of July weekend approaches — happy birthday, America.",
+      "url": "https://nypost.com/2026/07/01/lifestyle/california-installs-new-gas-tax-as-other-states-follow-suit/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/07/crop-39854950.jpg?quality=75&strip=all&w=1200",
+      "publishedAt": "2026-07-01T16:45:00Z",
+      "content": "With summer in full swing, gas prices are shifting into high gear.\r\nStates across the country are increasing their gas tax right as the Fourth of July weekend approaches happy birthday, America. The … [+4530 chars]"
     },
     {
       "source": {
-        "id": null,
-        "name": "STAT"
+        "id": "ars-technica",
+        "name": "Ars Technica"
       },
-      "author": "Matthew Herper, Brittany Trang",
-      "title": "Anthropic releases Claude Science, a product aimed at researchers, the pharma industry - statnews.com",
-      "description": "Anthropic released Claude Science, an application that optimizes its large language model for scientists and, especially, those doing research at pharma companies.",
-      "url": "https://www.statnews.com/2026/06/30/anthropic-release-claude-science-ceo-dario-amodei/",
-      "urlToImage": "https://www.statnews.com/wp-content/uploads/2026/06/ANT_BRIEFING_SF_JPEG_02-1024x576.jpg",
-      "publishedAt": "2026-06-30T17:00:10Z",
-      "content": "SAN FRANCISCO Anthropic, the artificial intelligence firm, on Tuesday announced the availability of Claude Science, an application that optimizes the companys large language model for use in scientif… [+845 chars]"
+      "author": "Ashley Belanger",
+      "title": "After spooking Trump into safety testing, Anthropic AI models get global release - Ars Technica",
+      "description": "US lifts curbs on Anthropic’s advanced Fable and Mythos models.",
+      "url": "https://arstechnica.com/tech-policy/2026/07/after-spooking-trump-into-safety-testing-anthropic-ai-models-get-global-release/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2280258777-1024x648.jpg",
+      "publishedAt": "2026-07-01T16:44:18Z",
+      "content": null
     },
     {
       "source": {
         "id": null,
         "name": "CNBC"
       },
-      "author": "Laya Neelakandan",
-      "title": "Nike is set to report earnings after the bell. Here's what to expect - CNBC",
-      "description": "Nike is expected to report another quarter of declining sales as the sneaker giant struggles to regain strength under its turnaround strategy.",
-      "url": "https://www.cnbc.com/2026/06/30/nike-nke-q4-2026-earnings.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108297266-1777127244178-gettyimages-2272978539-anotherday208771149_942vh80l.jpeg?v=1777127293&w=1920&h=1080",
-      "publishedAt": "2026-06-30T16:00:01Z",
-      "content": "Nike is set to report fiscal fourth-quarter results after the bell Tuesday as the shoe retailer struggles to regain sales growth and turn around its business under CEO Elliott Hill.\r\nThe company prev… [+2748 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Fox Business"
-      },
-      "author": "Madison Colombo",
-      "title": "Bessent warns gas stations 'we're watching' as Trump demands immediate price cuts - Fox Business",
-      "description": "Scott Bessent warns gasoline retailers the Trump administration is watching pump prices and expects them to pass crude oil savings to consumers.",
-      "url": "https://www.foxbusiness.com/media/bessent-warns-gas-stations-were-watching-threat-trump-demands-immediate-price-cuts",
-      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/06/0/0/scott-bessent-gas-prices-fox-news.jpg?ve=1&tl=1",
-      "publishedAt": "2026-06-30T15:41:00Z",
-      "content": "Treasury Secretary Scott Bessent warned gasoline retailers that the Trump administration is \"watching\" pump prices and expects them to pass lower oil costs on to Americans.\r\nSpeaking on \"Fox &amp; Fr… [+2454 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Russell Brandom",
-      "title": "Amazon launches new $1 billion FDE org, following OpenAI and Anthropic - TechCrunch",
-      "description": "Engineers on the new team will embed within companies to deploy purpose-built agents, focusing on fast deployments and customer self-sufficiency.",
-      "url": "https://techcrunch.com/2026/06/30/amazon-launches-new-1-billion-fde-org-following-openai-and-anthropic/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/06/e76ca02d-634a-44c9-a514-ce1b84d4d1ba.jpeg?resize=800,1200",
-      "publishedAt": "2026-06-30T15:00:00Z",
-      "content": "As companies struggle to integrate AI, theyre increasingly ready to bring in outside help and service providers are launching new purpose-built groups to make sure they get it.\r\nOn Tuesday, Amazon We… [+2122 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theblock.co"
-      },
-      "author": "Kyle Baird",
-      "title": "Visa, Stripe, Coinbase and more join Open USD stablecoin that shares reserve revenue - The Block",
-      "description": "Expected to launch later this year, Open Standard said businesses will be able to mint and redeem Open USD without fees or volume limits.",
-      "url": "https://www.theblock.co/post/406736/visa-stripe-coinbase-join-open-usd-stablecoin-shares-reserve-revenue",
-      "urlToImage": "https://www.tbstat.com/wp/uploads/2021/07/20210712_Finance_Crypto_Move-1200x675.jpg",
-      "publishedAt": "2026-06-30T14:57:18Z",
-      "content": "More than 140 companies, including Visa, Stripe, Mastercard, BlackRock and Coinbase have joined Open Standard to launch Open USD (OUSD), a new stablecoin that shares most of the earnings from its res… [+2693 chars]"
-    },
-    {
-      "source": {
-        "id": "axios",
-        "name": "Axios"
-      },
-      "author": "Caitlin Owens",
-      "title": "Exclusive: FDA allows ZYN to sell pouches on health benefits - Axios",
-      "description": "The pouches can be marketed as less risky than cigarettes.",
-      "url": "https://www.axios.com/2026/06/30/fda-zyn-health-marketing",
-      "urlToImage": "https://images.axios.com/-L78Iak6cQBcP8RqzJDUPs3Nhpw=/1366x768/smart/2024/12/11/164023-1733935223053.jpg",
-      "publishedAt": "2026-06-30T14:56:58Z",
-      "content": "Driving the news: The FDA will allow 20 Zyn products to be marketed with the claim that \"using ZYN instead of cigarettes puts you at a lower risk of mouth cancer, heart disease, lung cancer, stroke, … [+1245 chars]"
-    },
-    {
-      "source": {
-        "id": "cnn",
-        "name": "CNN"
-      },
-      "author": "Alicia Wallace",
-      "title": "US job openings were much higher than expected in May, shrugging off uncertainty from Iran war - CNN",
-      "description": "Good news for job seekers: The number of available positions in the United States increased for the second month in a row.",
-      "url": "https://www.cnn.com/2026/06/30/economy/us-jolts-job-openings-layoffs-may",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2280053681.jpg?c=16x9&q=w_800,c_fill",
-      "publishedAt": "2026-06-30T14:18:02Z",
-      "content": "Good news for job seekers: The number of available positions in the United States increased for the second month in a row.\r\nNew data Tuesday showed that the estimated number of job openings ticked hi… [+4120 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Abcnews.com"
-      },
-      "author": "MICHELLE CHAPMAN AP business writer",
-      "title": "Ford recalling more than 741,00 vehicles because of park system issue - ABC News - Breaking News, Latest News and Videos",
-      "description": "Ford is recalling more than 741,000 vehicles in the U.S. because a transmission issue may damage the park system, which could increase the risk of a crash or injury",
-      "url": "https://abcnews.com/Business/wireStory/ford-recalling-74100-vehicles-park-system-issue-134337363",
-      "urlToImage": "https://i.abcnewsfe.com/a/2974e30d-4e48-4492-8f18-6f3d9d18e55f/wirestory_12757a92112e7cf242616f3b97590288_16x9.jpg?w=1600",
-      "publishedAt": "2026-06-30T14:16:45Z",
-      "content": "Ford is recalling more than 741,000 vehicles in the U.S. because a transmission issue may damage the park system, which could increase the risk of a crash or injury.\r\nThe National Highway Traffic Saf… [+1423 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Barron's"
-      },
-      "author": "Callum Keown",
-      "title": "SMCI Stock: Dell Could Get a Boost From Latest Super Micro Raid - Barron's",
-      "description": "SMCI stock tumbled after Taiwanese investigators raided the company's offices. Dell stock climbed.",
-      "url": "https://www.barrons.com/articles/super-micro-smci-stock-raid-dell-c35f0183",
-      "urlToImage": "https://images.barrons.com/im-17696702/social",
-      "publishedAt": "2026-06-30T14:07:00Z",
-      "content": "All artificial-intelligence stocks are risky, butSuper Micro Computerseems riskier than others.\r\nCopyright ©2026Dow Jones &amp; Company, Inc. All Rights Reserved. 87990cbe856818d5eddac44c7b1cdeb8"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Financial Times"
-      },
-      "author": "Malcolm Moore, Rachel Millard",
-      "title": "BP deputy chief to leave company in latest upheaval at oil major - Financial Times",
-      "description": "Carol Howle, the trading chief appointed deputy CEO less than three months ago, is set to retire",
-      "url": "https://www.ft.com/content/17f90a69-7c33-4b6b-a92d-eb944a101251?syn-25a6b1a6\\\\u003d1",
-      "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fc9cac305-3e45-4cda-ac7b-c1729639a386.jpg?source=next-barrier-page",
-      "publishedAt": "2026-06-30T14:00:07Z",
-      "content": "Then $75 per month. Complete digital access to quality FT journalism on any device. Cancel anytime during your trial."
+      "author": "Jeff Cox",
+      "title": "Fed Chief Kevin Warsh declines to hint at July rate decision, but says inflation 'too high' - CNBC",
+      "description": "The Fed chairman joined a panel of other central bank leaders Wednesday at the ECB Forum on Central Banking in Sintra, Portugal.",
+      "url": "https://www.cnbc.com/2026/07/01/kevin-warsh-ecb-forum-live-updates.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108329263-1782911809608-Warsh4.jpg?v=1782911890&w=1920&h=1080",
+      "publishedAt": "2026-07-01T16:19:00Z",
+      "content": "Federal Reserve Chairman Kevin Warsh, in comments Wednesday at the ECB Forum on Central Banking, declined to give any signal as to what the central bank may do at its meeting later this month, but di… [+1422 chars]"
     },
     {
       "source": {
@@ -168,77 +64,64 @@
         "name": "The Verge"
       },
       "author": "Emma Roth",
-      "title": "iPhone 18 Pro ‘drop test’ leaks get yanked from X - The Verge",
-      "description": "At least one X account that posted videos supposedly showing the iPhone 18 Pro undergoing a drop test has been suspended from the platform, after a data breach at an Apple supplier reportedly leaked info on the upcoming phone.",
-      "url": "https://www.theverge.com/tech/959474/iphone-18-pro-leaked-videos-pulled",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STK071_APPLE_E.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "publishedAt": "2026-06-30T13:57:41Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nA data breach at a supplier reportedly leaked iPhone 18 Pro pictures and videos.\r\nA data breach at a supplier reportedly leaked iPhone 18 Pro pictures and videos… [+2591 chars]"
+      "title": "Comcast’s split could make or break Peacock - The Verge",
+      "description": "Comcast’s plan to split NBCUniversal from its wireless and broadband business will show whether Peacock has what it takes to survive as a standalone streaming service.",
+      "url": "https://www.theverge.com/streaming/960235/comcast-breakup-peacock-streaming",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24002656/acastro_STK105_peacock_01.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2026-07-01T15:30:00Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nPeacock will have to prove it can survive on its own following Comcasts split from NBCUniversal.\r\nPeacock will have to prove it can survive on its own following … [+4844 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Deadline"
+        "name": "Barron's"
       },
-      "author": "Dade Hayes",
-      "title": "Comcast Split Shows Bigger Is No Longer Seen As Better In The Media Business - Deadline",
-      "description": "Comcast's plan to split into two smaller companies may mark the unofficial end of \"all under one roof\" consolidation in media.",
-      "url": "http://deadline.com/2026/06/comcast-split-media-business-mergers-tech-rivals-1236970457/",
-      "urlToImage": "https://deadline.com/wp-content/uploads/2024/11/NBCUniversal-building.jpg?w=1024",
-      "publishedAt": "2026-06-30T13:51:00Z",
-      "content": "Comcast‘s jumpstart to the week – a plan revealed Monday to split into two smaller companies – signals the end of “all under one roof” consolidation in media.\r\nThings have been trending this way for … [+4446 chars]"
+      "author": "Adam Clark, Mackenzie Tatananni",
+      "title": "Meta Stock Surges on Report It’s Building a Cloud Business. CoreWeave Drops. - Barron's",
+      "description": "Meta rises on a report that it hopes to generate revenue from selling excess computing power to third parties. CoreWeave and Nebius are falling.",
+      "url": "https://www.barrons.com/articles/meta-stock-ai-cloud-coreweave-nebius-1e35955b",
+      "urlToImage": "https://images.barrons.com/im-02119285/social",
+      "publishedAt": "2026-07-01T15:16:00Z",
+      "content": "Shares ofMeta Platformsspiked following a report that the company might launch build a cloud business to sell excess artificial-intelligence computing capacity.\r\nCopyright ©2026Dow Jones &amp; Compan… [+60 chars]"
     },
     {
       "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
+        "id": "google-news",
+        "name": "Google News"
       },
-      "author": "Amalya Dubrovsky",
-      "title": "Stock market today: Dow, S&P 500, Nasdaq waver after record-setting session - Yahoo Finance",
-      "description": "Investors assessed a remarkable run-up in chip stocks in the first half of the year and the dollar's growing strength.",
-      "url": "https://finance.yahoo.com/markets/live/stock-market-today-sp-500-nasdaq-rise-dow-eyes-fresh-record-to-wrap-up-standout-quarter-224823556.html",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/D660D0D144907F36E2DA9AC91401C523E3D8229EB858444F7CF23F72781B2124/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2025-04%2Fec530b50-1eb3-11f0-9fb4-3931ade834e4",
-      "publishedAt": "2026-06-30T13:47:47Z",
-      "content": "US stocks rose on Tuesday after a record-setting start to the week, as investors assessed a remarkable run-up in chip stocks in the first half of the year and the dollar's growing strength.\r\nThe Dow … [+1669 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Quartz India"
-      },
-      "author": "Cris Tolomia",
-      "title": "Judge refuses to dismiss state AGs' Meta child addiction lawsuit - Yahoo",
-      "description": "A federal judge in Oakland let most claims stand, ruling Meta's platform design practices plausibly constitute unfair conduct under consumer protection law",
-      "url": "https://qz.com/meta-state-ags-lawsuit-child-addiction-dismissed-063026",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/32ee31b040d0132d38255d2d288b4f45b19d26713eceb6ec1b26c7700a722f2d/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fquartz_855%2F7dead5f1a97d8ea306a35577f78ac1f9",
-      "publishedAt": "2026-06-30T13:38:56Z",
-      "content": "Meta lost its bid to dismiss a lawsuit brought by dozens of state attorneys general accusing it of designing Facebook and Instagram to be addictive to children and knowingly concealing the resulting … [+3075 chars]"
+      "author": "CNBC",
+      "title": "GM reports 4.2% decline in Q2 U.S. sales as EV demand falls - CNBC",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPWUxWSl9BZWlJY0VTQzFzXzBuSGF1eExuQ1Y4SnBzYXNPdDlwcTQyUFlOSFNZa0IySDlGXy1MMjdMcmItS2NRV2xJQVVCRVBzOGowblpvZGdGbnBXUDNrWUR5TkNfbnFncnQ4QnRUOGY3S0E0ZmdnbDhVblRGWjc3Z3pCZThBZ9IBiwFBVV95cUxOREJUb0JIbWtYR2F3SF9wYjlFbTFuS0ZzaFVBZko3OGVIUjg4LUxpSlF0NzQ2dGJOaTlONE5qSzRZbXI1R3Btb1pHRGYzbzJMd3VBZjRERnU4QjBsYTVZbWJmMjZOeWVMNWdtZE9FTmg3R3ppWXN4Wmw3WFVYR2R1QXo1bTFDVnZsdlVz?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2026-07-01T15:02:25Z",
+      "content": null
     },
     {
       "source": {
         "id": null,
         "name": "CNBC"
       },
-      "author": "Diana Olick",
-      "title": "How JLL’s investment arm is betting big on industrial real estate - CNBC",
-      "description": "Allan Swaringen, CEO of JLL IPT, is \"bullish\" on industrial, as new opportunities continue to present themselves and returns are now better than in multifamily.",
-      "url": "https://www.cnbc.com/2026/06/30/jll-investment-arm-industrial-real-estate.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108194395-1757001747244-gettyimages-1355472528-img_20211119_123450.jpeg?v=1782492366&w=1920&h=1080",
-      "publishedAt": "2026-06-30T13:00:01Z",
-      "content": null
+      "author": "Samantha Subin",
+      "title": "Palantir's Karp bashes OpenAI, Anthropic token model: 'Something has gone completely wrong' - CNBC",
+      "description": "Karp says skyrocketing token costs are forcing companies to choose open-weight models and prioritize efficiency over so-called tokenmaxxing",
+      "url": "https://www.cnbc.com/2026/07/01/palantir-karp-open-ai-anthropic-tokens.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108319546-1781102137226-Karp4.jpg?v=1781102197&w=1920&h=1080",
+      "publishedAt": "2026-07-01T14:25:10Z",
+      "content": "Palantir CEO Alex Karp on Wednesday criticized the token model used by U.S. artificial intelligence labs Anthropic and OpenAI as costs skyrocket. \r\n\"I'm not throwing shade at them, but something has … [+1522 chars]"
     },
     {
       "source": {
-        "id": null,
-        "name": "WSBT-TV"
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
       },
-      "author": "WSBT 22",
-      "title": "BREAKING: Patrick Industries and Lippert reach final merger deal - WSBT",
-      "description": "Patrick Industries and Lippert have reached a definitive merger agreement.This comes after the companies called off merger talks just two months ago.RELATED: Li",
-      "url": "https://wsbt.com/news/local/patrick-industries-lippert-announce-merger-rv-suppliers-companies-recreational-vehicles-combined-company-shareholders-elkhart-indiana",
-      "urlToImage": "https://wsbt.com/resources/media2/16x9/1920/1320/center/90/d76afc4b-a3e7-45df-9368-2d19d14c3135-LippertPatrick.jpg",
-      "publishedAt": "2026-06-30T12:40:13Z",
-      "content": "ELKHART, Ind. (WSBT) Patrick Industries and Lippert have reached a definitive merger agreement.\r\nThis comes after the companies called off merger talks just two months ago.\r\nRELATED:Lippert Industrie… [+863 chars]"
+      "author": "Freddy Sebastian",
+      "title": "French Shipping Company CMA CGM to Buy FedEx Supply Chain for $1.4 Billion - WSJ",
+      "description": "Following the deal, the companies will enter into multiyear commercial agreements related to air and ocean freight",
+      "url": "https://www.wsj.com/business/logistics/french-shipping-company-cma-cgm-to-buy-fedex-supply-chain-for-1-4-billion-dc179ab9",
+      "urlToImage": "https://images.wsj.net/im-84588079/social",
+      "publishedAt": "2026-07-01T14:01:13Z",
+      "content": null
     },
     {
       "source": {
@@ -246,506 +129,311 @@
         "name": "Investor's Business Daily"
       },
       "author": null,
-      "title": "Drone Company AeroVironment Skyrockets 30% After Revenue, Backlog Double - Investor's Business Daily",
-      "description": "The drone company Aerovironment smashed analysts' expectations when it reported earnings before the open on Tuesday.",
-      "url": "https://www.investors.com/news/drone-aerovironment-pentagon-trump-aerospace-defense-elbit-kratos/",
-      "urlToImage": "https://www.investors.com/wp-content/uploads/2025/09/Stock-AeroVironment-switchblade-shut.jpg",
-      "publishedAt": "2026-06-30T12:29:00Z",
+      "title": "Wedbush Initiates SpaceX Coverage With 'Outperform' Rating, $190 Price Target - Investor's Business Daily",
+      "description": "Analysts at Wedbush gave SpaceX an \"outperform\" rating with a price target of $190 a share. The stock fell 4.5% on Wednesday morning.",
+      "url": "https://www.investors.com/news/spacex-tesla-elon-musk-wedbush-dan-ives-ai-data-centers/",
+      "urlToImage": "https://www.investors.com/wp-content/uploads/2018/07/Stock-SpaceXfalcon9-10-company.jpg",
+      "publishedAt": "2026-07-01T13:59:00Z",
       "content": "Information in Investors Business Daily is for informational and educational purposes only and should not be construed as an offer, recommendation, solicitation, or rating to buy or sell securities. … [+1064 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Yahoo Entertainment"
+        "name": "Hollywood Reporter"
       },
-      "author": "Vlad Schepkov",
-      "title": "Magnificent 7 stocks lose $2.3 trillion in June - Yahoo Finance",
-      "description": "Investing.com -- The \"Magnificent 7\" group of technology companies lost approximately $2.3 trillion in market value this month as investors increased scrutin...",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/magnificent-7-stocks-lose-2-122836497.html",
-      "urlToImage": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
-      "publishedAt": "2026-06-30T12:28:36Z",
-      "content": "Investing.com -- The \"Magnificent 7\" group of technology companies lost approximately $2.3 trillion in market value this month as investors increased scrutiny of large infrastructure spending by thes… [+1498 chars]"
-    },
-    {
-      "source": {
-        "id": "business-insider",
-        "name": "Business Insider"
-      },
-      "author": "Geoff Weiss",
-      "title": "Nvidia's culture of frugality extends all the way to the cafeteria - Business Insider",
-      "description": "Nvidia stands out in Silicon Valley by offering minimal perks, focusing on work-life balance and frugality under CEO Jensen Huang's leadership.",
-      "url": "https://www.businessinsider.com/nvidia-skips-one-of-silicon-valleys-oldest-traditions-free-food-2026-6#article",
-      "urlToImage": "https://i.insider.com/6a429ffd360acd489560d032?width=1200&format=jpeg",
-      "publishedAt": "2026-06-30T12:22:30Z",
-      "content": "Unlike many of its Big Tech peers, there's no free lunch at Nvidia.\r\nA recent X thread by software engineer and industry analyst Gergely Orosz, who claimed that snacks and coffee aren't free at the c… [+2752 chars]"
+      "author": "Scott Roxborough",
+      "title": "Paramount to Exit Universal Distribution Joint Venture to Win EU Approval for Warner Bros. Merger - The Hollywood Reporter",
+      "description": "Paramount Skydance will pull out of United International Pictures, its international distribution joint venture with Universal, to allay antitrust concerns voiced by European cinema operators.",
+      "url": "http://www.hollywoodreporter.com/business/business-news/paramount-to-exit-uip-to-win-eu-approval-for-warner-merger-1236634547/",
+      "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2026/05/GettyImages-2271646963.jpg?w=1440&h=810&crop=1",
+      "publishedAt": "2026-07-01T13:53:07Z",
+      "content": "Paramount Skydance has committed to withdrawing from United International Pictures, its film distribution joint venture with Universal Pictures, as a condition for securing approval from the European… [+1975 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Seeking Alpha"
+        "name": "CNET"
       },
-      "author": "Rida Morwa",
-      "title": "2 Dividend Compounders To Generate Income For Life - Seeking Alpha",
-      "description": "A resilient income stream starts with investments that complement each other. Click here to know why income investors should consider O and MO stocks.",
-      "url": "https://seekingalpha.com/article/4918500-2-dividend-compounders-to-generate-income-for-life",
-      "urlToImage": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1410693132/image_1410693132.jpg?io=getty-c-w1536",
-      "publishedAt": "2026-06-30T11:35:00Z",
-      "content": "Analysts Disclosure: I/we have a beneficial long position in the shares of O, MO either through stock ownership, options, or other derivatives. I wrote this article myself, and it expresses my own op… [+1043 chars]"
+      "author": "See full bio",
+      "title": "Best Fourth of July Deals Under $50 on Ninja, Anker and Samsung - CNET",
+      "description": "Save on everything from tech and home essentials to summer must-haves without blowing your budget.",
+      "url": "https://www.cnet.com/deals/july-4-early-deals-under-50-2026-07-01/",
+      "urlToImage": "https://www.cnet.com/a/img/resize/3c11840803ffab8a510d37d43dd82b187725ae89/hub/2026/07/01/777af715-7a92-4a53-bccc-90554a3fa358/july-4-under-50-deals.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2026-07-01T13:43:38Z",
+      "content": "Amazon's Prime Day sale wrapped up last week but if you didn't quite finish checking off your shopping list, don't sweat it. Fourth of July deals are already cropping up everywhere. We love a good ex… [+9063 chars]"
     },
     {
       "source": {
-        "id": null,
-        "name": "Financial Times"
+        "id": "google-news",
+        "name": "Google News"
       },
-      "author": "Leslie Hook",
-      "title": "Gold heads for worst quarter in more than a decade as retail frenzy fades - Financial Times",
-      "description": "Expectations of higher interest rates fuelled by Iran war help end bullion’s record rally",
-      "url": "https://www.ft.com/content/ca75b117-f085-45be-95c1-7397d3b0797a?syn-25a6b1a6\\\\u003d1",
-      "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fa62ccf35-6a89-405f-88f4-859e5109cf66.jpg?source=next-barrier-page",
-      "publishedAt": "2026-06-30T11:21:11Z",
-      "content": "Then $75 per month. Complete digital access to quality FT journalism on any device. Cancel anytime during your trial."
-    },
-    {
-      "source": {
-        "id": "the-wall-street-journal",
-        "name": "The Wall Street Journal"
-      },
-      "author": "Jason Douglas, Junko Fukutome",
-      "title": "Japanese Yen Falls to 40-Year Low, Pleasing Tourists but Worrying Tokyo - WSJ",
-      "description": "The currency’s weakness is a problem in a country still not used to inflation",
-      "url": "https://www.wsj.com/finance/currencies/japanese-yen-falls-to-40-year-low-pleasing-tourists-but-worrying-tokyo-3903f1e5",
-      "urlToImage": "https://images.wsj.net/im-47324073/social",
-      "publishedAt": "2026-06-30T11:12:00Z",
-      "content": "TOKYOIf New Yorker John Caramichael is going to splurge a little, he would rather do it in Japan. \r\nWith the Japanese yen on Tuesday touching a 40-year low against the dollar, the 120,000 yen he spen… [+221 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Barron's"
-      },
-      "author": "Adam Clark",
-      "title": "How Nvidia Became a Chip Stock Loser—and Why It Might Stay That Way - Barron's",
-      "description": "Nvidia stock lags far behind the 94% gain for the PHLX Semiconductor Index for 2026 so far.",
-      "url": "https://www.barrons.com/articles/nvidia-stock-price-ai-chips-d7be8825",
-      "urlToImage": "https://images.barrons.com/im-81483218/social",
-      "publishedAt": "2026-06-30T11:10:38Z",
-      "content": "Nvidiastock rose Tuesday at the end of an underwhelming first half of the year. The chip maker is looking to its next-generation hardware to spark a rally but gains might be muted for a while yet.\r\nC… [+96 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Kitco NEWS"
-      },
-      "author": null,
-      "title": "Spot gold spikes to session high $4,048/oz after Consumer Confidence at 91.2 in June - KITCO",
-      "description": "(Kitco News) - Gold prices are trading at session highs after the latest data showed a mixed picture for U.S. consumer sentiment this month.The Consumer Confidence Index rose to 91.2 in June, below economists’ consensus forecast for a 94.2 reading but above t…",
-      "url": "https://www.kitco.com/news/article/2026-06-30/spot-gold-spikes-session-high-4048oz-after-consumer-confidence-912-june",
-      "urlToImage": "https://image-api.prod.kitco.com/image/54384448-6549-460f-9f15-8afe1b0a3067.jpeg?top=0&left=0&width=1000&height=562.78125&scale_width=1920&token=939356cde48a8963d99f727af9df5ce63c1d63871021eff82c1bedfbc0796a35",
-      "publishedAt": "2026-06-30T11:00:00Z",
-      "content": "(Kitco News) - Gold prices are trading at session highs after the latest data showed a mixed picture for U.S. consumer sentiment this month.\r\nThe Consumer Confidence Index rose to 91.2 in June, below… [+3098 chars]"
-    },
-    {
-      "source": {
-        "id": "fortune",
-        "name": "Fortune"
-      },
-      "author": "Jim Edwards",
-      "title": "AI stocks are in an ‘air pocket’, Meta and Microsoft traded like ‘bear market names - Fortune",
-      "description": "Everything you need to know before you reach the office this morning.",
-      "url": "https://fortune.com/2026/06/30/ai-stock-air-pocket-meta-microsoft-bear-market-dan-ives/",
-      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2024/07/GettyImages-1975339885-e1721383528935.jpg?resize=1200,600",
-      "publishedAt": "2026-06-30T10:35:00Z",
-      "content": "Were about to head into Q2 earnings season andas the recent market jolt around Apples price increase announcement showsinvestors are still nervous that this whole AI thing just isn't going to pan out… [+7252 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Benzinga"
-      },
-      "author": "Stjepan Kalinic",
-      "title": "Forget AMD And Micron — The Next Wave Of AI Winners Are The Ones Nobody Talks About - Benzinga",
-      "description": "Beyond NVIDIA: The AI trade is moving past chips. Explore the companies solving the huge physical bottlenecks in packaging and cooling.",
-      "url": "https://www.benzinga.com/analyst-stock-ratings/analyst-color/26/06/60180041/forget-amd-and-micron-the-next-wave-of-ai-winners-are-the-ones-nobody-talks-about",
-      "urlToImage": "https://cdn.benzinga.com/cdn-cgi/image/width=1200,height=800,fit=crop/files/images/story/2026/06/30/Creative-Ai-Background-With-Forex-Chart-.jpg",
-      "publishedAt": "2026-06-30T10:23:37Z",
-      "content": "However, that trade has become increasingly crowded. Valuations have expanded, money has flooded into cap-weighted ETFs, and the market has started treating AI and tech as interchangeable terms.\r\nYet… [+2119 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": "Sam Meredith",
-      "title": "Oil prices set for steep monthly drop as Trump, Iran issue mixed messages on talks in Qatar - CNBC",
-      "description": "The moves come as oil traders monitor the prospect of U.S.-Iran talks in Doha on Tuesday.",
-      "url": "https://www.cnbc.com/2026/06/30/oil-prices-brent-wti-crude-trump-iran.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108328542-1782812691430-gettyimages-2283378045-varittyakkal-flagplaz260629_npSVQ.jpeg?v=1782812722&w=1920&h=1080",
-      "publishedAt": "2026-06-30T10:13:57Z",
-      "content": "Oil prices were mixed on Tuesday as energy market participants closely monitored the potential for fresh talks between the U.S. and Iran in Qatar.\r\nInternational benchmark Brent crude futures with Au… [+2315 chars]"
+      "author": "USA Today",
+      "title": "AI isn’t killing jobs at these companies — it’s boosting hiring - USA Today",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZlZUMW0yWjlyQ2FhTkNRZ0JwZHJWSlBjeVRPbmpmQXBLNFVlWC02Z1pMcV9xTm5kaUJBc1RLOXlzWTlibU05N1ZhZVJPakFOcDBWNDFURXNwbHpERndRSkZpODJYc05XbUVzSFVPVzE4V1RSNVJ4SkFIMWl6VnRHTzhmOEZyc19mTFo0OEs1WmVGNURBT0tPajh1Q3V1X0JhVmZ4YmdZLWg?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2026-07-01T12:40:00Z",
+      "content": null
     },
     {
       "source": {
         "id": null,
         "name": "Fox Business"
       },
-      "author": "Eric Revell",
-      "title": "Fourth of July cookout prices hit record high as America celebrates 250th birthday - Fox Business",
-      "description": "Ground beef, hot dogs, strawberries and ice cream all cost more this summer as inflation pushes Fourth of July barbecue prices to a 10-year high.",
-      "url": "https://www.foxbusiness.com/economy/fourth-july-cookout-prices-hit-record-high-america-celebrates-250th-birthday",
-      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2025/06/0/0/barbeque.jpg?ve=1&tl=1",
-      "publishedAt": "2026-06-30T10:00:00Z",
-      "content": "Americans preparing to hold a Fourth of July barbecue this weekend will face higher costs for their burgers and hot dogs amid stubborn inflation, a new report finds.\r\nThe American Farm Bureau Federat… [+4271 chars]"
-    },
-    {
-      "source": {
-        "id": "business-insider",
-        "name": "Business Insider"
-      },
-      "author": "Joe Ciolli",
-      "title": "How Microsoft became the black sheep of the AI trade - Business Insider",
-      "description": "Shares are on pace to lose 18% in June, which would be Microsoft's worst month since 2000.",
-      "url": "https://www.businessinsider.com/microsoft-stock-price-outlook-ai-trade-oracle-parallels-black-sheep-2026-6#article",
-      "urlToImage": "https://i.insider.com/6a42de61e218c3b62535ef92?width=1200&format=jpeg",
-      "publishedAt": "2026-06-30T09:50:06Z",
-      "content": "When it comes to the elite group of AI stocks known as the Magnificent 7, the winners are pretty well-established.\r\nYou have Alphabet, which has established itself as the latest and greatest contende… [+3188 chars]"
+      "author": "Kristen Altus",
+      "title": "Silicon Valley elite shift record wealth to build Florida's new 'tech capital' - Fox Business",
+      "description": "Billionaire Peter Thiel's historic Miami office lease highlights how tax savings and quality of life drive corporate relocations to Florida.",
+      "url": "https://www.foxbusiness.com/real-estate/silicon-valley-elite-shift-record-wealth-build-floridas-new-tech-capital",
+      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/06/0/0/830-brickell-miami-commercial-real-estate.jpg?ve=1&tl=1",
+      "publishedAt": "2026-07-01T12:24:26Z",
+      "content": "Billionaire venture capitalist Peter Thiel planted a record-setting flag in Miami’s financial core, signing a historic $250-per-square-foot office lease that experts say marks a transition of the Wes… [+7968 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "STAT"
+        "name": "Fox Business"
       },
-      "author": "John Wilkerson",
-      "title": "The loophole in Trump’s obesity drug deal with Eli Lilly and Novo Nordisk - statnews.com",
-      "description": "The Trump administration's grand bargain with drugmakers isn't working out as planned.",
-      "url": "https://www.statnews.com/2026/06/30/medicare-medicaid-glp1-costs-explained-balance-out-bridge-in/",
-      "urlToImage": "https://www.statnews.com/wp-content/uploads/2026/06/AdobeStock_1784070017_Editorial_Use_Only-1024x576.jpeg",
-      "publishedAt": "2026-06-30T09:39:08Z",
-      "content": "WASHINGTON The Trump administrations grand bargain with drugmakers on GLP-1s was based on a simple premise: lower prices in exchange for higher sales volume. Instead, the companies secured higher vol… [+794 chars]"
-    },
-    {
-      "source": {
-        "id": "bloomberg",
-        "name": "Bloomberg"
-      },
-      "author": "Paulina Cachero, Ben Steverman",
-      "title": "Mamdani’s New Pied-à-Terre Tax Leaves Wealthy With Few Loopholes - Bloomberg.com",
-      "description": "Second-home owners are repricing, renting out and quietly recalculating. Many will just have to pay up.",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-30/nyc-pied-a-terre-property-tax-sets-owners-buyers-scrambling",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/igiGFCB0MTkY/v1/1200x800.jpg",
-      "publishedAt": "2026-06-30T09:30:15Z",
-      "content": "The super wealthy are accustomed to finding ways to shrink their tax bills. But with New York Citys new levy on seven-figure pieds-à-terre, many are learning they might just have to pony up. \r\nChampi… [+292 chars]"
-    },
-    {
-      "source": {
-        "id": "bloomberg",
-        "name": "Bloomberg"
-      },
-      "author": "Ryan Vlastelica",
-      "title": "Chip Stocks’ Best Quarter Ever Is Ending With Some Wild Swings - Bloomberg.com",
-      "description": "Chip stocks are heading for their best quarter ever, extending an extraordinary start to the year driven by insatiable demand for artificial intelligence equipment. But after recent jitters sent the stocks tumbling, investors are wondering how much further th…",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-30/chip-stocks-best-quarter-ever-is-ending-with-some-wild-swings",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iFmEztd7VATg/v1/1200x800.jpg",
-      "publishedAt": "2026-06-30T09:00:51Z",
-      "content": "Chip stocks are heading for their best quarter ever, extending an extraordinary start to the year driven by insatiable demand for artificial intelligence equipment. But after recent jitters sent the … [+320 chars]"
-    },
-    {
-      "source": {
-        "id": "mashable",
-        "name": "Mashable"
-      },
-      "author": "Chance Townsend",
-      "title": "What is quantum computing, and why does Trump care? - Mashable",
-      "description": "This technology may or may not be a big deal. Simultaneously.",
-      "url": "https://mashable.com/tech/quantum-computing-trump-eo-expainer",
-      "urlToImage": "https://helios-i.mashable.com/imagery/articles/04BhEntSk9IDtEpzL642xYi/hero-image.fill.size_1200x675.v1782754265.jpg",
-      "publishedAt": "2026-06-30T08:59:54Z",
-      "content": null
+      "author": "Matthew Kazin",
+      "title": "Private sector added 98,000 jobs in June, below expectations, ADP says - Fox Business",
+      "description": "The figure reported on Wednesday is below economists’ estimates of an increase of 118,000 jobs. The prior month's reading was unrevised at 122,000.",
+      "url": "https://www.foxbusiness.com/economy/private-sector-added-98000-jobs-june-below-expectations-adp-says",
+      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/03/0/0/us-job-fair-hiring.jpg?ve=1&tl=1",
+      "publishedAt": "2026-07-01T12:17:59Z",
+      "content": "Companies in the private sector added 98,000 jobs in June, payroll processing firm ADP said in its latest report on Wednesday.\r\nThe figure is below economists’ estimates of a gain of 118,000 jobs and… [+1475 chars]"
     },
     {
       "source": {
         "id": null,
         "name": "CNBC"
       },
-      "author": "Elsa Ohlen",
-      "title": "French biotech stock soars 34% after new data on experimental medicine - CNBC",
-      "description": "Shares of French biotech company Abivax soared Tuesday after it released fresh data on its lead drug for bowel disease.",
-      "url": "https://www.cnbc.com/2026/06/30/abivax-stock-trial-data-biotech-obefazimod.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108328514-1782803221665-gettyimages-2152722520-dsc00854.jpeg?v=1782803282&w=1920&h=1080",
-      "publishedAt": "2026-06-30T07:13:05Z",
-      "content": "Shares of French biotech company Abivax soared Tuesday after it released fresh data on its lead drug for bowel disease, clawing back heavy losses from earlier in the month when the same trial had inv… [+3200 chars]"
+      "author": "Jessica Dickler, Kate Dore, CFP®, EA",
+      "title": "Trump Accounts for kids launch July 4: What parents need to know - CNBC",
+      "description": "Here's a breakdown of how Trump Accounts work, who qualifies for free money and when the funds can be withdrawn.",
+      "url": "https://www.cnbc.com/2026/07/01/trump-accounts-launch-july-4.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108262654-1776256489727-108262654-1770399637978-gettyimages-2258081001-AFP_94BU2VT.jpg?v=1782761559&w=1920&h=1080",
+      "publishedAt": "2026-07-01T12:15:01Z",
+      "content": "Trump Accounts officially launch on July 4. These new tax-advantaged investment accounts for children are geared toward longterm retirement savings, rather than education or shorterterm goals.\r\nWhile… [+8117 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "The Conversation Africa"
+        "name": "WLS-TV"
       },
-      "author": "Jeannie Marie Paterson",
-      "title": "Amazon is being taken to court for introducing ads to Prime Video. The world will be watching - The Conversation",
-      "description": "A legal expert explains the allegations against Amazon Australia and US – and why the new case is already making global headlines.",
-      "url": "https://theconversation.com/amazon-is-being-taken-to-court-for-introducing-ads-to-prime-video-the-world-will-be-watching-286433",
-      "urlToImage": "https://images.theconversation.com/files/744979/original/file-20260630-71-i4jfqu.jpg?ixlib=rb-4.1.0&rect=0%2C174%2C3000%2C1500&q=45&auto=format&w=1356&h=668&fit=crop",
-      "publishedAt": "2026-06-30T05:41:19Z",
-      "content": "When Amazon started showing ads to its Prime Video subscribers, annoyed TV viewers complained to the consumer watchdog. Now the case is headed for the Federal Court and already attracting internation… [+4846 chars]"
+      "author": "Evelyn Holmes",
+      "title": "Illinois minimum wage: Chicago, Cook County minimum wage increases take effect Wednesday - ABC7 Chicago",
+      "description": "Wednesday is the start of July and with that comes new laws that go into effect.",
+      "url": "https://abc7chicago.com/post/illinois-minimum-wage-chicago-cook-county-increases-take-effect-wednesday/19427463/",
+      "urlToImage": "https://cdn.abcotvs.com/dip/images/19429169_070126-wls-evelyn-min-wage11a-vid.jpg?w=1600",
+      "publishedAt": "2026-07-01T11:53:34Z",
+      "content": "CHICAGO (WLS) -- New laws took effect Wednesday with the start of July, including increases in the minimum wage.\r\nIn Chicago, the minimum wage at employers with four or more employees is $17,05 per-h… [+1971 chars]"
+    },
+    {
+      "source": {
+        "id": "associated-press",
+        "name": "Associated Press"
+      },
+      "author": "Ali Swenson",
+      "title": "Medicare is now covering some GLP-1 weight loss drugs for $50. Here’s what to know - AP News",
+      "description": "The federal government has launched a new program to make GLP-1 weight loss drugs more affordable for older Americans. Starting Wednesday, certain Medicare beneficiaries can access these medications for $50 a month through the Medicare GLP-1 Bridge trial. The…",
+      "url": "https://apnews.com/article/glp1-weight-loss-medicare-drugs-wegovy-zepbound-97342bc307abdbd36bf71d969ee2acb1",
+      "urlToImage": "https://dims.apnews.com/dims4/default/e54fbc2/2147483647/strip/true/crop/5453x3633+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fb2%2Fe7%2F1580c9aa99cda71893b50b95f925%2F3a2d30f858ad4a2a9597eb78eeb5fe73",
+      "publishedAt": "2026-07-01T11:09:00Z",
+      "content": "NEW YORK (AP) Popular and expensive GLP-1 weight loss drugs just got a lot cheaper for many older Americans. \r\nStarting Wednesday, the federal government is offering a selection of the brand name med… [+5258 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "KABC-TV"
-      },
-      "author": "Amy Powell",
-      "title": "Simi Valley crash: Woman struck, killed by Tesla outside Urbane Cafe restaurant - ABC7 Los Angeles",
-      "description": "A woman was killed when she was struck by a driver in a Tesla outside a restaurant in Simi Valley, authorities say.",
-      "url": "https://abc7.com/post/simi-valley-crash-1-killed-5-injured-car-slams-urbane-cafe-restaurant/19416545/",
-      "urlToImage": "https://cdn.abcotvs.com/dip/images/19418814_062926-kabc-11pm-simi-sidewalk-fatal-vid.jpg?w=1600",
-      "publishedAt": "2026-06-30T04:31:20Z",
-      "content": "SIMI VALLEY, Calif. (KABC) -- A 79-year-old woman was killed after being struck by a Tesla that ended up crashing into the outdoor seating area of a shopping center restaurant in Simi Valley on Monda… [+2062 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Rebecca Bellan",
-      "title": "The AI jobs debate just got messier - TechCrunch",
-      "description": "A new report finds \"high-intensity AI adopters” saw headcount increase 10.2%. Among those companies, entry-level headcount rose by 12%, countering the rhetoric that AI kills junior jobs.",
-      "url": "https://techcrunch.com/2026/06/29/the-ai-jobs-debate-just-got-messier/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2256487455.jpg?w=1024",
-      "publishedAt": "2026-06-30T04:01:00Z",
-      "content": "AI-related job loss fears grow each time another company announces a round of layoffs. Through May of 2026, companies announced that close to 90,000 job cuts were tied to AI, and, by some accounts, u… [+3162 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "WABC-TV"
+        "name": "Investor's Business Daily"
       },
       "author": null,
-      "title": "Helicopter pilot reports near second incident involving remote-controlled plane near JFK Airport - ABC7 New York",
-      "description": "A helicopter pilot says he was almost hit by a remote-controlled plane late this afternoon near John F. Kennedy Airport - the second close call reported on Monday.",
-      "url": "https://abc7ny.com/post/helicopter-pilot-reports-miss-remote-controlled-plane-jfk-airport/19416230/",
-      "urlToImage": "https://cdn.abcotvs.com/dip/images/19416211_062926-wabc-jfk-helicopter-img.jpg?w=1600",
-      "publishedAt": "2026-06-30T01:40:20Z",
-      "content": "NEW YORK (WABC) -- A helicopter pilot says he was almost hit by a remote-controlled plane near John F. Kennedy Airport - the second close call reported on Monday.\r\n\"Just almost ran into a gigantic RC… [+2188 chars]"
+      "title": "S&P 500 Stocks: Sandisk Leads Seven AI Stocks That Have Skyrocketed In 2026 - Investor's Business Daily",
+      "description": "Even among its memory peers, Sandisk stands out in the S&P 500.",
+      "url": "https://www.investors.com/news/sp-500-stocks-sandisk-leads-seven-ai-stocks-skyrocketed-2026/",
+      "urlToImage": "https://www.investors.com/wp-content/uploads/2026/02/stock-brain-digital-adobe.jpg",
+      "publishedAt": "2026-07-01T11:00:00Z",
+      "content": "Information in Investors Business Daily is for informational and educational purposes only and should not be construed as an offer, recommendation, solicitation, or rating to buy or sell securities. … [+1064 chars]"
+    },
+    {
+      "source": {
+        "id": "associated-press",
+        "name": "Associated Press"
+      },
+      "author": "Bernard Condon",
+      "title": "Trump filing shows he took in about $1.2 billion from crypto businesses last year - AP News",
+      "description": "President Donald Trump took in nearly $1.2 billion dollars from his crypto businesses last year, a federal filing released Tuesday shows. Trump got more than $500 million from his World Liberty Financial business selling new crypto products, including “govern…",
+      "url": "https://apnews.com/article/trump-financial-disclosure-crypto-060c15062b8fedc6104159ea13775463",
+      "urlToImage": "https://dims.apnews.com/dims4/default/8944189/2147483647/strip/true/crop/5334x3554+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F74%2Ff3%2F63300dd49c137fa584d4ea2b0bf9%2F37486a217fa544d48645f614a22e55ae",
+      "publishedAt": "2026-07-01T10:26:00Z",
+      "content": "NEW YORK (AP) President Donald Trump took in nearly $1.2 billion from his crypto businesses last year, a federal filing released Tuesday shows, locking in profits while his investors were socked with… [+5625 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Motor1 "
+      },
+      "author": "Jeff Perez",
+      "title": "Lamborghini Just Built Its Most Powerful SUV Ever - Motor1.com",
+      "description": "The new Lamborghini Urus SE Performante packs a powerful twin-turbo V8 PHEV with 800 horsepower, and it’s even lighter.",
+      "url": "https://www.motor1.com/news/800221/lamborghini-urus-se-performante-specs-details/",
+      "urlToImage": "https://cdn.motor1.com/images/mgl/3WExZL/s1/2027-lamborghini-urus-se-performante.jpg",
+      "publishedAt": "2026-07-01T10:04:55Z",
+      "content": "Nearly a decade on, a lot has changed with Lamborghinis first SUV. The original Urus debuted with a twin-turbocharged V8 engine, which spawned an even more powerful Performante trim. In 2024, the res… [+3761 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Jake Conley",
+      "title": "Oil's wild first half of the year upended everything Wall Street expected - Yahoo Finance",
+      "description": "For the oil markets, the first half of 2026 has been a wild ride.",
+      "url": "https://finance.yahoo.com/markets/article/oils-wild-first-half-of-the-year-upended-everything-wall-street-expected-100000651.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/4294BC04C55B92EF21F0BFEAF1FDE76D4A7E9DC38DA4A5395FA0428DE80A66D6/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2F79ea483d-656f-4d25-b83d-283f618f5556_d2cfd7119671fd4d15b2a8d273f2f635cdf68670c7efa8d8d4c07faa2bc97003.jpg",
+      "publishedAt": "2026-07-01T10:00:00Z",
+      "content": "Oil market watchers entered 2026 widely in agreement on an emerging multibillion-barrel glut that was sure to depress prices throughout the year. That is not what they received.\r\nInstead, a series of… [+9881 chars]"
     },
     {
       "source": {
         "id": null,
         "name": "CNBC"
       },
-      "author": "Anniek Bao",
-      "title": "China factory activity grows faster than expected in June on tech export demand - CNBC",
-      "description": "China's manufacturing engine held up this year as surging demand for artificial intelligence technology helped offset the drag from Middle East turmoil.",
-      "url": "https://www.cnbc.com/2026/06/30/china-factory-activity-june-tech-export-demand-pmi-nbs.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108328113-1782744434257-gettyimages-2283779010-vcg111650970110.jpeg?v=1782744469&w=1920&h=1080",
-      "publishedAt": "2026-06-30T01:40:00Z",
-      "content": "China's manufacturing activity expanded faster than expected in June, with high-tech production climbing on demand tied to the global artificial-intelligence investment boom while real estate develop… [+3892 chars]"
+      "author": "Hugh Leask",
+      "title": "Gold losses ease after worst quarter in 13 years as interest rate fears hit bullion - CNBC",
+      "description": "Gold fell further on Wednesday, with bullion continuing its slide after suffering its worst quarter since 2013.",
+      "url": "https://www.cnbc.com/2026/07/01/gold-prices-fall-worst-quarter-interest-rates-bullion-precious-metals.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108248572-1767675615434-gettyimages-2252637479-raa-goldpriz251223_npCka.jpeg?v=1771974364&w=1920&h=1080",
+      "publishedAt": "2026-07-01T09:16:04Z",
+      "content": "Gold prices edged into positive territory on Wednesday, reversing morning losses, after the precious metal closed its worst quarter in 13 years in three months to the end of June. \r\nThe yellow metal … [+2486 chars]"
     },
     {
       "source": {
-        "id": "the-wall-street-journal",
-        "name": "The Wall Street Journal"
+        "id": "google-news",
+        "name": "Google News"
       },
-      "author": "WSJ",
-      "title": "Exclusive | Warren Buffett Skips Midyear Donation to Gates Foundation as He Awaits Epstein Review - WSJ",
+      "author": "Forbes",
+      "title": "Mega Millions Jackpot Rises To $542 Million—Here’s What The Winner Could Take Home After Taxes - Forbes",
       "description": null,
-      "url": "https://www.wsj.com/business/warren-buffet-gates-foundation-epstein-2290ef61",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNbExzS2I4cUM2UTR2TUc0aFJIdlhieFltdU91dHVzOGU4OFhLWFZnSWs1QnJzOVdUZ1NpNnQ2YlhnUzZ5SGkxMzhHNW83WE1hanBEcGQzUHVmelA0NVlpaEdaUk1wZ1I0cF81LWJkYzBNWFowalVzWGhJX2N3dk9lYjR2cmlNc2NIT1hIU25yVTdWdDBOVWdHUjNwQkh4OHJXTEl5MDhyV1BGNUVJa242TWl4eE41cmlzRVhtVExHVWhKVExuUEJLTnlKajRpN0F1X2Q0U05kRUQzOGNyakJj?oc=5",
       "urlToImage": null,
-      "publishedAt": "2026-06-30T01:08:00Z",
+      "publishedAt": "2026-07-01T08:24:27Z",
       "content": null
     },
     {
       "source": {
-        "id": "bloomberg",
-        "name": "Bloomberg"
-      },
-      "author": null,
-      "title": "China Loses Out on AI Boom as Stocks Trail by Most Since ‘01 - Bloomberg.com",
-      "description": "After a banner year for Chinese stocks on the back of AI advances, 2026 is not going well.",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-29/china-misses-out-on-ai-boom-as-stocks-trail-by-most-since-2001",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iLFi9G0dM81w/v0/1200x800.jpg",
-      "publishedAt": "2026-06-30T00:05:00Z",
-      "content": "After a banner year for Chinese stocks on the back of AI advances, 2026 is not going well.\r\nThe MSCI China Index has tumbled 15%, the worst performance globally after Indonesia. The Chinese gauge las… [+283 chars]"
-    },
-    {
-      "source": {
         "id": null,
-        "name": "PBS"
+        "name": "Abcnews.com"
       },
-      "author": null,
-      "title": "FDA panel on peptides will include experts who promote the unproven chemicals favored by RFK Jr. - PBS",
-      "description": "The Food and Drug Administration is meeting next month to consider easing restrictions on several peptides, a group of unapproved drugs popular with followers of Robert F. Kennedy Jr.",
-      "url": "https://www.pbs.org/newshour/health/fda-panel-on-peptides-will-include-experts-who-promote-the-unproven-chemicals-favored-by-rfk-jr",
-      "urlToImage": "https://d3i6fh83elv35t.cloudfront.net/static/2026/04/2026-04-22T184746Z_1899983012_RC2IUKA2N8HB_RTRMADP_3_USA-CONGRESS-HHS-1024x683.jpg",
-      "publishedAt": "2026-06-29T23:31:47Z",
-      "content": "WASHINGTON (AP) When U.S. health officials meet next month to reconsider a list of controversial peptide drugs, they will hear from a new set of voices: doctors and pharmacists with deep financial ti… [+6254 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Benzinga"
-      },
-      "author": "Stjepan Kalinic",
-      "title": "BlackRock Flags Big AI Trade Beyond Nvidia, AMD, Micron - Benzinga",
-      "description": "The next leg of the AI economy may focus on energy security, favoring infrastructure and critical bottlenecks.",
-      "url": "https://www.benzinga.com/markets/commodities/26/06/60175793/blackrock-flags-big-ai-trade-beyond-nvidia-amd-micron",
-      "urlToImage": "https://cdn.benzinga.com/cdn-cgi/image/width=1200,height=800,fit=crop/files/images/story/2026/06/29/Energy-Shutterstock.png",
-      "publishedAt": "2026-06-29T21:46:33Z",
-      "content": "GPUs, high-bandwidth memory and the silicon supply chain kept the machine going.\r\n GE Vernova stock is showing upward bias. Whats ahead for GEV stock?\r\nBut the next leg of the AI economy may be less … [+2627 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "STAT"
-      },
-      "author": "Lizzy Lawrence",
-      "title": "FDA’s top gene therapy regulator is leaving his role - statnews.com",
-      "description": "The departure of Vijay Kumar follows a broader leadership shakeup at the FDA.",
-      "url": "https://www.statnews.com/2026/06/29/vijay-kumar-exits-fda-office-of-therapeutic-products/",
-      "urlToImage": "https://www.statnews.com/wp-content/uploads/2023/02/AP22353823659091-1024x576.jpg",
-      "publishedAt": "2026-06-29T21:46:27Z",
-      "content": "WASHINGTON Vijay Kumar, acting director of the office that reviews cell and gene therapies at the Food and Drug Administration, is stepping down from his role, according to an email obtained by STAT.… [+855 chars]"
-    },
-    {
-      "source": {
-        "id": "fortune",
-        "name": "Fortune"
-      },
-      "author": "Nick Lichtenberg",
-      "title": "The central bank of central banks sees a $1 trillion AI investment boom headed for a reckoning - Fortune",
-      "description": "The Bank for International Settlements draws an explicit parallel to the dotcom crash and railway mania, but the stakes are bigger now.",
-      "url": "https://fortune.com/2026/06/29/bis-central-bank-warning-hyperscaler-data-center-1-trillion-gamble-recession/",
-      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/06/GettyImages-2283426569-e1782767381576.jpg?resize=1200,600",
-      "publishedAt": "2026-06-29T21:31:00Z",
-      "content": "The canal mania of the 1830s. The British railway bubble of the 1840s. The dot-com crash of 2000. Each began with a genuine technological breakthrough that attracted more capital than commercial retu… [+6557 chars]"
+      "author": "OLGA R. RODRIGUEZ Associated Press",
+      "title": "California bans 'sell by' food labels to cut food waste and confusion - ABC News - Breaking News, Latest News and Videos",
+      "description": "California is making food labels less confusing by banning \"sell by\" dates",
+      "url": "https://abcnews.com/Business/wireStory/california-bans-sell-food-labels-cut-food-waste-134364585",
+      "urlToImage": "https://i.abcnewsfe.com/a/cecf998a-030c-42f9-9623-c072253c28ff/wirestory_bf426a5c0146cc9435d371c072e6a9d3_16x9.jpg?w=1600",
+      "publishedAt": "2026-07-01T06:46:48Z",
+      "content": "SAN FRANCISCO -- In Kimberley Kausens home, a passed sell by date on a jug of milk means different things to different family members. For her daughter, it means the jug belongs in the trash. For her… [+3904 chars]"
     },
     {
       "source": {
         "id": null,
         "name": "MarketWatch"
       },
-      "author": "William Gavin",
-      "title": "Rocket Lab to take on SpaceX’s Starlink with $8 billion acquisition - MarketWatch",
-      "description": "The company says it is buying Iridium Communications as a ‘shortcut’ to expanding its growing capabilities",
-      "url": "https://www.marketwatch.com/story/rocket-lab-to-take-on-spacexs-starlink-with-8-billion-acquisition-bf7ef649",
-      "urlToImage": "https://images.mktw.net/im-22494504/social",
-      "publishedAt": "2026-06-29T21:30:00Z",
-      "content": "Updated June 29, 2026, 5:30p.m. ET\r\nRocket Lab said Monday it plans to acquire Iridium Communications, positioning the expanding company as a head-on rival to SpaceX and its Starlink satellite-commun… [+397 chars]"
-    },
-    {
-      "source": {
-        "id": "ars-technica",
-        "name": "Ars Technica"
-      },
-      "author": "Jeremy Hsu",
-      "title": "South Korea to spend $1T on more memory chip production and humanoid robots - Ars Technica",
-      "description": "South Korea targets physical AI lead and commercial humanoid robots by 2028.",
-      "url": "https://arstechnica.com/ai/2026/06/south-korea-to-spend-1t-on-more-memory-chip-production-and-humanoid-robots/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/Screenshot-2026-06-29-at-4.36.13-PM-1152x648.png",
-      "publishedAt": "2026-06-29T21:09:43Z",
-      "content": null
+      "author": "Bill Peters",
+      "title": "Nike earnings crushed Wall Street’s estimates — but here’s the catch - MarketWatch",
+      "description": "Stock heads for a 12-year low as Nike says demand slowed over the spring, and still expects falling sales in the months ahead",
+      "url": "https://www.marketwatch.com/story/nike-earnings-crushed-wall-streets-estimates-but-theres-a-catch-83bf3e4a",
+      "urlToImage": "https://images.mktw.net/im-30492034/social",
+      "publishedAt": "2026-06-30T23:30:00Z",
+      "content": "During Nikes fourth-quarter earnings call on Tuesday, CEO Elliott Hill likened the sneaker giants prolonged turnaround efforts to the New York Knicks, who spent years getting the right team together … [+375 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Forbes"
+        "name": "STAT"
       },
-      "author": "ForbesTV",
-      "title": "Economist: 'Very Notable' A Lot Of Escalation Between U.S. & Iran Happens When Market Is Closed - Forbes",
-      "description": "Henrietta Treyz, co-founder and director of economic policy at Veda Partners, discussed on \"Forbes Newsroom\" the economic & market reactions to the U.S-Iran ceasefire.",
-      "url": "https://www.forbes.com/sites/forbestv/2026/06/29/economist-very-notable-a-lot-of-escalation-between-us--iran-happens-when-market-is-closed/",
-      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6a42d58f7c8af35fefbf8d81/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-      "publishedAt": "2026-06-29T20:30:51Z",
-      "content": "Henrietta Treyz, the co-founder and director of economic policy at Veda Partners, joined \"Forbes Newsroom\" to discuss the economic and market reactions to the tenuous ceasefire between the U.S. and I… [+74 chars]"
+      "author": "Brittany Trang",
+      "title": "AI company Anthropic announces it will begin developing drugs of its own - statnews.com",
+      "description": "AI giant Anthropic has already become a dominant player in technology and a household name for everyday users of artificial intelligence. Can it make drugs too?",
+      "url": "https://www.statnews.com/2026/06/30/anthropic-ai-drug-development/",
+      "urlToImage": "https://www.statnews.com/wp-content/uploads/2026/06/STAT-Summit-West-01665-1024x576.jpg",
+      "publishedAt": "2026-06-30T23:21:11Z",
+      "content": "SAN FRANCISCO AI giant Anthropic has already become a dominant player in technology and a household name for everyday users of artificial intelligence. Can it make drugs too?\r\nOn Tuesday, the company… [+810 chars]"
+    },
+    {
+      "source": {
+        "id": "nbc-news",
+        "name": "NBC News"
+      },
+      "author": "Erika Edwards",
+      "title": "Some ZYN nicotine pouches can be sold as safer than cigarettes, FDA says - NBC News",
+      "description": "The agency’s authorization says the pouches put users at lower risk for health problems compared to smoking.",
+      "url": "https://www.nbcnews.com/health/health-news/zyn-nicotine-pouches-safer-cigarettes-fda-rcna352421",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-07/240710-zyn-nbc-4-ew-300p-c603ff.jpg",
+      "publishedAt": "2026-06-30T22:58:17Z",
+      "content": "The maker of ZYN nicotine pouches can tell consumers its products are safer to use than cigarettes, the Food and Drug Administration announced Tuesday.\r\nLimited time: Save 25% on NBC News subscriptio… [+2892 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Santa Barbara Independent"
+        "name": "Fox Business"
       },
-      "author": "The Santa Barbara Independent",
-      "title": "Santa Barbara City Council to Vote on Reopening State Street to Cars - The Santa Barbara Independent",
-      "description": null,
-      "url": "https://www.independent.com/2026/06/29/santa-barbara-city-council-to-vote-on-reopening-state-street-to-cars/",
-      "urlToImage": null,
-      "publishedAt": "2026-06-29T19:17:57Z",
-      "content": null
+      "author": "Greg Wehner",
+      "title": "Ford recalls 741,195 SUVs and pickups after transmission defect raises rollaway risk: NHTSA - Fox Business",
+      "description": "Ford recalls over 741,000 vehicles including Expedition SUVs and F-150 pickups over a transmission defect that can damage the parking mechanism.",
+      "url": "https://www.foxbusiness.com/lifestyle/ford-recalls-741195-suvs-pickups-after-transmission-defect-raises-rollaway-risk-nhtsa",
+      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2024/11/0/0/ford.jpg?ve=1&tl=1",
+      "publishedAt": "2026-06-30T20:47:00Z",
+      "content": "Ford is recalling more than 741,000 vehicles across the U.S. after a transmission defect that can damage the parking system and increase the risk of a vehicle rolling away was linked to 24 allegation… [+3823 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Barron's"
+        "name": "Cord Cutters News, LLC"
       },
-      "author": "Adam Clark",
-      "title": "Why Is Alphabet Stock (GOOGL) Up? Dow Entry and Google AI Limits on Meta. - Barron's",
-      "description": "Alphabet stock is rising Monday as the Google parent joins the Dow Jones Industrial Average.",
-      "url": "https://www.barrons.com/articles/alphabet-stock-price-google-dow-meta-limit-7f7838ff",
-      "urlToImage": "https://images.barrons.com/im-85531772/social",
-      "publishedAt": "2026-06-29T18:59:00Z",
-      "content": "Alphabetstock rose Monday on its first day of trading in theDow Jones Industrial Average.\r\nCopyright ©2026Dow Jones &amp; Company, Inc. All Rights Reserved. 87990cbe856818d5eddac44c7b1cdeb8"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Barron's"
-      },
-      "author": "Al Root",
-      "title": "Honeywell Aerospace Starts Trading, Completing 3-Way Breakup - Barron's",
-      "description": "Honeywell investors holding the stock into the corporate breakup now have two Honeywell stocks in their portfolio.",
-      "url": "https://www.barrons.com/articles/honeywell-aerospace-stock-spin-off-97abb993",
-      "urlToImage": "https://images.barrons.com/im-26463509/social",
-      "publishedAt": "2026-06-29T18:43:00Z",
-      "content": "Honeywell Internationalcompletedits breakup, leaving investors with three companies.\r\nCopyright ©2026Dow Jones &amp; Company, Inc. All Rights Reserved. 87990cbe856818d5eddac44c7b1cdeb8"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Cameron Faulkner",
-      "title": "The best July 4th sales we found so far - The Verge",
-      "description": "We’re collecting the best July 4th deals on Apple products, PC gadgets, TVs, and more.",
-      "url": "https://www.theverge.com/gadgets/958906/best-july-4th-tech-deal-sale",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/Govee-Uplighter-Floor-Lamps5.webp?quality=90&strip=all&crop=0%2C3.4475213908639%2C100%2C93.104957218272&w=1200",
-      "publishedAt": "2026-06-29T16:42:48Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nPrime Day just ended, though some familiar deals are still kicking around ahead of Americas birthday.\r\nPrime Day just ended, though some familiar deals are still… [+1677 chars]"
-    },
-    {
-      "source": {
-        "id": "newsweek",
-        "name": "Newsweek"
-      },
-      "author": "Hugh Cameron",
-      "title": "Plummeting Gas Prices Could Bring New Economic Headaches - Newsweek",
-      "description": "While falling prices will offer immediate relief to drivers, economists believe this could present a host of longer-term issues.",
-      "url": "https://www.newsweek.com/plummeting-gas-prices-could-bring-new-economic-headaches-12135645",
-      "urlToImage": "https://assets.newsweek.com/wp-content/uploads/2026/06/GettyImages-2283298232.jpg?w=1200&crop=1",
-      "publishedAt": "2026-06-29T15:09:00Z",
-      "content": "While falling gas prices are set to deliver immediate relief to American drivers after months of disruption, experts believe the sharp decline could carry a host of new issues for the economy.\r\nNatio… [+5266 chars]"
+      "author": "Luke Bouma",
+      "title": "DISH & Sling TV Declare Bankruptcy & Will Shut Down Part of Their Operations - | Cord Cutters News",
+      "description": "Following reports yesterday that the company was preparing for bankruptcy, DISH DBS Corporation and its subsidiaries, including DISH Wireless, initiated prepackaged Chapter 11 proceedings on June 30, 2026, in the U.S. Bankruptcy Court for the Southern Distric…",
+      "url": "https://cordcuttersnews.com/dish-sling-tv-declare-bankruptcy-will-shut-down-part-of-its-operations/",
+      "urlToImage": "https://cordcuttersnews.com/wp-content/uploads/2023/11/shutterstock_435687871-scaled.jpg",
+      "publishedAt": "2026-06-30T20:23:02Z",
+      "content": "Following reports yesterday that the company was preparing for bankruptcy, DISH DBS Corporation and its subsidiaries, including DISH Wireless, initiated prepackaged Chapter 11 proceedings on June 30,… [+5254 chars]"
     },
     {
       "source": {
         "id": "bloomberg",
         "name": "Bloomberg"
       },
-      "author": "Ye Xie",
-      "title": "Citadel Securities Warns of ‘Shifting Landscape’ Under Warsh Fed - Bloomberg.com",
-      "description": "Investors are underestimating how determined Federal Reserve Chairman Kevin Warsh is to bring inflation back to the central bank’s 2% target and the likely drag that will create on risk assets, according to Citadel Securities.",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-29/citadel-securities-warns-of-shifting-landscape-under-warsh-fed",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i__ntF282fFg/v1/1200x800.jpg",
-      "publishedAt": "2026-06-29T14:51:28Z",
-      "content": "Investors are underestimating how determined Federal Reserve Chairman Kevin Warsh is to bring inflation back to the central banks 2% target and the likely drag that will create on risk assets, accord… [+273 chars]"
+      "author": "Ari Natter",
+      "title": "Emergency Ordered for Largest US Power Grid as Record Heat Nears - Bloomberg.com",
+      "description": "The Trump administration has declared a power emergency for the nation’s largest energy grid in advance of a dangerous heat wave that threatens to strain electricity infrastructure.",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-30/emergency-ordered-for-largest-us-power-grid-as-record-heat-nears",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/inJAJV77WYjU/v1/1200x800.jpg",
+      "publishedAt": "2026-06-30T19:28:30Z",
+      "content": "The Trump administration has declared a power emergency for the nations largest energy grid in advance of a dangerous heat wave that threatens to strain electricity infrastructure.\r\nThe emergency ord… [+226 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "404media.co"
+        "name": "Wisconsin Public Radio News"
       },
-      "author": "Jason Koebler",
-      "title": "Inside Cannes, the Advertising Industry’s Biggest Party - 404 Media",
-      "description": "Reporting from Microsoft Gardens, next to Salesforce Beach, Amazon Port, and the Canva Creative Cabana.",
-      "url": "https://www.404media.co/inside-cannes-the-advertising-industrys-biggest-party/",
-      "urlToImage": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/06/IMG_0382-1.JPG",
-      "publishedAt": "2026-06-29T13:45:24Z",
-      "content": "I am standing just outside of the Yahoo Explorers Society, where the line for DJ Tiësto stretches well past Microsoft Gardens, out toward the Canva Creator Cabana and Influential Beach. Thankfully th… [+12266 chars]"
+      "author": "Joe Schulz, joe.schulz",
+      "title": "Wisconsin DOJ announces settlement in alleged multi-state scheme to raise egg prices - WPR",
+      "description": "According to the state DOJ, the coalition secured more than 50 million eggs and $3.3 million from the companies through the settlement. The eggs will be provided to food banks and nonprofit organizations across the country at the producers’ expense.",
+      "url": "https://www.wpr.org/news/wisconsin-doj-announces-settlement-in-alleged-multi-state-scheme-to-raise-egg-prices",
+      "urlToImage": "https://www.wpr.org/wp-content/uploads/2025/04/AP25079764455243-scaled.jpg",
+      "publishedAt": "2026-06-30T16:59:33Z",
+      "content": "A multi-state investigation found that three of the countrys largest egg producers allegedly worked together for years to artificially increase the price of eggs.\r\nThe Wisconsin Department of Justice… [+2778 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Electrek"
+      },
+      "author": "Peter Johnson",
+      "title": "The BMW iX5 sets the benchmark with 525 miles of range, fast charging [Images] - Electrek",
+      "description": "BMW revealed the new X5 on Tuesday, including the first all-electric iX5. The iX5 adopts the Neue Klasse style and...",
+      "url": "http://electrek.co/2026/06/30/bmw-ix5-sets-benchmark-with-525-miles-range-images/",
+      "urlToImage": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2026/06/BMW-iX5-debut-range.jpeg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2026-06-30T16:50:00Z",
+      "content": "BMW revealed the new X5 on Tuesday, including the first all-electric iX5. The iX5 adopts the Neue Klasse style and tech with an impressive range of up to 525 miles on a single charge.\r\nFor its fifth … [+2377 chars]"
     },
     {
       "source": {
@@ -753,38 +441,12 @@
         "name": "AL.com"
       },
       "author": "AL.com",
-      "title": "Millions of Americans getting $1,000 direct deposit from federal government: Who qualifies? - AL.com",
+      "title": "‘Tyrant’ Trump is ‘Joe Bidening’ his presidency with ominous threat to gas stations, critics say - AL.com",
       "description": null,
-      "url": "https://www.al.com/news/2026/06/millions-of-americans-getting-1000-direct-deposit-from-federal-government-who-qualifies.html",
+      "url": "https://www.al.com/politics/2026/06/tyrant-trump-is-joe-bidening-his-presidency-with-ominous-threat-to-gas-stations-critics-say.html",
       "urlToImage": null,
-      "publishedAt": "2026-06-29T12:20:00Z",
+      "publishedAt": "2026-06-30T15:40:00Z",
       "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "NPR"
-      },
-      "author": "Geoff Brumfiel",
-      "title": "Red, white and glowing blue: Trump's push for new reactors reaches the finish line - NPR",
-      "description": "A program initiated by the Trump administration has allowed small companies to rush their testing of several new nuclear reactor designs. Some worry that safety is being compromised.",
-      "url": "https://www.npr.org/2026/06/29/nx-s1-5847944/new-nuclear-reactors-america-250-safety-concerns",
-      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2048x1152+0+213/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F13%2F65%2Fe0daaeb5476aa81f3476f40f2415%2Fvalar-tent.jpg",
-      "publishedAt": "2026-06-29T09:00:00Z",
-      "content": "A little over a year ago, President Trump set an ambitious goal: He wanted to see American companies build at least three new experimental nuclear reactors by July 4, 2026, the 250th anniversary of t… [+4627 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "FDA.gov"
-      },
-      "author": "Center for Drug Evaluation and Research",
-      "title": "FDA Selects Seven Participants for PreCheck Pilot Program to Advance U.S. Drug Manufacturing - fda.gov",
-      "description": "FDA announces the selection of seven companies to participate in the FDA PreCheck Pilot Program, a new initiative designed to boost American global competitiveness, strengthen domestic drug manufacturing, and improve the resilience of the U.S. drug supply cha…",
-      "url": "https://www.fda.gov/news-events/press-announcements/fda-selects-seven-participants-precheck-pilot-program-advance-us-drug-manufacturing",
-      "urlToImage": "https://www.fda.gov/themes/custom/preview/img/FDA-Social-Graphic.png",
-      "publishedAt": "2026-06-29T04:00:00Z",
-      "content": "For Immediate Release:\r\nJune 29, 2026\r\nToday, the U.S. Food and Drug Administration announced the selection of seven companies to participate in the FDA PreCheck Pilot Program, a new initiative desig… [+5635 chars]"
     }
   ]
 }

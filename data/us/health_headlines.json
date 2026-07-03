@@ -3,9 +3,22 @@
   "country": "us",
   "category": "health",
   "mode": "country",
-  "fetched_at": "2026-07-03T05:37:28.515217+00:00",
-  "articles_count": 48,
+  "fetched_at": "2026-07-03T08:40:39.259693+00:00",
+  "articles_count": 46,
   "articles": [
+    {
+      "source": {
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
+      },
+      "author": "WSJ",
+      "title": "U.S. Death Rate Falls to Its Lowest Point on Record - WSJ",
+      "description": null,
+      "url": "https://www.wsj.com/health/u-s-death-rate-falls-to-its-lowest-point-on-record-9b7777c5",
+      "urlToImage": null,
+      "publishedAt": "2026-07-02T04:01:00Z",
+      "content": null
+    },
     {
       "source": {
         "id": "the-washington-post",
@@ -30,19 +43,6 @@
       "url": "https://www.nature.com/articles/s41586-026-10730-1",
       "urlToImage": null,
       "publishedAt": "2026-07-02T00:18:44Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "the-hill",
-        "name": "The Hill"
-      },
-      "author": "The Hill",
-      "title": "Parasitic illness cases are spiking: The symptoms to watch for, including ‘explosive’ diarrhea - The Hill",
-      "description": null,
-      "url": "https://thehill.com/policy/healthcare/5950436-parasitic-illness-cases-are-spiking-the-symptoms-to-watch-for-including-explosive-diarrhea/",
-      "urlToImage": null,
-      "publishedAt": "2026-07-01T21:32:00Z",
       "content": null
     },
     {
@@ -83,6 +83,19 @@
       "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/07/West-Nile-virus-Nashville.jpg",
       "publishedAt": "2026-07-01T20:06:15Z",
       "content": "Health officials in Nashville are urging residents to protect themselves from mosquito bites after West Nile virus was detected in mosquitoes for the first time this year.\r\nThe Metro Public Health De… [+3204 chars]"
+    },
+    {
+      "source": {
+        "id": "the-hill",
+        "name": "The Hill"
+      },
+      "author": "The Hill",
+      "title": "CDC seeks source of parasitic outbreak linked to ‘explosive’ diarrhea in multiple states - The Hill",
+      "description": null,
+      "url": "https://thehill.com/policy/healthcare/5949021-cdc-parasitic-illness-cyclosporiasis-diarrhea-us/",
+      "urlToImage": null,
+      "publishedAt": "2026-07-01T18:50:00Z",
+      "content": null
     },
     {
       "source": {
@@ -294,6 +307,19 @@
     },
     {
       "source": {
+        "id": null,
+        "name": "New York Post"
+      },
+      "author": "New York Post",
+      "title": "TikTok’s tick-removal tricks to skip — and how to avoid ‘mouthparts left behind in the skin’ - New York Post",
+      "description": null,
+      "url": "https://nypost.com/2026/07/01/health/tick-removal-tricks-what-works-and-what-to-skip/",
+      "urlToImage": null,
+      "publishedAt": "2026-07-01T10:59:00Z",
+      "content": null
+    },
+    {
+      "source": {
         "id": "the-washington-post",
         "name": "The Washington Post"
       },
@@ -386,19 +412,6 @@
     {
       "source": {
         "id": null,
-        "name": "New York Post"
-      },
-      "author": "Associated Press",
-      "title": "Scratching that bug bite might feel good at first but science says it’s a bad idea - New York Post",
-      "description": "Why would something that feels so good be bad?",
-      "url": "https://nypost.com/2026/06/30/health/scratching-that-bug-bite-might-feel-good-at-first-but-science-says-its-a-bad-idea/",
-      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/06/132845972.jpg?quality=75&strip=all&w=1200",
-      "publishedAt": "2026-06-30T21:11:00Z",
-      "content": "WASHINGTON Youve likely heard it since childhood: Dont scratch that bug bite or rash, youll make it worse. But why would something that feels so good be bad?\r\nA lot of things can cause itchiness, som… [+1967 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "BBC News"
       },
       "author": null,
@@ -421,19 +434,6 @@
       "urlToImage": null,
       "publishedAt": "2026-06-30T20:38:01Z",
       "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Gizmodo.com"
-      },
-      "author": "Ed Cara",
-      "title": "Americans Are in the Dark About the Dangers of Hot Dogs, Survey Finds - Gizmodo",
-      "description": "Only 11% could name a specific health risk linked to hot dogs and other processed meats, such as cancer.",
-      "url": "https://gizmodo.com/americans-are-in-the-dark-about-the-dangers-of-hot-dogs-survey-finds-2000779559",
-      "urlToImage": "https://gizmodo.com/app/uploads/2026/06/Half-eaten-hot-dog-1200x675.jpg",
-      "publishedAt": "2026-06-30T19:40:47Z",
-      "content": "With the Fourth of July coming up, there’s almost certain to be a hidden and dangerous threat lurking in your refrigerator or freezer. I’m talking, of course, about hot dogs.\r\nA new poll this week, c… [+3563 chars]"
     },
     {
       "source": {
@@ -489,19 +489,6 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "STAT"
-      },
-      "author": "Helen Branswell",
-      "title": "Marburg outbreak is reported in Uganda, threatening to complicate Ebola response in region - statnews.com",
-      "description": "Sources confirm to STAT that Marburg cases have been detected in western Uganda, adding another viral hemorrhagic fever outbreak in central Africa.",
-      "url": "https://www.statnews.com/2026/06/30/marburg-virus-cases-ugandan-ebola-outbreak-zone/",
-      "urlToImage": "https://www.statnews.com/wp-content/uploads/2024/09/52774910982_0c8c640cd6_o-1024x576.jpg",
-      "publishedAt": "2026-06-30T16:03:43Z",
-      "content": "Uganda formally reported to the World Health Organization on Tuesday that it had detected a Marburg disease outbreak in the western part of the country, a spokesperson for the Geneva-based global hea… [+4454 chars]"
-    },
-    {
-      "source": {
         "id": "buzzfeed",
         "name": "Buzzfeed"
       },
@@ -512,6 +499,19 @@
       "urlToImage": "https://img.buzzfeed.com/buzzfeed-static/static/2022-05/9/19/enhanced/c34ce29b7956/original-6875-1652123872-13.jpg?crop=1250:654;0,14%26downsize=1250:*",
       "publishedAt": "2026-06-30T15:31:03Z",
       "content": "\"When I would wake up in my head, I had no idea as to what had happened. So, I'm fully conscious, I know that I'm me, but I can't open my eyes, I can't move a muscle and I can't speak. The first time… [+1904 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Eatthis.com"
+      },
+      "author": "Eat This Not That",
+      "title": "5 Chair Exercises That Restore Knee Strength Faster Than Gym Sessions After 60 - Eat This Not That",
+      "description": null,
+      "url": "https://www.eatthis.com/chair-exercises-knee-strength-after-60/",
+      "urlToImage": null,
+      "publishedAt": "2026-06-30T15:03:11Z",
+      "content": null
     },
     {
       "source": {
@@ -577,32 +577,6 @@
       "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/SK7ILVZP7N2MREPMWBCKSQK3BA.jpg&w=1440",
       "publishedAt": "2026-06-30T10:32:18Z",
       "content": "If youre one of the 45 million people in the United States who use contact lenses, you may not be able to imagine life without them. In a handful of situations, though, experts are adamant that youll… [+98 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "TMZ"
-      },
-      "author": "TMZ",
-      "title": "Summer Skincare Essentials on Amazon - TMZ",
-      "description": null,
-      "url": "https://www.tmz.com/2026/06/30/skin-cleansers-moisturizers-sunscreen/",
-      "urlToImage": null,
-      "publishedAt": "2026-06-30T07:05:58Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Science Daily"
-      },
-      "author": null,
-      "title": "Scientists say creatine may help fight depression - ScienceDaily",
-      "description": "Creatine is best known as a muscle-building supplement, but scientists are now investigating whether it could also help treat depression by boosting the brain&apos;s energy supply. A new review examined five randomized clinical trials involving 238 participan…",
-      "url": "https://www.sciencedaily.com/releases/2026/06/260630020231.htm",
-      "urlToImage": "https://www.sciencedaily.com/images/1920/creatine-sports-supplement.webp",
-      "publishedAt": "2026-06-30T06:31:02Z",
-      "content": "Creatine is one of the world's most popular sports supplements, widely used to improve strength and muscle performance. Now, researchers are exploring whether it could have benefits far beyond the gy… [+6175 chars]"
     },
     {
       "source": {

@@ -3,7 +3,7 @@
   "country": "us",
   "category": "science",
   "mode": "country",
-  "fetched_at": "2026-07-02T22:52:20.182407+00:00",
+  "fetched_at": "2026-07-03T01:24:25.750809+00:00",
   "articles_count": 58,
   "articles": [
     {
@@ -21,6 +21,19 @@
     },
     {
       "source": {
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "author": "Jennifer Ouellette",
+      "title": "Superworms could replace beetles for cleaning skeletal remains - Ars Technica",
+      "description": "An optimal ratio of 10-15 grams of larvae per gram of specimen minimized cleaning time with no bone damage.",
+      "url": "https://arstechnica.com/science/2026/07/museums-could-use-ravenous-superworms-to-clean-skeletons/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/superworms1-1152x648.jpg",
+      "publishedAt": "2026-07-01T18:59:21Z",
+      "content": null
+    },
+    {
+      "source": {
         "id": null,
         "name": "Talker.news"
       },
@@ -31,19 +44,6 @@
       "urlToImage": "https://s.yimg.com/lo/mysterio/api/8ea6b9e0e0d39294ad8a4590f458ffd25b6a75e93e0202428dc7a154614b0d32/lightyear_networkapi/resizefill_w1000_h600;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Ftalker_news_345%2Fa5b04419271d88507493868bfdc6e9a3",
       "publishedAt": "2026-07-01T18:19:13Z",
       "content": "By Stephen Beech\r\nEarth will be destroyed when our sun dies - around 5 billion years from now, suggests new research.\r\nThe study by astronomers from the University of St Andrews in Scotland gives fre… [+5670 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "New York Post"
-      },
-      "author": "Ben Cost",
-      "title": "Shocking new theory suggests Earth could survive the death of the Sun after all - New York Post",
-      "description": "We might not have to go scorched Earth after all.",
-      "url": "https://nypost.com/2026/07/01/science/earth-might-survive-suns-death-scientists-claim/",
-      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/07/132916104.jpg?quality=75&strip=all&w=1200",
-      "publishedAt": "2026-07-01T17:45:00Z",
-      "content": "We might not have to go scorched Earth after all.\r\nContrary to popular belief, the Earth might actually weather the fiery death of the sun that’s expected to engulf our neighbors, per a relieving stu… [+2582 chars]"
     },
     {
       "source": {
@@ -100,6 +100,58 @@
     {
       "source": {
         "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Gayoung Lee",
+      "title": "Claude’s Solution to Decades-Long Math Mystery Is ‘Essentially Correct,’ Physicists Say - Gizmodo",
+      "description": "For years, physicists were stuck in trying to explain an important mathematical problem in physics. The right approach ended up being too simple.",
+      "url": "https://gizmodo.com/claudes-solution-to-decades-long-math-mystery-is-essentially-correct-physicists-say-2000780104",
+      "urlToImage": "https://gizmodo.com/app/uploads/2026/07/jamming-conjecture-claude-top-1200x675.jpg",
+      "publishedAt": "2026-07-01T15:45:56Z",
+      "content": "As typically is the case with AI, whether it truly adds any value to human work depends on the users intentions. For science, that means that, technically, AI can try offering an answer to a question… [+3330 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Space Daily"
+      },
+      "author": "Space Daily",
+      "title": "The modern potato traces back to an ancient chance encounter between a wild tomato and a small tuberless plant approximately nine million years ago in South America, in a hybrid event that produced the first underground storage organ neither parent could - Space Daily",
+      "description": null,
+      "url": "https://spacedaily.com/k-the-modern-potato-traces-back-to-an-ancient-chance-encounter-between-a-wild-tomato-and-a-small-tuberless-plant-approximately-nine-million-years-ago-in-south-america-in-a-hybrid-event-that-produced-t/",
+      "urlToImage": null,
+      "publishedAt": "2026-07-01T15:00:54Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Passant Rabie",
+      "title": "ESO Study Finds That No More Than 100,000 Satellites Should Orbit Earth - Gizmodo",
+      "description": "SpaceX alone wants to launch 1 million satellites to orbit, far exceeding the proposed limit.",
+      "url": "https://gizmodo.com/eso-study-finds-that-no-more-than-100000-satellites-should-orbit-earth-2000780091",
+      "urlToImage": "https://gizmodo.com/app/uploads/2026/07/satellite-interference--1200x675.jpg",
+      "publishedAt": "2026-07-01T15:00:05Z",
+      "content": "A first-of-its-kind study measured the extent to which bright constellations affect astronomers’ view of the night sky, setting a proposed limit to how many satellites should be in Earth’s orbit.\r\nTh… [+4086 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Financial Times"
+      },
+      "author": "Michael Peel",
+      "title": "Scientists unveil synthetic cells to power low-carbon factories - Financial Times",
+      "description": "Invention known as SpudCell is part of effort to use micro-scale bioengineering in manufacture of everyday items",
+      "url": "https://www.ft.com/content/7ccf2008-24b0-40ff-a910-ade5a239810c?syn-25a6b1a6\\\\u003d1",
+      "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F63a2da4b-6a25-4936-939a-b80b8f4dfccb.jpg?source=next-barrier-page",
+      "publishedAt": "2026-07-01T14:00:07Z",
+      "content": "Then $75 per month. Complete digital access to quality FT journalism on any device. Cancel anytime during your trial."
+    },
+    {
+      "source": {
+        "id": null,
         "name": "Space.com"
       },
       "author": "Daisy Dobrijevic",
@@ -122,6 +174,19 @@
       "urlToImage": "https://assets.iflscience.com/assets/articleNo/83970/aImg/91310/china-meta.png",
       "publishedAt": "2026-07-01T13:45:13Z",
       "content": "China is hellbent on a mission to plant billions of trees, but a new study suggests these artificially planted forests are behaving quite differently from their natural counterparts.China's big refor… [+3298 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Nature.com"
+      },
+      "author": null,
+      "title": "Paper mill cancer studies get double the number of citations as genuine papers - Nature",
+      "description": "Potentially fraudulent papers often cite each other and could be inflating the impact factor of journals in which they are published.",
+      "url": "https://www.nature.com/articles/d41586-026-01908-8",
+      "urlToImage": "https://media.nature.com/lw1200/magazine-assets/d41586-026-01908-8/d41586-026-01908-8_52651668.jpg",
+      "publishedAt": "2026-07-01T13:21:09Z",
+      "content": "Credit: WIN-Initiative/Neleman/Getty\r\nCancer research articles with telltale signs of being produced by paper mills garner double the number of citations than do genuine papers in the field, finds an… [+4618 chars]"
     },
     {
       "source": {
@@ -230,6 +295,19 @@
     {
       "source": {
         "id": null,
+        "name": "Space.com"
+      },
+      "author": "Josh Dinner",
+      "title": "NASA to launch rescue mission July 2 to save Swift space telescope from burning up in Earth's atmosphere - Space",
+      "description": "A rocket launching to space from an airplane is sort of like a hat on a hat, but you know what? The more hats, the better.",
+      "url": "https://www.space.com/space-exploration/launches-spacecraft/nasa-to-launch-ambitious-mission-to-save-a-space-telescope-from-burning-up-in-earths-atmosphere",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/WgMWbjBWVReuBYGSBLYp6P-2000-80.jpg",
+      "publishedAt": "2026-07-01T10:15:19Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
         "name": "Skyatnightmagazine.com"
       },
       "author": "Iain Todd",
@@ -308,15 +386,28 @@
     {
       "source": {
         "id": null,
-        "name": "SpaceNews"
+        "name": "Phys.Org"
       },
-      "author": "Jeff Foust",
-      "title": "NASA awards nearly $600 million in lunar lander missions - SpaceNews",
-      "description": "NASA has selected three companies to fly four robotic lunar lander missions worth nearly $600 million as part of its lunar base ambitions.",
-      "url": "https://spacenews.com/nasa-awards-nearly-600-million-in-lunar-lander-missions/",
-      "urlToImage": "https://spacenews.com/wp-content/uploads/2026/06/landers-june2026.jpeg",
-      "publishedAt": "2026-06-30T23:57:29Z",
-      "content": "WASHINGTON NASA has selected three companies to fly four robotic lunar lander missions worth nearly $600 million as part of its lunar base ambitions, as the agency weighs sending a spare Mars rover t… [+7304 chars]"
+      "author": "Phys.org",
+      "title": "Abundant catalyst converts methane into valuable liquid chemicals - Phys.org",
+      "description": null,
+      "url": "https://phys.org/news/2026-06-abundant-catalyst-methane-valuable-liquid.html",
+      "urlToImage": null,
+      "publishedAt": "2026-06-30T23:20:03Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "nbc-news",
+        "name": "NBC News"
+      },
+      "author": "NBC News",
+      "title": "NASA barrels ahead with moon base plans, doling out nearly $600 million in new contracts - NBC News",
+      "description": null,
+      "url": "https://www.nbcnews.com/science/space/nasa-moon-base-private-space-companies-contracts-rcna352382",
+      "urlToImage": null,
+      "publishedAt": "2026-06-30T22:39:39Z",
+      "content": null
     },
     {
       "source": {
@@ -343,6 +434,19 @@
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/ballistaspider-1152x648-1782840720.jpg",
       "publishedAt": "2026-06-30T22:11:10Z",
       "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Phys.Org"
+      },
+      "author": null,
+      "title": "Astronomers find an enigmatic source that is most likely a Little Red Dot in formation - Phys.org",
+      "description": "Astronomers have, for the first time, found a source in the process of becoming a Little Red Dot, using the James Webb Space Telescope (JWST). Little Red Dots are likely early galaxies and some of the most intriguing objects found with JWST at high redshifts.…",
+      "url": "https://phys.org/news/2026-06-astronomers-enigmatic-source-red-dot.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/astronomers-find-an-en-2.jpg",
+      "publishedAt": "2026-06-30T21:40:03Z",
+      "content": "Astronomers have, for the first time, found a source in the process of becoming a Little Red Dot, using the James Webb Space Telescope (JWST). Little Red Dots are likely early galaxies and some of th… [+3053 chars]"
     },
     {
       "source": {
@@ -542,19 +646,6 @@
     {
       "source": {
         "id": null,
-        "name": "Phys.Org"
-      },
-      "author": "Krystal Kasal",
-      "title": "An iconic spear-throwing device likely wasn't used by prehistoric hunters until around 10,000 years ago - Phys.org",
-      "description": "Archaeologists have long pictured prehistoric hunters taking down mammoths and other megafauna using the atlatl, a handheld spear-throwing device that uses leverage to achieve greater velocity and force when throwing darts. In particular, use of the atlatl wa…",
-      "url": "https://phys.org/news/2026-06-iconic-spear-device-wasnt-prehistoric.html",
-      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/an-iconic-spear-throwi-1.jpg",
-      "publishedAt": "2026-06-30T15:20:04Z",
-      "content": "Archaeologists have long pictured prehistoric hunters taking down mammoths and other megafauna using the atlatl, a handheld spear-throwing device that uses leverage to achieve greater velocity and fo… [+5134 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "Space Daily"
       },
       "author": null,
@@ -568,19 +659,6 @@
     {
       "source": {
         "id": null,
-        "name": "Gizmodo.com"
-      },
-      "author": "Passant Rabie",
-      "title": "China Prepares Its First Asteroid Landing on Earth’s Quasi-Moon - Gizmodo",
-      "description": "The Tianwen-2 probe will attempt to collect samples from Kamo’oalewa and bring them back to Earth.",
-      "url": "https://gizmodo.com/china-prepares-its-first-asteroid-landing-on-earths-quasi-moon-2000779044",
-      "urlToImage": "https://gizmodo.com/app/uploads/2026/06/tianwen-2-probe-1200x675.jpg",
-      "publishedAt": "2026-06-30T13:45:04Z",
-      "content": "A Chinese probe is set for a historic touchdown on asteroid Kamooalewa, which may have been blasted away from Earth’s Moon millions of years ago after a violent impact.\r\nChina’s Tianwen-2 spacecraft … [+2659 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "Space.com"
       },
       "author": "Leonard David",
@@ -590,19 +668,6 @@
       "urlToImage": "https://cdn.mos.cms.futurecdn.net/eDUW6JdPcC5NaQVTwfsGm4-2000-80.jpg",
       "publishedAt": "2026-06-30T13:00:00Z",
       "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Popular Mechanics"
-      },
-      "author": "Darren Orf",
-      "title": "Schrödinger’s Cat Just Got a Whole Litter of Weird New Siblings in a Major Quantum Breakthrough - Yahoo",
-      "description": "First formulated in 1935, the famous thought experiment attempts to explain the weirdness of quantum superposition, but a new study shows that this theoretic...",
-      "url": "https://www.popularmechanics.com/science/a71715312/new-schrodingers-cat/",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/2fb168913530efaba5b24bdc33c4b4f150cef05a6599d47a5d98eef26b59c2ce/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fpopular_mechanics_642%2F3092151e65e116e3da611d25e812a3eb",
-      "publishedAt": "2026-06-30T12:30:00Z",
-      "content": "Here's what you'll learn when you read this story:\r\n<ul><li>Schrödinger's Cat is a famous thought experiment that explains the non-classical weirdness of quantum superposition.\r\n</li><li>For decades,… [+4356 chars]"
     },
     {
       "source": {
@@ -672,6 +737,19 @@
     {
       "source": {
         "id": null,
+        "name": "Space Daily"
+      },
+      "author": null,
+      "title": "Within the first few months of life, every bottlenose dolphin invents a unique whistle that becomes its name for the rest of its life — and other dolphins learn that whistle, remember it, and use it to call out to that specific individual, making bottlenose dolphins the fi - Space Daily",
+      "description": "The proposition that another animal species besides humans uses personal names was, for essentially the entire history of comparative animal cognition research before the 1960s, considered a category error. Names — as humans use them — require a substantial s…",
+      "url": "https://spacedaily.com/d-within-the-first-few-months-of-life-every-bottlenose-dolphin-invents-a-unique-whistle-that-becomes-its-name-for-the-rest-of-its-life-and-other-dolphins-learn-that-whistle-remember-it-and/",
+      "urlToImage": "https://spacedaily.com/wp-content/uploads/2026/06/Posts-1600840-2026-06-30T110959.751.png",
+      "publishedAt": "2026-06-30T04:45:41Z",
+      "content": "The proposition that another animal species besides humans uses personal names was, for essentially the entire history of comparative animal cognition research before the 1960s, considered a category… [+8848 chars]"
+    },
+    {
+      "source": {
+        "id": null,
         "name": "Interesting Engineering"
       },
       "author": "Neetika Walter",
@@ -681,84 +759,6 @@
       "urlToImage": "https://cms.interestingengineering.com/wp-content/uploads/2026/06/Aalto_University_Designs_for_a_Cooler_Planet_2026_SuperC_by_photo_by_Esa_Kapila1_LR.jpg",
       "publishedAt": "2026-06-30T00:01:00Z",
       "content": "Researchers have discovered two new superconductors using a machine learning-based screening method, demonstrating a faster way to identify materials that could one day enable room-temperature superc… [+3402 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Phys.Org"
-      },
-      "author": null,
-      "title": "First-of-a-kind laser spring opens up new avenues for plasma control - Phys.org",
-      "description": "When a high-intensity laser interacts with plasma, the charged particles typically oscillate back and forth like waves on the ocean. But what if the laser itself could twist like a whirlpool? Researchers have now demonstrated a rotating, spring-shaped laser p…",
-      "url": "https://phys.org/news/2026-06-kind-laser-avenues-plasma.html",
-      "urlToImage": "https://scx2.b-cdn.net/gfx/news/2026/researchers-create-fir-4.jpg",
-      "publishedAt": "2026-06-29T23:00:07Z",
-      "content": "When a high-intensity laser interacts with plasma, the charged particles typically oscillate back and forth like waves on the ocean. But what if the laser itself could twist like a whirlpool? Researc… [+6197 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Phys.Org"
-      },
-      "author": null,
-      "title": "Graphene can hold multiple states of superconductivity, a new study finds - Phys.org",
-      "description": "The ordinary graphite in pencil lead is proving to be surprisingly multifaceted at the microscale. In a study published in the journal Nature, MIT researchers report that a certain microscopic structure found in natural graphite can host multiple superconduct…",
-      "url": "https://phys.org/news/2026-06-graphene-multiple-states-superconductivity.html",
-      "urlToImage": "https://scx2.b-cdn.net/gfx/news/2026/graphene-can-hold-mult.jpg",
-      "publishedAt": "2026-06-29T22:40:01Z",
-      "content": "The ordinary graphite in pencil lead is proving to be surprisingly multifaceted at the microscale. In a study published in the journal Nature, MIT researchers report that a certain microscopic struct… [+9338 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ScienceAlert"
-      },
-      "author": "Michelle Starr",
-      "title": "Mammoth Structure Found in Deep Space Challenges Our Understanding of The Universe - ScienceAlert",
-      "description": "A massive structure detected in the distant Universe is defying our understanding of how the Universe evolved.",
-      "url": "https://www.sciencealert.com/impossible-structure-in-deep-space-challenges-our-understanding-of-the-universe",
-      "urlToImage": "https://www.sciencealert.com/images/2024/01/big-ring.jpg",
-      "publishedAt": "2026-06-29T22:25:02Z",
-      "content": "A massive structure detected in the distant Universe is defying our understanding of how the Universe evolved.\r\nIn 2024, astronomers found a giant, almost perfect ring of galaxies, some 1.3 billion l… [+4414 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Sci.news"
-      },
-      "author": "Natali Anderson",
-      "title": "Early Saber-Toothed Cat Gets New Face after Decades of Mystery - Sci.News",
-      "description": "A nearly complete skull unearthed decades ago in Arizona has given paleontologists their clearest look yet at Adelphailurus kansensis, an enigmatic felid species that inhabited North America more than 5 million years ago and occupied an early branch of the sa…",
-      "url": "https://www.sci.news/paleontology/adelphailurus-kansensis-14880.html",
-      "urlToImage": "https://cdn.sci.news/images/2026/06/image_14880f-Adelphailurus-kansensis.jpg",
-      "publishedAt": "2026-06-29T22:24:47Z",
-      "content": "A nearly complete skull unearthed decades ago in Arizona has given paleontologists their clearest look yet at Adelphailurus kansensis, an enigmatic felid species that inhabited North America more tha… [+4506 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Phys.Org"
-      },
-      "author": null,
-      "title": "Some boreal forest species fail to recover even 100 years after clearcutting - Phys.org",
-      "description": "Boreal forests are being clear-cut faster than some of their wildlife and plant species can recover, with a few failing to return even 100 years after harvesting, according to University of Alberta-led research.",
-      "url": "https://phys.org/news/2026-06-boreal-forest-species-recover-years.html",
-      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/some-boreal-forest-spe-1.jpg",
-      "publishedAt": "2026-06-29T20:40:06Z",
-      "content": "Boreal forests are being clear-cut faster than some of their wildlife and plant species can recover, with a few failing to return even 100 years after harvesting, according to University of Alberta-l… [+4188 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Gizmodo.com"
-      },
-      "author": "Ellyn Lapointe",
-      "title": "The Ozone Hole’s Earliest Cause Wasn’t CFCs After All - Gizmodo",
-      "description": "Scientists discovered the ozone hole in 1985, but if they'd had the atmospheric monitoring capabilities of today, they could have found it 30 years earlier, according to new research.",
-      "url": "https://gizmodo.com/the-ozone-holes-earliest-cause-wasnt-cfcs-after-all-2000778957",
-      "urlToImage": "https://gizmodo.com/app/uploads/2026/06/ozone-hole-1200x675.jpg",
-      "publishedAt": "2026-06-29T20:30:15Z",
-      "content": "When researchers first discovered the Antarctic ozone hole in 1985, it was a shock to the scientific community. The wave of studies that followed suggested it began forming in the 1970s, driven prima… [+4443 chars]"
     }
   ]
 }

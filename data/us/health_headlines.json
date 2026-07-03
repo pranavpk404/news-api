@@ -3,21 +3,34 @@
   "country": "us",
   "category": "health",
   "mode": "country",
-  "fetched_at": "2026-07-03T20:48:22.742776+00:00",
-  "articles_count": 58,
+  "fetched_at": "2026-07-03T22:49:02.226755+00:00",
+  "articles_count": 56,
   "articles": [
     {
       "source": {
-        "id": null,
-        "name": "FOX21News.com"
+        "id": "cbs-news",
+        "name": "CBS News"
       },
-      "author": "FOX21 News Colorado",
-      "title": "Boy dies from rabies after waking up to bat on his face - FOX21 News Colorado",
-      "description": null,
-      "url": "https://www.fox21news.com/news/national/boy-dies-from-rabies-after-waking-up-to-bat-on-his-face/",
-      "urlToImage": null,
-      "publishedAt": "2026-07-02T18:18:18Z",
-      "content": null
+      "author": "Ian  Lee, Kelsie  Hoffman",
+      "title": "Tick season is expected to be worse than normal as ER visits rise in much of the U.S. - CBS News",
+      "description": "The CDC is reporting the highest rate of emergency room visits from tick bites since 2017 in many parts of the U.S.",
+      "url": "https://www.cbsnews.com/news/tick-season-emergency-room-visits-rise-safety-tips/",
+      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/07/02/08f9be58-8e0a-403f-a674-af805fcb011f/thumbnail/1200x630/28ae30fbc775e54ba7b517ebe450428c/cbsn-fusion-tick-season-is-expected-to-be-worse-than-normal-this-summer-heres-why-thumbnail.jpg",
+      "publishedAt": "2026-07-02T16:34:29Z",
+      "content": "This summer tick season is expected to be worse than usual. The Centers for Disease Control and Prevention reports the highest rate of emergency room visits from tick bites since 2017 across most of … [+2099 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "WHO says Hantavirus outbreak linked to ship is over - BBC",
+      "description": "The World Health Organization's director general says no further cases have been reported since 25 May.",
+      "url": "https://www.bbc.com/news/articles/cd7wjy2e1d8o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/7148/live/800d6ce0-762f-11f1-ac11-19a4319081d7.png",
+      "publishedAt": "2026-07-02T16:30:42Z",
+      "content": "Symptoms can include fever, extreme fatigue, muscle aches, stomach pain, vomiting, diarrhoea and shortness of breath."
     },
     {
       "source": {
@@ -30,19 +43,6 @@
       "url": "https://arstechnica.com/health/2026/07/africa-cdc-confirms-marburg-case-in-uganda-as-ebola-outbreak-rages/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2279919981-2560x1440.jpg",
       "publishedAt": "2026-07-02T16:30:37Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Abcnews.com"
-      },
-      "author": "ABC News - Breaking News, Latest News and Videos",
-      "title": "Hantavirus outbreak linked to cruise ship over after last contact completes quarantine: WHO - ABC News - Breaking News, Latest News and Videos",
-      "description": null,
-      "url": "https://abcnews.com/Health/hantavirus-outbreak-linked-cruise-ship-after-contact-completes/story?id\\\\u003d134410210",
-      "urlToImage": null,
-      "publishedAt": "2026-07-02T15:44:36Z",
       "content": null
     },
     {
@@ -151,19 +151,6 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "HuffPost"
-      },
-      "author": null,
-      "title": "Sorry, But These Healthy Foods Contain Way Less Fiber Than You Think - HuffPost",
-      "description": "This may make you rethink your fibermaxxing plan.",
-      "url": "https://www.huffpost.com/entry/foods-high-in-fiber_l_6a428c80e4b0f4826b468581",
-      "urlToImage": "https://img.huffingtonpost.com/asset/6a42a430170000f779a7e505.jpeg?cache=JydvWvyFtS&ops=500_281%2Cscalefit_1200_630",
-      "publishedAt": "2026-07-02T11:00:17Z",
-      "content": "Amid Americas full-blown obsession with protein, fiber hasnt gotten nearly the recognition it deserves. \r\nProtein has certainly earned its place in the spotlight, but fiber deserves just as much atte… [+8604 chars]"
-    },
-    {
-      "source": {
         "id": "the-washington-post",
         "name": "The Washington Post"
       },
@@ -229,16 +216,29 @@
     },
     {
       "source": {
-        "id": "the-wall-street-journal",
-        "name": "The Wall Street Journal"
+        "id": "cnn",
+        "name": "CNN"
       },
-      "author": "WSJ",
-      "title": "U.S. Death Rate Falls to Its Lowest Point on Record - WSJ",
-      "description": null,
-      "url": "https://www.wsj.com/health/u-s-death-rate-falls-to-its-lowest-point-on-record-9b7777c5",
-      "urlToImage": null,
-      "publishedAt": "2026-07-02T04:01:00Z",
-      "content": null
+      "author": "Deidre McPhillips",
+      "title": "US life expectancy on track to reach record high as death rate falls to record low in 2025 - CNN",
+      "description": "New mortality data from the federal government suggests that life expectancy probably hit another record high in 2025, as death rates have continued to fall since the height of the Covid-19 pandemic.",
+      "url": "https://www.cnn.com/2026/07/02/health/us-death-rate-record-low-cdc-report-longevity",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/c-ap26079107095098.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2026-07-02T04:01:26Z",
+      "content": "New mortality data from the federal government suggests that life expectancy probably hit another record high in 2025, as death rates have continued to fall since the height of the Covid-19 pandemic.… [+5946 chars]"
+    },
+    {
+      "source": {
+        "id": "the-washington-post",
+        "name": "The Washington Post"
+      },
+      "author": "Lena H. Sun",
+      "title": "West Nile virus is surging earlier than it has in decades. Here’s how to protect yourself. - The Washington Post",
+      "description": "The spread of the mosquito-borne virus is off to its earliest start in more than 20 years.",
+      "url": "https://www.washingtonpost.com/health/2026/07/01/west-nile-virus-is-surging-earlier-than-it-has-decades-heres-how-protect-yourself/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/24FUGANY5RIUWSRZD2VP24ZKLQ.jpg&w=1440",
+      "publishedAt": "2026-07-02T03:44:16Z",
+      "content": "West Nile virus activity is starting earlier than it has in years, with the CDC warning it is now seeing the highest number of human cases of the nasty mosquito-borne disease since 2004.\r\nAt least 48… [+114 chars]"
     },
     {
       "source": {
@@ -334,19 +334,6 @@
     {
       "source": {
         "id": null,
-        "name": "Abcnews.com"
-      },
-      "author": "ABC News - Breaking News, Latest News and Videos",
-      "title": "Record number of West Nile virus cases since 2004, CDC warns ahead of holiday weekend - ABC News - Breaking News, Latest News and Videos",
-      "description": null,
-      "url": "https://abcnews.com/Health/record-number-west-nile-virus-cases-2004-cdc/story?id\\\\u003d134382760",
-      "urlToImage": null,
-      "publishedAt": "2026-07-01T21:35:14Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
         "name": "PEOPLE"
       },
       "author": "Cara Lynn Shultz",
@@ -369,19 +356,6 @@
       "urlToImage": "https://cdn.mos.cms.futurecdn.net/vDeXSXyaBWob8ptL6YEoLa-675-80.png",
       "publishedAt": "2026-07-01T20:50:26Z",
       "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Foxweather.com"
-      },
-      "author": null,
-      "title": "Your guide to identifying some of the most common ticks found in the US - FOX Weather",
-      "description": "As awareness of tickborne diseases increases, it's important to know which ticks can cause these diseases, where you can find them and how to identify them.",
-      "url": "https://www.foxweather.com/lifestyle/guide-identify-common-ticks-found-us",
-      "urlToImage": "https://images.foxweather.com/static.foxweather.com/www.foxweather.com/content/uploads/2026/07/1024/512/amblyomma-americanum-phil-1.jpg?ve=1&tl=1",
-      "publishedAt": "2026-07-01T20:31:00Z",
-      "content": "As awareness of tickborne diseases increases, it's important to know which ticks can cause these diseases, where you can find them and how to identify them.\r\nIllnesses like Lyme disease, Rocky Mounta… [+5345 chars]"
     },
     {
       "source": {
@@ -515,6 +489,19 @@
     },
     {
       "source": {
+        "id": "medical-news-today",
+        "name": "Medical News Today"
+      },
+      "author": "Peter Morales-Brown",
+      "title": "A greener approach to the Mediterranean diet may benefit heart health - Medical News Today",
+      "description": "New research suggests the Green Mediterranean dietary plan may offer more heart health benefits than the traditional Mediterranean diet, particularly by boosting folate status.",
+      "url": "https://www.medicalnewstoday.com/articles/green-mediterranean-diet-may-benefit-health-more-than-traditional-diet",
+      "urlToImage": "https://media.post.rvohealth.io/wp-content/uploads/sites/3/2026/07/woman-eating-healthy-salad-during-lunch-break-1200x628-facebook.jpg",
+      "publishedAt": "2026-07-01T16:09:39Z",
+      "content": "<ul><li>A study suggests that participants following a plant-rich Green Mediterranean diet (Green-MED) had significantly higher blood folate levels than those following a traditional Mediterranean di… [+9927 chars]"
+    },
+    {
+      "source": {
         "id": "newsweek",
         "name": "Newsweek"
       },
@@ -542,19 +529,6 @@
     {
       "source": {
         "id": null,
-        "name": "Eatingwell.com"
-      },
-      "author": "https://www.facebook.com/EatingWell/",
-      "title": "The Best Vegetable to Help You Poop, According to Dietitians - EatingWell",
-      "description": "Do peas help with constipation? Green peas provide fiber, fluids and magnesium to support regularity and digestive health. Learn how peas help you poop.",
-      "url": "https://www.eatingwell.com/best-vegetable-for-constipation-11991472",
-      "urlToImage": "https://www.eatingwell.com/thmb/TK2IG1yIdcMeKUiZKxES3C4E7b4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/The-Best-Vegetable-to-Help-You-Poop-According-to-Dietitian-227cfb7cbf9348fe84771f2302e5177b.jpg",
-      "publishedAt": "2026-07-01T15:01:08Z",
-      "content": "When it comes to easing the act of pooping, what you eat can make a big difference. Foods rich in fiber and fluids are especially helpful, since theyre two of the best-known ways to prevent and treat… [+4080 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "Verywellhealth.com"
       },
       "author": "https://www.facebook.com/verywell",
@@ -564,6 +538,32 @@
       "urlToImage": "https://www.verywellhealth.com/thmb/zBmhH1_8nct-Y6_cC-8bBTuvXgA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/VWH-GettyImages-1144957920-4ef206d347284a9fa74e0462a0e564c6.jpg",
       "publishedAt": "2026-07-01T14:00:00Z",
       "content": "Key Takeaways\r\n<ul><li>Drinking 4 to 8 ounces of prune juice in the evening may help soften stools and promote easier bowel movements by morning.</li><li>Prune juice contains sorbitol, which draws wa… [+3609 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Nature.com"
+      },
+      "author": null,
+      "title": "Why paying peer reviewers works, according to a journal’s editor-in-chief - Nature",
+      "description": "A biology journal that paid peer reviewers found that the approach cut the time to a first editorial decision by 85% and maintained high-quality reviews.",
+      "url": "https://www.nature.com/articles/d41586-026-01973-z",
+      "urlToImage": "https://media.nature.com/lw1200/magazine-assets/d41586-026-01973-z/d41586-026-01973-z_52839120.jpg",
+      "publishedAt": "2026-07-01T13:44:37Z",
+      "content": "Paying reviewers led to faster first editorial decisions and higher-quality reviews in a trial at the journal Biology Open.Credit: Phimwilai Kitsuriya/Getty\r\nScience relies on peer review, but the pr… [+4282 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Verywellhealth.com"
+      },
+      "author": "https://www.facebook.com/verywell",
+      "title": "Study Says Vitamin D and Calcium Don't Prevent Falls—What Works Instead - Verywell Health",
+      "description": "A large study found that vitamin D and calcium supplements don't meaningfully reduce falls or fractures in most adults. Here's what actually works for bone health.",
+      "url": "https://www.verywellhealth.com/vitamin-d-and-calcium-dont-reduce-falls-or-fractures-12000819",
+      "urlToImage": "https://www.verywellhealth.com/thmb/lXL7SvxAr2Dnq9ClODliDdr5vEk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/VWH-GettyImages-2255667460-edc9c98e9c58430fb32763a688b013f1.jpg",
+      "publishedAt": "2026-07-01T13:35:00Z",
+      "content": "<ul><li>A large meta-analysis of 69 clinical trials involving nearly 154,000 adults found that vitamin D and calcium supplements do not reduce falls or fractures for most adults.</li><li>Some people,… [+4720 chars]"
     },
     {
       "source": {
@@ -593,6 +593,19 @@
     },
     {
       "source": {
+        "id": null,
+        "name": "New York Post"
+      },
+      "author": "Patrice Peck",
+      "title": "Conan O’Brien reveals overlooked male menopause change that surprised him - New York Post",
+      "description": "The comedian and former late-night host opened up about the moment he realized one of the effects of aging may have been tied to his changing testosterone levels.",
+      "url": "https://nypost.com/2026/07/01/health/conan-obrien-reveals-male-menopause-change-that-surprised-him/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/06/crop-39843709.jpg?quality=75&strip=all&w=1200",
+      "publishedAt": "2026-07-01T12:59:00Z",
+      "content": "With age comes wisdom and hormonal changes.\r\nConan O’Brien found that out after an unexpected exchange revealed a surprising reason behind a shift he’d noticed in himself.\r\nAndropause  often dubbed “… [+4374 chars]"
+    },
+    {
+      "source": {
         "id": "the-washington-post",
         "name": "The Washington Post"
       },
@@ -616,19 +629,6 @@
       "urlToImage": "https://assets.vogue.com/photos/6a42da83bd9702d43d4048e6/16:9/w_1280,c_limit/GettyImages-2154267575%20copy.jpg",
       "publishedAt": "2026-07-01T12:00:00Z",
       "content": "To be Dua Lipa, eating cherries on the beach during your Italian honeymoon getaway. Unsurprisingly, the pop star has great taste (literally), as Harvard recently listed cherries as one of the best an… [+2741 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Verywellhealth.com"
-      },
-      "author": "https://www.facebook.com/verywell",
-      "title": "The Benefits—and Possible Downsides—of Eating Peanut Butter Every Day - Verywell Health",
-      "description": "Peanut butter can offer a variety of health benefits—but the exact ingredients and portion size matter. Here's what to know, and how to choose the healthiest variety.",
-      "url": "https://www.verywellhealth.com/peanut-butter-benefits-11938505",
-      "urlToImage": "https://www.verywellhealth.com/thmb/9KOjz1xwLcO9l_pa5e5mts2BPcc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/VWH-GettyImages-1426122781-57920c3232dc478f96d86ede3ed9a2db.jpg",
-      "publishedAt": "2026-07-01T11:32:35Z",
-      "content": "<ul><li>Peanut butter contains protein, healthy fats, essential vitamins and minerals, and fiber that may offer heart health, muscle repair, and weight management benefits.</li><li>Peanut butter may … [+4716 chars]"
     },
     {
       "source": {
@@ -685,15 +685,28 @@
     {
       "source": {
         "id": null,
-        "name": "Science Daily"
+        "name": "WHYY"
       },
-      "author": null,
-      "title": "Scientists discover a surprising link between vitamin C and brain health - ScienceDaily",
-      "description": "Could something as simple as vitamin C help support a healthier aging brain? In a study of more than 2,000 older adults in Japan, researchers found that people with lower vitamin C levels in their blood also tended to have less gray matter and weaker connecti…",
-      "url": "https://www.sciencedaily.com/releases/2026/06/260626030428.htm",
-      "urlToImage": "https://www.sciencedaily.com/images/1920/neuroscience-brain-boost-glow.webp",
-      "publishedAt": "2026-07-01T05:24:28Z",
-      "content": "Researchers have found another clue that diet may influence how the brain ages. In a study of more than 2,000 older adults in Japan, people with lower levels of vitamin C in their blood tended to hav… [+3642 chars]"
+      "author": "Nicole Leonard",
+      "title": "A Philly woman knew something was wrong. It took 4 ER visits to find her cancer - WHYY",
+      "description": "Medical advances mean that more people are surviving cancer. But not everyone is benefiting from those gains equally, a new report shows.",
+      "url": "http://whyy.org/articles/philadelphia-colon-cancer-survivor-equitable-care/",
+      "urlToImage": "https://whyy.org/wp-content/uploads/2026/06/philadelphia-colon-cancer-nl-062826-f-scaled.jpeg",
+      "publishedAt": "2026-07-01T07:00:00Z",
+      "content": "From Philly and the Pa. suburbs to South Jersey and Delaware, what would you like WHYY News to cover? Let us know!\r\nJanaylon Wright had just turned 29 years old when she started having a persistent p… [+3493 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ScienceAlert"
+      },
+      "author": "Jess Cockerill",
+      "title": "Ovaries Appear to Develop an Incredible Second Role After Menopause - ScienceAlert",
+      "description": "We've all heard of menopause: a supposedly terminal moment for the female reproductive system, in which the ovaries stop releasing eggs and presumably call it a day.",
+      "url": "https://www.sciencealert.com/ovaries-appear-to-develop-an-incredible-second-role-after-menopause",
+      "urlToImage": "https://www.sciencealert.com/images/2026/07/OvarianFollicles.jpg",
+      "publishedAt": "2026-07-01T04:03:53Z",
+      "content": "We've all heard of menopause: a supposedly terminal moment for the female reproductive system, in which the ovaries stop releasing eggs and presumably call it a day.\r\nBut reproductive biologist Franc… [+3691 chars]"
     },
     {
       "source": {
@@ -720,45 +733,6 @@
       "urlToImage": "https://neurosciencenews.com/files/2026/06/hand-dominance-tool-use-neuroscience.jpg",
       "publishedAt": "2026-06-30T22:29:18Z",
       "content": "Summary: A new study demonstrates that the motor skill gap between our two hands is not innate at all. By isolating raw biological movement from complex object interaction using 3D motion capture, th… [+9536 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "KRQE News 13"
-      },
-      "author": "KRQE",
-      "title": "Rare but dangerous tick-borne virus on the rise in US - KRQE",
-      "description": null,
-      "url": "https://www.krqe.com/news/national/rare-but-dangerous-tick-borne-virus-on-the-rise-in-us/",
-      "urlToImage": null,
-      "publishedAt": "2026-06-30T20:38:01Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The-independent.com"
-      },
-      "author": "Julia Musto",
-      "title": "The sunburns that can change your life: Experts say just 5 can double cancer risk - The Independent",
-      "description": "Getting five or more blistering burns between the ages of 15-20 increases melanoma risk by 80 percent",
-      "url": "https://www.the-independent.com/life-style/health-and-families/sunburns-skin-cancer-risk-melanoma-b3006053.html",
-      "urlToImage": "https://static.the-independent.com/2026/06/30/18/30/GettyImages-2220798374.jpeg?trim=0,2,0,1&width=1200&height=800&crop=1200:800",
-      "publishedAt": "2026-06-30T19:18:00Z",
-      "content": "Your support helps us to tell the story\r\nFrom reproductive rights to climate change to Big Tech, The Independent is on the ground when the story is developing. Whether it's investigating the financia… [+3524 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "EurekAlert"
-      },
-      "author": null,
-      "title": "Lab-grown retinal cells show promise for new eye therapies - EurekAlert!",
-      "description": "Biomedical engineers at Duke University have used induced pluripotent stem cells (iPSCs) to grow specialized blood vessel cells critical to retinal health for the first time.",
-      "url": "https://www.eurekalert.org/news-releases/1133806",
-      "urlToImage": "https://mediasvc.eurekalert.org/Api/v1/Multimedia/ad48c43f-a5db-47a3-96c8-0fcae84c64a6/Rendition/thumbnail/Content/Public",
-      "publishedAt": "2026-06-30T18:10:54Z",
-      "content": "image: This image depicts both healthy (right) and deteriorated (left) human retinal endothelial cells, which are essential for maintaining eye sight. The deterioration is caused by low oxygen and hi… [+6057 chars]"
     }
   ]
 }

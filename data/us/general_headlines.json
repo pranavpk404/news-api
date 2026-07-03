@@ -3,20 +3,72 @@
   "country": "us",
   "category": "general",
   "mode": "country",
-  "fetched_at": "2026-07-03T05:37:28.515217+00:00",
-  "articles_count": 31,
+  "fetched_at": "2026-07-03T08:40:39.259693+00:00",
+  "articles_count": 28,
   "articles": [
     {
       "source": {
-        "id": "cbs-news",
-        "name": "CBS News"
+        "id": "associated-press",
+        "name": "Associated Press"
       },
-      "author": "CBS News",
-      "title": "Jaylen Brown traded from Boston Celtics to Philadelphia 76ers - CBS News",
+      "author": "AP News",
+      "title": "U.S. beats Bosnia-Herzegovina 2-0 to advance to round of 16 and keep its World Cup dreams alive - AP News",
       "description": null,
-      "url": "https://www.cbsnews.com/boston/news/jaylen-brown-traded-boston-celtics-philadelphia-76ers/",
+      "url": "https://apnews.com/article/world-cup-usmnt-bosnia-score-b78bdf42bf14d604d7b466aa58d33324",
       "urlToImage": null,
-      "publishedAt": "2026-07-02T04:02:06Z",
+      "publishedAt": "2026-07-02T05:28:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "usa-today",
+        "name": "USA Today"
+      },
+      "author": "USA Today",
+      "title": "Jaylen Brown traded to 76ers for Paul George in deal that reshapes Sixers and Celtics - USA Today",
+      "description": null,
+      "url": "https://www.usatoday.com/story/sports/nba/2026/07/01/jaylen-brown-trade-details-celtics-76ers-paul-george/90746526007/",
+      "urlToImage": null,
+      "publishedAt": "2026-07-02T05:15:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "CNN",
+      "title": "Why ‘The World’s Most Famous Arena’ actually makes sense for Taylor Swift and Travis Kelce - CNN",
+      "description": null,
+      "url": "https://www.cnn.com/2026/07/02/us/msg-security-taylor-swift-travis-kelce",
+      "urlToImage": null,
+      "publishedAt": "2026-07-02T05:00:25Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "CNN",
+      "title": "Live updates: Indirect US-Iran talks make ‘positive progress,’ US Navy search for missing MH-60S crew - CNN",
+      "description": null,
+      "url": "https://www.cnn.com/2026/07/02/world/live-news/iran-war-us-talks",
+      "urlToImage": null,
+      "publishedAt": "2026-07-02T04:28:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "POLITICO.eu"
+      },
+      "author": "politico.eu",
+      "title": "Putin’s economy is running on fumes after Ukrainian attacks - politico.eu",
+      "description": null,
+      "url": "https://www.politico.eu/article/vladimir-putin-russia-economy-fuel-crisis-ukraine-attacks/",
+      "urlToImage": null,
+      "publishedAt": "2026-07-02T03:00:00Z",
       "content": null
     },
     {
@@ -34,6 +86,19 @@
     },
     {
       "source": {
+        "id": "associated-press",
+        "name": "Associated Press"
+      },
+      "author": "AP News",
+      "title": "Defying Pope Leo XIV, traditionalists go ahead with bishop consecrations in Switzerland - AP News",
+      "description": null,
+      "url": "https://apnews.com/article/vatican-traditionalist-pope-latin-975a7dd408e151310f5e515030cd6c97",
+      "urlToImage": null,
+      "publishedAt": "2026-07-02T02:55:00Z",
+      "content": null
+    },
+    {
+      "source": {
         "id": "the-washington-post",
         "name": "The Washington Post"
       },
@@ -43,19 +108,6 @@
       "url": "https://www.washingtonpost.com/health/2026/07/01/west-nile-virus-is-surging-earlier-than-it-has-decades-heres-how-protect-yourself/",
       "urlToImage": null,
       "publishedAt": "2026-07-02T02:47:07Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "cbs-news",
-        "name": "CBS News"
-      },
-      "author": "CBS News",
-      "title": "2 Empire State Building climbers in custody after apparently getting engaged at the top - CBS News",
-      "description": null,
-      "url": "https://www.cbsnews.com/newyork/news/empire-state-building-climbers-banner-nyc/",
-      "urlToImage": null,
-      "publishedAt": "2026-07-02T02:30:10Z",
       "content": null
     },
     {
@@ -86,32 +138,6 @@
     },
     {
       "source": {
-        "id": "espn",
-        "name": "ESPN"
-      },
-      "author": "ESPN",
-      "title": "USMNT beats Bosnia-Herzegovina, 1st World Cup knockout win since '02 - ESPN",
-      "description": null,
-      "url": "https://www.espn.com/soccer/story/_/id/49243502/usa-bosnia-herzegovina-2026-fifa-world-cup-knockout-round-32",
-      "urlToImage": null,
-      "publishedAt": "2026-07-02T02:06:00Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "fox-news",
-        "name": "Fox News"
-      },
-      "author": "Fox News",
-      "title": "US-Iran talks gain momentum in Doha as Hormuz tensions ease ahead of Khamenei funeral - Fox News",
-      "description": null,
-      "url": "https://www.foxnews.com/live-news/us-iran-peace-talks-07-01-26",
-      "urlToImage": null,
-      "publishedAt": "2026-07-02T01:38:03Z",
-      "content": null
-    },
-    {
-      "source": {
         "id": "bloomberg",
         "name": "Bloomberg"
       },
@@ -125,19 +151,6 @@
     },
     {
       "source": {
-        "id": "nbc-news",
-        "name": "NBC News"
-      },
-      "author": "NBC News",
-      "title": "Paramedics responded to a ‘cardiac arrest’ at Mitch McConnell’s home on day of hospitalization - NBC News",
-      "description": null,
-      "url": "https://www.nbcnews.com/politics/congress/paramedics-responded-cardiac-arrest-mcconnells-home-day-hospitalizatio-rcna352660",
-      "urlToImage": null,
-      "publishedAt": "2026-07-01T23:52:01Z",
-      "content": null
-    },
-    {
-      "source": {
         "id": "the-washington-post",
         "name": "The Washington Post"
       },
@@ -147,6 +160,19 @@
       "url": "https://www.washingtonpost.com/politics/2026/07/01/trumps-wealth-grew-scale-without-modern-presidential-precedent/",
       "urlToImage": null,
       "publishedAt": "2026-07-01T23:46:56Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": "BBC",
+      "title": "Daredevil climbers apparently get engaged after scaling needle of Empire State Building - BBC",
+      "description": null,
+      "url": "https://www.bbc.com/news/articles/cy4ewzz795wo",
+      "urlToImage": null,
+      "publishedAt": "2026-07-01T23:29:06Z",
       "content": null
     },
     {
@@ -177,81 +203,29 @@
     },
     {
       "source": {
-        "id": "the-washington-post",
-        "name": "The Washington Post"
-      },
-      "author": "Ethan Beck",
-      "title": "Victor Willis, who fronted the Village People and co-wrote ‘Y.M.C.A.,’ dies at 74 - The Washington Post",
-      "description": "The singer was a mainstay of the disco group, dressing as a policeman or naval officer while performing hits such as “In the Navy” and “Macho Man.”",
-      "url": "https://www.washingtonpost.com/obituaries/2026/07/01/victor-willis-who-fronted-village-people-co-wrote-ymca-dies-74/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/5VZ7D4JKLGBGYF2FCWSN734K34.JPG&w=1440",
-      "publishedAt": "2026-07-01T22:07:54Z",
-      "content": "Victor Willis, who helped make the Village People one of the most enduring groups of the disco era, singing lead and co-writing hits including Y.M.C.A. and Macho Man, died June 30. He was 74.\r\nHis wi… [+194 chars]"
-    },
-    {
-      "source": {
-        "id": "the-hill",
-        "name": "The Hill"
-      },
-      "author": "The Hill",
-      "title": "Parasitic illness cases are spiking: The symptoms to watch for, including ‘explosive’ diarrhea - The Hill",
-      "description": null,
-      "url": "https://thehill.com/policy/healthcare/5950436-parasitic-illness-cases-are-spiking-the-symptoms-to-watch-for-including-explosive-diarrhea/",
-      "urlToImage": null,
-      "publishedAt": "2026-07-01T21:32:00Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "espn",
-        "name": "ESPN"
-      },
-      "author": "ESPN",
-      "title": "Law enforcement official confirms Taylor Swift-Travis Kelce wedding at MSG on Friday - ESPN",
-      "description": null,
-      "url": "https://www.espn.com/nfl/story/_/id/49241315/taylor-swift-travis-kelce-wedding-madison-square-garden-official-confirms",
-      "urlToImage": null,
-      "publishedAt": "2026-07-01T21:17:00Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "bloomberg",
-        "name": "Bloomberg"
-      },
-      "author": "Mark Gurman",
-      "title": "Apple Readies New iPad Pro, Redesigned Entry MacBook Pro for 2027 - Bloomberg",
-      "description": "Apple Inc. is preparing an upgraded iPad Pro line and a redesigned entry-level MacBook Pro for next year, adding to a slate of several other major new products planned for the iPhone’s 20th anniversary year.",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-01/apple-readies-new-ipad-pro-redesigned-entry-macbook-pro-for-first-half-2027",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/imroEORbQefg/v1/1200x800.jpg",
-      "publishedAt": "2026-07-01T20:47:49Z",
-      "content": "Apple Inc. is preparing an upgraded iPad Pro line and a redesigned entry-level MacBook Pro for next year, adding to a slate of several other major new products planned for the iPhones 20th anniversar… [+293 chars]"
-    },
-    {
-      "source": {
         "id": null,
-        "name": "GamesIndustry.biz"
+        "name": "Fox Business"
       },
-      "author": "Vikki Blake",
-      "title": "Xbox is reportedly considering dropping disc drives as it tests new feature that lets players digitize physical games - GamesIndustry.biz",
-      "description": "A new report now claims Xbox, like PlayStation, is set to \"drop the disc drive.\"",
-      "url": "https://www.gamesindustry.biz/xbox-is-reportedly-considering-dropping-disc-drives-as-it-tests-new-feature-that-lets-players-digitize-physical-games",
-      "urlToImage": "https://assetsio.gnwcdn.com/Helix_header.webp?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "publishedAt": "2026-07-01T20:35:19Z",
-      "content": "A new report now claims Xbox, like PlayStation, is set to \"drop the disc drive.\"\r\nEarlier today, Sony confirmed plans to discontinue physical discs for new games launching on PS consoles from January… [+1204 chars]"
+      "author": "Fox Business",
+      "title": "What are the main sticking points in the Trump admin's trade negotiations with Canada, Mexico? - Fox Business",
+      "description": null,
+      "url": "https://www.foxbusiness.com/economy/what-main-sticking-points-trump-admins-trade-negotiations-canada-mexico",
+      "urlToImage": null,
+      "publishedAt": "2026-07-01T21:28:00Z",
+      "content": null
     },
     {
       "source": {
-        "id": "associated-press",
-        "name": "Associated Press"
+        "id": "axios",
+        "name": "Axios"
       },
-      "author": "James Robson",
-      "title": "Harry Kane sends England into the round of 16 of the World Cup after 2-1 win against Congo - AP News",
-      "description": "Harry Kane scored two second-half goals to help England rally for a 2-1 victory over Congo and a spot in the round of 16 at the World Cup. England’s all-time leading scorer evened the contest with a header after Brian Cipenga had given Congo a surprising half…",
-      "url": "https://apnews.com/article/world-cup-england-congo-score-c538259dc9d0212678db8ace14dd8f2b",
-      "urlToImage": "https://dims.apnews.com/dims4/default/5c1ccc1/2147483647/strip/true/crop/4619x3078+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F99%2F7c%2Fcd8f515b512c1151a4dcc818de05%2Fcaf8bd2cdcf84fe2a92da42e39e118be",
-      "publishedAt": "2026-07-01T20:35:00Z",
-      "content": "ATLANTA (AP) England handled the pressure and is now headed to Mexico City.\r\nHarry Kane ensured England avoided an early exit from the inaugural 48-team World Cup by scoring two second-half goals in … [+4466 chars]"
+      "author": "Josephine Walker",
+      "title": "No expectant moms at the border: Trump's birthright Plan B - Axios",
+      "description": "The proposal would open a new immigration battle over pregnancy, travel and citizenship.",
+      "url": "https://www.axios.com/2026/07/01/trump-birth-tourism-crackdown-citizenship",
+      "urlToImage": "https://images.axios.com/w2UGdUbRSdExygazSXeBZFegZfQ=/0x0:1920x1080/1366x768/2020/01/19/1579450175734.jpg",
+      "publishedAt": "2026-07-01T20:22:17Z",
+      "content": "State of play: The Supreme Court on Tuesday ruled that a Trump executive order that sought to deny citizenship to children born in the U.S. whose parents are not citizens was unconstitutional.\r\n<ul><… [+3561 chars]"
     },
     {
       "source": {
@@ -281,6 +255,19 @@
     },
     {
       "source": {
+        "id": "espn",
+        "name": "ESPN"
+      },
+      "author": "ESPN",
+      "title": "England 2-1 Congo DR: Harry Kane saves Three Lions to set up Mexico World Cup clash - as it happened - ESPN",
+      "description": null,
+      "url": "https://www.espn.com/soccer/story/_/id/49236312/england-congo-dr-live-world-cup-2026-latest-updates-commentary-score-result",
+      "urlToImage": null,
+      "publishedAt": "2026-07-01T19:57:00Z",
+      "content": null
+    },
+    {
+      "source": {
         "id": "cnn",
         "name": "CNN"
       },
@@ -291,6 +278,19 @@
       "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/nsf-doe-rubin-trifid-and-lagoon-nebulas-10k.jpg?c=16x9&q=w_800,c_fill",
       "publishedAt": "2026-07-01T19:29:28Z",
       "content": "Every 40 seconds of nighttime for the next 10 years, a camera the size of a small car will capture strikingly detailed images of the southern sky, stitching together a time-lapse panorama of intergal… [+3956 chars]"
+    },
+    {
+      "source": {
+        "id": "the-hill",
+        "name": "The Hill"
+      },
+      "author": "The Hill",
+      "title": "CDC seeks source of parasitic outbreak linked to ‘explosive’ diarrhea in multiple states - The Hill",
+      "description": null,
+      "url": "https://thehill.com/policy/healthcare/5949021-cdc-parasitic-illness-cyclosporiasis-diarrhea-us/",
+      "urlToImage": null,
+      "publishedAt": "2026-07-01T18:50:00Z",
+      "content": null
     },
     {
       "source": {
@@ -333,54 +333,28 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "PBS"
+        "id": "polygon",
+        "name": "Polygon"
       },
-      "author": "PBS",
-      "title": "Defying Pope Leo XIV, traditionalists go ahead with bishop consecrations in Switzerland - PBS",
+      "author": "Polygon.com",
+      "title": "PlayStation Plus July 2026 lineup revealed, including a recent Call of Duty to prepare you for Modern Warfare 4 - Polygon.com",
       "description": null,
-      "url": "https://www.pbs.org/newshour/nation/defying-pope-leo-xiv-traditionalists-go-ahead-with-bishop-consecrations-in-switzerland",
+      "url": "https://www.polygon.com/playstation-plus-july-2026-games-announced-ps4-ps5-free-essentials/",
       "urlToImage": null,
-      "publishedAt": "2026-07-01T17:03:20Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "ars-technica",
-        "name": "Ars Technica"
-      },
-      "author": "Ashley Belanger",
-      "title": "After spooking Trump into safety testing, Anthropic AI models get global release - Ars Technica",
-      "description": "US lifts curbs on Anthropic’s advanced Fable and Mythos models.",
-      "url": "https://arstechnica.com/tech-policy/2026/07/after-spooking-trump-into-safety-testing-anthropic-ai-models-get-global-release/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2280258777-1024x648.jpg",
-      "publishedAt": "2026-07-01T16:44:18Z",
+      "publishedAt": "2026-07-01T16:04:42Z",
       "content": null
     },
     {
       "source": {
         "id": null,
-        "name": "NPR"
+        "name": "GMA"
       },
-      "author": "NPR",
-      "title": "Funerals held for 14 Pakistani children killed in tutoring center collapse - NPR",
+      "author": "Good Morning America",
+      "title": "'YMCA' co-writer and Village People frontman Victor Willis dies at 74 - Good Morning America",
       "description": null,
-      "url": "https://www.npr.org/2026/07/01/g-s1-131537/funerals-held-for-14-pakistani-children-killed-in-tutoring-center-collapse",
+      "url": "https://www.goodmorningamerica.com/culture/story/victor-willis-village-people-lead-singer-dies-74-134367366",
       "urlToImage": null,
-      "publishedAt": "2026-07-01T14:57:00Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "FRANCE 24 English"
-      },
-      "author": "France 24",
-      "title": "Who is Ukrainian oligarch Vadym Yermolaiev, the suspected target of the Monaco bombing? - France 24",
-      "description": null,
-      "url": "https://www.france24.com/en/europe/20260701-who-is-ukrainian-oligarch-vadym-yermolaiev-the-suspected-target-of-the-monaco-bombing",
-      "urlToImage": null,
-      "publishedAt": "2026-07-01T14:19:42Z",
+      "publishedAt": "2026-07-01T15:24:49Z",
       "content": null
     },
     {
@@ -395,19 +369,6 @@
       "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/06/30/8ce03c67-8004-4c93-96a1-5835ac90252e/thumbnail/1200x630g2/5d1ce4c41ff15616ce9a733dcbe7f020/gettyimages-2236805445.jpg",
       "publishedAt": "2026-07-01T09:00:00Z",
       "content": "As beachgoers flock to water during the busy July Fourth weekend, danger could be lurking in some areas.\r\nResearchers this spring discovered flesh-eating bacteria in water in several coastal location… [+12237 chars]"
-    },
-    {
-      "source": {
-        "id": "nbc-news",
-        "name": "NBC News"
-      },
-      "author": "NBC News",
-      "title": "NASA barrels ahead with moon base plans, doling out nearly $600 million in new contracts - NBC News",
-      "description": null,
-      "url": "https://www.nbcnews.com/science/space/nasa-moon-base-private-space-companies-contracts-rcna352382",
-      "urlToImage": null,
-      "publishedAt": "2026-06-30T22:39:39Z",
-      "content": null
     }
   ]
 }

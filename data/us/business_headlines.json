@@ -3,21 +3,125 @@
   "country": "us",
   "category": "business",
   "mode": "country",
-  "fetched_at": "2026-07-03T18:54:55.899094+00:00",
-  "articles_count": 58,
+  "fetched_at": "2026-07-03T20:48:22.742776+00:00",
+  "articles_count": 47,
   "articles": [
+    {
+      "source": {
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
+      },
+      "author": "WSJ",
+      "title": "Stock Market Today: Nasdaq Falls After June Hiring Misses Expectations — Live Updates - WSJ",
+      "description": null,
+      "url": "https://www.wsj.com/livecoverage/june-jobs-report-stock-market-07-02-2026",
+      "urlToImage": null,
+      "publishedAt": "2026-07-02T18:07:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "MarketWatch"
+      },
+      "author": "Joy Wiltermuth, Tomi Kilgore, Nora Redmond",
+      "title": "Stock Market Today: Dow rises 175 points toward a record, but S&P 500 and Nasdaq drop as the rotation trade trumps jobs data - MarketWatch",
+      "description": "Dow heads for 20th record close of 2026 after jobs data, but rotation out of tech sends the S&P 500 and Nasdaq lower ahead of the long Independence Day holiday weekend. The U.S. bond market closed early today at 2 p.m. Eastern.",
+      "url": "https://www.marketwatch.com/livecoverage/stock-market-today-dow-jones-s-p-500-nasdaq-key-unemployment-jobs-data-june",
+      "urlToImage": "https://images.mktw.net/im-51746529/social",
+      "publishedAt": "2026-07-02T18:01:00Z",
+      "content": null
+    },
     {
       "source": {
         "id": null,
         "name": "CNBC"
       },
-      "author": "Sean Conlon, Justina Lee, Fred Imbert, Chloe Taylor",
-      "title": "Dow rises more than 300 points to record, Nasdaq falls again as chipmakers struggle: Live updates - CNBC",
-      "description": "The major averages ended lower Wednesday, with the Dow closing just below the flatline after erasing a 423.46-point jump that brought it to record highs.",
-      "url": "https://www.cnbc.com/2026/07/01/stock-market-today-live-updates.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108327438-1782483970823-Traders-Photo-20260626-KK-PRESS-012.jpg?v=1782484337&w=1920&h=1080",
-      "publishedAt": "2026-07-02T16:17:00Z",
-      "content": "Savita Subramanian, head of U.S. equity and quantitative strategy at Bank of America Securities, said the U.S. economy looks healthy and investors may need to look beyond the market's biggest tech st… [+1440 chars]"
+      "author": "Jeff Cox",
+      "title": "Job seekers giving up: Labor force participation rate falls to lowest in 50 years, outside of Covid era - CNBC",
+      "description": "A drop in the unemployment rate helped provide some upside to what was an otherwise downbeat jobs report — but it was for all the wrong reasons.",
+      "url": "https://www.cnbc.com/2026/07/02/job-seekers-giving-up-labor-force-participation-rate-falls-to-lowest-in-50-years-outside-of-covid-era.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108300154-1777568965605-gettyimages-2273897299-jr_17222_lrhcapzi.jpeg?v=1783012330&w=1920&h=1080",
+      "publishedAt": "2026-07-02T17:04:04Z",
+      "content": "A now hiring sign is posted in the window of a Chipotle restaurant on June 5, 2026 in Los Angeles, California. \r\nOn the surface, a June drop in the unemployment rate helped provide some upside to wha… [+3415 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Amelia Lucas",
+      "title": "Sandwich chain Jersey Mike's files for IPO, reports 50% same-store sales growth in recent years - CNBC",
+      "description": "Jersey Mike's has nearly 3,300 locations, making it the second-largest hoagie sandwich chain in the U.S. behind Subway.",
+      "url": "https://www.cnbc.com/2026/07/02/jersey-mikes-files-for-ipo.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108295277-1776860275131-gettyimages-2272465860-dsc06785_vwfid8tf.jpeg?v=1776860292&w=1920&h=1080",
+      "publishedAt": "2026-07-02T16:58:36Z",
+      "content": "Sandwich chain Jersey Mike's filed for an initial public offering on Thursday, reporting that its same-store sales cumulatively climbed 50% from 2020 through 2025.\r\nJersey Mike's plans to trade on th… [+2687 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Fox Business"
+      },
+      "author": "Bradford Betz",
+      "title": "California bans consumer-facing 'sell by' food labels under new law aimed at reducing waste - Fox Business",
+      "description": "California's standardized food date-labeling law requires uniform wording for quality and safety dates while eliminating consumer-facing \"sell by\" labels.",
+      "url": "https://www.foxbusiness.com/lifestyle/california-food-date-label-law-sell-by-ban",
+      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2024/08/0/0/Digital-price-label-grocery-store.jpg?ve=1&tl=1",
+      "publishedAt": "2026-07-02T16:27:00Z",
+      "content": "California's standardized food date-labeling law took effect Tuesday, requiring food manufacturers that choose to display expiration-style dates on products sold in the state to use uniform language … [+3205 chars]"
+    },
+    {
+      "source": {
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "author": "Tasos Vossos, Eleanor Duncan, Abhinav Ramnarayan",
+      "title": "CoreWeave Junk Bonds Slide Further as Investors Question AI Boom - Bloomberg.com",
+      "description": "Moves this week from Meta Platforms Inc. and SoftBank Group Corp. are exposing what buyers in the credit market have been saying for a while: beneath the surface, the booming AI world is turning into a tale of two extremes.",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-02/coreweave-junk-bonds-slide-further-as-investors-question-ai-boom",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iiwxzO5N7o6I/v1/1200x800.jpg",
+      "publishedAt": "2026-07-02T16:24:58Z",
+      "content": "Moves this week from Meta Platforms Inc. and SoftBank Group Corp. are exposing what buyers in the credit market have been saying for a while: beneath the surface, the booming AI world is turning into… [+297 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Abcnews.com"
+      },
+      "author": "ALEX VEIGA AP business writer",
+      "title": "Average 30-year US mortgage rate falls to 6.43%, its lowest level in seven weeks - ABC News - Breaking News, Latest News and Videos",
+      "description": "The average long-term U.S. mortgage rate fell this week to its lowest level since mid-May, easing borrowing costs for prospective homebuyers",
+      "url": "https://abcnews.com/Business/wireStory/average-30-year-us-mortgage-rate-falls-643-134413861",
+      "urlToImage": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg",
+      "publishedAt": "2026-07-02T16:24:40Z",
+      "content": "The average long-term U.S. mortgage rate fell this week to its lowest level since mid-May, easing borrowing costs for prospective homebuyers. \r\nThe benchmark 30-year fixed rate mortgage rate fell to … [+754 chars]"
+    },
+    {
+      "source": {
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "author": "Ryan Whitwam",
+      "title": "Google loses long-running appeal of record EU fine, will have to cough up $4.7 billion - Ars Technica",
+      "description": "The EU went after Google for the practice of bundling its search engine and browser with Android.",
+      "url": "https://arstechnica.com/gadgets/2026/07/google-loses-long-running-appeal-of-record-eu-fine-will-have-to-cough-up-4-7-billion/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2021/06/GettyImages-1005907962-1152x648.jpg",
+      "publishedAt": "2026-07-02T16:15:41Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Russell Brandom",
+      "title": "OpenAI proposed donating 5% of its equity to a US sovereign wealth fund - TechCrunch",
+      "description": "OpenAI CEO Sam Altman has reportedly proposed giving 5% of the company’s equity to a U.S. sovereign wealth fund, reviving discussions about letting the public share in the financial gains from the AI boom.",
+      "url": "https://techcrunch.com/2026/07/02/openai-proposed-donating-5-of-its-equity-to-a-us-sovereign-wealth-fund/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2194584986.jpg?w=1024",
+      "publishedAt": "2026-07-02T15:20:51Z",
+      "content": "OpenAI CEO Sam Altman has proposed giving 5% of the company’s equity to a U.S. sovereign wealth fund, the Financial Times reported on Thursday, citing two people familiar with the matter. Under the p… [+2146 chars]"
     },
     {
       "source": {
@@ -57,6 +161,19 @@
       "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2023/11/0/0/jobs-29.jpg?ve=1&tl=1",
       "publishedAt": "2026-07-02T14:45:00Z",
       "content": "The U.S. economy added jobs at a steady pace in June despite headwinds caused by elevated inflation and uncertainty over the Iran war's economic impact.\r\nWhat are the key findings of the June 2026 jo… [+4904 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Electrek"
+      },
+      "author": "Fred Lambert",
+      "title": "Lucid overhauls its entire C-suite under new CEO after 18% layoffs - Electrek",
+      "description": "Lucid is replacing its CFO, CTO, and most of its C-suite under new CEO Silvio Napoli, days after cutting 18% of staff and pulling 2026 guidance.",
+      "url": "http://electrek.co/2026/07/02/lucid-c-suite-overhaul-napoli/",
+      "urlToImage": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2026/06/Lucid-hands-free-driving.jpeg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2026-07-02T14:33:00Z",
+      "content": "Lucid is replacing almost its entire executive team under new CEO Silvio Napoli, bringing in a new CFO, CTO, and three other C-level leaders in a single announcement.\r\nThe overhaul lands just over a … [+5681 chars]"
     },
     {
       "source": {
@@ -152,28 +269,28 @@
     {
       "source": {
         "id": null,
-        "name": "FOX21News.com"
+        "name": "Awful Announcing"
       },
-      "author": "FOX21 News Colorado",
-      "title": "Potato chip recall elevated to FDA’s highest risk level - FOX21 News Colorado",
-      "description": null,
-      "url": "https://www.fox21news.com/news/potato-chip-recall-elevated-to-fdas-highest-risk-level/",
-      "urlToImage": null,
-      "publishedAt": "2026-07-02T13:15:32Z",
-      "content": null
+      "author": "Drew Lerner",
+      "title": "NBC’s NFL negotiations are about to get much more difficult post-spin - Awful Announcing",
+      "description": "NBC's future NFL negotiations are going to be much more difficult should NBCUniversal complete its planned spinoff from Comcast.",
+      "url": "https://awfulannouncing.com/nbc/nfl-negotiations-more-difficult-post-spin.html",
+      "urlToImage": "https://cdn1.thecomeback.com/wp-content/uploads/sites/94/2026/07/USATSI_27972594_168384754_lowres-scaled-e1782945176735.jpg",
+      "publishedAt": "2026-07-02T13:07:04Z",
+      "content": "Should Comcast actually go forward with its planned spin of NBCUniversal in about a year’s time, as it announced on Monday, retaining NFL rights is about to become much more difficult for NBC.\r\nAs ha… [+3991 chars]"
     },
     {
       "source": {
-        "id": null,
-        "name": "Barron's"
+        "id": "techcrunch",
+        "name": "TechCrunch"
       },
-      "author": "Callum Keown, Patrick O’Donnell",
-      "title": "Micron Stock Rebounds as Chip Slump Suddenly Reverses - Barron's",
-      "description": "Micron stock rebounded Thursday as the chip sector suddenly jumped higher, reversing an earlier slump.",
-      "url": "https://www.barrons.com/articles/micron-stock-price-trump-57047509",
-      "urlToImage": "https://images.barrons.com/im-54802898/social",
-      "publishedAt": "2026-07-02T12:31:00Z",
-      "content": "Glowing praise from President Donald Trump has often helped stocks higher. But its not helping Micron.\r\nCopyright ©2026Dow Jones &amp; Company, Inc. All Rights Reserved. 87990cbe856818d5eddac44c7b1cd… [+2 chars]"
+      "author": "Sean O'Kane",
+      "title": "Rivian raises EV sales forecast as Q2 production ramps up - TechCrunch",
+      "description": "The company now expects to ship a few thousand more vehicles by the end of 2026 than it previously expected, after launching its R2 SUV last month.",
+      "url": "https://techcrunch.com/2026/07/02/rivian-thinks-it-will-sell-more-evs-than-expected-this-year/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/03/Rivian-R2-Headlight.jpg?resize=1200,900",
+      "publishedAt": "2026-07-02T12:30:00Z",
+      "content": "Rivian is telling investors that it might see a better sales year than it expected, despite the many headwinds working against electric vehicles in the U.S. right now.\r\nRivian previously said it woul… [+2357 chars]"
     },
     {
       "source": {
@@ -181,25 +298,12 @@
         "name": "CNBC"
       },
       "author": "Michael Wayland",
-      "title": "Rivian raises 2026 delivery outlook while Lucid misses Wall Street expectations for second quarter - CNBC",
-      "description": "Rivian is increasing its delivery outlook to between 65,000 and 70,000 EVs, up from 62,000 to 67,000 units.",
-      "url": "https://www.cnbc.com/2026/07/02/rivian-lucid-q2-deliveries-demand.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108297781-1777308295201-108297781-1777308210048-gettyimages-2272326273-BIZ-AUTO-RIVIAN-R2-ROADSHOW-TB.jpeg?v=1777308342&w=1920&h=1080",
-      "publishedAt": "2026-07-02T12:30:01Z",
-      "content": "Electric vehicle makers Rivian Automotive and Lucid Group reported second-quarter delivery results Thursday with mixed results.\r\nRivian raised its 2026 delivery guidance range after seeing stronger-t… [+2334 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Fox Business"
-      },
-      "author": "Bradford Betz",
-      "title": "UPS says Boeing guidance led carrier not to adopt enhanced MD-11 inspections before fatal crash - Fox Business",
-      "description": "Newly released NTSB filings detail how UPS and Boeing differ over maintenance guidance and inspection procedures before the fatal 2025 Louisville MD-11 cargo plane crash.",
-      "url": "https://www.foxbusiness.com/lifestyle/ups-boeing-guidance-led-carrier-not-adopt-enhanced-md-11-inspections-fatal-crash",
-      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/07/0/0/ups-cargo-plane.jpg?ve=1&tl=1",
-      "publishedAt": "2026-07-02T11:42:00Z",
-      "content": "UPS said it relied on Boeing's assessment that a known engine mount issue did not pose a flight safety risk when it chose not to adopt enhanced inspections before last year's fatal cargo plane crash … [+3833 chars]"
+      "title": "Ford CEO wants level playing field with Toyota, GM imports as USMCA trade talks reopen - CNBC",
+      "description": "Ford reports it assembled over 2 million vehicles in the U.S. last year – more than any other auto manufacturer, including 311,000 units for export.",
+      "url": "https://www.cnbc.com/2026/07/02/ford-jim-farley-usmca.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108251932-17683326942026-01-13t192918z_542253059_rc2h0ja7qr1x_rtrmadp_0_usa-trump.jpeg?v=1768332714&w=1920&h=1080",
+      "publishedAt": "2026-07-02T11:35:34Z",
+      "content": "DETROIT As negotiations officially reopen for the USMCA North American trade deal, Ford Motor CEO Jim Farley is clear about what the company wants under the new talks: a more level playing field.\r\nHe… [+2808 chars]"
     },
     {
       "source": {
@@ -216,16 +320,16 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "Seeking Alpha"
+        "id": "fortune",
+        "name": "Fortune"
       },
-      "author": "Steven Cress",
-      "title": "Top 10 Quant Stocks Of 2026 Up Nearly 70% - Seeking Alpha",
-      "description": "SA Quant's Top Stocks for 2026 are delivering exceptional gains, crushing the S&P 500 in the face of volatility and uncertainty.",
-      "url": "https://seekingalpha.com/article/4918945-top-10-quant-stocks-of-2026-up-nearly-70-percent",
-      "urlToImage": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2271204950/image_2271204950.jpg?io=getty-c-w1536",
-      "publishedAt": "2026-07-02T11:00:00Z",
-      "content": "Analysts Disclosure: I/we have a beneficial long position in the shares of MU, CIEN, CLS either through stock ownership, options, or other derivatives. I wrote this article myself, and it expresses m… [+1015 chars]"
+      "author": "Eleanor Pringle",
+      "title": "Elon Musk says AI may solve debt crisis with productivity—but study suggests the Treasury wil pay - Fortune",
+      "description": "Tesla CEO Elon Musk is among those hoping AI will save the US fom a debt crisis—but Brookings research suggests the tech may be too successful.",
+      "url": "https://fortune.com/2026/07/02/ai-debt-crisis-solution-brookings-study-treasury-pay-success/",
+      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/07/GettyImages-2282516670-e1782988893576.jpg?resize=1200,600",
+      "publishedAt": "2026-07-02T11:09:00Z",
+      "content": "In the great debate about rebalancing the United States debt to its economic growth, the optimists suggest that expanding the economy is preferable to cutting federal spending. It would certainly be … [+4398 chars]"
     },
     {
       "source": {
@@ -242,42 +346,42 @@
     },
     {
       "source": {
-        "id": "fox-news",
-        "name": "Fox News"
+        "id": null,
+        "name": "KPRC Click2Houston"
       },
-      "author": null,
-      "title": "America's housing market could run out of something more important than homes - Fox News",
-      "description": "A new report challenges the housing shortage narrative, arguing slower population growth and reduced immigration could mean fewer homebuyers ahead.",
-      "url": "https://www.foxnews.com/politics/americas-housing-market-run-out-something-more-important-than-homes",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/06/homes-houston-texas.png",
-      "publishedAt": "2026-07-02T10:30:02Z",
-      "content": "For years, America didn't have enough homes to meet rising demand. Soon, it may not have enough homebuyers.\r\nA new report from the Mortgage Bankers Association argues the housing market is nearing a … [+2485 chars]"
+      "author": "Ninfa Saavedra, T.J. Parker",
+      "title": "Driver charged with manslaughter after Tesla crashes into Katy-area home, killing 76-year-old woman - Click2Houston",
+      "description": "The driver accused of crashing a Tesla into a Katy-area home, killing a 76-year-old woman, has now been charged with manslaughter, according to the Harris County Sheriff’s Office.",
+      "url": "https://www.click2houston.com/news/local/2026/07/02/driver-charged-with-manslaughter-after-tesla-crashes-into-katy-area-home-killing-76-year-old-woman/",
+      "urlToImage": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/video/kprc/722cabab-7f5e-4051-81e6-02437c6856bb/image.jpg?_a=DATAg1iuZAA0",
+      "publishedAt": "2026-07-02T10:17:29Z",
+      "content": "The driver accused of crashing a Tesla into a Katy-area home, killing a 76-year-old woman, has now been charged with manslaughter, according to the Harris County Sheriffs Office.\r\nHarris County Sheri… [+2774 chars]"
+    },
+    {
+      "source": {
+        "id": "axios",
+        "name": "Axios"
+      },
+      "author": "Maria Curi, Ashley Gold",
+      "title": "Trump puts allies on notice: AI power comes first - Axios",
+      "description": "President Trump is redefining what it means to be a U.S. ally in the AI era.",
+      "url": "https://www.axios.com/2026/07/02/trump-allies-ai-power",
+      "urlToImage": "https://images.axios.com/dtTD4MUqotnn-u3i43sPynjVwmk=/0x0:1280x720/1366x768/2026/06/30/1782851393180.jpg",
+      "publishedAt": "2026-07-02T10:16:12Z",
+      "content": "<ul><li>For decades, shared values and security interests have underpinned alliances with Europe and other partners around the world. Under Trump, that's no longer enough.</li><li>As AI becomes centr… [+3830 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Forbes"
+        "name": "VentureBeat"
       },
-      "author": "John Schroyer",
-      "title": "Millennials Are Buying Blue Collar Small Businesses To AI-Proof Their Future - Forbes",
-      "description": "Young entrepreneurs are snapping up baby boomer-owned plumbing, construction, manufacturing and HVAC companies. Plus: Tips for would-be buyers and sellers.",
-      "url": "https://www.forbes.com/sites/johnschroyer/2026/07/02/millennials-are-buying-blue-collar-small-businesses-to-ai-proof-their-future/",
-      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6a451c7a5fad868a4942889c/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-      "publishedAt": "2026-07-02T10:30:00Z",
-      "content": "When Andrew Kurzroks wife, Michelle, became pregnant with their first son in 2023, he decided it was time for his life spending over 200 days a year on the road as a mid-level executive of Amphenol S… [+12213 chars]"
-    },
-    {
-      "source": {
-        "id": "associated-press",
-        "name": "Associated Press"
-      },
-      "author": "Claire Savage",
-      "title": "A grim job outlook meets a scrappy workforce as administrative assistants harness AI - AP News",
-      "description": "Employment data offers a grim outlook for secretaries and administrative assistants in the age of artificial intelligence, but workers in the women-dominated occupation say the numbers don’t tell the whole story. Administrative professionals say adapting is a…",
-      "url": "https://apnews.com/article/ai-chatgpt-secretaries-administrative-assistants-jobs-c5988294ce6a2828e83ef7fe42706c48",
-      "urlToImage": "https://dims.apnews.com/dims4/default/0d6eb50/2147483647/strip/true/crop/5029x3351+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fcf%2F0b%2F2cb71edd2160caaf749b05d97a2f%2Ff4d609c3211348aaacb9d8fe96765b67",
-      "publishedAt": "2026-07-02T10:10:00Z",
-      "content": "With their numbers already in decline, secretaries and administrative assistants face another growing threat: artificial intelligence tools like ChatGPT and Claude that can accomplish aspects of thei… [+7161 chars]"
+      "author": "Michael Nuñez",
+      "title": "Z.ai launches ZCode to challenge Cursor, Claude Code and GitHub Copilot in AI coding - Venturebeat",
+      "description": "Z.ai has launched ZCode, a free AI coding tool powered by GLM-5.2 that challenges Cursor, Claude Code and GitHub Copilot while highlighting rising geopolitical risk in enterprise developer software.",
+      "url": "https://venturebeat.com/technology/z-ai-launches-zcode-to-challenge-cursor-claude-code-and-github-copilot-in-ai-coding",
+      "urlToImage": "https://images.ctfassets.net/jdtwqhzvc2n1/2XcqOZt08SkY2BArbdXXU8/4b8912a5d1247db567241b62e9635e8b/Nuneybits_Vector_art_of_red_code_waves_over_Beijing_skyline_and_ecae69a0-2b9d-4481-a6c0-311a70f0c622.webp?w=800&q=75",
+      "publishedAt": "2026-07-02T10:00:00Z",
+      "content": "Z.ai, the Beijing-based artificial intelligence lab formerly known as Zhipu AI, on Wednesday officially launched ZCode, a free desktop application it describes as an \"Agentic Development Environment\"… [+13022 chars]"
     },
     {
       "source": {
@@ -295,41 +399,15 @@
     {
       "source": {
         "id": null,
-        "name": "CNBC"
+        "name": "Yahoo Entertainment"
       },
-      "author": "Jenny Lee",
-      "title": "Nvidia offers start-up customers chance to swap compute power for revenue share - CNBC",
-      "description": "Nvidia says it will give start-ups the chance to swap access to compute power for a slice of future profits under a new program aimed at AI-focused firms.",
-      "url": "https://www.cnbc.com/2026/07/02/nvidia-plans-to-offer-start-up-customers-access-to-revenue-sharing-deals.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108324774-1782131264415-gettyimages-2282192411-20090101260622-99-815075.jpeg?v=1782131312&w=1920&h=1080",
-      "publishedAt": "2026-07-02T09:57:30Z",
-      "content": "Chipmaker Nvidia says it is entering revenue-sharing agreements with fast-growing start-ups, in a move which will see customers swap access to compute power for a slice of future profits.\r\nThe artifi… [+1621 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "BBC News"
-      },
-      "author": null,
-      "title": "Google must pay €4.1bn fine for using Android to 'block' rivals - BBC",
-      "description": "A Google spokesperson said the judgement \"fails to recognise\" the firm's \"significant investment to ensure Android remains open.\"",
-      "url": "https://www.bbc.com/news/articles/cvgj0pp5p62o",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/9620/live/1da00990-75f9-11f1-8c3f-e37c76e39331.jpg",
-      "publishedAt": "2026-07-02T09:46:11Z",
-      "content": "\"In any event, we adapted our agreements to comply with the initial decision back in 2018 and we remain focused on continued innovation and openness for our users, partners and developers,\" they cont… [+5 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Motley Fool"
-      },
-      "author": "Sean Williams",
-      "title": "Buckle Up! We Just Entered the Next Phase of Trumpflation. - The Motley Fool",
-      "description": "If you think falling oil prices mark the end of Trump-driven inflation, you'll be sorely mistaken.",
-      "url": "https://www.fool.com/investing/2026/07/02/buckle-up-just-entered-next-phase-of-trumpflation/",
-      "urlToImage": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F876727%2Fpresident-donald-trump-wh-photo-speak-with-press-molly-riley.jpg&w=1200&op=resize",
-      "publishedAt": "2026-07-02T09:06:00Z",
-      "content": "It's shaping up to be another sensational year for equities. In early June, the Dow Jones Industrial Average(^DJI+0.78%), S&amp;P 500(^GSPC+0.20%), and Nasdaq Composite(^IXIC0.22%) romped to record h… [+3929 chars]"
+      "author": "Vahid Karaahmetovic",
+      "title": "Chip stocks selloff extends on valuation, Meta’s pivot fears - Yahoo Finance",
+      "description": "Investing.com -- The Wednesday selloff in U.S. chip shares extended into Thursday’s premarket trading as lofty valuations and heavy AI spending by tech compa...",
+      "url": "https://finance.yahoo.com/technology/articles/chip-stocks-selloff-extends-valuation-090937419.html",
+      "urlToImage": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
+      "publishedAt": "2026-07-02T09:09:37Z",
+      "content": "Investing.com -- The Wednesday selloff in U.S. chip shares extended into Thursday's premarket trading as lofty valuations and heavy AI spending by tech companies weigh on investor sentiment.\r\nShares … [+2430 chars]"
     },
     {
       "source": {
@@ -386,32 +464,6 @@
     {
       "source": {
         "id": null,
-        "name": "WTHR"
-      },
-      "author": "WTHR",
-      "title": "New York Times names the best regional hot dog in the country - WTHR",
-      "description": null,
-      "url": "https://www.wthr.com/article/news/nation-world/new-york-times-names-best-regional-hot-dog/507-4040d954-19cf-42a8-b434-83226fede72d",
-      "urlToImage": null,
-      "publishedAt": "2026-07-02T01:19:00Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": "Jenny Lee",
-      "title": "Samsung Electronics, SK Hynix shares tumble over 9% as chip rout spreads from Wall Street - CNBC",
-      "description": "Shares of Samsung Electronics and SK Hynix plummeted more than 7% in early Thursday trading.",
-      "url": "https://www.cnbc.com/2026/07/02/samsung-sk-hynix-shares-slide-kospi-tech-selloff-nasdaq.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108274734-1772802714743-gettyimages-2264237870-cros-mobilewo260304_npecz.jpeg?v=1776225451&w=1920&h=1080",
-      "publishedAt": "2026-07-02T01:02:00Z",
-      "content": "Shares of Samsung Electronics and SK Hynix plunged Thursday, dragging down South Korea's benchmark Kospi after the tech-heavy Nasdaq Composite slumped overnight.\r\nSamsung Electronics tumbled more tha… [+3689 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "Fox Business"
       },
       "author": "Greg Wehner",
@@ -437,42 +489,16 @@
     },
     {
       "source": {
-        "id": "the-hill",
-        "name": "The Hill"
-      },
-      "author": "Ryan Mancini",
-      "title": "California bans ‘sell by’ food labels - The Hill",
-      "description": "A new California law went into effect Wednesday that bans “sell by” food labels as part of a statewide effort to cut down on food waste. Food manufacturers now must use one or both of two labels that indicate peak quality and product safety, indicated by “bes…",
-      "url": "https://thehill.com/homenews/state-watch/5950647-california-food-label-law/",
-      "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2026/04/Trust_Fortinsky_AP_LMOtero.jpg?w=1280",
-      "publishedAt": "2026-07-01T23:21:00Z",
-      "content": "Skip to content\r\nA new California law went into effect Wednesday that bans “sell by” food labels as part of a statewide effort to cut down on food waste.\r\nFood manufacturers now must use one or both … [+2063 chars]"
-    },
-    {
-      "source": {
         "id": null,
-        "name": "Financial Times"
+        "name": "Futurism"
       },
-      "author": "George Hammond",
-      "title": "White House accelerates plans for AI model standards - Financial Times",
-      "description": "Guidance to be announced as soon as next week after government intervention in Anthropic and OpenAI rollouts",
-      "url": "https://www.ft.com/content/0bb7e2f9-007b-4577-9c4a-858948ee969a?syn-25a6b1a6\\\\u003d1",
-      "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Ffe86f7a1-a430-4725-af1f-6d5019c7574d.jpg?source=next-barrier-page",
-      "publishedAt": "2026-07-01T22:51:47Z",
-      "content": "Then $75 per month. Complete digital access to quality FT journalism on any device. Cancel anytime during your trial."
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "MarketWatch"
-      },
-      "author": "MarketWatch",
-      "title": "Stock Market Today: Dow narrowly misses record close, S&P 500 and Nasdaq end lower as chip stocks fall; Fed Chair Warsh reiterates 2% inflation target; June jobs report on deck - MarketWatch",
-      "description": null,
-      "url": "https://www.marketwatch.com/livecoverage/stock-market-today-dow-s-p-500-nasdaq-rally-warsh-ecb-forum",
-      "urlToImage": null,
-      "publishedAt": "2026-07-01T22:05:00Z",
-      "content": null
+      "author": "Joe Wilkins",
+      "title": "“Televised Nervous Breakdown”: CEO of Palantir Suffers a Bit of a Meltdown During Live Interview - yahoo.com",
+      "description": "\"This is the voice of American business that is being channeled through me!\"",
+      "url": "https://futurism.com/future-society/meltdown-alex-karp-palantir-cnbc-interview",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/1e5fd2f18d47f3b8456a7825e5589db6c6b00e8e9898ba3f53966e7c4d49d3c8/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Ffuturism_981%2Fce7e9cbdc357be2370f5c2bfa72151eb",
+      "publishedAt": "2026-07-01T21:21:00Z",
+      "content": "Everyone has had a bad day at work, but most of us are lucky enough that ours weren't broadcast with a chyron live on television.\r\nOn a live interview with CNBC's infamously churlish segment \"Squawk … [+3400 chars]"
     },
     {
       "source": {
@@ -490,45 +516,6 @@
     {
       "source": {
         "id": null,
-        "name": "CNBC"
-      },
-      "author": "Jeff Cox",
-      "title": "World Cup could boost the June jobs report by 40,000, Goldman estimates - CNBC",
-      "description": "Nonfarm payrolls are projected to post a gain of 115,000, according to the Dow Jones consensus.",
-      "url": "https://www.cnbc.com/2026/07/01/world-cup-could-boost-the-june-jobs-report-by-40000-goldman-estimates.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108321366-1781289964765-gettyimages-2280581172-FIFA_WORLD_CUP.jpeg?v=1781290017&w=1920&h=1080",
-      "publishedAt": "2026-07-01T20:27:09Z",
-      "content": "The June jobs report on Thursday could be more robust than expected due to a strong kick from the World Cup, according to Goldman Sachs.\r\nNonfarm payrolls are projected to post a gain of 115,000, acc… [+1345 chars]"
-    },
-    {
-      "source": {
-        "id": "bloomberg",
-        "name": "Bloomberg"
-      },
-      "author": "Subrat Patnaik, Bailey Lipschultz",
-      "title": "AOL Owner Bending Spoons Jumps 40% After $1.68 Billion IPO - Bloomberg",
-      "description": "Bending Spoons SpA shares surged 40% above their initial public offering price after the company and some of its backers raised $1.68 billion.",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-01/aol-owner-bending-spoons-jumps-6-9-after-1-68-billion-ipo",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i.f1ZZITNHDo/v1/1200x800.jpg",
-      "publishedAt": "2026-07-01T20:08:09Z",
-      "content": "Bending Spoons SpA shares surged 40% above their initial public offering price after the company and some of its backers raised $1.68 billion. \r\nShares of the Milan, Italy-based company, which acquir… [+218 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Nauman Khan",
-      "title": "Meta Shares Jump 10% After Report Reveals AI Cloud Plans - Yahoo Finance",
-      "description": "Meta's AI Cloud Expansion Rattles Big Tech, Cloud Stocks Slide",
-      "url": "https://finance.yahoo.com/technology/ai/articles/meta-shares-jump-10-report-200326117.html",
-      "urlToImage": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
-      "publishedAt": "2026-07-01T20:03:26Z",
-      "content": "This article first appeared on GuruFocus.\r\nMeta Platforms (NASDAQ:META) climbed more than 10% on Wednesday after a report said the social media company is developing a cloud computing business that w… [+706 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "Southernliving.com"
       },
       "author": "https://www.facebook.com/SouthernLiving/",
@@ -538,6 +525,19 @@
       "urlToImage": "https://www.southernliving.com/thmb/BppbbnufTh_-44hoS4VY1fbFsh0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1263327196-9508dc0bdaa2464c82663cc30ebfcda4.jpg",
       "publishedAt": "2026-07-01T19:57:17Z",
       "content": "As a heatwave makes its way across swaths of the United States starting today and through 4th of July weekend, including parts of the South, air conditioners are about to be put to work to help keep … [+2697 chars]"
+    },
+    {
+      "source": {
+        "id": "associated-press",
+        "name": "Associated Press"
+      },
+      "author": "Christopher Rugaber",
+      "title": "Federal Reserve Chair Warsh emphasizes political independence, signals focus on inflation - AP News",
+      "description": "New Federal Reserve Chair Kevin Warsh said Wednesday that the central bank would remain independent and seek to bring down inflation, likely foreclosing the rate cuts President Trump has sought. The Fed typically combats inflation by raising borrowing costs. …",
+      "url": "https://apnews.com/article/warsh-federal-reserve-inflation-interest-rate-18c005515444abd2043ad113c9849407",
+      "urlToImage": "https://dims.apnews.com/dims4/default/91ff8a1/2147483647/strip/true/crop/4403x2934+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F1c%2F47%2F998a5b3da907df8a140192818686%2Fb2e68cb354a549018148c457b06d9ae6",
+      "publishedAt": "2026-07-01T19:16:00Z",
+      "content": "WASHINGTON (AP) New Federal Reserve Chair Kevin Warsh said Wednesday that the central bank would remain independent and seek to bring down inflation, likely foreclosing the rate cuts President Donald… [+4033 chars]"
     },
     {
       "source": {
@@ -554,29 +554,16 @@
     },
     {
       "source": {
-        "id": "the-wall-street-journal",
-        "name": "The Wall Street Journal"
-      },
-      "author": "WSJ",
-      "title": "Michael Burry Cites ‘Beginning of the End’ With New AI Short Bets - WSJ",
-      "description": null,
-      "url": "https://www.wsj.com/finance/stocks/michael-burry-cites-beginning-of-the-end-with-new-ai-short-bets-50793c12",
-      "urlToImage": null,
-      "publishedAt": "2026-07-01T18:24:00Z",
-      "content": null
-    },
-    {
-      "source": {
         "id": null,
-        "name": "New York Post"
+        "name": "Forbes"
       },
-      "author": "Aurielle Weiss",
-      "title": "Multiple states installing new gas tax this week — as others plan to soon follow suit - New York Post",
-      "description": "States across the country are increasing their gas tax right as the Fourth of July weekend approaches — happy birthday, America.",
-      "url": "https://nypost.com/2026/07/01/lifestyle/california-installs-new-gas-tax-as-other-states-follow-suit/",
-      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/07/crop-39854950.jpg?quality=75&strip=all&w=1200",
-      "publishedAt": "2026-07-01T16:45:00Z",
-      "content": "With summer in full swing, gas prices are shifting into high gear.\r\nStates across the country are increasing their gas tax right as the Fourth of July weekend approaches happy birthday, America. The … [+4530 chars]"
+      "author": "Iain Martin",
+      "title": "Italian CEO Of Bending Spoons, Owner Of AOL And Evernote, Is Worth $2.4 Billion After IPO - Forbes",
+      "description": "Buying busted apps made Bending Spoons’s four cofounders billionaires. Now their stakes have collectively jumped to $8.9 billion after the Milan-based startup scrap yard listed on Nasdaq at an $18.4 billion valuation.",
+      "url": "https://www.forbes.com/sites/iainmartin/2026/07/01/how-bending-spoons-built-a-184-billion-empire-by-buying-internet-has-beens-like-aol/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6a42d5be5f0d8125ae1a2e00/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2026-07-01T18:24:57Z",
+      "content": "AOL. Evernote. Vimeo. Eventbrite. All darlings of a previous era of technology, and now all owned by the same company: A little-known Italian startup called Bending Spoons. Since its founding in 2013… [+7133 chars]"
     },
     {
       "source": {
@@ -590,58 +577,6 @@
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2280258777-1024x648.jpg",
       "publishedAt": "2026-07-01T16:44:18Z",
       "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "PBS"
-      },
-      "author": null,
-      "title": "Federal Reserve Chair Warsh emphasizes political independence, signals focus on inflation - PBS",
-      "description": "In remarks at a central bank conference in Sintra, Portugal, Warsh said that if businesses or households thought the Fed would accept inflation above 2%, “I guess they'd be disappointed. We're going to deliver price stability.”",
-      "url": "https://www.pbs.org/newshour/economy/federal-reserve-chair-warsh-emphasizes-political-independence-signals-focus-on-inflation",
-      "urlToImage": "https://d3i6fh83elv35t.cloudfront.net/static/2026/07/2026-07-01T100031Z_568648379_RC274MAZO8S3_RTRMADP_3_USA-FED-WARSH-1024x683.jpg",
-      "publishedAt": "2026-07-01T16:20:16Z",
-      "content": "WASHINGTON (AP) New Federal Reserve Chair Kevin Warsh said Wednesday that the central bank would remain independent and seek to bring down inflation, likely foreclosing the rate cuts President Donald… [+4204 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Forbes"
-      },
-      "author": "Ty Roush",
-      "title": "Palantir Billionaire Alex Karp Calls AI Industry ‘Effing Insane’ In Heated Interview - Forbes",
-      "description": "“This is the voice of American business that is being channeled through me,” the billionaire cofounder remarked.",
-      "url": "https://www.forbes.com/sites/tylerroush/2026/07/01/palantir-billionaire-alex-karp-calls-ai-industry-effing-insane-in-heated-interview/",
-      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6a453a880f8aceab5e0eb73e/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-      "publishedAt": "2026-07-01T16:05:06Z",
-      "content": "Palantir CEO Alex Karp on Wednesday called the AI industry effing insane in a heated interview on CNBC, accusing leading AI firms of overcharging, exploiting customer data and jeopardizing U.S. natio… [+3065 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Barron's"
-      },
-      "author": "Evie Liu, Kit Norton",
-      "title": "Inside the General Mills Earnings Beat That Has the Stock Rising - Barron's",
-      "description": "General Mills stock advances after the company’s fourth-quarter profit handily tops Wall Street expectations.",
-      "url": "https://www.barrons.com/articles/general-mills-earnings-stock-price-8b607af4",
-      "urlToImage": "https://images.barrons.com/im-405004/social",
-      "publishedAt": "2026-07-01T16:02:00Z",
-      "content": "General Millsstock popped on Wednesday after the company reported better-than-expected fourth-quarter profit and said its efforts to adjust product prices have started to show positive results.\r\nCopy… [+93 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Emma Roth",
-      "title": "Comcast’s split could make or break Peacock - The Verge",
-      "description": "Comcast’s plan to split NBCUniversal from its wireless and broadband business will show whether Peacock has what it takes to survive as a standalone streaming service.",
-      "url": "https://www.theverge.com/streaming/960235/comcast-breakup-peacock-streaming",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24002656/acastro_STK105_peacock_01.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "publishedAt": "2026-07-01T15:30:00Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nPeacock will have to prove it can survive on its own following Comcasts split from NBCUniversal.\r\nPeacock will have to prove it can survive on its own following … [+4844 chars]"
     },
     {
       "source": {
@@ -681,84 +616,6 @@
       "urlToImage": "https://gray-wowt-prod.gtv-cdn.com/resizer/v2/TAPUV7MGINFTLKXP3TLOA46U5U.jpg?auth=e5228fc738891092b6aae162999b27ec2d7e8703eaa96a417b13d20f60237c99&width=1200&height=600&smart=true",
       "publishedAt": "2026-07-01T14:53:00Z",
       "content": "OMAHA, Neb. (WOWT) - Emergency personnel were at the scene of a crash Wednesday morning involving a U-Haul that hit a vacant building in the Benson area the same building hit by a minivan over the we… [+4532 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Trefis"
-      },
-      "author": "Trefis Team",
-      "title": "SpaceX’s Next Big Bet: Your Phone Bill? - Trefis",
-      "description": "Reusable rockets. Starlink beaming internet from orbit. Orbital data centers. Wireless phone plans seem like a strange addition to that list, yet SpaceX (SPCX) increasingly appears to be targeting this market. During a recent IPO roadshow, the company told in…",
-      "url": "https://www.trefis.com/stock/spcx/articles/605326/spacexs-next-big-bet-your-phone-bill/2026-07-01",
-      "urlToImage": null,
-      "publishedAt": "2026-07-01T13:16:16Z",
-      "content": "Reusable rockets. Starlink beaming internet from orbit. Orbital data centers.\r\nWireless phone plans seem like a strange addition to that list, yet SpaceX (SPCX) increasingly appears to be targeting t… [+5503 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "New York Post"
-      },
-      "author": "Thomas Barrabi",
-      "title": "US-based 'Amazon of South Korea' forced to recover laptop from bottom of Chinese river in bizarre data privacy clampdown: report - New York Post",
-      "description": "A Coupang rep traveled to Shanghai on Dec. 17 to meet with the suspect and his lawyer, who handed over a desktop PC, four hard drives and copies, a graphics card and a signed confession.",
-      "url": "https://nypost.com/2026/07/01/business/us-based-amazon-of-south-korea-forced-to-recover-laptop-from-bottom-of-chinese-river-in-bizarre-data-privacy-clampdown-report/",
-      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/06/harold-rogers-interim-ceo-coupang-132831088.jpg?quality=75&strip=all&w=1200",
-      "publishedAt": "2026-07-01T13:12:00Z",
-      "content": "South Korea’s government allegedly forced a US web retailer to carry out a bizarre and risky plot to recover a stolen laptop from the bottom of a river in China part of a high-level data-privacy clam… [+8469 chars]"
-    },
-    {
-      "source": {
-        "id": "bloomberg",
-        "name": "Bloomberg"
-      },
-      "author": "Karin Matussek, Christopher Jungstedt",
-      "title": "Google Told to Pay Klarna Nearly $2 Billion in Shopping Spat - Bloomberg",
-      "description": "Alphabet Inc.’s Google was ordered to pay almost $2 billion to Klarna Group Plc’s Pricerunner unit in a dispute over the search-engine giant’s abuse of power in the market for comparison shopping services.",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-01/google-ordered-to-pay-klarna-nearly-2-billion-in-antitrust-suit",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iG_cwNiztQpE/v0/1200x800.jpg",
-      "publishedAt": "2026-07-01T12:12:18Z",
-      "content": "Alphabet Inc.s Google was ordered to pay almost $2 billion to Klarna Group Plcs Pricerunner unit in a dispute over the search-engine giants abuse of power in the market for comparison shopping servic… [+241 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "WLS-TV"
-      },
-      "author": "Evelyn Holmes, Craig Wall",
-      "title": "Illinois minimum wage: Chicago, Cook County increases take effect Wednesday - ABC7 Chicago",
-      "description": "Wednesday is the start of July and with that comes new laws that go into effect.",
-      "url": "https://abc7chicago.com/post/illinois-minimum-wage-chicago-cook-county-increases-take-effect-wednesday/19427463/",
-      "urlToImage": "https://cdn.abcotvs.com/dip/images/19431300_070126-wls-craig-wages-5p-vid.jpg?w=1600",
-      "publishedAt": "2026-07-01T11:53:34Z",
-      "content": "CHICAGO (WLS) -- New laws took effect Wednesday with the start of July, including increases in the minimum wage.\r\nIn Chicago, the minimum wage for employers with four or more employees is $17.05 per-… [+3125 chars]"
-    },
-    {
-      "source": {
-        "id": "business-insider",
-        "name": "Business Insider"
-      },
-      "author": "Pete Syme",
-      "title": "Big Tech Is Spending Billions to Not Employ People - Business Insider",
-      "description": "Amazon disclosed $2.7 billion in estimated severance costs in its latest annual report, while Intel and Oracle also reported spending $1.8 billion.",
-      "url": "https://www.businessinsider.com/how-big-tech-is-spending-billions-to-not-employ-people-2026-7#article",
-      "urlToImage": "https://i.insider.com/6a3e601aa25092c74cc9f9b6?width=1200&format=jpeg",
-      "publishedAt": "2026-07-01T09:31:00Z",
-      "content": "Some of the world's richest tech companies are spending huge sums to lay off employees.\r\nBusiness Insider reviewed the latest annual reports from some of the biggest US tech companies to see how much… [+3120 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "NPR"
-      },
-      "author": "Joel Rose",
-      "title": "Crowded planes and airports set records, straining the U.S. aviation system - NPR",
-      "description": "The summer travel season is setting records again. Airlines are carrying more passengers than ever while operating fewer flights than they did 20 years ago, pushing the limits of the aviation system.",
-      "url": "https://www.npr.org/2026/07/01/nx-s1-5869367/crowded-skies-strain-aviation",
-      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1024x576+0+38/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fc8%2F43%2F3e69fee14ecf829ad37ca7c20110%2Fgettyimages-2239375718.jpg",
-      "publishedAt": "2026-07-01T09:00:00Z",
-      "content": "NASHVILLE, Tenn. Few major airports in the U.S. have grown faster in recent decades than Nashville International Airport, and Shirley Beldsoe thinks it's changed for the better.\r\n\"The airport's beaut… [+4822 chars]"
     }
   ]
 }

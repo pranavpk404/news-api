@@ -3,21 +3,60 @@
   "country": "us",
   "category": "health",
   "mode": "country",
-  "fetched_at": "2026-07-07T01:41:18.004320+00:00",
-  "articles_count": 51,
+  "fetched_at": "2026-07-07T05:53:28.234013+00:00",
+  "articles_count": 57,
   "articles": [
     {
       "source": {
-        "id": null,
-        "name": "New York Post"
+        "id": "fox-news",
+        "name": "Fox News"
       },
-      "author": "New York Post",
-      "title": "Mysterious Legionnaires’ disease outbreak skyrockets to 14 cases across 2 NYC neighborhoods - New York Post",
-      "description": null,
-      "url": "https://nypost.com/2026/07/05/us-news/legionnaires-disease-outbreak-skyrockets-to-14-cases-in-2-nyc-neighborhoods/",
-      "urlToImage": null,
-      "publishedAt": "2026-07-05T23:29:00Z",
+      "author": null,
+      "title": "NYC health officials warn Central Park visitors after Legionnaires’ outbreak grows on Upper East Side - Fox News",
+      "description": "The outbreak is centered around several Upper East Side ZIP codes, with health officials warning residents and recent visitors to seek care quickly if they develop flu-like symptoms.",
+      "url": "https://www.foxnews.com/us/nyc-health-officials-warn-central-park-visitors-legionnaires-outbreak-grows-upper-east-side",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/07/new-yorks-upper-east-side.jpg",
+      "publishedAt": "2026-07-06T01:19:21Z",
+      "content": "A Legionnaires disease outbreak on Manhattans Upper East Side has grown to 14 confirmed cases, New York City health officials said Sunday.\r\nThe cases are tied to ZIP codes 10028, 10128 and 10075, cov… [+3003 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Twistedsifter.com"
+      },
+      "author": "Heide Lazaro",
+      "title": "He Was Terrified by His Girlfriend's Severe Medical Symptoms. When He Begged Her to See a Doctor, She Accused Him of \"Being Mean.\" - TwistedSifter",
+      "description": "The best of the internet, sifted, and sorted.",
+      "url": "http://twistedsifter.com/2026/07/he-was-terrified-by-his-girlfriends-severe-medical-symptoms-when-he-begged-her-to-see-a-doctor-she-accused-him-of-being-mean/",
+      "urlToImage": "https://twistedsifter.com/wp-content/uploads/2026/07/Twisted-Sifter-3480.jpg",
+      "publishedAt": "2026-07-06T00:48:26Z",
+      "content": "Pexels/Reddit\r\nTaking care of your health isnt always an easy decision.\r\nThe following story is about a man who was concerned about his girlfriend’s health condition for the past week.\r\nHe had advise… [+2699 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Thetimes.com"
+      },
+      "author": "Grace Ackroyd",
+      "title": "I had a baby at 46, but science is right — 49 is too old for another - The Times",
+      "description": "New research has found that the odds of achieving a live birth plunge as you approach your fifties, even with donor eggs. Grace Ackroyd is certain her body couldn’t cope with another pregnancy",
+      "url": "https://www.thetimes.com/life-style/parenting/article/pregnancy-in-40s-ivf-donor-b2g9273cb",
+      "urlToImage": "https://www.thetimes.com/imageserver/image/cf51f3fe-29da-4a60-8394-a8b0d0544365.jpg?strip=all&format=webp&crop=5235px%2C2945px%2C132px%2C619px&resize=1200",
+      "publishedAt": "2026-07-05T23:01:00Z",
       "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Science Daily"
+      },
+      "author": null,
+      "title": "Scientists may have finally found how Alzheimer's kills brain cells - ScienceDaily",
+      "description": "Researchers have identified a previously overlooked mechanism of brain cell death that appears to play a major role in Alzheimer&apos;s disease and frontotemporal dementia. The finding could lead to new treatments aimed at slowing neuron loss by interrupting …",
+      "url": "https://www.sciencedaily.com/releases/2026/06/260626124701.htm",
+      "urlToImage": "https://www.sciencedaily.com/images/1920/aging-brain-neurons-cell-death-proteins.webp",
+      "publishedAt": "2026-07-05T22:59:11Z",
+      "content": "Scientists have identified evidence of a previously unknown process that may explain how brain cells die in Alzheimer's disease and frontotemporal dementia (FTD). The discovery, centered on a mechani… [+4779 chars]"
     },
     {
       "source": {
@@ -34,6 +73,19 @@
     },
     {
       "source": {
+        "id": "newsweek",
+        "name": "Newsweek"
+      },
+      "author": "Alyce Collins",
+      "title": "Doctors Said It Was a Spider Bite, Then She Started To Lose Her Vision - Newsweek",
+      "description": "Emma Selvidge, 19, told Newsweek that the complications of this terrifying ordeal have been “some of the hardest to live with.“",
+      "url": "https://www.newsweek.com/doctors-said-was-spider-bite-then-started-to-lose-vision-12154097",
+      "urlToImage": "https://assets.newsweek.com/wp-content/uploads/2026/07/Copy-of-New-Split-Pic-Template-2026-07-03T094119-331.png?w=1200&crop=1",
+      "publishedAt": "2026-07-05T21:00:00Z",
+      "content": "A woman who thought she had woken up with a simple bug bite on her forehead has revealed details of the terrifying ordeal that ensued, leading to multiple hospitalizations, surgeries and even tempora… [+4121 chars]"
+    },
+    {
+      "source": {
         "id": null,
         "name": "New York Post"
       },
@@ -47,6 +99,32 @@
     },
     {
       "source": {
+        "id": "politico",
+        "name": "Politico"
+      },
+      "author": "Carmen Paun",
+      "title": "RFK Jr. wants you to get more preventive care. Some experts say that's a bad idea. - Politico",
+      "description": "But the health secretary has allies among some patient advocates and makers of tests that detect disease.",
+      "url": "https://www.politico.com/news/2026/07/05/rfk-preventive-kidney-alzheimers-colon-cancer-00986644",
+      "urlToImage": null,
+      "publishedAt": "2026-07-05T18:00:00Z",
+      "content": "Theres the potential that they could reform [the preventive services task force] in a way that is no longer evidence-based or scientific, in which case they can force insurance to cover things with n… [+2652 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Verywellhealth.com"
+      },
+      "author": "https://www.facebook.com/verywell",
+      "title": "We Asked a Pharmacist Why Magnesium Can Make You Feel Tired - Verywell Health",
+      "description": "Many people are taking magnesium to improve energy, but some report feeling tired after taking it.",
+      "url": "https://www.verywellhealth.com/why-magnesium-supplements-can-make-you-feel-tired-12002799",
+      "urlToImage": "https://www.verywellhealth.com/thmb/shEibbmnj9HqwP44ztipj3PkCP0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/VWH-GettyImages-2263733098-06b0d5500152422a8e3bfd3e5720955d.jpg",
+      "publishedAt": "2026-07-05T16:00:00Z",
+      "content": "Magnesium supplements are increasingly popular because they're promoted to improve energy levels and sleep, but some people say they feel even more tired after taking them. \r\nWe asked Anastasiya Shor… [+2073 chars]"
+    },
+    {
+      "source": {
         "id": "the-washington-post",
         "name": "The Washington Post"
       },
@@ -57,19 +135,6 @@
       "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/4RMOGXWDPNF37KZ6DCOASFNYQE.jpg&w=1440",
       "publishedAt": "2026-07-05T16:00:00Z",
       "content": "After Jennifer Haveys son was born in 2024, the 44-year-old first-time mom was consumed by a dizzying constellation of symptoms: There were mood swings and a sudden weepiness that felt starkly out of… [+348 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "WXYZ"
-      },
-      "author": "Kellen Voss",
-      "title": "Nearly 600 cases of Cyclosporiasis reported in Michigan on Fourth of July, MDHHS confirms - WXYZ Channel 7",
-      "description": "The number of cyclosporiasis cases reported in the state of Michigan have more than tripled over the past week, according to the Michigan Department of Health and Human Services.",
-      "url": "https://www.wxyz.com/news/nearly-600-cases-of-cyclosporiasis-reported-in-michigan-on-fourth-of-july-mdhhs-confirms",
-      "urlToImage": "https://ewscripps.brightspotcdn.com/dims4/default/3b028b0/2147483647/strip/true/crop/700x368+0+166/resize/1200x630!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2Fa9%2Fb1%2F74b491da4e2d8c7c467660783a48%2Fcyclospora.jpg",
-      "publishedAt": "2026-07-05T15:18:00Z",
-      "content": "LANSING, Mich. (WXYZ) The number of cyclosporiasis cases reported in the state of Michigan have more than tripled over the past week, according to the Michigan Department of Health and Human Services… [+3154 chars]"
     },
     {
       "source": {
@@ -99,16 +164,16 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "Healthline"
+        "id": "the-times-of-india",
+        "name": "The Times of India"
       },
-      "author": "Mandy French",
-      "title": "10 Medications Linked to Heat-Related Health Risks - Healthline",
-      "description": "As summer temperatures climb, so do the risks of heat-related illnesses, particularly for those who take certain medications, such as GLP-1s, diuretics, antidepressants, and beta-blockers. Here's what you need to know to stay safe.",
-      "url": "https://www.healthline.com/health-news/10-common-medications-heat-related-illness-risk",
-      "urlToImage": "https://media.post.rvohealth.io/wp-content/uploads/2026/07/pill-blister-packs-1200-628-facebook.jpg",
-      "publishedAt": "2026-07-05T15:00:59Z",
-      "content": "<ul><li>Certain types of medications can make people more prone to heat-related illness.</li><li>These include antidepressants, GLP-1 medications, and beta-blockers. </li><li>They can cause dehydrati… [+6351 chars]"
+      "author": "TIMESOFINDIA.COM",
+      "title": "Is it normal forgetfulness or Alzheimer's disease? Doctor reveals the warning signs you should never ignore - The Times of India",
+      "description": "Almost everyone has experienced that moment of walking into a room and suddenly forgetting why they went there. Names slip from memory. Glasses disappear only to be found on top of the head. Such moments can be frustrating, but they are often harmless and par…",
+      "url": "https://timesofindia.indiatimes.com/health/is-it-normal-forgetfulness-or-alzheimers-disease-doctor-reveals-the-warning-signs-you-should-never-ignore/photostory/132197533.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-132197551,width-1280,height-720,imgsize-28964,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-07-05T14:59:11Z",
+      "content": "Families often dismiss early symptoms as \"just ageing.\" But there are clues that should raise concern.\r\nDr Krishnan said, \"Memory errors eventually affect day-to-day functioning of the individual. Th… [+1090 chars]"
     },
     {
       "source": {
@@ -126,6 +191,19 @@
     {
       "source": {
         "id": null,
+        "name": "PsyPost"
+      },
+      "author": "Eric W. Dolan",
+      "title": "More than 50 percent of adults worry about their libido, new study finds - PsyPost",
+      "description": "Everyday stressors, mental health challenges, and relationship dynamics play a major role in how people perceive their sexual desire. New research reveals that these factors lead more than half of adults to worry about their libido.",
+      "url": "https://www.psypost.org/more-than-50-percent-of-adults-worry-about-their-libido-new-study-finds/",
+      "urlToImage": "https://www.psypost.org/wp-content/uploads/2026/01/woman-sad-low-libido-in-bed.jpg",
+      "publishedAt": "2026-07-05T14:25:38Z",
+      "content": "A recent study published in the Journal of Sex &amp; Marital Therapy suggests that over half of adults worry about their sex drive, with most concerns centering on having a libido that feels too low … [+12104 chars]"
+    },
+    {
+      "source": {
+        "id": null,
         "name": "Wearegreenbay.com"
       },
       "author": "Addy Bink",
@@ -135,6 +213,19 @@
       "urlToImage": "https://www.wearegreenbay.com/wp-content/uploads/sites/70/2023/08/Naegleria-fowleri-e1782756025199.jpg?w=1280",
       "publishedAt": "2026-07-05T14:00:00Z",
       "content": "(NEXSTAR) Temperatures are heating up, which may be driving you to seek out any swimming hole or lake that can help you cool off. Unfortunately, you aren’t the only one spending time in that freshwat… [+3336 chars]"
+    },
+    {
+      "source": {
+        "id": "politico",
+        "name": "Politico"
+      },
+      "author": "Associated Press",
+      "title": "Residents in Congo cling to hope as Ebola treatment trial begins - Politico",
+      "description": "Survival will be tracked for 28 days after starting treatment",
+      "url": "https://www.politico.com/news/2026/07/05/residents-in-congo-cling-to-hope-as-ebola-treatment-trial-begins-00987135",
+      "urlToImage": null,
+      "publishedAt": "2026-07-05T13:55:00Z",
+      "content": "The virus causing this outbreak, called Bundibugyo, is less common than others that cause Ebola disease and there are no specific treatments or vaccines for it. Already more than 1,400 people have be… [+1405 chars]"
     },
     {
       "source": {
@@ -148,6 +239,19 @@
       "urlToImage": "https://www.realsimple.com/thmb/o-nZqp4lTvKvG0i4tHuAtenSGI4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/WhatRDsDrinkBeforeBed-8832e11cd532417bac730ab345732b8e.jpg",
       "publishedAt": "2026-07-05T13:30:00Z",
       "content": "If youre one of the many who have stared at their ceiling wishing for sleep to come faster, youve probably tried more than one so-called trick. From herbal teas to warm milk, countless remedies claim… [+4095 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Southernliving.com"
+      },
+      "author": "https://www.facebook.com/SouthernLiving/",
+      "title": "I'm A Peanut Butter Snob, And This Store Brand Is My New Favorite - Southern Living",
+      "description": "ALDI's Simply Nature Organic Peanut Butter impressed one picky shopper with its simple ingredients, creamy texture, and affordable price.",
+      "url": "https://www.southernliving.com/aldi-peanut-butter-new-favorite-12012057",
+      "urlToImage": "https://www.southernliving.com/thmb/fMcdNFbx9Ggpx1Pjpb0-svyGTw4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1276823944-5419b963706f46d1995f989fbf5a6be4.jpg",
+      "publishedAt": "2026-07-05T13:26:00Z",
+      "content": "When faced with the question of what single food I would bring to a deserted island, my answer is always peanut butter. Its a good source of protein, it's low-carb, it's high in healthy fats and anti… [+2312 chars]"
     },
     {
       "source": {
@@ -213,6 +317,19 @@
       "urlToImage": "https://scx2.b-cdn.net/gfx/news/2026/higher-blood-glucose-l.jpg",
       "publishedAt": "2026-07-05T11:40:01Z",
       "content": "The human brain is known to naturally change with age, shrinking in size and volume after people reach their 30s or 40s. In some cases, however, it can age faster than expected, which can increase th… [+5879 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Prevention.com"
+      },
+      "author": "Korin Miller",
+      "title": "People Who Like This 1 Food Have Lower Risk of Diabetes and Hypertension, Doctors Say - AOL.com",
+      "description": "New research links a genetic predisposition to liking onions with a lower risk of two diseases. Here, experts break it down.",
+      "url": "https://www.prevention.com/health/a71728891/onions-low-blood-pressure-diabetes-study/",
+      "urlToImage": "https://s.yimg.com/cv/apiv2/aolfp/images/og-image.png",
+      "publishedAt": "2026-07-05T11:39:54Z",
+      "content": "\"Hearst Magazines and AOL may earn commission or revenue on some items through these links.\"\r\n<ul><li>New research suggests people genetically predisposed to liking onions have a lower risk of type 2… [+5762 chars]"
     },
     {
       "source": {
@@ -295,6 +412,19 @@
     {
       "source": {
         "id": null,
+        "name": "Science Daily"
+      },
+      "author": null,
+      "title": "Scientists discover the deep sleep circuit that builds muscle, burns fat, and boosts the brain - ScienceDaily",
+      "description": "Researchers have identified the brain circuitry that links deep sleep with the release of growth hormone, revealing how the two regulate each other. The newly discovered feedback loop helps explain why poor sleep can interfere with growth, muscle repair, fat …",
+      "url": "https://www.sciencedaily.com/releases/2026/06/260626030433.htm",
+      "urlToImage": "https://www.sciencedaily.com/images/1920/deep-sleep-and-growth-hormone.webp",
+      "publishedAt": "2026-07-05T07:39:33Z",
+      "content": "A good night's sleep does far more than leave you feeling refreshed. It also triggers the release of growth hormone, a key hormone that helps build muscle and bone, burn fat, and support healthy grow… [+5403 chars]"
+    },
+    {
+      "source": {
+        "id": null,
         "name": "Space Daily"
       },
       "author": null,
@@ -320,19 +450,6 @@
     },
     {
       "source": {
-        "id": "associated-press",
-        "name": "Associated Press"
-      },
-      "author": "Prosper Heri Ngorora, Mark Banchereau",
-      "title": "Residents in eastern Congo cling to hope as a new Ebola treatment trial begins - AP News",
-      "description": "Residents in Congo's Ebola outbreak zone are hopeful as researchers begin a study of two potential treatments. The study, launched Thursday at Bunia's Evangelical Medical Centre, aims to combat the growing outbreak in eastern Congo. The virus, Bundibugyo, has…",
-      "url": "https://apnews.com/article/congo-ebola-clinical-trials-7b2077d7b1dac0ab7081d864f1b93de2",
-      "urlToImage": "https://dims.apnews.com/dims4/default/d7361db/2147483647/strip/true/crop/5472x3646+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F66%2F75%2Fc70a4effa9439c6b65a497a4d0ec%2Fb475eae661db43bab2a3772d7a35b33f",
-      "publishedAt": "2026-07-05T05:11:00Z",
-      "content": "BUNIA, Congo (AP) Residents at the epicenter of Congos Ebola outbreak are pinning their hopes on experimental treatments after researchers began a highly anticipated study in early July of two possib… [+4747 chars]"
-    },
-    {
-      "source": {
         "id": "the-times-of-india",
         "name": "The Times of India"
       },
@@ -347,6 +464,19 @@
     {
       "source": {
         "id": null,
+        "name": "WTOL"
+      },
+      "author": "wtol.com",
+      "title": "Cyclosporiasis cases more than triple in Michigan since Tuesday - wtol.com",
+      "description": null,
+      "url": "https://www.wtol.com/article/news/health/new-recommendations-as-illness-cyclosporiasis-cases-rise-southeast-michigan/512-e3431d94-8f8c-4ee1-a1cf-cd2c941a5d0b",
+      "urlToImage": null,
+      "publishedAt": "2026-07-05T01:58:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
         "name": "ScienceAlert"
       },
       "author": "David Nield",
@@ -356,19 +486,6 @@
       "urlToImage": "https://www.sciencealert.com/images/2026/07/AstrocyteCells.jpg",
       "publishedAt": "2026-07-05T01:10:44Z",
       "content": "The severe and aggressive autoimmune disease known as neuromyelitis optica (NMO) just met a new match.\r\nWithout treatment, NMO can lead to serious disability, as rogue antibodies (AQP4-IgG) destroy t… [+4707 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Womansworld.com"
-      },
-      "author": "Lisa Maxbauer",
-      "title": "8 Easy Ways To Help Prevent Dementia if It Runs in Your Family - AOL.com",
-      "description": "If you have a loved one who has suffered from dementia, you probably wish you could look into a crystal ball and know if you, too, will experience memory loss. But there’s reason to feel empowered, not fearful. There are everyday habits that can protect your …",
-      "url": "https://www.womansworld.com/aging/alzheimers/how-to-help-prevent-dementia-if-it-runs-in-your-family",
-      "urlToImage": "https://s.yimg.com/cv/apiv2/aolfp/images/og-image.png",
-      "publishedAt": "2026-07-05T00:33:45Z",
-      "content": "If you have a loved one who has suffered from dementia, you probably wish you could look into a crystal ball and know if you, too, will experience memory loss. But theres reason to feel empowered, no… [+6919 chars]"
     },
     {
       "source": {
@@ -447,19 +564,6 @@
       "urlToImage": "https://static.toiimg.com/thumb/msid-132184215,width-1280,height-720,imgsize-28964,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
       "publishedAt": "2026-07-04T16:43:52Z",
       "content": "This is perhaps the most important question.\r\nThe answer is: only partly.\r\nAccording to Dr Ashok, \"The danger of prolonged sitting is not about fitness levels or body weight alone. It is about what h… [+1693 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Futurism"
-      },
-      "author": "Joe Wilkins",
-      "title": "Peptide That Makes You Tan Linked to Skin Cancer, Doctor Warns - Futurism",
-      "description": "A surgeon is warning about the cancer risks associated with a popular gray-market tanning peptide, Melanotan II.",
-      "url": "https://futurism.com/health-medicine/peptide-melanotan-skin-cancer-tanning-surgeon",
-      "urlToImage": "https://futurism.com/wp-content/uploads/2026/06/peptide-melanotan-skin-cancer-tanning-surgeon.jpg?quality=85&w=1200",
-      "publishedAt": "2026-07-04T16:02:00Z",
-      "content": "Can’t-miss innovations from the bleeding edge of science and tech\r\nResearchers are starting to get a closer view of the various gray-market peptides making the rounds on the back of the “looksmaxxing… [+1834 chars]"
     },
     {
       "source": {
@@ -580,29 +684,16 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "Vox"
+        "id": "cbs-news",
+        "name": "CBS News"
       },
-      "author": "Bryan Walsh",
-      "title": "Why Americans are living longer again - vox.com",
-      "description": "US life expectancy is on track for a record high in 2025 as the death rate hit its lowest level ever recorded, CDC data shows. Here’s why.",
-      "url": "https://www.vox.com/future-perfect/494256/united-states-life-expectancy-death-rates-health-overdose",
-      "urlToImage": "https://platform.vox.com/wp-content/uploads/sites/2/2026/07/GettyImages-2233434680.jpg?quality=90&strip=all&crop=0%2C4.1884816753927%2C100%2C91.623036649215&w=1200",
-      "publishedAt": "2026-07-04T12:30:00Z",
-      "content": "America is a uniquely sick, unhealthy country just ask Americans. Were addicted to ultraprocessed food and succumb to deaths of despair. The current US health secretary, who insists weve been raising… [+9684 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Inc."
-      },
-      "author": "inc.com",
-      "title": "Stopping Cognitive Decline? Scientists Just Discovered the Protein Driving the Spread of Alzheimer’s - inc.com",
-      "description": null,
-      "url": "https://www.inc.com/esther-lian/scientists-discovered-protein-driving-spread-of-alzheimers/91367621",
-      "urlToImage": null,
-      "publishedAt": "2026-07-04T12:16:19Z",
-      "content": null
+      "author": "Kerry  Breen",
+      "title": "Shoulder pain leads to Texas dad's cancer diagnosis: \"I was like, 'Wait, what?'\" - CBS News",
+      "description": "Eric Dillon thought the pain in his shoulder was a minor injury. It took two years to get the real answer.",
+      "url": "https://www.cbsnews.com/news/multiple-myeloma-pain-clinical-trial-md-anderson-cancer-center/",
+      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/06/04/983ad7d1-7179-4b53-85c0-e43b0f6cd13d/thumbnail/1200x630/4b0b090c20141ce143b274ab3906cc05/1000023091.jpg",
+      "publishedAt": "2026-07-04T12:00:12Z",
+      "content": "When Eric Dillon started feeling pain in his shoulder, he chalked it up to a strained rotator cuff. \r\nA visit to an orthopedic doctor seemed to confirm it. Physical therapy and stretching helped. For… [+5414 chars]"
     },
     {
       "source": {
@@ -655,19 +746,6 @@
       "urlToImage": "https://ychef.files.bbci.co.uk/624x351/p0nwnl96.jpg",
       "publishedAt": "2026-07-04T09:01:30Z",
       "content": "When these nerve cells are active, the body's temperature regulation system acts to maintain a warm core body temperature for instance, preventing overcooling through shivering or avoid overheating b… [+454 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Ctvnews.ca"
-      },
-      "author": "Joe Van Wonderen",
-      "title": "Live longer and eat greener: Study links lung health to leafy greens - CTV News",
-      "description": "Popeye the Sailor Man’s love of spinach is more than a cartoon gag, according to new research that connects leafy greens like spinach to healthier lungs.",
-      "url": "https://www.ctvnews.ca/health/article/live-longer-and-eat-greener-study-links-lung-health-to-leafy-greens/",
-      "urlToImage": "https://www.ctvnews.ca/resizer/v2/SBEMHEK3IYL67ZOKMC477IXEB4.jpg?smart=true&auth=583032f7797f10ba76a4fedcf00aadb9e9b4cde4dee88c7197ffc7e9c1903146&width=1200&height=630",
-      "publishedAt": "2026-07-04T09:00:00Z",
-      "content": null
     }
   ]
 }

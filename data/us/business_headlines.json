@@ -3,21 +3,73 @@
   "country": "us",
   "category": "business",
   "mode": "country",
-  "fetched_at": "2026-07-07T22:47:16.647880+00:00",
-  "articles_count": 28,
+  "fetched_at": "2026-07-08T01:15:29.678788+00:00",
+  "articles_count": 24,
   "articles": [
     {
       "source": {
-        "id": null,
-        "name": "The Seattle Times"
+        "id": "associated-press",
+        "name": "Associated Press"
       },
-      "author": "Alex Halverson",
-      "title": "Microsoft lays off 4,800 in companywide cuts - The Seattle Times",
-      "description": "A year after sweeping layoffs, Microsoft is cutting more roles that will heavily impact its Xbox gaming division.",
-      "url": "https://www.seattletimes.com/business/microsoft/microsoft-cuts-4800-across-xbox-sales-divisions-redeploys-hundreds-more/",
-      "urlToImage": "https://images.seattletimes.com/wp-content/uploads/2026/07/07032026_tzr_tzr_142853.jpg?d=1200x630",
-      "publishedAt": "2026-07-06T22:30:30Z",
-      "content": "Microsoft is laying off 605 Washington-based employees, part of companywide cuts, as it continues to cull its workforce amid a yearslong artificial-intelligence spending boom.\r\nThe Redmond-based tech… [+4609 chars]"
+      "author": "Josh Boak",
+      "title": "Trump says Walmart cut prices at his request, but Walmart statement omits administration's role - AP News",
+      "description": "President Donald Trump is claiming credit for Walmart's recent price cuts, though the retailer's statement doesn't mention his administration's involvement. Trump faces backlash over inflation, which rose after his tariffs and the Iran war's impact on energy …",
+      "url": "https://apnews.com/article/trump-walmart-inflation-beef-prices-ffc6faf84b68a0a5c5389217b77021ae",
+      "urlToImage": "https://dims.apnews.com/dims4/default/11983f3/2147483647/strip/true/crop/4782x3186+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F1b%2F17%2Fd1bd28ad210500515d52c4ea4e87%2Ffe58b808abf84bdf9972cf06bf509436",
+      "publishedAt": "2026-07-06T22:48:00Z",
+      "content": "WASHINGTON (AP) President Donald Trump on Monday sought to take credit for recent price cuts by Walmart, but a statement by the retailer made no mention of the administrations involvement in its deci… [+2532 chars]"
+    },
+    {
+      "source": {
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
+      },
+      "author": "Sarah Nassauer, Patrick Thomas, WSJ Staff, Heard Editors, Colin Kellaher, Jonathan Weil, Ryan Dezember, Micah Maidenberg, Corrie Driebusch, Nick Timiraos, Caitlin McCabe, Vicky Ge Huang, Rebecca Feng, Heather Gillers",
+      "title": "Stock Market Today: Nasdaq Rises at Start of Busy Week for Tech Stocks — Live Updates - WSJ",
+      "description": "Live updates on markets and the top finance, economics and business stories. Plus the latest on oil prices, the Dow, S&P 500 and Nasdaq.",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-07-06-2026",
+      "urlToImage": "https://images.wsj.net/im-925349/social",
+      "publishedAt": "2026-07-06T22:37:00Z",
+      "content": "The Dow closed at another record, while tech stocks rose to kick off a week that will challenge investors appetite for the AI trade again.\r\nThe Nasdaq composite led U.S. stock indexes with a 1.1% gai… [+1168 chars]"
+    },
+    {
+      "source": {
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "author": "Anand Krishnamoorthy",
+      "title": "Asian Stocks Set to Gain After Tech-Powered Rally: Markets Wrap - Bloomberg.com",
+      "description": "Asian equities dropped as technology shares came under renewed selling pressure, with Samsung Electronics Co. falling after its earnings report.",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-06/stock-market-today-dow-s-p-live-updates",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iEnpuh720.dQ/v0/1200x675.png",
+      "publishedAt": "2026-07-06T22:10:26Z",
+      "content": "Asian equities dropped as technology shares came under renewed selling pressure, with Samsung Electronics Co. falling after its earnings report.\r\nThe MSCI Asia Pacific Index slipped 0.6% with decline… [+336 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Investor's Business Daily"
+      },
+      "author": null,
+      "title": "Like It Or Not, SpaceX Set To Land In Millions Of Investors' Portfolios - Investor's Business Daily",
+      "description": "SpaceX will be officially in the Nasdaq 100 index on Tuesday.",
+      "url": "https://www.investors.com/news/spacex-spcx-stock-nasdaq-100-qqq/",
+      "urlToImage": "https://www.investors.com/wp-content/uploads/2018/09/stock-SpaceX-Moon2-company.jpg",
+      "publishedAt": "2026-07-06T21:07:00Z",
+      "content": "Information in Investors Business Daily is for informational and educational purposes only and should not be construed as an offer, recommendation, solicitation, or rating to buy or sell securities. … [+1064 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Eunice Yoon",
+      "title": "China's Alibaba bans Anthropic AI for employees after 'distillation attack' accusation - CNBC",
+      "description": "Chinese e-commerce giant Alibaba has put Anthropic's Claude Code on a high-risk software list.",
+      "url": "https://www.cnbc.com/2026/07/06/alibaba-anthropic-ai-ban-claude-china.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108330903-1783351476770-108330903-1783351409433-gettyimages-2268757758-AFP_A6EW8C3.jpg?v=1783351489&w=1920&h=1080",
+      "publishedAt": "2026-07-06T20:49:25Z",
+      "content": "Alibaba will ban employees from using Anthropic's artificial intelligence tools for work purposes as of July 10, citing concerns that the U.S. company has back-door security risks, CNBC confirmed on … [+2116 chars]"
     },
     {
       "source": {
@@ -48,6 +100,19 @@
     {
       "source": {
         "id": null,
+        "name": "Fox Business"
+      },
+      "author": "Eric Revell",
+      "title": "Trump admin maps out sweeping rollback of regulations in push to save $1.5T - Fox Business",
+      "description": "The 2026 regulatory plan targets 702 federal rules with a projected $1.5 trillion in cost savings, dwarfing last year's record $211.8 billion.",
+      "url": "https://www.foxbusiness.com/economy/trump-admin-maps-out-sweeping-rollback-regulations-push-save-1-5t",
+      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/07/0/0/donald-trump-oval-office-03.jpg?ve=1&tl=1",
+      "publishedAt": "2026-07-06T19:51:00Z",
+      "content": "The Trump administration on Friday laid out a sweeping deregulatory plan to eliminate over 700 rules across federal agencies.\r\nThe Office of Information and Regulatory Affairs (OIRA) released its 202… [+3237 chars]"
+    },
+    {
+      "source": {
+        "id": null,
         "name": "KTLA Los Angeles"
       },
       "author": "Tony Kurzweil",
@@ -57,6 +122,19 @@
       "urlToImage": "https://ktla.com/wp-content/uploads/sites/4/2026/05/Primm-Nevada-filephoto.jpg?w=1280",
       "publishedAt": "2026-07-06T19:14:57Z",
       "content": "Just two months after it appeared that a once-popular California-Nevada border hotel and gambling destination along the way to Las Vegas would become a ghost town, the Primm properties along the 15 F… [+3092 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "24/7 Wall St."
+      },
+      "author": "Omor Ibne Ehsan",
+      "title": "The Second-Biggest Stock Sale in History Hits the Nasdaq Friday, and Chip Stocks Are Ripping - 24/7 Wall St.",
+      "description": "SK Hynix, the world’s second-largest memory-chip maker, is coming to the NASDAQ on Friday with the largest stock sale anyone has priced in years, and the chip complex is already pricing it in. CNBC’s Kristina Partsinevelos reported Monday that “SK Hynix plans…",
+      "url": "https://247wallst.com/investing/2026/07/06/the-second-biggest-stock-sale-in-history-hits-the-nasdaq-friday-and-chip-stocks-are-ripping/",
+      "urlToImage": "https://247wallst.com/wp-content/uploads/2026/04/shutterstock-2247270931-huge-licensed-scaled.jpg",
+      "publishedAt": "2026-07-06T18:50:36Z",
+      "content": "SK Hynix, the world’s second-largest memory-chip maker, is coming to the NASDAQ on Friday with the largest stock sale anyone has priced in years, and the chip complex is already pricing it in. CNBC’s… [+4009 chars]"
     },
     {
       "source": {
@@ -74,41 +152,15 @@
     {
       "source": {
         "id": null,
-        "name": "Barron's"
+        "name": "Newser"
       },
-      "author": "Kit Norton",
-      "title": "Dell Stock: Trump Wants You to Buy a Computer. Investors Are Buying Its Shares. - Barron's",
-      "description": "Dell Technologies is rising sharply after President Donald Trump publicly voices his support for the company and its products. It’s not the first time he had endorsed the computer company.",
-      "url": "https://www.barrons.com/articles/dell-stock-price-trump-buy-6bff31df",
-      "urlToImage": "https://images.barrons.com/im-62666283/social",
-      "publishedAt": "2026-07-06T18:46:00Z",
-      "content": "Dell Technologiesstock rose Monday after President Donald Trump heaped praised on the company and told consumers to go out and buy a Dell computer.\r\nCopyright ©2026Dow Jones &amp; Company, Inc. All R… [+47 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Rebecca Bellan, Connie Loizos",
-      "title": "Every major tech layoff in 2026 that has name-checked AI - TechCrunch",
-      "description": "A running look — in reverse chronological order — at the bigger tech companies that have announced significant layoffs this year with AI as a stated factor.",
-      "url": "https://techcrunch.com/2026/07/06/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/06/AI-layoffs-picture.png?resize=1200,800",
-      "publishedAt": "2026-07-06T18:35:00Z",
-      "content": "Microsoft said Monday that it has eliminated about 4,800 roles, or 2.1% of its global workforce, adding to the string of AI-related layoffs hitting the tech world. The company said the roles being cu… [+10598 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": "Oliver Renick",
-      "title": "Here's how SpaceX's Nasdaq-100 inclusion might affect options pricing - CNBC",
-      "description": "About half-a-million SpaceX options traded by midday Monday, a little below the average since inception.",
-      "url": "https://www.cnbc.com/2026/07/06/heres-how-spacexs-nasdaq-100-inclusion-might-affect-options-pricing.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108322768-1781638780989-gettyimages-1016927198-Space-X.jpeg?v=1781639003&w=1920&h=1080",
-      "publishedAt": "2026-07-06T18:26:11Z",
-      "content": "SpaceX bulls are proving a devout lot, not unlike the Tesla traders that came before them.\r\nDaily options flows still lean heavily bullish almost a month into trading and one day ahead of the stock's… [+2287 chars]"
+      "author": "John Johnson",
+      "title": "Longevity Biohacker Reveals Automimmune Disease - Newser",
+      "description": "Bryan Johnson says he has a type of gastritis and plans to beat it",
+      "url": "https://www.newser.com/story/392331/longevity-biohacker-reveals-automimmune-disease.html",
+      "urlToImage": "https://cdn.newser.com/image/1696836-12-20260706181120.jpeg",
+      "publishedAt": "2026-07-06T18:42:00Z",
+      "content": "A well-known \"biohacker\" known for his ambitiouslongevity plans has revealed a speed bump in his journey: Bryan Johnson, 48, said on social media that he has a condition called autoimmune gastritis, … [+1507 chars]"
     },
     {
       "source": {
@@ -116,77 +168,25 @@
         "name": "Financial Times"
       },
       "author": null,
-      "title": "Hedge fund run by ex-OpenAI researcher bets on SK Hynix’s US IPO - Financial Times",
-      "description": "Situational Awareness joins UK investor Baillie Gifford backing the South Korean memory maker’s American debut",
-      "url": "https://www.ft.com/content/a6f1e92d-0232-4343-9930-6d965a67f187?syn-25a6b1a6\\\\u003d1",
-      "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fimages.ft.com%2Fv3%2Fimage%2Fraw%2Fhttps%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F7974943e-e18e-4c24-9df8-ac326aa033c7.jpg%3Fsource%3Dnext-barrier-page%26fit%3Dscale-down%26quality%3Dhighest%26width%3D700%26dpr%3D1?source=next-barrier-page",
-      "publishedAt": "2026-07-06T18:08:25Z",
+      "title": "Top Fed official backs Kevin Warsh’s rethink of forward guidance - Financial Times",
+      "description": "Christopher Waller sides with central bank’s new chair in call for revamping communication to market",
+      "url": "https://www.ft.com/content/52030e91-cac4-4ea9-b518-35a50bb8273d?syn-25a6b1a6\\\\u003d1",
+      "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fimages.ft.com%2Fv3%2Fimage%2Fraw%2Fhttps%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Ff3fb9768-3037-420b-afe3-9e0bf75ccd0d.jpg%3Fsource%3Dnext-barrier-page%26fit%3Dscale-down%26quality%3Dhighest%26width%3D700%26dpr%3D1?source=next-barrier-page",
+      "publishedAt": "2026-07-06T16:32:25Z",
       "content": "Then $75 per month. Complete digital access to quality FT journalism on any device. Cancel anytime during your trial."
     },
     {
       "source": {
-        "id": null,
-        "name": "Investor's Business Daily"
+        "id": "the-verge",
+        "name": "The Verge"
       },
-      "author": null,
-      "title": "Stock Market Today: Dow Up As This AI Stock Tests Entry; Microsoft Drops Amid Job Cutbacks (Live Coverage) - Investor's Business Daily",
-      "description": "The Dow Jones index rose after President Trump made bullish comments. SpaceX fell on the stock market today despite an Elon Musk boast.",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-micron-mu-stock-sandisk-sndk-stock/",
-      "urlToImage": "https://www.investors.com/wp-content/uploads/2024/05/Stock-elonmusk-2023-01-shutt.jpg",
-      "publishedAt": "2026-07-06T18:04:00Z",
-      "content": "Information in Investors Business Daily is for informational and educational purposes only and should not be construed as an offer, recommendation, solicitation, or rating to buy or sell securities. … [+1064 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Fox Business"
-      },
-      "author": "Eric Mack",
-      "title": "Trump looking 'very strongly' at Australia-style retirement system: 'Taking that, making it sharper' - Fox Business",
-      "description": "President Donald Trump says his administration is studying superannuation, a mandatory program requiring employers to contribute 12% into retirement accounts.",
-      "url": "https://www.foxbusiness.com/politics/trump-looking-very-strongly-australia-style-retirement-system-taking-that-making-sharper",
-      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/07/0/0/donald-trump-rose-garden-australia-retirement-accounts.jpg?ve=1&tl=1",
-      "publishedAt": "2026-07-06T18:02:24Z",
-      "content": "President Donald Trump's ongoing reforms to the American retirement system are getting inspiration from Down Under.\r\nThe Trump administration is working on an Australia-style retirement savings plan … [+2922 chars]"
-    },
-    {
-      "source": {
-        "id": "associated-press",
-        "name": "Associated Press"
-      },
-      "author": "Josh Boak",
-      "title": "Trump rings Wall Street’s opening bells as he ties his presidency to stock market gains - AP News",
-      "description": "President Donald Trump has rung the opening bells for the New York Stock Exchange and the Nasdaq from the Oval Office. It's a symbolic act that reflects how Trump has increasingly tied his presidency to the stock market. Trump said Monday after formally launc…",
-      "url": "https://apnews.com/article/trump-wall-street-opening-bells-stock-market-e55efa6c06e6eef8feb9049a7800c136",
-      "urlToImage": "https://dims.apnews.com/dims4/default/a4a04f2/2147483647/strip/true/crop/4364x2908+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fde%2Ffb%2F7a362558a7a8ba0632eaec154b7c%2F57e51e2f0140497c9174cda6720e1fb5",
-      "publishedAt": "2026-07-06T17:59:00Z",
-      "content": "WASHINGTON (AP) President Donald Trump on Monday rang the opening bells for the New York Stock Exchange and the Nasdaq from the golden confines of the Oval Office, a symbolic act that reflects how he… [+4087 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Futurism"
-      },
-      "author": "Frank Landymore",
-      "title": "Bryan Johnson Spent Tens of Millions Trying Not to Die, Gets Diagnosed With Incurable Disease - Futurism",
-      "description": "Immortality obsessed tech investor Bryan Johnson reveals he was recently diagnosed with an incurable disease.",
-      "url": "https://futurism.com/health-medicine/bryan-johnson-autoimmune-disease",
-      "urlToImage": "https://futurism.com/wp-content/uploads/2026/07/bryan-johnson-autoimmune-disease_5f36af.jpg?w=1200",
-      "publishedAt": "2026-07-06T17:51:56Z",
-      "content": "Can’t-miss innovations from the bleeding edge of science and tech\r\nBryan Johnson, in his quest for eternal youth, has been dealt a mortal blow.\r\nLast week, the longevity-obsessed tech investor reveal… [+2726 chars]"
-    },
-    {
-      "source": {
-        "id": "associated-press",
-        "name": "Associated Press"
-      },
-      "author": "Rob Gillies",
-      "title": "Alberta and Ontario propose a pipeline to carry western Canada’s oil to the east - AP News",
-      "description": "The premiers of Alberta and Ontario have proposed a pipeline to carry western Canadian oil to the country's east as Canada seeks new markets. Alberta's premier says the proposed pipeline would run from Hardisty, Alberta, to Sarnia, Ontario, carrying up to 500…",
-      "url": "https://apnews.com/article/canada-ontario-alberta-eastern-pipeline-742f556bab8d551365a9a7eaaca256bb",
-      "urlToImage": "https://dims.apnews.com/dims4/default/d0d0cb4/2147483647/strip/true/crop/5692x3793+0+52/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fad%2Fd3%2F20b93e9e4ee5aa69dc2055e6384f%2F63f09f854a05498aa19d1f577674df37",
-      "publishedAt": "2026-07-06T17:10:00Z",
-      "content": "TORONTO (AP) Alberta and Ontario proposed a pipeline Monday to carry western Canadian oil east and eventually to Atlantic export terminals as Canada seeks new markets beyond the United States, revivi… [+2960 chars]"
+      "author": "Jay Peters",
+      "title": "Former Xbox studios Double Fine and Compulsion will keep games after going indie - The Verge",
+      "description": "Double Fine and Compulsion Games will become “independent studios with their IP, catalog, and runway for their next games,” says Xbox CEO Asha Sharma.",
+      "url": "https://www.theverge.com/games/961749/xbox-layoffs-compulsion-double-fine-indie",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/ss_d78da4dbc35620193f7c14e0e5e68f7020adfd43.1920x1080.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+      "publishedAt": "2026-07-06T16:22:34Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nXbox CEO Asha Sharma says that theyll retain their franchises and catalogs.\r\nXbox CEO Asha Sharma says that theyll retain their franchises and catalogs.\r\nby\r\nJay… [+3961 chars]"
     },
     {
       "source": {
@@ -200,6 +200,19 @@
       "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/07/GettyImages-1239811095-e1783353788790.jpg?resize=1200,600",
       "publishedAt": "2026-07-06T16:14:00Z",
       "content": "The worlds foremost Bitcoin hoarder has made its biggest crypto sale yet. Strategy announced on Monday morning that it sold $216 million worth of Bitcoin over the past week. The sale is the companys … [+2522 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "WGN TV Chicago"
+      },
+      "author": "WGN-TV",
+      "title": "Who qualifies for payment in $50M settlement over Disney and streaming prices? - WGN-TV",
+      "description": null,
+      "url": "https://wgntv.com/news/nexstar-media-wire/who-qualifies-for-payment-in-50m-settlement-over-disney-and-streaming-prices/",
+      "urlToImage": null,
+      "publishedAt": "2026-07-06T15:54:45Z",
+      "content": null
     },
     {
       "source": {
@@ -243,15 +256,15 @@
     {
       "source": {
         "id": null,
-        "name": "Allrecipes.com"
+        "name": "Deadline"
       },
-      "author": "https://www.facebook.com/allrecipes",
-      "title": "A First-Of-Its-Kind Hot Dog Bun Is Coming Soon—and We Need It ASAP - Allrecipes",
-      "description": "Pringles is releasing a first-of-its-kind hot dog bun, called Pringles Pop Dog Buns, that will be available for free with an online purchase of Pringles three packs.",
-      "url": "https://www.allrecipes.com/new-pringles-pop-dog-buns-12009559",
-      "urlToImage": "https://www.allrecipes.com/thmb/hSyLUBfxXChGM-FfRT1PT3fwuvA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-268494-BasicAirFryerHotDogs-2x1-98902243eddb4e8082e65386a847e793.jpg",
-      "publishedAt": "2026-07-06T13:20:00Z",
-      "content": "Fourth of July weekend may be behind us, but that doesn't mean that summer barbecues are coming to an end. In fact, between graduation parties, World Cup watch parties, and, of course, the finale to … [+2436 chars]"
+      "author": "Dade Hayes",
+      "title": "Versant Acquires Sports Tech Firm Full Swing For $530M - Deadline",
+      "description": "Versant Media Group has acquired sports tech firm Full Swing for $530 million, expanding its portfolio of businesses outside of traditional linear TV.",
+      "url": "http://deadline.com/2026/07/versant-acquires-sports-tech-firm-full-swing-530-million-1236974648/",
+      "urlToImage": "https://deadline.com/wp-content/uploads/2026/05/Versant.jpg?w=1024",
+      "publishedAt": "2026-07-06T13:33:00Z",
+      "content": "Versant Media Group has acquired sports tech firm Full Swing for $530 million in cash, expanding its portfolio of businesses operating outside of traditional linear TV.\r\nFull Swing, which makes hardw… [+1612 chars]"
     },
     {
       "source": {
@@ -271,58 +284,6 @@
         "id": null,
         "name": "Hollywood Reporter"
       },
-      "author": "Alex Weprin",
-      "title": "Versant Inks $530 Million Deal for Sports Tech Company Full Swing - The Hollywood Reporter",
-      "description": "The tech company, best known for its advanced golf simulators, will expand the Golf Channel owner's presence in the tech and analytics space.",
-      "url": "http://www.hollywoodreporter.com/business/business-news/versant-buys-golf-simulator-tech-company-full-swing-1236638460/",
-      "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2026/07/GettyImages-2152779033.jpg?crop=0px%2C514px%2C6192px%2C3465px&resize=1440%2C810",
-      "publishedAt": "2026-07-06T12:24:11Z",
-      "content": "Versant has cut an agreement for its biggest acquisition yet: a $530 million deal to acquire Full Swing, a sports technology company.\r\nFull Swing is best known for its advanced golf simulators, track… [+1606 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "MarketWatch"
-      },
-      "author": "Barbara Kollmeyer",
-      "title": "AI hyperscalers are poised for a big comeback rally as chip gains cool, says Morgan Stanley - MarketWatch",
-      "description": "The chip pullback is ushering in a bumpy market, warn strategists",
-      "url": "https://www.marketwatch.com/story/the-chip-pullback-is-ushering-in-a-bumpy-market-these-sectors-are-the-best-bets-now-according-to-morgan-stanley-661566a7",
-      "urlToImage": "https://images.mktw.net/im-83515328/social",
-      "publishedAt": "2026-07-06T12:02:00Z",
-      "content": "The once-hot semiconductor trade has seen a cooling in the last couple of weeks, which is not only likely to continue, but usher in a bumpy ride for the overall stock market.\r\nThats according to a te… [+258 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "CBS/AP",
-      "title": "Millions brace for flooding after deadly heat, storms damper July 4th celebrations - Yahoo",
-      "description": "While millions of Americans across the Northeast experienced record-setting temperatures, thunderstorms in the Midwest downed trees, ruptured power lines and...",
-      "url": "https://www.yahoo.com/news/weather-news/articles/millions-brace-for-flooding-after-deadly-heat-storms-damper-july-4th-celebrations-114006719.html",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/7NACC17xB8oMiLYGLdJstA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/cbs_news_897/1f46ea0e5bcaa4a89f5da579428505bb",
-      "publishedAt": "2026-07-06T11:40:06Z",
-      "content": "Deadly storms and a heat wave marred America's 250th birthday for swathes of the United States, leaving hundreds of thousands of utility customers without power.\r\nMillions of Americans across the Nor… [+7224 chars]"
-    },
-    {
-      "source": {
-        "id": "business-insider",
-        "name": "Business Insider"
-      },
-      "author": "William Edwards, Alex Nicoll, Jennifer Sor",
-      "title": "Where to Invest $10,000 Right Now, According to 9 Top Wall Street Minds - Business Insider",
-      "description": "Stocks had a stellar first half, but the investing landscape is shifting. Here's where nine Wall Street pros say to park a chunk of cash.",
-      "url": "https://www.businessinsider.com/where-to-invest-10000-right-now-ai-trade-iran-warsh-2026-7#article",
-      "urlToImage": "https://i.insider.com/6a467d6a1bba93485607a9c1?width=1200&format=jpeg",
-      "publishedAt": "2026-07-06T09:00:00Z",
-      "content": "Investing ideas: The \"AI food chain\" (data centers, cybersecurity, robots), housing, financial services, and quantum computing.\r\nStephanie Link chief investment strategist at Hightower Advisors, whic… [+940 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Hollywood Reporter"
-      },
       "author": "Georg Szalai",
       "title": "Comcast’s Sky to Acquire ITV’s Networks and Streaming Businesses in $2.13 Billion Deal - The Hollywood Reporter",
       "description": "The ITV Studios production arm will become a standalone business after the planned transaction.",
@@ -334,28 +295,15 @@
     {
       "source": {
         "id": null,
-        "name": "CNBC"
+        "name": "WKRC TV Cincinnati"
       },
-      "author": "Reuters",
-      "title": "Dollar near two-week lows as rate-hike bets recede, embattled yen in focus - CNBC",
-      "description": "The U.S. dollar steadied near a 2-week low on Monday as investors scaled back bets on a Fed rate hike this year, while the yen remained near a 40-year low.",
-      "url": "https://www.cnbc.com/2026/07/06/dollar-near-2-week-low-as-rate-hike-bets-fall-embattled-yen-in-focus.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108105391-1740101853083-gettyimages-2187693077-AFP_36PG6WT.jpeg?v=1783301202&w=1920&h=1080",
-      "publishedAt": "2026-07-06T01:28:00Z",
-      "content": "The U.S. dollar steadied near a two-week low on Monday as investors scaled back bets on a Federal Reserve rate hike this year, while the yen remained pinned near a 40-year low, keeping investors nerv… [+2888 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "KCRA Sacramento"
-      },
-      "author": null,
-      "title": "AUDIO: Delta Flight 'felt a big bang' after apparently being hit by firework while landing in Chicago - KCRA",
-      "description": "Newly released audio reveals how pilots of a Delta Airlines flight reacted when a plane \"made contact with a firework\" while landing in Chicago.",
-      "url": "https://www.kcra.com/article/delta-flight-hit-by-firework-chicago-midway/71826191",
-      "urlToImage": "https://kubrick.htvapps.com/htv-prod/images/2b438faf-f32f-4f5a-8743-c81d44aff202.jpg?crop=1.00xw:0.846xh;0,0&resize=1200:*",
-      "publishedAt": "2026-07-05T22:32:00Z",
-      "content": "A Delta Air Lines flight was apparently struck by fireworks as it descended into Chicago Midway International Airport on Saturday evening, according to air traffic control audio and the airline.\r\nWe … [+1663 chars]"
+      "author": "WKRC",
+      "title": "'Felt a big bang': Airplane reportedly struck by firework on Fourth of July - WKRC",
+      "description": "An airplane was reportedly struck by a firework on the Fourth of July, and the reaction of the pilots was captured by air traffic control audio.",
+      "url": "https://local12.com/news/nation-world/airplane-firework-struck-by-fourth-of-july-4th-4-atc-air-traffic-control-plane-pilot-pilots-controller-chicago-midway-international-airport-gate-band-felt-big-holiday-dangerous-explosion-exploded-mortar",
+      "urlToImage": "https://local12.com/resources/media2/16x9/3000/1320/0x312/90/6801a7eb-5fe0-4c71-a510-3eb5c62fba6c-GettyImages1170329798.jpg",
+      "publishedAt": "2026-07-06T03:37:13Z",
+      "content": "CHICAGO (WKRC) - An airplane was reportedly struck by a firework on the Fourth of July, and the reaction of the pilots was captured by air traffic control (ATC) audio.\r\nAccording to details from Delt… [+1150 chars]"
     },
     {
       "source": {

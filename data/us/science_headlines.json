@@ -3,9 +3,22 @@
   "country": "us",
   "category": "science",
   "mode": "country",
-  "fetched_at": "2026-07-09T01:23:35.948753+00:00",
+  "fetched_at": "2026-07-09T05:54:56.187037+00:00",
   "articles_count": 68,
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Space.com"
+      },
+      "author": "Robert Lea",
+      "title": "James Webb Space Telescope celebrates its 4th birthday with stunning image of a galaxy crash site - Space",
+      "description": "\"No single telescope tells the whole story. Discoveries build over time, and new observatories expand on the foundations laid by earlier missions.\"",
+      "url": "https://www.space.com/astronomy/james-webb-space-telescope/james-webb-space-telescope-celebrates-its-4th-birthday-with-stunning-image-of-a-galaxy-crash-site",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/i9xQzqnXJtk7WJw5Wfy4vf-2000-80.png",
+      "publishedAt": "2026-07-07T21:00:00Z",
+      "content": null
+    },
     {
       "source": {
         "id": null,
@@ -82,19 +95,6 @@
       "url": "https://www.livescience.com/physics-mathematics/time-was-speeding-up-slowing-down-or-even-stopping-physicist-demonstrates-a-key-theory-of-time-by-building-a-mini-universe-in-his-lab",
       "urlToImage": "https://cdn.mos.cms.futurecdn.net/LxGSwEwP3PpenRYvSBeN2T-2000-80.jpg",
       "publishedAt": "2026-07-07T16:18:11Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Space.com"
-      },
-      "author": "Brett Tingley",
-      "title": "China releases 1st photo of Earth's elusive 'quasi-moon' Kamo'oalewa - Space",
-      "description": "Some scientists believe the quasi-moon could have been created when a massive impact knocked a chunk of our own moon into space between 1 million and 10 million years ago.",
-      "url": "https://www.space.com/space-exploration/asteroid-comet-missions/china-releases-1st-photo-of-earths-elusive-quasi-moon-kamooalewa",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/3Qjcc8Hns5ofJ4KXSxqbpD-2000-80.jpg",
-      "publishedAt": "2026-07-07T16:00:00Z",
       "content": null
     },
     {
@@ -246,12 +246,12 @@
         "name": "BGR"
       },
       "author": "Trevor Mogg",
-      "title": "50 Years Later, NASA's Voyager Probe Is Reaching A Big Milestone For Space Travel - bgr.com",
-      "description": "In November of 2026, the Voyager 1 space probe will officially be one light-day from Earth, meaning all communications will take 48 hours round trip.",
+      "title": "50 Years Later, NASA's Voyager Probe Is Reaching A Big Milestone For Space Travel - Yahoo",
+      "description": "Nearly 50 years ago, NASA launched what would become its first interstellar spacecraft, and this year Voyager 1 is set to reach a huge milestone.",
       "url": "https://www.bgr.com/2206857/nasa-voyager-reach-milestone-space-travel/",
-      "urlToImage": "https://www.bgr.com/img/gallery/50-years-later-nasas-voyager-probe-is-reaching-a-big-milestone-for-space-travel/l-intro-1783005257.jpg",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/kXB.q6s.fEu.jq96XRFC9Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzQ7Y2Y9d2VicA--/https://media.zenfs.com/en/bgr_ecomm_183/00f49bdb45eb5826db1abcf3262df9b1",
       "publishedAt": "2026-07-07T12:17:00Z",
-      "content": "NASA's Voyager 1 spacecraft will hit a remarkable milestone on November 18, 2026 when it reaches a distance of one light-day from our planet. In other words, the point at which it takes light, or any… [+1265 chars]"
+      "content": "NASA's Voyager 1 spacecraft will hit a remarkable milestone on November 18, 2026 when it reaches a distance of one light-day from our planet. In other words, the point at which it takes light, or any… [+4995 chars]"
     },
     {
       "source": {
@@ -347,6 +347,32 @@
     {
       "source": {
         "id": null,
+        "name": "ScienceAlert"
+      },
+      "author": "Jess Cockerill",
+      "title": "First-Ever Close-Up Revealed of Earth's Rare 'Minimoon' - ScienceAlert",
+      "description": "Did you know Earth has a 'minimoon'? It's known as asteroid 2016HO3, or Kamoʻoalewa.",
+      "url": "https://www.sciencealert.com/first-ever-close-up-revealed-of-earths-rare-minimoon",
+      "urlToImage": "https://www.sciencealert.com/images/2026/07/china-mini-moon.jpg",
+      "publishedAt": "2026-07-07T04:49:55Z",
+      "content": "Did you know Earth has a 'minimoon'? It's known as asteroid 2016HO3, or Kamooalewa.\r\nA probe sent for the China National Space Administration (CNSA) mission, Tianwen-2, has just returned its first pi… [+3861 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Phys.Org"
+      },
+      "author": null,
+      "title": "Quantum computing: Laser-optical system offers full control over 2,000 trapped Rydberg atoms - Phys.org",
+      "description": "Fraunhofer ILT in Aachen has developed a highly complex laser-optical system for a quantum computer currently under construction at the 5th Institute of Physics at the University of Stuttgart. This system enables 2,000 Rydberg atoms to be positioned with subm…",
+      "url": "https://phys.org/news/2026-07-quantum-laser-optical-full-rydberg.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/2026/full-control-over-2000.jpg",
+      "publishedAt": "2026-07-07T00:20:02Z",
+      "content": "Fraunhofer ILT in Aachen has developed a highly complex laser-optical system for a quantum computer currently under construction at the 5th Institute of Physics at the University of Stuttgart. This s… [+9748 chars]"
+    },
+    {
+      "source": {
+        "id": null,
         "name": "Space Daily"
       },
       "author": null,
@@ -399,19 +425,6 @@
     {
       "source": {
         "id": null,
-        "name": "PetaPixel"
-      },
-      "author": "Jeremy Gray",
-      "title": "Webb Celebrates Fourth Year of Science By Showing Off its Cutting-Edge Cameras - PetaPixel",
-      "description": "The best-ever look at a nearby cosmic laboratory.",
-      "url": "https://petapixel.com/2026/07/06/webb-celebrates-fourth-year-of-science-by-showing-off-its-cutting-edge-cameras/",
-      "urlToImage": "https://petapixel.com/assets/uploads/2026/07/weic2615d-1600x840-1.jpg",
-      "publishedAt": "2026-07-06T21:21:52Z",
-      "content": "To celebrate the James Webb Space Telescope’s fourth anniversary of scientific operations, NASA, ESA, and CSA have unveiled new photos of a familiar galaxy that illustrate just how special Webb’s ima… [+4961 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "Sci.news"
       },
       "author": "Natali Anderson",
@@ -434,6 +447,19 @@
       "urlToImage": "https://gizmodo.com/app/uploads/2026/07/Antarctica-1200x675.jpg",
       "publishedAt": "2026-07-06T20:00:50Z",
       "content": "Some 34 million years ago, when Earth was significantly warmer than it is today, Antarctica froze over. It would take another 25 million years for ice to cover the Arctic, and the question of how the… [+5079 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Gayoung Lee",
+      "title": "People Who Can’t Visualize Anything Are Challenging a 300-Year-Old Theory of Thought - Gizmodo",
+      "description": "Mental imagery might not be as central to complex human thought as we believed, philosophers say.",
+      "url": "https://gizmodo.com/people-who-cant-visualize-anything-are-challenging-a-300-year-old-theory-of-thought-2000781894",
+      "urlToImage": "https://gizmodo.com/app/uploads/2025/10/puzzlebrain-1200x675.jpg",
+      "publishedAt": "2026-07-06T19:40:55Z",
+      "content": "The philosopher David Hume believed that, to understand abstract concepts, humans needed to summon a mental image to picture the idea. But since Humes time in the 18th century, we now have a more nua… [+4661 chars]"
     },
     {
       "source": {
@@ -684,29 +710,16 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "Space.com"
+        "id": "google-news",
+        "name": "Google News"
       },
-      "author": "Keith Cooper",
-      "title": "Astronomers discover radio signals coming from rare 'Blue Eye Pulsar' after decades of silence - Yahoo",
-      "description": "Astronomers have detected radio signals coming from a long-dead neutron star known as the 'Blue Eye Pulsar' after searching for decades.",
-      "url": "https://www.space.com/astronomy/stars/astronomers-discover-radio-signals-coming-from-rare-blue-eye-pulsar-after-decades-of-silence",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/2765a134dd0b8348331ae360644576d3bfd6a6a5e44842ceda2d8da12875c086/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fspace_311%2Fdc983ef956a346fb318b5c303c0f6a10",
+      "author": "Space",
+      "title": "Astronomers discover radio signals coming from rare 'Blue Eye Pulsar' after decades of silence - Space",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPZjhicWw3Vk5pS04tb0p6SUJHdFdyM2J3M1RxdDNuc2sxOVhuTDRGNVdIeDJEaFNaS2dfOWhOajRqZ3JPRGpjNzA0Wjh2Q2g4ZXZDbzVNaElkM0NYY2tBN001Q1puaXJqWGNKTl9UNmJldVI5Q0NZbWpMT3pDS2pla0xBa0VHeVZZTGNQSzZiNTBKOEhJM1l2SXdOTWY3NUIzek5HWWRwRFpZSVFjaUVnR2ZyNmJRa29QMVhacUw1ZEczY285MGV4aG9R?oc=5",
+      "urlToImage": null,
       "publishedAt": "2026-07-06T12:00:00Z",
-      "content": "When you buy through links on our articles, Future and its syndication partners may earn a commission.\r\nAn artist's depiction of a pulsar emitting radio waves. | Credit: Nazarii Neshcherenskyi/Getty … [+4167 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "SciTechDaily"
-      },
-      "author": null,
-      "title": "Scientists Baffled by a Sudden Reversal Deep Inside Earth’s Core - SciTechDaily",
-      "description": "A surprising reversal in molten iron flow beneath the Pacific is giving scientists a sharper view of how Earth’s magnetic field evolves.",
-      "url": "https://scitechdaily.com/scientists-baffled-by-a-sudden-reversal-deep-inside-earths-core/",
-      "urlToImage": "https://scitechdaily.com/images/Illustration-of-Earths-Magnetic-Field-scaled.jpg",
-      "publishedAt": "2026-07-06T11:02:34Z",
-      "content": "Earths magnetic field is mainly generated by swirling liquid iron in the outer core, about 3,000 km beneath the surface. Like a bicycle dynamo, this moving metal generates electrical currents that pr… [+8115 chars]"
+      "content": null
     },
     {
       "source": {
@@ -776,19 +789,6 @@
     {
       "source": {
         "id": null,
-        "name": "IFLScience"
-      },
-      "author": "James Felton",
-      "title": "Today, Earth Reaches Aphelion, Our Most Distant Point From The Sun. So Why Is It So Stupidly Hot? - IFLScience",
-      "description": "The Earth receives about 7 percent less light during aphelion than perihelion, our closest approach to the Sun. So why is it so darn hot?",
-      "url": "https://www.iflscience.com/today-earth-reaches-aphelion-our-most-distant-point-from-the-sun-so-why-is-it-so-stupidly-hot-84007",
-      "urlToImage": "https://assets.iflscience.com/assets/articleNo/84007/aImg/91398/aphelion-meta.png",
-      "publishedAt": "2026-07-06T09:18:40Z",
-      "content": "Today, 6 July 2026, Earth reaches its aphelion, our furthest point from the Sun on our yearly journey around it. As always, this has quite a few people confused, with our furthest point from our host… [+5110 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "Space Daily"
       },
       "author": null,
@@ -798,6 +798,19 @@
       "urlToImage": "https://spacedaily.com/wp-content/uploads/2026/07/cassini.jpg",
       "publishedAt": "2026-07-06T09:00:18Z",
       "content": "For thirteen years, a spacecraft called Cassini circled Saturn. It flew straight through the icy plumes erupting from the little moon Enceladus, tasted water and organic molecules in the spray, and t… [+4546 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Chemistry World"
+      },
+      "author": "Katrina Krämer",
+      "title": "How a chance discovery overturned one of photochemistry’s oldest dogmas - Chemistry World",
+      "description": "The first hints of what’s behind the seemingly illogical mismatch between photochemical reactivity and absorptivity could finally end a team’s 10-year struggle to get their results taken seriously",
+      "url": "https://www.chemistryworld.com/news/how-a-chance-discovery-overturned-one-of-photochemistrys-oldest-dogmas/4023163.article",
+      "urlToImage": "https://d2cbg94ubxgsnp.cloudfront.net/Pictures/web/a/j/t/cwphotochemistrysoldestdogmasjune2026indexonly_747626.gif",
+      "publishedAt": "2026-07-06T08:49:09Z",
+      "content": "Ten years ago, a team of researchers made a chance discovery that would overturn one of the most fundamental rules in photochemistry: that light-activated reactions work best when the wavelength used… [+15226 chars]"
     },
     {
       "source": {
@@ -876,19 +889,6 @@
       "urlToImage": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/07/Montblance-Iced-Sea-Full-Black-4.jpg",
       "publishedAt": "2026-07-06T05:04:28Z",
       "content": "I swear, the watch came out of the box looking like this; we didnt do anything to scuff it up. The brand that sent us the watch did this on purpose. The latest Montblanc Iced Sea Automatic Date 0 Oxy… [+6884 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Space Daily"
-      },
-      "author": null,
-      "title": "Mars once had a magnetic field strong enough to deflect solar wind, just as Earth's does now — when it collapsed, the planet lost its atmosphere and its oceans within a geologically brief period, transforming from a world that may have held life into the frozen d - Space Daily",
-      "description": "Mars once had a global magnetic field, generated deep inside the planet, strong enough to deflect the solar wind much as Earth's does today. When that field",
-      "url": "https://spacedaily.com/t-mars-once-had-a-magnetic-field-strong-enough-to-deflect-solar-wind-just-as-earths-does-now-when-it-collapsed-the-planet-lost-its-atmosphere-and-its-oceans-within-a-geologically-brief-peri/",
-      "urlToImage": "https://spacedaily.com/wp-content/uploads/2026/07/marsmagnetic.jpg",
-      "publishedAt": "2026-07-06T02:30:37Z",
-      "content": "Mars once had a global magnetic field, generated deep inside the planet, strong enough to deflect the solar wind much as Earth’s does today. When that field faded, Mars lost its thick atmosphere and … [+4723 chars]"
     }
   ]
 }

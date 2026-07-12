@@ -3,9 +3,22 @@
   "country": "us",
   "category": "business",
   "mode": "country",
-  "fetched_at": "2026-07-12T16:39:43.946106+00:00",
-  "articles_count": 33,
+  "fetched_at": "2026-07-12T18:42:35.127144+00:00",
+  "articles_count": 36,
   "articles": [
+    {
+      "source": {
+        "id": "usa-today",
+        "name": "USA Today"
+      },
+      "author": "Gabe Hauari",
+      "title": "Ikea to open 7 new stores through 2027. See where - USA Today",
+      "description": "Furniture giant Ikea is opening seven new stores through the winter of 2027. Here's where and when the stores are scheduled to open.",
+      "url": "https://www.usatoday.com/story/money/2026/07/11/ikea-opening-new-stores-locations/90878057007/",
+      "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/07/10/USAT/90878514007-20240426-t-120359-z-368735238-rc-28-e-7-aiwjiu-rtrmadp-3-ikearesults-1.JPG?crop=5218,2935,x0,y0&width=3200&height=1800&format=pjpg&auto=webp",
+      "publishedAt": "2026-07-11T12:01:00Z",
+      "content": "If you've ever wanted to browse a furniture store while eating Swedish meatballs, you may soon get the chance.\r\nSwedish furniture giant Ikea told USA TODAY it is planning on opening seven new locatio… [+2539 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -18,6 +31,32 @@
       "urlToImage": "https://image.cnbcfm.com/api/v1/image/108279913-1773864085826-gettyimages-2260914806-64393_48_ms_4337.jpeg?v=1773864352&w=1920&h=1080",
       "publishedAt": "2026-07-11T12:00:01Z",
       "content": "Losing weight with GLP-1 drugs is only half the battle. Keeping it off long term has proved even harder.\r\nFactors such as side effects, high out-of-pocket costs, injection fatigue and stigma around o… [+12838 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Newser"
+      },
+      "author": "Jenn Gidman",
+      "title": "Big First for Japan in Race to Compete With SpaceX - Newser",
+      "description": "JAXA successfully launches, lands RV-X experimental reusable rocket",
+      "url": "https://www.newser.com/story/392645/japan-launches-first-test-flight-of-its-reusable-rocket.html",
+      "urlToImage": "https://cdn.newser.com/image/1697934-12-20260711070002.jpeg",
+      "publishedAt": "2026-07-11T11:30:00Z",
+      "content": "The rocket flew as planned, rising 36 feet and moving horizontally 52 feet while keeping its upright position before landing, according to Takashi Ito, JAXA's reusable rocket project manager, in an o… [+1307 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Financial Times"
+      },
+      "author": null,
+      "title": "Donald Trump ups the pressure on US companies in drive to lower prices - Financial Times",
+      "description": "Critics fear shift to ‘hyper-populist playbook’ as inflation lingers",
+      "url": "https://www.ft.com/content/3e3d18d8-d6c2-4846-93ad-67ea0aaa12a2?syn-25a6b1a6\\\\u003d1",
+      "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fimages.ft.com%2Fv3%2Fimage%2Fraw%2Fhttps%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F3e063fb7-173f-4981-9984-a764cfa24508.jpg%3Fsource%3Dnext-barrier-page%26fit%3Dscale-down%26quality%3Dhighest%26width%3D700%26dpr%3D1?source=next-barrier-page",
+      "publishedAt": "2026-07-11T11:00:08Z",
+      "content": "Then $75 per month. Complete digital access to quality FT journalism on any device. Cancel anytime during your trial."
     },
     {
       "source": {
@@ -47,16 +86,29 @@
     },
     {
       "source": {
-        "id": "usa-today",
-        "name": "USA Today"
+        "id": "business-insider",
+        "name": "Business Insider"
       },
-      "author": "Daniel de Visé",
-      "title": "A record number of young adults live with parents. Why? - USA Today",
-      "description": "A record number of under-35 adults are living with their parents rather than negotiate the tricky math of living alone.",
-      "url": "https://www.usatoday.com/story/money/personalfinance/2026/07/11/record-number-young-adults-live-with-parents/90865580007/",
-      "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/07/09/USAT/90867525007-getty-images-2263358322.jpg?crop=5833,3282,x0,y303&width=3200&height=1801&format=pjpg&auto=webp",
-      "publishedAt": "2026-07-11T09:04:00Z",
-      "content": "A record number of adults under age 35 choose to live with their parents, Census data shows, rather than contemplate the increasingly tricky math of living on their own. \r\nMore than 25 million under-… [+5320 chars]"
+      "author": "Henry Chandonnet",
+      "title": "Inside one coder's journey to leave tech and land a 'baby blue-collar' job - Business Insider",
+      "description": "When Brian Gordon lost his tech job, he decided to leave software development for good. His goal was something more blue-collar.",
+      "url": "https://www.businessinsider.com/web-developer-coding-career-pivot-baby-blue-collar-job-2026-7#article",
+      "urlToImage": "https://i.insider.com/6a4fa02fd3b3e45765196edc?width=1200&format=jpeg",
+      "publishedAt": "2026-07-11T09:02:00Z",
+      "content": "Brian Gordon fell in love with coding. Over a decade later, the industry wasn't loving him back.\r\nIn March, Gordon learned that his company would be shutting down, eliminating his frontend developer … [+7678 chars]"
+    },
+    {
+      "source": {
+        "id": "fortune",
+        "name": "Fortune"
+      },
+      "author": "Nicholas Gordon",
+      "title": "How SK Hynix just pulled off the second-largest U.S. share sale by quietly powering the AI boom - Fortune",
+      "description": "With a $26.5 billion Nasdaq debut, the South Korean manufacturer caps off a long, strange path from memory-chip also-ran to AI powerhouse",
+      "url": "https://fortune.com/2026/07/11/sk-hynix-us-stock-listing-nasdaq-second-largest-us-share-sale-ai-boom-hbw-memory/",
+      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/07/GettyImages-2284869101-e1783697903997.jpg?resize=1200,600",
+      "publishedAt": "2026-07-11T09:00:00Z",
+      "content": "SK Hynix, the worlds leading manufacturer of high-bandwidth memory, debuted on the Nasdaq yesterday, after raising $26.5 billion in the largest U.S. listing ever by a foreign company and the second-l… [+9264 chars]"
     },
     {
       "source": {
@@ -70,6 +122,19 @@
       "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/7442/live/ebd646e0-7a35-11f1-ab76-d75965dea4d1.jpg",
       "publishedAt": "2026-07-11T07:41:18Z",
       "content": "However, Andy Blocker, head of policy, regulatory and government relations at financial services firm Edward Jones, believes the $1,000 contribution for babies born during Trump's second term in offi… [+58 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "DW (English)"
+      },
+      "author": "Richard Connor",
+      "title": "Passenger partly sucked from Ryanair plane during flight - DW.com",
+      "description": "A man was nearly sucked out the cabin window on a Ryanair flight from Greece to Germany. An initial loud bang was followed by a desperate rescue effort to save the passenger.",
+      "url": "https://www.dw.com/en/passenger-partly-sucked-from-ryanair-plane-during-flight/a-77909298",
+      "urlToImage": "https://static.dw.com/image/77908605_6.jpg",
+      "publishedAt": "2026-07-11T04:50:23Z",
+      "content": "A Ryanair flight to southern Germany had to return the Greek city of Thessaloniki on Friday after a passenger window broke shortly after takeoff.\r\nThe pressure difference pulled the head and shoulder… [+2131 chars]"
     },
     {
       "source": {
@@ -112,6 +177,32 @@
     },
     {
       "source": {
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
+      },
+      "author": "Robbie Whelan",
+      "title": "The White House Made Fixing Intel Its Pet Project. It’s Working. - WSJ",
+      "description": "The chip maker’s business is improving, with government twisting the arms of potential customers and partners including Apple and Nvidia",
+      "url": "https://www.wsj.com/tech/the-white-house-intel-trump-apple-84fe833e",
+      "urlToImage": "https://images.wsj.net/im-92108929/social",
+      "publishedAt": "2026-07-11T01:00:00Z",
+      "content": "Tim Cook was under pressure from the White House last summer when he fielded an unusual request. \r\nThe Apple chief was in Washington, scrambling to persuade the Trump administration to abandon its pl… [+657 chars]"
+    },
+    {
+      "source": {
+        "id": "associated-press",
+        "name": "Associated Press"
+      },
+      "author": "Cathy Bussewitz",
+      "title": "Global oil demand is dropping, but US drivers keep buying more gas - AP News",
+      "description": "Global oil demand is set to decline this year for the first time since 2020. The International Energy Agency expects a drop of about 1 million barrels per day by 2026. This decline is due to higher oil prices and supply disruptions caused by the U.S.-Iran con…",
+      "url": "https://apnews.com/article/oil-gasoline-demand-iran-us-iea-report-de45ede94f992da07d35a8b737fdeacf",
+      "urlToImage": "https://dims.apnews.com/dims4/default/c30332b/2147483647/strip/true/crop/6000x3998+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fc8%2F7a%2Fd74147409a591dafc97b16061331%2Fa723d6cf44e94923a09cda25d90eedd5",
+      "publishedAt": "2026-07-11T00:14:00Z",
+      "content": "NEW YORK (AP) Global oil demand is set to decline this year for the first time since the height of the COVID-19 pandemic in 2020, according to a report from the International Energy Agency.\r\nThe drop… [+4934 chars]"
+    },
+    {
+      "source": {
         "id": "associated-press",
         "name": "Associated Press"
       },
@@ -122,6 +213,19 @@
       "urlToImage": "https://dims.apnews.com/dims4/default/8967160/2147483647/strip/true/crop/6000x3998+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F79%2F3a%2F281db9a06aaab0daa00f4d035461%2F95ddce9adb734c96bcaa705fc1484eac",
       "publishedAt": "2026-07-10T23:59:00Z",
       "content": "Meta, the parent company of Instagram and Facebook, has appealed the verdict of a landmark social media addiction lawsuit in Los Angeles, challenging the jurys determination that the company designed… [+3182 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "New Jersey Globe"
+      },
+      "author": "David Wildstein",
+      "title": "Sherrill administration will suspend enforcement of new data law - New Jersey Globe",
+      "description": "Gov. Mikie Sherrill's administration is trying to walk back the impact of a new state law that could shut off political campaigns' access to key",
+      "url": "https://newjerseyglobe.com/governor/sherrill-administration-will-suspend-enforcement-of-new-data-law/",
+      "urlToImage": "https://media.newjerseyglobe.com/wp-content/uploads/2026/03/15191522/KBS_2837-scaled.jpg",
+      "publishedAt": "2026-07-10T23:14:33Z",
+      "content": "Gov. Mikie Sherrill’s administration is trying to walk back the impact of a new state law that could shut off political campaigns’ access to key voter-targeting data, a move aimed at preventing the s… [+3742 chars]"
     },
     {
       "source": {
@@ -152,32 +256,6 @@
     {
       "source": {
         "id": null,
-        "name": "The Air Current"
-      },
-      "author": "Jon Ostrower",
-      "title": "Apparent engine fan blade failure preceded rupture of Ryanair 737 window - The Air Current",
-      "description": "Blade failure follows similar accidents in 2016, 2018",
-      "url": "https://theaircurrent.com/feed/dispatches/engine-fan-blade-failure-preceded-rupture-ryanair-737-window-greece/",
-      "urlToImage": "https://theaircurrent.com/wp-content/uploads/2026/07/ryanair-img-jao-2.jpeg",
-      "publishedAt": "2026-07-10T21:02:08Z",
-      "content": "Air safety reporting is made accessible without a subscription as a public service. Subscribe to The Air Current for full access to our scoops, in-depth reporting and industry analysis.\r\nThe rupture … [+2934 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Barron's"
-      },
-      "author": "Adam Clark",
-      "title": "SK Hynix Stock Is the Star of the Show Today. Just Look at Micron Shares. - Barron's",
-      "description": "Micron Technology stock played second fiddle to memory-chip peer SK Hynix’s strong market debut on Friday.",
-      "url": "https://www.barrons.com/articles/micron-stock-price-memory-chips-b4a4eeb7",
-      "urlToImage": "https://images.barrons.com/im-63738/social",
-      "publishedAt": "2026-07-10T20:56:00Z",
-      "content": "Micron Technologystock played second fiddle to memory-chip peerSK Hynixsstrongmarket debuton Friday.\r\nCopyright ©2026Dow Jones &amp; Company, Inc. All Rights Reserved. 87990cbe856818d5eddac44c7b1cdeb8"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "Investor's Business Daily"
       },
       "author": null,
@@ -191,28 +269,15 @@
     {
       "source": {
         "id": null,
-        "name": "nj.com"
+        "name": "KUT"
       },
-      "author": "NJ.com",
-      "title": "White House fires back after Trump’s stunning Walmart claim nearly blows up - NJ.com",
-      "description": null,
-      "url": "https://www.nj.com/politics/2026/07/white-house-fires-back-after-trumps-stunning-walmart-claim-nearly-blows-up.html",
-      "urlToImage": null,
-      "publishedAt": "2026-07-10T18:30:00Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "New Jersey Globe"
-      },
-      "author": "David Wildstein",
-      "title": "N.J. campaigns brace for voter data shutdown under new law - New Jersey Globe",
-      "description": "Political campaigns, candidates, party organizations, and advocacy groups could lose access to critical voter data as early as tonight after a sweeping",
-      "url": "https://newjerseyglobe.com/campaigns/n-j-campaigns-brace-for-voter-data-shutdown-under-new-law/",
-      "urlToImage": "https://media.newjerseyglobe.com/wp-content/uploads/2026/01/04130118/KBS_1588-scaled.jpg",
-      "publishedAt": "2026-07-10T17:39:30Z",
-      "content": "Political campaigns, candidates, party organizations, and advocacy groups could lose access to critical voter data as early as tonight after a sweeping new state law has data providers scrambling to … [+9687 chars]"
+      "author": "Gabriel Velasquez Neira",
+      "title": "'Unusual vibration' felt before plane crash that killed Austin tech leader Joshua Baer, NTSB says - KUT",
+      "description": "As the plane approached Laredo, both engines lost power. A pilot asked for a possible field to land in nearby before ultimately crashing on a highway near the airport.",
+      "url": "https://www.kut.org/transportation/2026-07-10/ntsb-joshua-baer-plane-crash-report-laredo-tx-texas-austin-tech",
+      "urlToImage": "https://npr.brightspotcdn.com/dims4/default/8c38cc3/2147483647/strip/true/crop/5324x2795+0+456/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F89%2F09%2F5d8895c84a49842758455f82b0e7%2F20260502-kut-festival-138.JPG",
+      "publishedAt": "2026-07-10T20:23:00Z",
+      "content": "New details have emerged about the June 16 plane crash in Laredo that killed Austin tech entrepreneur Joshua Baer.\r\nA preliminary report by the National Transportation Safety Board details how pilots… [+4372 chars]"
     },
     {
       "source": {
@@ -226,32 +291,6 @@
       "urlToImage": "https://endpoints.news/wp-content/uploads/2026/07/china-secrecy-abstract_og-social@2x.jpg",
       "publishedAt": "2026-07-10T16:00:00Z",
       "content": "Ja­nine Sen­gstack be­lieves she may have found the next big break­through in di­a­betes and obe­si­ty. Her com­pa­ny, Junevi­ty, has searched through hun­dreds"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "KTLA Los Angeles"
-      },
-      "author": "Lily Dallow",
-      "title": "Need Friday night plans? Catch tonight’s SpaceX launch from these SoCal spots - KTLA",
-      "description": "SpaceX is targeting Friday night to launch another batch of Starlink satellites into low-Earth orbit, continuing a string of near-weekly missions from California. However, despite their growing frequency, the wonder of a launch has not been lost on Southern C…",
-      "url": "https://ktla.com/news/california/need-friday-night-plans-catch-tonights-spacex-launch-from-these-socal-spots/",
-      "urlToImage": "https://ktla.com/wp-content/uploads/sites/4/2026/04/69f23ade15caa5.94169123.jpeg?w=1280",
-      "publishedAt": "2026-07-10T15:39:40Z",
-      "content": "SpaceX is targeting Friday night to launch another batch of Starlink satellites into low-Earth orbit, continuing a string of near-weekly missions from California. However, despite their growing frequ… [+3615 chars]"
-    },
-    {
-      "source": {
-        "id": "al-jazeera-english",
-        "name": "Al Jazeera English"
-      },
-      "author": "Al Jazeera Staff",
-      "title": "US-Iran escalation threatens oil supply recovery, warns IEA - Al Jazeera",
-      "description": "Sources suggest that the ceasefire can be revived amid a lull in fighting and backroom diplomacy.",
-      "url": "https://www.aljazeera.com/news/2026/7/10/us-iran-escalation-threatens-oil-supply-recovery-warns-iea",
-      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/06/epa_6a3b37853fd2-1782265733.jpg?resize=1200%2C675",
-      "publishedAt": "2026-07-10T15:16:30Z",
-      "content": "The return of fighting between the United States and Iran threatens to extend the global energy crisis, the International Energy Agency has warned.\r\nThe risk that the resumption of hostilities could … [+5154 chars]"
     },
     {
       "source": {
@@ -291,6 +330,19 @@
       "urlToImage": "https://cdn.80.lv/api/upload/meta/49213/images/6a51089217068/contain_1200x630.jpg",
       "publishedAt": "2026-07-10T15:01:52Z",
       "content": "The Federal Reserve, the central bank of the United States, has announced the leadership of its task forces \"to advance the conduct of monetary policy,\" and one of the leaders is Asha Sharma, the CEO… [+475 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Motor1 "
+      },
+      "author": "Anthony Alaniz",
+      "title": "This Is Why Volkswagen Group Is In Trouble Again - Motor1.com",
+      "description": "Volkswagen Group's second-quarter sales results are abysmal, dragged down by its poor performance in China. Here’s what that means to the automaker.",
+      "url": "https://www.motor1.com/news/801295/volkswagen-group-poor-sales-results-china/",
+      "urlToImage": "https://cdn.motor1.com/images/mgl/VzWgyK/s1/2027-volkswagen-atlas.jpg",
+      "publishedAt": "2026-07-10T15:00:51Z",
+      "content": "Things are looking dire for Volkswagen Group once again. Sales for the German automotive conglomerate fell 8.6 percent overall in the second quarter of the year, driven down by the companys abysmal p… [+3601 chars]"
     },
     {
       "source": {
@@ -372,29 +424,42 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "Newser"
+        "id": "cnn",
+        "name": "CNN"
       },
-      "author": "Polly Davis Doig",
-      "title": "FDA Recalls 2.5M Bottles of Eyedrops Over 'Foreign Material' - Newser",
-      "description": "Prescription prednisolone eyedrops from Lupin Pharmaceuticals are affected",
-      "url": "https://www.newser.com/story/392601/fda-recalls-25m-bottles-of-lupin-steroid-eyedrops.html",
-      "urlToImage": "https://cdn.newser.com/image/1697782-12-20260710081104.jpeg",
-      "publishedAt": "2026-07-10T12:41:00Z",
-      "content": "The drops, made in India and distributed nationwide in 5, 10, and 15mL sizes, carry expiration dates beginning in July 2026. Prednisolone drops are available via prescription only, notes the Mayo Cli… [+459 chars]"
+      "author": "Jacopo Prisco",
+      "title": "Elon Musk’s plans refer to an idea conceived in the 1960s. What is the Kardashev scale? - CNN",
+      "description": "A Soviet astronomer in the 1960s proposed a scale to classify hypothetical alien civilizations. Here’s why the framework is still coming up today.",
+      "url": "https://www.cnn.com/2026/07/10/science/elon-musk-kardashev-scale",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/070126-dyson-sphere.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2026-07-10T11:30:25Z",
+      "content": "Elon Musks plans for the future of SpaceX, and humanity, are rooted in an idea conceived in the 1960s when astronomers began to pick up mysterious, unknown radio sources in the cosmos.\r\nSoviet astron… [+12465 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Yahoo Entertainment"
+        "name": "CNBC"
       },
-      "author": "Louis Juricic",
-      "title": "The real reason Meta shares are surging has nothing to do with its new AI model - Yahoo Finance",
-      "description": "While the headlines are buzzing about Meta’s shiny new Muse Spark 1.1 AI model and its pivot to a paid developer model, Wall Street’s biggest bulls are actua...",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/real-reason-meta-shares-surging-121326425.html",
-      "urlToImage": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
-      "publishedAt": "2026-07-10T12:13:26Z",
-      "content": "While the headlines are buzzing about Meta's shiny new Muse Spark 1.1 AI model and its pivot to a paid developer model, Wall Street's biggest bulls are actually focused on a much quieter, highly tech… [+4369 chars]"
+      "author": "Leslie Josephs",
+      "title": "Delta expects higher airfare to last, bringing 2026 profit goal in reach, CEO says - CNBC",
+      "description": "Delta is the first of the U.S. airlines to report second-quarter results.",
+      "url": "https://www.cnbc.com/2026/07/10/delta-air-lines-dal-q2-2026-earnings.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108317451-1780673029371-gettyimages-2253186744-aviation-stock-14873-en-delta-air-lines-boeing737-airplane-a.jpeg?v=1780673050&w=1920&h=1080",
+      "publishedAt": "2026-07-10T10:30:53Z",
+      "content": "Delta Air Lines' profit goal is in reach this year as the carrier passes along higher fuel costs to customers, pricing power CEO Ed Bastian expects to last even as oil prices drop from multiyear high… [+2784 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Sam Meredith",
+      "title": "Volkswagen to slash model lineup and shrink capacity — but no word on job cuts - CNBC",
+      "description": "The update followed a high-stakes boardroom showdown with the group's supervisory board.",
+      "url": "https://www.cnbc.com/2026/07/10/volkswagen-vw-autos-job-cuts-germany.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108333235-1783672992314-gettyimages-2284739900-20090101260709-99-13697.jpeg?v=1783673027&w=1920&h=1080",
+      "publishedAt": "2026-07-10T09:34:29Z",
+      "content": "Volkswagen's management plans to drastically reduce its model lineup and further cut capacity, although the German auto giant stopped short of announcing sweeping job cuts following tense stakeholder… [+2994 chars]"
     },
     {
       "source": {
@@ -408,32 +473,6 @@
       "urlToImage": "https://i.insider.com/6a4fdfccd3a449ec3445fd6e?width=1200&format=jpeg",
       "publishedAt": "2026-07-10T09:00:00Z",
       "content": "Delta Air Lines' fanciest passenger cabin just got a budget option. Sort of.\r\nThe airline this week launched new fare types that expand its \"basic\" strategy into its premium cabins First Class, Premi… [+3555 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Delta.com"
-      },
-      "author": null,
-      "title": "Delta Air Lines announces June quarter 2026 financial results - Delta News Hub",
-      "description": "Delta Air Lines today reported financial results for the June quarter and provided its outlook for the September quarter. |",
-      "url": "https://news.delta.com/delta-air-lines-announces-june-quarter-2026-financial-results",
-      "urlToImage": "https://news.delta.com/sites/default/files/styles/twitter_share_1200/public/2026-07/2026q2_plane.jpg?itok=rnJwc_EQ",
-      "publishedAt": "2026-07-10T00:12:01Z",
-      "content": "Delta Air Lines today reported financial results for the June quarter and provided its outlook for the September quarter. Delta Air Lines (NYSE: DAL) today reported financial results for the June qua… [+6139 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Futurism"
-      },
-      "author": "Victor Tangermann",
-      "title": "The Pollution Being Churned Out by AI Data Centers Is So Severe That It's Almost Incomprehensible - Futurism",
-      "description": "The extent of the pollution being put out by thousands of data centers is shocking. Some developers are exploiting regulatory loopholes.",
-      "url": "https://futurism.com/artificial-intelligence/pollution-ai-data-centers-severe",
-      "urlToImage": "https://futurism.com/wp-content/uploads/2026/07/pollution-ai-data-centers-severe.jpg?w=1200",
-      "publishedAt": "2026-07-09T18:51:09Z",
-      "content": "Can’t-miss innovations from the bleeding edge of science and tech\r\nThe massive surge of fossil fuel-powered data centers cropping up across the country are emitting an enormous amount of pollution, a… [+2530 chars]"
     }
   ]
 }

@@ -3,9 +3,22 @@
   "country": "us",
   "category": "health",
   "mode": "country",
-  "fetched_at": "2026-07-15T07:43:42.826684+00:00",
-  "articles_count": 61,
+  "fetched_at": "2026-07-15T09:44:05.413326+00:00",
+  "articles_count": 59,
   "articles": [
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Meg Tirrell",
+      "title": "The bugs are getting worse - CNN",
+      "description": "Because of climate, weather, acorn abundance (yes, really) and decisions about land use dating to colonial times, the bugs are indeed getting worse.",
+      "url": "https://www.cnn.com/2026/07/14/health/mosquitoes-ticks-illness-increase",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/c-gettyimages-2267590753.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2026-07-14T09:00:25Z",
+      "content": "Its not difficult to accidentally learn too much about bugs.Unfortunately, though, we have to, because theyre spreading out, inventing new ways to torture us and just generally making life less pleas… [+13273 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -57,19 +70,6 @@
       "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/aa4f/live/cfcc3c30-7c37-11f1-a2fb-0b92ebfbb860.jpg",
       "publishedAt": "2026-07-13T23:00:58Z",
       "content": "She describes how, at times in a woman's cycle, like just before a period when the hormone oestrogen is low, it affects the dopamine, our body's 'feel-good' hormone, making ADHD symptoms much stronge… [+1 chars]"
-    },
-    {
-      "source": {
-        "id": "usa-today",
-        "name": "USA Today"
-      },
-      "author": "Jessica Moore",
-      "title": "The best electrolyte drinks for diarrhea as cyclosporiasis cases rise - USA Today",
-      "description": "Dealing with diarrhea during a cyclosporiasis outbreak? Doctors recommend drinks like Pedialyte and CeraLyte to restore fluids and electrolytes.",
-      "url": "https://www.usatoday.com/story/shopping/trending/2026/07/13/best-electrolytes-for-diarrhea-cyclosporiasis/90902559007/",
-      "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/07/09/USAT/90861890007-getty-images-1717095902.jpg?crop=3839,2159,x0,y0&width=3200&height=1800&format=pjpg&auto=webp",
-      "publishedAt": "2026-07-13T21:56:00Z",
-      "content": "<ul><li>Amid rising cyclosporiasis cases, staying hydrated requires replacing both fluids and electrolytes lost from diarrhea.</li><li>Oral rehydration solutions (ORS) like Pedialyte are recommended … [+5353 chars]"
     },
     {
       "source": {
@@ -178,19 +178,6 @@
     {
       "source": {
         "id": null,
-        "name": "New York Post"
-      },
-      "author": "Nicole Rosenthal, Greg Carlton",
-      "title": "Latest NYC Legionnaires’ disease outbreak rises to 59 cases — with bacteria now detected for first time across park, at posh UWS building - New York Post",
-      "description": "No deaths have been reported in the latest local outbreak — which even ensnared the famed Guggenheim Museum — but more people are expected to test positive in the coming days, officials…",
-      "url": "https://nypost.com/2026/07/13/us-news/latest-nyc-legionnaires-disease-outbreak-rises-to-59-cases-with-bacteria-now-detected-for-first-time-across-park-at-posh-uws-building/",
-      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/07/newspress-collage-0e8s73n38-1783969847757.jpg?quality=75&strip=all&1783955455&w=1200",
-      "publishedAt": "2026-07-13T19:02:00Z",
-      "content": "The Legionnaires disease outbreak on the Upper East Side has now sickened 59 people with the dangerous bacteria also found for the first time across the park, in a posh Upper West Side building.\r\nThe… [+2747 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "Newser"
       },
       "author": "John Johnson",
@@ -216,6 +203,19 @@
     },
     {
       "source": {
+        "id": null,
+        "name": "Nature.com"
+      },
+      "author": null,
+      "title": "Pervasive interactions between exposures and polygenic risk can inform more effective clinical and behavioral interventions - Nature",
+      "description": "This study examines interactions between polygenic scores and pairs of environmental contexts across seven diseases and introduces the proportion needed to benefit as a metric to quantify the expected effectiveness of interventions as a function of polygenic …",
+      "url": "https://www.nature.com/articles/s41588-026-02674-z",
+      "urlToImage": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41588-026-02674-z/MediaObjects/41588_2026_2674_Fig1_HTML.png",
+      "publishedAt": "2026-07-13T17:27:36Z",
+      "content": "<li>Lewis, A. C. F. et al. Managing differential performance of polygenic risk scores across groups: real-world experience of the eMERGE network. Am. J. Hum. Genet.111, 9991005 (2024).\r\nArticle \r\n CA… [+10560 chars]"
+    },
+    {
+      "source": {
         "id": "associated-press",
         "name": "Associated Press"
       },
@@ -230,15 +230,15 @@
     {
       "source": {
         "id": null,
-        "name": "Eatingwell.com"
+        "name": "Women's Health"
       },
-      "author": "https://www.facebook.com/EatingWell/",
-      "title": "The 7 Best Anti-Inflammatory Ingredients to Add to Your Salad, According to Research - EatingWell",
-      "description": "Chronic inflammation may increase the risk of diseases. Discover 7 anti-inflammatory foods to add to your salad to help you keep it at bay.",
-      "url": "https://www.eatingwell.com/best-anti-inflammatory-ingredients-to-add-to-salad-12002018",
-      "urlToImage": "https://www.eatingwell.com/thmb/NTTvdMvb8GcxwLQ9PVmyJoicVEc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Best-Anti-Inflammatory-Ingredients-to-Add-to-Your-Salad-Recommended-by-Dietitians-d3327c6b71ac4eff83ddf993c4553f0e.jpg",
-      "publishedAt": "2026-07-13T16:02:29Z",
-      "content": "Whenever we hear the word inflammation, we automatically think of it as bad. Yet, not all inflammation is a negative thing. Acute inflammationyour bodys reaction to getting hurt or sickhelps you heal… [+5219 chars]"
+      "author": "Sydney Wingfield",
+      "title": "This Everyday Drink Might Supercharge Weight Loss in a Surprising Way, Research Finds - AOL.com",
+      "description": "A study suggests that sparkling—a.k.a. carbonated—water could \"support weight loss.\" Here's what a personal trainer and dietitian want you to know.",
+      "url": "https://www.womenshealthmag.com/weight-loss/a71919929/carbonated-water-sparkling-weight-loss-study/",
+      "urlToImage": "https://s.yimg.com/cv/apiv2/aolfp/images/og-image.png",
+      "publishedAt": "2026-07-13T16:36:14Z",
+      "content": "\"Hearst Magazines and AOL may earn commission or revenue on some items through these links.\"\r\nCarbonated beverages like seltzers or sparkling water\r\n have proven themselves to be refreshing and healt… [+4663 chars]"
     },
     {
       "source": {
@@ -307,19 +307,6 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "The Conversation Africa"
-      },
-      "author": "Paolo Pozzilli",
-      "title": "The mystery behind what killed Botticelli’s muse: has a 550-year-old medical case been solved? - The Conversation",
-      "description": "Simonetta Vespucci died suddenly at 23. Centuries later, her portraits may explain what really happened.",
-      "url": "https://theconversation.com/the-mystery-behind-what-killed-botticellis-muse-has-a-550-year-old-medical-case-been-solved-285887",
-      "urlToImage": "https://images.theconversation.com/files/746404/original/file-20260707-85-rwlof6.jpg?ixlib=rb-4.1.0&rect=0%2C0%2C1280%2C640&q=45&auto=format&w=1356&h=668&fit=crop",
-      "publishedAt": "2026-07-13T14:01:26Z",
-      "content": "Simonetta Vespucci is probably one of the most painted women of the Italian Renaissance. Sandro Botticelli is widely believed to have used her as his model for Venus, and she appears, transformed and… [+3678 chars]"
-    },
-    {
-      "source": {
         "id": "usa-today",
         "name": "USA Today"
       },
@@ -330,6 +317,19 @@
       "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/06/22/USAT/90648933007-getty-images-2166817249.jpg?crop=2120,1193,x0,y110&width=2120&height=1193&format=pjpg&auto=webp",
       "publishedAt": "2026-07-13T13:46:00Z",
       "content": "Its one of the most universal, accessible and effective forms of exercise. But should you count your daily walk, whether its a quick work break or a longer speed walk through nature, as a cardio work… [+3173 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Newser"
+      },
+      "author": "Arden Dier",
+      "title": "Common Knee Surgery Often Hurts More Than Helps - Newser",
+      "description": "Long-term study links meniscus trimming to faster arthritis, more knee replacements",
+      "url": "https://www.newser.com/story/392710/common-knee-surgery-often-hurts-more-than-helps.html",
+      "urlToImage": "https://cdn.newser.com/image/1698242-12-20260713084817.jpeg",
+      "publishedAt": "2026-07-13T13:30:00Z",
+      "content": "A popular fix for aching knees may be setting many patients up for more trouble, not less. A decade-long Finnish study of people with age-related meniscus tears found arthroscopic surgery to trim the… [+1106 chars]"
     },
     {
       "source": {
@@ -385,6 +385,19 @@
     },
     {
       "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Rachel Dennis",
+      "title": "Exfoliators are the key to glowy skin. Here are 18 dermatologists and editors recommend - CNN",
+      "description": "I tapped multiple dermatologists to learn more about how gentle exfoliation can help you unlock smoother, more radiant skin and which products to shop.",
+      "url": "https://www.cnn.com/cnn-underscored/beauty/best-face-exfoliators",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/exfoliation-lead.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2026-07-13T12:01:00Z",
+      "content": "Whether youre looking to improve your skin texture or minimize breakouts, incorporating gentle exfoliation into your existing skin care routine can help you unlock smoother, more radiant skin. Just a… [+15863 chars]"
+    },
+    {
+      "source": {
         "id": null,
         "name": "TODAY"
       },
@@ -395,6 +408,19 @@
       "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_social_share_1200x630_center,f_auto,q_auto:best/rockcms/2026-07/best-foods-bone-density-expert-tip-mh-07102026-7f23fe.jpg",
       "publishedAt": "2026-07-13T12:00:00Z",
       "content": "Its never too early to start protecting your bone health. The body reaches peak bone density around age 30. After this point, bones gradually become weaker with age.\r\nBone density refers to how porou… [+3352 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Eatingwell.com"
+      },
+      "author": "https://www.facebook.com/EatingWell/",
+      "title": "5 Easy Ways to Get 10 Grams of Fiber at Breakfast - EatingWell",
+      "description": "Try one of these easy breakfast options recommended by dietitians to get at least 10 grams of fiber first thing in the morning.",
+      "url": "https://www.eatingwell.com/easy-ways-to-get-fiber-at-breakfast-12014360",
+      "urlToImage": "https://www.eatingwell.com/thmb/zo1RksyXEHfBQkVcppSGFp2uxp4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/TK-Easy-Ways-to-Get-TK-Grams-of-Fiber-at-Breakfast-2ca56cc765424a41ab48d2504f525be6.jpg",
+      "publishedAt": "2026-07-13T11:00:00Z",
+      "content": "Fiber is a multitasker that doesnt just keep you regularit can stabilize blood sugar, support your gut microbiome, lower cholesterol and even reduce your risk of chronic disease. Despite its benefits… [+4710 chars]"
     },
     {
       "source": {
@@ -515,19 +541,6 @@
     },
     {
       "source": {
-        "id": "cbs-news",
-        "name": "CBS News"
-      },
-      "author": null,
-      "title": "Common knee surgery may do more harm than good: \"I don't know how I would defend this procedure\" - CBS News",
-      "description": "A Finnish study followed patients for 10 years after they had a popular knee surgery. For many, the pain continued or even worsened.",
-      "url": "https://www.cbsnews.com/news/arthroscopic-knee-surgery-meniscus-tear-study/",
-      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/07/10/91428384-cf2b-46ce-9a50-8a6fffc4da0e/thumbnail/1200x630/8a778697d5ff5982a390be9b36c8d11a/gettyimages-1010678680.jpg",
-      "publishedAt": "2026-07-13T09:00:18Z",
-      "content": "Thousands of Americans who undergo a common knee surgery might be making their problems worse rather than better.\r\nResearchers who followed patients for 10 years after they received either the actual… [+6351 chars]"
-    },
-    {
-      "source": {
         "id": null,
         "name": "NPR"
       },
@@ -551,19 +564,6 @@
       "urlToImage": "https://www.statnews.com/wp-content/uploads/2026/07/C0529825-Pancreatic_cancer_coloured_CT_scan-1024x576.jpg",
       "publishedAt": "2026-07-13T08:31:03Z",
       "content": "LONDON When researchers started planning a pancreatic cancer conference here, the aim was to simply offer a counterpart to a regular U.S. meeting, where international scientists and doctors could dis… [+711 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Boredpanda.com"
-      },
-      "author": "Justinas Keturka",
-      "title": "“What Are You Doing?”: MIL Caught Doing The Thing She Was Supposed To Apologize For, Couple Go No-Contact - Bored Panda",
-      "description": "Allergies can cause serious pain and discomfort, even when they aren’t life-threatening. One woman repeatedly warned her mother-in-law that she was allergic to dairy and asked her not to include it in any meals. Yet despite several reminders and clear explana…",
-      "url": "https://www.boredpanda.com/mil-put-ingredient-allergic-cook-food-dairy/",
-      "urlToImage": "https://static.boredpanda.com/blog/wp-content/uploads/2026/07/mil-put-ingredient-allergic-cook-food-dairy-fb.jpg",
-      "publishedAt": "2026-07-13T07:19:29Z",
-      "content": "Allergies are no joke. Even when they aren’t life-threatening, they can still cause serious discomfort and pain. Unfortunately, some people refuse to take them seriously.\r\nOne woman repeatedly explai… [+3525 chars]"
     },
     {
       "source": {
@@ -603,19 +603,6 @@
       "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-07/260710-dimentia-prevention-mature-group-walking-bf-1210-00a183.jpg",
       "publishedAt": "2026-07-13T04:01:00Z",
       "content": "Subscribe to read this story ad-free\r\nGet unlimited access to ad-free articles and exclusive content."
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Silicon Canals"
-      },
-      "author": null,
-      "title": "A 2024 New England Journal of Medicine study found microplastics and nanoplastics lodged in the carotid artery plaque of 58% of patients — and those patients were 4.5 times more likely to suffer a heart attack, stroke, or death within three years - Silicon Canals",
-      "description": "A landmark New England Journal of Medicine study found microplastics lodged in the carotid plaque of 58% of patients, and those patients suffered heart attacks, strokes, and death at 4.5 times the rate of their plastic-free peers. Follow-up work in New Mexico…",
-      "url": "https://siliconcanals.com/sc-v-a-2024-new-england-journal-of-medicine-study-found-microplastics-and-nanoplastics-lodged-in-the-carotid-artery-plaque-of-58-of-patients-and-those-patients-were-4-5-times-more-likely-to-suffer-a-h/",
-      "urlToImage": "https://siliconcanals.com/wp-content/uploads/2026/07/a-2024-new-england-journal-of-medicine-s.jpg",
-      "publishedAt": "2026-07-13T03:45:08Z",
-      "content": "In a Naples hospital, surgeons cut open the carotid arteries of 257 patients to scrape out the fatty plaque that was strangling blood flow to their brains. When researchers ran that plaque through an… [+9671 chars]"
     },
     {
       "source": {
@@ -724,15 +711,15 @@
     {
       "source": {
         "id": null,
-        "name": "Medical Xpress"
+        "name": "Eatingwell.com"
       },
-      "author": "Sanjukta Mondal",
-      "title": "Night owls eat later, choose less nutritious food, carry more belly fat and show higher metabolic risk - Medical Xpress",
-      "description": "For generations, early to bed and early to rise was seen as the blueprint for a healthy life, and any departure from it was often considered unhealthy. Scientists, however, have discovered that whether someone is an early bird who wakes up early and starts th…",
-      "url": "https://medicalxpress.com/news/2026-07-night-owls-nutritious-food-belly.html",
-      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/night-owls-eat-later-c.jpg",
-      "publishedAt": "2026-07-12T15:20:04Z",
-      "content": "For generations, early to bed and early to rise was seen as the blueprint for a healthy life, and any departure from it was often considered unhealthy. Scientists, however, have discovered that wheth… [+5261 chars]"
+      "author": "https://www.facebook.com/EatingWell/",
+      "title": "The Best Time of Day to Nap, According to Sleep Experts - EatingWell",
+      "description": "Sleep experts recommend napping between 1 and 3 p.m. Learn why this is the best time to nap and how a short afternoon snooze may improve alertness, memory and recovery.",
+      "url": "https://www.eatingwell.com/best-time-of-day-to-nap-12016025",
+      "urlToImage": "https://www.eatingwell.com/thmb/3QYaLMIKaCtzORw3mCEAlA5n7AI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/The-Best-Time-of-Day-to-Nap-b7c4b5c888754478b1bb79a955411389.jpg",
+      "publishedAt": "2026-07-12T16:30:00Z",
+      "content": "If youve ever felt that familiar energy crash after lunch, youre not alone. Many people experience a natural dip in alertness during the early afternoon, making it tempting to reach for another cup o… [+5242 chars]"
     },
     {
       "source": {
@@ -750,6 +737,32 @@
     {
       "source": {
         "id": null,
+        "name": "Vogueadria.com"
+      },
+      "author": null,
+      "title": "Why everyone’s turning to minoxidil for hair growth - vogueadria.com",
+      "description": "Discover how minoxidil works for hair growth, who it is recommended for, its benefits and potential side effects, and how to use it properly.",
+      "url": "https://vogueadria.com/minoxidil-for-hair-growth/",
+      "urlToImage": "https://vogueadria.com/wp-content/uploads/2026/07/featured-2.jpg",
+      "publishedAt": "2026-07-12T15:00:17Z",
+      "content": "Hair loss, be it seasonal shedding, postpartum hair loss, or androgenetic alopecia, is incredibly discouraging, which may explain why the market is packed with products that have big (but often empty… [+7158 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Parade"
+      },
+      "author": "Emily Laurence Sardinha",
+      "title": "Oncologist Reveals the One Condiment Linked to Increased Cancer Risk - Yahoo Health",
+      "description": "It’s common at summer barbecues, but there’s a healthier alternative.",
+      "url": "https://parade.com/health/condiment-to-avoid-according-to-oncologists",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/71db22778d3690dece8a7d22e9f6328006fb640ca0c060572863c9989fd409ef/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fparade_250%2F11aa2c47774fe3e2c6608eb4e6c77cc7",
+      "publishedAt": "2026-07-12T14:50:00Z",
+      "content": "If there were a pill that could lower your chances of getting cancer by 30%, would you take it? Surely, pharmaceutical companies would jump at the opportunity to sell it. Fortunately, you can reap th… [+8317 chars]"
+    },
+    {
+      "source": {
+        "id": null,
         "name": "SciTechDaily"
       },
       "author": null,
@@ -759,45 +772,6 @@
       "urlToImage": "https://scitechdaily.com/images/Happy-Smiling-Doctor-Holding-Coffee-Cup.jpg",
       "publishedAt": "2026-07-12T10:49:38Z",
       "content": "Investigators at Cedars Sinai analyzed long-term health outcomes, liver MRI scans, and blood proteins, finding new evidence that coffee is associated with lower risks of cirrhosis, liver cancer, and … [+5803 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Slate Magazine"
-      },
-      "author": "Gideon Meyerowitz-Katz",
-      "title": "One of the Biggest Boogeymen on Our Grocery Shelves Needs a Better Name - Slate Magazine",
-      "description": "It’s all about the vibes.",
-      "url": "https://slate.com/technology/2026/07/ultraprocessed-food-fda-label-vibes.html",
-      "urlToImage": "https://compote.slate.com/images/3c710acb-c404-4aae-826a-6081763a1f47.jpeg?crop=1560%2C1040%2Cx0%2Cy0&width=1560",
-      "publishedAt": "2026-07-12T09:40:00Z",
-      "content": "Sign up for the Slatest to get the most insightful analysis, criticism, and advice out there, delivered to your inbox daily.\r\nOne of the biggest boogeymen around these days is ultraprocessed food. Yo… [+5882 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Hindustan Times"
-      },
-      "author": "Debapriya Bhattacharya",
-      "title": "New study finds reducing sleep by just 80 minutes per night harms your health: Neurologist Dr Sudhir Kumar explains | Health - Hindustan Times",
-      "description": "Getting seven to nine hours of sleep is non-negotiable for staying healthy. But losing as little as 80 minutes can increase health risks, Dr Kumar shares.   | Health",
-      "url": "https://www.hindustantimes.com/lifestyle/health/new-study-finds-reducing-sleep-by-just-80-minutes-per-night-harms-your-health-neurologist-dr-sudhir-kumar-explains-101783847737399.html",
-      "urlToImage": "https://www.hindustantimes.com/ht-img/img/2026/07/12/550x309/pexels-photo-4980302_1783848041048_1783848066230_402c37e1-a855-4bdc-837f-b1eeef4a5a9c.jpeg",
-      "publishedAt": "2026-07-12T09:36:38Z",
-      "content": "Following a healthy lifestyle is a comprehensive process that requires consistency to see results. While it is commonly believed that exercising and eating well are the two pillars of staying fit, on… [+2813 chars]"
-    },
-    {
-      "source": {
-        "id": "the-jerusalem-post",
-        "name": "The Jerusalem Post"
-      },
-      "author": "JUDY SIEGEL-ITZKOVICH",
-      "title": "Breakthrough Israeli study finds potential path to reversing hearing loss - The Jerusalem Post",
-      "description": "The researchers identified a unique biological mechanism that could enable the regeneration of sensory hair cells in the inner ear – a process previously thought to be impossible in humans.",
-      "url": "https://www.jpost.com/science/article-902034",
-      "urlToImage": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/729176",
-      "publishedAt": "2026-07-12T08:43:50Z",
-      "content": "A groundbreaking study by a team of researchers from Tel Aviv Universitys Gray Faculty of Medical and Health Sciences offers hope to millions of people suffering from irreversible hearing loss.\r\nThe … [+7177 chars]"
     }
   ]
 }

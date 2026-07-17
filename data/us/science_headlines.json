@@ -3,9 +3,35 @@
   "country": "us",
   "category": "science",
   "mode": "country",
-  "fetched_at": "2026-07-17T12:53:05.622548+00:00",
+  "fetched_at": "2026-07-17T15:02:30.532929+00:00",
   "articles_count": 66,
   "articles": [
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Ashley Strickland",
+      "title": "NASA spacecraft wakes up to continue groundbreaking mission beyond Pluto - CNN",
+      "description": "NASA’s New Horizons spacecraft recently came out of hibernation to continue its journey through an unexplored part of the solar system.",
+      "url": "https://www.cnn.com/2026/07/16/science/new-horizons-hibernation-wake-up",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/newhorizonsplutosurface.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2026-07-16T11:30:25Z",
+      "content": "A groundbreaking mission that explored Pluto and distant solar system objects in unprecedented detail has awakened from its longest sleep ever and its 5.9 billion miles (9.5 billion kilometers) from … [+4804 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Space Daily"
+      },
+      "author": null,
+      "title": "Titan is the only place beyond Earth where a spacecraft has landed on a surface with liquid nearby, and the probe sent back the sound of alien wind before falling silent forever - Space Daily",
+      "description": "On 14 January 2005, a small European probe dropped through an orange atmosphere, broke through the haze and settled onto a world nearly 1.5 billion kilometres",
+      "url": "https://spacedaily.com/t-titan-huygens-liquid-wind-sound/",
+      "urlToImage": "https://spacedaily.com/wp-content/uploads/2026/07/huygens-titan-methane-shaped-floodplain.png",
+      "publishedAt": "2026-07-16T09:30:54Z",
+      "content": "On 14 January 2005, a small European probe dropped through an orange atmosphere, broke through the haze and settled onto a world nearly 1.5 billion kilometres from the Sun. For 72 minutes after landi… [+5693 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -31,6 +57,19 @@
       "urlToImage": "https://static.toiimg.com/thumb/msid-132424250,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
       "publishedAt": "2026-07-16T04:33:00Z",
       "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Phys.Org"
+      },
+      "author": null,
+      "title": "Doughnut‑shaped topology reveals new way to classify knitting, crochet and other textiles - Phys.org",
+      "description": "Fabrics are made by repeatedly intertwining yarns into characteristic patterns. Many of their properties, such as stretchiness, arise not only from the material itself but also from how the yarns are arranged and entangled. Such properties illustrate how topo…",
+      "url": "https://phys.org/news/2026-07-doughnutshaped-topology-reveals-crochet-textiles.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/understanding-textile.jpg",
+      "publishedAt": "2026-07-16T00:40:01Z",
+      "content": "Fabrics are made by repeatedly intertwining yarns into characteristic patterns. Many of their properties, such as stretchiness, arise not only from the material itself but also from how the yarns are… [+4658 chars]"
     },
     {
       "source": {
@@ -256,6 +295,32 @@
     {
       "source": {
         "id": null,
+        "name": "Phys.Org"
+      },
+      "author": null,
+      "title": "Quantum currents turn a nano 'soccer ball' into a powerful molecular electromagnet - Phys.org",
+      "description": "Driving an electric current through a molecule can create a magnetic field. Yet in practice, such fields are often too weak to be detected experimentally. Through theoretical modeling, researchers at the Institute of Science and Technology Austria (ISTA) show…",
+      "url": "https://phys.org/news/2026-07-quantum-currents-nano-soccer-ball.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/2026/goal-a-nano-soccer-bal.jpg",
+      "publishedAt": "2026-07-15T15:20:10Z",
+      "content": "Driving an electric current through a molecule can create a magnetic field. Yet in practice, such fields are often too weak to be detected experimentally. Through theoretical modeling, researchers at… [+7833 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Phys.Org"
+      },
+      "author": "Krystal Kasal",
+      "title": "Asteroid with unexplained orbital shift turns out to be a 'dark comet' - Phys.org",
+      "description": "Typically, astronomers identify comets by their distinct atmospheres, or comae, and their tails, which are created as the sun vaporizes a comet's ice. These features emit a glow when sunlight bounces off dust and water droplets. As gas escapes the body of the…",
+      "url": "https://phys.org/news/2026-07-asteroid-unexplained-orbital-shift-dark.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/asteroid-with-unexplai.jpg",
+      "publishedAt": "2026-07-15T15:11:43Z",
+      "content": "Typically, astronomers identify comets by their distinct atmospheres, or comae, and their tails, which are created as the sun vaporizes a comet's ice. These features emit a glow when sunlight bounces… [+5422 chars]"
+    },
+    {
+      "source": {
+        "id": null,
         "name": "Aps.org"
       },
       "author": null,
@@ -347,19 +412,6 @@
     {
       "source": {
         "id": null,
-        "name": "The Conversation Africa"
-      },
-      "author": "Aldo Romero",
-      "title": "What does it mean to be ‘quantum’? A physicist explains the basics behind Einstein’s spooky actions at a distance - The Conversation",
-      "description": "Particles’ properties at the quantum level could one day enable faster computing and better cybersecurity.",
-      "url": "https://theconversation.com/what-does-it-mean-to-be-quantum-a-physicist-explains-the-basics-behind-einsteins-spooky-actions-at-a-distance-281844",
-      "urlToImage": "https://images.theconversation.com/files/745491/original/file-20260701-57-vx8z96.jpg?ixlib=rb-4.1.0&rect=0%2C189%2C6070%2C3035&q=45&auto=format&w=1356&h=668&fit=crop",
-      "publishedAt": "2026-07-15T12:12:28Z",
-      "content": "Imagine shining a flashlight across a dark room. You can predict exactly what the light will do: travel in a straight line from one point to another. That seems obvious, because in the world we see a… [+9297 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "Space.com"
       },
       "author": "Tereza Pultarova",
@@ -369,6 +421,19 @@
       "urlToImage": "https://cdn.mos.cms.futurecdn.net/esW5VZJihwCL9B5FhHYB4J-2000-80.jpg",
       "publishedAt": "2026-07-15T12:00:00Z",
       "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Space Daily"
+      },
+      "author": null,
+      "title": "The moon is drifting away from Earth by about 3.8 centimetres a year — measured to the millimetre by bouncing laser light off mirrors the Apollo astronauts left sitting in the lunar dust more than half a century ago - Space Daily",
+      "description": "The corner-cube reflectors Buzz Aldrin, Alan Shepard and David Scott left on the Moon between 1969 and 1971 are still returning laser pulses fired from Earth — and 57 years of measurements show our nearest neighbour is receding at exactly 3.8 centimetres a ye…",
+      "url": "https://spacedaily.com/j-v-the-moon-is-drifting-away-from-earth-by-about-38-centimetres-a-year-measured-to-the-millimetre-by-bouncing-laser-light-off-mirrors-the-apollo-astronauts-left-sitting-in-the-lunar-dust-more-than-ha/",
+      "urlToImage": "https://spacedaily.com/wp-content/uploads/2026/07/j-the-moon-is-drifting-away-from-earth-by-about-38-centimetr.jpg",
+      "publishedAt": "2026-07-15T11:45:14Z",
+      "content": "On the night of August 1, 1969, a green pulse of light left a telescope at the Lick Observatory in California, travelled a quarter of a million miles to the Sea of Tranquillity, struck a suitcase-siz… [+8444 chars]"
     },
     {
       "source": {
@@ -646,6 +711,19 @@
     {
       "source": {
         "id": null,
+        "name": "Space Daily"
+      },
+      "author": null,
+      "title": "A park ranger lowered himself into an Australian canyon expecting to document an ordinary patch of rainforest and found a stand of trees that had been missing from the living world for millions of years - Space Daily",
+      "description": "In September 1994, David Noble used ropes to enter a remote sandstone gorge in Wollemi National Park, northwest of Sydney. Noble, an off-duty officer with the",
+      "url": "https://spacedaily.com/t-park-ranger-australian-canyon-wollemi-pine-discovery/",
+      "urlToImage": "https://spacedaily.com/wp-content/uploads/2026/07/blue-mountains-wollemi-pine-discovery.jpg",
+      "publishedAt": "2026-07-14T20:30:23Z",
+      "content": "In September 1994, David Noble used ropes to enter a remote sandstone gorge in Wollemi National Park, northwest of Sydney. Noble, an off-duty officer with the New South Wales National Parks and Wildl… [+7331 chars]"
+    },
+    {
+      "source": {
+        "id": null,
         "name": "Neurosciencenews.com"
       },
       "author": "Neuroscience News",
@@ -672,15 +750,15 @@
     {
       "source": {
         "id": null,
-        "name": "SciTechDaily"
+        "name": "Gizmodo.com"
       },
-      "author": null,
-      "title": "Saturn’s Largest Moon May Hold the Resources for a Space Colony - SciTechDaily",
-      "description": "Titan’s resources could one day make Saturn’s largest moon a major outpost for deep space exploration.",
-      "url": "https://scitechdaily.com/saturns-largest-moon-may-hold-the-resources-for-a-space-colony/",
-      "urlToImage": "https://scitechdaily.com/images/Titan-Interior-Cross-Section-Illustration.jpg",
-      "publishedAt": "2026-07-14T18:16:19Z",
-      "content": "Artist’s rendering of Titan’s interior, with the Cassini spacecraft in orbit and Saturn in the distance. Credit: NASA\r\nTitan’s resources could one day make Saturn’s largest moon a major outpost for d… [+8817 chars]"
+      "author": "Matthew Phelan",
+      "title": "Scientists Found Gold in the Most Ironic Place Possible - Gizmodo",
+      "description": "Geologists found what they call “invisible gold” hidden within a surprising mineral near undersea hydrothermal vents.",
+      "url": "https://gizmodo.com/scientists-found-gold-in-the-most-ironic-place-possible-2000785505",
+      "urlToImage": "https://gizmodo.com/app/uploads/2026/07/fools-gold-japan-hydrothermal-vents-1200x675.jpg",
+      "publishedAt": "2026-07-14T18:10:29Z",
+      "content": "Japanese scientists discovered the undersea fields of Higashi-Aogashima Knoll Calderas hydrothermal vents over a decade ago, but the mineral-rich deposits from these fissures continue to reveal bizar… [+3788 chars]"
     },
     {
       "source": {
@@ -711,19 +789,6 @@
     {
       "source": {
         "id": null,
-        "name": "Skyatnightmagazine.com"
-      },
-      "author": "Jamie Carter",
-      "title": "Confused about the solar eclipse and whether you'll see it? Here's our location guide for North America and Europe - BBC Sky at Night Magazine",
-      "description": "A guide to which regions in the UK, Europe and North America will see the August 2026 solar eclipse – and what they'll see",
-      "url": "https://www.skyatnightmagazine.com/news/august-2026-solar-eclipse-north-america-vs-europe",
-      "urlToImage": "https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/7c05fcb0-7a79-4c64-9752-81b63d70add8/24460faf-46d7-4f68-9a1b-7281ee3c47cb/thumbnails/7f310302-1cd1-49ae-80b2-cd9a683fe099.jpg?w=1200",
-      "publishedAt": "2026-07-14T14:18:04Z",
-      "content": "One of the biggest talking points of summer 2026 is undoubtedly the solar eclipse occurring on August 12.\r\nBut will you be able to see it from your location? And which regions will see a total solar … [+3623 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "Interesting Engineering"
       },
       "author": "Mrigakshi Dixit",
@@ -733,19 +798,6 @@
       "urlToImage": "https://cms.interestingengineering.com/wp-content/uploads/2026/07/IE-95.jpg",
       "publishedAt": "2026-07-14T13:36:00Z",
       "content": "Researchers have developed the first 3D, omnidirectional thermal “cloak” capable of making objects invisible to infrared cameras from any direction.\r\nCompared with previous designs that only worked i… [+3437 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Space Daily"
-      },
-      "author": null,
-      "title": "The James Webb Space Telescope found tiny “little red dots” that looked like impossibly compact galaxies — but astronomers now suspect many may be “black hole stars,” young black holes wrapped in gas so dense that the material falling into them produces - Space Daily",
-      "description": "The first deep images from the James Webb Space Telescope contained a population that astronomers had not expected to see. Scattered among distant galaxies",
-      "url": "https://spacedaily.com/t-jwst-little-red-dots-black-hole-stars-dense-gas/",
-      "urlToImage": "https://spacedaily.com/wp-content/uploads/2026/07/jwst-glimpse-17775-little-red-dot.jpg",
-      "publishedAt": "2026-07-14T13:30:01Z",
-      "content": "The first deep images from the James Webb Space Telescope contained a population that astronomers had not expected to see. Scattered among distant galaxies were compact red points, abundant in the ea… [+7990 chars]"
     },
     {
       "source": {
@@ -802,67 +854,15 @@
     {
       "source": {
         "id": null,
-        "name": "Nature.com"
+        "name": "Space.com"
       },
-      "author": null,
-      "title": "Mathematics formula found on Maya wall rivals insights of ancient masters - Nature",
-      "description": "Mathematical texts from a Maya site in Guatemala identify an astronomer called Sak Tahn Waax.",
-      "url": "https://www.nature.com/articles/d41586-026-02170-8",
-      "urlToImage": "https://media.nature.com/lw1200/magazine-assets/d41586-026-02170-8/d41586-026-02170-8_52959564.jpg",
-      "publishedAt": "2026-07-14T11:47:34Z",
-      "content": "The Maya temple Tikal in Guatemala is about one day's walk from Xultun, where researchers discovered mathematical formula scribbled on the walls.Credit: Kryssia Campos/Getty\r\nA mathematical formula i… [+3390 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Gizmodo.com"
-      },
-      "author": "Ellyn Lapointe",
-      "title": "Scientists Finally Solved the Mystery of Earth’s ‘Great Dying.’ It’s Bad News for Our Future - Gizmodo",
-      "description": "The greatest mass extinction of all time was triggered by climatic conditions that are beginning to reappear today, scientists warn.",
-      "url": "https://gizmodo.com/scientists-finally-solved-the-mystery-of-earths-great-dying-its-bad-news-for-our-future-2000784825",
-      "urlToImage": "https://gizmodo.com/app/uploads/2026/07/shells-and-marine-fossils-1200x675.jpg",
-      "publishedAt": "2026-07-14T11:30:26Z",
-      "content": "Roughly 252 million years ago, nearly all life on Earth vanished. In a blink of geologic time, the Permian-Triassic mass extinctionalso known as the Great Dyingwiped 96% of marine species and 70% of … [+3382 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Phys.Org"
-      },
-      "author": "Sam Jarman",
-      "title": "Frame-dragging observations validate Einstein yet again - Phys.org",
-      "description": "More than a century after Albert Einstein first transformed our understanding of gravity, his general theory of relativity continues to withstand ever more demanding experimental tests. Now, an international team led by Ignazio Ciufolini at the Chinese Academ…",
-      "url": "https://phys.org/news/2026-07-validate-einstein.html",
-      "urlToImage": "https://scx2.b-cdn.net/gfx/news/2026/frame-dragging-observa.jpg",
-      "publishedAt": "2026-07-14T11:30:01Z",
-      "content": "More than a century after Albert Einstein first transformed our understanding of gravity, his general theory of relativity continues to withstand ever more demanding experimental tests. Now, an inter… [+4328 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Space Daily"
-      },
-      "author": "Space Daily",
-      "title": "India reached Mars on its first attempt with a mission that cost less than many Hollywood films, becoming the first Asian nation to enter Martian orbit and the first country anywhere to succeed on its maiden try - Space Daily",
-      "description": null,
-      "url": "https://spacedaily.com/t-india-mars-first-attempt-low-cost-mangalyaan/",
-      "urlToImage": null,
-      "publishedAt": "2026-07-14T11:00:48Z",
+      "author": "Jamie Carter",
+      "title": "The biggest skywatching day of 2026 is coming. Here's what you'll see in North America and Europe - Space",
+      "description": "Whether you're in Spain, Iceland, the U.K. or North America, here's exactly what you'll see in the sky on Aug. 12 — and when to look.",
+      "url": "https://www.space.com/stargazing/the-biggest-skywatching-day-of-2026-is-coming-heres-what-youll-see-in-north-america-and-europe",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/wn9cinsqk8QaYUYiPEXjtK-1500-80.jpg",
+      "publishedAt": "2026-07-14T12:00:00Z",
       "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Esa.int"
-      },
-      "author": null,
-      "title": "Artemis II astronauts visit ESA - European Space Agency",
-      "description": "Yesterday, the four Artemis II astronauts visited ESA’s technical site in the Netherlands, where they met the team behind the European Service Module that powered their Orion spacecraft around the Moon and safely back to Earth.",
-      "url": "https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Artemis_II_astronauts_visit_ESA",
-      "urlToImage": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/07/artemis_ii_astronauts_visit_esa/27377896-1-eng-GB/Artemis_II_astronauts_visit_ESA_pillars.jpg",
-      "publishedAt": "2026-07-14T10:05:56Z",
-      "content": "Science &amp; Exploration14/07/20262553 views47 likes\r\nYesterday, the four Artemis II astronauts visited ESAs technical site in the Netherlands, where they met the team behind the European Service Mo… [+3064 chars]"
     }
   ]
 }

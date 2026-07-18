@@ -3,21 +3,99 @@
   "country": "us",
   "category": "general",
   "mode": "country",
-  "fetched_at": "2026-07-18T10:52:43.506049+00:00",
-  "articles_count": 30,
+  "fetched_at": "2026-07-18T12:40:48.138758+00:00",
+  "articles_count": 33,
   "articles": [
     {
       "source": {
         "id": null,
-        "name": "BBC News"
+        "name": "CNBC"
       },
-      "author": null,
-      "title": "US launches new strikes as Iran says civilian infrastructure hit - BBC",
-      "description": "Tehran says the US strikes hit bridges, while the US boards a ship in the Strait of Hormuz.",
-      "url": "https://www.bbc.com/news/articles/c151gdjwd10o",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/8760/live/117c8740-8195-11f1-b976-0b9c15b0ccfc.jpg",
-      "publishedAt": "2026-07-17T08:10:12Z",
-      "content": "Centcom did not mention bridges in its list of the \"dozens of Iranian military targets\" it hit in the latest round of strikes. It said jets, drones and ships had attacked \"coastal surveillance and ai… [+117 chars]"
+      "author": "Chloe Taylor, Justina Lee, Fred Imbert",
+      "title": "Nasdaq futures fall 2% as global chip sell-off continues: Live updates - CNBC",
+      "description": "The moves come after a decline in chipmakers dragged the broader market lower and the U.S. continued to strike Iran overnight.",
+      "url": "https://www.cnbc.com/2026/07/16/stock-market-today-live-updates.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108332780-1783608569097-gettyimages-2285358484-anotherday238785575_trgqztlq.jpeg?v=1783608619&w=1920&h=1080",
+      "publishedAt": "2026-07-17T10:03:00Z",
+      "content": "Nasdaq 100 futures fell sharply on Friday, as mounting jitters over artificial intelligence spending weighed on sentiment and dragged global tech stocks lower. \r\nDow Jones Industrial Average futures … [+2918 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "WLS-TV"
+      },
+      "author": "Evelyn Holmes, ABC7 Chicago Digital Team",
+      "title": "Chicago Air Quality Alert in effect with index at hazardous levels from Canadian wildfire smoke - ABC7 Chicago",
+      "description": "Air Quality Index map shows hazardous levels in parts of Chicago area",
+      "url": "https://abc7chicago.com/post/chicago-air-quality-alert-effect-index-hazardous-levels-canadian-wildfire-smoke/19525207/",
+      "urlToImage": "https://cdn.abcotvs.com/dip/images/19525345_071726-wls-air-quality-evelyn5a-vid.jpg?w=1600",
+      "publishedAt": "2026-07-17T10:01:20Z",
+      "content": "CHICAGO (WLS) -- An Air Quality Alert remains in effect for the Chicago area Friday due to smoke from Canadian wildfires.\r\nThe alert is in effect until midnight Friday.\r\nAir quality remained in the h… [+1537 chars]"
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Hanna Park, Dalia Faheid",
+      "title": "At least 2 dead in Texas floods as hundreds rescued in same region as Camp Mystic disaster - CNN",
+      "description": "Disastrous flash flooding has hit southern Texas after days of torrential rain, leaving at least two people dead and hundreds of people rescued across the same region struck by last July’s catastrophic floods.",
+      "url": "https://www.cnn.com/2026/07/17/weather/texas-flooding-risks-damage-hnk",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2286432846.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2026-07-17T09:20:30Z",
+      "content": "Disastrous flash flooding has hit southern Texas after days of torrential rain, leaving at least two people dead and hundreds of people rescued across the same region struck by last Julys catastrophi… [+5287 chars]"
+    },
+    {
+      "source": {
+        "id": "axios",
+        "name": "Axios"
+      },
+      "author": "Rebecca Falconer",
+      "title": "Trump alleges vast conspiracy to commit and cover up election fraud - Axios",
+      "description": "Trump is reopening a politically charged debate over China's role in the 2020 election.",
+      "url": "https://www.axios.com/2026/07/17/trump-china-election-interference-us-intelligence-claim",
+      "urlToImage": "https://images.axios.com/gA1gZoBeoPHZU0MKmN9byRyJ3t8=/0x0:5777x3250/1366x768/2026/07/17/1784250029055.jpeg",
+      "publishedAt": "2026-07-17T07:14:06Z",
+      "content": "Driving the news: During his address, Trump said the White House released documents alleging that \"over a period of years, starting during the 2020 election cycle, Beijing carried out what is believe… [+3199 chars]"
+    },
+    {
+      "source": {
+        "id": "ign",
+        "name": "IGN"
+      },
+      "author": "Mitchell Saltzman",
+      "title": "Castlevania: Belmont’s Curse Might Make the Long Wait for a New 2D Castlevania Worth It | IGN Preview - IGN",
+      "description": "After playing the first three hours of Castlevania: Belmont's Curse, Dead Cells developer Evil Empire's take on the legendary series seems to be poised to live up to extraordinarily high standards set by its predecessors.",
+      "url": "https://www.ign.com/articles/castlevania-belmonts-curse-might-make-the-long-wait-for-a-new-2d-castlevania-worth-it-ign-preview",
+      "urlToImage": "https://assets-prd.ignimgs.com/2026/07/16/castlevania-belmontscurse-blogroll-02-1784244063646.jpg?width=1280&format=jpg&auto=webp&quality=80",
+      "publishedAt": "2026-07-17T07:01:00Z",
+      "content": "Being a teenager with a Game Boy Advance and a Nintendo DS in the early 2000s was a wonderful time, because almost every year, there was a new Castlevania game to sink my fangs into. But after Order … [+7987 chars]"
+    },
+    {
+      "source": {
+        "id": "the-washington-post",
+        "name": "The Washington Post"
+      },
+      "author": "Lena H. Sun, Rachel Roubein",
+      "title": "CDC, FDA link Taco Bell lettuce supplier to multistate cyclosporiasis outbreak - The Washington Post",
+      "description": "Investigators identified Taylor Farms as the supplier of the shredded iceberg lettuce linked to the outbreak at Taco Bell restaurants, according to two people familiar with the investigation.",
+      "url": "https://www.washingtonpost.com/health/2026/07/16/lettuce-supplier-is-potential-source-cyclosporiasis-outbreak-investigators-say/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/KYNGOGWWNE7HVQBFUFGE2LYYTI_size-normalized.jpg&w=1440",
+      "publishedAt": "2026-07-17T06:24:00Z",
+      "content": "Federal health officials said Thursday that a multistate outbreak of cyclosporiasis that has sickened thousands of people has been linked to shredded iceberg lettuce served at Taco Bell restaurants i… [+76 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Deadline"
+      },
+      "author": "Anthony D'Alessandro",
+      "title": "‘The Odyssey’ Launches Weekend Voyage With Thursday Previews Around $15M U.S. – Box Office - Deadline",
+      "description": "Christopher Nolan's 'The Odyssey' is off to excellent start with $15M, the best previews for a live-action movie year-to-date.",
+      "url": "http://deadline.com/2026/07/box-office-the-odyssey-1236993792/",
+      "urlToImage": "https://deadline.com/wp-content/uploads/2026/07/MCDODYS_UV019.jpg?w=1024",
+      "publishedAt": "2026-07-17T06:09:00Z",
+      "content": "EXCLUSIVE: Universal‘s Christopher Nolan epic The Odysseyis sailing to previews tonight around $15M give or take. \r\nIf that figure posts, it will rank as the best previews we’ve seen so far this year… [+2077 chars]"
     },
     {
       "source": {
@@ -25,12 +103,51 @@
         "name": "NPR"
       },
       "author": "Anthony Kuhn",
-      "title": "Japan revises law to ensure supply of (male) heirs to the imperial throne - NPR",
+      "title": "Japan revises law on royals, keeps blocking women from throne - NPR",
       "description": "A popular princess drives support for having a female Japanese Emperor. But the country's first female prime minister opposes it.",
-      "url": "https://www.npr.org/2026/07/17/g-s1-133536/japan-revises-law-to-ensure-supply-of-male-heirs-to-the-imperial-throne",
+      "url": "https://www.npr.org/2026/07/17/g-s1-133536/japan-law-male-heirs-imperial-throne",
       "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4327x2434+0+226/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F5a%2F10%2F47a4ee14413f879cdd72dd339d34%2Fgettyimages-2254321285.jpg",
       "publishedAt": "2026-07-17T05:29:46Z",
       "content": "Japan's upper house of parliament has voted to pass controversial revisions to a law governing who can inherit the throne in the world's oldest continuous hereditary monarchy, just days after the low… [+4322 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Substack.com"
+      },
+      "author": "Heather Cox Richardson",
+      "title": "July 16, 2026 - Letters from an American | Heather Cox Richardson | Substack",
+      "description": "An exchange yesterday between Senator Jon Ossoff (D-GA) and Jay Clayton, Trump’s nominee to oversee the U.S.",
+      "url": "https://heathercoxrichardson.substack.com/p/july-16-2026",
+      "urlToImage": "https://substackcdn.com/image/fetch/$s_!2MHE!,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fheathercoxrichardson.substack.com%2Ftwitter%2Fsubscribe-card.jpg%3Fv%3D489714354%26version%3D9",
+      "publishedAt": "2026-07-17T05:26:50Z",
+      "content": "An exchange yesterday between Senator Jon Ossoff (D-GA) and Jay Clayton, Trumps nominee to oversee the U.S. intelligence community as director of national intelligence, illustrated the dilemma of tho… [+12423 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Suntimes.com"
+      },
+      "author": "Georgia Nicols",
+      "title": "Horoscope for Friday, July 17, 2026 - Chicago Sun-Times",
+      "description": null,
+      "url": "https://chicago.suntimes.com/horoscopes/2026/07/17/horoscopes-today-friday-july-17-2026",
+      "urlToImage": "https://cst.brightspotcdn.com/dims4/default/2145dbd/2147483647/strip/true/crop/870x497+0+67/resize/1461x834!/quality/90/?url=https%3A%2F%2Fchorus-production-cst-web.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fac%2Ffd%2F790f04b15195427014757adc0272%2Fgeorgia-nicols.jpg",
+      "publishedAt": "2026-07-17T05:01:00Z",
+      "content": "Moon alert\r\nThere are no restrictions to shopping or important decisions today. The moon is in Virgo.\r\nAries (March 21-April 19)\r\nThis is an excellent day to work and be productive. Use the energy of… [+3858 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "New York Post"
+      },
+      "author": "Daniel Farr",
+      "title": "Beloved mother identified as latest victim of SF boat tragedy - New York Post",
+      "description": "Family confirms the death of Tondra Madruga, 58, after a San Francisco Bay memorial cruise turned into a deadly boat disaster.",
+      "url": "https://nypost.com/2026/07/17/us-news/beloved-mother-identified-as-latest-victim-in-tragic-san-francisco-bay-boat-sinking/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/07/134646446.jpg?quality=75&strip=all&w=1200",
+      "publishedAt": "2026-07-17T04:03:00Z",
+      "content": "The grieving family of a woman killed in the tragic San Francisco Bay boating disaster has confirmed her death, remembering her as their ‘beloved mother, daughter, sister, and aunt’ after what began … [+2119 chars]"
     },
     {
       "source": {
@@ -44,19 +161,6 @@
       "urlToImage": "https://variety.com/wp-content/uploads/2026/02/God-of-War-Amazon-Prime-Video.jpg?w=1000&h=563&crop=1",
       "publishedAt": "2026-07-17T03:56:00Z",
       "content": "Prime Video will recast the lead role on its upcoming adaptation of “God of War” after star Ryan Hurst was injured on set, Variety has confirmed. \r\nHurst had been set to play Kratos, the titular god … [+2590 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Austin American-Statesman"
-      },
-      "author": "Katey Psencik, Mary Wasson, Julianna Duennes Russ, Faith Bugenhagen, Dante Motley, San Antonio Express-News Staff",
-      "title": "At least 2 dead, hundreds rescued as flooding devastates parts of Texas - Austin American-Statesman",
-      "description": "At least two people died and hundreds were rescued Thursday as dangerous flooding swept across the Texas Hill Country.",
-      "url": "https://www.statesman.com/weather/severe/article/texas-flash-flood-emergency-guadalupe-river-22347523.php",
-      "urlToImage": "https://s.hdnux.com/photos/01/66/66/56/31157175/10/rawImage.jpg",
-      "publishedAt": "2026-07-17T03:05:52Z",
-      "content": "People gather to watch as the Perdenales River floods Ranch Road 1623 in Stonewall, Thursday, July 16, 2026.\r\nMikala Compton/Austin American-Statesman\r\nAt least two people died as dangerous flooding … [+34596 chars]"
     },
     {
       "source": {
@@ -74,6 +178,19 @@
     {
       "source": {
         "id": null,
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "Pete Hegseth's new testosterone testing policy for US troops - BBC",
+      "description": "US Defence Secretary Pete Hegseth has announced mandatory testosterone screening for military personnel aged 30 and over.",
+      "url": "https://www.bbc.com/news/videos/cy746z15ej3o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/9e37/live/07cd9e40-8187-11f1-926f-c90d1bcfbc84.jpg",
+      "publishedAt": "2026-07-17T02:45:48Z",
+      "content": "US Defence Secretary Pete Hegseth has announced that all military personnel aged 30 and over will be screened for testosterone deficiency as part of their annual health checks. Those found to have lo… [+483 chars]"
+    },
+    {
+      "source": {
+        "id": null,
         "name": "Financial Times"
       },
       "author": null,
@@ -86,16 +203,16 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "KATU"
+        "id": "buzzfeed",
+        "name": "Buzzfeed"
       },
-      "author": "Wright Gazaway",
-      "title": "Portland sends first term sheet to Trail Blazers days after NBA says talks 'off track' - KATU",
-      "description": "In what’s perhaps a surprising development, city leaders have sent an initial term sheet to the Trail Blazers this week outlining the city’s first proposal in negotiating a long-term agreement to keep the team.",
-      "url": "https://katu.com/sports/trail-blazers/portland-to-send-first-term-sheet-to-trail-blazers-this-week-as-talks-heat-up-nba-basketball-business-city-council-negotiation-renovation-moda-center-local-sports-community-economy",
-      "urlToImage": "https://katu.com/resources/media2/16x9/4284/1320/0x1652/90/5432a238-a242-419c-af43-64494804ebdd-PortlandTrailBlazerstakeonSanAntonioSpursinGame4attheModaCenteronApril262026KATUimagefromWesleighOgle.png",
-      "publishedAt": "2026-07-17T01:37:12Z",
-      "content": "PORTLAND, Ore. (KATU) In whats perhaps a surprising development, city leaders have sent an initial term sheet to the Trail Blazers this week outlining the citys first proposal in negotiating a long-t… [+4971 chars]"
+      "author": "Chelsea Stewart",
+      "title": "Kim Kardashian Reacted To Backlash After Sharing Vacation Pics Following Her Grandma MJ's Death - BuzzFeed",
+      "description": "\"Didn't MJ just die and you posting this? WOW.\"",
+      "url": "https://www.buzzfeed.com/chelseastewart/kim-kardashian-vacation-photos-mj-death",
+      "urlToImage": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/16/22/thumb/vmORjQlSw.jpg?crop=1250:654;0,0%26downsize=1250:*",
+      "publishedAt": "2026-07-17T01:29:33Z",
+      "content": "by Chelsea StewartBuzzFeed\r\nBuzzFeed StaffI'm Chelsea, the Weekend Editor at BuzzFeed, where I cover everything from pop culture and politics to TV and celebrity news."
     },
     {
       "source": {
@@ -126,67 +243,15 @@
     {
       "source": {
         "id": null,
-        "name": "CNBC"
+        "name": "WLWT Cincinnati"
       },
-      "author": "Lim Hui Jie",
-      "title": "CNBC Daily Open: Trump takes the stage — without his longtime teleprompter operator - CNBC",
-      "description": "U.S. President Donald Trump is poised to give a primetime speech on Thursday focusing on election security, although with a new teleprompter operator.",
-      "url": "https://www.cnbc.com/2026/07/17/cnbc-daily-open-trump-speech-election-teleprompter-operator.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108311438-1779481572898-gettyimages-2277150089-AFP_B3RY77X.jpeg?v=1779481601&w=1920&h=1080",
-      "publishedAt": "2026-07-17T01:11:00Z",
-      "content": "Hello, this is Hui Jie writing to you from Singapore. Welcome to another edition of CNBC's Daily Open.\r\nU.S. President Donald Trump is currently giving a primetime speech on Thursday focusing on elec… [+3041 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "SpaceNews"
-      },
-      "author": "Jeff Foust",
-      "title": "SpaceX aborts Starship Flight 13 launch attempt - SpaceNews",
-      "description": "SpaceX aborted the launch of its latest Starship test flight July 16 when some of the vehicle’s engines failed to ignite.",
-      "url": "https://spacenews.com/spacex-aborts-starship-flight-13-launch-attempt/",
-      "urlToImage": "https://spacenews.com/wp-content/uploads/2026/07/starship-lft13-scrub.jpeg",
-      "publishedAt": "2026-07-17T00:40:05Z",
-      "content": "WASHINGTON SpaceX aborted the launch of its latest Starship test flight July 16 when some of the vehicles engines failed to ignite.\r\nStarship was scheduled to lift off on the Flight 13 mission from t… [+2995 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "New York Post"
-      },
-      "author": "Daniel Farr",
-      "title": "Exclusive | Bill Essayli calls for investigation after rare cancer diagnoses rattle Orange County families - New York Post",
-      "description": "An outbreak of an extremely rare cancer in a ritzy SoCal community has raised the concern of Los Angeles’ top federal attorney.",
-      "url": "https://nypost.com/2026/07/16/us-news/federal-prosecutor-demands-probe-into-ewing-sarcoma-cases-among-oc-children/",
-      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/07/134632959.jpg?quality=75&strip=all&w=1200",
-      "publishedAt": "2026-07-17T00:18:00Z",
-      "content": "An outbreak of an extremely rare cancer in a ritzy Southern California community has drawn the attention of Los Angeles’ top federal prosecutor.\r\nIn a letter sent Thursday to US Environmental Protect… [+4496 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "BBC News"
-      },
-      "author": null,
-      "title": "Kit Connor and Joe Locke: 'Making a film like Heartstopper will forever be important' - BBC",
-      "description": "The Netflix movie brings Alice Oseman's popular screen adaptation to a conclusion.",
-      "url": "https://www.bbc.com/news/articles/cpwewzeyxqwo",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/5a1a/live/e4141ed0-7f6e-11f1-8812-63adb81ec20b.jpg",
-      "publishedAt": "2026-07-16T23:52:23Z",
-      "content": "More than 10,000 people applied through this process, with the majority of the show's leads arriving as newcomers including Locke, William Gao (Tao Xu), Tobie Donovan (Isaac Henderson), Corinna Brown… [+75 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "PBS"
-      },
-      "author": null,
-      "title": "As wildfire smoke makes air unhealthy from Midwest to East Coast, officials say stay inside - PBS",
-      "description": "Heavy, pungent wildfire smoke darkened skies in the U.S. on Thursday from the Great Lakes to parts of the East Coast, reducing visibility and prompting warnings that breathing the air outside could be dangerous.",
-      "url": "https://www.pbs.org/newshour/health/as-wildfire-smoke-makes-air-unhealthy-from-midwest-to-east-coast-officials-say-stay-inside",
-      "urlToImage": "https://d3i6fh83elv35t.cloudfront.net/static/2026/07/2026-07-16T135836Z_55835436_RC2ZEMAX9HTX_RTRMADP_3_USA-WEATHER-WILDFIRES-1024x653.jpg",
-      "publishedAt": "2026-07-16T23:51:45Z",
-      "content": "NEW YORK (AP) Heavy, pungent wildfire smoke darkened skies in the U.S. on Thursday from the Great Lakes to parts of the East Coast, reducing visibility and prompting warnings that breathing the air o… [+5430 chars]"
+      "author": "Emily Sanderson",
+      "title": "Cyclospora outbreak: Hamilton County reports additional cases - WLWT",
+      "description": "As cyclosporiasis continues to spread to more counties and states, Hamilton County is reporting more cases.",
+      "url": "https://www.wlwt.com/article/cyclospora-outbreak-hamilton-county-ohio-cases/72577435",
+      "urlToImage": "https://kubrick.htvapps.com/htv-prod/images/232be305-2612-4378-aebb-d5d12ddb7872.jpg?resize=1200%3A*&crop=1.00xw%3A0.994xh%3B0%2C0",
+      "publishedAt": "2026-07-16T23:14:00Z",
+      "content": "HAMILTON COUNTY, OhioAs cyclosporiasis continues to spread to more counties and states, Hamilton County is reporting more cases.\r\nIn their latest update Thursday, Hamilton County health officials rep… [+1789 chars]"
     },
     {
       "source": {
@@ -203,16 +268,29 @@
     },
     {
       "source": {
-        "id": "al-jazeera-english",
-        "name": "Al Jazeera English"
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
       },
-      "author": "Al Jazeera Staff",
-      "title": "Ebola spreading more quickly in DRC, while Uganda is close to being virus-free - Al Jazeera",
-      "description": "Uganda ⁠⁠discharges last-remaining patient, as WHO says Ebola has ‘expanded faster than any previous outbreak’ in DRC.",
-      "url": "https://www.aljazeera.com/news/2026/7/16/ebola-spreading-more-quickly-in-drc-while-uganda-is-close-to-being-virus-free",
-      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/07/afp_6a590ef4374f-1784221428.jpg?resize=1920%2C1440",
-      "publishedAt": "2026-07-16T22:30:36Z",
-      "content": "The World Health Organization (WHO) has warned that Ebola is spreading in the Democratic Republic of Congo more quickly than in any previous outbreak.\r\nWHO chief Tedros Adhanom Ghebreyesus told repor… [+2537 chars]"
+      "author": "WSJ",
+      "title": "U.S. Targets Iranian Bridges in Bid to Choke Off Regime’s Supply Routes - WSJ",
+      "description": null,
+      "url": "https://www.wsj.com/world/middle-east/u-s-targets-iranian-bridges-in-bid-to-choke-off-regimes-supply-routes-5ab1c512",
+      "urlToImage": null,
+      "publishedAt": "2026-07-16T23:01:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "MacRumors"
+      },
+      "author": "Juli Clover",
+      "title": "EU Orders Google to Give Rival AI Apps the Same Android Access as Gemini - MacRumors",
+      "description": "The European Commission today formally ordered Google to give third-party AI services the same access to Android device features that Gemini has....",
+      "url": "https://www.macrumors.com/2026/07/16/eu-google-ai-apps-android-access/",
+      "urlToImage": "https://images.macrumors.com/t/pPDCn-hQtSI9kC8urpqYAeRxKF0=/2000x/article-new/2026/04/gemini-for-mac-app-google.jpg",
+      "publishedAt": "2026-07-16T22:45:12Z",
+      "content": "The European Commission today formally ordered Google to give third-party AI services the same access to Android device features that Gemini has. Europe's Digital Markets Act requires software makers… [+2725 chars]"
     },
     {
       "source": {
@@ -268,29 +346,16 @@
     },
     {
       "source": {
-        "id": "ars-technica",
-        "name": "Ars Technica"
+        "id": "bleacher-report",
+        "name": "Bleacher Report"
       },
-      "author": "Ryan Whitwam",
-      "title": "It’s official: EU will force Google to share search data and open up AI on Android - Ars Technica",
-      "description": "Google says these changes could endanger user privacy and security.",
-      "url": "https://arstechnica.com/gadgets/2026/07/its-official-eu-will-force-google-to-share-search-data-and-open-up-ai-on-android/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/europe-flag-digital-1152x648-1742412347.jpg",
-      "publishedAt": "2026-07-16T20:41:45Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Deadline"
-      },
-      "author": "Armando Tinoco",
-      "title": "Mary Jo “MJ” Shannon Dies: Kris Jenner’s Mom & The Kardashians’ Grandmother Was 91 - Deadline",
-      "description": "Kris Jenner's mother, Mary Jo \"MJ\" Shannon, who appeared on the Kardashian reality shows, died July 16. She was 91.",
-      "url": "http://deadline.com/2026/07/mary-jo-mj-shannon-dead-kris-jenner-mom-kardashian-grandmother-1236984356/",
-      "urlToImage": "https://deadline.com/wp-content/uploads/2026/07/Mary-Jo-MJ-Campbell-and-Kris-Jenner.jpg?w=1024",
-      "publishedAt": "2026-07-16T18:40:00Z",
-      "content": "Kris Jenner‘s mother, Mary Jo “MJ” Shannon, has died. She was 91.\r\nIn a post on social media, the Kardashian matriarch shared news that her mother had died on July 16.\r\n“Today, we said goodbye to my … [+1918 chars]"
+      "author": "Joe Tansey",
+      "title": "British Open Leaderboard 2026 Review of Top Scorecards and Player Stats on Day 1 - Bleacher Report",
+      "description": "Jackson Suber emerged as the unlikely 18-hole leader at The Open Championship.",
+      "url": "https://bleacherreport.com/articles/25455612-british-open-leaderboard-2026-review-top-scorecards-and-player-stats-day-1",
+      "urlToImage": "https://gsp-image-cdn.wmsports.io/cms/prod/bleacher-report/2026-07/bnt_golf-leaderboard_16x9_720.jpg?w=1118&h=630",
+      "publishedAt": "2026-07-16T19:58:03Z",
+      "content": "Jackson Suber emerged as the unlikely 18-hole leader at The Open Championship. \r\nThe 26-year-old American topped the leaderboard with a five-under 65 at Royal Birkdale. \r\nSuber, who is playing in jus… [+482 chars]"
     },
     {
       "source": {
@@ -308,67 +373,41 @@
     {
       "source": {
         "id": null,
-        "name": "Forbes"
-      },
-      "author": "Alison Durkee",
-      "title": "Sen. Tillis Won’t Back Blanche As Trump AG Unless He Meets With Epstein Victims - Forbes",
-      "description": "“This is a very important part of getting to yes” on approving Blanche’s nomination, Tillis said Thursday.",
-      "url": "https://www.forbes.com/sites/alisondurkee/2026/07/16/gop-senator-says-he-wont-vote-for-todd-blanche-unless-he-meets-with-epstein-victims/",
-      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6a590b09138f91dd0cdfd616/0x0.jpg?format=jpg&crop=823,463,x149,y142,safe&height=900&width=1600&fit=bounds",
-      "publishedAt": "2026-07-16T16:52:11Z",
-      "content": "Sen. Thom Tillis, R-N.C., wont vote for Acting Attorney General Todd Blanches nomination to move forward unless Blanche meets with victims of Jeffrey Epstein, Tillis said Thursday, after Blanche clai… [+6125 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tech Xplore"
+        "name": "Investor's Business Daily"
       },
       "author": null,
-      "title": "New spinning drone hides in plain sight: 'Phantom Twist' harnesses motion blur to nearly vanish in flight - Tech Xplore",
-      "description": "By exploiting the quirks of human vision, Northwestern University engineers have designed a drone that nearly disappears before the eyes. For years, researchers have tried to design invisible drones and robots using camouflage, transparent materials or light-…",
-      "url": "https://techxplore.com/news/2026-07-drone-plain-sight-phantom-harnesses.html",
-      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/new-spinning-drone-hid-2.jpg",
-      "publishedAt": "2026-07-16T16:00:02Z",
-      "content": "By exploiting the quirks of human vision, Northwestern University engineers have designed a drone that nearly disappears before the eyes. For years, researchers have tried to design invisible drones … [+6023 chars]"
+      "title": "The Next Wave Of Peptides Could Be Here; What Does It Mean For Lilly, Novo? - Investor's Business Daily",
+      "description": "FDA advisors will debate the merits of seven peptides next week. The discussion could have an impact on Lilly and Novo.",
+      "url": "https://www.investors.com/news/technology/eli-lilly-novo-nordisk-peptides-fda-cpac-meeting/",
+      "urlToImage": "https://www.investors.com/wp-content/uploads/2026/07/TECH1_injectors_071726_adobe.jpg",
+      "publishedAt": "2026-07-16T12:00:00Z",
+      "content": "Information in Investors Business Daily is for informational and educational purposes only and should not be construed as an offer, recommendation, solicitation, or rating to buy or sell securities. … [+1064 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Entertainment Weekly"
+        "name": "News-Medical.Net"
       },
-      "author": "https://www.facebook.com/entertainmentweekly",
-      "title": "‘Today’ show intruder arrested after allegedly lunging and yelling slur at host Craig Melvin - Entertainment Weekly",
-      "description": "Chaos momentarily took over the ‘Today’ show studio in New York City when an intruder broke into the studio and confronted co-host Craig Melvin, yelling racial slurs.",
-      "url": "https://ew.com/today-show-intruder-arrested-after-allegedly-lunging-at-craig-melvin-12020652",
-      "urlToImage": "https://ew.com/thmb/REoVVUL-5R366_B7ge7UK3teIOg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Craig-Melvin-071626-2761f63289d04adabd3594333938e6df.jpg",
-      "publishedAt": "2026-07-16T15:51:23Z",
-      "content": "An intruder has been arrested after breaking into the Today shows studio in New York City on Thursday.\r\nA statement from NBC to Entertainment Weekly explained that the security incident occurred in t… [+2649 chars]"
+      "author": null,
+      "title": "Scientists show how sweeteners slow the growth of certain gut bacteria - News-Medical",
+      "description": "Cambridge researchers have shown how commonly-used sweeteners slow the growth of certain gut bacteria.",
+      "url": "https://www.news-medical.net/news/20260716/Scientists-show-how-sweeteners-slow-the-growth-of-certain-gut-bacteria.aspx",
+      "urlToImage": "https://www.news-medical.net/image-handler/picture/2016/3/bacteria_-_Sebastian_Kaulitzki_46826fb7971649bfaca04a9b4cef3309-620x480.jpg",
+      "publishedAt": "2026-07-16T11:39:00Z",
+      "content": "Cambridge researchers have shown how commonly-used sweeteners slow the growth of certain gut bacteria. One sweetener in particular – isosteviol – when combined with the anti-depressant duloxetine sig… [+5525 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Creative Bloq"
+        "name": "The-independent.com"
       },
-      "author": "Daniel John",
-      "title": "iPhone 18 Pro leaks point to a bigger, better and heavier smartphone from Apple - Creative Bloq",
-      "description": "From camera breakthroughs to a new design, here's everything we know.",
-      "url": "https://www.creativebloq.com/design/product-design/iphone-18-pro-leaks-point-to-a-bigger-better-and-heavier-smartphone-from-apple",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/fZHoENfJTNAojqW6DVVVZH-1920-80.jpg",
-      "publishedAt": "2026-07-16T12:21:42Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "al-jazeera-english",
-        "name": "Al Jazeera English"
-      },
-      "author": "Al Jazeera Staff",
-      "title": "World Cup: Tuchel, Messi and why Argentina beat England in semifinal - Al Jazeera",
-      "description": "England’s poor defensive tactics, Lionel Messi’s enduring brilliance, and Argentina self-belief behind 2-1 comeback win.",
-      "url": "https://www.aljazeera.com/sports/2026/7/16/key-factors-in-argentinas-win-over-england-in-world-cup-2026-semifinal-tuchel-messi",
-      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/07/reuters_6a58a49e-1784194206_568a23-1784194254.jpg?resize=1200%2C630&quality=80",
-      "publishedAt": "2026-07-16T11:32:44Z",
-      "content": "Defending champions Argentina are heading back to the World Cup final after a 2-1 victory over England on Wednesday in Atlanta.\r\nLa Albiceleste will face Spain in Sundays final and are seeking their … [+5883 chars]"
+      "author": "Anthony Cuthbertson",
+      "title": "OpenAI launches $230 keyboard amid Apple theft allegations - The Independent",
+      "description": "Codex Micro comes ahead of mystery device that CEO Sam Altman says is ‘the coolest piece of technology that the world will have ever seen’",
+      "url": "https://www.the-independent.com/tech/openai-keyboard-ai-codex-micro-apple-b3015979.html",
+      "urlToImage": "https://static.the-independent.com/2026/07/16/8/44/openai-keyboard-codex-micro-ai.png?trim=0,0,0,0&width=1200&height=800&crop=1200:800",
+      "publishedAt": "2026-07-16T10:54:00Z",
+      "content": "Your support helps us to tell the story\r\nFrom reproductive rights to climate change to Big Tech, The Independent is on the ground when the story is developing. Whether it's investigating the financia… [+2871 chars]"
     },
     {
       "source": {

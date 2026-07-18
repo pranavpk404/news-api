@@ -3,22 +3,9 @@
   "country": "us",
   "category": "business",
   "mode": "country",
-  "fetched_at": "2026-07-18T07:20:49.004192+00:00",
-  "articles_count": 30,
+  "fetched_at": "2026-07-18T09:12:07.941218+00:00",
+  "articles_count": 25,
   "articles": [
-    {
-      "source": {
-        "id": "the-wall-street-journal",
-        "name": "The Wall Street Journal"
-      },
-      "author": "WSJ",
-      "title": "Parasitic Outbreak Linked to Taylor Farms Lettuce Supplied to Taco Bell - WSJ",
-      "description": null,
-      "url": "https://www.wsj.com/us-news/health-authorities-link-parasitic-outbreak-to-lettuce-from-taylor-farms-taco-bell-242689fc",
-      "urlToImage": null,
-      "publishedAt": "2026-07-17T03:49:00Z",
-      "content": null
-    },
     {
       "source": {
         "id": null,
@@ -48,15 +35,15 @@
     {
       "source": {
         "id": null,
-        "name": "CNBC"
+        "name": "SpaceNews"
       },
-      "author": "Jenny Lee",
-      "title": "Seven & i shares jump 3% on report of stake talks with Polish convenience chain Zabka - CNBC",
-      "description": "Shares of Seven & i Holdings Co. jumped after a report said the company was looking to buy a stake in Poland's Zabka Group.",
-      "url": "https://www.cnbc.com/2026/07/17/seven-i-zabka-investment-poland.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108066274-1732197713414-gettyimages-2185168570-AFP_36MW6VH.jpeg?v=1732197786&w=1920&h=1080",
-      "publishedAt": "2026-07-17T00:31:00Z",
-      "content": "Seven &amp; i Holdings Co. shares closed 3.6% higher Friday after a Nikkei report said the 7-Eleven parent was nearing a deal to buy a stake in Polish convenience giant Zabka Group.\r\nThe potential tr… [+1913 chars]"
+      "author": "Jeff Foust",
+      "title": "SpaceX aborts Starship Flight 13 launch attempt - SpaceNews",
+      "description": "SpaceX aborted the launch of its latest Starship test flight July 16 when some of the vehicle’s engines failed to ignite.",
+      "url": "https://spacenews.com/spacex-aborts-starship-flight-13-launch-attempt/",
+      "urlToImage": "https://spacenews.com/wp-content/uploads/2026/07/starship-lft13-scrub.jpeg",
+      "publishedAt": "2026-07-17T00:40:05Z",
+      "content": "WASHINGTON SpaceX aborted the launch of its latest Starship test flight July 16 when some of the vehicles engines failed to ignite.\r\nStarship was scheduled to lift off on the Flight 13 mission from t… [+2995 chars]"
     },
     {
       "source": {
@@ -73,32 +60,6 @@
     },
     {
       "source": {
-        "id": "ars-technica",
-        "name": "Ars Technica"
-      },
-      "author": "Stephen Clark",
-      "title": "SpaceX scrubs Starship launch after some of its engines didn’t start - Ars Technica",
-      "description": "Now offloading propellant. Next launch attempt hopefully in a few days.\"",
-      "url": "https://arstechnica.com/space/2026/07/spacex-scrubs-starship-launch-after-some-of-its-engines-didnt-start/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/starshipf13abort-1152x648.jpg",
-      "publishedAt": "2026-07-17T00:02:54Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "associated-press",
-        "name": "Associated Press"
-      },
-      "author": "Rio Yamat, Ap Airlines, Travel Writer",
-      "title": "US investigators lead probe into Ryanair flight where man was partly sucked out of broken window - AP News",
-      "description": "U.S. aviation safety investigators have taken over the investigation into what caused a window to dislodge on a Ryanair flight from Greece to Germany on July 10. A man was partially sucked out of the plane before his wife and other passengers pulled him back …",
-      "url": "https://apnews.com/article/ryanair-flight-greece-man-sucked-out-ntsb-national-transportation-safety-board-investigation-96ed9ba265f9c93c2a3bca5dad0e2496",
-      "urlToImage": "https://dims.apnews.com/dims4/default/17c0f15/2147483647/strip/true/crop/3000x1999+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fe6%2F8c%2F9ddf6174c2cc3f92bcb465bfcaa3%2F9293d5278c484e2abde019c2df1844a3",
-      "publishedAt": "2026-07-16T23:25:00Z",
-      "content": "U.S. aviation safety investigators announced Thursday they are taking over the probe into a Ryanair flight from Greece that left passengers scrambling minutes after takeoff, when a window dislodged a… [+3139 chars]"
-    },
-    {
-      "source": {
         "id": null,
         "name": "BBC News"
       },
@@ -109,19 +70,6 @@
       "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/3a36/live/a22ce670-817e-11f1-a087-3f9df20b4f8a.jpg",
       "publishedAt": "2026-07-16T22:42:37Z",
       "content": "It is likely to be aimed at financial traders who want to see market-moving news fast. Trumps social media posts often cause sudden swings in global markets, especially when he writes about trade and… [+58 chars]"
-    },
-    {
-      "source": {
-        "id": "bloomberg",
-        "name": "Bloomberg"
-      },
-      "author": "Anand Krishnamoorthy",
-      "title": "Asian Stocks Drop After Chip Selloff, Oil Gains: Markets Wrap - Bloomberg.com",
-      "description": "Asian stocks fell alongside US equity-index futures as a selloff in chipmakers deepened on mounting concern that massive artificial-intelligence investments may not justify lofty valuations. Oil climbed.",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-16/stock-market-today-dow-s-p-live-updates",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iAHS318Hc0AM/v0/1200x800.jpg",
-      "publishedAt": "2026-07-16T22:05:23Z",
-      "content": "Asian stocks fell alongside US equity-index futures as a selloff in chipmakers deepened on mounting concern that massive artificial-intelligence investments may not justify lofty valuations. Oil clim… [+330 chars]"
     },
     {
       "source": {
@@ -190,19 +138,6 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "Barron's"
-      },
-      "author": "Adam Clark, Al Root",
-      "title": "AST SpaceMobile Stock Fall Is About More Than SpaceX - Barron's",
-      "description": "AST SpaceMobile stock has fallen almost 30% in the past three months and its latest debt offering isn't helping. It is a rival to SpaceX's Starlink.",
-      "url": "https://www.barrons.com/articles/ast-spacemobile-stock-price-spacex-caa59bc3",
-      "urlToImage": "https://images.barrons.com/im-35213883/social",
-      "publishedAt": "2026-07-16T20:15:00Z",
-      "content": "AST SpaceMobilestock fell sharply Thursday. A poor couple of months for the satellite-broadband company was being compounded by the announcement of a convertible debt offering.\r\nCopyright ©2026Dow Jo… [+76 chars]"
-    },
-    {
-      "source": {
         "id": "usa-today",
         "name": "USA Today"
       },
@@ -243,6 +178,19 @@
     {
       "source": {
         "id": null,
+        "name": "Motley Fool"
+      },
+      "author": "Keithen Drury",
+      "title": "Palantir and Sandisk Stocks Are Down 35% and 25%, but Only One Is a Buy Now - The Motley Fool",
+      "description": "The stocks are at opposite ends of the valuation spectrum.",
+      "url": "https://www.fool.com/investing/2026/07/16/palantir-and-sandisk-stock-are-down-35-and-25-but/",
+      "urlToImage": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F878905%2Fperson-sitting-on-couch-with-dog-and-laptop.jpg&w=1200&op=resize",
+      "publishedAt": "2026-07-16T17:45:00Z",
+      "content": "Sandisk (SNDK12.81%) and Palantir(PLTR+0.49%) are two of the most popular artificial intelligence (AI) investments on the market, but both have displayed some weakness lately. Sandisk is down around … [+3822 chars]"
+    },
+    {
+      "source": {
+        "id": null,
         "name": "Fox Business"
       },
       "author": "Eric Revell, Matthew Kazin",
@@ -252,6 +200,32 @@
       "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/03/0/0/home-for-sale-person-walking-getty.jpg?ve=1&tl=1",
       "publishedAt": "2026-07-16T17:38:00Z",
       "content": "Mortgage rates\r\n rose this week to the highest level in nearly a year, mortgage buyer Freddie Mac said Thursday.\r\nFreddie Mac's latest Primary Mortgage Market Survey, released Thursday, showed the av… [+2637 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "TheStreet"
+      },
+      "author": "Peace Longe, Celine Provini",
+      "title": "IBM’s worst day since 1968 handed Micron a gift - thestreet.com",
+      "description": "The same warning that erased billions from Big Blue in one session sent money straight into another corner of the AI trade.",
+      "url": "https://www.thestreet.com/investing/stocks/ibm-worst-drop-since-1968-micron-mu-memory-ai-trade",
+      "urlToImage": "https://www.thestreet.com/.image/NDA6MDAwMDAwMDAzMTE1MTgw/arvindkrishna_pl_160726.jpg?profile=share16-9",
+      "publishedAt": "2026-07-16T17:33:59Z",
+      "content": "International Business Machines (IBM) has spent three years quietly convincing Wall Street it belonged in the artificial intelligence trade. \r\nHowever, on July 14, the market decided otherwise in a s… [+6934 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Jeff Cox",
+      "title": "Dallas Fed President Logan calls for 'modestly' higher interest rates - CNBC",
+      "description": "The policymaker said this week's good inflation news wasn't good enough.",
+      "url": "https://www.cnbc.com/2026/07/16/dallas-fed-president-logan-calls-for-modestly-higher-interest-rates.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108220137-1761932739662-gettyimages-2243837870-DALLAS_FED_SPEAK.jpeg?v=1761932781&w=1920&h=1080",
+      "publishedAt": "2026-07-16T17:15:37Z",
+      "content": "Dallas Federal Reserve President Lorie Logan, asserting that this week's good inflation news wasn't good enough, called Thursday for \"modestly\" higher interest rates to win a battle the central bank … [+2647 chars]"
     },
     {
       "source": {
@@ -265,6 +239,19 @@
       "urlToImage": "https://techcrunch.com/wp-content/uploads/2020/01/GettyImages-1190485293.jpg?resize=1200,802",
       "publishedAt": "2026-07-16T17:12:00Z",
       "content": "After weeks of speculation, Uber officially agreed to acquire Delivery Hero, a purchase that will take the ride-hailing and delivery giant’s status to new heights, and to nearly 100 markets across Eu… [+1163 chars]"
+    },
+    {
+      "source": {
+        "id": "associated-press",
+        "name": "Associated Press"
+      },
+      "author": "Chan Ho-him",
+      "title": "Taiwan computer chipmaker TSMC pledges another $100 billion to expand US chipmaking capacity - AP News",
+      "description": "Major Taiwan computer chipmaker TSMC says it plans to spend another $100 billion on expanding its manufacturing capacity in the United States. The latest commitment appears to bring the company's total pledges for investment in U.S. chipmaking to $265 billion…",
+      "url": "https://apnews.com/article/taiwan-tsmc-chipmaking-ai-arizona-fab-ba05b1b952257d371acb9d070e7914ff",
+      "urlToImage": "https://dims.apnews.com/dims4/default/c6d00c0/2147483647/strip/true/crop/6000x3998+0+69/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F7c%2F1e%2F29e2bfe26286d8f5fdf7019b4acc%2Fd3e06ffeeceb45cd8df57c6aced2b133",
+      "publishedAt": "2026-07-16T16:46:00Z",
+      "content": "HONG KONG (AP) Major Taiwan computer chipmaker TSMC said Thursday it plans to spend another $100 billion on expanding its manufacturing capacity in the United States. \r\nThe latest commitment appears … [+2964 chars]"
     },
     {
       "source": {
@@ -294,32 +281,6 @@
     },
     {
       "source": {
-        "id": "the-hill",
-        "name": "The Hill"
-      },
-      "author": "Addy Bink",
-      "title": "US could get a new nickel under bill passed by the House - The Hill",
-      "description": "Without the penny, the nickel has presumably gained some value. It could also get a new look.",
-      "url": "https://thehill.com/homenews/5970246-us-could-get-a-new-nickel-under-bill-passed-by-the-house/",
-      "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2026/02/AP25081645676251-e1770331482939.jpg?w=1280",
-      "publishedAt": "2026-07-16T14:00:00Z",
-      "content": "Skip to content\r\n(NEXSTAR) – In addition to a bill that could lock the clocks in the U.S., the House this week passed legislation that could change how our change looks.\r\nThe “Common Cents Act” addre… [+3026 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Mediaroom.com"
-      },
-      "author": null,
-      "title": "Abbott Reports Second-Quarter 2026 Results and Raises Full-Year EPS Guidance - Abbott MediaRoom",
-      "description": "Second-quarter reported sales growth of 13.0 percent; comparable sales growth of 4.8 percent Second-quarter GAAP diluted EPS of $0.53; adjusted diluted EPS of $1.31 Abbott reaffirms full-year 2026...",
-      "url": "https://abbott.mediaroom.com/2026-07-16-Abbott-Reports-Second-Quarter-2026-Results-and-Raises-Full-Year-EPS-Guidance",
-      "urlToImage": "https://abbott.mediaroom.com/image/abbottimage_social.jpg",
-      "publishedAt": "2026-07-16T13:49:13Z",
-      "content": "<ul><li>Second-quarter reported sales growth of 13.0 percent; comparable sales growth of 4.8 percent</li><li>Second-quarter GAAP diluted EPS of $0.53; adjusted diluted EPS of $1.31</li><li>Abbott rea… [+73867 chars]"
-    },
-    {
-      "source": {
         "id": null,
         "name": "Barron's"
       },
@@ -330,19 +291,6 @@
       "urlToImage": "https://images.barrons.com/im-62246830/social",
       "publishedAt": "2026-07-16T12:42:00Z",
       "content": "UnitedHealthGroup stock spiked on Thursday after the healthcare giant posted second-quarter earnings that handily topped analyst projections and raised its guidance. But one numberthe so-called medic… [+139 chars]"
-    },
-    {
-      "source": {
-        "id": "cnn",
-        "name": "CNN"
-      },
-      "author": "Bryan Mena",
-      "title": "Retail sales last month rose less than expected - CNN",
-      "description": "Spending at US retailers last month was weaker than expected, despite the World Cup drawing tourists from around the world and online sales events.",
-      "url": "https://www.cnn.com/2026/07/16/economy/us-retail-sales-june",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2280966295.jpg?c=16x9&q=w_800,c_fill",
-      "publishedAt": "2026-07-16T12:36:03Z",
-      "content": "Spending at US retailers last month was weaker than expected, despite the World Cup drawing tourists from around the world and online sales events.\r\nRetail sales rose 0.2% in June from the prior mont… [+3205 chars]"
     },
     {
       "source": {
@@ -382,19 +330,6 @@
       "urlToImage": "https://dims.apnews.com/dims4/default/ec0d97c/2147483647/strip/true/crop/3784x2521+0+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F68%2Fae%2Fa28215a186b275582e3be425ce1c%2F835e9dfa4da74c5bbe9c0d19f6f04804",
       "publishedAt": "2026-07-16T08:01:00Z",
       "content": "TOKYO (AP) Japanese communications company Fujitsu is leading a major push in artificial intelligence using Nvidias technology, bringing together what it said was the best in Japans manufacturing pro… [+2463 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "TheStreet"
-      },
-      "author": "thestreet.com",
-      "title": "PayPal stock jumps as two unlikely buyers circle with billions - thestreet.com",
-      "description": null,
-      "url": "https://www.thestreet.com/investing/stocks/stripe-advent-paypal-53-billion-takeover-bid",
-      "urlToImage": null,
-      "publishedAt": "2026-07-15T23:17:00Z",
-      "content": null
     }
   ]
 }

@@ -3,21 +3,125 @@
   "country": "us",
   "category": "general",
   "mode": "country",
-  "fetched_at": "2026-07-22T11:38:55.877545+00:00",
-  "articles_count": 32,
+  "fetched_at": "2026-07-22T13:12:14.525196+00:00",
+  "articles_count": 34,
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Abcnews.com"
+      },
+      "author": "ABC News - Breaking News, Latest News and Videos",
+      "title": "Tropical Storm Bertha churns off Florida coast, prompting storm alerts - ABC News - Breaking News, Latest News and Videos",
+      "description": null,
+      "url": "https://abcnews.com/US/tropical-storm-bertha-takes-shape-off-florida-coast/story?id\\\\u003d134917136",
+      "urlToImage": null,
+      "publishedAt": "2026-07-21T12:22:30Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Annika Kim Constantino",
+      "title": "Novo Nordisk sues Eli Lilly, alleging misleading GLP-1 advertising - CNBC",
+      "description": "Novo asked the court to permanently stop Lilly from running the \"deceptive\" ads and require the drugmaker to issue corrective advertising.",
+      "url": "https://www.cnbc.com/2026/07/21/novo-nordisk-sues-eli-lilly-glp-1-ads.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108328219-1782751789876-gettyimages-2279484892-64393_48_ms_4772.jpeg?v=1782751835&w=1920&h=1080",
+      "publishedAt": "2026-07-21T11:35:46Z",
+      "content": "Novo Nordisk on Tuesday filed a lawsuit against Eli Lilly, alleging that its advertising campaigns for its blockbuster obesity and diabetes drugs are designed to mislead consumers about their superio… [+4666 chars]"
+    },
     {
       "source": {
         "id": "the-washington-post",
         "name": "The Washington Post"
       },
-      "author": "Lena H. Sun",
-      "title": "Can I eat lettuce now? What to know about the cyclosporiasis outbreak. - The Washington Post",
-      "description": "As investigators continue to study the outbreak and its possible sources, many people have questions about what's safe to eat. Here's the latest advice.",
-      "url": "https://www.washingtonpost.com/health/2026/07/21/can-i-eat-lettuce-now-what-know-about-cyclosporiasis-outbreak/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/WJIWMNBM7K3HKSGYCAY37OOJNY_size-normalized.jpg&w=1440",
-      "publishedAt": "2026-07-21T10:32:17Z",
-      "content": "Did the Food and Drug Administration really walk back its recall of Taylor Farms iceberg lettuce? Can I eat romaine instead? And what can I do if I want to eat my favorite foods from Taco Bell?\r\nAs a… [+283 chars]"
+      "author": "Noah Robertson, Riley Beggin, Jarrell Dillard",
+      "title": "The Pentagon, sinking billions into Iran war, is quickly running short on cash - The Washington Post",
+      "description": "With some funds set to dry up within weeks, Defense Secretary Pete Hegseth is set to press lawmakers Tuesday to address the increasingly urgent shortfall.",
+      "url": "https://www.washingtonpost.com/national-security/2026/07/21/pentagon-sinking-billions-into-iran-is-quickly-running-short-cash/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/PPUNG2J26HLDCE6B7ZRQMTBUCA_size-normalized.jpg&w=1440",
+      "publishedAt": "2026-07-21T11:32:46Z",
+      "content": "The Pentagon faces an urgent budget shortfall caused largely by the war in Iran, with some critical lines of funding set to run out within weeks even as President Donald Trump escalates the conflict … [+73 chars]"
+    },
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": "Yashraj Sharma",
+      "title": "‘Won’t back down’: Indian student protesters return after police crackdown - Al Jazeera",
+      "description": "More than 100 students injured in police action against thousands of demonstrators during march on parliament.",
+      "url": "https://www.aljazeera.com/news/2026/7/21/wont-back-down-indian-student-protesters-return-after-police-crackdown",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/07/2026-07-20T155703Z_1807891241_RC2HHMAHUBCI_RTRMADP_3_INDIA-GEN-Z-1784624750.jpg?resize=1920%2C1440",
+      "publishedAt": "2026-07-21T11:22:28Z",
+      "content": "New Delhi, India Blood spots on the walls, overturned barricades, shattered mirrors and sandals strewn across the road. A scarf here, broken glasses and a torn shirt there lie as remnants of the chao… [+7123 chars]"
+    },
+    {
+      "source": {
+        "id": "the-hill",
+        "name": "The Hill"
+      },
+      "author": "Alix Martichoux",
+      "title": "How to tell if your lettuce is safe to eat during cyclospora outbreak - The Hill",
+      "description": "These are the types of lettuce you should toss out immediately.",
+      "url": "https://thehill.com/policy/healthcare/5978848-how-to-tell-if-your-lettuce-is-safe-to-eat-during-cyclospora-outbreak/",
+      "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2026/07/GettyImages-2285892166.jpg?w=1280",
+      "publishedAt": "2026-07-21T11:15:00Z",
+      "content": "Skip to content\r\n(NEXSTAR) – As federal health officials continue to investigate the source of the massive outbreak of cyclospora, the produce-linked parasite that causes “explosive” diarrhea and has… [+4078 chars]"
+    },
+    {
+      "source": {
+        "id": "the-hill",
+        "name": "The Hill"
+      },
+      "author": "Sarah Fortinsky, Jared Gans",
+      "title": "South Carolina Senate candidates pile in despite Trump endorsement - The Hill",
+      "description": "In today’s issue: ▪ Darline Graham running for full Senate term ▪ Houthis announce Saudi Arabia blockade ▪ Tracking the cyclospora outbreak status ▪ Inside Jackson’s rise in Maine The GOP race to replace the late Sen. Lindsey Graham (R-S.C.) is shaping up to …",
+      "url": "https://thehill.com/newsletters/morning-report/5979822-south-carolina-senate-race-darline-graham-donald-trump-iran-war/",
+      "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2026/07/Top-Graham_071426_AP_J-Scott-Applewhite.jpg?w=1280",
+      "publishedAt": "2026-07-21T11:01:00Z",
+      "content": "Skip to content\r\nIn today’s issue:\r\n▪ Darline Graham running for full Senate term\r\n▪ Houthis announce Saudi Arabia blockade\r\n▪ Tracking the cyclospora outbreak status\r\n▪ Inside Jackson’s rise in Main… [+16323 chars]"
+    },
+    {
+      "source": {
+        "id": "politico",
+        "name": "Politico"
+      },
+      "author": "Audrey Decker",
+      "title": "NASA’s nuclear Mars mission to cost over $2 billion - Politico",
+      "description": "The price tag doesn't include the cost of the science mission the new spacecraft would ferry to the Red Planet.",
+      "url": "https://www.politico.com/news/2026/07/21/nasa-nuclear-mars-mission-cost-01005610",
+      "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2Fe2%2F6c%2F95b978874163b4896514714f4abd%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F1047301806",
+      "publishedAt": "2026-07-21T11:00:00Z",
+      "content": "The agency plans to spend $640 million in fiscal 2026, $890 million in 2027, $415 million in 2028, and $180 million in 2029 on the program, according to a document sent to Congress and viewed by POLI… [+1709 chars]"
+    },
+    {
+      "source": {
+        "id": "nbc-news",
+        "name": "NBC News"
+      },
+      "author": "Elizabeth Robinson, Josh Feldman, Delia Sara Rangel, Daniela Suarez",
+      "title": "Trump vows revenge on Iran and what to watch in Arizona’s primaries: Morning Rundown - NBC News",
+      "description": "Trump enters an uncertain moment in an Iran war threatening to become a quagmire.",
+      "url": "https://www.nbcnews.com/news/us-news/trump-revenge-iran-watch-arizona-primaries-morning-rundown-rcna588491",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-07/260717-donald-trump-ch-0853-e89faa.jpg",
+      "publishedAt": "2026-07-21T10:59:50Z",
+      "content": "Trump enters an uncertain moment in an Iran war threatening to become a quagmire. Battleground Arizona gets ready for another set of hotly contested primaries. And test your soccer knowledge with our… [+8208 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "NPR"
+      },
+      "author": "The Associated Press",
+      "title": "Trump imposes 50% tariffs on Canadian goods - NPR",
+      "description": "President Donald Trump on Monday imposed 50% tariffs on most Canadian goods, declaring that Canada has unfairly discriminated against American autos, alcohol and dairy products.",
+      "url": "https://www.npr.org/2026/07/21/nx-s1-5901905/trump-imposes-tariffs-canadian-goods",
+      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7885x4435+0+258/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fa2%2Fd6%2Fc9cefcd9451aba4547f2d243f2a5%2Fap26190631339886.jpg",
+      "publishedAt": "2026-07-21T10:31:34Z",
+      "content": "WASHINGTON President Donald Trump on Monday imposed 50% tariffs on most Canadian goods, declaring that Canada has unfairly discriminated against American autos, alcohol and dairy products.\r\nThe move … [+6457 chars]"
     },
     {
       "source": {
@@ -34,55 +138,94 @@
     },
     {
       "source": {
-        "id": "associated-press",
-        "name": "Associated Press"
+        "id": "cbs-news",
+        "name": "CBS News"
       },
-      "author": "Chan Ho-him",
-      "title": "World shares mostly gain and South Korea and Japan recover some losses from AI stock sell-offs - AP News",
-      "description": "World shares have mostly gained and U.S. futures advanced, with markets in South Korea and Japan trading higher after recent declines due to heavy selling of stocks linked to artificial intelligence. South Korea's benchmark Kospi ended 3.6% higher led by tech…",
-      "url": "https://apnews.com/article/stock-markets-ai-oil-iran-trump-30c42bb51683c4b43c9f64dfeff7a3ea",
-      "urlToImage": "https://dims.apnews.com/dims4/default/5e05bff/2147483647/strip/true/crop/5960x3971+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fc3%2F1e%2Fe2d3f9b34fa93a4066c5b34f9bc3%2F83e66ce375874e2293b5aa9c5320dd0e",
-      "publishedAt": "2026-07-21T10:05:00Z",
-      "content": "HONG KONG (AP) World shares mostly gained and U.S. futures advanced on Tuesday, with markets trading higher in South Korea and Japan led by technology shares after recent declines due to heavy sellin… [+3387 chars]"
+      "author": null,
+      "title": "Supreme Court will review Alaska's bid to seize pilot's plane over 6-pack of beer: \"This case isn't just about me\" - CBS News",
+      "description": "The pilot, Kenneth Jouppi, argues that taking his 1969 Cessna would violate the Eighth Amendment's \"Excessive Fines Clause.\"",
+      "url": "https://www.cbsnews.com/news/supreme-court-alaska-seize-pilot-plane-6-pack-beer/",
+      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/07/21/cff64775-5641-43f8-bfc3-cbd9f48326c5/thumbnail/1200x630/8c0cef5787b69651519189270840d8b3/ap26201703569947.jpg",
+      "publishedAt": "2026-07-21T10:27:00Z",
+      "content": "The Supreme Court agreed Monday to review an Alaska bush pilot's claims that state authorities have tried to illegally seize his $95,000 airplane after a passenger brought a six-pack of beer on a fli… [+3686 chars]"
     },
     {
       "source": {
-        "id": null,
-        "name": "BBC News"
+        "id": "fortune",
+        "name": "Fortune"
       },
-      "author": null,
-      "title": "Trump slaps 50% tariffs on Canada and Carney vows to 'intensify' trade talks - BBC",
-      "description": "The duties mark a major escalation in trade tensions between the North American neighbours.",
-      "url": "https://www.bbc.com/news/articles/cg4dzq3x3e1o",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/a06b/live/1dd117f0-84dc-11f1-b976-0b9c15b0ccfc.jpg",
-      "publishedAt": "2026-07-21T09:16:21Z",
-      "content": "Everyday consumer items like wine and hockey sticks and industrial goods such as cement are among the goods targeted. However, several key exports will be spared, such as energy, potash, critical min… [+14 chars]"
+      "author": "Eleanor Pringle",
+      "title": "JPMorgan Chase CEO Jamie Dimon wouldn't personally buy long bonds right now - Fortune",
+      "description": "Jamie Dimon of JPMorgan Chase wouldn't personally invest in long-dated bonds right now.",
+      "url": "https://fortune.com/2026/07/21/jamie-dimon-bond-market-personal-investing-national-debt/",
+      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/07/GettyImages-2285617248-e1784624234839.jpg?resize=1200,600",
+      "publishedAt": "2026-07-21T10:23:00Z",
+      "content": "J.P. Morgan Chase CEO Jamie Dimon says he is against investing his personal wealth any further into long-dated Treasury bills because of the potential for a bond market crisis brought on by the U.S.s… [+2827 chars]"
     },
     {
       "source": {
         "id": "politico",
         "name": "Politico"
       },
-      "author": "Samuel Benson, Erin Doherty, Liz Crampton",
-      "title": "South Carolina Republicans test Trump's clout in race for Graham's seat - Politico",
-      "description": "There’s a power struggle brewing in South Carolina, and Trump might not win.",
-      "url": "https://www.politico.com/news/2026/07/21/south-carolina-trump-graham-test-01005834",
-      "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2Fde%2F6e%2F6fb3c7e64f28b1179a6414db4854%2Flindsey-graham-south-carolina-17578.jpg",
-      "publishedAt": "2026-07-21T08:45:00Z",
-      "content": "Meanwhile, Norman who passed on another term in the House to make an unsuccessful run for governor has suggested Fry, his House colleague, could jeopardize Republicans House majority. If Fry wins the… [+1681 chars]"
+      "author": "Andrew Howard",
+      "title": "The primaries to watch today in Arizona - Politico",
+      "description": "From battleground House races to the top of the ticket race for governor, a the swing state has a number of tests for the direction of both parties ahead of November’s midterms.",
+      "url": "https://www.politico.com/news/2026/07/21/the-primaries-to-watch-today-in-arizona-01005459",
+      "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2Fab%2F3b%2Fa1e932614733a66f5f76cfb8d010%2Ftrump-turning-point-33643.jpg",
+      "publishedAt": "2026-07-21T10:03:00Z",
+      "content": "Whoever emerges will have the chance to win in one of Democrats best pickup opportunities this cycle, with Schweikert opting to run for governor instead of reelection in a district Trumpwon by just t… [+1783 chars]"
     },
     {
       "source": {
-        "id": "nbc-news",
-        "name": "NBC News"
+        "id": null,
+        "name": "MacRumors"
+      },
+      "author": "Tim Hardwick",
+      "title": "Apple Testing 7-Inch Display for Largest 20th Anniversary iPhone Model - MacRumors",
+      "description": "Apple is reportedly prototyping a larger iPhone display measuring roughly 6.96 inches, which would likely be marketed as a 7-inch panel if it reaches...",
+      "url": "https://www.macrumors.com/2026/07/21/iphone-20-pro-max-7-inch-display/",
+      "urlToImage": "https://images.macrumors.com/t/YCZjPv2v9UGoJROkYTCOYxi8XFc=/2500x/article-new/2026/05/Low-Angle-iPhone-Purple.jpg",
+      "publishedAt": "2026-07-21T09:08:23Z",
+      "content": "Apple is reportedly prototyping a larger iPhone display measuring roughly 6.96 inches, which would likely be marketed as a 7-inch panel if it reaches production.\r\nAccording to Chinese leaker Digital … [+1187 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Grace O'Donnell",
+      "title": "Stock market today: Nasdaq leads Dow, S&P 500 futures higher as chip stocks revive - Yahoo Finance",
+      "description": "Markets weighed new tariffs imposed on Canadian goods, the latest US-Iran escalation, and fresh earnings from General Motors and other companies.",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-july-21-dow-sp-500-nasdaq-084631499.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/64A5C4D2E8B5DFF98A6900782397D1EE75BEF3930126146BE75D5CA08B688986/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-06%2F3a72487a-86b1-4c6a-bafe-180b0ceac0f9",
+      "publishedAt": "2026-07-21T08:46:31Z",
+      "content": "US stock futures rose on Tuesday as investors braced for a flurry of earnings reports amid signs of a revival in chip stocks, with fresh US tariffs on Canada and Middle East hostilities also in focus… [+1724 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Variety"
+      },
+      "author": "Naman Ramachandran",
+      "title": "‘The Odyssey’ Breaks Records With Massive Debut at U.K. and Ireland Box Office - Variety",
+      "description": "'The Odyssey' captured the top spot at the U.K. and Ireland box office, storming the market with a spectacular debut weekend of $16.8 million.",
+      "url": "https://variety.com/2026/film/box-office/the-odyssey-uk-ireland-box-office-1236816591/",
+      "urlToImage": "https://variety.com/wp-content/uploads/2026/07/MCDODYS_UV008_1ac039.jpg?crop=0px%2C141px%2C2946px%2C1657px&resize=1000%2C563",
+      "publishedAt": "2026-07-21T07:10:00Z",
+      "content": "The U.K. and Ireland box office experienced a massive tentpole shift as Universal’s “The Odyssey” captured the top spot, storming the market with a spectacular debut weekend of £12.5 million ($16.8 m… [+3209 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "NPR"
       },
       "author": "The Associated Press",
-      "title": "Alaska wants to seize a pilot’s plane over a 6-pack of beer. The Supreme Court will hear his case. - NBC News",
-      "description": "The Supreme Court agreed to review an Alaska bush pilot’s claims that state authorities have tried to illegally seize his $95,000 airplane after a passenger brought a six-pack of beer on a flight bound for a dry village.",
-      "url": "https://www.nbcnews.com/news/us-news/alaska-seize-pilots-plane-6-pack-beer-supreme-court-jouppi-rcna588498",
-      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-07/260721-Ken-Jouppi-rs-b2246a.jpg",
-      "publishedAt": "2026-07-21T08:22:06Z",
-      "content": "WASHINGTON The Supreme Court agreed Monday to review an Alaska bush pilots claims that state authorities have tried to illegally seize his $95,000 airplane after a passenger brought a six-pack of bee… [+2955 chars]"
+      "title": "Spain's World Cup champions return home for parade in front of almost 2 million - NPR",
+      "description": "The players and their coaching staff met with the country's royals, and Prime Minister Pedro Sánchez. An estimated crowd of almost 2 million was on hand to greet the squad through the streets of Madrid.",
+      "url": "https://www.npr.org/2026/07/21/nx-s1-5901832/spain-world-cup-champions-return-home",
+      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6000x3375+0+313/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F02%2F5d%2Fa2ec713a4efba7d9b5c2505a8be3%2Fap26201777200342.jpg",
+      "publishedAt": "2026-07-21T07:09:22Z",
+      "content": "MADRID Spain's World Cup-winning soccer team returned home on Monday and an estimated crowd of almost 2 million was on hand to greet the squad through the streets of Madrid.\r\nThe 26 players and their… [+4302 chars]"
     },
     {
       "source": {
@@ -96,32 +239,6 @@
       "urlToImage": "https://dims.apnews.com/dims4/default/87b1524/2147483647/strip/true/crop/7989x5323+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Ffb%2Fe5%2F6930f5e8324bf19a464fabcef290%2Fe6aabefe00c0411cb0efbb4d5c2bc494",
       "publishedAt": "2026-07-21T06:48:00Z",
       "content": "ATHENS, Greece (AP) A man stabbed and wounded two tourists Tuesday morning near the ancient Acropolis in Athens, Greeces top tourist attraction, police said.\r\nThe assailant attacked a man and a woman… [+1304 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Financial Times"
-      },
-      "author": null,
-      "title": "Nearly 100 US troops injured in 2 weeks since Iran war resumed - Financial Times",
-      "description": "Pentagon says most soldiers suffered ‘minor concussions’ and have returned to duty",
-      "url": "https://www.ft.com/content/2e137205-df69-47a2-9674-2f4a9deec0d9?syn-25a6b1a6\\\\u003d1",
-      "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F2012035f-6917-4f3f-9178-2c2f196e63b3.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
-      "publishedAt": "2026-07-21T06:31:20Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "KSL.com"
-      },
-      "author": "Devin Oldroyd, KSL",
-      "title": "SUU student identified as US soldier killed in Jordan - KSL.com",
-      "description": "Southern Utah University confirmed Monday a soldier killed in action while serving in Jordan was a current student at the school.",
-      "url": "https://www.ksl.com/article/51600029/suu-student-identified-as-us-soldier-killed-in-jordan",
-      "urlToImage": "https://img.ksl.com/slc/3195/319513/31951375.jpeg?filter=kslv2/responsive_story_lg",
-      "publishedAt": "2026-07-21T05:49:22Z",
-      "content": "SALT LAKE CITY Southern Utah University confirmed Monday a soldier killed in action while serving in Jordan was a current student at the school.\r\nIn a press release, SUU stated 1st Lt. Tyler James Fe… [+3729 chars]"
     },
     {
       "source": {
@@ -152,54 +269,15 @@
     {
       "source": {
         "id": null,
-        "name": "Variety"
+        "name": "Notebookcheck.net"
       },
-      "author": "Jack Dunn",
-      "title": "Jon Stewart Says the World Cup Final Was the 'Reverse Super Bowl' - Variety",
-      "description": "Jon Stewart gave his post-game thoughts about the World Cup final.",
-      "url": "https://variety.com/2026/tv/news/jon-stewart-world-cup-final-halftime-show-trump-1236817023/",
-      "urlToImage": "https://variety.com/wp-content/uploads/2026/07/MixCollage-20-Jul-2026-09-23-PM-9469.jpg?crop=0px%2C19px%2C1200px%2C675px&resize=1000%2C563",
-      "publishedAt": "2026-07-21T04:30:00Z",
-      "content": "On Monday night’s episode of “The Daily Show,” Jon Stewart gave his post-game thoughts about Sunday’s World Cup final match, which saw Spain win out over Argentina 1-0.\r\n“Of course, the World Cup end… [+1269 chars]"
-    },
-    {
-      "source": {
-        "id": "usa-today",
-        "name": "USA Today"
-      },
-      "author": "Christopher Cann, Doyle Rice",
-      "title": "Tropical Storm Bertha forms in the Gulf, forecasts warn of flooding - USA Today",
-      "description": "Tropical Storm Bertha formed on July 20 as it moved toward the Gulf Coast, where forecasters say it could bring flash flooding to multiple states.",
-      "url": "https://www.usatoday.com/story/news/weather/2026/07/20/tropical-storm-bertha-weather-path-gulf-coast/90979616007/",
-      "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/07/21/USAT/90990248007-berthajuly-20.png?crop=896,504,x0,y153&width=896&height=504&format=pjpg&auto=webp",
-      "publishedAt": "2026-07-21T03:08:00Z",
-      "content": "Tropical Storm Bertha was \"stationary\" on the night of July 20 as federal forecasters warned it could bring tropical storm conditions, heavy rainfall and coastal flooding to parts of the northern Gul… [+2795 chars]"
-    },
-    {
-      "source": {
-        "id": "bloomberg",
-        "name": "Bloomberg"
-      },
-      "author": null,
-      "title": "China AI Sensation Moonshot’s Gamble on Big Models Pays Off - Bloomberg.com",
-      "description": "Crowds rushed to an obscure corner of China’s premier tech summit, moving past monumental booths from Alibaba Group Holding Ltd. and Tencent Holdings Ltd. to catch a glimpse of the hottest name in domestic AI.",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-20/chinese-ai-sensation-moonshot-s-gamble-on-big-models-pays-off",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iO7jPxC3Qiec/v0/1200x800.jpg",
-      "publishedAt": "2026-07-21T03:03:00Z",
-      "content": "Crowds rushed to an obscure corner of Chinas premier tech summit, moving past monumental booths from Alibaba Group Holding Ltd. and Tencent Holdings Ltd. to catch a glimpse of the hottest name in dom… [+519 chars]"
-    },
-    {
-      "source": {
-        "id": "associated-press",
-        "name": "Associated Press"
-      },
-      "author": "Fatma Khaled",
-      "title": "Yemen’s Iranian-backed Houthis say they will block Saudi shipping at Red Sea gateway - AP News",
-      "description": "Yemen's Iranian-backed Houthi rebels have announced a maritime embargo against Saudi Arabia. Monday's decision comes in retaliation for a blockade on Yemen and a recent attack on Sanaa International Airport. The embargo affects the Bab al-Mandeb strait, a cru…",
-      "url": "https://apnews.com/article/yemen-saudi-arabia-maritime-embargo-fd7c4a3911f7eee18251483fc8af768c",
-      "urlToImage": "https://dims.apnews.com/dims4/default/7800d00/2147483647/strip/true/crop/5415x3608+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F32%2F4a%2F4f42391cf3ae4def13736376e827%2Fb20ba09158b54b44aabca63e1680fcc1",
-      "publishedAt": "2026-07-21T02:23:00Z",
-      "content": "CAIRO (AP) Yemens Iranian-backed Houthi rebels on Monday announced they are imposing a maritime embargo against Saudi Arabia in retaliation for a blockade on Yemen and a recent attack on Sanaa Intern… [+4875 chars]"
+      "author": "Huzefa Baloch",
+      "title": "Motorola tablet with 9 JBL speakers confirmed to feature 12.1-inch display - Notebookcheck",
+      "description": "The Moto Pad 70 Groove is set to launch in India. Previously, the company revealed its design and confirmed that it will feature a nine-speaker JBL audio system. Now, the latest teaser reveals details about the tablet’s display and battery.",
+      "url": "https://www.notebookcheck.net/Motorola-tablet-with-9-JBL-speakers-confirmed-to-feature-12-1-inch-display.1347106.0.html",
+      "urlToImage": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Moto-Pad-70-Groove-news.png",
+      "publishedAt": "2026-07-21T02:58:00Z",
+      "content": "Motorola is set to launch the Moto Pad 70 Groove in India on July 31. Now, the tablet's official Flipkart microsite has confirmed details about its display and battery.\r\nThe Moto Pad 70 Groove will f… [+904 chars]"
     },
     {
       "source": {
@@ -216,68 +294,42 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "Deadline"
+        "id": "usa-today",
+        "name": "USA Today"
       },
-      "author": "Anthony D'Alessandro",
-      "title": "‘The Odyssey’ Doesn’t Stop: Epic Bound For Best Monday YTD Stateside With $17M+ – Box Office Update - Deadline",
-      "description": "'The Odyssey' per sources is racking up $17.5 million on July 20, which would be the best Monday in 2026 so far beating Toy Story 5.",
-      "url": "http://deadline.com/2026/07/box-office-the-odyssey-monday-record-1236998940/",
-      "urlToImage": "https://deadline.com/wp-content/uploads/2026/06/CT-38345CC_MSG.jpg?w=1024",
-      "publishedAt": "2026-07-20T23:58:00Z",
-      "content": "EXCLUSIVE: Christopher Nolan‘s The Odysseycontinues to dominate the box office, fueling a Monday that’s estimated to be $17.5 million.\r\nIf those figures stick, that will be the best Monday year-to-da… [+2031 chars]"
+      "author": "KiMi Robinson",
+      "title": "How Jelly Roll and Bunnie Xo split their belongings amid divorce - USA Today",
+      "description": "As Jelly Roll and Bunnie Xo's divorce is finalized after less than two months, details about how they will divide their assets have become public.",
+      "url": "https://www.usatoday.com/story/entertainment/celebrities/2026/07/20/jelly-roll-bunnie-xo-divorce-agreement/90989405007/",
+      "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/07/20/USAT/90989758007-jelly-roll-bunnie-xo-divorce-details.JPG?crop=4570,2570,x604,y133&width=3200&height=1800&format=pjpg&auto=webp",
+      "publishedAt": "2026-07-21T00:36:00Z",
+      "content": "As Jelly Roll and Bunnie Xo's divorce is reportedly finalized less than two months after the \"Son of a Sinner\" singer quietly filed a petition in court, some details about their agreement have become… [+2244 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "CNBC"
+        "name": "WPIX 11 New York"
       },
-      "author": "Hugh Son",
-      "title": "Jamie Dimon says markets underestimate risks and he wouldn't buy stocks or Treasurys at current prices - CNBC",
-      "description": "Comments from JPMorgan Chase CEO Jamie Dimon contrast with investors' recent willingness to look past wars, tariffs and other shocks.",
-      "url": "https://www.cnbc.com/2026/07/20/jpmorgan-chase-ceo-jamie-dimon-market-risk.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108213166-1760638891612-gettyimages-2241014705-IMF_WORLD_BANK.jpeg?v=1784579291&w=1920&h=1080",
-      "publishedAt": "2026-07-20T23:01:01Z",
-      "content": "Jamie Dimon, chief executive officer of JPMorgan Chase &amp; Co., speaks during the 2025 Institute of International Finance annual membership meeting in Washington, Oct. 16, 2025.\r\nJPMorgan Chase CEO… [+3198 chars]"
+      "author": "Spencer Gustafson, Eileen Lehpamer",
+      "title": "Fourth person dies from Legionnaires’ disease outbreak in Manhattan - PIX11",
+      "description": "MANHATTAN, N.Y. (PIX11) — A fourth person has died in connection with Legionnaires’ disease in Manhattan, according to the city’s health department. The first reported death in relation to the Legionnaires cluster on the Upper East Side was reported on Friday…",
+      "url": "https://pix11.com/news/local-news/fourth-person-dies-from-legionnaires-disease-outbreak-in-manhattan/",
+      "urlToImage": "https://pix11.com/wp-content/uploads/sites/25/2025/08/Legionnaires.png?w=1280",
+      "publishedAt": "2026-07-20T23:14:51Z",
+      "content": "MANHATTAN, N.Y. (PIX11) A fourth person has died in connection with Legionnaires’ disease in Manhattan, according to the city’s health department.\r\nThe first reported death in relation to the Legionn… [+1605 chars]"
     },
     {
       "source": {
-        "id": "the-washington-post",
-        "name": "The Washington Post"
+        "id": "cnn",
+        "name": "CNN"
       },
-      "author": "Dan Merica, Liz Goodwin, Alexei Koseff, Myla S. Roundy",
-      "title": "Democrat set to replace Platner in Maine led state Senate with a temper - The Washington Post",
-      "description": "Troy Jackson, the presumptive Democratic nominee to challenge Sen. Susan Collins (R-Maine), yelled and cursed at fellow state lawmakers, interviews reveal.",
-      "url": "https://www.washingtonpost.com/politics/2026/07/20/democrat-set-replace-platner-maine-led-state-senate-with-temper/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/TY7IWGWHUE7VSBE5B5J7PKTMHI_size-normalized.jpg&w=1440",
-      "publishedAt": "2026-07-20T22:47:48Z",
-      "content": "Troy Jackson, a powerful Maine legislator now running for Senate, once angrily threw a water bottle in a meeting after he couldnt persuade a lawmaker to vote his way.\r\nHe yelled at another lawmaker, … [+211 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Denverite"
-      },
-      "author": "Paolo Zialcita, Andrew Kenney",
-      "title": "‘That’s crazy:’ Fans blindsided as Denver theater switches ‘The Odyssey’ from 70mm IMAX to digital - Denverite",
-      "description": "Denver is home to one of the country’s only “true” IMAX theaters, but it broke down on opening weekend.",
-      "url": "https://denverite.com/2026/07/20/denver-odyssey-70mm-imax-switch-disappointment/",
-      "urlToImage": "https://denverite.com/cdn-cgi/image/width=1200,height=630,fit=crop,gravity=auto,quality=75,format=auto/https://wp-denverite.s3.amazonaws.com/wp-content/uploads/sites/4/2026/07/260720-THE-ODYSSEY-REGAL-CINEMAS-COLORADO-CENTER-UNIVERSITY-HILLS-MOVIE-THEATERS-ARTS-IMAX-KEVINJBEATY-11.jpg",
-      "publishedAt": "2026-07-20T22:46:51Z",
-      "content": "Ben VanLierop and Bennett Levine drove more than three hours to see a three-hour movie but they were greeted by an unpleasant cinematic surprise when they finished their road trip from Gunnison to De… [+4285 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "9to5google.com"
-      },
-      "author": "Abner Li",
-      "title": "Google Photos toggle lets you switch between classic search & Ask Photos - 9to5Google",
-      "description": "Google Photos has rolled out a “classic search” toggle for Ask Photos that delivers a big quality-of-life improvement.",
-      "url": "http://9to5google.com/2026/07/20/google-photos-classic-search-toggle/",
-      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/07/Google-Photos-Album-View.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "publishedAt": "2026-07-20T22:16:00Z",
-      "content": "Google Photos has rolled out a classic search toggle for Ask Photos that delivers a big quality-of-life improvement.\r\nThis feature was first mentioned by Google in March, but its completely rolled ou… [+1453 chars]"
+      "author": "Dana O’Neil",
+      "title": "As World Cup ends and SEC football media days begin, the specter of recent Big Ten dominance looms - CNN",
+      "description": "The Big Ten has won the last three national CFP titles. SEC commissioner Greg Sankey would like to halt the trend.",
+      "url": "https://www.cnn.com/2026/07/20/sport/sec-football-big-ten-dominace",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/006-gettyimages-2257156190.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2026-07-20T21:51:06Z",
+      "content": "Around the same time Rodri carried the World Cup trophy down the plane steps and onto Spanish soil, Oklahomas Brent Venables stepped to the podium inside a conference room at the Tampa Marriott, the … [+6115 chars]"
     },
     {
       "source": {
@@ -307,19 +359,6 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "Gizmodo.com"
-      },
-      "author": "Ellyn Lapointe",
-      "title": "Earth’s Oceans Are Rapidly Losing Oxygen. It Could Destabilize the Planet - Gizmodo",
-      "description": "Human activity is draining oxygen from marine waters, and it's past time to take this crisis seriously.",
-      "url": "https://gizmodo.com/earths-oceans-are-rapidly-losing-oxygen-it-could-destabilize-the-planet-2000787781",
-      "urlToImage": "https://gizmodo.com/app/uploads/2026/07/bubbles-under-the-ocean-surface-1200x675.jpg",
-      "publishedAt": "2026-07-20T20:50:38Z",
-      "content": "Oxygen, the element that sustains nearly all multicellular life on Earth, is disappearing from the world’s aquatic ecosystems. In a new review, scientists warn that this rapidly escalating, human-dri… [+4547 chars]"
-    },
-    {
-      "source": {
         "id": "axios",
         "name": "Axios"
       },
@@ -333,55 +372,42 @@
     },
     {
       "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Sarah Perez",
-      "title": "X relaunches a rebuilt Android app after year-long effort - TechCrunch",
-      "description": "X says the rebuilt version of its Android app is now available globally.",
-      "url": "https://techcrunch.com/2026/07/20/x-relaunches-a-rebuilt-android-app-after-year-long-effort/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/07/x-twitter.jpg?resize=1200,550",
-      "publishedAt": "2026-07-20T19:37:39Z",
-      "content": "Nearly a year ago, Elon Musk-owned X announced it would begin rebuilding the Android version of its app, which had not held up well compared with its iOS counterpart. On Monday, the company shipped t… [+2656 chars]"
-    },
-    {
-      "source": {
         "id": null,
-        "name": "Thetimes.com"
+        "name": "Android Authority"
       },
-      "author": "Eleanor Hayward",
-      "title": "Five cups of coffee a day safe for most adults, say heart experts - The Times",
-      "description": "Up to 400mg of daily caffeine was linked by research to lower risks of disease and stroke, but researchers warned against energy drinks and sugary extras",
-      "url": "https://www.thetimes.com/uk/healthcare/article/five-cups-coffee-day-safe-adults-rbtnmzmv7",
-      "urlToImage": "https://www.thetimes.com/imageserver/image/917c6fe7-e3fe-4f2d-8bf9-84b331b0f779.jpg?strip=all&format=webp&crop=1510px%2C849px%2C0px%2C190px&resize=1200",
-      "publishedAt": "2026-07-20T18:50:16Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Live Science"
-      },
-      "author": "Ivan Farkas",
-      "title": "Mysterious 'little red dots' at the beginning time may finally have an explanation, thanks to newfound 'little blue companions' - Live Science",
-      "description": "Astronomers may have found an unexpected origin for the mysterious \"little red dots\" that appear to be so common in James Webb Space Telescope surveys of the early universe.",
-      "url": "https://www.livescience.com/space/mysterious-little-red-dots-at-the-beginning-time-may-finally-have-an-explanation-thanks-to-newfound-little-blue-companions",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/BFWpzXKbkwGdvQJK4EjDG4-2000-80.jpg",
-      "publishedAt": "2026-07-20T17:39:41Z",
-      "content": null
+      "author": null,
+      "title": "Google gets Pixel testers started with Android 17 QPR2 Beta 1 - Android Authority",
+      "description": "We're getting our very first look at Android 17 QPR2 Beta 1 today, but Google's leaving behind a couple Pixel phones in the process.",
+      "url": "https://www.androidauthority.com/android-17-qpr2-beta-1-3689330/",
+      "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2026/02/android-17-logo-hero-6-scaled.jpg",
+      "publishedAt": "2026-07-20T18:35:00Z",
+      "content": "<ul><li>Android 17 QPR2 Beta 1 is now available for Pixel testers to install.</li><li>The software offers our first look at changes set to arrive with Googles 2026 Q4 Android release.</li><li>Support… [+2879 chars]"
     },
     {
       "source": {
         "id": "the-hill",
         "name": "The Hill"
       },
-      "author": "Spencer Gustafson, Derick Waller",
-      "title": "Third person dies amid NYC Legionnaires’ outbreak, officials say - The Hill",
-      "description": "The Health Department had just announced a second death in connection with the disease on Saturday.",
-      "url": "https://thehill.com/policy/healthcare/5978325-nyc-legionnaires-death-toll-rises/",
-      "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2025/08/68a79a94e5db80.66307164-e1784563719251.jpeg?w=1280",
-      "publishedAt": "2026-07-20T16:10:00Z",
-      "content": "Skip to content\r\nby Spencer Gustafson and Derick Waller - 07/20/26 12:10 PM ET\r\nby Spencer Gustafson and Derick Waller - 07/20/26 12:10 PM ET\r\nNEW YORK (WPIX) – A third person has died in connection … [+1904 chars]"
+      "author": "Zach Kaplan",
+      "title": "Drinking 5 cups of coffee a day is safe and could reduce heart risk: Report - The Hill",
+      "description": "Higher caffeine intake, including levels found in energy drinks, was associated with cardiovascular harm.",
+      "url": "https://thehill.com/policy/healthcare/5978630-aha-coffee-safety-research/",
+      "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2026/07/GettyImages-1191285127-e1781226475250.jpg?w=1280",
+      "publishedAt": "2026-07-20T17:30:00Z",
+      "content": "Skip to content\r\nby Zach Kaplan - 07/20/26 1:30 PM ET\r\nby Zach Kaplan - 07/20/26 1:30 PM ET\r\n(NewsNation) — The latest research suggests consuming up to five cups of coffee a day is safe for most adu… [+1329 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Forbes"
+      },
+      "author": "Andrew Williams",
+      "title": "Garmin Cirqa Design May Have Leaked Early - Forbes",
+      "description": "The Garmin Cirqa is heading closer to launch and this could be our first look at the fitness tracker's actual design. Do you want a Garmin logo that big on your wrist?",
+      "url": "https://www.forbes.com/sites/andrewwilliams/2026/07/20/garmin-cirqa-design-may-have-leaked-early/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6a5e1ed1a43f1b6e843aae33/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2026-07-20T13:20:06Z",
+      "content": "Garmin is expected to launch its take on the screen-less fitness tracker blueprint established by Whoop soon, dubbed the Garmin Cirqa, and the design of the wearable may have just leaked already. Gar… [+2306 chars]"
     },
     {
       "source": {
@@ -399,6 +425,19 @@
     {
       "source": {
         "id": null,
+        "name": "Hackaday"
+      },
+      "author": "Maya Posch",
+      "title": "Earth-like LHS 1140b May Feature The First Atmosphere Found On Exoplanet - Hackaday",
+      "description": "Finding another planet outside of our solar system that can comfortably be called ‘Earth-like’ is one of those discoveries that — if confirmed — would be a major event. The …",
+      "url": "https://hackaday.com/2026/07/20/earth-like-lhs-1140b-may-feature-the-first-atmosphere-found-on-exoplanet/",
+      "urlToImage": "https://hackaday.com/wp-content/uploads/2026/07/Artists_impression_of_the_super-Earth_exoplanet_LHS_1140b.jpg",
+      "publishedAt": "2026-07-20T11:00:00Z",
+      "content": "Finding another planet outside of our solar system that can comfortably be called ‘Earth-like’ is one of those discoveries that — if confirmed — would be a major event. The complication here is that … [+1469 chars]"
+    },
+    {
+      "source": {
+        "id": null,
         "name": "Skyatnightmagazine.com"
       },
       "author": "Iain Todd",
@@ -408,19 +447,6 @@
       "urlToImage": "https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/7c05fcb0-7a79-4c64-9752-81b63d70add8/4dd2cea3-96c5-4ed1-a8eb-0cfffa909928/thumbnails/ba3b47ea-02c1-4158-a3ea-682205f02064.jpg?w=1200",
       "publishedAt": "2026-07-20T08:25:52Z",
       "content": "NASA has released a mesmerising video showing images captured by a spacecraft as it flew past Mars.\r\nThe Psyche spacecraft is on its way to visit and study asteroid Psyche, which is located in the ma… [+5920 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "XDA Developers"
-      },
-      "author": "Mahnoor Faisal",
-      "title": "I added one line to my NotebookLM prompts, and the difference was immediate - XDA",
-      "description": "A line is all it takes",
-      "url": "https://www.xda-developers.com/i-added-one-line-to-my-notebooklm-prompts/",
-      "urlToImage": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/03/notebooklm-as-read-it-later-app.jpeg?w=1600&h=900&fit=crop",
-      "publishedAt": "2026-07-19T21:00:10Z",
-      "content": "NotebookLM is the one AI tool that's been a consistent part of my stack for a long, long time. And unlike the classic AI chatbot experience most people picture, NotebookLM works differently enough th… [+5533 chars]"
     }
   ]
 }

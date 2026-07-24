@@ -3,9 +3,35 @@
   "country": "us",
   "category": "technology",
   "mode": "country",
-  "fetched_at": "2026-07-23T22:42:28.949121+00:00",
-  "articles_count": 22,
+  "fetched_at": "2026-07-24T01:16:05.355713+00:00",
+  "articles_count": 11,
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "CNET"
+      },
+      "author": "Abrar Al-Heeti",
+      "title": "Samsung’s Galaxy Z Fold 8 Is for Everyone Who Can’t Stop Scrolling - CNET",
+      "description": "Samsung's book-style foldable could be better suited to the way we actually browse the internet and watch videos.",
+      "url": "https://www.cnet.com/tech/mobile/samsung-galaxy-z-fold-8-wide-design-social-media-scolling/",
+      "urlToImage": "https://www.cnet.com/wp-content/uploads/sites/2/samsung-galaxy-z-fold-8-unpacked-cnet-lanxon-17.jpg",
+      "publishedAt": "2026-07-22T22:45:00Z",
+      "content": "Samsung has finally made a book-style foldable that’s geared less toward productivity and more toward entertainment. It seems the company has realized that some of us just want a better way to scroll… [+9877 chars]"
+    },
+    {
+      "source": {
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "author": "Kyle Orland",
+      "title": "Microsoft brings original Xbox backward compatibility to Windows PCs - Ars Technica",
+      "description": "First four compatible titles can be run with an 11-year-old graphics card.",
+      "url": "https://arstechnica.com/gaming/2026/07/microsoft-brings-original-xbox-backward-compatibility-to-windows-pcs/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/xbprototype-1079x648.webp",
+      "publishedAt": "2026-07-22T20:36:19Z",
+      "content": null
+    },
     {
       "source": {
         "id": null,
@@ -34,107 +60,16 @@
     },
     {
       "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Aisha Malik",
-      "title": "Google is making it easier to switch from iPhone to Android - TechCrunch",
-      "description": "The new feature lets users wirelessly transfer more data types from an iPhone without needing to download a separate app.",
-      "url": "https://techcrunch.com/2026/07/22/google-is-making-it-easier-to-switch-from-iphone-to-android/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/07/Screenshot-2026-07-22-at-12.32.37-PM.png?resize=1200,669",
-      "publishedAt": "2026-07-22T17:08:03Z",
-      "content": "Google announced on Wednesday a new migration experience built directly into Android 17 that should ease the switch from iPhone to Android. The feature lets users wirelessly transfer more data types … [+769 chars]"
-    },
-    {
-      "source": {
-        "id": "ign",
-        "name": "IGN"
-      },
-      "author": "Jesse Schedeen",
-      "title": "Hasbro's The Legend of Zelda Figures Have Been Revealed, and They Look Amazing | Comic Con 2026 - IGN",
-      "description": "Hasbro is revealing its first wave of The Legend of Zelda: Heroes of Hyrule figures at Comic-Con, and we've got an exclusive first look at all three.",
-      "url": "https://www.ign.com/articles/hasbros-the-legend-of-zelda-figures-have-been-revealed-and-they-look-amazing-comic-con-2026",
-      "urlToImage": "https://assets-prd.ignimgs.com/2026/07/20/mixcollage-20-jul-2026-02-41-pm-3462-1784572914339.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "publishedAt": "2026-07-22T16:15:27Z",
-      "content": "Hasbro recently blew Nintendo fans' minds with the announcement that they've acquired the license for The Legend of Zelda games, opening the door to new figures of Link, Princess Zelda, and the rest … [+1773 chars]"
-    },
-    {
-      "source": {
         "id": "the-verge",
         "name": "The Verge"
       },
-      "author": "Tom Warren",
-      "title": "Microsoft is bringing original Xbox games to PC - The Verge",
-      "description": "Xbox backward compatibility for PC allows classic Xbox console games to officially run on Windows.",
-      "url": "https://www.theverge.com/news/969117/microsoft-xbox-games-pc-backward-compatibility",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/XBOX-Backward-Compatibility-on-PC.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-      "publishedAt": "2026-07-22T15:00:00Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nXbox backward compatibility for PC allows classic Xbox console games to officially run on Windows.\r\nXbox backward compatibility for PC allows classic Xbox consol… [+3698 chars]"
-    },
-    {
-      "source": {
-        "id": "bloomberg",
-        "name": "Bloomberg"
-      },
-      "author": "Mark Gurman",
-      "title": "Apple Plans Overhaul of MacBooks, iMac in Push to Meet AI Demand - Bloomberg.com",
-      "description": "Apple Inc. is readying an overhaul of its Mac line, seeking to capitalize on demand for powerful laptops and desktops fueled by the artificial intelligence boom.",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-22/apple-to-launch-new-macbook-air-imac-macbook-pro-neo-mac-mini-mac-studio",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iAitYCbebb1M/v2/1200x800.jpg",
-      "publishedAt": "2026-07-22T14:30:12Z",
-      "content": "Apple Inc. is readying an overhaul of its Mac line, seeking to capitalize on demand for powerful laptops and desktops fueled by the artificial intelligence boom. \r\nThe technology giant is preparing t… [+227 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "9to5Mac"
-      },
-      "author": "Ryan Christoffel",
-      "title": "WhatsApp launches Apple Music sharing, plus more - 9to5Mac",
-      "description": "WhatsApp has unveiled new features today, including support for sharing Apple Music activity to your WhatsApp Status and more.",
-      "url": "https://9to5mac.com/2026/07/22/whatsapp-launches-apple-music-sharing-plus-more/",
-      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/11/whatsapp-apple-music.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "publishedAt": "2026-07-22T13:59:00Z",
-      "content": "WhatsApp has announced a variety of new features today on its blog, including support for sharing Apple Music and Spotify activity to your WhatsApp Status, an iPad-focused account change, and more.\r\n… [+1185 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Warhammer-community.com"
-      },
-      "author": null,
-      "title": "Exodites in Warhammer 40,000 – See the full rules - Warhammer Community",
-      "description": "Dragon Knights get ready to skewer the competition.",
-      "url": "https://www.warhammer-community.com/articles/bauwdcyl/exodites-in-warhammer-40000-see-the-full-rules",
-      "urlToImage": "https://assets.warhammer-community.com/articles/0-2026/july/wc20-07/40k_exodites-jul22-1-feature-9vidj7dwqt.jpg",
-      "publishedAt": "2026-07-22T13:56:10Z",
-      "content": "© Copyright Games Workshop Limited 2026. GW, Games Workshop, Citadel, White Dwarf, Space Marine, 40K, Warhammer, Warhammer 40,000, the Aquila Double-headed Eagle logo, Warhammer Age of Sigmar, Battle… [+1391 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Wccftech"
-      },
-      "author": "Hassan Mujtaba",
-      "title": "AMD’s Zen 6 EPYC Venice Pictured as a 256-Core Monster, Massive Twin I/O Dies & First 2nm HPC Chip To Enter Volume Ramp - Wccftech",
-      "description": "AMD has showcased its next-generation EPYC Venice CPU at the Advancing AI event, featuring a phenomenal core count of 256 based on Zen 6.",
-      "url": "https://wccftech.com/amd-256-core-epyc-venice-behemoth-cpu-pictured-confirms-32-cores-per-zen-6-ccd/",
-      "urlToImage": "https://cdn.wccftech.com/wp-content/uploads/2026/07/AMD-EPYC-Venice-256-Core-Zen-6-CPU-_1.jpg",
-      "publishedAt": "2026-07-22T13:41:04Z",
-      "content": "AMD has showcased its next-generation EPYC Venice CPU at the Advancing AI event, featuring a phenomenal core count of 256 based on Zen 6.\r\nFor the next stream of data centers, CPUs are going to play … [+6985 chars]"
-    },
-    {
-      "source": {
-        "id": "wired",
-        "name": "Wired"
-      },
-      "author": "Julian Chokkattu",
-      "title": "Why Samsung Gave Its Next Folding Phone a New Shape - WIRED",
-      "description": "People spend hours watching videos on their smartphones. The wider, shorter, and lighter Galaxy Z Fold8 caters to exactly that.",
-      "url": "https://www.wired.com/story/why-samsung-gave-its-next-folding-phone-a-new-shape-galaxy-z-fold8/",
-      "urlToImage": "https://media.wired.com/photos/6a5fa7f914becfb4f5b6bf98/191:100/w_1280,c_limit/SamsungFlip.jpg",
-      "publishedAt": "2026-07-22T13:00:00Z",
-      "content": "A part of what might also help to make these devices more mainstream is the much talked about crease. Folding phones have an unavoidable crease in the middle where the hinge sits, and many have voice… [+2357 chars]"
+      "author": "Stevie Bonifield",
+      "title": "Apple is reportedly testing a MacBook Neo with more RAM - The Verge",
+      "description": "The MacBook Neo may be getting an upgrade with a new processor, more memory, and new colors, but Apple will also likely raise the price.",
+      "url": "https://www.theverge.com/tech/969434/apple-macbook-neo-a19-pro-ram-upgrade",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/268442_Apple_MacBook_Neo_competition_Lenovo_Acer_Asus_ADiBenedetto_0002.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2026-07-22T16:35:58Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nAn A19 Pro update is on the way for the MacBook Neo, plus OLED screens for some of Apples pricier laptops.\r\nAn A19 Pro update is on the way for the MacBook Neo, … [+2780 chars]"
     },
     {
       "source": {
@@ -165,19 +100,6 @@
     {
       "source": {
         "id": null,
-        "name": "Nintendo Life"
-      },
-      "author": "Nintendo Life",
-      "title": "Here's How Final Fantasy X On Switch 2 Compares To Switch 1 - nintendolife.com",
-      "description": "Plus some direct gameplay footage of X & X-2",
-      "url": "https://www.nintendolife.com/news/2026/07/heres-how-final-fantasy-x-on-switch-2-compares-to-switch-1",
-      "urlToImage": "https://images.nintendolife.com/689926a37b534/large.jpg",
-      "publishedAt": "2026-07-22T12:00:00Z",
-      "content": "Final Fantasy X | X-2 Remaster is about to launch on Switch 2 on 23rd July, and you might well have the same question that we did when it was announced a few weeks back: why?\r\nThe compilation already… [+2473 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "9to5Mac"
       },
       "author": "Ben Lovejoy",
@@ -191,93 +113,28 @@
     {
       "source": {
         "id": null,
-        "name": "MacRumors"
+        "name": "Nintendo Life"
       },
-      "author": "Hartley Charlton",
-      "title": "Foxconn Ramps Up Hiring as iPhone 18 Pro Enters Mass Production - MacRumors",
-      "description": "Apple's iPhone 18 Pro models have entered mass production and are now in a production ramp-up phase, according to China Securities News.   In a...",
-      "url": "https://www.macrumors.com/2026/07/22/iphone-18-pro-enters-mass-production/",
-      "urlToImage": "https://images.macrumors.com/t/GEiBu2iaA9GrrmRRMXVC3ULLfZo=/2500x/article-new/2026/01/Dynamic-Island-iPhone-18-Pro-Feature.jpg",
-      "publishedAt": "2026-07-22T11:16:23Z",
-      "content": "Apple's iPhone 18 Pro models have entered mass production and are now in a production ramp-up phase, according to China Securities News.\r\nIn a new report citing supply chain sources (via MyDrivers), … [+1983 chars]"
+      "author": "Nintendo Life",
+      "title": "Hasbro Shares Sneak Peek Of Its Official Legend Of Zelda Toy Line - nintendolife.com",
+      "description": "It will include multiple scale figures",
+      "url": "https://www.nintendolife.com/news/2026/07/hasbro-shares-sneak-peek-of-its-official-legend-of-zelda-toy-line",
+      "urlToImage": "https://images.nintendolife.com/d71f81edb2abc/large.jpg",
+      "publishedAt": "2026-07-22T00:35:00Z",
+      "content": "Image: Nintendo\r\nLast week, the entertainment company Hasbro announced it was teaming up with Nintendo to release a Legend of Zelda toy line. As we've already noted, his new multi-year collaboration … [+719 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Warhammer-community.com"
+        "name": "DC Rainmaker"
       },
-      "author": null,
-      "title": "Warhammer 40,000 July Update – what you need to know! - Warhammer Community",
-      "description": "Rules updates for your games.",
-      "url": "https://www.warhammer-community.com/articles/rgqanids/warhammer-40000-july-update-what-you-need-to-know",
-      "urlToImage": "https://assets.warhammer-community.com/articles/0-2026/july/wc20-07/40k_balanceupdate-jul22-1-feature-i6gy3p7he9.jpg",
-      "publishedAt": "2026-07-22T09:36:01Z",
-      "content": "© Copyright Games Workshop Limited 2026. GW, Games Workshop, Citadel, White Dwarf, Space Marine, 40K, Warhammer, Warhammer 40,000, the Aquila Double-headed Eagle logo, Warhammer Age of Sigmar, Battle… [+1391 chars]"
-    },
-    {
-      "source": {
-        "id": "mashable",
-        "name": "Mashable"
-      },
-      "author": "Samantha Mangino",
-      "title": "Garmin just launched the screen-free Cirqa Smart Band, and it looks a lot like Whoop - Mashable",
-      "description": "But unlike the Whoop, it's subscription-free.",
-      "url": "https://mashable.com/tech/garmin-cirqa-smart-band-launch-price-specs",
-      "urlToImage": "https://helios-i.mashable.com/imagery/articles/04ZaQ8AoqmluZf4uWBl9jfg/hero-image.fill.size_1200x675.v1784645134.png",
-      "publishedAt": "2026-07-22T09:17:25Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "9to5Mac"
-      },
-      "author": "Marcus Mendes",
-      "title": "Apple loses bid to overturn $634 million Masimo patent verdict, new trial also denied - 9to5Mac",
-      "description": "Apple’s requests to overturn a $634 million patent verdict and secure a new trial in its long-running legal battle with Masimo were denied.",
-      "url": "https://9to5mac.com/2026/07/21/apple-loses-bid-to-overturn-634-million-masimo-patent-verdict-new-trial-also-denied/",
-      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/02/apple-watch-health-sensors-blood-glucose.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "publishedAt": "2026-07-21T22:19:00Z",
-      "content": "Apples requests to overturn a $634 million patent verdict and secure a new trial in its long-running legal battle with Masimo were denied. Here are the details.\r\nIn early 2020, medical technology com… [+2936 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Forbes"
-      },
-      "author": "Ty Roush",
-      "title": "Nintendo Argues Consumers Are ‘Not Entitled’ To Tariff Refunds - Forbes",
-      "description": "The video game giant previously blamed “market conditions” for price hikes.",
-      "url": "https://www.forbes.com/sites/tylerroush/2026/07/21/nintendo-wont-pass-on-tariff-refunds-arguing-consumers-received-exactly-what-they-bargained-and-paid-for/",
-      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6a5fa9e7d2c8cfadf4edc775/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-      "publishedAt": "2026-07-21T17:20:52Z",
-      "content": "Nintendo argued consumers received exactly what they bargained and paid for after raising the price for its Switch 2 console, asking a court to dismiss a class-action lawsuit claiming the video game … [+3414 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "404media.co"
-      },
-      "author": "Joseph Cox",
-      "title": "Apple Fixes Hide My Email Vulnerability After 404 Media Coverage - 404 Media",
-      "description": "For a year, Apple knew that an issue in its Hide My Email feature was exposing customers’ real email addresses. Apple only fixed the issue after 404 Media covered it.",
-      "url": "https://www.404media.co/apple-fixes-hide-my-email-vulnerability-after-404-media-coverage/",
-      "urlToImage": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/07/chris-nagahama-vVhhfvVTerY-unsplash-2.jpg",
-      "publishedAt": "2026-07-21T15:24:03Z",
-      "content": "Apple says it has fixed a vulnerability in its Hide My Email feature which let essentially anyone figure out a users real email address which was supposed to be protected by the feature. Apple only f… [+3222 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Motor1 "
-      },
-      "author": "Jeff Perez",
-      "title": "Is This The New Dodge Charger SRT? - Motor1.com",
-      "description": "A video circulating on social media appears to show two Dodge Charger variants we haven't seen yet.",
-      "url": "https://www.motor1.com/news/802322/dodge-charger-srt-spy-video/",
-      "urlToImage": "https://cdn.motor1.com/images/mgl/W8K0Wj/s1/dodge-charger-srt-prototype-spied.jpg",
-      "publishedAt": "2026-07-21T15:04:00Z",
-      "content": "We already know a more powerful version of the Dodge Charger is coming; the only question is when. If this video circulating on Instagram is any indication, the answer could be sooner than expected.\r… [+2089 chars]"
+      "author": "Ray Maker",
+      "title": "Garmin Cirqa Hands-On: Everything You Need to Know! - DC Rainmaker",
+      "description": "Everything you need to know about the Garmin Cirqa screenless wearable, hands-on!",
+      "url": "https://www.dcrainmaker.com/2026/07/garmin-cirqa-everything-you-need-to-know.html",
+      "urlToImage": "https://media.dcrainmaker.com/images/2026/07/DSC07073-2-scaled.jpg",
+      "publishedAt": "2026-07-21T18:09:34Z",
+      "content": "After nearly a year of 100% incorrect rumor mill posts, Garmin Cirqa is finally here. About the only thing the rumors managed to get correct is the obvious: a screenless wearable. But the reality is,… [+34320 chars]"
     },
     {
       "source": {

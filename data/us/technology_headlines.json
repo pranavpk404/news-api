@@ -3,86 +3,151 @@
   "country": "us",
   "category": "technology",
   "mode": "country",
-  "fetched_at": "2026-07-28T22:45:48.076562+00:00",
-  "articles_count": 63,
+  "fetched_at": "2026-07-29T01:14:46.159287+00:00",
+  "articles_count": 60,
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Jordan Novet",
+      "title": "Microsoft touts cost-saving AI model for cybersecurity - CNBC",
+      "description": "Microsoft says that when integrated with OpenAI's GPT-5.4, its new cybersecurity model can beat Anthropic's new Mythos 5.",
+      "url": "https://www.cnbc.com/2026/07/27/microsoft-touts-cost-saving-ai-model-for-cybersecurity.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108340745-1785183915472-gettyimages-2272651611-gchanceo-2-4_mcfn9tsu.jpeg?v=1785184205&w=1920&h=1080",
+      "publishedAt": "2026-07-27T23:46:25Z",
+      "content": "Microsoft on Monday talked up a new artificial intelligence model for spotting cybersecurity vulnerabilities. The move marks the company's first major push to rejuvenate its cybersecurity business si… [+3529 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "GSMArena.com"
+      },
+      "author": "Vlad",
+      "title": "Samsung Galaxy S27 Pro and S27 Ultra battery capacities leak - GSMArena.com news - GSMArena.com",
+      "description": "Samsung may finally be adopting silicon carbon anodes for its flagship phones. A few days ago we heard some new details about the Galaxy S27 family's...",
+      "url": "https://www.gsmarena.com/samsung_galaxy_s27_pro_and_s27_ultra_battery_capacities_leak-news-73896.php",
+      "urlToImage": "https://fdn.gsmarena.com/imgroot/news/26/07/samsung-galaxy-s27-pro-s27-ultra-battery-capacities-leak/-952x498w6/gsmarena_000.jpg",
+      "publishedAt": "2026-07-27T23:31:02Z",
+      "content": "A few days ago we heard some new details about the Galaxy S27 family's cameras, and now the same source is back with information about the devices' batteries. It's good news, by the way.\r\nThe Galaxy … [+785 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gameinformer.com"
+      },
+      "author": "Marcus Stewart",
+      "title": "Update: Xbox Online Services Fully Restored After Hours-Long Outage - Game Informer",
+      "description": "Several online services, including playing digital games, are affected.",
+      "url": "https://gameinformer.com/2026/07/27/update-xbox-online-services-fully-restored-after-hours-long-outage",
+      "urlToImage": "https://gameinformer.com/sites/default/files/styles/thumbnail/public/2026/06/11/b14c2ec5/Xbox%20New%20Logo.jpg.webp",
+      "publishedAt": "2026-07-27T23:25:36Z",
+      "content": "Update, 7/27/26, 7:24 p.m.: After suffering an outage that began late yesterday evening, several Xbox online services have been restored according to the Xbox Status page. \r\nThe original story contin… [+1515 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Kotaku"
+      },
+      "author": "Ethan Gach",
+      "title": "Ex-BioWare Dev Explains Why He Thinks Dragon Age Is Basically Dead - Kotaku",
+      "description": "Hard to argue with that",
+      "url": "https://kotaku.com/ex-dragon-age-producer-calls-ea-a-hedge-fund-with-a-video-game-hobby-2000719579",
+      "urlToImage": "https://kotaku.com/app/uploads/2026/07/dragon-age.jpg",
+      "publishedAt": "2026-07-27T23:00:22Z",
+      "content": "Dragon Age: The Veilguard did not do well. The game did not sell the millions Electronic Arts wanted it to, BioWare was cut to the bone in the months that followed, and now the RPG powerhouse is a on… [+1636 chars]"
+    },
+    {
+      "source": {
+        "id": "polygon",
+        "name": "Polygon"
+      },
+      "author": "Giovanni Colantonio",
+      "title": "Nintendo just debuted maybe the hardest boss in its 136-year history - Polygon.com",
+      "description": "Splatoon Raiders' hardest boss fight is against a tiny villain, and the Splatoon community is loving it.",
+      "url": "https://www.polygon.com/splatoon-raiders-pudyin-den-smallfry-fight/",
+      "urlToImage": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/nintendoswitch2_splatoonraiders_screenshot_04.jpg?w=1600&h=900&fit=crop",
+      "publishedAt": "2026-07-27T22:00:12Z",
+      "content": "There arent many Nintendo villains that I truly fear. The kid-friendly nature of most Nintendo games means that even the toughest boss fights are still meant to be beaten. But after decades of playin… [+3071 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Kotaku"
+      },
+      "author": "Kenneth Shepard and John Walker",
+      "title": "A Pokémon Fan Explains Why He Set Up 58 Consoles Searching For A One-In-Nine-Million Shiny - Kotaku",
+      "description": "Shiny Golduck may not seem like anything special, but the math behind this one makes it near-impossible to find",
+      "url": "https://kotaku.com/pokemon-ruby-sapphire-shiny-hunt-golduck-gamecube-wii-2000719575",
+      "urlToImage": "https://kotaku.com/app/uploads/2026/07/HN5RmIcXIAAsoFT-1200x675.jpeg",
+      "publishedAt": "2026-07-27T21:07:53Z",
+      "content": "Sometimes a Pokémon fan goes to the ends of the earth to catch their favorite mon. Usually its because they admire that monster and want to add them to their collection as a symbol of pride. For Prof… [+5083 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Hollywood Reporter"
+      },
+      "author": "Aaron Couch",
+      "title": "‘Jay and Silent Bob’ Marijuana Farming Game in the Works - The Hollywood Reporter",
+      "description": "The newly launched indie company Nitrate Games is backing the project, described as an \"adult cozy farm sim.\"",
+      "url": "http://www.hollywoodreporter.com/movies/movie-news/jay-and-silent-bob-weed-farming-video-game-in-the-works-1236657425/",
+      "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2026/07/01_JSBJV_Hero_PR-e1785178947977.jpg?w=1440&h=810&crop=1",
+      "publishedAt": "2026-07-27T21:00:46Z",
+      "content": "Jay and Silent Bob are moving where the grass is greener. \r\nThe stoner icons played by Jason Mewes and Kevin Smith will star in a new video game called Jay and Silent Bob’s Joint Venture. Both men ha… [+1998 chars]"
+    },
     {
       "source": {
         "id": "ars-technica",
         "name": "Ars Technica"
       },
-      "author": "Eric Berger",
-      "title": "Experts warn current Starship heat shield tech is a \"dead end\" for rapid reuse - Ars Technica",
-      "description": "NASA has not made substantial investments in thermal protection research for decades.",
-      "url": "https://arstechnica.com/space/2026/07/despite-recent-successes-rapid-reuse-of-starship-remains-a-tough-nut-to-crack/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/heat-shield-streaks-1152x648.png",
-      "publishedAt": "2026-07-27T18:34:40Z",
+      "author": "Samuel Axon",
+      "title": "iOS and macOS 26.6 arrive today, paving the way for iOS and macOS 27 - Ars Technica",
+      "description": "These are likely the last updates of note before Apple's bigger fall updates.",
+      "url": "https://arstechnica.com/gadgets/2026/07/ios-and-macos-26-6-arrive-today-paving-the-way-for-ios-and-macos-27/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/macOS-26-6-update-1152x648-1785182231.jpg",
+      "publishedAt": "2026-07-27T20:32:45Z",
       "content": null
     },
     {
       "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
+        "id": "wired",
+        "name": "Wired"
       },
-      "author": "Lucas Ropek",
-      "title": "Microsoft launches its first cybersecurity model, plus a new agentic cybersecurity system - TechCrunch",
-      "description": "Microsoft bolstered its AI cybersecurity offerings this week with the launch of its first AI security model and a new security platform.",
-      "url": "https://techcrunch.com/2026/07/27/microsoft-launches-its-first-cyber-model-and-a-new-agentic-cybersecurity-system/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/07/IMG_4458.jpeg?resize=1200,900",
-      "publishedAt": "2026-07-27T18:32:11Z",
-      "content": "Microsoft on Monday launched its first cybersecurity-specialized model alongside a new AI cybersecurity platform at a small event in San Francisco, taking a big swipe at major players in the space na… [+2950 chars]"
+      "author": "Maddy Varner",
+      "title": "Private Claude Chats Exposed in Google and Bing Search Results - WIRED",
+      "description": "The screwup shows how tricky it can be to stop web crawlers from making ostensibly private conversations with AI chatbots entirely too public.",
+      "url": "https://www.wired.com/story/private-claude-chats-exposed-in-google-and-bing-search-results/",
+      "urlToImage": "https://media.wired.com/photos/6a6786cb3d9ebc5f1410adf5/191:100/w_1280,c_limit/Security_Google%20Search%20Screw-Up%20Exposed%20Private%20Claude%20Chats_v1.jpg",
+      "publishedAt": "2026-07-27T20:08:00Z",
+      "content": "What happens between you and an AI chatbot does not always stay between you and a chatbot. Just ask Google.\r\nOver the weekend, people were surprised to discover that some AnthropicClaude chats could … [+3538 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Sheena Vasani",
+      "title": "Nanoleaf’s colorful pegboard and shelf kit is half off - The Verge",
+      "description": "Nanoleaf’s Blocks Combo XL Smarter Kit is on sale for a new low of $99.99 ($100 off). The modular smart lights also include a shelf and pegboard.",
+      "url": "https://www.theverge.com/gadgets/971535/nanoleaf-blocks-combo-xl-deal-sale",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/Nanoleaf-Blocks-Combo-XL-Smarter-Kit-Lifestyle-Press-Image.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2026-07-27T19:24:55Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nIt can hold everything from headphones to notebooks while rocking your favorite colors.\r\nIt can hold everything from headphones to notebooks while rocking your f… [+2712 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "MacRumors"
+        "name": "Kotaku"
       },
-      "author": "Juli Clover",
-      "title": "Apple Releases iOS 26.6 and iPadOS 26.6 With iOS 27 Optimizations - MacRumors",
-      "description": "Apple today released iOS 26.6 and iPadOS 26.6, updates to the iOS and iPadOS 26 operating systems that came out in September. iOS 26.6 comes a month...",
-      "url": "https://www.macrumors.com/2026/07/27/apple-releases-ios-26-6/",
-      "urlToImage": "https://images.macrumors.com/t/RzJYGwPST2fim75_lRKrQt8RKw8=/2500x/article-new/2026/05/iOS-26.6-Glass-Feature.jpg",
-      "publishedAt": "2026-07-27T17:27:06Z",
-      "content": "Apple today released iOS 26.6 and iPadOS 26.6, updates to the iOS and iPadOS 26 operating systems that came out in September. iOS 26.6 comes a month after the launch of iOS 26.5.2, a security update.… [+524 chars]"
-    },
-    {
-      "source": {
-        "id": "fortune",
-        "name": "Fortune"
-      },
-      "author": "Beatrice Nolan",
-      "title": "Users’ seemingly private conversations with Anthropic’s Claude showed up in Google search results - Fortune",
-      "description": "The topics of the chats, which seem to have been inadvertently exposed, ranged from erotica to programming chats to work notes to fake book reviews.",
-      "url": "https://fortune.com/2026/07/27/a-trove-of-users-seemingly-private-conversations-with-anthropics-claude-ai-chatbot-showed-up-in-google-search-results/",
-      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/07/GettyImages-2280291466-e1785169611667.jpg?resize=1200,600",
-      "publishedAt": "2026-07-27T17:20:00Z",
-      "content": "A trove of seemingly private conversations with Anthropics Claude chatbot turned up in public Google search results last weekend. Some of the conversations reportedly included sensitive information l… [+3141 chars]"
-    },
-    {
-      "source": {
-        "id": "usa-today",
-        "name": "USA Today"
-      },
-      "author": "Kate Tully Ellsworth",
-      "title": "The 'it' toy for Christmas 2026 dropped today (and it'll probably sell out soon) - USA Today",
-      "description": "The Toniebox Lite just launched, offering a smaller and cheaper way for kids to enjoy screen-free entertainment from their favorite characters.",
-      "url": "https://www.usatoday.com/story/shopping/parenting/2026/07/27/kids-are-obsessed-with-the-toniebox-and-it-just-got-smaller-and-cheaper/91063319007/",
-      "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/07/27/USAT/91064996007-coasters-5-6-x-4-in.png?crop=1799,1012,x0,y0&width=1799&height=1012&format=pjpg&auto=webp",
-      "publishedAt": "2026-07-27T16:59:00Z",
-      "content": "If you've stepped foot in a Target in the past few years, odds are you've seen the Tonie aisle, which features a prominent wall of cartoon characters and recognizable children's figures like Moana an… [+4892 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Techpowerup.com"
-      },
-      "author": null,
-      "title": "Xbox Outage Locks Players out of Games and Accounts for Over 12 Hours - TechPowerUp",
-      "description": "Following a similar story relating to PlayStation Account server errors just a few days prior, on the launch of the Marvel Tōkon: Fighting Souls beta, Xbox has seemingly run into issues during the advanced access launch of Halo: Campaign Evolved. The resultin…",
-      "url": "https://www.techpowerup.com/351116/xbox-outage-locks-players-out-of-games-and-accounts-for-over-12-hours",
-      "urlToImage": "https://www.techpowerup.com/img/qbh6tz57Jax4HMu7.jpg",
-      "publishedAt": "2026-07-27T16:58:42Z",
-      "content": "This should only take a few seconds. If you have issues, please do contact us, we want to learn about any problems.\r\nDrag the handle to the target\r\nNeed help? Contact Us. Please mention your IP: 24.2… [+8 chars]"
+      "author": "Ethan Gach",
+      "title": "The Week In Games: Halo And Xenoblade Chronicles 2 Get Prettier - Kotaku",
+      "description": "Master Chief and Red finally have something in common",
+      "url": "https://kotaku.com/the-week-in-games-halo-and-xenoblade-chronicles-2-get-prettier-2000719514",
+      "urlToImage": "https://kotaku.com/app/uploads/2026/07/halo-1200x675.jpg",
+      "publishedAt": "2026-07-27T19:00:40Z",
+      "content": "It’s the summer of glow-ups. The latest games to receive visual updates are Halo: Campaign Evolved and Xenoblade Chronicles 2 via the Switch 2 upgrade. One charged $20 for early access and the other … [+1821 chars]"
     },
     {
       "source": {
@@ -126,19 +191,6 @@
     {
       "source": {
         "id": null,
-        "name": "CNET"
-      },
-      "author": "Matt Elliott",
-      "title": "The 34-Hour Laptop Is Here. Here’s Why Battery Life Has Exploded in Recent Years - CNET",
-      "description": "We’ve tracked laptop battery performance for decades, and we’ve never seen a jump like this. Here’s why you can ditch your charger for longer, and which laptops go the distance.",
-      "url": "https://www.cnet.com/tech/computing/why-laptop-battery-life-has-exploded-in-recent-years/",
-      "urlToImage": "https://www.cnet.com/wp-content/uploads/sites/2/labs-exclusive-laptop-battery-life.png",
-      "publishedAt": "2026-07-27T16:24:00Z",
-      "content": "Laptop performance ticks up with each new generation of processor. Generally speaking, you can expect this years laptops to be incrementally faster than those of the year before. With a new laptop, t… [+13919 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "Eurogamer.net"
       },
       "author": "Connor Makar",
@@ -148,32 +200,6 @@
       "urlToImage": "https://assetsio.gnwcdn.com/grand-theft-auto-6-drinking.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "publishedAt": "2026-07-27T16:01:25Z",
       "content": "Rockstar Games co-founder Dan Houser and longtime Rockstar writer Lazlow Jones have chipped in on the physical video games debate.\r\nThis topic has been raging ever since Rockstar Games announced Gran… [+1862 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Kotaku"
-      },
-      "author": "Kenneth Shepard",
-      "title": "Nintendo Of America’s Original Pokémon Pitch From E3 1998 Is Wild To Watch Nearly 30 Years Later - Kotaku",
-      "description": "The series was already a hit in Japan, but Nintendo still had to convince Americans",
-      "url": "https://kotaku.com/pokemon-e3-1998-reveal-announcement-nintendo-america-2000719502",
-      "urlToImage": "https://kotaku.com/app/uploads/2026/07/ash-1200x675.jpg",
-      "publishedAt": "2026-07-27T16:00:54Z",
-      "content": "Its always fascinating to see how differently the Pokémon series has presented itself over the years. The 30-year-old franchise has lived through multiple handheld and console generations, decades of… [+3132 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Lauren Forristal",
-      "title": "This $9 key physically locks your most addictive apps - TechCrunch",
-      "description": "This $9 NFC key requires you to physically scan it to unlock distracting apps on your phone.",
-      "url": "https://techcrunch.com/2026/07/27/this-9-key-physically-locks-your-most-addictive-apps/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/07/AutonomousKey1.jpeg?w=1200",
-      "publishedAt": "2026-07-27T15:25:37Z",
-      "content": "Screen-time apps aren’t effective for many people because, in the end, they depend on your willpower. They remind you to stop scrolling or let you set timers, but such notifications can be easy to ig… [+2828 chars]"
     },
     {
       "source": {
@@ -203,19 +229,6 @@
     },
     {
       "source": {
-        "id": "ars-technica",
-        "name": "Ars Technica"
-      },
-      "author": "Andrew Cunningham",
-      "title": "Framework Laptop 13 Pro review: Much better battery, much worse price - Ars Technica",
-      "description": "Framework's latest modular laptop trades one set of problems for another.",
-      "url": "https://arstechnica.com/gadgets/2026/07/framework-laptop-13-pro-review-much-better-battery-much-worse-price/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/IMG_8936-1-1152x648-1785150222.jpeg",
-      "publishedAt": "2026-07-27T15:02:45Z",
-      "content": null
-    },
-    {
-      "source": {
         "id": null,
         "name": "Xbox.com"
       },
@@ -226,6 +239,32 @@
       "urlToImage": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/07/X_16_9_Card_1920x1080-1-6abc8a4e6baeb7b4e4cd.jpg",
       "publishedAt": "2026-07-27T15:00:21Z",
       "content": "Ubisoft and XBOX are expanding their partnership with two big updates coming today, July 21: the addition of premium editions and selected add-on content for a wide range of Ubisoft titles for XBOX o… [+2604 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Phoronix"
+      },
+      "author": null,
+      "title": "Framework Laptop 13 Pro: Aiming To Be One Of The Best Upgradeable Linux Laptops Review - Phoronix",
+      "description": "Back in April, Framework Computer announced the Framework Laptop 13 Pro as a ground-up re-design of their modular/upgradeable laptop.",
+      "url": "https://www.phoronix.com/review/framework-laptop-13-pro",
+      "urlToImage": "https://www.phoronix.net/image.php?id=framework-laptop-13-pro&image=framework_13pro_1",
+      "publishedAt": "2026-07-27T15:00:00Z",
+      "content": "Back in April, Framework Computer announced the Framework Laptop 13 Pro as a ground-up re-design of their modular/upgradeable laptop. This new Framework Laptop 13 Pro features a much larger battery (… [+4982 chars]"
+    },
+    {
+      "source": {
+        "id": "polygon",
+        "name": "Polygon"
+      },
+      "author": "Willa Rowe",
+      "title": "Final Fantasy producer explains why future remakes are a difficult challenge - Polygon.com",
+      "description": "The Final Fantasy 14 and 16 producer thinks past games in Square Enix's series may be too big for the remake treatment",
+      "url": "https://www.polygon.com/final-fantasy-remakes-would-take-even-more-games-than-7-naoki-yoshida/",
+      "urlToImage": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/25356619/aerithsky.jpg?w=1600&h=900&fit=crop",
+      "publishedAt": "2026-07-27T14:54:14Z",
+      "content": "Don't expect more Final Fantasy 7-level remakes for other entries in Square Enix's legendary role-playing game series anytime soon. At least that's what Final Fantasy 14 producer Naoki Yoshida seems … [+2331 chars]"
     },
     {
       "source": {
@@ -243,15 +282,15 @@
     {
       "source": {
         "id": null,
-        "name": "9to5google.com"
+        "name": "Eurogamer.net"
       },
-      "author": "Damien Wilde",
-      "title": "Aviate, Android’s answer to Flighty, is now available to download - 9to5Google",
-      "description": "Aviate, the flight tracking application that aims to be a full rebuttal to iPhone's Flighty tracker, is now officially available on Android.",
-      "url": "http://9to5google.com/2026/07/27/aviate-androids-answer-to-flighty-is-now-available-to-download/",
-      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/07/Avita-for-Android-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "publishedAt": "2026-07-27T14:44:00Z",
-      "content": "After a limited alpha testing phase, Aviate, the flight tracking application that aims to be a full rebuttal to iPhone’s Flighty tracker, is now officially available on Android.\r\nAfter a short pre-re… [+2305 chars]"
+      "author": "Fran Ruiz",
+      "title": "Baldur's Gate 3 players on PC can't decide if the latest third-person camera mod is a revelation or a crime against Larian's original vision - Eurogamer.net",
+      "description": "A new cinematic third-person camera mod for Baldur's Gate 3 is sparking debate among fans of Larian Studios' massive RPG.",
+      "url": "https://www.eurogamer.net/baldurs-gate-3-true-third-person-camera-mod",
+      "urlToImage": "https://assetsio.gnwcdn.com/Lae'zel-third-person-camera-BG3-screenshot.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "publishedAt": "2026-07-27T14:46:46Z",
+      "content": "The discussion of whether Baldur's Gate 3 needs an actual third-person camera mode or not is ongoing, but with Larian now focused on Divinity, modders keep putting out modifications that try to deliv… [+2431 chars]"
     },
     {
       "source": {
@@ -321,15 +360,15 @@
     {
       "source": {
         "id": null,
-        "name": "Yahoo Entertainment"
+        "name": "RadioTimes"
       },
-      "author": "Kim Lyons",
-      "title": "Apple is reportedly worried about smart glasses, too - Yahoo Tech",
-      "description": "Apple is delaying its smart glasses as it tries to distance itself from the ick factor that Meta Glasses have developed.",
-      "url": "https://tech.yahoo.com/wearables/article/apple-is-reportedly-worried-about-smart-glasses-too-135710319.html",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/c70b16f6119c14d7b4ab96ffd23b600b50297624c01caa272c0ceef6c2e6fddc/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-07%2F6a7c1df0-2723-46cd-aabf-c7affef27ea4",
-      "publishedAt": "2026-07-27T13:57:10Z",
-      "content": "Apple will launch its long-awaited smart glasses at the 2027 Worldwide Developers Conference, with wider release planned by the end of next year, Bloomberg's Mark Gurman reports.\r\nPreviously, the com… [+3119 chars]"
+      "author": "Alex Raisbeck",
+      "title": "Yoshi-P says his approach to development on FF14 \"hasn't really changed\" since A Realm Reborn - Radio Times",
+      "description": "If it ain't broke.",
+      "url": "https://www.radiotimes.com/technology/gaming/ff14-yoshi-p-approach-hasnt-really-changed-since-a-realm-reborn-newsupdate/",
+      "urlToImage": "https://images.immediate.co.uk/production/volatile/sites/3/2026/07/ff14-yoshi-p-approach-to-development-newsupdate-554d3ab.jpg?resize=1200%2C630",
+      "publishedAt": "2026-07-27T13:30:07Z",
+      "content": "13 years on from the relaunch of Final Fantasy XIV with A Realm Reborn, Yoshi-P claims that he hasn't changed much about the way he develops new content.\r\nIn a press conference at the recent Berlin F… [+2305 chars]"
     },
     {
       "source": {
@@ -360,6 +399,19 @@
     {
       "source": {
         "id": null,
+        "name": "PlayStation LifeStyle"
+      },
+      "author": "Zarmena Khan",
+      "title": "PlayStation Plus August 2026 Free Game Revealed Early - PlayStation LifeStyle",
+      "description": "In case you missed it, Sony has already confirmed a PS Plus Essential August 2026 game for the PS5. Here's all you need to know.",
+      "url": "https://www.playstationlifestyle.net/2026/07/27/ps-plus-essential-august-2026-free-game-revealed-early/",
+      "urlToImage": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/07/ps-plus-august.jpg?resize=1200,630",
+      "publishedAt": "2026-07-27T12:02:11Z",
+      "content": "In case you missed it, Sony has already confirmed a PS Plus Essential August 2026 game for the PS5. Included in Februarys PlayStation State of Play was the announcement that Untitled Goose Game creat… [+948 chars]"
+    },
+    {
+      "source": {
+        "id": null,
         "name": "Warhammer-community.com"
       },
       "author": null,
@@ -373,15 +425,15 @@
     {
       "source": {
         "id": null,
-        "name": "Eurogamer.net"
+        "name": "BGR"
       },
-      "author": "Dom Peppiatt",
-      "title": "\"4 or maybe even 5 instalments\" If you want Remakes of older Final Fantasy games, prepare for them to be even bigger than the FF7 Remake trilogy - Eurogamer.net",
-      "description": "Final Fantasy 14's Naoki 'Yoshi-P' Yoshida has been thinking out loud about what future remakes could look like in the FF series.",
-      "url": "https://www.eurogamer.net/final-fantasy-remakes-multiple-installments-hamaguchi-yoshida",
-      "urlToImage": "https://assetsio.gnwcdn.com/ff7-r-ff-6.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "publishedAt": "2026-07-27T11:44:46Z",
-      "content": "This weekend, Final Fantasy fans from around the world converged at an exhibition centre in Berlin, celebrating the massive Final Fantasy 14 Fan Fest. It was an interesting celebration; not only was … [+3118 chars]"
+      "author": "Jonathan Sayers",
+      "title": "Garmin Cirqa Vs. Whoop: Which Screen-Less Fitness Tracker Should You Buy? - bgr.com",
+      "description": "Choosing between Garmin Cirqa and Whoop means weighing subscriptions, health insights, battery life, and tracking performance before you buy.",
+      "url": "https://www.bgr.com/2223806/garmin-cirqa-vs-whoop-which-to-buy/",
+      "urlToImage": "https://www.bgr.com/img/gallery/garmin-cirqa-vs-whoop-which-screen-less-fitness-tracker-should-you-buy/l-intro-1785149111.jpg",
+      "publishedAt": "2026-07-27T11:10:00Z",
+      "content": "Unlike Whoop, the Garmin Cirqa provides a lot of its functionality without the need for a monthly or annual subscription. For the price of $199.99, you get the Cirqa band and access to detailed activ… [+1321 chars]"
     },
     {
       "source": {
@@ -398,19 +450,6 @@
     },
     {
       "source": {
-        "id": "nbc-news",
-        "name": "NBC News"
-      },
-      "author": "Bethany Heitman",
-      "title": "You can get this highly-rated robot vacuum for 55% off for a limited time only - NBC News",
-      "description": "Amazon just discounted the Lefant M210 robot vacuum by 55%, dropping the price to under $100. Here’s what to know about this budget-friendly pick.",
-      "url": "https://www.nbcnews.com/select/shopping/lefant-robot-vacuum-deal-of-the-day-2026-rcna589264",
-      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-07/Screenshot-2026-07-25-at-8-8d0a0d.png",
-      "publishedAt": "2026-07-27T11:00:40Z",
-      "content": "Robot vacuums are a handy way to clean your floors when you dont have a lot of time but they also have a reputation for costing a small fortune. This Amazon deal proves that isnt always the case. Rig… [+1833 chars]"
-    },
-    {
-      "source": {
         "id": null,
         "name": "Insider-gaming.com"
       },
@@ -421,6 +460,19 @@
       "urlToImage": "https://insider-gaming.com/wp-content/uploads/2026/07/far-cry-kodiak.jpg",
       "publishedAt": "2026-07-27T10:54:29Z",
       "content": "A new game in the FAR CRY universe has passed its conception stage at Ubisoft and has entered development at Vantage Studios.\r\nThe new game comes in the wake of issues surrounding another FAR CRY gam… [+1996 chars]"
+    },
+    {
+      "source": {
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "author": "Ashley Belanger",
+      "title": "Artist sues AI meme generator for selling deeply personal comic as ad template - Ars Technica",
+      "description": "Meme generator may have screwed up by using templates in outputs, expert says.",
+      "url": "https://arstechnica.com/tech-policy/2026/07/artist-sues-ai-meme-generator-for-selling-deeply-personal-comic-as-ad-template/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/comictest-1152x648-1784918491.jpg",
+      "publishedAt": "2026-07-27T10:50:37Z",
+      "content": null
     },
     {
       "source": {
@@ -464,145 +516,15 @@
     {
       "source": {
         "id": null,
-        "name": "Insider-gaming.com"
+        "name": "OregonLive"
       },
-      "author": "Andrew Highton",
-      "title": "Final Fantasy 17 Development Teased by Square Enix Director - Insider Gaming",
-      "description": "It's probably a case of when, not if, for Final Fantasy 17, but Square Enix Director Yoshi-P has name-dropped the inevitable sequel.",
-      "url": "https://insider-gaming.com/final-fantasy-17-development-teased-square-enix-director/",
-      "urlToImage": "https://insider-gaming.com/wp-content/uploads/2025/09/Final-Fantasy-Xbox-Switch.jpg",
-      "publishedAt": "2026-07-27T10:15:11Z",
-      "content": "Square Enix is knee-deep in various projects, but one of them could also be Final Fantasy 17. In a light-hearted back-and-forth on stage with fellow Final Fantasy director Naoki Hamaguchi, Naoki Yosh… [+2503 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "404media.co"
-      },
-      "author": "Janus Rose",
-      "title": "Being a Luddite Is Fun Again - 404 Media",
-      "description": "As tech backlash hits the mainstream, the ‘Summer of Ludd’ proves we don’t need social media to hang out and have a good time.",
-      "url": "https://www.404media.co/luddite-events-nyc-off-tech-summer-of-ludd/",
-      "urlToImage": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/07/signal-2026-07-07-22-55-36-911_004.jpg",
-      "publishedAt": "2026-07-27T10:01:35Z",
-      "content": "Im marching across Lower Manhattan in the middle of a heatwave with a friendly mob of Luddite gnomes, and there isnt a phone in sight.\r\nIts Fourth of July weekend in New York City, and the brutal tem… [+15724 chars]"
-    },
-    {
-      "source": {
-        "id": "bloomberg",
-        "name": "Bloomberg"
-      },
-      "author": "Chris Welch",
-      "title": "Samsung’s Galaxy Z Fold 8 ‘Passport’ Design Is the Next Big Smartphone Trend - Bloomberg.com",
-      "description": "Between the Fold 8 and Apple’s first folding iPhone, US consumers are about to see a lot more of this shorter, wider shape.",
-      "url": "https://www.bloomberg.com/news/features/2026-07-27/samsung-galaxy-z-fold-8-review-foldable-model-to-compete-with-google-apple",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/icZt569QRE28/v1/1200x800.jpg",
-      "publishedAt": "2026-07-27T10:00:27Z",
-      "content": "Samsung Electronics Co.s newest foldable, the Galaxy Z Fold 8, offers a taste of the next big trend in smartphone design: It has a shorter, wider build, similar to a passport, with screen dimensions … [+429 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Pure Xbox"
-      },
-      "author": "Pure Xbox",
-      "title": "Halo: Campaign Evolved Legendary Ending Teases A Halo 2 Remake Is On The Way - Pure Xbox",
-      "description": "*Minor Spoiler Warning*",
-      "url": "https://www.purexbox.com/news/2026/07/halo-campaign-evolved-legendary-ending-teases-a-halo-2-remake-is-on-the-way",
-      "urlToImage": "https://images.purexbox.com/4c7a941295b81/large.jpg",
-      "publishedAt": "2026-07-27T10:00:00Z",
-      "content": "Halo Studios has teased that a remake of Halo 2 is coming, and they've done it in the best possible way.\r\nBack in 2001, players who managed to complete the final mission of Halo: Combat Evolved on Le… [+1495 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Dominic-Madori Davis",
-      "title": "Europe got its own TBPN-style live show, and everyone’s angling for a guest spot - TechCrunch",
-      "description": "On Monday, the network announced a $1.6 million seed round from top players in the media ecosystem, including Powerhouse Capital, Axel Springer SE (which owns Business Insider and Politico), the popular media publication LADbible, and angel investors from Ope…",
-      "url": "https://techcrunch.com/2026/07/27/europe-got-its-own-tbpn-style-live-show-and-its-already-a-hot-spot-on-a-press-tour/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/07/ETN.jpg?resize=1200,800",
-      "publishedAt": "2026-07-27T10:00:00Z",
-      "content": "The European answer to TBPN is here and ready to go live five days a week, starting July 27. \r\nLuke Knight and Ronan Chambers launched the London-based European Technology Network (ETN) last October,… [+6456 chars]"
-    },
-    {
-      "source": {
-        "id": "ign",
-        "name": "IGN"
-      },
-      "author": "Wesley Yin-Poole",
-      "title": "Baldur's Gate 3 True Third-Person Camera Mod Goes Viral, Sparks Debate About Whether It Erases the Game's Identity - IGN",
-      "description": "Baldur’s Gate 3 might be three years old, but it’s still the subject of much debate — and many new mods. One mod in particular has gone viral, leading some fans to say developer Larian should keep it in mind for its future games. Others, though, believe using…",
-      "url": "https://www.ign.com/articles/baldurs-gate-3-true-third-person-camera-mod-goes-viral-sparks-debate-about-whether-it-erases-the-games-identity",
-      "urlToImage": "https://assets-prd.ignimgs.com/2026/07/27/bg3-1785145978983.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "publishedAt": "2026-07-27T09:39:04Z",
-      "content": "Baldurs Gate 3 might be three years old, but its still the subject of much debate and many new mods. One mod in particular has gone viral, leading some fans to say developer Larian should keep it in … [+6613 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Wccftech"
-      },
-      "author": "Francesco De Meo",
-      "title": "Square Enix Attempts The Impossible With Final Fantasy VII Revelation, As It Improves Rebirth’s “Perfect” Battle System For Part 3 - Wccftech",
-      "description": "Final Fantasy VII Revelation will attempt to do the impossible, and enhance Final Fantasy VII Rebirth perfect combat system",
-      "url": "https://wccftech.com/square-enix-attempts-impossible-final-fantasy-vii-revelation-improves-rebirths-perfect-combat/",
-      "urlToImage": "https://cdn.wccftech.com/wp-content/uploads/2026/07/Final-Fantasy-VII-Revelation-Improves-Rebirth-Perfect-Combat-System-1920x1080.jpg",
-      "publishedAt": "2026-07-27T09:37:20Z",
-      "content": "With Final Fantasy VII Rebirth, director Naoki Hamaguchi and his development team took everything that made Final Fantasy VII Remake great and upped it to eleven to deliver one of the best entries in… [+3805 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "lehighvalleylive.com"
-      },
-      "author": "Lehighvalleylive.com",
-      "title": "Best Buy just locked up exclusive rights to the TVs it's calling the biggest upgrade in years - Lehighvalleylive.com",
+      "author": "OregonLive.com",
+      "title": "Best Buy just became the only major retailer selling the most exciting new TV technology in over a decade - OregonLive.com",
       "description": null,
-      "url": "https://www.lehighvalleylive.com/business/2026/07/best-buy-just-became-the-only-major-retailer-selling-the-most-exciting-new-tv-technology-in-over-a-decade.html",
+      "url": "https://www.oregonlive.com/business/2026/07/best-buy-just-became-the-only-major-retailer-selling-the-most-exciting-new-tv-technology-in-over-a-decade.html",
       "urlToImage": null,
       "publishedAt": "2026-07-27T09:15:00Z",
       "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Video Games Chronicle"
-      },
-      "author": "Chris Scullion",
-      "title": "Dragon Age series producer says he doesn’t see it returning because of EA’s greenlighting process - Video Games Chronicle",
-      "description": "Mark Darrah says people who pitch existing IP are often \"ripped apart\" by others",
-      "url": "https://www.videogameschronicle.com/news/dragon-age-series-producer-says-he-doesnt-see-it-returning-because-of-eas-greenlighting-process/",
-      "urlToImage": "https://www.videogameschronicle.com/files/2024/10/dragon-age.jpg",
-      "publishedAt": "2026-07-27T09:12:08Z",
-      "content": "Bioware veteran and Dragon Age series producer Mark Darrah says he doesn’t see another Dragon Age game coming any time soon.\r\nIn an interview with FRVR, Darrah who was at BioWare for 23 years and was… [+2505 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Windows Central"
-      },
-      "author": "Jez Corden",
-      "title": "PS5 makes a mockery of Xbox's multi-plat push with God of War launch date - Windows Central",
-      "description": "Sony confirms a tentpole exclusive will go head to head with Xbox's own contribution to PS5, reminding Xbox players that they're getting less.",
-      "url": "https://www.windowscentral.com/gaming/xbox/playstation-makes-a-mockery-of-xboxs-multi-plat-push-by-dropping-god-of-war-one-day-before-fable",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/R5KNLtZ7gRtBG8x9LPuKec-1721-80.jpg",
-      "publishedAt": "2026-07-27T09:00:00Z",
-      "content": "Xbox players have been begging Microsoft for years to give it AAA tentpole games on par with what PS5 players have historically gotten, and right at the finish line, Microsoft said \"nah.\"\r\nTime for a… [+5461 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Eurogamer.net"
-      },
-      "author": "Connor Makar",
-      "title": "A fantastic-looking teaser trailer for a new Myst game has been released, though tragically we'll never get to actually play it - Eurogamer.net",
-      "description": "Cyan development director Hannah Gamiel and creative director Eric A. Anderson show us a delicious meal we'll never eat.",
-      "url": "https://www.eurogamer.net/new-myst-game-cancelled-trailer-sad",
-      "urlToImage": "https://assetsio.gnwcdn.com/project-anglerfish-screenshot.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "publishedAt": "2026-07-27T08:56:20Z",
-      "content": "Good news, puzzle lovers! A new teaser for a Myst game has been released online. Bad news, puzzle lovers! You'll never get to play it: the game is cancelled.\r\nIn a new video released on the Cyan YouT… [+1385 chars]"
     },
     {
       "source": {
@@ -620,67 +542,93 @@
     {
       "source": {
         "id": null,
-        "name": "SlashGear"
+        "name": "Gematsu"
       },
-      "author": "Mike Garrett",
-      "title": "5 Car Brands Aiming To Bring Back Rear-Wheel Drive Sedans - SlashGear",
-      "description": "Automakers confirmed to be bringing back rear-wheel drive sedans include Buick and Cadillac, while Ford, Nissan, and Mazda may also be doing so.",
-      "url": "https://www.slashgear.com/2222318/car-brands-planning-rear-wheel-drive-sedans/",
-      "urlToImage": "https://www.slashgear.com/img/gallery/5-car-brands-aiming-to-bring-back-rear-wheel-drive-sedans/l-intro-1784878715.jpg",
-      "publishedAt": "2026-07-27T04:45:00Z",
-      "content": "Mazda is a brand that's well regarded by car enthusiasts, with the lovable and iconic MX-5 Miata considered one of the world's most enjoyable sports cars. When it comes to sedans, though, Mazda's cur… [+1036 chars]"
+      "author": "Sal Romano",
+      "title": "This Week’s Japanese Game Releases: Halo: Campaign Evolved, Village in the Shade, more - Gematsu",
+      "description": "Halo: Campaign Evolved for PlayStation 5, Xbox Series, and PC, and Village in the Shade for PlayStation 5, Switch 2, Switch, and PC are the highlights of this week’s Japanese video game relea…",
+      "url": "https://www.gematsu.com/2026/07/this-weeks-japanese-game-releases-halo-campaign-evolved-village-in-the-shade-more",
+      "urlToImage": "https://www.gematsu.com/wp-content/uploads/2026/07/Weekly-Japanese-Game-Releases_07-26-26.jpg",
+      "publishedAt": "2026-07-27T03:26:58Z",
+      "content": "Halo: Campaign Evolved for PlayStation 5, Xbox Series, and PC, and Village in the Shade for PlayStation 5, Switch 2, Switch, and PC are the highlights of this week’s Japanese video game releases. \r\nA… [+6295 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Push Square"
+        "name": "Digital Trends"
       },
-      "author": "Push Square",
-      "title": "First PS Plus Essential Game for August 2026 Already Confirmed - Push Square",
-      "description": "Full lineup this Wednesday",
-      "url": "https://www.pushsquare.com/news/2026/07/first-ps-plus-essential-game-for-august-2026-already-confirmed",
-      "urlToImage": "https://images.pushsquare.com/15fa235267d73/large.jpg",
-      "publishedAt": "2026-07-27T04:15:47Z",
-      "content": "Update [Mon 27th Jul 2026, 11:45am]: With the lineup of PS Plus Essential games for August 2026 set to be announced this Wednesday afternoon, I'm bringing this article back as a reminder that we alre… [+1582 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Stevivor.com"
-      },
-      "author": "Stevivor",
-      "title": "God of War Laufey release date set for February 2027 as Sony confirms new sequel with Kratos - Stevivor",
-      "description": null,
-      "url": "https://stevivor.com/news/god-of-war-laufey-release-date-set-for-february-2027-as-sony-confirms-new-sequel-with-kratos/",
-      "urlToImage": null,
-      "publishedAt": "2026-07-27T01:24:30Z",
+      "author": "Moinak Pal",
+      "title": "Google Maps’ biggest Android Auto upgrade is reaching more users - Digital Trends",
+      "description": "Google is expanding Immersive Navigation and the live speedometer in Android Auto, bringing richer maps and better driving information to more users.",
+      "url": "https://www.digitaltrends.com/cars/google-maps-biggest-android-auto-upgrade-is-reaching-more-users/",
+      "urlToImage": "https://www.digitaltrends.com/tachyon/2026/07/DT-2026-07-27T064426.954.jpg?resize=1200%2C630",
+      "publishedAt": "2026-07-27T01:19:40Z",
       "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "MacRumors"
+      },
+      "author": "Hartley Charlton",
+      "title": "Here's What the 'iPhone 20' is Expected to Look Like - MacRumors",
+      "description": "Apple's 20th anniversary iPhone is expected to arrive in the fall of 2027 with the most significant design overhaul the device has seen since the...",
+      "url": "https://www.macrumors.com/2026/07/26/what-iphone-20-is-expected-to-look-like/",
+      "urlToImage": "https://images.macrumors.com/t/R5hczk-ZwpgciT9nCQ-XWLmel7k=/1672x/article-new/2026/07/iphone-20-anniversary.jpg",
+      "publishedAt": "2026-07-27T01:00:00Z",
+      "content": "Apple's 20th anniversary iPhone is expected to arrive in the fall of 2027 with the most significant design overhaul the device has seen since the iPhone X.\r\nIn many ways, the device is expected to re… [+4425 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "SciTechDaily"
+      },
+      "author": null,
+      "title": "A Rare and Deadly Cancer May Have an Unexpected New Vulnerability - SciTechDaily",
+      "description": "A Vermont research team achieved disease control in 67% of patients by targeting cancer’s energy system.",
+      "url": "https://scitechdaily.com/a-rare-and-deadly-cancer-may-have-an-unexpected-new-vulnerability/",
+      "urlToImage": "https://scitechdaily.com/images/Lung-Cancer-Tumor-Disease-Anatomy-Close.jpg",
+      "publishedAt": "2026-07-27T00:16:49Z",
+      "content": "A new mesothelioma drug turns the tumor’s own oxidative stress against it. The same mechanism could eventually open treatment options for other cancers. Credit: Shutterstock\r\nA Vermont research team … [+9013 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Forbes"
+      },
+      "author": "Ewan Spence",
+      "title": "MacBook Neo Refresh: Apple Targets Annual Consumer Upgrades - Forbes",
+      "description": "The MacBook Neo brings iPhone-style annual refreshes to laptops. Can Apple shift the laptop market to make upgrading the Neo every year the norm?",
+      "url": "https://www.forbes.com/sites/ewanspence/2026/07/26/macbook-neo-annual-refresh-apple-silicon-pricing/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6a66a14dd64bd5a9fa48927a/0x0.jpg?format=jpg&crop=2361,1329,x0,y113,safe&height=900&width=1600&fit=bounds",
+      "publishedAt": "2026-07-27T00:14:47Z",
+      "content": "ustomers try out Apple's MacBook Neo laptops at an Apple Store on March 11, 2026 in Hangzhou, Zhejiang Province of China. (Photo by Long Wei/VCG via Getty Images)\r\nVCG via Getty Images\r\nOne of Apples… [+2750 chars]"
     },
     {
       "source": {
         "id": null,
         "name": "TheStreet"
       },
-      "author": "thestreet.com",
+      "author": "Faizan Farooque, Celine Provini",
       "title": "Samsung Galaxy S27 leak hints at pricier retail bet - thestreet.com",
-      "description": null,
+      "description": "Samsung may be giving shoppers one Galaxy too many",
       "url": "https://www.thestreet.com/investing/samsung-galaxy-s27-leak-hints-at-pricier-retail-bet",
-      "urlToImage": null,
+      "urlToImage": "https://www.thestreet.com/.image/NDA6MDAwMDAwMDAzMTI1ODI3/south-koreas-president-lee-jae-myung-national-briefing-on-three-major-mega-projects.jpg?profile=share16-9",
       "publishedAt": "2026-07-26T22:47:00Z",
-      "content": null
+      "content": "Leaked Galaxy S27 camera plans suggest a broader Samsung lineup as retailers, carriers, and customers mull another premium smartphone tier.\r\nSamsung Electronics (SSNLF) may be preparing to give shopp… [+5901 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Andersonfuneral.net"
+        "name": "Forbes"
       },
-      "author": "Anderson Funeral Home and Crematory",
-      "title": "Maynard Charles Trousil Obituary Jul 26, 2026 - Anderson Funeral Home and Crematory",
-      "description": "Maynard Charles Trousil passed away on Sunday, July 26th, 2026, at Knute Nelson Care Center. He was 87 years old. A Visitation will be held on Thursday, July 30th, 2026, from 4:...",
-      "url": "https://www.andersonfuneral.net/obituaries/maynard-trousil",
-      "urlToImage": "https://cdn.tukioswebsites.com/social/facebook/fb_3/a409b126-7787-4dba-8f21-de2d4f6af2c6/07e868a430258da5c708e7f7bdb628ac_b0c0375aa3f1526d1fd3344528c9931d",
-      "publishedAt": "2026-07-26T21:31:34Z",
-      "content": null
+      "author": "Dr. Sai Balasubramanian, M.D., J.D.",
+      "title": "ChatGPT’s Health Launch Is Foreshadowing The Future Of Healthcare - Forbes",
+      "description": "The integration of health data into consumer AI platforms is rapidly growing.",
+      "url": "https://www.forbes.com/sites/saibala/2026/07/26/chatgpts-health-launch-is-foreshadowing-the-future-of-healthcare/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/66c7eb6be1c323c19b6563e1/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2026-07-26T21:41:44Z",
+      "content": "The integration of health data into consumer AI platforms is rapidly growing. \r\ngetty\r\nEarlier this week, OpenAI launched the Health platform in ChatGPT for US users. Individuals have always been abl… [+2907 chars]"
     },
     {
       "source": {
@@ -697,29 +645,29 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "Forbes"
+        "id": "the-verge",
+        "name": "The Verge"
       },
-      "author": "Andrew Williams",
-      "title": "7 Key Garmin Cirqa Questions Answered By Garmin - Forbes",
-      "description": "Garmin clears up some FAQs about the Garmin Cirqa, its latest tracker, including exactly who should consider buying one. And it is not absolutely everyone.",
-      "url": "https://www.forbes.com/sites/andrewwilliams/2026/07/26/7-key-garmin-cirqa-questions-answered-by-garmin/",
-      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6a638b09d314b7840c1a6114/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-      "publishedAt": "2026-07-26T20:49:20Z",
-      "content": "Andrew Williams\r\nThe Garmin Cirqa\r\n was unveiled this week. It is yet another fitness tracker from a company that has made a huge number of them. \r\nThis one is a little different, though. Its Garmins… [+2792 chars]"
+      "author": "Terrence O'Brien",
+      "title": "Apple is banking on privacy to set its smart glasses apart - The Verge",
+      "description": "They’re expected be revealed next June at WWDC.",
+      "url": "https://www.theverge.com/tech/971101/apple-smart-glasses-privacy",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/268640_RayBan_Meta_Gen2_AKrales_0011.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2026-07-26T19:36:38Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nTheyre expected be revealed next June at WWDC.\r\nTheyre expected be revealed next June at WWDC.\r\nby\r\nTerrence O'BrienClose\r\nPosts from this author will be added t… [+2665 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Warhammer-community.com"
+        "name": "Thenewstack.io"
       },
-      "author": null,
-      "title": "Lore of the Exodites: Reject Decadence and Ride Dragons - Warhammer Community",
-      "description": "Learn the history and ways of the Aeldari Exodites.",
-      "url": "https://www.warhammer-community.com/articles/nx7ifif4/reject-decadence-and-ride-dragons",
-      "urlToImage": "https://assets.warhammer-community.com/articles/0-2026/july/wc20-07/kt_exoditeslore-jul23-1-feature-bewsov27gr.jpg",
-      "publishedAt": "2026-07-26T16:43:35Z",
-      "content": "© Copyright Games Workshop Limited 2026. GW, Games Workshop, Citadel, White Dwarf, Space Marine, 40K, Warhammer, Warhammer 40,000, the Aquila Double-headed Eagle logo, Warhammer Age of Sigmar, Battle… [+1391 chars]"
+      "author": "Janakiram MSV",
+      "title": "MCP’s biggest update removes the machinery many servers were built around - The New Stack",
+      "description": "MCP's biggest revision removes sessions and the initialization handshake, shifts state into handles, and makes remote servers act more like stateless HTTP.",
+      "url": "https://thenewstack.io/mcp-release-candidate-rewrite/",
+      "urlToImage": "https://cdn.thenewstack.io/media/2026/07/9ecb805c-getty-images-183ra32ukdi-unsplash-scaled.jpg",
+      "publishedAt": "2026-07-26T16:04:34Z",
+      "content": "The biggest update to the Model Context Protocol (MCP) since its launch is almost here. Lead maintainers froze the release candidate on May 21, with the final specification set to arrive July 28.\r\nAt… [+9100 chars]"
     },
     {
       "source": {
@@ -750,6 +698,19 @@
     {
       "source": {
         "id": null,
+        "name": "Pure Xbox"
+      },
+      "author": "Pure Xbox",
+      "title": "Three Games Are Confirmed For Xbox Game Pass To End The Month (July 28-31) - Pure Xbox",
+      "description": "Two of them being huge additions!",
+      "url": "https://www.purexbox.com/news/2026/07/three-games-are-confirmed-for-xbox-game-pass-to-end-the-month-july-28-31",
+      "urlToImage": "https://images.purexbox.com/e714ca8fcf121/large.jpg",
+      "publishedAt": "2026-07-26T15:00:00Z",
+      "content": "The final week of July is approaching! We've got three titles set to join Xbox Game Pass over the next few days, and considering they're spread out, we thought we'd round them up in this article to e… [+2024 chars]"
+    },
+    {
+      "source": {
+        "id": null,
         "name": "Windows Central"
       },
       "author": "Mauro Huculak",
@@ -763,15 +724,28 @@
     {
       "source": {
         "id": null,
-        "name": "Nintendo Life"
+        "name": "esquire.com"
       },
-      "author": "Nintendo Life",
-      "title": "Xenoblade Chronicles 2 - Nintendo Switch 2 Edition Estimated File Size Revealed - Nintendo Life",
-      "description": "It's almost here",
-      "url": "https://www.nintendolife.com/news/2026/07/xenoblade-chronicles-2-nintendo-switch-2-edition-estimated-file-size-revealed",
-      "urlToImage": "https://images.nintendolife.com/88f2dc0608718/large.jpg",
-      "publishedAt": "2026-07-26T13:00:00Z",
-      "content": "Xenoblade Chronicles 2 - Switch 2 Edition is out next week, and store listings for the standalone game and upgrade are now live on the Nintendo eShop.\r\nAccording to Nintendo, this version of the game… [+1013 chars]"
+      "author": "The Esquire Editors",
+      "title": "The 5 Most Eye-Catching New Watches of 2026, Including a Motorsport-Inspired Chanel Superleggera - Esquire",
+      "description": "Instant classics, one and all",
+      "url": "https://www.esquire.com/uk/watches/g73265060/most-eye-catching-new-watches-of-2026/",
+      "urlToImage": "https://hips.hearstapps.com/hmg-prod/images/7dfeff19-725e-4a2a-bdfd-a0e525a639c9.jpg?crop=1.00xw:0.377xh;0,0.288xh&resize=1200:*",
+      "publishedAt": "2026-07-26T11:51:40Z",
+      "content": "Why do some watch designs become iconic? If you take a look at our list of the 50 most important watches ever made, you'll see that the most enduring models are often worlds apart technically and aes… [+442 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Pure Xbox"
+      },
+      "author": "Pure Xbox",
+      "title": "10 Games We'd Love To See Added To Xbox Backwards Compatibility On PC - Pure Xbox",
+      "description": "Influenced by the latest Xbox Game Preservation votes",
+      "url": "https://www.purexbox.com/features/10-games-wed-love-to-see-added-to-xbox-backwards-compatibility-on-pc",
+      "urlToImage": "https://images.purexbox.com/2b094260d294a/large.jpg",
+      "publishedAt": "2026-07-26T11:03:55Z",
+      "content": "We're still feeling the hype of the Xbox backwards compatibility announcement for PC earlier this week, and it's got us thinking about all the games we'd love to play on PC natively from Xbox's back … [+4483 chars]"
     },
     {
       "source": {
@@ -788,6 +762,19 @@
     },
     {
       "source": {
+        "id": "axios",
+        "name": "Axios"
+      },
+      "author": "Herb Scribner",
+      "title": "The video game industry is running out of extra lives - Axios",
+      "description": "Gaming is shifting into a new frontier — and staring down a cost crisis.",
+      "url": "https://www.axios.com/2026/07/26/xbox-playstation-microtransactions-cfb-ea-sports",
+      "urlToImage": "https://images.axios.com/3fPr4P3gJMq78IuR7xer2MX09lE=/0x0:1280x720/1366x768/2026/07/10/1783715079452.jpg",
+      "publishedAt": "2026-07-26T11:00:18Z",
+      "content": "The big picture: Gaming companies can no longer rely on selling someone a $70 game every few years to make money. Those days are over.\r\n<ul><li>Instead, gaming is shifting into an entirely different … [+2464 chars]"
+    },
+    {
+      "source": {
         "id": null,
         "name": "HuffPost"
       },
@@ -798,32 +785,6 @@
       "urlToImage": "https://img.huffingtonpost.com/asset/69bd7146180000a0111c5169.jpg?cache=wsJQh0arqC&ops=500_281%2Cscalefit_1200_630",
       "publishedAt": "2026-07-26T10:00:17Z",
       "content": "Ive always insisted that if you want effective skin care with innovative ingredients at reasonable prices, then you should explore the world of Korean-founded beauty. I felt validated in my belief wh… [+8046 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Techpowerup.com"
-      },
-      "author": null,
-      "title": "This Week in Gaming (Week 31) - TechPowerUp",
-      "description": "Welcome to the last week of July and this week is packed with new releases. We kick off a major release of what is technically a remake of a 2001 game, but back then it was Xbox exclusive and now it'll be available on PC and Playstation 5 as well as Xbox. We …",
-      "url": "https://www.techpowerup.com/351080/this-week-in-gaming-week-31",
-      "urlToImage": "https://www.techpowerup.com/img/GFY05uDNByPQStFV.jpg",
-      "publishedAt": "2026-07-26T09:15:09Z",
-      "content": "This should only take a few seconds. If you have issues, please do contact us, we want to learn about any problems.\r\nDrag the handle to the target\r\nNeed help? Contact Us. Please mention your IP: 50.1… [+8 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Forbes"
-      },
-      "author": "David Phelan",
-      "title": "Sony Reon Pocket Pro Plus Air Conditioner Arrives In U.S. To Beat Summer Heatwaves - Forbes",
-      "description": "As another heat dome is predicted in the U.S., Sony’s wearable air conditioner has just arrived. Here’s all you need to know.",
-      "url": "https://www.forbes.com/sites/davidphelan/2026/07/25/sony-reon-pocket-pro-plus-air-conditioner-arrives-in-us-to-beat-summer-heatwaves/",
-      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6a3abc7fcec11b769501ce25/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-      "publishedAt": "2026-07-25T21:03:00Z",
-      "content": "July 25 update: This post, first published on Friday, July 24, was updated to reveal more details of the Sony Reon Pocket Pro Plus, now its available to buy in the U.S. \r\nSonys Reon Pocket Pro Plus i… [+3351 chars]"
     }
   ]
 }

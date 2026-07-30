@@ -3,9 +3,22 @@
   "country": "us",
   "category": "technology",
   "mode": "country",
-  "fetched_at": "2026-07-30T04:41:34.286492+00:00",
-  "articles_count": 36,
+  "fetched_at": "2026-07-30T07:59:58.093427+00:00",
+  "articles_count": 46,
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "PCMag.com"
+      },
+      "author": "Michael Kan",
+      "title": "Claude Chats Popped Up in Google Search Results. How to See If Yours Are Public - PCMag",
+      "description": "Chats posted online by Claude users briefly appeared in Google search results over the weekend. Here's how to check whether you've shared any chats and revoke access.",
+      "url": "https://www.pcmag.com/news/claude-chats-popped-up-in-google-search-results-see-if-yours-are-public",
+      "urlToImage": "https://i.pcmag.com/imagery/articles/05u1IxE2YaIXruh3K1JhrEP-1.fit_lim.size_1200x630.v1785181774.jpg",
+      "publishedAt": "2026-07-28T20:53:11Z",
+      "content": null
+    },
     {
       "source": {
         "id": null,
@@ -47,19 +60,6 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "9to5google.com"
-      },
-      "author": "Ben Schoon",
-      "title": "Android’s Find Hub app now lets you remove old Bluetooth headphones & earbuds - 9to5Google",
-      "description": "The Find Hub app on Android is super useful for tracking down lost gear through the use of trackers or...",
-      "url": "http://9to5google.com/2026/07/28/android-find-hub-remove-bluetooth-headphones-update/",
-      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/07/find-hub-bluetooth.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "publishedAt": "2026-07-28T19:40:00Z",
-      "content": "The Find Hub app on Android is super useful for tracking down lost gear through the use of trackers or just other Android devices linked to your Google account, but it can easily get bogged down by f… [+1464 chars]"
-    },
-    {
-      "source": {
         "id": "techcrunch",
         "name": "TechCrunch"
       },
@@ -87,15 +87,15 @@
     {
       "source": {
         "id": null,
-        "name": "Gematsu"
+        "name": "Aftermath.site"
       },
-      "author": "Sal Romano",
-      "title": "Xbox announces Gamescom 2026 plans - Gematsu",
-      "description": "Xbox has announced its plans for Gamescom 2026, which will run from August 26 to 30 at Koelenmesse in Cologne, Germany, including first-party and third-party titles playable at its booth, and live …",
-      "url": "https://www.gematsu.com/2026/07/xbox-announces-gamescom-2026-plans",
-      "urlToImage": "https://www.gematsu.com/wp-content/uploads/2026/07/Xbox-Gamescom_07-28-26.jpg",
-      "publishedAt": "2026-07-28T18:39:57Z",
-      "content": "Xbox has announced its plans for Gamescom 2026, which will run from August 26 to 30 at Koelenmesse in Cologne, Germany, including first-party and third-party titles playable at its booth, and live st… [+5180 chars]"
+      "author": "Chris Person",
+      "title": "I Hate Adobe - Aftermath",
+      "description": "Adobe is a wretched, exploitative company that loves generative AI. Many are coerced into paying money for their software and the software runs like garbage.",
+      "url": "https://aftermath.site/i-hate-adobe/",
+      "urlToImage": "https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/size/w1200/2026/07/adobe_devil3.webp",
+      "publishedAt": "2026-07-28T18:54:01Z",
+      "content": null
     },
     {
       "source": {
@@ -113,19 +113,6 @@
     {
       "source": {
         "id": null,
-        "name": "Notateslaapp.com"
-      },
-      "author": "Nehal Malik",
-      "title": "Tesla's 2026.26 Summer Update: Photos & Videos - Not a Tesla App",
-      "description": "Packed with new features, quality-of-life improvements, and cabin entertainment additions, Tesla's summer release brings a long list of updates to the fleet",
-      "url": "https://www.notateslaapp.com/news/4501/teslas-202626-summer-update-photos-videos",
-      "urlToImage": "https://www.notateslaapp.com/img/containers/article_images/2026/summer-update-realistic.webp/487446ec9e4949ece224f9583686aafb/summer-update-realistic.jpg",
-      "publishedAt": "2026-07-28T17:59:00Z",
-      "content": "Teslas mid-year feature drop is officially hitting customer vehicles around the world. Packed with new features, quality-of-life improvements, and cabin entertainment additions, the release brings a … [+6745 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "Deadline"
       },
       "author": "Nellie Andreeva",
@@ -135,6 +122,19 @@
       "urlToImage": "https://deadline.com/wp-content/uploads/2026/07/TernusCook2.jpg?w=1024",
       "publishedAt": "2026-07-28T17:32:00Z",
       "content": "The future of Apple looks a lot like its past judging by how the company’s outgoing CEO Tim Cook and his successor John Ternus showed up at the Ted LassoSeason 4 premiere wearing virtually identical … [+5847 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Notebookcheck.net"
+      },
+      "author": "Vineet Washington",
+      "title": "Despite all the upgrades, Galaxy S27 Ultra will likely miss out in two key areas - Notebookcheck",
+      "description": "Samsung is expected to launch the Galaxy S27 series in February next year with a host of improvements across the board. The Galaxy S27 Ultra and the Galaxy S27 Pro will get the most attention, but it looks like they will still miss out on faster RAM and stora…",
+      "url": "https://www.notebookcheck.net/Despite-all-the-upgrades-Galaxy-S27-Ultra-will-likely-miss-out-in-two-key-areas.1353917.0.html",
+      "urlToImage": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Galaxy-S27-Ultra.jpg",
+      "publishedAt": "2026-07-28T17:15:00Z",
+      "content": "Most of the past leaks and rumors about the Galaxy S27 Ultra have been about the various upgrades it is going to get. Two key areas where the phone is expected to be more conservative have now been t… [+1267 chars]"
     },
     {
       "source": {
@@ -178,19 +178,6 @@
     {
       "source": {
         "id": null,
-        "name": "Gamingbible.com"
-      },
-      "author": "Olly Smith",
-      "title": "PlayStation Plus Extra drops 4 free games available to play now - GAMINGbible",
-      "description": "Four new games ready for you!",
-      "url": "https://www.gamingbible.com/news/platform/playstation/playstation-plus-extra-games-july-28-326112-20260728",
-      "urlToImage": "https://resizer.ladbiblegroup.com/ogimage/v3/assets/bltbc1876152fcd9f07/blt9b974e673b87a09d/6a6898121ab5097c739e7136/ps_plus.jpg",
-      "publishedAt": "2026-07-28T16:00:00Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
         "name": "9to5Mac"
       },
       "author": "Ryan Christoffel",
@@ -200,6 +187,32 @@
       "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/07/iphone-18-pro-black-mockup.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
       "publishedAt": "2026-07-28T15:58:00Z",
       "content": "iPhone 18 Pro is coming soon, and there are several reasons why it could prove an especially popular upgrade choice this year.\r\niPhone 17 Pro was a huge hit for Applefar more so than the company anti… [+2075 chars]"
+    },
+    {
+      "source": {
+        "id": "ign",
+        "name": "IGN"
+      },
+      "author": "Tom Phillips",
+      "title": "Sony Confirms PlayStation Plus Monthly Games for August 2026, Headlined by Dying Light 2: Stay Human - IGN",
+      "description": "Sony has confirmed the PlayStation Plus monthly games lineup for August 2026 — and it includes Dying Light 2: Stay Human: Reloaded Edition.",
+      "url": "https://www.ign.com/articles/sony-confirms-playstation-plus-monthly-games-for-august-2026-headlined-by-dying-light-2-stay-human",
+      "urlToImage": "https://assets-prd.ignimgs.com/2023/10/11/pspremiumthumb-1697040053191.jpg?width=1280&format=jpg&auto=webp&quality=80",
+      "publishedAt": "2026-07-28T15:51:38Z",
+      "content": "Sony has confirmed the PlayStation Plus monthly games lineup for August 2026 and it includes Dying Light 2: Stay Human: Reloaded Edition, plus a bonus Marvel Tkon pack.\r\nAvailable on both PS4 and PS5… [+1966 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Notebookcheck.net"
+      },
+      "author": "Allen Ngo",
+      "title": "Framework Laptop 13 Pro review: The king of repairability is back - Notebookcheck",
+      "description": "After five full years with the same Laptop 13.5 model, Framework has finally developed a successor worthy of the \"Pro\" name. The much-needed update doubles down on everything that made the original so special while addressing many of the common concerns.",
+      "url": "https://www.notebookcheck.net/Framework-Laptop-13-Pro-review-The-king-of-repairability-is-back.1351246.0.html",
+      "urlToImage": "https://www.notebookcheck.net/fileadmin/Notebooks/Framework/Laptop_13_Pro/frameworkpro_feature_1.jpg",
+      "publishedAt": "2026-07-28T15:47:00Z",
+      "content": "Transparency\r\nThe selection of devices to be reviewed is made by our editorial team. The test sample was provided to the author as a loan by the manufacturer or retailer for the purpose of this revie… [+936 chars]"
     },
     {
       "source": {
@@ -220,6 +233,19 @@
         "name": "Gematsu"
       },
       "author": "Sal Romano",
+      "title": "9 R.I.P. sequel launches October 27 in the west - Gematsu",
+      "description": "Otome visual novel sequel 9 R.I.P. sequel will launch for Switch on October 27 in the west, publisher Idea Factory International announced. It will be available both physically and digitally. A lim…",
+      "url": "https://www.gematsu.com/2026/07/9-rip-sequel-launches-october-27-in-the-west",
+      "urlToImage": "https://www.gematsu.com/wp-content/uploads/2026/07/9-RIP-sequel-Date_07-28-26.jpg",
+      "publishedAt": "2026-07-28T15:09:59Z",
+      "content": "Otome visual novel sequel 9 R.I.P. sequel will launch for Switch on October 27 in the west, publisher Idea Factory International announced. It will be available both physically and digitally. A limit… [+1637 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gematsu"
+      },
+      "author": "Sal Romano",
       "title": "Flamecraft adds PS5, Xbox Series, and Switch versions; demo now available - Gematsu",
       "description": "The video game version of the tabletop strategy game Flamecraft will launch for PlayStation 5, Xbox Series, and Switch alongside its previously announced PC via Steam, developer Monster Couch annou…",
       "url": "https://www.gematsu.com/2026/07/flamecraft-adds-ps5-xbox-series-and-switch-versions-demo-now-available",
@@ -230,15 +256,15 @@
     {
       "source": {
         "id": null,
-        "name": "MacRumors"
+        "name": "Notateslaapp.com"
       },
-      "author": "Mitchel Broussard",
-      "title": "Best Back to School Accessory Deals on Anker, Sony, Samsung and More This Week - MacRumors",
-      "description": "There's a big accessory sale happening on Amazon this week, with the year's best prices on Anker chargers, Samsung monitors, Sonos audio...",
-      "url": "https://www.macrumors.com/2026/07/28/sonos-sony-anker-more-school-deals/",
-      "urlToImage": "https://images.macrumors.com/t/FqkOdQvA8E92byG94p9Wxv08B4s=/2500x/article-new/2026/07/samsung-sony-amazon-sale.jpeg",
-      "publishedAt": "2026-07-28T14:21:28Z",
-      "content": "There's a big accessory sale happening on Amazon this week, with the year's best prices on Anker chargers, Samsung monitors, Sonos audio products, and much more.\r\nNote: MacRumors is an affiliate part… [+2132 chars]"
+      "author": "Nehal Malik",
+      "title": "Tesla's 2026.26 Summer Update Lets You Video Conference on Google Meet, Teams & Discord - Not a Tesla App",
+      "description": "Tesla's Summer Update allows web apps to access the interior cabin camera and mic, delivering on Musk's longstanding promise of in-vehicle video conferencing",
+      "url": "https://www.notateslaapp.com/news/4498/teslas-202626-summer-update-lets-you-video-conference-on-google-meet-teams-discord",
+      "urlToImage": "https://www.notateslaapp.com/img/containers/article_images/tesla-screen/browser-cam.webp/c7d9b8a77d691970da42dde91251bed4/browser-cam.jpg",
+      "publishedAt": "2026-07-28T14:23:00Z",
+      "content": "Taking video calls from your Teslas drivers seat is getting a whole lot easier. Rather than developing separate apps for the many communications platforms people use these days, Tesla is granting its… [+2901 chars]"
     },
     {
       "source": {
@@ -256,15 +282,28 @@
     {
       "source": {
         "id": null,
-        "name": "Samsung.com"
+        "name": "Phoronix"
       },
       "author": null,
-      "title": "[Galaxy Unpacked July 2026] A First Look at Galaxy Watch Ultra2 and Galaxy Watch9 - Samsung Global Newsroom",
-      "description": "At Galaxy Unpacked 2026 in London, Samsung Electronics unveiled Galaxy Watch Ultra2 and Galaxy Watch9, expanding the digital health experience on the wrist.",
-      "url": "https://news.samsung.com/uk/galaxy-unpacked-july-2026-a-first-look-at-galaxy-watch-ultra2-and-galaxy-watch9",
-      "urlToImage": "https://img.global.news.samsung.com/uk/wp-content/uploads/2026/07/imgonline-com-ua-resize-i5NWk2hkurTX67tv.jpg",
-      "publishedAt": "2026-07-28T13:59:53Z",
-      "content": "At Galaxy Unpacked 2026 in London, Samsung Electronics unveiled Galaxy Watch Ultra2 and Galaxy Watch9, expanding the digital health experience on the wrist. From the moment users wake up to the time … [+6758 chars]"
+      "title": "CachyOS Outperforming Windows 11, Slight Advantage Over Ubuntu & Fedora On AMD Ryzen AI 9 HX 470 - Phoronix",
+      "description": "A recent mini PC being benchmarked at Phoronix is the BOSGAME VTA-439 that employs the new AMD Ryzen AI 9 HX 470 Gorgon Point SoC.",
+      "url": "https://www.phoronix.com/review/amd-hx470-windows-linux",
+      "urlToImage": "https://www.phoronix.net/image.php?id=amd-hx470-windows-linux&image=gorgon_point_1",
+      "publishedAt": "2026-07-28T14:04:00Z",
+      "content": "A recent mini PC being benchmarked at Phoronix is the BOSGAME VTA-439 that employs the new AMD Ryzen AI 9 HX 470 Gorgon Point SoC. With the BOSGAME mini PC having shipped with Microsoft Windows 11, h… [+922 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Bikerumor.com"
+      },
+      "author": "Jordan Villella",
+      "title": "Tune Adds Six New Nano Road Wheels Including Nano CS with Patented Carbon Spoke/Hub Interface - Bikerumor",
+      "description": "Tune launches six new road wheels with carbon, or steel spokes. All comes in various depths and terrain focus.",
+      "url": "https://bikerumor.com/tune-adds-six-new-nano-road-wheels-including-nano-cs-with-patented-carbon-spoke-hub-interface/",
+      "urlToImage": "https://bikerumor.com/wp-content/uploads/2026/07/tune-Nano-Road-Wheels-cannondale--1536x936.png",
+      "publishedAt": "2026-07-28T13:30:39Z",
+      "content": "Tune is taking its Nano wheel platform to the road, and this time the headline is not just weight. After launching Nano Gravel, the German wheelmasters are expanding the family with six new road whee… [+4069 chars]"
     },
     {
       "source": {
@@ -278,6 +317,19 @@
       "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/07/pixel-11-pro-onl-9-copy.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
       "publishedAt": "2026-07-28T13:30:00Z",
       "content": "As if we’ve not seen enough already, yet another leak is reiterating some Pixel 11 details, including the higher starting storage, bigger batteries, and pricing in the UK.\r\nWinFuture’s Roland Quandt … [+1495 chars]"
+    },
+    {
+      "source": {
+        "id": "polygon",
+        "name": "Polygon"
+      },
+      "author": "Corey Plante",
+      "title": "15 years ago, 4 letters changed Magic forever — and one new ability backfired - Polygon.com",
+      "description": "Magic 2012 introduced a revolutionary new term, but its other major innovation proved too powerful for its own good.",
+      "url": "https://www.polygon.com/mtg-magic-2012-15th-anniversary-dies-hexproof/",
+      "urlToImage": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/07/lord-of-the-unreal-mtg-art.jpg?w=1200&h=675&fit=crop",
+      "publishedAt": "2026-07-28T13:00:12Z",
+      "content": "Dig through a bunch of old Magic: The Gathering cards, and youre bound to read plenty of text that feels clunky. Anurid Swarmsnapper may block as though it has flying. (Isnt that just reach?) Multani… [+6019 chars]"
     },
     {
       "source": {
@@ -320,16 +372,16 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "9to5Mac"
+        "id": "the-verge",
+        "name": "The Verge"
       },
-      "author": "Ben Lovejoy",
-      "title": "Claude chats exposed in Google searches – another endorsement of Apple’s privacy approach - 9to5Mac",
-      "description": "We’ve long cautioned against disclosing sensitive personal data in AI chatbot sessions, given that most companies use these as training...",
-      "url": "https://9to5mac.com/2026/07/28/claude-chats-exposed-in-google-searches-another-endorsement-of-apples-privacy-approach/",
-      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/07/Claude-chats-exposed-in-Google-searches-%E2%80%93-another-endorsement-of-Apples-privacy-approach.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "publishedAt": "2026-07-28T12:16:00Z",
-      "content": "We’ve long cautioned against disclosing sensitive personal data in AI chatbot sessions, given that most companies use these as training data, but there’s now an even bigger reason.\r\nThings got way wo… [+3382 chars]"
+      "author": "David Pierce",
+      "title": "Smart rings are looking like my kind of AI gadget - The Verge",
+      "description": "While Meta and so many other companies are focused on smart glasses, smart rings make interacting with tech, and AI, much simpler.",
+      "url": "https://www.theverge.com/gadgets/971744/smart-ring-ai-gadget-stream-index",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/RING.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2026-07-28T12:00:00Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nWhile everyone tries to make smart glasses, pins, and everything else happen, the most subtle device might be the best device.\r\nWhile everyone tries to make smar… [+6073 chars]"
     },
     {
       "source": {
@@ -343,6 +395,19 @@
       "urlToImage": "https://assetsio.gnwcdn.com/wizards-of-the-coast-logo.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "publishedAt": "2026-07-28T10:21:38Z",
       "content": "John Hight, the president of Wizards of the Coast, will be stepping down on September 1. The news was given through a US Securities and Exchange Commission filing on July 27.\r\nThe filing notes that H… [+2743 chars]"
+    },
+    {
+      "source": {
+        "id": "ign",
+        "name": "IGN"
+      },
+      "author": "Verity Townsend",
+      "title": "Square Enix Dev Yoshi-P Says Final Fantasy 6, 8, and 9 Remakes Would Probably Have to Be Released in Four or Even Five Installments - IGN",
+      "description": "At the Final Fantasy 14 Fan Festival in Berlin on Sunday, Final Fantasy 14 director-producer Naoki “Yoshi-P” Yoshida invited Final Fantasy 7 Remake series director Naoki Hamaguchi to the stage for a chat. Over this 75-minute Naoki’s Room section, the two Fina…",
+      "url": "https://www.ign.com/articles/square-enix-dev-yoshi-p-says-final-fantasy-6-8-and-9-remakes-would-probably-have-to-be-released-in-four-or-even-five-installments",
+      "urlToImage": "https://assets-prd.ignimgs.com/2026/07/28/ff6-1785230791477.jpg?width=1280&format=jpg&auto=webp&quality=80",
+      "publishedAt": "2026-07-28T09:35:49Z",
+      "content": "At the Final Fantasy 14 Fan Festival in Berlin on Sunday, Final Fantasy 14 director-producer Naoki Yoshi-P Yoshida invited Final Fantasy 7 Remake series director Naoki Hamaguchi to the stage for a ch… [+5702 chars]"
     },
     {
       "source": {
@@ -386,6 +451,32 @@
     {
       "source": {
         "id": null,
+        "name": "Gematsu"
+      },
+      "author": "Sal Romano",
+      "title": "Nioh 3 DLC ‘Hell Rising’ launches August 19 - Gematsu",
+      "description": "Nioh 3 downloadable content “Hell Rising” will launch on August 19, publisher Koei Tecmo and developer Team NINJA announced. It is included with the Season Pass, which also includes the…",
+      "url": "https://www.gematsu.com/2026/07/nioh-3-dlc-hell-rising-launches-august-19",
+      "urlToImage": "https://www.gematsu.com/wp-content/uploads/2026/07/Nioh-3-DLC_07-27-26.jpg",
+      "publishedAt": "2026-07-28T01:30:13Z",
+      "content": "Nioh 3 downloadable content “Hell Rising” will launch on August 19, publisher Koei Tecmo and developer Team NINJAannounced. It is included with the Season Pass, which also includes the second, upcomi… [+3309 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Pokebeach.com"
+      },
+      "author": "Grant Manley",
+      "title": "Pitch Black Set Review - PokeBeach",
+      "description": "Pitch Black has just released and it will be showcased for the first time at the upcoming World Championships. Personally, I think this set is one of the",
+      "url": "https://www.pokebeach.com/2026/07/pitch-black-set-review",
+      "urlToImage": "https://www.pokebeach.com/news/2026/07/me5_en_075_std.jpg",
+      "publishedAt": "2026-07-28T00:34:19Z",
+      "content": "Pitch Black has just released and it will be showcased for the first time at the upcoming World Championships. Personally, I think this set is one of the more interesting ones in recent memory. There… [+4734 chars]"
+    },
+    {
+      "source": {
+        "id": null,
         "name": "Gameinformer.com"
       },
       "author": "Marcus Stewart",
@@ -395,6 +486,32 @@
       "urlToImage": "https://gameinformer.com/sites/default/files/styles/thumbnail/public/2026/06/11/b14c2ec5/Xbox%20New%20Logo.jpg.webp",
       "publishedAt": "2026-07-27T23:25:36Z",
       "content": "Update, 7/27/26, 7:24 p.m.: After suffering an outage that began late yesterday evening, several Xbox online services have been restored according to the Xbox Status page. \r\nThe original story contin… [+1515 chars]"
+    },
+    {
+      "source": {
+        "id": "buzzfeed",
+        "name": "Buzzfeed"
+      },
+      "author": "Gabrielle LaFrank",
+      "title": "Hannah Berner's Botox Treatment For TMJ Went Horribly Wrong, And Now The Internet Can't Stop Laughing - buzzfeed.com",
+      "description": "\"The one thing that's getting me through this: I'm getting so much attention.\"",
+      "url": "https://www.buzzfeed.com/gabriellelafrank/hannah-berner-botox-donkey-smile",
+      "urlToImage": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/27/21/thumb/Cn0MdcE1o.jpg?crop=1250:654;0,147%26downsize=1250:*",
+      "publishedAt": "2026-07-27T22:12:39Z",
+      "content": "by Gabrielle LaFrankBuzzFeed ContributorIm a lifestyle and pet writer with over a decade of experience in copywriting, covering viral animal moments, well-being topics, and lifestyle trends."
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Discoverwildlife.com"
+      },
+      "author": "Louisa Streeting",
+      "title": "This mammal breaks one of nature's biggest rules – and scientists have finally worked out why… - BBC Wildlife Magazine",
+      "description": "Humans aren’t the only ones who benefit from nepotism – female hyenas pass down their privilege to their children, whereas males do not",
+      "url": "https://www.discoverwildlife.com/animal-facts/mammals/spotted-hyena-females",
+      "urlToImage": "https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/9ac494a4-627d-4fea-a827-dcf588dd6f96/c6653204-e43b-466d-9df6-82b3c0c20aad/thumbnails/2f3106c2-3194-43d5-ad88-c675b377a6a7.jpg?w=1200",
+      "publishedAt": "2026-07-27T21:28:06Z",
+      "content": "For most mammals, its the males who are dominant. Theyll compete fiercely with each other and a select few of the top males father most of the children. Females usually share motherhood more equally.… [+2889 chars]"
     },
     {
       "source": {
@@ -424,6 +541,19 @@
     },
     {
       "source": {
+        "id": null,
+        "name": "Android Authority"
+      },
+      "author": null,
+      "title": "First look: Per-app zoom controls on Samsung's Galaxy Z Fold 8 - Android Authority",
+      "description": "We spotted this coming last week, and now we can finally show you Samsung's per-app zoom settings in action.",
+      "url": "https://www.androidauthority.com/fold-8-app-zoom-3691573/",
+      "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2026/07/Samsung-Galaxy-Z-Fold-8-Ultra-vs-Z-Fold-8-side-by-side.jpg",
+      "publishedAt": "2026-07-27T19:33:00Z",
+      "content": "<ul><li>Last week we spotted Samsung working on new individual zoom controls for apps on its latest foldables.</li><li>While we found evidence in Z Fold 8 Ultra firmware code, the feature didnt appea… [+2721 chars]"
+    },
+    {
+      "source": {
         "id": "ign",
         "name": "IGN"
       },
@@ -434,6 +564,19 @@
       "urlToImage": "https://assets-prd.ignimgs.com/2026/07/27/target-ps5-game-sale-1785164023736.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "publishedAt": "2026-07-27T17:27:47Z",
       "content": "Target has dropped a new sale that includes a solid selection of physical PlayStation 5 game deals. If you're looking to add some new picks to your library - particularly after Sony's sad decision to… [+1548 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BGR"
+      },
+      "author": "José Adorno",
+      "title": "5 Of The Best Anker Gadgets You Can Buy In 2026 - bgr.com",
+      "description": "Anker makes some of the most commonly used gadgets and accessories on the market today, and these five stand out as the best of its offerings.",
+      "url": "https://www.bgr.com/2220908/best-anker-gadgets-to-buy/",
+      "urlToImage": "https://www.bgr.com/img/gallery/5-of-the-best-anker-gadgets-you-can-buy-in-2026/l-intro-1784740045.jpg",
+      "publishedAt": "2026-07-27T16:47:00Z",
+      "content": "Anker is one of the top brands for tech accessories. A fan favorite among Apple users, the brand focuses primarily on charging products, such as power adapters, portable chargers, wireless power bank… [+1203 chars]"
     },
     {
       "source": {
@@ -460,19 +603,6 @@
       "urlToImage": "https://images.pushsquare.com/d7f21d4811ddc/large.jpg",
       "publishedAt": "2026-07-27T11:45:00Z",
       "content": "Lets put it another way - if you buy the new God of War game on disc for PS5, it won't work on PS4, PS3, PS2 or PS1 and chances are won't work on PS6, 7 etc either because they won't have a 'disc dri… [+2525 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Eurogamer.net"
-      },
-      "author": "Dom Peppiatt",
-      "title": "\"4 or maybe even 5 instalments\" If you want Remakes of older Final Fantasy games, prepare for them to be even bigger than the FF7 Remake trilogy - Eurogamer.net",
-      "description": "Final Fantasy 14's Naoki 'Yoshi-P' Yoshida has been thinking out loud about what future remakes could look like in the FF series.",
-      "url": "https://www.eurogamer.net/final-fantasy-remakes-multiple-installments-hamaguchi-yoshida",
-      "urlToImage": "https://assetsio.gnwcdn.com/ff7-r-ff-6.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "publishedAt": "2026-07-27T11:44:46Z",
-      "content": "This weekend, Final Fantasy fans from around the world converged at an exhibition centre in Berlin, celebrating the massive Final Fantasy 14 Fan Fest. It was an interesting celebration; not only was … [+3118 chars]"
     }
   ]
 }

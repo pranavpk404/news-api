@@ -3,9 +3,87 @@
   "country": "us",
   "category": "business",
   "mode": "country",
-  "fetched_at": "2026-07-31T11:49:31.663460+00:00",
-  "articles_count": 31,
+  "fetched_at": "2026-07-31T13:21:25.551667+00:00",
+  "articles_count": 33,
   "articles": [
+    {
+      "source": {
+        "id": "the-washington-post",
+        "name": "The Washington Post"
+      },
+      "author": "Kevin Schaul, Gerrit De Vynck",
+      "title": "How a rogue AI system’s stealthy cyberattack played out day by day - The Washington Post",
+      "description": "A timeline of the unprecedented cyberattack by OpenAI “agent” that escaped containment shows its sophistication.",
+      "url": "https://www.washingtonpost.com/technology/interactive/2026/07/30/timeline-cyberattack-by-openais-ai-agent-shows-its-sophistication/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/XDG3TXFU2EI6ZA2YECVBMNK7WQ.jpg&w=1200",
+      "publishedAt": "2026-07-30T12:02:04Z",
+      "content": "ChatGPT-maker OpenAI disclosed last week that one of its cutting-edge artificial intelligence systems had escaped from a controlled testing environment and hacked into another technology company. The… [+1283 chars]"
+    },
+    {
+      "source": {
+        "id": "mashable",
+        "name": "Mashable"
+      },
+      "author": "Amanda Yeo",
+      "title": "The FCC bans all robot vacuums made outside the U.S. - Mashable",
+      "description": "That's pretty much all of them.",
+      "url": "https://mashable.com/tech/us-robot-vacuum-ban-fcc-foreign",
+      "urlToImage": "https://helios-i.mashable.com/imagery/articles/00et3QIRk6vJVi4v25aymVM/hero-image.fill.size_1200x675.v1785395572.png",
+      "publishedAt": "2026-07-30T11:48:45Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "author": "Katherine Doherty",
+      "title": "NYSE Parent ICE Agrees to Buy MarketAxess for About $6 Billion - Bloomberg",
+      "description": "Intercontinental Exchange Inc., the parent of the New York Stock Exchange, agreed to buy MarketAxess Holdings Inc. for about $6 billion in cash, adding one of the world’s biggest fixed-income exchanges to ICE’s collection of trading platforms.",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-30/nyse-parent-ice-agrees-to-buy-marketaxess-for-about-6-billion",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iuxzrCwt2j.M/v0/1200x800.jpg",
+      "publishedAt": "2026-07-30T11:41:16Z",
+      "content": "Intercontinental Exchange Inc., the parent of the New York Stock Exchange, agreed to buy MarketAxess Holdings Inc. for about $6 billion in cash, adding one of the worlds biggest fixed-income exchange… [+266 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Hayley Cuccinello",
+      "title": "Wealth managers face a new challenger: their clients’ AI chatbots - CNBC",
+      "description": "Large language models may give financial advisors a run for their money, but wealth management leaders say the human touch can't be replaced.",
+      "url": "https://www.cnbc.com/2026/07/30/wealth-managers-ai-chatbots.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108293465-1776456426273-gettyimages-2217250788-boy07912.jpeg?v=1776456457&w=1920&h=1080",
+      "publishedAt": "2026-07-30T11:30:01Z",
+      "content": "A version of this article first appeared in CNBC's Inside Wealth newsletter with Robert Frank, a weekly guide to the high-net-worth investor and consumer. Sign up to receive future editions, straight… [+7240 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Amelia Lucas",
+      "title": "Yum Brands reports mixed results but gives no update on Taco Bell cyclospora outbreak - CNBC",
+      "description": "The restaurant company provided no update on the cyclospora outbreak tied to Taco Bell restaurants is affecting its business.",
+      "url": "https://www.cnbc.com/2026/07/30/yum-brands-yum-q2-2026-earnings.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108342359-1785412438211-108342359-1785412390257-gettyimages-2237966184-Taco_Bell_Restaurant.jpg?v=1785412448&w=1920&h=1080",
+      "publishedAt": "2026-07-30T11:03:06Z",
+      "content": "Yum Brands on Thursday said the cyclospora outbreak tied to Taco Bell restaurants damaged sales at the chain in its current quarter.\r\n\"The brand has seen a meaningful near-term sales impact,\" CEO Chr… [+3788 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Financial Times"
+      },
+      "author": null,
+      "title": "Kevin Warsh’s stripped-back Fed communication ‘already backfiring’, say investors - Financial Times",
+      "description": "Traders warn lack of guidance on interest rates erodes US central bank’s influence on Treasury market",
+      "url": "https://www.ft.com/content/57aac838-baee-406d-b4ac-c0ffda351aee?syn-25a6b1a6\\\\u003d1",
+      "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fb5b69d3f-bbf6-4881-a899-3b76530c47ce.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
+      "publishedAt": "2026-07-30T10:24:26Z",
+      "content": "Then $75 per month. Complete digital access to quality FT journalism on any device. Cancel anytime during your trial."
+    },
     {
       "source": {
         "id": "the-wall-street-journal",
@@ -22,28 +100,54 @@
     {
       "source": {
         "id": null,
-        "name": "Barron's"
+        "name": "Abcnews.com"
       },
-      "author": "Nate Wolf",
-      "title": "Meta Stock Falls Sharply on Weak Earnings - Barron's",
-      "description": "The social-media giant reports weaker-than-expected earnings and narrows its expectations for 2026 capital expenditures.",
-      "url": "https://www.barrons.com/articles/meta-platforms-earnings-stock-price-e544d10c",
-      "urlToImage": "https://images.barrons.com/im-50019481/social",
-      "publishedAt": "2026-07-30T09:50:00Z",
-      "content": "A disappointing earnings report looked set to knockMeta Platformsoff course as it struggles to get Wall Streets buy-in on its massive artificial-intelligence spending.\r\nCopyright ©2026Dow Jones &amp;… [+67 chars]"
+      "author": "ABC News - Breaking News, Latest News and Videos",
+      "title": "Government report to show how US economy performed amid Iran war - ABC News - Breaking News, Latest News and Videos",
+      "description": null,
+      "url": "https://abcnews.com/Business/government-report-show-us-economy-performed-amid-iran/story?id\\\\u003d135152547",
+      "urlToImage": null,
+      "publishedAt": "2026-07-30T09:32:09Z",
+      "content": null
     },
     {
       "source": {
         "id": null,
-        "name": "Yahoo Entertainment"
+        "name": "CNBC"
       },
-      "author": "Grace O'Donnell",
-      "title": "Stock market today: Dow, S&P 500, Nasdaq futures edge up ahead of inflation data - Yahoo Finance",
-      "description": "Traders will be watching Apple and Amazon earnings, fresh inflation data, and the direction of Treasurys and oil prices.",
-      "url": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-july-30-dow-sp-500-nasdaq-082255995.html",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/1553E53F97B54037EE85595CAA7263B2B2BF965197FB6AA69320034C49922660/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-07%2F2c0daf64-6729-4e9d-ae40-d3ee4b5cd508",
-      "publishedAt": "2026-07-30T08:22:55Z",
-      "content": "US stock futures staged a comeback on Thursday morning after a Fed-fueled sell-off as Asian stocks rebounded and more earnings were on deck. But fresh US attacks on Iran, a bond rout, and worries abo… [+1649 chars]"
+      "author": "Hugh Leask, Justina Lee, Tanaya Macheel",
+      "title": "Stock futures rise as traders digest Big Tech earnings and hope to recover from Fed Day sell-off: Live updates - CNBC",
+      "description": "Investors were digesting megacap tech earnings and the Federal Reserve's decision to hold rates steady.",
+      "url": "https://www.cnbc.com/2026/07/29/stock-market-today-live-updates.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108342005-1785353926019-gettyimages-2287530949-WARSH_FOMC_NYSE.jpeg?v=1785354011&w=1920&h=1080",
+      "publishedAt": "2026-07-30T09:30:00Z",
+      "content": "U.S. equity futures rose early Thursday as investors digested the latest Big Tech earnings, the Federal Reserve's decision to hold rates steady, and the resumption of hostilities in the Middle East. … [+3256 chars]"
+    },
+    {
+      "source": {
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
+      },
+      "author": "WSJ",
+      "title": "Shell’s Profits Surge on Windfall From Continuing Middle East Conflict - WSJ",
+      "description": null,
+      "url": "https://www.wsj.com/business/energy-oil/shells-profits-climb-as-middle-east-conflict-continues-to-offer-earnings-windfall-478c6a6a",
+      "urlToImage": null,
+      "publishedAt": "2026-07-30T08:39:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Financial Times"
+      },
+      "author": null,
+      "title": "Adidas shares drop close to a fifth after profits hit by World Cup marketing spend - Financial Times",
+      "description": "Net profit growth of 6% in second quarter undershoots expectations",
+      "url": "https://www.ft.com/content/9c7721e8-06c7-4504-9bcd-b266cda2b33e?syn-25a6b1a6\\\\u003d1",
+      "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F84165964-cb4c-43da-b2a5-c9a7202f5928.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
+      "publishedAt": "2026-07-30T07:31:05Z",
+      "content": "Then $75 per month. Complete digital access to quality FT journalism on any device. Cancel anytime during your trial."
     },
     {
       "source": {
@@ -73,16 +177,16 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "CNBC"
+        "id": "associated-press",
+        "name": "Associated Press"
       },
-      "author": "Sam Meredith",
-      "title": "Shell posts best quarterly profit in four years as Iran war boosts oil and gas prices - CNBC",
-      "description": "The bumper result comes as energy majors receive a profit boost from soaring fossil fuel prices amid the Iran war.",
-      "url": "https://www.cnbc.com/2026/07/30/shell-2q-earnings-iran-war-oil.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108342238-1785390572664-gettyimages-2273436716-dsc_2670_tfpdxs8j.jpeg?v=1785390626&w=1920&h=1080",
-      "publishedAt": "2026-07-30T06:05:50Z",
-      "content": "British energy major Shell on Thursday reported stronger-than-expected second-quarter profit, benefitting from the jump in oil and gas prices amid the sprawling Middle East conflict.\r\nThe oil giant p… [+2795 chars]"
+      "author": "Dee-Ann Durbin",
+      "title": "Between prices and a diarrhea-causing parasite, lettuce is causing hard times at some restaurants - AP News",
+      "description": "It’s been a choppy year for restaurants that lean into lettuce. Lettuce prices rose sharply in the first half of 2026 due to hot weather in Arizona, where about one-third of America’s lettuce is grown. Now, some restaurants are dealing with the fallout from a…",
+      "url": "https://apnews.com/article/cyclospora-lettuce-taco-bell-restaurants-customers-39083c579b4ba7d3d5d8a23ea3fd5b00",
+      "urlToImage": "https://dims.apnews.com/dims4/default/92c903c/2147483647/strip/true/crop/4995x3328+153+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F13%2Fe6%2F8fccfdea6181c63731b199297053%2Fc0010a65bdea4679bd4775b5d2e5b71d",
+      "publishedAt": "2026-07-30T05:10:00Z",
+      "content": "Its been a choppy year for restaurants that lean into lettuce.\r\nLettuce prices rose sharply in the first half of 2026 due to hot weather in Arizona, where about one-third of Americas lettuce is grown… [+3785 chars]"
     },
     {
       "source": {
@@ -99,19 +203,6 @@
     },
     {
       "source": {
-        "id": "business-insider",
-        "name": "Business Insider"
-      },
-      "author": "Katie Roof",
-      "title": "Whatnot is in talks to raise a new funding round at a $20 billion valuation - businessinsider.com",
-      "description": "Whatnot, a live shopping startup, aims for $20 billion valuation in financing talks, driven by livestream sales in fashion and collectibles.",
-      "url": "https://www.businessinsider.com/live-shopping-startup-whatnot-eyes-massive-20-billion-valuation-2026-7#article",
-      "urlToImage": "https://i.insider.com/6a6a69ad548c9c486b3122fe?width=1200&format=jpeg",
-      "publishedAt": "2026-07-30T02:09:00Z",
-      "content": "Whatnot is proving there's still room for consumer startups in the AI era.\r\nLive shopping startup Whatnot is in talks to raise financing at about a $20 billion valuation, according to people familiar… [+1443 chars]"
-    },
-    {
-      "source": {
         "id": null,
         "name": "KABC-TV"
       },
@@ -125,16 +216,29 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "CNBC"
+        "id": "bloomberg",
+        "name": "Bloomberg"
       },
-      "author": "Jenny Lee",
-      "title": "Samsung Electronics second-quarter operating profit beats estimates on soaring AI chip demand - CNBC",
-      "description": "Samsung Electronics extended its record run with second-quarter operating profit topping analysts' estimates.",
-      "url": "https://www.cnbc.com/2026/07/30/samsung-q2-earnings-ai-chip-.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108341488-1785296216748-gettyimages-2285687677-SAMSUNG.jpeg?v=1785296228&w=1920&h=1080",
-      "publishedAt": "2026-07-29T23:55:44Z",
-      "content": "Samsung Electronics extended its record run with second-quarter operating profit topping analysts' estimates, as robust artificial intelligence demand continues to drive growth in its memory chip bus… [+4566 chars]"
+      "author": "Ari Natter",
+      "title": "NextEra, Brookfield to Build $100 Billion Data Center Campus - Bloomberg",
+      "description": "NextEra Energy Inc., the largest US power utility, is teaming up with Brookfield Corp. on a more than $100 billion transformation of a shuttered Cold War uranium-enrichment facility in Kentucky into a data center campus with a generating plant.",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-29/nextera-brookfield-to-build-100-billion-kentucky-data-campus",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i9KaaRJT6nM8/v1/1200x800.jpg",
+      "publishedAt": "2026-07-30T01:10:00Z",
+      "content": "NextEra Energy Inc., the largest US power utility, is teaming up with Brookfield Corp. on a more than $100 billion transformation of a shuttered Cold War uranium-enrichment facility in Kentucky into … [+408 chars]"
+    },
+    {
+      "source": {
+        "id": "fortune",
+        "name": "Fortune"
+      },
+      "author": "Eva Roytburg",
+      "title": "Meta stock drops 10% as free cash flow gets crushed—and Zuckerberg hints at cloud business - Fortune",
+      "description": "Meta’s quarterly results showcased the strength of its core social media business, as well as the gap in its business model in the AI arms race.",
+      "url": "https://fortune.com/2026/07/29/meta-earnings-zuckerberg-hints-cloud-business-free-cash-flow-capex/",
+      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/07/GettyImages-2284934270_256dc4-e1785370245260.jpg?resize=1200,600",
+      "publishedAt": "2026-07-30T00:40:00Z",
+      "content": "The AI trade is coming to a realization: Americas best businesses are turning into utilities.Such is the fate that befalls Meta, whose shares fell as much as 10% in after-hours trading Wednesday afte… [+4713 chars]"
     },
     {
       "source": {
@@ -177,16 +281,16 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
+        "id": "axios",
+        "name": "Axios"
       },
-      "author": "Brooke DiPalma",
-      "title": "Chipotle stock rises after burrito chain beats expectations, says it's 'not involved' in cyclospora outbreak - Yahoo Finance",
-      "description": "Chipotle posted a strong second quarter as the burrito chain's growth strategy took off, offsetting macro uncertainty.",
-      "url": "https://finance.yahoo.com/markets/stocks/article/chipotle-stock-rises-after-burrito-chain-beats-expectations-says-its-not-involved-in-cyclospora-outbreak-172811648.html",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/FA28EB096C8BB041AEB9BB5935E3EE97469E86F500761AB68657C03895C2D011/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-07%2F534b1a4a-8968-49c5-aefa-ca1fa8f25827",
-      "publishedAt": "2026-07-29T21:38:43Z",
-      "content": "Chipotle (CMG) stock rose 4% in Thursday's premarket trade on a strong second quarter as the burrito chain's growth strategy took off, offsetting macroeconomic uncertainty and concerns about a cyclos… [+3402 chars]"
+      "author": "Nathan Bomey",
+      "title": "Meta and Microsoft report ballooning AI expenses: What to know - Axios",
+      "description": "AI hyperscalers are rushing to bolster computing power, but it's making some investors nervous.",
+      "url": "https://www.axios.com/2026/07/29/meta-microsoft-earnings-reports-ai",
+      "urlToImage": "https://images.axios.com/nNlSe3BsuAr7LuixkFYrIqxu_r8=/0x0:1920x1080/1366x768/2026/02/05/1770313023435.jpeg",
+      "publishedAt": "2026-07-29T21:44:51Z",
+      "content": "Zoom in: Meta which owns Facebook, Instagram and WhatsApp recorded a 55% increase in expenses, to $42 billion, while revenue grew at a slower pace of 28%.\r\n<ul><li>Consequently, the company's net inc… [+1205 chars]"
     },
     {
       "source": {
@@ -200,19 +304,6 @@
       "urlToImage": "https://www.heraldtribune.com/gcdn/authoring/authoring-images/2026/07/29/NSHT/91099274007-sar-lotto-winner-004.png?crop=1551,874,x0,y1&width=1551&height=874&format=pjpg&auto=webp",
       "publishedAt": "2026-07-29T21:30:00Z",
       "content": "A lucky lottery player who purchased a Mega Millions ticket near Sarasota is now $800 million richer.\r\nFlorida Lottery officials announced July 29 that the lone winning ticket for July 28's $800 mill… [+7577 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "PBS"
-      },
-      "author": null,
-      "title": "Can you eat lettuce safely during the cyclospora outbreak? Advice from an infectious disease expert - PBS",
-      "description": "Rather than avoiding fresh produce, adopting a few sensible food safety practices can help you significantly reduce your risk of getting sick while continuing to enjoy the many health benefits and flavor perks of salads and fresh veggies.",
-      "url": "https://www.pbs.org/newshour/health/can-you-eat-lettuce-safely-during-the-cyclospora-outbreak-advice-from-an-infectious-disease-expert",
-      "urlToImage": "https://d3i6fh83elv35t.cloudfront.net/static/2026/07/2025-08-15T203820Z_40836122_RC2T7GAMWNCD_RTRMADP_3_USA-ECONOMY-INFLATION-1024x683.jpg",
-      "publishedAt": "2026-07-29T21:11:13Z",
-      "content": "This article originally appeared on The Conversation.\r\nSalads along with other fresh produce are some of the healthiest foods you can eat. Leafy greens are rich in vitamins A, C and K, folate, potass… [+5259 chars]"
     },
     {
       "source": {
@@ -294,42 +385,16 @@
     },
     {
       "source": {
-        "id": "cbs-news",
-        "name": "CBS News"
+        "id": null,
+        "name": "Yahoo Entertainment"
       },
-      "author": "Mary  Cunningham",
-      "title": "Federal Reserve holds interest rates steady, but 3 officials vote for hike - CBS News",
-      "description": "Fed officials are leaving their benchmark rate unchanged for a fifth straight meeting, a sign they expect inflation to ease.",
-      "url": "https://www.cbsnews.com/news/federal-reserve-interest-rates-kevin-warsh-july-206/",
-      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/07/28/48af98d6-8181-4f05-9ab9-09083d5d2750/thumbnail/1200x630/1f10b38e2fee2c59d9e0e5f67bfe448f/gettyimages-2285454193.jpg",
-      "publishedAt": "2026-07-29T18:03:00Z",
-      "content": "The Federal Reserve said on Wednesday that it is leaving its benchmark interest rate unchanged, a sign policymakers expect inflation to ebb despite higher energy costs due to the war in Iran.\r\nThis m… [+5536 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Zack Whittaker",
-      "title": "US government bans new foreign-made humanoids, robot dogs, and solar inverters, citing risks to national security - TechCrunch",
-      "description": "The ban largely affects U.S. imports from China, which currently dominates the global market for making humanoid robots and solar inverters.",
-      "url": "https://techcrunch.com/2026/07/29/us-government-bans-new-foreign-made-humanoids-robot-dogs-and-solar-inverters-citing-risks-to-national-security/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/07/humanoid-robot-china-fcc-2285947327.jpg?resize=1200,800",
-      "publishedAt": "2026-07-29T17:41:09Z",
-      "content": "The Trump administration is banning the import of new foreign-made humanoid robots, robot dogs, and power inverters, citing an “unacceptable” threat to national security. The move largely affects imp… [+2201 chars]"
-    },
-    {
-      "source": {
-        "id": "fortune",
-        "name": "Fortune"
-      },
-      "author": "Emily Forlini",
-      "title": "Hugging Face, OpenAI drop new hack details. Here’s what we know now, and what remains a mystery - Fortune",
-      "description": "The timeline, models involved, and other juicy details are starting to become more clear—nearly 20 days after the attack began.",
-      "url": "https://fortune.com/2026/07/29/openai-hugging-face-new-details-hack-everything-we-know-dont-know/",
-      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/07/GettyImages-2278945690-e1785340579765.jpg?resize=1200,600",
-      "publishedAt": "2026-07-29T17:27:00Z",
-      "content": "A pit in my stomach formed last night on the train as I read Hugging Faces latest blog post on how its servers got hacked by OpenAIs models in early July. I had printed out the 23-page report for the… [+7695 chars]"
+      "author": "Khac Phu Nguyen",
+      "title": "Samsung Stock Drops 5.2% as Leveraged AI Trade Unwinds - Yahoo Finance",
+      "description": "Forced selling and concerns about AI-chip expectations intensified Samsung's decline during a record-setting South Korean market rout.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/samsung-stock-drops-5-2-181159910.html",
+      "urlToImage": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
+      "publishedAt": "2026-07-29T18:11:59Z",
+      "content": "This article first appeared on GuruFocus.\r\nSamsung Electronics (SSNLF), a South Korean producer of semiconductors, smartphones and electronic products, dropped 5.2% in Wednesday's Seoul trading after… [+1389 chars]"
     },
     {
       "source": {
@@ -343,45 +408,6 @@
       "urlToImage": "https://imgproxy.divecdn.com/psEW0U72E7teIqRwD0EQJ0LTNPlN9UVpwE8SU_fDYhI/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTg3MjU0MjU3LmpwZw==.webp",
       "publishedAt": "2026-07-29T16:21:44Z",
       "content": "Humana plans to shut down more Medicare Advantage plans next year as the insurer works to improve profits, auguring more disruption for seniors in the privatized Medicare program.\r\nIts the second con… [+5307 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "24/7 Wall St."
-      },
-      "author": "Alex Sirois",
-      "title": "Intel Continues to Get Pummeled: Why One Analyst Maintains His Conviction That 130% Gains Will Come - 24/7 Wall St.",
-      "description": "A Chinese IPO just torched the entire memory sector in a single session, and one analyst is doubling down on a price target that implies 168% gains from here. The bull and bear cases for Micron have never been further apart.",
-      "url": "https://247wallst.com/investing/2026/07/29/intel-continues-to-get-pummeled-why-one-analyst-maintains-his-conviction-that-130-gains-will-come/",
-      "urlToImage": "https://247wallst.com/wp-content/uploads/2019/01/imageForEntry13-7.jpg",
-      "publishedAt": "2026-07-29T16:18:16Z",
-      "content": "Micron Technology (NASDAQ:MU | MU Price Prediction) currently trades at $820.53, well below the Wall Street average price target of $1,507.38. That gap implies roughly 84% upside if the consensus is … [+4667 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "David Hollerith",
-      "title": "SoFi is revving up consumer lending. Investors are tapping the breaks. - Yahoo Finance",
-      "description": "Despite SoFi posting its eighth consecutive quarter of record revenue and raising full-year sales guidance, concerns swirled around its costs and soaring con...",
-      "url": "https://finance.yahoo.com/markets/article/sofi-is-revving-up-consumer-lending-investors-are-tapping-the-breaks-144223166.html",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/EE46AFB5D0C374AF1F2D2E7C8973087BA26EA6B8532E4D1A53E229655E196CE2/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2F6d240330-250b-11f0-bf87-20169bae15cb_8a0ea63f9409a05e813040572b242af24c74eb5e243107f386f1476db20fdf01.jpg",
-      "publishedAt": "2026-07-29T14:42:23Z",
-      "content": "SoFi (SOFI) stock fell 9% on Wednesday morning after it reported second quarter earnings. Despite posting its eighth consecutive quarter of record revenue and raising full-year sales guidance, concer… [+2630 chars]"
-    },
-    {
-      "source": {
-        "id": "bloomberg",
-        "name": "Bloomberg"
-      },
-      "author": "Youkyung Lee, Sangmi Cha",
-      "title": "Korean Stocks Plunge 16% in Two-Day Burst of Retail Selling - Bloomberg.com",
-      "description": "Despair and frustration spread across the South Korean retail-investing community as stocks cratered again Wednesday, extending the decline in the nation’s key equity index this month to a record 33%.",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-29/korean-stocks-tumble-a-second-day-as-sk-hynix-results-disappoint",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i9Di2Y2WJRVs/v1/1200x799.jpg",
-      "publishedAt": "2026-07-29T13:40:32Z",
-      "content": "Despair and frustration spread across the South Korean retail-investing community as stocks cratered again Wednesday, extending the decline in the nations key equity index this month to a record 33%.… [+361 chars]"
     },
     {
       "source": {

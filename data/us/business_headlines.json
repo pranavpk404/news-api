@@ -3,8 +3,8 @@
   "country": "us",
   "category": "business",
   "mode": "country",
-  "fetched_at": "2026-08-01T05:11:47.561021+00:00",
-  "articles_count": 32,
+  "fetched_at": "2026-08-01T07:54:22.404171+00:00",
+  "articles_count": 27,
   "articles": [
     {
       "source": {
@@ -34,6 +34,19 @@
     },
     {
       "source": {
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
+      },
+      "author": "WSJ",
+      "title": "Exclusive | Tesla Weighs Sale of China Business to Pave Way for Potential SpaceX Merger - WSJ",
+      "description": null,
+      "url": "https://www.wsj.com/business/autos/tesla-weighs-sale-of-china-business-to-pave-way-for-potential-spacex-merger-5ae26026",
+      "urlToImage": null,
+      "publishedAt": "2026-07-31T01:00:00Z",
+      "content": null
+    },
+    {
+      "source": {
         "id": null,
         "name": "Financial Times"
       },
@@ -47,16 +60,16 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "CNBC"
+        "id": "fortune",
+        "name": "Fortune"
       },
-      "author": "Kif Leswing",
-      "title": "Apple earnings takeaways: Weak forecast, supply concerns overshadow sales beat in Cook's last report as CEO - CNBC",
-      "description": "Apple reported third-quarter earnings on Thursday after the closing bell, and Tim Cook addressed investors for the last time as CEO.",
-      "url": "https://www.cnbc.com/2026/07/30/apple-earnings-live-updates.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108318296-1780938847748-gettyimages-2279910762-APPLE_WWDC.jpeg?v=1780938888&w=1920&h=1080",
-      "publishedAt": "2026-07-31T00:36:00Z",
-      "content": "Apple reported stronger-than-expected earnings and revenue for the fiscal third quarter, driven by a 22% increase in iPhone sales. But the company issued weak guidance for the current period, citing … [+2017 chars]"
+      "author": "Alexei Oreskovic",
+      "title": "Tim Cook signed off on his final Apple earnings call with a warning about a ‘hundred year flood’ in memory chip pricing - Fortune",
+      "description": "The iPhone maker said sever constraints in the supply chain will affect sales of iPhones, Macs, and iPads in the current quarter.",
+      "url": "https://fortune.com/2026/07/30/tim-cook-signed-off-on-his-final-apple-earnings-call-with-a-warning-about-a-hundred-year-flood-in-memory-chip-pricing/",
+      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/07/GettyImages-2287313352-e1785455985856.jpg?resize=1200,600",
+      "publishedAt": "2026-07-31T00:28:00Z",
+      "content": "Apple said it is facing severe supply constraints that will affect sales of iPhones and Macs in the months ahead, underscoring the challenges looming over the company as Tim Cook prepares to hand ove… [+4723 chars]"
     },
     {
       "source": {
@@ -86,32 +99,6 @@
     },
     {
       "source": {
-        "id": "bloomberg",
-        "name": "Bloomberg"
-      },
-      "author": "Katherine Burton, Sridhar Natarajan, Todd Gillespie, Nishant Kumar",
-      "title": "The 24-Hour Race to Salvage Situational Awareness’ Souring Bets - Bloomberg",
-      "description": "He was hailed as the “Nostradamus” of AI — a young oracle with a bold prophecy for the future.",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-30/the-24-hour-race-to-salvage-situational-awareness-souring-bets",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iqhTB_zutctI/v8/1200x800.jpg",
-      "publishedAt": "2026-07-30T23:59:19Z",
-      "content": "He was hailed as the Nostradamus of AI a young oracle with a bold prophecy for the future.\r\nBefore long, the world will wake up, Leopold Aschenbrenner, tech-seer-turned-hedge-fund-manager, predicted … [+72 chars]"
-    },
-    {
-      "source": {
-        "id": "the-wall-street-journal",
-        "name": "The Wall Street Journal"
-      },
-      "author": "WSJ",
-      "title": "Taco Bell’s Plan to Win Back Customers After Cyclospora Illness Outbreak - WSJ",
-      "description": null,
-      "url": "https://www.wsj.com/business/hospitality/taco-bells-plan-to-win-back-customers-after-cyclospora-illness-outbreak-a7ab5ae6",
-      "urlToImage": null,
-      "publishedAt": "2026-07-30T23:05:00Z",
-      "content": null
-    },
-    {
-      "source": {
         "id": "usa-today",
         "name": "USA Today"
       },
@@ -125,68 +112,16 @@
     },
     {
       "source": {
-        "id": "al-jazeera-english",
-        "name": "Al Jazeera English"
-      },
-      "author": "Andy Hirschfeld",
-      "title": "Why is US GDP growth slowing, and how can it be reversed? - Al Jazeera",
-      "description": "Tariffs and oil price hikes create a supply shock, dragging down US economic growth in the second quarter of 2026.",
-      "url": "https://www.aljazeera.com/economy/2026/7/30/why-is-us-gdp-growth-slowing-and-how-can-it-be-reversed",
-      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/07/getty_6a6bafc20e-1785442242.jpg?resize=1920%2C1440",
-      "publishedAt": "2026-07-30T21:46:42Z",
-      "content": "United States economic growth slowed in the second quarter of 2026 amid a growing deficit and increasing inflationary pressures.\r\nUS gross domestic product (GDP) grew by 1.5 percent between April and… [+5525 chars]"
-    },
-    {
-      "source": {
         "id": null,
-        "name": "Fox Business"
+        "name": "Barron's"
       },
-      "author": "Bonny Chu",
-      "title": "Robotic vacuums swept up in new US crackdown over national security risks - Fox Business",
-      "description": "Some Roomba-style robotic vacuums are now covered under expanded FCC security restrictions targeting advanced foreign-made robotics tied to national security concerns.",
-      "url": "https://www.foxbusiness.com/politics/robotic-vacuums-swept-up-new-us-crackdown-over-national-security-risks",
-      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2019/12/0/0/roomba-iStock.jpg?ve=1&tl=1",
-      "publishedAt": "2026-07-30T21:01:00Z",
-      "content": "Certain robotic vacuum cleaners, including some Roomba-style devices, will be banned under the new U.S. policy restricting foreign-made advanced robotics, federal regulators told FOX Business Thursda… [+3598 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Fox Business"
-      },
-      "author": "Sophia Compton",
-      "title": "About 1.5M rechargeable hand warmers recalled after 1 death, hundreds of burn injuries reported - Fox Business",
-      "description": "Recalled hand warmers were linked to 1,480 overheating incidents, including 15 fires, 350 burn injuries and the death of an 83-year-old consumer.",
-      "url": "https://www.foxbusiness.com/lifestyle/about-1-5m-rechargeable-hand-warmers-recalled-after-1-death-hundreds-burn-injuries-reported",
-      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/07/0/0/driving-with-mittens-.jpg?ve=1&tl=1",
-      "publishedAt": "2026-07-30T21:00:00Z",
-      "content": "Ocoopa Direct is recalling about 1.5 million rechargeable hand warmers following hundreds of burn injuries and one reported death.\r\nThe lithium-ion batteries in the recalled products can overheat and… [+2266 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": "Alex Harring, Tanaya Macheel",
-      "title": "Coinbase shares fall after crypto exchange posts disappointing second-quarter results - CNBC",
-      "description": "Coinbase's Thursday report marked its third straight quarter missing Wall Street's forecasts for revenue and earnings.",
-      "url": "https://www.cnbc.com/2026/07/30/coinbase-coin-earnings-q2-2026.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107132326-1665472535854-gettyimages-1235570512-porzycki-cryptocu210928_npRPp.jpeg?v=1747084990&w=1920&h=1080",
-      "publishedAt": "2026-07-30T20:52:02Z",
-      "content": "Coinbase shares dropped in extended trading on Thursday after the crypto platform posted a wider-than-expected loss for the second quarter, underscoring the continued troubles resulting from a deepen… [+2874 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Nikkei.com"
-      },
-      "author": "Staff Writer",
-      "title": "Japan carries out yen-buying intervention as US executes rate check - Nikkei Asia",
-      "description": "Actions help push Japanese currency into 157 range against dollar at one point",
-      "url": "https://asia.nikkei.com/business/markets/currencies/japan-carries-out-yen-buying-intervention-as-us-executes-rate-check",
-      "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F1%2F5%2F3%2F7%2F12927351-1-eng-GB%2F0a6c74ba6c4b-20260730N-dollar-yen-notes.jpg?fit=cover&gravity=faces&dpr=2&quality=medium&source=nar-cms&format=auto&width=1260&height=630",
-      "publishedAt": "2026-07-30T20:44:00Z",
-      "content": "LONDON/NEW YORK -- The Japanese government intervened in foreign-exchange markets to buy yen and sell dollars on Thursday, while U.S. authorities executed a rate check, a move often seen as a precurs… [+52 chars]"
+      "author": "Kit Norton",
+      "title": "ASML and 21 More Stocks to Consider Buying Out of the AI Wreckage - Barron's",
+      "description": "Sandisk, Nvidia, Microsoft, and several other AI-related stocks are worth keeping tabs even as the market remains volatile, according to this analyst.",
+      "url": "https://www.barrons.com/articles/asml-ai-stocks-buy-now-fd120464",
+      "urlToImage": "https://images.barrons.com/im-15782834/social",
+      "publishedAt": "2026-07-30T21:25:00Z",
+      "content": "The AI trade has hit the skids as of late, ignoring many of the solid earnings and upbeat outlooks. Its time to buy, bulk up, or both.\r\nCopyright ©2026Dow Jones &amp; Company, Inc. All Rights Reserve… [+34 chars]"
     },
     {
       "source": {
@@ -242,6 +177,19 @@
     },
     {
       "source": {
+        "id": "usa-today",
+        "name": "USA Today"
+      },
+      "author": "Greta Cross",
+      "title": "Did robot vacuums get sucked into new robot ban? - USA Today",
+      "description": "The Federal Communications Commission has expanded a ban to new foreign-made robotic devices due to national security threats.",
+      "url": "https://www.usatoday.com/story/tech/2026/07/30/foreign-robot-ban-rules-roombas-vacuums/91104970007/",
+      "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/07/30/USAT/91106686007-20190725-t-155352-z-346740977-mt-1-usatoday-13095766-rtrmadp-3-canrobotvacuumsdealwithstandirobotroomba-650-hero-1.JPG?crop=4444,2499,x0,y0&width=3200&height=1800&format=pjpg&auto=webp",
+      "publishedAt": "2026-07-30T20:01:00Z",
+      "content": "Roombas may be under attack by the U.S. government.\r\nThe U.S. Federal Communications Commission announced on July 28 that it is banning new foreign-made robotic devices due to national security threa… [+3238 chars]"
+    },
+    {
+      "source": {
         "id": null,
         "name": "Vox"
       },
@@ -255,6 +203,19 @@
     },
     {
       "source": {
+        "id": null,
+        "name": "Fox Business"
+      },
+      "author": "Eric Revell",
+      "title": "Cyclospora outbreak dents Taco Bell sales but recovery underway, exec says - Fox Business",
+      "description": "Yum Brands reports Taco Bell sales fell 2% amid the cyclospora outbreak linked to iceberg lettuce, but CFO says declines moderated materially.",
+      "url": "https://www.foxbusiness.com/lifestyle/cyclospora-outbreak-dents-taco-bell-sales-recovery-underway-exec-says",
+      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/07/0/0/person-holds-taco-bell-food.jpg?ve=1&tl=1",
+      "publishedAt": "2026-07-30T19:51:00Z",
+      "content": "The parent company of Taco Bell released its quarterly earnings report on Thursday and said that Taco Bell sales fell amid the cyclospora outbreak, though there were early signs of recovery in the la… [+3442 chars]"
+    },
+    {
+      "source": {
         "id": "nbc-news",
         "name": "NBC News"
       },
@@ -265,6 +226,19 @@
       "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-07/260730-amazon-zoox-ew-300p-966ba6.jpg",
       "publishedAt": "2026-07-30T19:23:50Z",
       "content": "Amazons Zoox unit has won U.S. approval for limited commercial deployment of its novel steering-wheel-free robotaxis, a first for the autonomous ride industry, the U.S. auto safety agency said on Thu… [+3745 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Financial Times"
+      },
+      "author": null,
+      "title": "Sandwich maker Jersey Mike’s and retailer Reformation fail to excite IPO investors - Financial Times",
+      "description": "Reformation and Jersey Mike’s test market appetite for consumer sector that has faced twin pressures",
+      "url": "https://www.ft.com/content/aa292d6f-3b12-4b7a-b558-7306e8d03b9e",
+      "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F67431a02-7000-4ce6-a716-19eb34a4cb9f.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
+      "publishedAt": "2026-07-30T19:20:03Z",
+      "content": "Then $75 per month. Complete digital access to quality FT journalism on any device. Cancel anytime during your trial."
     },
     {
       "source": {
@@ -294,19 +268,6 @@
     },
     {
       "source": {
-        "id": "bloomberg",
-        "name": "Bloomberg"
-      },
-      "author": "Janet Freund, Daniela Sirtori",
-      "title": "Blackstone-Backed Jersey Mike’s Falls 8.7% After $1 Billion IPO - Bloomberg",
-      "description": "Jersey Mike’s Subs Inc. shares slumped 6% in their first ever trading day, after the company and some of its shareholders raised $1 billion in a US initial public offering that priced at the midpoint of its marketed range.",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-30/blackstone-backed-jersey-mike-s-falls-8-7-after-1-billion-ipo",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/itR69BSUyUPg/v1/1200x800.jpg",
-      "publishedAt": "2026-07-30T17:11:26Z",
-      "content": "Jersey Mikes Subs Inc. shares slumped 6% in their first ever trading day, after the company and some of its shareholders raised $1 billion in a US initial public offering that priced at the midpoint … [+227 chars]"
-    },
-    {
-      "source": {
         "id": null,
         "name": "Yahoo Entertainment"
       },
@@ -317,6 +278,32 @@
       "urlToImage": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
       "publishedAt": "2026-07-30T16:26:19Z",
       "content": "This article first appeared on GuruFocus.\r\nMeta Platforms (NASDAQ:META) shares fell about 10% on Thursday morning after the Facebook and Instagram parent increased its artificial intelligence spendin… [+1110 chars]"
+    },
+    {
+      "source": {
+        "id": "the-washington-post",
+        "name": "The Washington Post"
+      },
+      "author": "Kevin Schaul, Gerrit De Vynck",
+      "title": "Five days inside a rogue AI agent’s stealthy cyberattack - The Washington Post",
+      "description": "A timeline of the unprecedented cyberattack by an OpenAI “agent” that escaped containment shows its sophistication.",
+      "url": "https://www.washingtonpost.com/technology/interactive/2026/07/30/timeline-cyberattack-by-openais-ai-agent-shows-its-sophistication/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/XDG3TXFU2EI6ZA2YECVBMNK7WQ.jpg&w=1200",
+      "publishedAt": "2026-07-30T16:00:00Z",
+      "content": "ChatGPT-maker OpenAI disclosed last week that one of its cutting-edge artificial intelligence systems had escaped from a controlled testing environment and hacked into another technology company. The… [+1283 chars]"
+    },
+    {
+      "source": {
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "author": "Carter Johnson",
+      "title": "‘Talk Is Cheap’: Wall Street Delivers Harsh Verdict on Warsh Fed - Bloomberg.com",
+      "description": "It had been just six weeks since Federal Reserve Chairman Kevin Warsh vowed to reestablish the central bank’s reputation as an inflation fighter. But as he took to the podium to explain why the Fed again sat on the fence Wednesday — and held interest rates st…",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-30/-talk-is-cheap-wall-street-delivers-harsh-verdict-on-warsh-fed",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iforFDaYxLdc/v2/1200x800.jpg",
+      "publishedAt": "2026-07-30T15:51:20Z",
+      "content": "It had been just six weeks since Federal Reserve Chairman Kevin Warsh vowed to reestablish the central banks reputation as an inflation fighter. But as he took to the podium to explain why the Fed ag… [+423 chars]"
     },
     {
       "source": {
@@ -333,32 +320,6 @@
     },
     {
       "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Lorenzo Franceschi-Bicchierai",
-      "title": "In the Hugging Face breach, OpenAI’s hacker was noisy and fast — but not unstoppable - TechCrunch",
-      "description": "Cybersecurity experts told TechCrunch that one of the biggest lessons to be taken from the OpenAI hack against Hugging Face has nothing to do with AI, but traditional cybersecurity defense.",
-      "url": "https://techcrunch.com/2026/07/30/in-the-hugging-face-breach-openais-hacker-was-noisy-and-fast-but-not-unstoppable/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/07/hugging-face-logo-smartphone.jpg?resize=1200,800",
-      "publishedAt": "2026-07-30T14:48:32Z",
-      "content": "Earlier this month, AI dataset platform Hugging Face shocked the world when it revealed that it had fallen victim to a fully autonomous AI-powered cyberattack. Days later, the story took another dram… [+6555 chars]"
-    },
-    {
-      "source": {
-        "id": "the-wall-street-journal",
-        "name": "The Wall Street Journal"
-      },
-      "author": "WSJ",
-      "title": "Shell Turns Refineries Up to 11 During Oil-Price Surge - WSJ",
-      "description": null,
-      "url": "https://www.wsj.com/business/energy-oil/shells-profits-climb-as-middle-east-conflict-continues-to-offer-earnings-windfall-478c6a6a",
-      "urlToImage": null,
-      "publishedAt": "2026-07-30T13:10:00Z",
-      "content": null
-    },
-    {
-      "source": {
         "id": "cnn",
         "name": "CNN"
       },
@@ -372,19 +333,6 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "Financial Times"
-      },
-      "author": null,
-      "title": "Kevin Warsh’s stripped-back Fed communication ‘already backfiring’, say investors - Financial Times",
-      "description": "Traders warn lack of guidance on interest rates erodes US central bank’s influence on Treasury market",
-      "url": "https://www.ft.com/content/57aac838-baee-406d-b4ac-c0ffda351aee?syn-25a6b1a6\\\\u003d1",
-      "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fb5b69d3f-bbf6-4881-a899-3b76530c47ce.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
-      "publishedAt": "2026-07-30T10:24:26Z",
-      "content": "Access to eight surprising articles a day, hand-picked by FT editors. For seamless reading, access content via the FT Edit page on FT.com and receive the FT Edit newsletter.\r\n<ul><li></li>FT Edit: Ac… [+23 chars]"
-    },
-    {
-      "source": {
         "id": "the-wall-street-journal",
         "name": "The Wall Street Journal"
       },
@@ -394,19 +342,6 @@
       "url": "https://www.wsj.com/cio-journal/ibm-claims-new-era-of-quantum-advantage-92e3d5d4",
       "urlToImage": null,
       "publishedAt": "2026-07-30T10:00:00Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "FierceBiotech"
-      },
-      "author": "James Waldron",
-      "title": "Sanofi’s new CEO ‘looking deeply’ at late-stage pipeline as clinical clearout continues - Fierce Biotech",
-      "description": "When Belén Garijo, M.D., Ph.D., left the top job at Germany’s Merck KGaA to head over to Sanofi, she was inheriting a company in need of course correction. | Sanofi's new CEO Belén Garijo opened up for the first time about her strategy to reverse a trend of c…",
-      "url": "https://www.fiercebiotech.com/biotech/sanofis-new-ceo-looking-deeply-late-stage-pipeline-clinical-clearout-continues",
-      "urlToImage": "https://qtxasset.com/quartz/qcloud5/media/image/MERCK_Belen%20Garijo_2025.jpg?VersionId=CmGRz1vjA9IrWnAFTrAthBKWiuVFe8P7",
-      "publishedAt": "2026-07-30T07:27:12Z",
       "content": null
     },
     {

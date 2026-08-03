@@ -3,9 +3,35 @@
   "country": "us",
   "category": "business",
   "mode": "country",
-  "fetched_at": "2026-08-03T05:23:52.535330+00:00",
+  "fetched_at": "2026-08-03T08:53:03.559216+00:00",
   "articles_count": 63,
   "articles": [
+    {
+      "source": {
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
+      },
+      "author": "WSJ",
+      "title": "Amazon and Apple Deliver the Drama to Close a Turbulent Month - WSJ",
+      "description": null,
+      "url": "https://www.wsj.com/finance/stocks/amazon-and-apple-deliver-the-drama-to-close-a-turbulent-month-41d82dc9",
+      "urlToImage": null,
+      "publishedAt": "2026-08-02T07:06:23Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CoinDesk"
+      },
+      "author": "Shaurya Malwa",
+      "title": "Bitcoin cold-wallet attack spreads to 4,500 addresses as losses near $89 million - coindesk.com",
+      "description": "Galaxy Research flagged a third wave of sweeps tied to weak Coldcard-generated keys, with the attacker now targeting smaller balances and changing how funds are collected onchain.",
+      "url": "https://www.coindesk.com/tech/2026/08/02/bitcoin-cold-wallet-attack-spreads-to-4-500-addresses-as-losses-near-usd89-million",
+      "urlToImage": "https://cdn.sanity.io/images/s3y3vcno/production/6c28c3dcd5461d3803d6e6200f1da0686dde993f-1920x1082.jpg?auto=format&q=75",
+      "publishedAt": "2026-08-02T04:32:59Z",
+      "content": "The attacker working through Coldcard-generated keys is now emptying wallets worth a few thousand dollars each.\r\nGalaxy Research flagged a third wave of sweeps early Sunday, roughly 208 bitcoin drain… [+908 chars]"
+    },
     {
       "source": {
         "id": "the-wall-street-journal",
@@ -47,16 +73,16 @@
     },
     {
       "source": {
-        "id": "fortune",
-        "name": "Fortune"
+        "id": "techcrunch",
+        "name": "TechCrunch"
       },
-      "author": "Jason Ma",
-      "title": "The labor market could become so backward that the economy will have to shed jobs to keep unemployment steady - Fortune",
-      "description": "\"Today, the labor market’s speed limit is much lower than just a few years ago, setting the stage for a jobless expansion.\"",
-      "url": "https://fortune.com/2026/08/01/the-labor-market-could-become-so-backward-that-the-economy-will-have-to-shed-jobs-to-keep-unemployment-steady/",
-      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/08/GettyImages-2273897892-e1785621366556.jpg?resize=1200,600",
-      "publishedAt": "2026-08-01T23:15:00Z",
-      "content": "President Donald Trumps immigration crackdown and the surge in baby boomer retirements could soon redefine what it means to have a healthy labor market.Americans have long been conditioned to expect … [+3445 chars]"
+      "author": "Anthony Ha",
+      "title": "Judge denies xAI’s request to block Minnesota ban on ‘nudify’ apps - TechCrunch",
+      "description": "Despite a lawsuit from xAI, a Minnesota ban on apps that allow users to “nudify” images can move forward.",
+      "url": "https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2207699717.jpg?resize=1200,800",
+      "publishedAt": "2026-08-01T20:26:04Z",
+      "content": "Despite a lawsuit from xAI, a Minnesota ban on apps that allow users to nudify images can move forward, according to NBC News.\r\nU.S. District Judge Donovan Franks ruling focused as much on the timing… [+900 chars]"
     },
     {
       "source": {
@@ -70,19 +96,6 @@
       "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2F34%2F10%2Ff4802ba147fab72b7a40588c4ea2%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F1733699760",
       "publishedAt": "2026-08-01T20:00:00Z",
       "content": "It is flooded with millions more claims from doctors seeking payment from insurers than anticipated. Doctors are sometimes receiving arbitration payouts for things like breast reductions and spinal s… [+2030 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Austin American-Statesman"
-      },
-      "author": "Faith Bugenhagen",
-      "title": "Under the new THC laws, what happens if you're caught with delta-8 during a traffic stop? - Austin American-Statesman",
-      "description": "Austin authorities detail charges Texans could face if they're pulled over and found to be in possession of delta-8.",
-      "url": "https://www.statesman.com/news/politics/state/article/austin-texas-thc-laws-delta-8-22370052.php",
-      "urlToImage": "https://s.hdnux.com/photos/01/65/52/05/30843247/5/rawImage.jpg",
-      "publishedAt": "2026-08-01T19:29:56Z",
-      "content": "THC concentrates are seen at iVape ATX, on Guadalupe Street in Austin on March 30. A change to Texas hemp rules effectively banning the sale of smokable hemp and extracts took effect on March 31.\r\nMi… [+2080 chars]"
     },
     {
       "source": {
@@ -113,6 +126,19 @@
     {
       "source": {
         "id": null,
+        "name": "Chicago Daily Herald"
+      },
+      "author": "Marni Pyke",
+      "title": "‘Much, much more than what’s been reported’: Keep cyclospora on your radar as cases climb in Illinois, expert advises - Daily Herald",
+      "description": "With cyclosporiasis cases continuing to spike in Illinois, medical experts advise residents to avoid certain types of lettuce and take basic precautions, such as thoroughly rinsing greens to dodge the...",
+      "url": "https://www.dailyherald.com/20260801/news/much-much-more-than-whats-been-reported-keep-cyclospora-on-your-radar-as-cases-climb-in-illinoi/",
+      "urlToImage": "https://imengine.public.prod.pdh.navigacloud.com/?uuid=c8b1081c-2658-5344-b005-f546a63d4efa&function=fit&type=preview",
+      "publishedAt": "2026-08-01T18:55:00Z",
+      "content": "Cook County Department of Public Health Senior Medical Officer Rachel Rubin, shown at John H. Stroger, Jr. Hospital in Chicago, advises people with watery diarrhea, weakness and other serious symptom… [+4898 chars]"
+    },
+    {
+      "source": {
+        "id": null,
         "name": "New York Post"
       },
       "author": "Titus Wu",
@@ -122,6 +148,19 @@
       "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/08/136195452.jpg?quality=75&strip=all&w=1200",
       "publishedAt": "2026-08-01T18:18:00Z",
       "content": "A nationwide explosive diarrhea crisis that has left thousands clinging to their toilets and hospitalized others also seems to have another victim: lettuce growers in California.\r\nSome like Larry Cox… [+3861 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "WFAA.com"
+      },
+      "author": "WFAA",
+      "title": "Could a new federal lawsuit stop the Texas THC ban? - WFAA",
+      "description": null,
+      "url": "https://www.wfaa.com/article/news/local/texas/texas-thc-ban-new-federal-lawsuit/287-9ba897f3-2f95-4348-a81d-2fde4283a3e6",
+      "urlToImage": null,
+      "publishedAt": "2026-08-01T17:10:00Z",
+      "content": null
     },
     {
       "source": {
@@ -148,6 +187,19 @@
       "urlToImage": "https://api-prod.gothamist.com/images/358429/fill-1200x650|format-webp|webpquality-85/",
       "publishedAt": "2026-08-01T16:46:00Z",
       "content": "New York wants to shut down Kalshi.\r\nA lawsuit filed Friday accuses the prediction platform of illegally functioning as an unregulated sports betting platform. The 32-page complaint, filed in state S… [+2953 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "FRANCE 24 English"
+      },
+      "author": "FRANCE 24",
+      "title": "Fast access to Trump's ‘Truth Social’ posts goes on sale for $100,000 per month - France 24",
+      "description": "US President Donald Trump's posts on his Truth Social platform can move markets with a few keystrokes. Starting Saturday, for a fee of $100,000 a month, Wall Street traders can access his \"Truth API\" service to have high-speed access to the president's announ…",
+      "url": "https://www.france24.com/en/americas/20260801-fast-access-trump-truth-social-posts-sale-for-100-000-per-month",
+      "urlToImage": "https://s.france24.com/media/display/2227fa5e-8db4-11f1-84ff-005056bf30b7/w:1280/p:16x9/AP26155702431913.jpg",
+      "publishedAt": "2026-08-01T15:29:08Z",
+      "content": "US President Donald Trump knows the world hangs on his every word. Now he wants you to pay for it.\r\nThe social media posts of the world's most powerful man are going on sale Saturday when his Truth S… [+6551 chars]"
     },
     {
       "source": {
@@ -307,6 +359,19 @@
     },
     {
       "source": {
+        "id": "usa-today",
+        "name": "USA Today"
+      },
+      "author": "Keith Laing",
+      "title": "Americans are rolling record debt into new vehicles. These top the list - USA Today",
+      "description": "With new car prices averaging close to $50,000, more buyers are going into debt to finance purchases. Here's the most likely models to be underwater.",
+      "url": "https://www.usatoday.com/story/cars/shopping/2026/08/01/cars-likely-underwater-loans/91120987007/",
+      "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2025/12/10/USNK/87700855007-chevrolet-2026-silverado-26-chslld-00002.jpg?crop=2999,1687,x0,y130&width=2999&height=1687&format=pjpg&auto=webp",
+      "publishedAt": "2026-08-01T12:02:00Z",
+      "content": "<ul><li>A record number of car buyers are trading in vehicles with negative equity, according to new data from Edmunds.</li><li>The average amount of negative equity on trade-ins reached a record hig… [+5940 chars]"
+    },
+    {
+      "source": {
         "id": null,
         "name": "Phys.Org"
       },
@@ -373,19 +438,6 @@
     {
       "source": {
         "id": null,
-        "name": "Cnevpost.com"
-      },
-      "author": "Phate Zhang",
-      "title": "BYD July sales jump 21.8% as overseas deliveries hit fresh record - CnEVPost",
-      "description": "BYD sold 419,211 NEVs at wholesale in July, up 21.76% year-on-year, the third consecutive month of annual growth.",
-      "url": "https://cnevpost.com/2026/08/01/byd-jul-2026-sales/",
-      "urlToImage": "https://cnevpost.com/wp-content/uploads/2026/08/2026080110102843.jpg",
-      "publishedAt": "2026-08-01T10:11:05Z",
-      "content": "<table>BYD Monthly NEV Sales 2024-2026\r\n<tr><th>Month</th><th>2024</th><th>2025</th><th>2026</th></tr>\r\n<tr><td>January</td><td>201,493</td><td>300,538</td><td>210,051</td></tr><tr><td>February</td><… [+8423 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "Financial Times"
       },
       "author": null,
@@ -412,15 +464,15 @@
     {
       "source": {
         "id": null,
-        "name": "NPR"
+        "name": "Financial Times"
       },
-      "author": "Kate Wells",
-      "title": "Nurses chase Cyclospora using grocery receipts, food apps and detailed interviews - NPR",
-      "description": "Public health nurses have been pulled from other duties in Washtenaw County, MI, to call hundreds of people sick with cyclosporiasis, and try to help them remember everything they ate in recent days.",
-      "url": "https://www.npr.org/2026/08/01/nx-s1-5915633/cyclosporiasis-washtenaw-michigan-foodborne-illness-cdc",
-      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6000x3375+0+313/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fdb%2Fe0%2Fe077c11d4af68938d74039929127%2Fimg-6256.JPG",
-      "publishedAt": "2026-08-01T09:00:00Z",
-      "content": "More than 900 people in Washtenaw County, Michigan have been sickened with cyclosporiasis since mid-June. Linda Kim, a public health nurse, has spoken to more than 100 of them. \r\nAlmost everyone's sa… [+6181 chars]"
+      "author": null,
+      "title": "AI’s ‘cookie banner’ moment: EU labels come for the bots - Financial Times",
+      "description": "New regulations require companies to label chatbots, deepfakes and AI-generated marketing material",
+      "url": "https://www.ft.com/content/19ff059b-1d02-4f0e-9b34-ce96edb0cb13?syn-25a6b1a6\\\\u003d1",
+      "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F266ee9c8-ad3d-4da0-a1bf-469fb6b1566f.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
+      "publishedAt": "2026-08-01T09:21:05Z",
+      "content": "Then $75 per month. Complete digital access to quality FT journalism on any device. Cancel anytime during your trial."
     },
     {
       "source": {
@@ -437,6 +489,45 @@
     },
     {
       "source": {
+        "id": null,
+        "name": "Motley Fool"
+      },
+      "author": "Prosper Junior Bakiny",
+      "title": "Amazon vs. Microsoft vs. Alphabet: Which Is the Best Cloud Stock to Buy Now? - The Motley Fool",
+      "description": "The size of their respective cloud businesses matters, but there are other important considerations.",
+      "url": "https://www.fool.com/investing/2026/08/01/amazon-vs-microsoft-vs-alphabet-which-is-the-best/",
+      "urlToImage": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F881389%2Falphabet-logo.png&w=1200&op=resize",
+      "publishedAt": "2026-08-01T07:55:00Z",
+      "content": "Earnings season is in full swing, and recently, the three largest hyperscalers released their quarterly updates. Of course, we are talking about the \"Big Three\" in the cloud computing industry: Amazo… [+4972 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Motley Fool"
+      },
+      "author": "Katie Brockman, The Motley Fool",
+      "title": "Fear Is Driving the Stock Market. Warren Buffett Has 6 Words for Moments Exactly Like This. - Yahoo Finance",
+      "description": "Investors are getting nervous, but Warren Buffett has some encouraging advice.",
+      "url": "https://www.fool.com/investing/2026/08/01/fear-is-driving-the-stock-market-warren-buffett-ha/",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/8DDB5D322651D51C2F0F4AF6F885B5BC79331A91B52CD4FB895AC8A51119E100/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fmotleyfool.com%2Fd3c4015b78f67518a2efb21b8e8cb9e1",
+      "publishedAt": "2026-08-01T06:50:00Z",
+      "content": "It's been a rough few weeks for the stock market. Surging oil prices and the tech sell-off continue to plague Wall Street, and although the Federal Reserve chose to hold interest rates steady in July… [+4606 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Financial Times"
+      },
+      "author": null,
+      "title": "Why South Korea’s won is one of world’s best performers - Financial Times",
+      "description": "Currency strengthened nearly 8% against dollar despite tech stock sell-off",
+      "url": "https://www.ft.com/content/1b8a5bf5-d043-4a28-a606-801a00bb8082?syn-25a6b1a6\\\\u003d1",
+      "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F7f2d182a-9cba-4bf4-879a-2307bd9f24c8.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
+      "publishedAt": "2026-08-01T02:10:27Z",
+      "content": "Then $75 per month. Complete digital access to quality FT journalism on any device. Cancel anytime during your trial."
+    },
+    {
+      "source": {
         "id": "the-hill",
         "name": "The Hill"
       },
@@ -450,6 +541,19 @@
     },
     {
       "source": {
+        "id": null,
+        "name": "The Takeout"
+      },
+      "author": "Maria Scinto",
+      "title": "16 New Costco Finds That Had Customers Running To The Store In 2026 (So Far) - The Takeout",
+      "description": "These sixteen products were new to Costco in 2026 and were popular with customers, including a lemon custard pie, a blueberry sourdough, and donuts.",
+      "url": "https://www.thetakeout.com/2224399/new-costco-finds-customers-running-2026-so-far/",
+      "urlToImage": "https://www.thetakeout.com/img/gallery/16-new-costco-finds-that-had-customers-running-to-the-store-in-2026-so-far/l-intro-1785178841.jpg",
+      "publishedAt": "2026-08-01T01:20:00Z",
+      "content": "One of the best parts of shopping at Costco (besides rewarding yourself with a treat from the food court) is that you never know what exciting new discoveries lie in store. The chain is constantly re… [+10653 chars]"
+    },
+    {
+      "source": {
         "id": "msnbc",
         "name": "MS Now"
       },
@@ -460,19 +564,6 @@
       "urlToImage": "https://www.ms.now/wp-content/uploads/2026/07/260731-george-santos-fined-banned-from-kalshi-market-zz.webp?w=1200&h=630&crop=1",
       "publishedAt": "2026-08-01T00:32:33Z",
       "content": "Former Republican congressman George Santos has agreed to pay more than $35,000 in fines and is temporarily barred from trading on Kalshi after federal regulators concluded he unlawfully manipulated … [+2208 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Michiganadvance.com"
-      },
-      "author": "Kyle Davidson",
-      "title": "Michigan Supreme Court sides with Nessel, overrules cases curtailing consumer protection law - Michigan Advance",
-      "description": "In a 4-3 decision Friday, the Michigan Supreme Court rejected a lower court's decision preventing Michigan Attorney General Dana Nessel from moving forward with a price-gouging investigation against a major insulin manufacturer.",
-      "url": "https://michiganadvance.com/briefs/michigan-supreme-court-sides-with-nessel-overrules-cases-curtailing-consumer-protection-law/",
-      "urlToImage": "https://michiganadvance.com/wp-content/uploads/2025/05/IMG_8824-2048x1536.jpeg",
-      "publishedAt": "2026-07-31T22:47:14Z",
-      "content": "by Kyle Davidson, Michigan AdvanceJuly 31, 2026\r\nIn a 4-3 decision Friday, the Michigan Supreme Court rejected a lower court’s decision preventing Michigan Attorney General Dana Nessel from moving fo… [+3008 chars]"
     },
     {
       "source": {
@@ -541,19 +632,6 @@
     },
     {
       "source": {
-        "id": "bloomberg",
-        "name": "Bloomberg"
-      },
-      "author": "Felice Maranz",
-      "title": "US Stocks Falter as AI-Driven Rally Fades Despite Amazon Blowout - Bloomberg.com",
-      "description": "US stocks rose on Friday as Amazon.com Inc.’s 15% rally after stellar results lifted a broad sweep of companies benefiting from zeal for artificial intelligence.",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-31/futures-rise-as-everything-ai-rallies-on-amazon-s-blowout-growth",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iUFuylBInH.A/v1/1200x800.jpg",
-      "publishedAt": "2026-07-31T20:05:26Z",
-      "content": "US stocks rose on Friday as Amazon.com Inc.s 15% rally after stellar results lifted a broad sweep of companies benefiting from zeal for artificial intelligence. \r\nThe S&amp;P 500 Index closed 0.7% hi… [+288 chars]"
-    },
-    {
-      "source": {
         "id": null,
         "name": "Investor's Business Daily"
       },
@@ -590,6 +668,19 @@
       "urlToImage": "https://media.nbcmiami.com/2026/02/GettyImages-2259750072.jpg?quality=85&strip=all&resize=1200%2C675",
       "publishedAt": "2026-07-31T18:29:31Z",
       "content": "A South Florida U.S. Postal Service employee is facing charges after she was accused of stealing a winning lottery ticket and cashing it in, authorities said.\r\nLekaysha Lockhart, 28, of Hollywood, wa… [+1274 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "New York Post"
+      },
+      "author": "Ariel Zilber",
+      "title": "Apple stock sinks 7% after Tim Cook warns of ‘100-year flood’ in memory prices - New York Post",
+      "description": "The iPhone maker warned that supply constraints and slowing growth would weigh on results in the current quarter.",
+      "url": "https://nypost.com/2026/07/31/business/apple-stock-sinks-10-after-tim-cook-warns-of-100-year-flood-in-memory-prices/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/07/newspress-collage-iltp3zgiu-1785518912154.jpg?quality=75&strip=all&1785504586&w=1200",
+      "publishedAt": "2026-07-31T18:07:45Z",
+      "content": "Apple shares plunged 7% on Friday in the tech giant’s worst one-day selloff since March 2020 after it warned that supply constraints and slowing growth would weigh on results in the current quarter —… [+2597 chars]"
     },
     {
       "source": {
@@ -671,32 +762,6 @@
     },
     {
       "source": {
-        "id": "the-wall-street-journal",
-        "name": "The Wall Street Journal"
-      },
-      "author": "Nick Timiraos",
-      "title": "Exclusive | Fed’s Barkin Says It’s a ‘Close Call’ Whether Rates Are High Enough - WSJ",
-      "description": "Richmond Fed president, who doesn’t vote on policy this year, says he doesn’t know whether he would have joined three colleagues who dissented in favor of a rate increase",
-      "url": "https://www.wsj.com/economy/central-banking/tom-barkin-fed-president-interest-rates-99f2b676",
-      "urlToImage": "https://images.wsj.net/im-18371564/social",
-      "publishedAt": "2026-07-31T16:49:00Z",
-      "content": "Richmond Fed President Tom Barkin said it is a close call whether the central banks interest-rate setting is high enough to bring \r\ninflation down, and that he didnt know whether he would have joined… [+502 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "WPLG Local 10"
-      },
-      "author": null,
-      "title": "Texas man arrested in videoed attack on Bayside Hard Rock Cafe server, police say - WPLG Local 10",
-      "description": "A Miami-Dade Crime Stoppers tip led to the arrest of a Texas man in a video-recorded attack on a Hard Rock Cafe server at Bayside Marketplace in downtown Miami, according to police.",
-      "url": "https://www.local10.com/news/local/2026/07/31/texas-man-arrested-in-videoed-attack-on-bayside-hard-rock-cafe-server-police-say/",
-      "urlToImage": "https://wplginc-wplg-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd2p7h58ldpiqzj.cloudfront.net%2F07-31-2026%2Ft_634c771dac964df896c6b6f213a7bfee_name_47502894515_hdtv.jpg?auth=d9fc0abbfb697a5f10d5cdb24fed92253029607fc4944adb565cb200d1d24257&width=700",
-      "publishedAt": "2026-07-31T16:28:21Z",
-      "content": "MIAMI — A Miami-Dade Crime Stoppers tip led to the arrest of a Texas man in a video-recorded attack on a Hard Rock Cafe server at Bayside Marketplace in downtown Miami, according to police.\r\nLeer en … [+2635 chars]"
-    },
-    {
-      "source": {
         "id": null,
         "name": "Forbes"
       },
@@ -711,41 +776,28 @@
     {
       "source": {
         "id": null,
-        "name": "Benzinga"
+        "name": "TheStreet"
       },
-      "author": "Piero Cingari",
-      "title": "Apple’s Worst Day Since March 2020: A ‘100-Year Flood’ - Apple (NASDAQ:AAPL), SAMSUNG ELECT LTD by Samsun - Benzinga",
-      "description": "Apple lost about $475 billion in market value on July 31 after Tim Cook called memory pricing a hundred-year flood.",
-      "url": "https://www.benzinga.com/markets/tech/26/07/60842658/pple-stock-worst-day-since-2020-memory-costs-tim-cook-100-year-flood",
-      "urlToImage": "https://cdn.benzinga.com/cdn-cgi/image/width=1200,height=800,fit=crop/files/images/story/2026/07/31/New-York---July-21-Apple-Store-On-Fifth-.jpg",
-      "publishedAt": "2026-07-31T14:53:05Z",
-      "content": "Revenue records in every geographic segment it operates in, with iPhone growth of 22% and the best Mac quarter the company has ever had. The company beat Wall Street estimates.\r\nShares fell 9.7% duri… [+3722 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "AL.com"
-      },
-      "author": "AL.com",
-      "title": "Fruit sold at Publix sickens multiple people in 8 states - AL.com",
+      "author": "thestreet.com",
+      "title": "SpaceX turns heads ahead of earnings with new mega deal - thestreet.com",
       "description": null,
-      "url": "https://www.al.com/news/2026/07/fruit-sold-at-publix-sickens-multiple-people-in-8-states.html",
+      "url": "https://www.thestreet.com/investing/stocks/spcx-spacex-space-force-16-billion-launch-contract-earnings",
       "urlToImage": null,
-      "publishedAt": "2026-07-31T14:29:00Z",
+      "publishedAt": "2026-07-31T14:17:00Z",
       "content": null
     },
     {
       "source": {
         "id": null,
-        "name": "Greater Baton Rouge Business Report"
+        "name": "Barron's"
       },
-      "author": "Daily Report Staff",
-      "title": "Could less costly plug-in solar be a game changer? - Baton Rouge Business Report",
-      "description": "Plug-in solar panels, which allow homeowners and renters to generate electricity by connecting a solar system to a standard household outlet, are gaining attention as a lower-cost alternative to traditional rooftop solar, The New York Times reports.  Priced f…",
-      "url": "https://www.businessreport.com/article/could-less-costly-plug-in-solar-be-a-game-changer",
-      "urlToImage": "https://s25562.pcdn.co/wp-content/uploads/2026/05/Business-Report-2026-default-image.jpg.optimal.jpg",
-      "publishedAt": "2026-07-31T14:18:28Z",
-      "content": "Plug-in solar panels, which allow homeowners and renters to generate electricity by connecting a solar system to a standard household outlet, are gaining attention as a lower-cost alternative to trad… [+1398 chars]"
+      "author": "Adam Clark, Anita Hamilton",
+      "title": "Nvidia Is Back on Top as Most Valuable Company After Apple Stumbles - Barron's",
+      "description": "Nvidia stock was rising after Amazon raised its capital expenditure forecast and played down competition between its custom AI chips and Nvidia’s processors.",
+      "url": "https://www.barrons.com/articles/nvidia-stock-price-amazon-2354d905",
+      "urlToImage": "https://images.barrons.com/im-53587931/social",
+      "publishedAt": "2026-07-31T13:26:00Z",
+      "content": "Nvidiaregained its title as the worlds most valuable company Friday after Apple stock slumped andAmazon.com reminded everyone how important Nvidias processors are to the artificial-intelligence boom.… [+99 chars]"
     },
     {
       "source": {
@@ -763,19 +815,6 @@
     {
       "source": {
         "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Ines Ferré",
-      "title": "Amazon stock soars as e-commerce giant's AWS cloud business booms in 'home run' quarter - Yahoo Finance",
-      "description": "The e-commerce and cloud giant topped second quarter expectations as accelerating cloud growth at Amazon Web Services (AWS) helped drive strong results.",
-      "url": "https://finance.yahoo.com/markets/stocks/article/amazon-stock-soars-15-as-e-commerce-giants-aws-cloud-business-booms-in-home-run-quarter-122456315.html",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/86CC36415AE0127661DA66DF34AAD4161619F2B9548C56727D2A6046ACB91C7C/subgraphmysterio/resizefill_w1200_h775;quality_80;format_webp/https:%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2025-07%2F03726c00-6d5a-11f0-97ff-bfe6c78643ec",
-      "publishedAt": "2026-07-31T12:24:56Z",
-      "content": "What's happened: Amazon (AMZN) stock soared 15% on Friday.\r\nWhat's behind the move: The e-commerce and cloud giant topped second quarter expectations as accelerating cloud growth at Amazon Web Servic… [+2062 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "Barron's"
       },
       "author": null,
@@ -785,45 +824,6 @@
       "urlToImage": "https://images.barrons.com/im-33676109/social",
       "publishedAt": "2026-07-31T12:08:00Z",
       "content": "A furious end to an action-packed week for U.S. stocks will wrap up on Friday with indexes looking to close out the month of July on a high note.\r\nCopyright ©2026Dow Jones &amp; Company, Inc. All Rig… [+45 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The Denver Post"
-      },
-      "author": "Noelle Phillips",
-      "title": "National trade association sues Colorado in attempt to block state’s free curbside recycling plan - The Denver Post",
-      "description": "A national trade association sued Colorado over its plan to expand free curbside recycling to 700,000 homes and businesses by 2035, arguing the fee structure and management is unconstitutional.",
-      "url": "https://www.denverpost.com/2026/07/31/national-trade-association-sues-colorado-in-attempt-to-block-states-free-curbside-recycling-plan/",
-      "urlToImage": "https://www.denverpost.com/wp-content/uploads/2026/07/TDP-L-recycling070926-cha-092.jpg?w=8256&h=5504",
-      "publishedAt": "2026-07-31T10:00:56Z",
-      "content": "Colorado’s plan to offer free statewide recycling could be in the dumps after a national trade association sued the state Thursday over how the plan is managed and funded.\r\nThe New Civil Liberties Al… [+3675 chars]"
-    },
-    {
-      "source": {
-        "id": "the-wall-street-journal",
-        "name": "The Wall Street Journal"
-      },
-      "author": "WSJ",
-      "title": "A Simple Answer to AI Job Loss: Tax Capital, Not Labor - WSJ",
-      "description": null,
-      "url": "https://www.wsj.com/tech/ai/a-simple-answer-to-ai-job-loss-tax-capital-not-labor-cb900e62",
-      "urlToImage": null,
-      "publishedAt": "2026-07-31T09:30:00Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Motor1 "
-      },
-      "author": "Adrian Padeanu",
-      "title": "Ferrari Is Sold Out Through 2027 - Motor1.com",
-      "description": "Ferrari is happy to report that it has enough orders to cover its entire 2027 production run, meaning new orders won’t be fulfilled until 2028 at the earliest.",
-      "url": "https://www.motor1.com/news/803305/ferrari-sold-out-through-2027/",
-      "urlToImage": "https://cdn.motor1.com/images/mgl/E6Nl4o/s1/ferrari-849-testarossa-spider-first-drive-review.jpg",
-      "publishedAt": "2026-07-31T07:18:00Z",
-      "content": "Youd think that with all the controversy surrounding the Luce, it would alienate deep-pocketed buyers shopping for a new car from Maranello. However, armed with patience and fat bank accounts, the ri… [+2930 chars]"
     }
   ]
 }

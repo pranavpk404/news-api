@@ -3,21 +3,47 @@
   "country": "us",
   "category": "business",
   "mode": "country",
-  "fetched_at": "2026-08-06T01:10:23.773180+00:00",
-  "articles_count": 44,
+  "fetched_at": "2026-08-06T04:49:48.813232+00:00",
+  "articles_count": 36,
   "articles": [
     {
       "source": {
-        "id": null,
-        "name": "Investor's Business Daily"
+        "id": "politico",
+        "name": "Politico"
       },
-      "author": null,
-      "title": "Dow Jones Futures Rise; SpaceX, AMD, Arista Lead Earnings Movers After S&P 500 Jumps To High - Investor's Business Daily",
-      "description": "The Nasdaq powered above its 50-day while the Dow and S&P 500 hit highs.",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-sp-500-spacex-amd-arista-eli-lily-earnings/",
-      "urlToImage": "https://www.investors.com/wp-content/uploads/2020/05/Stock-SpaceX-DragonCapsul-company.jpg",
-      "publishedAt": "2026-08-05T00:01:00Z",
-      "content": "Information in Investors Business Daily is for informational and educational purposes only and should not be construed as an offer, recommendation, solicitation, or rating to buy or sell securities. … [+1064 chars]"
+      "author": "John Sakellariadis",
+      "title": "Anthropic and OpenAI models tried to trick humans into poisoning code during safety testing - Politico",
+      "description": "The latest disclosures are likely to heighten concerns that the powerful technology is advancing too fast for responsible oversight.",
+      "url": "https://www.politico.com/news/2026/08/04/anthropic-openai-aisi-testing-01025042",
+      "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2F09%2F32%2F11483d104a17b7e49853138a3a22%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2280226508",
+      "publishedAt": "2026-08-05T03:00:00Z",
+      "content": "In another sign of deceitful behavior AISI uncovered in its investigation, multiple AI agents it was testing appeared to communicate with one another about how to convince real engineers using GitHub… [+1995 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Fox Business"
+      },
+      "author": "Landon Mion",
+      "title": "Buc-ee’s sues Ohio mini-mart over beaver logo branding, alleging trademark infringement - Fox Business",
+      "description": "Buc-ee's sued Beaver's Mini Mart in Beavercreek, Ohio, over its beaver logo after comedian John Oliver dared the chain to pick on someone its own size.",
+      "url": "https://www.foxbusiness.com/economy/buc-ees-sues-ohio-mini-mart-over-beaver-logo-branding-alleging-trademark-infringement",
+      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/01/0/0/buc-ees-store-interior.jpg?ve=1&tl=1",
+      "publishedAt": "2026-08-05T01:33:00Z",
+      "content": "Buc-ee’s has sued a small mini-mart in Ohio, alleging its cartoon beaver logo is too similar to the popular Texas-based chain's iconic logo, adding to the various lawsuits the company has filed again… [+4457 chars]"
+    },
+    {
+      "source": {
+        "id": "axios",
+        "name": "Axios"
+      },
+      "author": "Maria Curi",
+      "title": "Scoop: Inside Trump's AI framework - Axios",
+      "description": "The White House is excluding open models from its framework to test advanced AI capabilities.",
+      "url": "https://www.axios.com/2026/08/04/trump-ai-framework-open-models",
+      "urlToImage": "https://images.axios.com/qjuQp7hPC0fkFCc05UWlAlol-dI=/0x0:1920x1080/1366x768/2025/09/05/1757099519535.jpeg",
+      "publishedAt": "2026-08-05T00:47:04Z",
+      "content": "What's inside: The AI framework reviewed on Tuesday defines a covered frontier model as closed-source with state-of-the-art capabilities and national security risks, multiple sources briefed on meeti… [+1736 chars]"
     },
     {
       "source": {
@@ -35,41 +61,15 @@
     {
       "source": {
         "id": null,
-        "name": "Barron's"
+        "name": "BBC News"
       },
-      "author": "Evie Liu",
-      "title": "Chipotle Stock Tanks on Potential Salmonella Outbreak Tied to Jalapeños - Barron's",
-      "description": "Minnesota officials said Chipotle has fully cooperated with the investigation and they are no longer concerned about continued exposure.",
-      "url": "https://www.barrons.com/articles/chipotle-stock-potential-salmonella-outbreak-jalapenos-e141c4e1",
-      "urlToImage": "https://images.barrons.com/im-58712610/social",
-      "publishedAt": "2026-08-04T23:16:00Z",
-      "content": "Chipotle Mexican Grillremoved jalapeños from several Minnesota restaurants after state health officials linked the peppers to a salmonella outbreak that has sickened at least 110 people.\r\nCopyright ©… [+86 chars]"
-    },
-    {
-      "source": {
-        "id": "wired",
-        "name": "Wired"
-      },
-      "author": "Paresh Dave, Brian Barrett",
-      "title": "OK, Well, Rogue AI Agents Are Hacking Again - WIRED",
-      "description": "Rogue AI agents from OpenAI and Anthropic have again been caught trying to disrupt servers and software—and leaving instructions for future bad behavior.",
-      "url": "https://www.wired.com/story/ok-well-there-are-even-more-ai-agent-hacking-incidents/",
-      "urlToImage": "https://media.wired.com/photos/6a726eae679c5abd64d0d058/191:100/w_1280,c_limit/Chat-GPT-Agents-Hacking-More-Business-2275331611.jpg",
-      "publishedAt": "2026-08-04T23:11:00Z",
-      "content": "Its officially getting hard to keep track of all the times and ways AI models from OpenAI and Anthropic have been involved in security incidents, going outside the confines of their testing and inter… [+3971 chars]"
-    },
-    {
-      "source": {
-        "id": "the-wall-street-journal",
-        "name": "The Wall Street Journal"
-      },
-      "author": "wsj.com",
-      "title": "White House AI Guidelines Exempt U.S. Open Models From Government Review - wsj.com",
-      "description": null,
-      "url": "https://www.wsj.com/tech/ai/white-houses-ai-guidelines-exempt-u-s-open-models-from-government-review-74924eb8",
-      "urlToImage": null,
-      "publishedAt": "2026-08-04T23:07:00Z",
-      "content": null
+      "author": null,
+      "title": "Saudi-led group completes $55bn purchase of gaming giant EA - bbc.com",
+      "description": "The deal takes the maker of titles including The Sims and EA FC into private ownership - and loads it with debt.",
+      "url": "https://www.bbc.com/news/articles/cjejyl34345o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1afa/live/1dcd5c10-8f1c-11f1-9a6b-afa7ab10ffdf.jpg",
+      "publishedAt": "2026-08-04T23:09:44Z",
+      "content": "\"With the PIF being the majority owner in the potential buyout, there is a large concern that creative decisions could be influenced by these outside factors, leading to themes such as free speech, g… [+109 chars]"
     },
     {
       "source": {
@@ -89,13 +89,13 @@
         "id": "the-wall-street-journal",
         "name": "The Wall Street Journal"
       },
-      "author": "WSJ",
+      "author": "Robbie Whelan",
       "title": "AMD Shares Fall 8% as Elon Musk Commits to Nvidia Chips for SpaceX - WSJ",
-      "description": null,
+      "description": "The company’s sales to data centers doubled in the latest quarter, but its revenue only narrowly beat analysts’ estimates",
       "url": "https://www.wsj.com/business/earnings/amd-earnings-q2-2026-stock-03fe0b09",
-      "urlToImage": null,
+      "urlToImage": "https://images.wsj.net/im-82130025/social",
       "publishedAt": "2026-08-04T22:24:00Z",
-      "content": null
+      "content": "Copyright ©2026 Dow Jones &amp; Company, Inc. All Rights Reserved. 87990cbe856818d5eddac44c7b1cdeb8"
     },
     {
       "source": {
@@ -125,45 +125,6 @@
     },
     {
       "source": {
-        "id": "cnn",
-        "name": "CNN"
-      },
-      "author": "Mohammed Tawfeeq, Aida Karimi, Davis Winkie, Catherine Nicholls, Anna Cooban, John Towfighi, Savannah Weiler, Jennifer Hansler, Mustafa Qadri, Hanna Ziady, Stephen Collinson, Brad Lendon, Eleni Giokos, Kathleen Magramo, John Liu, Arpita Dasika, August Phillips, Molly English, Aditi Sangal, Tal Shalev",
-      "title": "Live updates: US-Iran war news; Iran aiming to control a new Strait of Hormuz route, amid uncertainty over US talks - CNN",
-      "description": "ran’s goal in current talks with Oman “is to set temporary arrangements”— lasting up to three months — where they can control a route through the critical waterway. Follow for live news updates.",
-      "url": "https://www.cnn.com/2026/08/04/world/live-news/iran-war-trump",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2235105352.jpg?c=16x9&q=w_800,c_fill",
-      "publishedAt": "2026-08-04T21:33:00Z",
-      "content": "Leadership in Iran should capitalize on a window for diplomacy with the US, former Iranian Foreign Minister Mohammad Javad Zarif has said, suggesting that the current stage of the conflict may help T… [+1086 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Investor's Business Daily"
-      },
-      "author": null,
-      "title": "One Key Merck Product Absolutely Demolished Forecasts - Investor's Business Daily",
-      "description": "Merck's new injectable version of Keytruda walloped sales expectations.",
-      "url": "https://www.investors.com/news/technology/merck-stock-merck-earnings-q2-2026/",
-      "urlToImage": "https://www.investors.com/wp-content/uploads/2017/10/stock-Merck-02-shutter.jpg",
-      "publishedAt": "2026-08-04T21:32:00Z",
-      "content": "Information in Investors Business Daily is for informational and educational purposes only and should not be construed as an offer, recommendation, solicitation, or rating to buy or sell securities. … [+1064 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Investor's Business Daily"
-      },
-      "author": null,
-      "title": "How Pfizer Offset A 95% Decline For One Of Its Drugs - Investor's Business Daily",
-      "description": "Pfizer beat second-quarter expectations Tuesday, offsetting a continued steep decline for its Covid products.",
-      "url": "https://www.investors.com/news/technology/pfizer-stock-pfizer-earnings-q2-2026/",
-      "urlToImage": "https://www.investors.com/wp-content/uploads/2020/11/Stock-Pfizer-04-shutt.jpg",
-      "publishedAt": "2026-08-04T21:31:00Z",
-      "content": "Information in Investors Business Daily is for informational and educational purposes only and should not be construed as an offer, recommendation, solicitation, or rating to buy or sell securities. … [+1064 chars]"
-    },
-    {
-      "source": {
         "id": null,
         "name": "Barron's"
       },
@@ -178,19 +139,6 @@
     {
       "source": {
         "id": null,
-        "name": "Gameinformer.com"
-      },
-      "author": "Marcus Stewart",
-      "title": "Electronic Arts Has Been Fully Acquired By Trio Of Investor Groups And Is Now Private - Game Informer",
-      "description": "Three investor groups, collectively known as the \"Consortium\", have completed their acquistion of EA",
-      "url": "https://gameinformer.com/2026/08/04/electronic-arts-has-been-fully-acquired-by-trio-of-investor-groups-and-is-now-private",
-      "urlToImage": "https://gameinformer.com/sites/default/files/styles/og_image/public/2025/09/29/035ec311/ea-logo-black-white.jpg.webp",
-      "publishedAt": "2026-08-04T21:25:00Z",
-      "content": "Last September, Electronic Arts announced plans to be acquired by a trio of investor groups, taking the once-publicly traded company private. That acquisition is now complete in a move EA claims will… [+2180 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "Fox Business"
       },
       "author": "Eric Revell",
@@ -200,19 +148,6 @@
       "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2025/05/0/0/mcdonalds-restaurant.jpg?ve=1&tl=1",
       "publishedAt": "2026-08-04T21:20:00Z",
       "content": "McDonald's sales growth came in slower than expected when the company released its second quarter earnings on Tuesday, with leaders pointing to execution lapses they say hampered its push to promote … [+3336 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Investor's Business Daily"
-      },
-      "author": null,
-      "title": "AI Cloud Networking Growth Drives Arista Earnings Beat - Investor's Business Daily",
-      "description": "Arista stock jumped as Q2 earnings and revenue handily beat estimates amid strong demand for AI cloud computing networking gear.",
-      "url": "https://www.investors.com/news/technology/arista-stock-anet-arista-earnings-q22026/",
-      "urlToImage": "https://www.investors.com/wp-content/uploads/2026/01/stock-arista-building-adobe.jpg",
-      "publishedAt": "2026-08-04T21:03:00Z",
-      "content": "Information in Investors Business Daily is for informational and educational purposes only and should not be construed as an offer, recommendation, solicitation, or rating to buy or sell securities. … [+1064 chars]"
     },
     {
       "source": {
@@ -281,45 +216,6 @@
     },
     {
       "source": {
-        "id": "the-washington-post",
-        "name": "The Washington Post"
-      },
-      "author": "Lena H. Sun, Rachel Roubein",
-      "title": "CDC expands largest known cyclosporiasis outbreak to 15 states - The Washington Post",
-      "description": "Arkansas, Iowa, Missouri, Nebraska, New Hampshire and North Carolina have joined the outbreak tied to lettuce from Mexico, said a person familiar with the investigation.",
-      "url": "https://www.washingtonpost.com/health/2026/08/04/cdc-expands-largest-known-cyclospora-outbreak-15-states/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/WS64K5LFE5QGLDORUCDEOGA2OU_size-normalized.jpg&w=1440",
-      "publishedAt": "2026-08-04T19:54:13Z",
-      "content": "Arkansas, Iowa, Missouri, Nebraska, New Hampshire and North Carolina have joined the outbreak tied to lettuce from Mexico, said a person familiar with the investigation.\r\nAugust 4, 2026 at 4:13 p.m. … [+14 chars]"
-    },
-    {
-      "source": {
-        "id": "usa-today",
-        "name": "USA Today"
-      },
-      "author": "Gabe Hauari, David Ferrara",
-      "title": "Days after John Oliver's dare, Buc-ee's sues again - USA Today",
-      "description": "Buc-ee's is suing a family-owned mini mart over its beaver logo, days after John Oliver mocked the chain's history of trademark lawsuits.",
-      "url": "https://www.usatoday.com/story/money/2026/08/04/bucees-sues-mini-mart-beaver-mascot/91162309007/",
-      "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/08/04/USAT/91162420007-20250630-t-112854-z-213086614-mt-1-usatoday-26561236-rtrmadp-3-buceesinrockinghamcountyopenedtothepublicjune-30.JPG?crop=4372,2459,x0,y410&width=3200&height=1800&format=pjpg&auto=webp",
-      "publishedAt": "2026-08-04T19:43:00Z",
-      "content": "Days after being taunted by \"Last Week Tonight\" host John Oliver to sue him and HBO, popular gas station chain Buc-ee's has filed a lawsuit against a corner store in Ohio.\r\nAccording to a federal law… [+5544 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Fox Business"
-      },
-      "author": "Eric Revell",
-      "title": "High beef prices hitting consumers as meatpacking giant warns of supply struggles - Fox Business",
-      "description": "Tyson Foods reports a $138 million beef segment loss as the U.S. cattle herd hits a 70-year low, driving ground beef and steak prices up double digits.",
-      "url": "https://www.foxbusiness.com/economy/high-beef-prices-hitting-consumers-meatpacking-giant-warns-supply-struggles",
-      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/06/0/0/us-beef-cattle.png?ve=1&tl=1",
-      "publishedAt": "2026-08-04T19:07:00Z",
-      "content": "American consumers are continuing to face elevated beef prices amid an ongoing cattle shortage, which is also hitting the bottom line of major meatpacking companies.\r\nThe U.S. cattle herd is at its l… [+3472 chars]"
-    },
-    {
-      "source": {
         "id": null,
         "name": "KSAT San Antonio"
       },
@@ -349,13 +245,13 @@
         "id": null,
         "name": "Barron's"
       },
-      "author": "Barron's",
+      "author": "Adam Clark",
       "title": "Why Nvidia Stock Still Trades at a Heavy Discount to Chip Rivals - Barron's",
-      "description": null,
+      "description": "Nvidia stock has lagged behind the PHLX Semiconductor Index, which is up 61% this year so far through Monday’s close.",
       "url": "https://www.barrons.com/articles/nvidia-stock-price-discount-chip-946426eb",
-      "urlToImage": null,
+      "urlToImage": "https://images.barrons.com/im-60999880/social",
       "publishedAt": "2026-08-04T18:05:00Z",
-      "content": null
+      "content": "Nvidiawas gaining on Tuesday as the chip maker rode renewed optimism about artificial-intelligence. Now the question is whether it can close its discount to rivals.\r\nCopyright ©2026Dow Jones &amp; Co… [+64 chars]"
     },
     {
       "source": {
@@ -425,19 +321,6 @@
     {
       "source": {
         "id": null,
-        "name": "New York Post"
-      },
-      "author": "Taylor Herzlich",
-      "title": "Walgreens closes stores across a dozen states including New York and New Jersey - New York Post",
-      "description": "The Chicago-based pharmacy chain first announced plans in October 2024 to close roughly 1,200 underperforming stores over the next three years.",
-      "url": "https://nypost.com/2026/08/04/lifestyle/walgreens-closes-stores-in-ny-new-jersey-texas-florida-california/",
-      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/08/crop-40180111.jpg?quality=75&strip=all&w=1200",
-      "publishedAt": "2026-08-04T14:00:00Z",
-      "content": "Walgreens has shuttered stores across at least a dozen states, including New York and New Jersey, as part of a multiyear plan to cut costs and close underperforming locations.\r\nThe Chicago-based phar… [+2161 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "KXAN.com"
       },
       "author": "Cora Neas",
@@ -486,6 +369,19 @@
       "urlToImage": "https://www.investors.com/wp-content/uploads/2022/12/Stock-caterpillarconstruction-01-adobe.jpg",
       "publishedAt": "2026-08-04T12:05:00Z",
       "content": "Information in Investors Business Daily is for informational and educational purposes only and should not be construed as an offer, recommendation, solicitation, or rating to buy or sell securities. … [+1064 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Spencer Kimball",
+      "title": "Bessent says there may be deal Tuesday or Wednesday to open Strait of Hormuz with 'freedom of movement' - CNBC",
+      "description": "\"We are in talks with the Iranians,\" the Treasury secretary told CNBC's \"Squawk Box.\"",
+      "url": "https://www.cnbc.com/2026/08/04/bessent-says-there-may-be-deal-tuesday-or-wednesday-to-open-strait-of-hormuz-with-freedom-of-movement.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108344430-1785846072731-bessent1.jpg?v=1785846078&w=1920&h=1080",
+      "publishedAt": "2026-08-04T11:50:56Z",
+      "content": "The U.S. and Iran could reach a deal on Tuesday or Wednesday to reopen the Strait of Hormuz with freedom of movement for commercial ships, Treasury Secretary Scott Bessent said in an interview. \r\n\"We… [+1795 chars]"
     },
     {
       "source": {

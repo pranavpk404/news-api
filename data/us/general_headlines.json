@@ -3,34 +3,190 @@
   "country": "us",
   "category": "general",
   "mode": "country",
-  "fetched_at": "2026-08-06T08:08:12.283307+00:00",
+  "fetched_at": "2026-08-06T11:52:51.462285+00:00",
   "articles_count": 34,
   "articles": [
     {
       "source": {
-        "id": "cnn",
-        "name": "CNN"
+        "id": "nbc-news",
+        "name": "NBC News"
       },
-      "author": "Molly English, Elise Hammond, Aditi Sangal, Nomaan Merchant, Karina Tsui, Jeff Zeleny, Ethan Cohen, Morgan Leason, Isa Mudannayake, Arlette Saenz, Arpita Dasika, David Wright, Tori B. Powell, August Phillips, Katie Doran, Edward-Isaac Dovere, Patrick Svitek, Dejania Oliver, Arit John, Fredreka Schouten, Maureen Chowdhury, Isaac Tellechea, Dana Bash, Zachary B. Wolf, Eric Bradner, Aaron Blake, Morgan Rimmer, Manu Raju, Jeff Simon, Sarah Ferris, Alison Main, Kaanita Iyer",
-      "title": "El-Sayed and Stevens locked in tight race in Michigan Senate primary - CNN",
-      "description": "Progressive Abdul El-Sayed has a slim statewide lead over moderate Rep. Haley Stevens, but she has a narrow path to a comeback.",
-      "url": "https://www.cnn.com/2026/08/04/politics/live-news/primary-election-michigan-virginia",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/20260804-sayed-stevens-2.jpg?c=16x9&q=w_800,c_fill",
-      "publishedAt": "2026-08-05T08:34:00Z",
-      "content": "Sunrise Movement co-founder William Lawrence will win the Democratic primary in Michigans 7th Congressional District, CNNs Decision Desk projects, in another victory for the partys rising progressive… [+1199 chars]"
+      "author": "Emilie Dorn, Dennis Romero, Matt Lavietes",
+      "title": "Perez Hilton hospitalized after reports he livestreamed self-harm, sheriff’s officials say - NBC News",
+      "description": "The blogger recently returned to his native Miami after living in Las Vegas.",
+      "url": "https://www.nbcnews.com/news/us-news/perez-hilton-hospitalized-reports-livestream-self-harm-rcna590901",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-08/260805-perez-rs-479676.jpg",
+      "publishedAt": "2026-08-05T12:36:00Z",
+      "content": "Police said they responded to the Miami-area home of celebrity blogger and podcaster Perez Hilton, after they received reports that he engaged in self-harm in livestreamed video Tuesday night. \r\nA sp… [+3207 chars]"
+    },
+    {
+      "source": {
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
+      },
+      "author": "WSJ",
+      "title": "Stock Market Today: Dow Futures Tick Up, SpaceX Stock Slides After Earnings — Live Updates - WSJ",
+      "description": null,
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-05-2026",
+      "urlToImage": null,
+      "publishedAt": "2026-08-05T12:30:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "nbc-news",
+        "name": "NBC News"
+      },
+      "author": "Shayna Jacobs, Emanuella Grinberg",
+      "title": "Court records detail troubled past of Spokane fire suspect - NBC News",
+      "description": "Aaron Farinacci, 37, served a decade in prison for killing his adoptive father in 2010.",
+      "url": "https://www.nbcnews.com/news/us-news/court-records-detail-troubled-spokane-fire-suspect-rcna590806",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-08/260804-spokane-wildfires-mn-1420-fac7e4.jpg",
+      "publishedAt": "2026-08-05T11:40:00Z",
+      "content": "The man accused of sparking the biggest of three wildfires in Spokane, Washington, has a long history of mental health issues and previously pleaded guilty in the killing of his father, according to … [+34 chars]"
+    },
+    {
+      "source": {
+        "id": "politico",
+        "name": "Politico"
+      },
+      "author": "Mia McCarthy",
+      "title": "Mike Johnson breaks his silence on Max Miller, calls for ‘process to play out’ - Politico",
+      "description": "The speaker made his first comments on the explosive abuse allegations in an interview with POLITICO’s “The Conversation.”",
+      "url": "https://www.politico.com/news/2026/08/05/mike-johnson-max-miller-domestic-abuse-01025050",
+      "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2F30%2F8b%2F79294f42431594fb1cb74647ffbd%2Fjohnson-hd.png",
+      "publishedAt": "2026-08-05T11:27:00Z",
+      "content": "I think Max is taking them seriously. I think our colleagues are, Johnson said. But, again, we have to allow this process to play out. Its just begun.\r\nThe Ethics panel announced Tuesday it would inv… [+1540 chars]"
+    },
+    {
+      "source": {
+        "id": "associated-press",
+        "name": "Associated Press"
+      },
+      "author": "Adithi Ramakrishnan",
+      "title": "Gene-edited beagles may offer a future option for people with dog allergies - AP News",
+      "description": "Scientists at a biotech company have used gene editing to create two hypoallergenic beagles that don't trigger allergies. Using a Nobel Prize-winning editing tool called CRISPR, they switched off a gene that produces the main allergy-causing protein in dogs. …",
+      "url": "https://apnews.com/article/hypoallergenic-dogs-crispr-pet-allergies-f5bd8cb438dfd1a9d1cccd4a1d46fd2a",
+      "urlToImage": "https://dims.apnews.com/dims4/default/e6c7222/2147483647/strip/true/crop/6000x3998+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F5d%2Fe9%2Fa8aec042142d1536c55cf9ab63f7%2F74a316d4df0a48b3ab3aa0861f0b3a97",
+      "publishedAt": "2026-08-05T11:05:00Z",
+      "content": "NEW YORK (AP) Matt Walker couldnt pet a dog without sneezing until he and other scientists used a gene editing technique to produce a hypoallergenic beagle named Bailey.\r\nNow, he can feed Bailey spoo… [+4289 chars]"
+    },
+    {
+      "source": {
+        "id": "espn",
+        "name": "ESPN"
+      },
+      "author": "David Schoenfield",
+      "title": "2026 MLB trade deadline awards: Dodgers, Yankees, Mets, more - espn.com",
+      "description": "Here's what we learned from this year's deals -- and titles for the teams with the most interesting elements of the 2026 deadline.",
+      "url": "https://www.espn.com/mlb/story/_/id/49529916/mlb-2026-trade-deadline-awards-dodgers-skubal-yankees-mets-red-sox-phillies",
+      "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0804%2Fr1697595_1296x729_16%2D9.jpg",
+      "publishedAt": "2026-08-05T11:00:00Z",
+      "content": "According to sources: Despite their superstar acquisition, the Los Angeles Dodgers have not clinched the World Series ... just yet.\r\nThis turned out to be a much more fascinating 2026 Major League Ba… [+18442 chars]"
+    },
+    {
+      "source": {
+        "id": "cbs-news",
+        "name": "CBS News"
+      },
+      "author": null,
+      "title": "Popular social media influencer shot dead during livestream outside restaurant in Mexico - CBS News",
+      "description": "Cesar Gastelum, who had more than 600,000 followers on TikTok, was broadcasting with two friends when he was killed.",
+      "url": "https://www.cbsnews.com/news/influencer-killed-livestream-mexico-cesar-gastelum/",
+      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/08/05/9bc04056-4632-4286-acdb-69c8758dda25/thumbnail/1200x630/2792b1ae990e20b6820172e39d094867/gettyimages-2247915329.jpg",
+      "publishedAt": "2026-08-05T10:46:00Z",
+      "content": "A Mexican influencer was shot dead on Tuesday while streaming live on social media outside a restaurant in Sinaloa state, where cartel and gang violence is rife.\r\n Cesar Gastelum, who had more than 6… [+2441 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Lilly.com"
+      },
+      "author": null,
+      "title": "Lilly reports second-quarter 2026 financial results, raises full-year guidance, and highlights continued growth and pipeline progress - Eli Lilly and Company",
+      "description": "The Investor Relations website contains information about Eli Lilly and Company's business for stockholders, potential investors, and financial analysts.",
+      "url": "https://investor.lilly.com/news-releases/news-release-details/lilly-reports-second-quarter-2026-financial-results-raises-full",
+      "urlToImage": "https://investor.lilly.com/static-files/414b590d-5fd8-4d74-bb91-284a3d77fb98",
+      "publishedAt": "2026-08-05T10:45:45Z",
+      "content": "<ul><li>Revenue in Q2 2026 increased 48% to $23.0 billion\r\n driven primarily by Mounjaro and Zepbound volume.</li><li>Q2 2026 EPS increased by 26% to $7.94\r\n on a reported basis and increased by 33% … [+37810 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Brooke DiPalma",
+      "title": "Disney's Q3 earnings top estimates on demand for experiences, company exits A+E Media stake - Yahoo Finance",
+      "description": "Disney's parks saw a return to growth after a slump in Q2.",
+      "url": "https://finance.yahoo.com/markets/stocks/article/disneys-q3-earnings-top-estimates-on-demand-for-experiences-company-exits-ae-media-stake-103619379.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/DF02CA98CF4FC2CCB8CA300D96E786FC467F790BC7AC5789FA5A3609BA97C8DD/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-08%2Fbeefec57-da71-4d1e-b3f3-986d92d3b537",
+      "publishedAt": "2026-08-05T10:36:19Z",
+      "content": "Disney (DIS) stock jumped over 4% in premarket trading after the company reported fiscal third quarter earnings that beat expectations on Wednesday as it focused on cutting costs and maintaining grow… [+4352 chars]"
+    },
+    {
+      "source": {
+        "id": "politico",
+        "name": "Politico"
+      },
+      "author": "Will Steakin",
+      "title": "DCCC adds 12 GOP seats to midterm target map - Live Updates - Politico",
+      "description": "The additions bring the DCCC's target list up to 58 seats.",
+      "url": "https://www.politico.com/live-updates/2026/08/05/congress/dccc-midterms-map-expansion-01025114",
+      "urlToImage": "https://www.politico.com/dims4/default/9c097b8/2147483647/resize/1200x/quality/90/?url=https%3A%2F%2Fstatic.politico.com%2Fef%2F4d%2Fcf39065749a8bd5b43dca62ddaae%2Fu-s-congress-38063.jpg",
+      "publishedAt": "2026-08-05T10:30:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "associated-press",
+        "name": "Associated Press"
+      },
+      "author": "Charlotte Graham-McLay",
+      "title": "Australian airline Jetstar will charge passengers to use the overhead lockers for their bags - AP News",
+      "description": "Jetstar plans to charge passengers for using overhead compartments starting February 2027. The airline says this change aims to reduce stress at boarding gates by eliminating the need to weigh bags and find space in overhead lockers. Passengers can still stow…",
+      "url": "https://apnews.com/article/jetstar-charge-overhead-locker-carryon-bags-australia-flight-ba309871feb22102beb94e701fc07d35",
+      "urlToImage": "https://dims.apnews.com/dims4/default/558bde6/2147483647/strip/true/crop/3871x2579+0+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Ff8%2F94%2F00717d7ab4c7e97d11e28634dc20%2Fb9c750a8e7034f6dbc880a58e623892b",
+      "publishedAt": "2026-08-05T09:46:00Z",
+      "content": "WELLINGTON, New Zealand (AP) For passengers on the budget Australian airline Jetstar, the days of cramming your bag into an overhead locker already full of your seatmates full-sized suitcases are com… [+2537 chars]"
+    },
+    {
+      "source": {
+        "id": "axios",
+        "name": "Axios"
+      },
+      "author": "Kate Santaliz",
+      "title": "Rep. Chuck Edwards drops re-election bid after censure recommendation - Axios",
+      "description": "Edwards faced heavy scrutiny for his treatment of young female staffers.",
+      "url": "https://www.axios.com/2026/08/05/chuck-edwards-reelection-censure-harassment",
+      "urlToImage": "https://images.axios.com/n9Kl0LhT-3ZaPXiZPBgGRZRNTaQ=/0x182:6217x3679/1366x768/2026/08/05/1785920805841.jpeg",
+      "publishedAt": "2026-08-05T09:15:01Z",
+      "content": "<ul><li>\"After much prayer and reflection, I've decided to withdraw from my re-election campaign. I will complete my current term,\" Edwards wrote in a 3:32 a.m. ET post on X. </li><li>The ethics pane… [+1445 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "SamMobile"
+      },
+      "author": "Abhijeet Mishra",
+      "title": "Leaked Galaxy S26 FE firmware shows wallpapers, hints at One UI 9.5 - SamMobile",
+      "description": "Leaked firmware for the Galaxy S26 FE revealed new wallpapers and gives us a hint at what the One UI 9.5 update banner will look like.",
+      "url": "https://www.sammobile.com/news/leaked-galaxy-s26-fe-firmware-wallpapers-one-ui-9-5/",
+      "urlToImage": "https://www.sammobile.com/wp-content/uploads/2025/09/Galaxy-S25-FE-design-2-1.jpg",
+      "publishedAt": "2026-08-05T09:15:00Z",
+      "content": "One UI 9 is still limited to the Galaxy S26 series and Samsungs Galaxy Z8 foldables, so we werent expecting to see anything related to One UI 9.5 for a while, apart from the usual signs that it is in… [+1738 chars]"
     },
     {
       "source": {
         "id": null,
         "name": "CNBC"
       },
-      "author": "Arjun Kharpal",
-      "title": "SpaceX dives 10% after AI spending surge rattles investors - CNBC",
-      "description": "CEO Elon Musk said SpaceX would hit $1 trillion in annual revenue in 2030 versus a previous forecast of 2031 as he looked to strike an bullish tone.",
-      "url": "https://www.cnbc.com/2026/08/05/spacex-spcx-stock-today-earnings.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108321029-17812719352026-06-12t134403z_1228447360_rc2dslascqpj_rtrmadp_0_spacex-ipo.jpeg?v=1781272031&w=1920&h=1080",
-      "publishedAt": "2026-08-05T08:06:03Z",
-      "content": "A live feed shows SpaceX CEO Elon Musk on the day of SpaceX's initial public offering (IPO) at the Nasdaq MarketSite, in New York City, U.S., June 12, 2026. \r\nSpaceX shares plunged on Wednesday after… [+1993 chars]"
+      "author": "Sam Meredith",
+      "title": "Russian attack kills at least 17 in Kyiv as Ukraine hammers more Wildberries warehouses - CNBC",
+      "description": "The bombardment comes as each side ramps up air attacks on critical infrastructure and logistics hubs.",
+      "url": "https://www.cnbc.com/2026/08/05/russia-ukraine-kyiv-putin-wildberries.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108345063-1785916012860-gettyimages-2288293310-AFP_C3YH89E.jpeg?v=1785916179&w=1920&h=1080",
+      "publishedAt": "2026-08-05T08:55:42Z",
+      "content": "Russia launched a massive wave of drone and ballistic missile strikes on Ukraine's capital, killing at least 17 people and leaving 44 injured in one of the Kremlin's deadliest attacks across Kyiv thi… [+2772 chars]"
     },
     {
       "source": {
@@ -38,12 +194,25 @@
         "name": "Al Jazeera English"
       },
       "author": "Al Jazeera",
-      "title": "Russian missile attack kills 14, injures 27 in Ukraine’s Kyiv region - Al Jazeera",
-      "description": "The latest attack comes after at least 27 people were killed in both Russia and Ukraine earlier this week.",
-      "url": "https://www.aljazeera.com/news/2026/8/4/russia-strikes-ukrainian-capital-kyiv-with-ballistic-missiles",
-      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/08/GettyImages-2288293310-1785890794.jpg?resize=1920%2C1440",
-      "publishedAt": "2026-08-05T05:43:34Z",
-      "content": "A Russian ballistic missile attack on the region surrounding Ukraines capital, Kyiv, has killed at least 14 people and injured 27 others, the citys military administration said.\r\nThe strikes early on… [+1542 chars]"
+      "title": "Piece of SpaceX rocket the size of a school bus crashes into the Moon - Al Jazeera",
+      "description": "Scientists will track stray rocket part striking the Moon to study crater formation and lunar dust from cosmic impacts.",
+      "url": "https://www.aljazeera.com/news/2026/8/5/piece-of-spacex-rocket-the-size-of-a-school-bus-crashes-into-the-moon",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/08/ap_6a72dbb83e13f-1785912248.jpg?resize=1920%2C1440",
+      "publishedAt": "2026-08-05T08:22:22Z",
+      "content": "A four-tonne chunk of debris the size of a school bus from a SpaceX rocket has crashed into the Moon, according to tracking data, creating a new crater on the lunar surface and providing scientists a… [+2050 chars]"
+    },
+    {
+      "source": {
+        "id": "espn",
+        "name": "ESPN"
+      },
+      "author": "Jeff Kassouf",
+      "title": "New \"Ted Lasso\" season features NWSL's Kansas City Current as plot point - espn.com",
+      "description": "The new season of \"Ted Lasso\" was filmed in the U.S. at a real-life NWSL club for a cameo that serves as a key plot point of the show.",
+      "url": "https://www.espn.com/soccer/story/_/id/49525710/new-ted-lasso-season-features-nwsl-kansas-city-current-plot-point",
+      "urlToImage": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0804%2Fr1697380_1296x729_16%2D9.png",
+      "publishedAt": "2026-08-05T08:06:00Z",
+      "content": "AFC Richmond is a fictitious English soccer club in the critically acclaimed show, \"Ted Lasso,\" but the inspiration for the plot that follows in the show's fourth season is real: The Kansas City Curr… [+9032 chars]"
     },
     {
       "source": {
@@ -51,25 +220,51 @@
         "name": "Associated Press"
       },
       "author": "Elena Becatoros, Samy Magdy, Darlene Superville",
-      "title": "Trump says deal to reopen Strait of Hormuz could come as early as Wednesday - AP News",
-      "description": "U.S. President Donald Trump says a deal on the Strait of Hormuz could come as early as Wednesday or Thursday. An agreement could potentially help bring an end to the war. Regional officials tell The Associated Press that an agreement emerging from talks betwe…",
+      "title": "Trump says deal to reopen the Strait of Hormuz could come as early as Wednesday - AP News",
+      "description": "U.S. President Donald Trump says a deal to reopen the Strait of Hormuz could come as early as Wednesday. Iran and Oman appear to be inching toward an agreement on the critical waterway that could ease pressure on the global economy and potentially help bring …",
       "url": "https://apnews.com/article/iran-war-us-hormuz-trump-august-5-2026-ecdbd96f2b46c70beb5926d8508f9c55",
-      "urlToImage": "https://dims.apnews.com/dims4/default/d5b1a89/2147483647/strip/true/crop/4273x2847+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F28%2F80%2F09d0067a02e7406e4b4f96c0c411%2Ffed0eff114934387b2fd49625601be94",
-      "publishedAt": "2026-08-05T05:35:00Z",
-      "content": "CAIRO (AP) U.S. President Donald Trump said a deal on the Strait of Hormuz could come as early as Wednesday, as Iran and Oman inched toward an agreement to reopen the critical waterway and potentiall… [+5972 chars]"
+      "urlToImage": "https://dims.apnews.com/dims4/default/018fe33/2147483647/strip/true/crop/6000x3998+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F6e%2F82%2F29669608fc32732c6a4dd898f6fc%2Fc768e4779871437f82641adada7db9f2",
+      "publishedAt": "2026-08-05T08:03:00Z",
+      "content": "CAIRO (AP) U.S. President Donald Trump said a deal to reopen the Strait of Hormuz could come as early as Wednesday, as Iran and Oman inched toward an agreement on the critical waterway that could eas… [+6483 chars]"
     },
     {
       "source": {
-        "id": "nbc-news",
-        "name": "NBC News"
+        "id": null,
+        "name": "CNBC"
       },
-      "author": "Emilie Dorn, Dennis Romero",
-      "title": "Perez Hilton hospitalized after reports he livestreamed self-harm, sheriff’s officials say - NBC News",
-      "description": "The blogger recently returned to his native Miami after living in Las Vegas.",
-      "url": "https://www.nbcnews.com/news/us-news/perez-hilton-hospitalized-reports-livestream-self-harm-rcna590901",
-      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-08/260804-Perez-Hilton-vsb-2303-7aab35.jpg",
-      "publishedAt": "2026-08-05T05:07:00Z",
-      "content": "Police said they responded to the Miami-area home of celebrity blogger and podcaster Perez Hilton after they received reports that he engaged in self-harm in livestreamed video Tuesday. \r\nA spokesper… [+2927 chars]"
+      "author": "Sam Meredith",
+      "title": "Europe is blowing up riverbeds as an extreme drought wreaks havoc on its economy - CNBC",
+      "description": "Severe drought is disrupting energy and freight across Europe as low Rhine and Danube levels raise risks for supply chains and economic growth.",
+      "url": "https://www.cnbc.com/2026/08/05/drought-rhine-danube-water-levels-economy.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108344346-1785838713038-gettyimages-2288117226-AFP_C3UF4CQ.jpeg?v=1785839371&w=1920&h=1080",
+      "publishedAt": "2026-08-05T06:01:47Z",
+      "content": "An aerial view shows a former eel fishing boat covered in dried mud among on low water among the banks of the river Rhine near Neuss, western Germany, on July 30, 2026, as the water level in the Rhin… [+5741 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Space.com"
+      },
+      "author": "https://www.space.com/author/daisy-dobrijevic",
+      "title": "Total solar eclipse Aug. 12, 2026 live updates — 1 week to go - Space",
+      "description": "Follow our live coverage of the total solar eclipse 2026 as we count down to eclipse day with the latest news, expert insight and updates before bringing you live reports from Greenland and Spain.",
+      "url": "https://www.space.com/news/live/total-solar-eclipse-aug-12-2026-live-updates-one-week-to-go",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/FjsLrdUxHVhG9wH44TDHkJ-2000-80.jpg",
+      "publishedAt": "2026-08-05T05:34:17Z",
+      "content": "On Aug. 12, 2026, Europe will experience its first total solar eclipse since 1999, as the moon's shadow sweeps across Greenland, Iceland, northern Spain and the Balearic Islands.\r\nAlong the narrow pa… [+1631 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Page Six"
+      },
+      "author": "Adam Silverstein",
+      "title": "Barry Manilow cancels Kentucky concert minutes before showtime - Page Six",
+      "description": "The show was originally scheduled for March 9 but was postponed as Manilow recovered from surgery for lung cancer.",
+      "url": "https://pagesix.com/2026/08/05/entertainment/barry-manilow-cancels-lexington-kentucky-concert-minutes-before-show/",
+      "urlToImage": "https://pagesix.com/wp-content/uploads/sites/3/2026/08/Untitled-1-copy-5.jpg?quality=75&strip=all&w=1200",
+      "publishedAt": "2026-08-05T05:29:00Z",
+      "content": "Barry Manilow abruptly canceled his Tuesday night concert in Lexington, Ky., marking the second time the show has been postponed this year.\r\nThe “Copacabana singer, 83, announced the cancelation just… [+3074 chars]"
     },
     {
       "source": {
@@ -77,7 +272,7 @@
         "name": "Politico"
       },
       "author": "Emilio Perez Ibarguen",
-      "title": "Trump hasn’t ‘made a determination’ on Jeanine Pirro’s fate - Politico",
+      "title": "Trump hasn’t ‘made a determination’ on Jeanine Pirro’s fate - politico.com",
       "description": "The president has repeatedly chastised the U.S. attorney for the District of Columbia after she said vandals weren’t responsible for damage to the Reflecting Pool.",
       "url": "https://www.politico.com/news/2026/08/05/jeanine-pirro-donald-trump-us-attorney-01025059",
       "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2Fac%2F9a%2Fe9b03f3c493db3a75879f7f7179e%2Ftrump-8-731.jpg",
@@ -87,28 +282,15 @@
     {
       "source": {
         "id": null,
-        "name": "Missouriindependent.com"
+        "name": "9to5google.com"
       },
-      "author": "Rebecca Rivas, Anna Spoerre",
-      "title": "Wesley Bell beats Cori Bush in Democratic primary for St. Louis congressional seat - Missouri Independent",
-      "description": "Incumbent U.S. Rep. Wesley Bell staved off former Congresswoman Cori Bush in the Democratic primary for the 1st Congressional District on Tuesday, ending the most expensive candidate primary in Missouri this year.",
-      "url": "https://missouriindependent.com/2026/08/04/wesley-bell-beats-cori-bush-in-democratic-primary-for-st-louis-congressional-seat/",
-      "urlToImage": "https://missouriindependent.com/wp-content/uploads/2024/02/022724_wesleybellfiling1-2048x1357.jpg",
-      "publishedAt": "2026-08-05T04:25:49Z",
-      "content": "by Rebecca Rivas and Anna Spoerre, Missouri IndependentAugust 4, 2026\r\nIncumbent U.S. Rep. Wesley Bell staved off former Congresswoman Cori Bush in the Democratic primary for the 1st Congressional Di… [+4096 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": "Lillian Rizzo",
-      "title": "Here's what to expect when Disney reports earnings before the bell - CNBC",
-      "description": "Disney reports its fiscal third-quarter earnings before the bell Wednesday as the market awaits further updates and changes under newly minted CEO Josh D'Amaro.",
-      "url": "https://www.cnbc.com/2026/08/05/disney-dis-earnings-q3-2026.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108303074-1778083707874-gettyimages-2274814388-ms003142_6zosr9fb.jpeg?v=1778083738&w=1920&h=1080",
-      "publishedAt": "2026-08-05T04:01:01Z",
-      "content": "Disney reports quarterly earnings before the bell on Wednesday, and investors will be focused on the direction of the company's streaming and theme parks business as well as further updates on CEO Jo… [+1802 chars]"
+      "author": "Abner Li",
+      "title": "Google Assistant shutting down on Android and Wear OS in September - 9to5Google",
+      "description": "As expected, Google Assistant is going away in 2026, and the company just provided a September 4 date for Android phones.",
+      "url": "http://9to5google.com/2026/08/04/google-assistant-september-2026-shutdown/",
+      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/04/Google-Assistant-UI-9.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2026-08-05T04:26:00Z",
+      "content": "As expected, Google Assistant is going away in 2026, and the company just provided a September 4 date for Android.\r\nGoogle sent an email to existing users today about how Google Assistant is going aw… [+1352 chars]"
     },
     {
       "source": {
@@ -125,55 +307,29 @@
     },
     {
       "source": {
-        "id": "cnn",
-        "name": "CNN"
-      },
-      "author": "John Liu, Hadas Gold",
-      "title": "AI agents fake identities, target real people in new security incident - CNN",
-      "description": "Anthropic’s most advanced artificial intelligence model used fake identities to deceive real people and try to plant malicious code during testing by Britain’s AI Security Institute (AISI) –– the latest example of an AI model going rogue.",
-      "url": "https://www.cnn.com/2026/08/04/tech/ai-anthropic-openai-security-breach-intl-hnk",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2280225352.jpg?c=16x9&q=w_800,c_fill",
-      "publishedAt": "2026-08-05T03:56:00Z",
-      "content": "Anthropics most advanced artificial intelligence model used fake identities to deceive real people and try to plant malicious code during testing by Britains AI Security Institute (AISI) the latest e… [+2807 chars]"
-    },
-    {
-      "source": {
-        "id": "politico",
-        "name": "Politico"
-      },
-      "author": "Andrew Howard",
-      "title": "State Sen. Rick Brattin wins GOP primary in newly gerrymandered Missouri seat - Politico",
-      "description": "Brattin will face Democratic Rep. Emanuel Cleaver in a seat Republicans made redder through redistricting last year.",
-      "url": "https://www.politico.com/live-updates/2026/08/04/michigan-missouri-primary-democrats-test/brattin-wins-missouri-house-primary-01025032",
-      "urlToImage": "https://www.politico.com/dims4/default/7c2370a/2147483647/resize/1200x/quality/90/?url=https%3A%2F%2Fstatic.politico.com%2F3e%2F70%2F73bdf46441bfa8b0a0af5280c555%2Fap24030717545984-2.jpg",
-      "publishedAt": "2026-08-05T03:24:53Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "nbc-news",
-        "name": "NBC News"
-      },
-      "author": "Ben Kamisar",
-      "title": "Progressive activist wins Democratic primary in one of the country’s biggest House races - NBC News",
-      "description": "Sunrise Movement co-founder William Lawrence is the Democratic nominee in Michigan’s 7th District, NBC News projects, a key battleground in the fight for the House majority.",
-      "url": "https://www.nbcnews.com/politics/2026-election/progressive-activist-wins-democratic-primary-one-nations-biggest-house-rcna590892",
-      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-08/260804-william-lawrence-michigan-vsb-2054-126d4e.jpg",
-      "publishedAt": "2026-08-05T03:07:00Z",
-      "content": "Democrat William Lawrence, a co-founder of the progressive Sunrise Movement, has won his partys primary in Michigans 7th Congressional District, NBC News projects a big victory for the insurgent left… [+4886 chars]"
-    },
-    {
-      "source": {
         "id": null,
-        "name": "BBC News"
+        "name": "MLB Trade Rumors"
+      },
+      "author": "Anthony Franco",
+      "title": "Brewers Offered Luis Peña As Headliner For Skubal - MLB Trade Rumors",
+      "description": "Some details emerge about the Brewers' offer for Tarik Skubal. Find out more on what Detroit declined at MLB Trade Rumors.",
+      "url": "https://www.mlbtraderumors.com/2026/08/brewers-reportedly-included-luis-pena-in-offer-to-tigers-for-skubal.html",
+      "urlToImage": "https://cdn.mlbtraderumors.com/files/2026/08/2026-07-18T051847Z_51683869_MT1USATODAY29405227_RTRMADP_3_WISCONSIN-TIMBER-RATTLERS-LUIS-PENA-13-TAGS-OUT-QUAD-1024x786.jpg",
+      "publishedAt": "2026-08-05T01:42:51Z",
+      "content": "The Brewers were generally viewed as the top challenger to the Dodgers when the Tigers were shopping Tarik Skubal. Milwaukee has the sport’s best record and arguably its top farm system, and ownershi… [+3568 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
       },
       "author": null,
-      "title": "Washington wildfire arson suspect twice linked to other blazes, authorities say - BBC",
-      "description": "Aaron Farinacci, 37, was allegedly spotted near the latest blaze and was found to have matches and a lighter.",
-      "url": "https://www.bbc.com/news/articles/c5y3ppmmev1o",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/005f/live/621eea00-9007-11f1-a7ab-8b30adf0800a.jpg",
-      "publishedAt": "2026-08-05T00:40:23Z",
-      "content": "Buildings, including homes and businesses, have been destroyed, with videos from the city showing flames tearing through houses as helicopters fly above, trying to put out the flames."
+      "title": "Mom of 4 recovering after suspected spider bite leads to severe complications: reports - Fox News",
+      "description": "Britagne Miller reportedly spent weeks hospitalized, including time in intensive care, after a suspected spider bite was followed by surgery and infections.",
+      "url": "https://www.foxnews.com/us/mom-recovering-suspected-spider-bite-leads-severe-complications",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/08/kansas-mom-spider-bite-.jpg",
+      "publishedAt": "2026-08-05T01:41:17Z",
+      "content": "A Kansas mother of four is reportedly recovering after a suspected spider bite led to surgery, serious infections and a weeks-long hospital stay.\r\nBritagne Miller of Goddard about 14 miles west of Wi… [+2792 chars]"
     },
     {
       "source": {
@@ -191,19 +347,6 @@
     {
       "source": {
         "id": null,
-        "name": "Deadline"
-      },
-      "author": "Armando Tinoco",
-      "title": "Apple TV's 'Ted Lasso' Season 4 Brooklyn Premiere Photos: Jason Sudeikis, Hannah Waddingham, Juno Temple & More - Deadline",
-      "description": "Apple TV's Ted Lasso is celebrating its Season 4 return, and after a big premiere in Los Angeles, the cast traveled to New York for a premiere in Brooklyn.",
-      "url": "https://deadline.com/gallery/ted-lasso-season-4-brooklyn-premiere-photos-apple-tv/",
-      "urlToImage": "https://deadline.com/wp-content/uploads/2026/08/ted-lasso-season-4-brooklyn-red-carpet-premiere-photos.jpg?w=1024",
-      "publishedAt": "2026-08-05T00:20:00Z",
-      "content": "Apple TV’s Ted Lasso is celebrating its Season 4 return, and after a big premiere in Los Angeles, the cast traveled to New York for a premiere in Brooklyn.\r\nThe comedy series stars Jason Sudeikis, Ha… [+12190 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "MacRumors"
       },
       "author": "Juli Clover",
@@ -216,68 +359,29 @@
     },
     {
       "source": {
-        "id": "cbs-news",
-        "name": "CBS News"
+        "id": null,
+        "name": "WCVB Boston"
       },
-      "author": "Jennifer  Jacobs, Sara  Cook",
-      "title": "U.S. has used nearly all its stockpile of long-range missiles in Iran war, sources say - CBS News",
-      "description": "CBS News has previously reported that the U.S. has dwindling stockpiles of defensive interceptors and long-range missiles.",
-      "url": "https://www.cbsnews.com/news/u-s-stockpile-long-range-missiles-nearly-depleted-iran-war/",
-      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/08/04/36739494-8fcb-491a-a95d-15579c00f350/thumbnail/1200x630/6e242b431ce49d2ad0f9ca661b9c0e6a/ap26212588786989.jpg",
-      "publishedAt": "2026-08-04T22:28:32Z",
-      "content": "Washington — The U.S. has used nearly all of its global stockpile of long-range precision missiles during the war with Iran, two sources with direct knowledge of the matter tell CBS News.\r\nSpecifical… [+2382 chars]"
-    },
-    {
-      "source": {
-        "id": "associated-press",
-        "name": "Associated Press"
-      },
-      "author": "Graham Dunbar",
-      "title": "Top FIFA officials Wenger and Grafström distance themselves from Infantino's World Cup sell-off plan - AP News",
-      "description": "Two senior FIFA executives have distanced themselves from their boss Gianni Infantino’s failed plan to sell stakes in future World Cup profits to private investors. Coaching great Arsène Wenger says dropping the plan was “absolutely necessary” and FIFA's CEO-…",
-      "url": "https://apnews.com/article/fifa-world-cup-private-investors-wenger-infantino-7a553620217d2b1299b0c8bea8b800cd",
-      "urlToImage": "https://dims.apnews.com/dims4/default/486bd69/2147483647/strip/true/crop/3801x2533+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Faf%2F2e%2F92c33e0391d39e726bdcb5222f2a%2F202fbfbe75a3406ba11d0ce979e4625f",
-      "publishedAt": "2026-08-04T22:17:00Z",
-      "content": "GENEVA (AP) Two senior FIFA executives coaching great Arsène Wenger and CEO-like secretary general Mattias Grafström distanced themselves Tuesday from their boss Gianni Infantinos failed plan to sell… [+5739 chars]"
+      "author": null,
+      "title": "What is ‘rabbit fever?’ Health officials report 3 probable cases in New York - WCVB",
+      "description": "What is “rabbit fever?” Health officials report several probable causes of the rare but serious disease.",
+      "url": "https://www.wcvb.com/article/rabbit-fever-new-york-what-is-tularemia/73348028",
+      "urlToImage": "https://kubrick.htvapps.com/htv-prod/images/ff746a3f-96c5-4ff7-ba21-d635f0b34c57.jpg?crop=1.00xw%3A1.00xh%3B0%2C0&resize=1200%3A*",
+      "publishedAt": "2026-08-04T21:44:00Z",
+      "content": "SUFFOLK COUNTY, N.Y.The Suffolk County Department of Health in New York said Monday that its seen three probable cases of tularemia, a rare but serious infection thats also known as rabbit fever. \r\nI… [+3133 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Phys.Org"
+        "name": "Deadline"
       },
-      "author": null,
-      "title": "Molecular orbitals imaged in 3D, opening path to femtosecond videos - Phys.org",
-      "description": "One of the most famous and intriguing results of quantum mechanics is the finding that fundamental particles, such as electrons, cannot be pinned down to one single location. Instead, a particle is described by its \"wavefunction,\" which allows researchers to …",
-      "url": "https://phys.org/news/2026-08-molecular-orbitals-imaged-3d-path.html",
-      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/zooming-in-electron-or.jpg",
-      "publishedAt": "2026-08-04T22:00:01Z",
-      "content": "One of the most famous and intriguing results of quantum mechanics is the finding that fundamental particles, such as electrons, cannot be pinned down to one single location. Instead, a particle is d… [+3664 chars]"
-    },
-    {
-      "source": {
-        "id": "associated-press",
-        "name": "Associated Press"
-      },
-      "author": "David A. Lieb",
-      "title": "Missouri election chief rejects bid to hold public vote on Trump-backed congressional districts - AP News",
-      "description": "Missouri’s top election official has rejected a petition for a statewide referendum on new congressional districts backed by President Donald Trump. Supporters submitted hundreds of thousands of signatures to try to force a November election on a new U.S. Hou…",
-      "url": "https://apnews.com/article/redistricting-congress-missouri-trump-petition-vote-election-5cfa5294a987388f38e0960e3368d320",
-      "urlToImage": "https://dims.apnews.com/dims4/default/ee406f6/2147483647/strip/true/crop/1742x1161+0+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F83%2Faf%2F1fb202e5e2edbf4459022bd0df48%2F0f7a88aec29a4282bd410e7ebe9f1c44",
-      "publishedAt": "2026-08-04T21:45:00Z",
-      "content": "JEFFERSON CITY, Mo. (AP) Missouris top election official has rejected a citizens petition seeking a statewide referendum on new congressional districts backed by President Donald Trump.\r\nSupporters o… [+6016 chars]"
-    },
-    {
-      "source": {
-        "id": "associated-press",
-        "name": "Associated Press"
-      },
-      "author": "Wafaa Shurafa, Samy Magdy, Ibrahim Hazboun, Melanie Lidman",
-      "title": "Netanyahu says no Israeli withdrawal from Gaza until Hamas has been completely disarmed - AP News",
-      "description": "Prime Minister Benjamin Netanyahu says Israel will not withdraw from its current lines in Gaza until Hamas has completely disarmed. In remarks on Tuesday, he pushed back on a recent deal announced by U.S. President Donald Trump. Netanyahu’s remarks cast more …",
-      "url": "https://apnews.com/article/israel-palestinians-hamas-war-gaza-news-1215e52022856b9de9837237a0e188fa",
-      "urlToImage": "https://dims.apnews.com/dims4/default/2609904/2147483647/strip/true/crop/8640x5757+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Ffc%2F51%2F460d4d8e8e4fd8f8a7931166b612%2F5109ed0bf9044db69332e59a63275b3d",
-      "publishedAt": "2026-08-04T21:12:00Z",
-      "content": "DEIR AL-BALAH, Gaza City (AP) Prime Minister Benjamin Netanyahu said Tuesday that Israel will not withdraw from its current lines in Gaza until Hamas has completely disarmed and pushed back on a rece… [+5431 chars]"
+      "author": "Denise Petski",
+      "title": "Edison Tower Caused Deadly Eaton Fire That Decimated Altadena, Investigation Finds - Deadline",
+      "description": "An out-of-service SoCal Edison transmission tower sparked the deadly January 2025 Eaton Fire north of Los Angeles, according to the final report.",
+      "url": "http://deadline.com/2026/08/edison-tower-caused-eaton-fire-final-report-altadena-1237017576/",
+      "urlToImage": "https://deadline.com/wp-content/uploads/2026/08/GettyImages-2204657223.jpg?w=1024",
+      "publishedAt": "2026-08-04T21:04:00Z",
+      "content": "An out-of-service Southern California Edison transmission tower sparked the deadly January 2025 Eaton Fire north of Los Angeles, according to the final report released Tuesday by the California Depar… [+2310 chars]"
     },
     {
       "source": {
@@ -295,15 +399,15 @@
     {
       "source": {
         "id": null,
-        "name": "The Falcoholic"
+        "name": "Phys.Org"
       },
-      "author": "Jeanna Kelley, Kevin Knight",
-      "title": "Falcons training camp Day 6 news, standouts, interviews, injuries - The Falcoholic",
-      "description": "The Falcons ended practice early after Jalon Walker’s injury, but we got a few noteworthy plays and updates before then.",
-      "url": "https://www.thefalcoholic.com/atlanta-falcons-training-camp/94818/falcons-training-camp-day-6-news-standouts-interviews-injuries-jalon-walker-tua-tagovailoa-michael-penix-nfl-2026",
-      "urlToImage": "https://platform.thefalcoholic.com/wp-content/uploads/sites/161/2026/08/gettyimages-2287503212.jpg?quality=90&strip=all&crop=0%2C10.728184511296%2C100%2C78.543630977408&w=1200",
-      "publishedAt": "2026-08-04T20:39:13Z",
-      "content": "FLOWERY BRANCH, Ga. The end of the Falcons sixth training camp practice overshadowed everything else that happened on Tuesday.\r\nJalon Walker, the second-year pass rusher whos coming off of a fantasti… [+7870 chars]"
+      "author": null,
+      "title": "Sticky alpine flower confirms Darwin's 150-year-old carnivorous plant prediction - Phys.org",
+      "description": "A flowering plant has been confirmed as a new carnivorous lineage, according to research published in Nature Communications. The findings show that Saxifraga candelabrum can attract, trap, digest and absorb nitrogen from insects, supporting a prediction made …",
+      "url": "https://phys.org/news/2026-08-sticky-alpine-darwin-year-carnivorous.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/carnivorous-plants-con.jpg",
+      "publishedAt": "2026-08-04T19:40:43Z",
+      "content": "A flowering plant has been confirmed as a new carnivorous lineage, according to research published in Nature Communications. The findings show that Saxifraga candelabrum can attract, trap, digest and… [+2702 chars]"
     },
     {
       "source": {
@@ -317,84 +421,6 @@
       "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/6bb4/live/1636a630-9036-11f1-b2ab-0dd01740f9f6.jpg",
       "publishedAt": "2026-08-04T19:07:19Z",
       "content": "Ukrainian President Volodymyr Zelensky has shared a video of a street vendor being hunted by a drone before it exploded. \r\nThe man in the video verified by the BBC, 52-year-old street vegetable selle… [+496 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "WGN TV Chicago"
-      },
-      "author": "Marisa Rodriguez",
-      "title": "Ariana Grande addresses Chicago fans on decision to ‘step back’ - WGN-TV",
-      "description": "Ariana Grande addressed fans during her Eternal Sunshine Tour in Chicago to clarify that her decision to take a break from public life was a planned move rather than a reaction to negativity.",
-      "url": "https://wgntv.com/news/chicago-news/ariana-grande-addresses-chicago-fans-on-decision-to-step-back/",
-      "urlToImage": "https://wgntv.com/wp-content/uploads/sites/5/2025/03/AP25061802602396.jpg?w=1280",
-      "publishedAt": "2026-08-04T18:53:06Z",
-      "content": "CHICAGO Ariana Grande addressed fans in Chicago about her decision to take a break from the public eye.\r\nGrande took the stage at the United Center on Monday night, following news that the 33-year-ol… [+1627 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Forbes"
-      },
-      "author": "Sara Dorn",
-      "title": "Bernie Moreno Accuses Max Miller Of Holding Granddaughter’s Bunny ‘Hostage’ - Forbes",
-      "description": "Miller on Tuesday called on the House Ethics Committee to investigate him.",
-      "url": "https://www.forbes.com/sites/saradorn/2026/08/04/bernie-moreno-accuses-max-miller-of-holding-granddaughters-bunny-hostage/",
-      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6a722c5a7ca992c012db0c9d/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-      "publishedAt": "2026-08-04T18:18:15Z",
-      "content": "Sen. Bernie Moreno, R-Ohio, told reporters Tuesday Rep. Max Miller, R-Ohio, refused to hand over his granddaughters beloved little blue bunny in a custody exchange on Sunday, elaborating on his daugh… [+3656 chars]"
-    },
-    {
-      "source": {
-        "id": "fox-news",
-        "name": "Fox News"
-      },
-      "author": null,
-      "title": "Tick-borne 'rabbit fever' spreads with cases reported near major metro area - Fox News",
-      "description": "Three probable tularemia cases on Long Island have officials warning residents about the tick-borne illness after a 9-year-old developed severe symptoms.",
-      "url": "https://www.foxnews.com/health/tick-borne-rabbit-fever-spreads-cases-reported-near-major-metro-area",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/08/tick-on-leaf.jpg",
-      "publishedAt": "2026-08-04T17:52:54Z",
-      "content": "Health officials on Long Island are warning residents about a rare but potentially serious tick-borne illness.\r\nThree probable cases of tularemia also known as \"rabbit fever\" have been confirmed by t… [+4764 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Android Authority"
-      },
-      "author": null,
-      "title": "Fresh Pixel 11 series leak reveals thinner camera bar and 30-hour battery - Android Authority",
-      "description": "A new leak has come for the base model Pixel 11 and Pixel 11 Pro Fold, revealing marketing materials for both phones.",
-      "url": "https://www.androidauthority.com/pixel-11-series-marketing-materials-3694475/",
-      "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2026/07/pixel-11-google-store-teaser.jpg",
-      "publishedAt": "2026-08-04T16:23:00Z",
-      "content": "<ul><li>A leak has revealed marketing material for the Pixel 11 and Pixel 11 Pro Fold.</li><li>The leak confirms a few details about the base model, such as a stated 30 hours of battery life, 55% cha… [+2070 chars]"
-    },
-    {
-      "source": {
-        "id": "cnn",
-        "name": "CNN"
-      },
-      "author": "By Mindy Weisberger",
-      "title": "Darwin proposed that a type of plant was carnivorous. Scientists finally proved him right - CNN",
-      "description": "A new study found Saxifraga candelabrum to be a carnivorous plant, proving true Charles Darwin’s hypothesis that some plants of its genus lure, trap and eat insects.",
-      "url": "https://www.cnn.com/2026/08/04/science/carnivorous-plant-charles-darwin-prediction",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/featured-image-1.jpeg?c=16x9&q=w_800,c_fill",
-      "publishedAt": "2026-08-04T15:53:28Z",
-      "content": "Sticky hairs on two plant species in the Saxifraga genus led famed British naturalist Charles Darwin to wonder: Could some plants in this genus be carnivorous? He couldnt prove it then, but more than… [+6753 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "BBC News"
-      },
-      "author": null,
-      "title": "Where in the West Country to see the biggest solar eclipse since 1999 - BBC",
-      "description": "The UK's biggest solar eclipse since 1999 arrives on 12 August. Here's where to see it safely in the West Country.",
-      "url": "https://www.bbc.com/news/articles/cjrvn0wez48o",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/0040/live/ba1ceac0-8b5e-11f1-b422-3b36120ef864.jpg",
-      "publishedAt": "2026-08-04T12:19:55Z",
-      "content": "Dr Stephen Price, chair of the Bristol Astronomical Society, said the society, together with Bristol's We The Curious and the Friends of the Downs and Avon Gorge, are meeting at the Downs Sea Walls V… [+42 chars]"
     },
     {
       "source": {
@@ -412,41 +438,15 @@
     {
       "source": {
         "id": null,
-        "name": "WPVI-TV"
+        "name": "Global News"
       },
-      "author": "6abc Digital Staff",
-      "title": "Child among 2 being treated for measles in Lehigh County, health officials say - 6abc Philadelphia",
-      "description": "Saint Luke's Hospital in the Lehigh Valley is treating a pediatric patient for measles.",
-      "url": "https://6abc.com/post/pediatric-measles-case-reported-st-lukes-hospital-lehigh-valley/19621753/",
-      "urlToImage": "https://cdn.abcotvs.com/dip/images/19623920_080426-wpvi-2-lehigh-measles-cases-530a-vo-video-vid.jpg?w=1600",
-      "publishedAt": "2026-08-04T03:45:24Z",
-      "content": "BETHLEHEM, Pa. (WPVI) -- Lehigh County confirmed its first two measles cases amid a statewide surge in Pennsylvania.\r\nSaint Luke's Hospital says a child is being treated at one of its facilities.\r\nWe… [+891 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Kotaku"
-      },
-      "author": "Kenneth Shepard",
-      "title": "10 Things To Know Before Starting Beast Of Reincarnation - Kotaku",
-      "description": "Game Freak’s Soulslike RPG is tough, so here are some survival tips",
-      "url": "https://kotaku.com/beast-of-reincarnation-tips-difficulty-settings-english-2000721303",
-      "urlToImage": "https://kotaku.com/app/uploads/2026/08/beast-tips.jpg",
-      "publishedAt": "2026-08-04T00:00:15Z",
-      "content": "Beast of Reincarnation is a tough game. It combines the heavy-hitting enemies that Soulslikes are known for with enough of its own mechanics to make it a fresh experience for those who are both seaso… [+4959 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Android Authority"
-      },
-      "author": null,
-      "title": "5 smartwatches you should buy instead of the Samsung Galaxy Watch 9 - Android Authority",
-      "description": "Samsung raised the price on the Galaxy Watch 9, and the upgrades aren't that big. Here are 5 alternatives that demand your attention.",
-      "url": "https://www.androidauthority.com/samsung-galaxy-watch-9-alternatives-3692792/",
-      "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2026/07/Galaxy-Watch-9.jpg",
-      "publishedAt": "2026-08-03T09:30:00Z",
-      "content": "Samsung launched its latest Galaxy Watches alongside its new foldable phones in July 2026. The Samsung Galaxy Watch 9 is now the latest entry point to the companys smartwatch lineup, featuring larger… [+6075 chars]"
+      "author": "Erika Morris",
+      "title": "Another Canadian is preparing to head to space, this time for ISS mission - Global News",
+      "description": "Joshua Kutryck, from Fort Saskatchewan near Edmonton, is one of four members assigned to NASA's SpaceX Crew 13 mission set to spend six months at the ISS.",
+      "url": "https://globalnews.ca/news/12007643/canadian-international-space-station-mission/",
+      "urlToImage": "https://globalnews.ca/wp-content/uploads/2026/08/Kutryck.jpg?quality=65&strip=all&crop=0px%2C74px%2C5800px%2C3064px&resize=720%2C379",
+      "publishedAt": "2026-08-03T19:25:56Z",
+      "content": "Growing up on a cattle farm in eastern Alberta, Joshua Kutryk says he dreamt of going to space though he never thought it would happen.\r\nBut a few months after Artemis II’s lunar flyby, the 44-year-o… [+4434 chars]"
     }
   ]
 }

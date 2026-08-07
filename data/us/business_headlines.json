@@ -3,60 +3,73 @@
   "country": "us",
   "category": "business",
   "mode": "country",
-  "fetched_at": "2026-08-07T12:32:21.001602+00:00",
-  "articles_count": 55,
+  "fetched_at": "2026-08-07T14:41:55.201610+00:00",
+  "articles_count": 54,
   "articles": [
+    {
+      "source": {
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
+      },
+      "author": "WSJ",
+      "title": "Stock Market Today: Nasdaq Futures Slip on AI Anxiety — Live Updates - WSJ",
+      "description": null,
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-06-2026",
+      "urlToImage": null,
+      "publishedAt": "2026-08-06T12:14:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Financial Times"
+      },
+      "author": null,
+      "title": "Kevin Warsh to stick with lean Fed messaging despite market backlash - Financial Times",
+      "description": "US central bank chair remains confident that sweeping reforms will win over key investors",
+      "url": "https://www.ft.com/content/debe096f-ec89-424f-a8ca-d3843ef53549?syn-25a6b1a6\\\\u003d1",
+      "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F6314062e-2d43-40ad-a864-8ccca1fd0479.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
+      "publishedAt": "2026-08-06T11:00:09Z",
+      "content": "Then $75 per month. Complete digital access to quality FT journalism on any device. Cancel anytime during your trial."
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "John Towfighi",
+      "title": "More than 900 million SpaceX shares unlock today. Here’s what to know - CNN",
+      "description": "More than 900 million SpaceX shares are set to unlock Thursday, more than doubling the publicly available stock in Elon Musk’s space and AI company, which has struggled since its record-breaking IPO just weeks ago.",
+      "url": "https://www.cnn.com/2026/08/06/tech/spacex-stock-elon-musk",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/ap26163581255063-20260805201147742.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2026-08-06T09:30:29Z",
+      "content": "More than 900 million SpaceX shares are set to unlock Thursday, more than doubling the publicly available stock in Elon Musks space and AI company, which has struggled since its record-breaking IPO j… [+3890 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Fox Business"
+      },
+      "author": "Landon Mion",
+      "title": "Budget airline Jetstar to charge passengers for storing bags in overhead compartments - Fox Business",
+      "description": "Jetstar will charge passengers up to $37 to use overhead compartments starting February 2027, making it the first Australian airline to introduce the fee.",
+      "url": "https://www.foxbusiness.com/fox-news-travel/budget-airline-charge-passengers-storing-bags-overhead-compartments",
+      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/08/0/0/airplane-overhead-compartment-charges.png?ve=1&tl=1",
+      "publishedAt": "2026-08-06T09:08:00Z",
+      "content": "Budget Australian airline Jetstar will begin charging passengers for storing carry-on bags in the overhead compartments as part of an overhaul of the airline's cabin baggage policy.\r\nThe new policy w… [+3208 chars]"
+    },
     {
       "source": {
         "id": "associated-press",
         "name": "Associated Press"
       },
-      "author": "Elaine Kurtenbach",
-      "title": "World shares are mixed and Kospi falls 4.6% after tech giants decline on Wall Street - AP News",
-      "description": "World shares are mixed and South Korea's Kospi dropped more than 4% following declines for some Big Tech giants on Wall Street. Oil prices held steady, with Brent crude trading near $79 a barrel. Uncertainty about the direction of the U.S. war with Iran persi…",
-      "url": "https://apnews.com/article/stocks-markets-ai-spacex-hynix-bonds-2f4f2638cb8430bb7c8e5d59a7b50731",
-      "urlToImage": "https://dims.apnews.com/dims4/default/87ffff8/2147483647/strip/true/crop/5245x3495+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F65%2Fd9%2Fffae8e1bf76f61405d852b592da2%2F49eeedddfc174ca390e33d2467ae5db6",
-      "publishedAt": "2026-08-06T08:13:00Z",
-      "content": "BANGKOK (AP) Shares were mixed Thursday in Europe and Asia and South Koreas Kospi dropped more than 4% following declines for some Big Tech giants including memory chipmaker SK Hynix. \r\nOil prices he… [+3909 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Seeking Alpha"
-      },
-      "author": "Gaurav Batavia",
-      "title": "SpaceX float more than doubles as 140%-of-float share unlock begins (SPCX:NASDAQ) - Seeking Alpha",
-      "description": "SpaceX (SPCX) lock-up expires as 911.5M shares hit the market, boosting float to ~1.55B.",
-      "url": "https://seekingalpha.com/news/4627264-spacex-float-more-than-doubles-as-140-of-float-share-unlock-begins",
-      "urlToImage": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2254175142/image_2254175142.jpg?io=getty-c-w630",
-      "publishedAt": "2026-08-06T05:46:46Z",
-      "content": "Walter Cicchetti\r\nSpaceX (SPCX) sees approximately 911.5 million shares, representing about 140% of its current public float, become eligible for trading today after the qualifying conditionthe secon… [+98 chars]"
-    },
-    {
-      "source": {
-        "id": "the-washington-post",
-        "name": "The Washington Post"
-      },
-      "author": "Rachel Roubein",
-      "title": "A new type of flu shot is coming after FDA approves mRNA-based vaccine - The Washington Post",
-      "description": "The agency’s former top vaccine regulator declined to review the Moderna shot, and it’s now likely to face pushback from allies of the health secretary.",
-      "url": "https://www.washingtonpost.com/health/2026/08/05/new-type-flu-shot-is-coming-after-fda-approves-mrna-based-vaccine/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/5FSVGGD6WC4NAWAJ7TIPOAIP2Q.jpg&w=1440",
-      "publishedAt": "2026-08-06T05:26:00Z",
-      "content": "The Food and Drug Administration has approved the first mRNA-based flu vaccine, paving the way for a new type of shot that will be available for adults 50 and over looking to get immunized against th… [+58 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": "Justina Lee, Tanaya Macheel",
-      "title": "Dow futures inch higher after blue-chip index posts new record close: Live updates - CNBC",
-      "description": "Markets ended divided Wednesday as a record close in the Dow Industrials contrasted with losses in the Nasdaq Composite and S&P 500.",
-      "url": "https://www.cnbc.com/2026/08/05/stock-market-today-live-updates.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108345306-1785940340553-gettyimages-2289192413-mms15179_jiu9nbcp.jpeg?v=1785940383&w=1920&h=1080",
-      "publishedAt": "2026-08-06T04:12:00Z",
-      "content": "Futures tied to the Dow Jones Industrial Average rose early Thursday after the blue-chip index closed at a record high, as investors looked ahead to another round of corporate earnings.\r\nDow futures … [+2654 chars]"
+      "author": "Hyung-Jin Kim",
+      "title": "Police raid Starbucks’ South Korean HQ over ad campaign that evoked massacre - AP News",
+      "description": "South Korean police say they’ve raided the headquarters of Starbucks’ local operation as part of an investigation into a marketing campaign perceived as defaming 1980s' pro-democracy movements. Police said Wednesday they sent investigators to search the Starb…",
+      "url": "https://apnews.com/article/korea-starbucks-police-raid-gwangju-c7c718112575208e7ff28d71942c707c",
+      "urlToImage": "https://dims.apnews.com/dims4/default/a254c91/2147483647/strip/true/crop/3076x2050+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F3d%2F0f%2F7fadcd1310a578eeb865e4cd8c94%2Fb38dc574d805490b92aafd7a9ea2b1e6",
+      "publishedAt": "2026-08-06T06:20:00Z",
+      "content": "SEOUL, South Korea (AP) South Korean police raided the headquarters of Starbucks local operation as part of an investigation into a controversial marketing campaign that was perceived as defaming 198… [+1717 chars]"
     },
     {
       "source": {
@@ -86,6 +99,19 @@
     },
     {
       "source": {
+        "id": "cbs-news",
+        "name": "CBS News"
+      },
+      "author": null,
+      "title": "FDA approves Moderna's mRNA flu vaccine after initial pushback - CBS News",
+      "description": "The U.S. Food and Drug Administration has approved a new seasonal flu vaccine from Moderna that uses mRNA technology, the drugmaker announced.",
+      "url": "https://www.cbsnews.com/news/fda-approves-moderna-mrna-flu-vaccine/",
+      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2022/12/13/02cbc966-2fa4-485c-890a-30f247de9786/thumbnail/1200x630/a00f20d2a54bd9c69e244e449462aaf9/moderna-ap.jpg",
+      "publishedAt": "2026-08-06T03:07:00Z",
+      "content": "The U.S. Food and Drug Administration has approved a new seasonal flu vaccine from Moderna that uses mRNA technology, the drugmaker announced Wednesday. \r\nmFLUSIVA, approved for adults ages 50 and ol… [+1733 chars]"
+    },
+    {
+      "source": {
         "id": null,
         "name": "CNBC"
       },
@@ -96,6 +122,19 @@
       "urlToImage": "https://image.cnbcfm.com/api/v1/image/108335529-1784138619967-gettyimages-2285617388-DEFENSE_INNOVATION_SUMMIT.jpeg?v=1784138658&w=1920&h=1080",
       "publishedAt": "2026-08-06T02:02:00Z",
       "content": "JPMorgan Chief Executive Officer Jamie Dimon has warned that leverage across financial markets remained elevated, adding that investors should be mindful that hidden borrowing could amplify market di… [+2709 chars]"
+    },
+    {
+      "source": {
+        "id": "usa-today",
+        "name": "USA Today"
+      },
+      "author": "Natalie Neysa Alund",
+      "title": "Salmonella outbreak linked to jalapeños hits 27 states. See where - USA Today",
+      "description": "A salmonella outbreak linked to jalapeños has sickened people in 27 states, with 36 hospitalizations reported, according to federal health officials.",
+      "url": "https://www.usatoday.com/story/news/nation/2026/08/05/salmonella-outbreak-linked-to-jalapenos-hits-27-states/91190820007/",
+      "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/08/06/USAT/91191080007-20080722-t-000000-z-1654436639-gm-1-e-47-n-0-eh-801-rtrmadp-3-salmonellausa.JPG?crop=2299,1294,x0,y87&width=2299&height=1294&format=pjpg&auto=webp",
+      "publishedAt": "2026-08-06T01:37:00Z",
+      "content": "At least 345 people in 27 states have been sickened with the same strain of salmonella that has recently been linked to jalapenos, the Centers for Disease Control and Prevention announced Aug. 5.\r\nTh… [+3166 chars]"
     },
     {
       "source": {
@@ -112,68 +151,42 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "Motley Fool"
-      },
-      "author": "Eric Volkman",
-      "title": "Disney Reaffirms Double-Digit Earnings Growth, Targets $9 Billion in Buybacks. Here’s What Investors Need to Know. - The Motley Fool",
-      "description": "The entertainment giant crushed analyst profitability estimates for its third quarter.",
-      "url": "https://www.fool.com/investing/2026/08/05/disney-reaffirms-double-digit-earnings-growth-targets-9-billion-in-buybacks-heres-what-investors-need-to-know/",
-      "urlToImage": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2F7c86e9e77bbbbb6c13ddd72526cc80e6a7620f82-2000x1200.jpg%3Fw%3D800%26q%3D75%26fit%3Dmax%26auto%3Dformat&w=1200&op=resize",
-      "publishedAt": "2026-08-06T00:30:00Z",
-      "content": "Walt Disney (DIS+3.65%) delivered the goods on Wednesday morning. The king of the entertainment industry broadcast its fiscal third-quarter results, and investors clearly found much to like about the… [+3959 chars]"
-    },
-    {
-      "source": {
-        "id": "cbs-news",
-        "name": "CBS News"
+        "id": "fox-news",
+        "name": "Fox News"
       },
       "author": null,
-      "title": "Cyclospora outbreak tied to iceberg lettuce now linked to 15 states, CDC says - CBS News",
-      "description": "Cyclospora cases have been reported in at least 47 states total this year, and investigators have continued to probe how many could be linked to a common contaminated source.",
-      "url": "https://www.cbsnews.com/news/cyclospora-iceberg-lettuce-states/",
-      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/08/05/78be6bbd-1d8a-474e-82c6-f09613a30091/thumbnail/1200x630/2c03e300cd452b3afc63712a3680e698/ap080327046530.jpg",
-      "publishedAt": "2026-08-06T00:01:00Z",
-      "content": "Cyclospora cases in 15 states have been linked to iceberg lettuce, U.S. health officials said Wednesday, adding six states with cases tied to the ongoing outbreak. \r\nThe parasite has been reported in… [+3523 chars]"
+      "title": "Amazon driver caught on video flinging customer’s package onto porch in infuriating delivery blunder - Fox News",
+      "description": "Ring camera video shows a Yun Express driver hurling an Amazon package onto a Florida porch, snapping a proof-of-delivery photo and walking away.",
+      "url": "https://www.foxnews.com/us/amazon-driver-caught-video-flinging-customers-package-porch-infuriating-delivery-blunder",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/08/amazon-box-fail.gif",
+      "publishedAt": "2026-08-06T00:18:27Z",
+      "content": "A delivery driver is under scrutiny after a doorbell camera captured a package sailing through the air instead of being carefully delivered.\r\nRing camera video shared by Florida resident Nathan Pekas… [+2007 chars]"
+    },
+    {
+      "source": {
+        "id": "associated-press",
+        "name": "Associated Press"
+      },
+      "author": null,
+      "title": "Trump says ‘we may have to’ send oil prices higher during speech talking up the economy - AP News",
+      "description": "As he often does, President Donald Trump predicted that oil prices will fall once the war in Iran is over – something he has been saying for weeks, but which has yet to fully come to fruition.",
+      "url": "https://apnews.com/video/trump-says-we-may-have-to-send-oil-prices-higher-during-speech-talking-up-the-economy-0890359d57ef40618e79f5d9e151be7e",
+      "urlToImage": "https://dims.apnews.com/dims4/default/3d2c98f/2147483647/strip/true/crop/1621x1080+150+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F7c%2Fe8%2F6f05d9b422a93580610f18e70ee2%2Fus-nv-trump-iran-oil-prices-20260805cr-1920x1080.jpg",
+      "publishedAt": "2026-08-06T00:03:00Z",
+      "content": "As he often does, President Donald Trump predicted that oil prices will fall once the war in Iran is over something he has been saying for weeks, but which has yet to fully come to fruition."
     },
     {
       "source": {
         "id": null,
-        "name": "TheStreet"
+        "name": "Yahoo Entertainment"
       },
-      "author": "Hillary Remy, Celine Provini",
-      "title": "Michael Burry sends loud signal to stock market investors - thestreet.com",
-      "description": "Michael Burry sees a possible 1987-type event ahead.",
-      "url": "https://www.thestreet.com/investing/stocks/michael-burry-loud-signal-to-stock-market-investors-sp500-semiconductors-nvidia-palantir",
-      "urlToImage": "https://www.thestreet.com/.image/NDA6MDAwMDAwMDAzMTM2Njc2/us-economy-markets.jpg?profile=share16-9",
-      "publishedAt": "2026-08-05T23:33:00Z",
-      "content": "Wall Street hit a milestone on Aug. 4 that would normally silence the skeptics. The S&amp;P 500 closed at a record high for the first time since June, and the Nasdaq Composite followed. \r\nBoth were p… [+5977 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "KRON4"
-      },
-      "author": "Alex Baker, Stephanie Rothman",
-      "title": "Salmonella linked to jalapenos in 27 states, including California - kron4.com",
-      "description": "(KRON) — A Salmonella outbreak linked to jalapeno peppers has now impacted people across 27 states, including California. That’s the latest from the Centers for Disease Control and Prevention, which said Wednesday that some 345 people across the country had b…",
-      "url": "https://www.kron4.com/news/california/salmonella-linked-to-jalapenos-in-27-states-including-california/",
-      "urlToImage": "https://www.kron4.com/wp-content/uploads/sites/11/2026/08/GettyImages-2257034873.jpg?w=1280",
-      "publishedAt": "2026-08-05T23:14:46Z",
-      "content": "(KRON) — A Salmonella outbreak linked to jalapeno peppers has now impacted people across 27 states, including California. That’s the latest from the Centers for Disease Control and Prevention, which … [+1269 chars]"
-    },
-    {
-      "source": {
-        "id": "bloomberg",
-        "name": "Bloomberg"
-      },
-      "author": "Riley Griffin, Rachel Metz",
-      "title": "Meta AI Model Accessed Internet, Hacked Outside Firm in Testing - Bloomberg.com",
-      "description": "Meta Platforms Inc. said one of its artificial intelligence models accessed the internet and hacked into an outside service’s systems during cybersecurity testing, following other recent incidents across the AI industry that have escalated concerns about comp…",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-05/meta-ai-model-accessed-internet-hacked-outside-firm-in-testing",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iDtzhnDZtL.Q/v0/1200x800.jpg",
-      "publishedAt": "2026-08-05T23:04:41Z",
-      "content": "Meta Platforms Inc. said one of its artificial intelligence models accessed the internet and hacked into an outside services systems during cybersecurity testing, following other recent incidents acr… [+391 chars]"
+      "author": "Ruth Carson, Alice Atkins and Ye Xie",
+      "title": "‘Sell America’ Debate Re-Emerges as US Policies Sow Some Doubts - Yahoo Finance",
+      "description": "(Bloomberg) -- Global bond and currency investors are debating if it’s time to dust off last year’s ‘Sell America’ trade after a flurry of economic-policy de...",
+      "url": "https://finance.yahoo.com/economy/policy/articles/sell-america-debate-emerges-us-234222231.html",
+      "urlToImage": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
+      "publishedAt": "2026-08-05T23:42:22Z",
+      "content": "(Bloomberg) -- Global bond and currency investors are debating if it's time to dust off last year's 'Sell America' trade after a flurry of economic-policy decisions out of Washington over the past tw… [+6577 chars]"
     },
     {
       "source": {
@@ -216,6 +229,32 @@
     },
     {
       "source": {
+        "id": null,
+        "name": "The Information"
+      },
+      "author": "Jyoti Mann",
+      "title": "A Meta AI Model Hacked Another Company During Cybersecurity Testing - theinformation.com",
+      "description": "A Meta Platforms artificial intelligence model accessed the internet during cybersecurity testing and hacked into another company, according to people familiar with the matter, in the latest in a string of such incidents at major AI firms. Meta’s Muse Spark 1…",
+      "url": "https://www.theinformation.com/articles/meta-ai-model-hacked-another-company-cybersecurity-testing",
+      "urlToImage": "https://tii.imgix.net/production/articles/17571/ef7a18f6-c32a-4694-bc8e-da45fc556f1d.png?fm=jpg&auto=compress&w=1200&frame=0",
+      "publishedAt": "2026-08-05T22:18:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "author": "Shawna Kwan, Hema Parmar",
+      "title": "Hedge Funds Take Big Hit in July After Bruising AI Selloff - Bloomberg.com",
+      "description": "A spate of well-known hedge funds reported steep losses in July as AI shares tumbled, most notably forcing the highly leveraged Situational Awareness to sell most of its stock portfolio at a deep discount to Ken Griffin’s Citadel.",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-05/hedge-funds-take-big-hit-in-july-after-bruising-ai-selloff",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iC5uDTqxL7z0/v0/1200x832.jpg",
+      "publishedAt": "2026-08-05T21:50:02Z",
+      "content": "A spate of well-known hedge funds reported steep losses in July as AI shares tumbled, most notably forcing the highly leveraged Situational Awareness to sell most of its stock portfolio at a deep dis… [+260 chars]"
+    },
+    {
+      "source": {
         "id": "techcrunch",
         "name": "TechCrunch"
       },
@@ -230,15 +269,28 @@
     {
       "source": {
         "id": null,
-        "name": "Investor's Business Daily"
+        "name": "TODAY"
       },
-      "author": null,
-      "title": "Western Digital Earnings Beat With 44% Sales Growth. But Stock Tumbles Late. - Investor's Business Daily",
-      "description": "Western Digital stock slumped even though it posted second quarter earnings results that were ahead of estimates.",
-      "url": "https://www.investors.com/news/technology/western-digital-stock-wdc-earnings-june-2026/",
-      "urlToImage": "https://www.investors.com/wp-content/uploads/2017/09/Stock-westernDigital-01-company.jpg",
-      "publishedAt": "2026-08-05T21:16:00Z",
-      "content": "Information in Investors Business Daily is for informational and educational purposes only and should not be construed as an offer, recommendation, solicitation, or rating to buy or sell securities. … [+1064 chars]"
+      "author": "Caroline Kee",
+      "title": "Cyclospora Outbreak 2026: Map, Foods to Avoid, States Most Impacted as US Hits 22,000 Cases - TODAY.com",
+      "description": "Infections with cyclospora — what’s become known as the “explosive diarrhea” parasite — have been reported in almost every state in the U.S. as of early August.",
+      "url": "https://www.today.com/health/disease/cyclosporiasis-outbreak-states-map-2026-parasite-foods-avoid-diarrhea-rcna590935",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_social_share_1200x630_center,f_auto,q_auto:best/rockcms/2026-07/explosive-diarrhea-parasite-cyclosporiasis-mh-07012026-f9ee58.jpg",
+      "publishedAt": "2026-08-05T20:45:29Z",
+      "content": "Infections with cyclospora whats become known as the explosive diarrhea parasite have been reported in almost every state in the U.S. as of early August. Health officials are still racing to find the… [+11150 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "MarketWatch"
+      },
+      "author": "Jaimy Lee",
+      "title": "Lilly’s revenue soars 48%, driven by demand for its GLP-1s - MarketWatch",
+      "description": "Mounjaro sales led the drugmaker’s stellar performance in the second quarter, bringing in $9.9 billion",
+      "url": "https://www.marketwatch.com/story/lillys-revenue-soars-48-driven-by-demand-of-its-glp-1s-7361c223",
+      "urlToImage": "https://images.mktw.net/im-76946661/social",
+      "publishedAt": "2026-08-05T20:45:00Z",
+      "content": "Eli Lilly, the American drug giant, had another record-breaking quarter. \r\nThe weight-loss injection Zepbound saw sales soar 46% in the second quarter to $4.9 billion. The FactSet consensus was for $… [+279 chars]"
     },
     {
       "source": {
@@ -256,6 +308,19 @@
     {
       "source": {
         "id": null,
+        "name": "NBC4 WCMH-TV"
+      },
+      "author": "Kevin Accettulla, Daniel Griffin",
+      "title": "Upper Arlington bakery creates cookies to support Ohio business sued by Buc-ee’s - NBC4 WCMH-TV",
+      "description": "UPPER ARLINGTON, Ohio (WCMH) — An Upper Arlington bakery is creating a special cookie to help raise funds for an Ohio corner store that is being sued by Buc-ee’s. The Original Goodie Shop is selling cookies for $3 each, and $1 from each cookie sold will go to…",
+      "url": "https://www.nbc4i.com/news/local-news/upper-arlington/upper-arlington-bakery-creates-cookies-to-support-ohio-business-sued-by-buc-ees/",
+      "urlToImage": "https://www.nbc4i.com/wp-content/uploads/sites/18/2026/08/Beavers-Mini-Mart-e1785790823334.webp?w=1280",
+      "publishedAt": "2026-08-05T20:42:45Z",
+      "content": "UPPER ARLINGTON, Ohio (WCMH) — An Upper Arlington bakery is creating a special cookie to help raise funds for an Ohio corner store that is being sued by Buc-ee’s.\r\nThe Original Goodie Shop is selling… [+1652 chars]"
+    },
+    {
+      "source": {
+        "id": null,
         "name": "CNBC"
       },
       "author": "Jeff Cox",
@@ -265,6 +330,32 @@
       "urlToImage": "https://image.cnbcfm.com/api/v1/image/108312835-17799158162026-05-27t210216z_928483410_rc2whla0rsgv_rtrmadp_0_usa-fed-cook.jpeg?v=1779915848&w=1920&h=1080",
       "publishedAt": "2026-08-05T20:36:16Z",
       "content": "Federal Reserve Governor Lisa Cook said Wednesday that she's ready to support an interest rate hike unless the inflation numbers improve.\r\n\"Inflation is too high, and I consider the risks to the infl… [+1665 chars]"
+    },
+    {
+      "source": {
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
+      },
+      "author": "WSJ",
+      "title": "Sandisk Revenue Soars on AI Data Storage Demand - WSJ",
+      "description": null,
+      "url": "https://www.wsj.com/business/earnings/sandisk-revenue-soars-on-ai-data-storage-demand-1fe50937",
+      "urlToImage": null,
+      "publishedAt": "2026-08-05T20:27:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Benzinga"
+      },
+      "author": "Erica Kollmann",
+      "title": "Western Digital Beats Q4 Estimates, Stock Falls on Guidance - Benzinga",
+      "description": "Here's a look at the details inside Western Digital's Q4 earnings report.",
+      "url": "https://www.benzinga.com/markets/earnings/26/08/60972188/western-digital-beats-q4-estimates-stock-falls-on-guidance",
+      "urlToImage": "https://cdn.benzinga.com/cdn-cgi/image/width=1200,height=800,fit=crop/files/images/story/2026/08/05/New-York-City--New-York---May-31-2026-We.jpg",
+      "publishedAt": "2026-08-05T20:23:06Z",
+      "content": "Western Digital Corp. (NASDAQ:WDC) posted its fourth-quarter results after Wednesdays closing bell, beating Wall Street estimates on the top and bottom lines.  \r\nHeres a look at the details inside th… [+1278 chars]"
     },
     {
       "source": {
@@ -334,19 +425,6 @@
     {
       "source": {
         "id": null,
-        "name": "Hollywood Reporter"
-      },
-      "author": "Caitlin Huston",
-      "title": "Disney Is “Exploring” Launching Its Own FAST Offering - The Hollywood Reporter",
-      "description": "While there were no launch announcements Wednesday, CEO Josh D'Amaro said it's \"definitely something\" the company is considering.",
-      "url": "http://www.hollywoodreporter.com/business/digital/disney-exploring-launching-fast-offering-1236664717/",
-      "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2026/05/GettyImages-2183884600-1.jpg?crop=0px%2C332px%2C3332px%2C1864px&resize=1440%2C810",
-      "publishedAt": "2026-08-05T18:53:17Z",
-      "content": "Disney said it is exploring launching a FAST product, or free, ad-supported channels for consumers. \r\n“We’re exploring a free product for consumers, one that will allow us to accomplish several goals… [+1912 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "Barron's"
       },
       "author": "Kit Norton",
@@ -372,19 +450,6 @@
     },
     {
       "source": {
-        "id": "usa-today",
-        "name": "USA Today"
-      },
-      "author": "Gabe Hauari",
-      "title": "Mini mart sued by Buc-ee's receives support with merch - usatoday.com",
-      "description": "A company has come out in support of an Ohio mini mart currently being sued by gas station chain Buc-ee's.",
-      "url": "https://www.usatoday.com/story/money/2026/08/05/bucees-sues-beavers-mini-mart-cincy-shirts/91184091007/",
-      "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/08/02/PCIN/91142563007-b-7-e-99-c-1-afe-884-def-9-ba-633918-f-01-bc-57.png?crop=1919,1080,x0,y179&width=1919&height=1080&format=pjpg&auto=webp",
-      "publishedAt": "2026-08-05T18:42:11Z",
-      "content": "A popular Cincinnati apparel company is rallying behind a corner store facing a lawsuit from gas station chain Buc-ee's.\r\nCincy Shirts, an apparel brand co-owned by comedian Josh Sneed and artist Dar… [+5817 chars]"
-    },
-    {
-      "source": {
         "id": null,
         "name": "WCVB Boston"
       },
@@ -401,13 +466,13 @@
         "id": null,
         "name": "Yahoo Entertainment"
       },
-      "author": "Ines Ferré",
-      "title": "Sandisk stock steady ahead of AI highflier's earnings - Yahoo Finance",
-      "description": "Sandisk reported earnings on Wednesday.",
-      "url": "https://finance.yahoo.com/markets/stocks/article/sandisk-stock-sinks-as-revenue-forecast-falls-short-of-expectations-163703465.html",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/4CB319E0D23FEC74A636CB88BB1872E76983CC9484434F1F7A2EDD0FC8A465BA/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-08%2F6d4c4c81-0a2e-4898-a8be-5b1808cdf641",
-      "publishedAt": "2026-08-05T16:37:03Z",
-      "content": "What happened: Sandisk (SNDK) stock sank as much as 8% in after-hours trading on Wednesday.\r\nWhat's behind the move: The flash memory and storage manufacturer issued revenue guidance for the company'… [+2661 chars]"
+      "author": "Moz Farooque ACCA",
+      "title": "Michael Burry Drops Shocking Take on AI Stocks - Yahoo Finance",
+      "description": "Calm markets may be encouraging investors to take greater risks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/michael-burry-drops-shocking-ai-165752178.html",
+      "urlToImage": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
+      "publishedAt": "2026-08-05T16:57:52Z",
+      "content": "This article first appeared on GuruFocus.\r\nMichael Burry (Trades, Portfolio) is maintaining bearish positions against Nvidia (NASDAQ:NVDA), Micron Technology (NASDAQ:MU), Palantir Technologies (NASDA… [+2107 chars]"
     },
     {
       "source": {
@@ -438,15 +503,15 @@
     {
       "source": {
         "id": null,
-        "name": "Jalopnik"
+        "name": "Kitco NEWS"
       },
-      "author": "Andy Kalmowitz",
-      "title": "Lucid's Cosmos Delayed Until Next Year As It Deals With A $1 Billion Q2 Loss - Jalopnik",
-      "description": "Lucid really needs this car to do well if it wants to survive into the future, but it also needs to survive long enough to produce it.",
-      "url": "https://www.jalopnik.com/2230799/lucid-cosmos-delayed-next-year/",
-      "urlToImage": "https://www.jalopnik.com/img/gallery/lucids-cosmos-delayed-until-next-year-as-it-deals-with-a-1-billion-q2-loss/l-intro-1785941370.jpg",
-      "publishedAt": "2026-08-05T14:52:30Z",
-      "content": "Lucid is slamming the brakes on the launch of what could be its most important vehicle ever: the Cosmos. The compact electric crossover is meant to be the Newark, California-based automaker's first m… [+1856 chars]"
+      "author": null,
+      "title": "Gold prices push above $4,200 as ADP says 44k jobs created in July - KITCO",
+      "description": "(Kitco News) - The gold market is adding to its overnight gains, pushing to session highs above $4,200 an ounce as the U.S. economy created fewer private-sector jobs than expected in July, according to private-sector payroll processor ADP.On Wednesday, ADP an…",
+      "url": "https://www.kitco.com/news/article/2026-08-05/gold-prices-push-above-4200-adp-says-44k-jobs-created-july",
+      "urlToImage": "https://image-api.prod.kitco.com/image/4483dab0-8260-471c-b190-bb23c8f7dfc2.jpeg?top=48.336538461538&left=0&width=640&height=360.32692307692&scale_width=1920&token=338eaf03364f9518a13e991ce1425cb6230e9736476839108e46a9d452bff430",
+      "publishedAt": "2026-08-05T15:33:50Z",
+      "content": "(Kitco News) - The gold market is adding to its overnight gains, pushing to session highs above $4,200 an ounce as the U.S. economy created fewer private-sector jobs than expected in July, according … [+1745 chars]"
     },
     {
       "source": {
@@ -463,16 +528,16 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "WGN TV Chicago"
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
       },
-      "author": "The Associated Press",
-      "title": "Airline will charge passengers to use overhead compartments for bags - WGN-TV",
-      "description": "The days of cramming your bag into an overhead bin already full of your seatmates' suitcases are coming to an end.",
-      "url": "https://wgntv.com/news/airline-will-charge-passengers-to-use-overhead-compartments-for-bags/",
-      "urlToImage": "https://wgntv.com/wp-content/uploads/sites/5/2026/08/overhead-bin-on-plane-e1785930271145.jpg?w=1280",
-      "publishedAt": "2026-08-05T14:15:06Z",
-      "content": "WELLINGTON, New Zealand (AP) For passengers on the budget Australian airline Jetstar, the days of cramming your bag into an overhead bin already full of your seatmates’ suitcases are coming to an end… [+2462 chars]"
+      "author": "WSJ",
+      "title": "Theme Parks and ‘Toy Story 5’ Boost Disney Results - WSJ",
+      "description": null,
+      "url": "https://www.wsj.com/business/earnings/disney-earnings-q3-2026-dis-stock-bc2fa875",
+      "urlToImage": null,
+      "publishedAt": "2026-08-05T14:16:00Z",
+      "content": null
     },
     {
       "source": {
@@ -529,45 +594,6 @@
     {
       "source": {
         "id": null,
-        "name": "Phoronix"
-      },
-      "author": null,
-      "title": "Cloudflare Announces Open-Source Cloudflare OS As AI \"Operating System\" - Phoronix",
-      "description": "Cloudflare today announced the open-sourcing of Cloudflare OS as an 'open platform for agents, apps, and work.' Cloudflare OS is an AI 'operating system' but not in the traditional OS sense.",
-      "url": "https://www.phoronix.com/news/Cloudflare-OS",
-      "urlToImage": "https://www.phoronix.net/image.php?id=2026&image=cloudflare_os_2",
-      "publishedAt": "2026-08-05T13:16:00Z",
-      "content": "Cloudflare OS is already used internally at Cloudflare and is described in today's announcement as:\r\n\"Cloudflare OS starts with a conversation in your browser, like many other AI tools. What makes it… [+709 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Fox Business"
-      },
-      "author": "Matthew Kazin",
-      "title": "Private sector added 44,000 jobs in July, below expectations, ADP says - Fox Business",
-      "description": "The figure reported on Wednesday is below economists’ estimates of an increase of 70,000 jobs. The prior month's reading was revised lower to 95,000.",
-      "url": "https://www.foxbusiness.com/economy/private-sector-added-44000-jobs-july-below-expectations-adp-says",
-      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/07/0/0/job-fair-hiring-table.jpg?ve=1&tl=1",
-      "publishedAt": "2026-08-05T13:03:00Z",
-      "content": "Companies in the private sector added 44,000 jobs in July, payroll processing firm ADP said in its latest report on Wednesday.\r\nThe figure is below economists’ estimates of a gain of 70,000 jobs and … [+1888 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": "Luke Fountain",
-      "title": "Warren presses Lutnick over UAE access to sensitive U.S. tech after Trump crypto investment - CNBC",
-      "description": "Sen. Elizabeth Warren asked Howard Lutnick to explain eased UAE export controls after UAE-linked entities invested in the Trump family’s crypto venture.",
-      "url": "https://www.cnbc.com/2026/08/05/warren-lutnick-uae-export-controls-trump-crypto.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108335435-1784130427634-gettyimages-2286238322-tk4l2517_il65y20n.jpeg?v=1785885662&w=1920&h=1080",
-      "publishedAt": "2026-08-05T13:00:01Z",
-      "content": "Sen. Elizabeth Warren, D-Mass., on Wednesday demanded that Commerce Secretary Howard Lutnick explain the Trump administration's July decision to ease export controls on the United Arab Emirates after… [+3233 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "Investor's Business Daily"
       },
       "author": null,
@@ -593,32 +619,6 @@
     },
     {
       "source": {
-        "id": "the-wall-street-journal",
-        "name": "The Wall Street Journal"
-      },
-      "author": "Connor Hart",
-      "title": "Eli Lilly Posts Higher Revenue on Continued GLP-1 Demand - WSJ",
-      "description": "The pharmaceutical  company has seen soaring demand for Mounjaro and Zepbound",
-      "url": "https://www.wsj.com/health/pharma/eli-lilly-posts-higher-revenue-on-continued-glp-1-demand-02c1a14e",
-      "urlToImage": "https://images.wsj.net/im-80910736/social",
-      "publishedAt": "2026-08-05T11:19:00Z",
-      "content": "Eli LillyLLY3.98%increase; up pointing triangle\r\nreported higher net income and revenue in the recent quarter, fueled by continued surging demand for its GLP-1 weight-loss drugs.\r\nThe pharmaceutical … [+251 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": "Diana Olick",
-      "title": "Mortgage rates hit their highest level in over a year, causing demand to drop below year-ago levels - CNBC",
-      "description": "Mortgage rates rose to the highest level in over a year, causing total mortgage demand to drop below year-ago levels.",
-      "url": "https://www.cnbc.com/2026/08/05/mortgage-rates-hit-their-highest-level-in-over-a-year.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108323581-1781729854891-gettyimages-2281471793-US_HOUSING.jpeg?v=1785886583&w=1920&h=1080",
-      "publishedAt": "2026-08-05T11:00:01Z",
-      "content": "Mortgage demand continued to plummet last week, after mortgage rates rose to their highest level in over a year. \r\nTotal mortgage application volume dropped 2.9% week to week, according to the Mortga… [+2304 chars]"
-    },
-    {
-      "source": {
         "id": null,
         "name": "Ejewishphilanthropy.com"
       },
@@ -633,6 +633,19 @@
     {
       "source": {
         "id": null,
+        "name": "Barron's"
+      },
+      "author": "George Glover",
+      "title": "AI and Chip Stocks Drop After Musk's Nvidia Bombshell - Barron's",
+      "description": "The Dow rose, while the S&P 500 and Nasdaq pulled back. Big Tech names slid during the session. Alphabet led Mag 7 losses.",
+      "url": "https://www.barrons.com/livecoverage/stock-market-news-today-080526",
+      "urlToImage": "https://images.barrons.com/im-41496972",
+      "publishedAt": "2026-08-05T10:43:04Z",
+      "content": "Investors were once again trying to make sense of comments from Elon Musk on Wednesday, after the SpaceX CEO said his rocket and AI company would exclusively use Nvidia chips from now on.\r\nThat's goo… [+328 chars]"
+    },
+    {
+      "source": {
+        "id": null,
         "name": "Variety"
       },
       "author": "Jennifer Maas",
@@ -642,19 +655,6 @@
       "urlToImage": "https://variety.com/wp-content/uploads/2026/06/MCDTOST_WD035_001121.jpg?w=1000&h=563&crop=1",
       "publishedAt": "2026-08-05T10:36:00Z",
       "content": "Disney posted mixed results for the June 2026 quarter, as Disney+ and Hulu continued to boost profits and the theme parks division turning in solid performance. And Disney CEO Josh D’Amaro revealed h… [+8433 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Forbes"
-      },
-      "author": "Anna Tong",
-      "title": "These American Startups Are Making China's AI Smarter - Forbes",
-      "description": "The same Silicon Valley startups supplying OpenAI, Anthropic and the U.S. government are also selling AI training datasets to Chinese labs building rival models.",
-      "url": "https://www.forbes.com/sites/annatong/2026/08/05/silicon-valleys-other-china-problem-its-training-their-ai/",
-      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6a72777906d99f5b480662be/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-      "publishedAt": "2026-08-05T10:30:00Z",
-      "content": "When U.S. sales teams from Silicon Valleys big data-labeling startups visited this years International Conference on Machine Learning\r\n in Seoul, Korea, they arrived prepped to court the industrys bi… [+9519 chars]"
     },
     {
       "source": {
@@ -694,19 +694,6 @@
       "urlToImage": "https://assetsio.gnwcdn.com/electronic-arts.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "publishedAt": "2026-08-05T08:07:24Z",
       "content": "Electronic Arts has completed its $55 billion leveraged buyout, with Saudi Arabia's Public Investment Fund (PIF) now the majority owner.\r\nAs EA becomes a private company, stockholders will receive $2… [+2648 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CBR - Comic Book Resources"
-      },
-      "author": "Monica Coman",
-      "title": "After 42 Years, It’s Officially the End of an Era as Disney Abandons Multiple Cable Channels - cbr.com",
-      "description": "In the midst of several mergers, Disney is announcing a new split.",
-      "url": "https://www.cbr.com/disney-ends-stake-a-e/",
-      "urlToImage": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2025/11/disney-logo.jpeg?w=1600&h=900&fit=crop",
-      "publishedAt": "2026-08-05T00:55:11Z",
-      "content": "Over the years, The Walt Disney Company has acquired multiple companies. Now, it's dropping one of its partnerships.\r\nThe Hollywood Reporter reveals that Disney has sold its 50% equity stake in A+E G… [+3178 chars]"
     },
     {
       "source": {

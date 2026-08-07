@@ -3,21 +3,47 @@
   "country": "us",
   "category": "health",
   "mode": "country",
-  "fetched_at": "2026-08-07T20:24:23.223039+00:00",
+  "fetched_at": "2026-08-07T22:21:19.863775+00:00",
   "articles_count": 67,
   "articles": [
     {
       "source": {
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "author": "John Timmer",
+      "title": "Large genome models used to design new viruses - Ars Technica",
+      "description": "The AI system makes genetically distant versions of a bacteria-killing virus.",
+      "url": "https://arstechnica.com/science/2026/08/large-genome-models-used-to-design-new-viruses/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2152061685-1152x648.jpg",
+      "publishedAt": "2026-08-06T19:04:57Z",
+      "content": null
+    },
+    {
+      "source": {
         "id": null,
-        "name": "Financial Times"
+        "name": "BBC News"
       },
       "author": null,
-      "title": "AI creates first synthetic viruses - Financial Times",
-      "description": "Genomic language model has huge potential to redesign organisms such as bacteria",
-      "url": "https://www.ft.com/content/5ab33fb4-2636-4bb0-aa0e-3da6a8f71838?syn-25a6b1a6\\\\u003d1",
-      "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F1d8359dc-911b-4bbf-ada1-c01a22db92ef.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
-      "publishedAt": "2026-08-06T18:00:09Z",
-      "content": "Then $75 per month. Complete digital access to quality FT journalism on any device. Cancel anytime during your trial."
+      "title": "Artificial Intelligence used to design brand new viruses - BBC",
+      "description": "Scientists made 16 successful viruses that had their genetic code designed by artificial intelligence.",
+      "url": "https://www.bbc.com/news/articles/c5y3j3ngevmo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/e150/live/81e84950-91b8-11f1-bab9-173de0e7d358.jpg",
+      "publishedAt": "2026-08-06T18:01:52Z",
+      "content": "\"This is a next step in the complexity that's designable by generative AI, this is the first time generative AI has been used to design a complete genome, it's something that can replicate and have o… [+127 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "New York Post"
+      },
+      "author": "Allie Yang",
+      "title": "Scientists discover ‘skinny gene’ variant that helps some lucky people stay lean - New York Post",
+      "description": "This mutation helps them naturally stay lean and drastically decreased their risk for a slew of conditions, including heart attack, stroke, kidney disease, and non-alcoholic fatty liver disease.",
+      "url": "https://nypost.com/2026/08/06/health/scientists-discover-skinny-gene-variant-helping-some-stay-lean/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/08/crop-40219458_66d89f.jpg?quality=75&strip=all&w=1200",
+      "publishedAt": "2026-08-06T17:18:00Z",
+      "content": "Born thin? Slim chance.\r\nWhile some people agonize over tracking every calorie to maintain their figures, others seem to have won the genetic lottery with a naturally speedy metabolism and all the he… [+3000 chars]"
     },
     {
       "source": {
@@ -31,6 +57,19 @@
       "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3500x1969+0+0/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fae%2Fea%2Fef54df914f3689477d58c842edd5%2Fgettyimages-1228813221.jpg",
       "publishedAt": "2026-08-06T17:06:41Z",
       "content": "For the latest stories on the science of healthy living, subscribe to NPR's Health newsletter. \r\nThe Food and Drug Administration approved Moderna's mRNA-based vaccine against seasonal influenza for … [+3363 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Slate Magazine"
+      },
+      "author": "Greg Lavallee",
+      "title": "My Wife Wants to Put a Draconian Restriction on Our Kids’ Diets. This Is Madness. - Slate",
+      "description": "This is too much",
+      "url": "https://slate.com/advice/2026/08/parenting-advice-what-kids-can-drink.html",
+      "urlToImage": "https://compote.slate.com/images/cf2627ec-1cf5-4a9c-8201-f752c3310f96.jpeg?crop=1560%2C1040%2Cx0%2Cy0&width=1560",
+      "publishedAt": "2026-08-06T17:00:00Z",
+      "content": "Care and Feeding is Slates parenting advice column. Have a question for Care and Feeding? Submit it here.\r\nDear Care and Feeding,\r\nMy wife Marianna and I have two kids who are 6 and 8, and shes just … [+3653 chars]"
     },
     {
       "source": {
@@ -63,6 +102,32 @@
         "id": "the-hill",
         "name": "The Hill"
       },
+      "author": "Sarah Davis",
+      "title": "Ebola outbreak spreading faster than efforts to fight it: WHO - The Hill",
+      "description": "New reported cases of Ebola are outpacing the response capabilities from international health partners, a top World Health Organization (WHO) official said this week.  WHO Director-General Tedros Adhanom Ghebreyesus said the “outbreak is spreading faster than…",
+      "url": "https://thehill.com/policy/healthcare/6013995-ebola-cases-outpacing-who-response/",
+      "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2026/07/Ebola_Weixel_AP_MosesSawasawa.jpg?w=1280",
+      "publishedAt": "2026-08-06T15:32:00Z",
+      "content": "Skip to content\r\nNew reported cases of Ebola are outpacing the response capabilities from international health partners, a top World Health Organization (WHO) official said this week. \r\nWHO Director-… [+3839 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Foxweather.com"
+      },
+      "author": null,
+      "title": "Fourth case of rare, highly infectious 'rabbit fever' confirmed in New York City suburb - FOX Weather",
+      "description": "Rabbit fever cases are on the rise as a fourth case was confirmed in Suffolk County, prompting health officials to urge the public to stay aware and take precautions.",
+      "url": "https://www.foxweather.com/lifestyle/rare-highly-infectious-rabbit-fever-tick-new-york-long-island-suffolk-county-august-2026",
+      "urlToImage": "https://images.foxweather.com/static.foxweather.com/www.foxweather.com/content/uploads/2026/08/1024/512/gettyimages-2256095047-scaled.jpg?ve=1&tl=1",
+      "publishedAt": "2026-08-06T15:22:00Z",
+      "content": "LONG ISLAND, N.Y. — Rabbit fever cases are on the rise as a fourth case was confirmed in Suffolk County, prompting health officials to urge the public to stay aware and take precautions.\r\nTularemia, … [+2484 chars]"
+    },
+    {
+      "source": {
+        "id": "the-hill",
+        "name": "The Hill"
+      },
       "author": "Alicia Sitz",
       "title": "Leprosy cases climb in Florida: Here’s how to reduce your risk - The Hill",
       "description": "Leprosy is considered rare in the U.S., and most Americans catch the disease while traveling abroad.",
@@ -74,15 +139,15 @@
     {
       "source": {
         "id": null,
-        "name": "New York Post"
+        "name": "Womansworld.com"
       },
-      "author": "Allie Yang",
-      "title": "People who avoid 3 key things live nearly 13 years longer without dementia: study - New York Post",
-      "description": "Dementia affects more than 6 million Americans and with the country’s aging population, new cases are expected to double by 2060.",
-      "url": "https://nypost.com/2026/08/06/health/3-key-things-help-you-live-13-years-longer-without-dementia-study/",
-      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/08/newspress-collage-uf3b7bsg4-1786027504079.jpg?quality=75&strip=all&1786013117&w=1200",
-      "publishedAt": "2026-08-06T15:08:00Z",
-      "content": "Want to keep your brain sharp as you age? \r\nThree simple characteristics in middle age likely play a major role in cognitive health as you get older, a new study suggests.\r\nIt found that people who c… [+3492 chars]"
+      "author": "Allison Nemetz, Kara Wahlgren, Courtney Shapiro, Isabelle Paquette",
+      "title": "How Can I Lower My A1C? Doctors Share 5 Daily Habits That Work Fast - Woman's World",
+      "description": "How can I lower my A1C? Doctors share five easy lifestyle tweaks that can bring your blood sugar levels down by as much as 2.5 percent in three months.",
+      "url": "https://www.womansworld.com/wellness/diabetes/how-can-i-lower-my-a1c-simple-habits-that-work-fast#article",
+      "urlToImage": "https://www.womansworld.com/wp-content/uploads/2026/08/how-can-i-lower-my-A1C.jpg?quality=86&strip=all",
+      "publishedAt": "2026-08-06T14:30:10Z",
+      "content": "If your last blood test came back with an A1C number thats creeping up, youre probably wondering what you should do next. Nearly half of American adults are flirting with or already have type 2 diabe… [+5356 chars]"
     },
     {
       "source": {
@@ -113,6 +178,19 @@
     {
       "source": {
         "id": null,
+        "name": "WTOP"
+      },
+      "author": "Will Vitka",
+      "title": "Fisherman bit in 2nd beaver attack at Maryland state park - WTOP",
+      "description": "Maryland wildlife officials have closed more areas around Hunting Creek Lake after a 19-year-old fisherman was bitten on the ankle by a beaver Wednesday morning.",
+      "url": "https://wtop.com/maryland/2026/08/they-dont-give-a-dam-2nd-beaver-attack-prompts-more-closures-at-md-s-cunningham-falls-state-park/",
+      "urlToImage": "https://wtop.com/wp-content/uploads/2026/08/GettyImages-2258500837.jpg",
+      "publishedAt": "2026-08-06T14:03:22Z",
+      "content": "The beavers at Cunningham Falls State Park in Frederick County, Maryland, are having a very strange couple of weeks.\r\nMaryland wildlife officials have closed more areas around Hunting Creek Lake afte… [+1732 chars]"
+    },
+    {
+      "source": {
+        "id": null,
         "name": "NPR"
       },
       "author": "Durrie Bouscaren",
@@ -122,19 +200,6 @@
       "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4528x2547+0+235/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fae%2F86%2Ff14392f74d2591eaa8a85da7d13c%2Fgettyimages-1245255504.jpg",
       "publishedAt": "2026-08-06T13:13:28Z",
       "content": "Only 11 countries in the world can say this:\r\nNinety-five percent of people living there who are HIV positive know their status.\r\nNinety-five percent of HIV-positive people are taking medication that… [+7743 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The Conversation Africa"
-      },
-      "author": "Hatim Sharif",
-      "title": "Taxi drivers rarely die of Alzheimer’s – how complex mental maps and spatial reasoning protect your brain - The Conversation",
-      "description": "Working with and living in spatially complex environments may help delay cognitive decline, though more research is needed.",
-      "url": "https://theconversation.com/taxi-drivers-rarely-die-of-alzheimers-how-complex-mental-maps-and-spatial-reasoning-protect-your-brain-286650",
-      "urlToImage": "https://images.theconversation.com/files/752403/original/file-20260805-60-8x6hvk.jpg?ixlib=rb-4.1.1&rect=0%2C161%2C2121%2C1060&q=45&auto=format&w=1356&h=668&fit=crop",
-      "publishedAt": "2026-08-06T12:35:37Z",
-      "content": "Taxi and ambulance drivers are less likely than workers in almost any other job to die of Alzheimers disease. That was the surprising result of a 2024 study examining the death certificates of nearly… [+6523 chars]"
     },
     {
       "source": {
@@ -178,6 +243,19 @@
     {
       "source": {
         "id": null,
+        "name": "Eatingwell.com"
+      },
+      "author": "https://www.facebook.com/EatingWell/",
+      "title": "6 Foods with More Fiber Than a Slice of Whole-Grain Bread, According to Dietitians - EatingWell",
+      "description": "Go beyond whole-grain bread and add these six foods that pack even more fiber per serving.",
+      "url": "https://www.eatingwell.com/foods-with-more-fiber-than-whole-grain-bread-12034733",
+      "urlToImage": "https://www.eatingwell.com/thmb/Vna6477gR3B_Mxt5wzKBG7-nTRU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/TK-Foods-with-More-Fiber-Than-a-Slice-of-Whole-Grain-Bread-069921ea4a4c4ebab5e4d33ed317214d.jpg",
+      "publishedAt": "2026-08-06T12:00:00Z",
+      "content": "Fiber is having a moment. Fibermaxxing is trending on TikTok, and food and beverage brands are adding fiber to everything from sodas to ice cream.  Some trend-watchers are calling fiber the new prote… [+7464 chars]"
+    },
+    {
+      "source": {
+        "id": null,
         "name": "Chemistry World"
       },
       "author": "Frankie Macpherson",
@@ -216,16 +294,16 @@
     },
     {
       "source": {
-        "id": "associated-press",
-        "name": "Associated Press"
+        "id": null,
+        "name": "The Detroit News"
       },
-      "author": "Constant Same Bagalwa",
-      "title": "Congo Ebola health workers protest unpaid wages, disrupting response as deaths top 1,800 - AP News",
-      "description": "Health workers at the epicenter of Congo’s Ebola outbreak are protesting over unpaid wages. They abandoned several health facilities on Thursday, demanding payment. The protests are happening in Bunia, the capital of Ituri province, which accounts for nearly …",
-      "url": "https://apnews.com/article/congo-ebola-outbreak-ituri-protest-health-workers-1de45c3ecedabb974dce0b176f0dcc3f",
-      "urlToImage": "https://dims.apnews.com/dims4/default/3575570/2147483647/strip/true/crop/4222x2813+389+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fe5%2Fff%2Ff7112371cb7dae5eb01c4bfdec26%2F43f5651fc593443d9e191a3b74d20ac3",
-      "publishedAt": "2026-08-06T10:04:00Z",
-      "content": "BUNIA, Congo (AP) Dozens of Congolese health workers at the epicenter of the fastest-growing Ebola outbreak on record staged protests Thursday to demand payment for their wages, abandoning several he… [+2485 chars]"
+      "author": "Dr. Keith Roach",
+      "title": "Dr. Roach: Capgras syndrome causes woman to believe spouse is dead - The Detroit News",
+      "description": "It's really difficult for us, especially my dad.",
+      "url": "https://www.detroitnews.com/story/life/advice/2026/08/06/dr-roach-capgras-syndrome-causes-woman-to-believe-spouse-is-dead/91076118007/",
+      "urlToImage": "https://www.detroitnews.com/gcdn/authoring/authoring-images/2026/02/03/PDTN/88491191007-48-a-1731-f-56784-d-20-a-2-cd-0-aaf-0471-dae-6-dr-keith-roach-with-bkg.jpg?crop=1498,843,x2,y197&width=1498&height=843&format=pjpg&auto=webp",
+      "publishedAt": "2026-08-06T09:03:00Z",
+      "content": "Dear Dr. Roach: My mom has Capgras syndrome and firmly believes that her husband (my dad) is dead. She thinks that there's someone whom I snuck in and built a lie around, and she tells everyone that … [+2904 chars]"
     },
     {
       "source": {
@@ -399,19 +477,6 @@
     {
       "source": {
         "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Michael Dahlstrom",
-      "title": "Beach discovery takes sinister turn as major catastrophe looms on Australia's doorstep - Yahoo News Australia",
-      "description": "The timing of the sad find sparked increased concern.",
-      "url": "https://au.news.yahoo.com/beach-discovery-takes-sinister-turn-as-major-catastrophe-looms-on-australias-doorstep-220702062.html",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/5fa707e36f2e0bbff643b1079802560a11146c912cfefc188ba43651449cab23/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fpelican-on-beach_1830.png",
-      "publishedAt": "2026-08-05T22:07:02Z",
-      "content": "A dog walker's stroll along a quiet Australian beach this week took an ominous turn after he spotted a dark mass on the shoreline.\r\nAt first, David Parker thought he'd spotted \"someone's old coat\" be… [+2400 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "Medical Xpress"
       },
       "author": "Sanjukta Mondal",
@@ -450,6 +515,19 @@
     },
     {
       "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Kristen Rogers",
+      "title": "Avoiding 3 things during middle age may delay dementia risk by 13 years - CNN",
+      "description": "How you manage three health factors may affect your risk of developing dementia sooner rather than later, a new study has found.",
+      "url": "https://www.cnn.com/2026/08/05/health/dementia-smoking-diabetes-blood-pressure-wellness",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2183019660.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2026-08-05T20:04:17Z",
+      "content": "Avoiding three health factors may delay the odds of developing dementia by about 13 years, a new study has found: type 2 diabetes, smoking and high blood pressure.\r\nScientific research has long estab… [+5960 chars]"
+    },
+    {
+      "source": {
         "id": null,
         "name": "Medical Xpress"
       },
@@ -464,6 +542,19 @@
     {
       "source": {
         "id": null,
+        "name": "Health.com"
+      },
+      "author": "https://www.facebook.com/Health/",
+      "title": "The #1 Cooking Oil for Heart Health, According to Nutrition Experts - health.com",
+      "description": "Based on scientific research and expert consensus, extra-virgin olive oil is the healthiest oil for your heart, since it’s rich in antioxidants and healthy fats.",
+      "url": "https://www.health.com/the-best-cooking-oil-for-heart-health-12032804",
+      "urlToImage": "https://www.health.com/thmb/yAiYIbCVq4iqGC88tAppitQYkvo=/4000x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1413770697-c9d84d0d62d0489bbf42f7b50f1d6c73.jpeg",
+      "publishedAt": "2026-08-05T19:00:40Z",
+      "content": "You probably know that cooking with oil over butter can be a better choice for your heart health. But when you go to the grocery store, theres often dozens of different types of cooking oil staring b… [+4092 chars]"
+    },
+    {
+      "source": {
+        "id": null,
         "name": "New York Post"
       },
       "author": "Allie Yang",
@@ -473,6 +564,19 @@
       "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/08/newspress-collage-q3y78m171-1785955183379.jpg?quality=75&strip=all&1785940850&w=1200",
       "publishedAt": "2026-08-05T18:14:00Z",
       "content": "Exposure to pesticides may aggressively increase your risk of developing a deadly neurodegenerative disease.\r\nIn the US, overall pesticide use has declined since the 1980s. But globally, pesticide us… [+3391 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Wfmd.com"
+      },
+      "author": "Jimmy Key",
+      "title": "Virginia Confirms First Locally Acquired Dengue Case - 930 WFMD Free Talk",
+      "description": "Richmond, VA (JK) - Virginia has confirmed its first known case of locally acquired dengue virus infection. Th...",
+      "url": "https://www.wfmd.com/2026/08/05/virginia-confirms-first-locally-acquired-dengue-case/",
+      "urlToImage": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/3941/files/2026/08/va-dept-of-health.jpg",
+      "publishedAt": "2026-08-05T18:03:18Z",
+      "content": "Richmond, VA (JK) Virginia has confirmed its first known case of locally acquired dengue virus infection.\r\nThe Virginia Department of Health says the patient, a Northern Virginia resident, had not tr… [+1077 chars]"
     },
     {
       "source": {
@@ -516,15 +620,15 @@
     {
       "source": {
         "id": null,
-        "name": "Newsday"
+        "name": "Gadgetreview.com"
       },
-      "author": "Lisa L. Colangelo",
-      "title": "Riverhead woman gets 'rabbit fever' from cat bite, doctor says - Newsday",
-      "description": "This would be the fourth case of tularemia in Suffolk County this year.",
-      "url": "https://www.newsday.com/news/health/cat-bit-rabbit-fever-ba8nbh34",
-      "urlToImage": "https://cdn.newsday.com/ace/c:ZTMwODFiYjAtNmVjMi00:MjE5YTQ0OTctZTk0Ny00/landscape/1280",
-      "publishedAt": "2026-08-05T16:53:44Z",
-      "content": "A Riverhead woman is being treated for tularemia, the rare disease known as rabbit fever after being bitten by her cat, an infectious disease doctor at Peconic Bay Medical Center said Wednesday.\r\nThi… [+2880 chars]"
+      "author": "C. da Costa",
+      "title": "Experimental Cancer Drug Force-Feeds Tumors Sugar Until They Choke - yahoo.com",
+      "description": "XJ-4-85 targets cancer by overloading tumor cells with sugar while blocking fat burning - mouse data shows significant melanoma shrinkage.",
+      "url": "https://www.gadgetreview.com/experimental-cancer-drug-force-feeds-tumors-sugar-until-they-choke",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/02ffa8fc6922facabc8f5bfd413bdb4662bfcc34f219a677ff408f6e95d088f6/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fgadget_review_articles_822%2F6ef1dde1821a9838fc85d2d2d87c30fe",
+      "publishedAt": "2026-08-05T17:10:51Z",
+      "content": "For decades, the dominant strategy against cancer metabolism has been starvation cut the glucose, choke the tumor, repeat. XJ-4-85, an experimental compound developed by researchers at the University… [+3566 chars]"
     },
     {
       "source": {
@@ -603,19 +707,6 @@
       "urlToImage": null,
       "publishedAt": "2026-08-05T13:10:00Z",
       "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Eatingwell.com"
-      },
-      "author": "https://www.facebook.com/EatingWell/",
-      "title": "5 Grains with More Fiber Than Broccoli - EatingWell",
-      "description": "Broccoli is a great source of fiber, but these five whole grains provide even more per serving. Dietitians share their favorite high-fiber picks and how to use them.",
-      "url": "https://www.eatingwell.com/grains-with-more-fiber-than-broccoli-12033476",
-      "urlToImage": "https://www.eatingwell.com/thmb/LeXfYB1Pb4HzOowVRg1Lo5nj5AI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/5-Grains-With-More-Fiber-Than-Broccoli-4fe0c41b59e949a0af0484ae25210a93.jpg",
-      "publishedAt": "2026-08-05T13:00:00Z",
-      "content": "Fiber is having a moment this yearthanks, fibermaxxingand were seeing, hearing and talking about it more than ever. Many people look to fiber-rich vegetables, like broccoli, to help reach the recomme… [+5845 chars]"
     },
     {
       "source": {
@@ -711,45 +802,6 @@
     {
       "source": {
         "id": null,
-        "name": "WTOP"
-      },
-      "author": "Catherine Chen",
-      "title": "Virginia resident has state’s 1st locally acquired case of dengue fever - WTOP",
-      "description": "Virginia health officials have confirmed the state’s first known case of locally acquired dengue, a viral disease usually associated with international travel.",
-      "url": "https://wtop.com/virginia/2026/08/virginia-resident-has-states-1st-locally-acquired-case-of-dengue-fever/",
-      "urlToImage": "https://wtop.com/wp-content/uploads/2024/06/Dengue_Warning_15385-scaled.jpg",
-      "publishedAt": "2026-08-05T09:49:54Z",
-      "content": "Virginia health officials have confirmed the state’s first known case of locally acquired dengue, a viral disease usually associated with international travel.\r\nThe Virginia Department of Health said… [+1285 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Wesanews.org"
-      },
-      "author": "Kiley Koscinski",
-      "title": "Amid soaring measles cases, Pa. parents can now track vaccine rates at their child’s school - 90.5 WESA",
-      "description": "Pennsylvania parents can now easily track vaccination rates at their kids’ schools thanks to a new resource from the state health department. A new online tool provides annual vaccination rate data for individual schools, a closer look than the state and coun…",
-      "url": "https://www.wesanews.org/health-science-tech/2026-08-05/measles-pa-parents-track-vaccine-rates-school",
-      "urlToImage": "https://npr.brightspotcdn.com/dims4/default/9f98ec1/2147483647/strip/true/crop/5712x2999+0+0/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F8f%2Fac%2F65ed4a1a49f49202b62224cd8c3c%2Fedgewood-elementary-steam-academy-woodland-hills-david-lance.jpg",
-      "publishedAt": "2026-08-05T09:33:00Z",
-      "content": "As Pennsylvania families prepare for back-to-school season, the state health and education departments have released a detailed look at school vaccination rates. The new online database\r\n launches as… [+6285 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "New York Post"
-      },
-      "author": "Chris Bradford",
-      "title": "Atlanta mom Cassandra Barksdale misdiagnosed with aggressive cancer, underwent full hysterectomy after lab mix-up: lawsuit - New York Post",
-      "description": "An Atlanta mom was told she had an aggressive form of cancer and underwent a full hysterectomy – before it later emerged the operation was completely unnecessary due to a lab mix-up, according to c…",
-      "url": "https://nypost.com/2026/08/05/us-news/atlanta-mom-cassandra-barksdale-misdiagnosed-with-aggressive-cancer-underwent-full-hysterectomy-after-lab-mix-up-lawsuit/",
-      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/08/136523317.jpg?quality=75&strip=all&w=1200",
-      "publishedAt": "2026-08-05T09:07:00Z",
-      "content": "An Atlanta mom was told she had an aggressive form of cancer and underwent a full hysterectomy before it later emerged the operation was completely unnecessary due to a lab mix-up, according to court… [+3091 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "DogTime"
       },
       "author": "Khushali Srivastava",
@@ -817,65 +869,13 @@
         "id": "nbc-news",
         "name": "NBC News"
       },
-      "author": "Gina Vivinetto",
-      "title": "How to avoid a severe cyclospora illness as the number of cases rise. - NBC News",
-      "description": "As cyclosporiasis cases remain high across the U.S., here’s what you should do and symptoms to watch for if you think you’ve consumed bad lettuce.",
-      "url": "https://www.nbcnews.com/health/health-news/cyclospora-outbreak-lettuce-what-do-symptoms-test-treatment-parasite-rcna590300",
-      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-08/bad-lettuce-ac-af0eca.jpg",
-      "publishedAt": "2026-08-04T22:24:32Z",
-      "content": "This summers cyclospora outbreak has triggered worries about contracting a nasty foodborne gastrointestinal illness caused by the microscopic parasite.More than 22,000 people have confirmed or suspec… [+79 chars]"
-    },
-    {
-      "source": {
-        "id": "newsweek",
-        "name": "Newsweek"
-      },
-      "author": "Melissa Fleur Afshar",
-      "title": "One Supplement Ingredient May Help Immune System Fight Cancer, Study Finds - Newsweek",
-      "description": "Low levels of a common amino acid may let cancer and viruses evade the immune system, a study found—but a simple fix could help.",
-      "url": "https://www.newsweek.com/supplement-ingredient-may-help-immune-system-fight-cancer-study-12282708",
-      "urlToImage": "https://assets.newsweek.com/wp-content/uploads/2026/08/GettyImages-2182528902.jpg?w=1200&crop=1",
-      "publishedAt": "2026-08-04T19:29:00Z",
-      "content": "A common amino acid found in protein-rich foods and over-the-counter supplements may play a far bigger role in fighting cancer and viral infections than previously understood, according to new resear… [+3507 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Thetimes.com"
-      },
-      "author": "Poppy Koronka, Eleanor Hayward",
-      "title": "Grandmother died after increasing Mounjaro dose, inquest hears - The Times",
-      "description": "Caroline Savage, 73, died from peritonitis caused by a perforation of her intestines four months after she started taking the weight-loss drug",
-      "url": "https://www.thetimes.com/uk/healthcare/article/grandmother-died-after-increasing-mounjaro-dose-inquest-hears-lwq2hzn33",
-      "urlToImage": "https://www.thetimes.com/imageserver/image/05a4e55f-2d55-4615-bd1e-8afc1686ad48.jpg?strip=all&format=webp&crop=965px%2C543px%2C0px%2C292px&resize=1200",
-      "publishedAt": "2026-08-04T18:15:00Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "WKYC.com"
-      },
-      "author": "WKYC",
-      "title": "Pancreatic cancer drug now available in Cleveland offers new hope - WKYC",
-      "description": null,
-      "url": "https://www.wkyc.com/article/news/health/daily-dose-health/pancreatic-cancer-drug-daraxonrasib-seidman-cancer-center-university-hospitals-kras-gene-lung-colon-ovarian-sleep-artificial-intelligence-ai-apnea/95-1c71e45f-557d-473e-8c0d-5b9398cfd064",
-      "urlToImage": null,
-      "publishedAt": "2026-08-04T17:41:00Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "the-washington-post",
-        "name": "The Washington Post"
-      },
-      "author": "Richard Sima",
-      "title": "Column | Here’s what happens to your brain when you stop drinking alcohol - The Washington Post",
-      "description": "Though even relatively low levels of drinking can cause harm, the brain can recover to an extent if you stop or cut back, evidence shows.",
-      "url": "https://www.washingtonpost.com/wellness/2026/08/04/heres-what-happens-your-brain-when-you-stop-drinking-alcohol/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/7VKCHKQI7BG5LAMP3W5J5W76VM.jpg&w=1440",
-      "publishedAt": "2026-08-04T17:00:01Z",
-      "content": "Alcohol is one of the most popular drugs in the world, with millions enjoying the buzz produced by a cocktail of pharmacology and social ingredients. \r\nThe 2024 National Survey on Drug Use and Health… [+147 chars]"
+      "author": "Doha Madani",
+      "title": "Georgia woman had unnecessary hysterectomy after lab mix-up and cancer misdiagnosis, lawsuit says - NBC News",
+      "description": "Cassandra Barksdale alleges Kaiser Permanente mishandled a tissue sample after she sought help with abnormal bleeding, leading to the removal of her uterus and ovaries.",
+      "url": "https://www.nbcnews.com/news/us-news/georgia-woman-unnecessary-hysterectomy-lab-mixup-cancer-misdiagnosis-l-rcna590793",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-08/260804-Kaiser-Permanente-ch-1604-402e94.jpg",
+      "publishedAt": "2026-08-04T21:51:55Z",
+      "content": "An Atlanta-area woman alleges that negligent handling of a tissue sample led to her being misdiagnosed with an aggressive form of uterine cancer and undergoing a full hysterectomy when she was 43. \r\n… [+3107 chars]"
     }
   ]
 }

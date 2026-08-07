@@ -3,21 +3,34 @@
   "country": "us",
   "category": "business",
   "mode": "country",
-  "fetched_at": "2026-08-07T10:38:14.750489+00:00",
-  "articles_count": 53,
+  "fetched_at": "2026-08-07T12:32:21.001602+00:00",
+  "articles_count": 55,
   "articles": [
     {
       "source": {
-        "id": null,
-        "name": "CNBC"
+        "id": "associated-press",
+        "name": "Associated Press"
       },
-      "author": "Justina Lee",
-      "title": "Asian tech stocks drop with SK Hynix plunging 10% after Wall Street AI names fall - CNBC",
-      "description": "Despite heightened volatility analysts remain optimistic over the outlook of the tech sector, with J.P. Morgan saying the tech sell-off had not derailed the AI investment cycle.",
-      "url": "https://www.cnbc.com/2026/08/06/asia-tech-selloff-wall-street-samsung-sk-hynix.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108345773-1785990932116-gettyimages-2286772264-SKOREA_SK_HYNIX.jpeg?v=1785990945&w=1920&h=1080",
-      "publishedAt": "2026-08-06T05:27:12Z",
-      "content": "Asian technology stocks fell Thursday, tracking U.S. peers that pulled back in overnight trading, underscoring the heightened volatility in tech names globally.\r\nIn Japan, SoftBank Group dropped 4.36… [+1576 chars]"
+      "author": "Elaine Kurtenbach",
+      "title": "World shares are mixed and Kospi falls 4.6% after tech giants decline on Wall Street - AP News",
+      "description": "World shares are mixed and South Korea's Kospi dropped more than 4% following declines for some Big Tech giants on Wall Street. Oil prices held steady, with Brent crude trading near $79 a barrel. Uncertainty about the direction of the U.S. war with Iran persi…",
+      "url": "https://apnews.com/article/stocks-markets-ai-spacex-hynix-bonds-2f4f2638cb8430bb7c8e5d59a7b50731",
+      "urlToImage": "https://dims.apnews.com/dims4/default/87ffff8/2147483647/strip/true/crop/5245x3495+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F65%2Fd9%2Fffae8e1bf76f61405d852b592da2%2F49eeedddfc174ca390e33d2467ae5db6",
+      "publishedAt": "2026-08-06T08:13:00Z",
+      "content": "BANGKOK (AP) Shares were mixed Thursday in Europe and Asia and South Koreas Kospi dropped more than 4% following declines for some Big Tech giants including memory chipmaker SK Hynix. \r\nOil prices he… [+3909 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Seeking Alpha"
+      },
+      "author": "Gaurav Batavia",
+      "title": "SpaceX float more than doubles as 140%-of-float share unlock begins (SPCX:NASDAQ) - Seeking Alpha",
+      "description": "SpaceX (SPCX) lock-up expires as 911.5M shares hit the market, boosting float to ~1.55B.",
+      "url": "https://seekingalpha.com/news/4627264-spacex-float-more-than-doubles-as-140-of-float-share-unlock-begins",
+      "urlToImage": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2254175142/image_2254175142.jpg?io=getty-c-w630",
+      "publishedAt": "2026-08-06T05:46:46Z",
+      "content": "Walter Cicchetti\r\nSpaceX (SPCX) sees approximately 911.5 million shares, representing about 140% of its current public float, become eligible for trading today after the qualifying conditionthe secon… [+98 chars]"
     },
     {
       "source": {
@@ -47,16 +60,29 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "Motley Fool"
+        "id": "bloomberg",
+        "name": "Bloomberg"
       },
-      "author": "Daniel Sparks",
-      "title": "Nvidia Grew Revenue 71% and Still Costs 21 Times Forward Earnings. The Market Is Betting the Growth Stops. - The Motley Fool",
-      "description": "That multiple only makes sense if the AI boom's best years are already behind it. Are they?",
-      "url": "https://www.fool.com/investing/2026/08/05/nvidia-grew-revenue-71-and-still-costs-21-times-fo/",
-      "urlToImage": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F882129%2Fnvda.png&w=1200&op=resize",
-      "publishedAt": "2026-08-06T02:34:00Z",
-      "content": "Over the past 12 months, Nvidia(NVDA+3.44%) grew revenue 71% to $253 billion and more than doubled its net income, to about $160 billion. The stock, meanwhile, trades at about 21 times forward earnin… [+4362 chars]"
+      "author": "Akshat Rathi, Oscar Boyd",
+      "title": "The Iran War Revealed China Has a New Oil Weapon - Bloomberg.com",
+      "description": "When the Strait of Hormuz was first closed, many predicted oil would reach $200 a barrel. Bloomberg Opinion’s Javier Blas discusses the reasons why it didn’t happen.",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-06/the-iran-war-revealed-china-has-a-new-oil-weapon",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iWqJb32paI.Y/v0/1200x800.jpg",
+      "publishedAt": "2026-08-06T04:01:00Z",
+      "content": "The Middle East conflict is now in its fifth month, deepening the oil and gas supply shock. Early in the war, analysts worried that the oil price would rise to $200 a barrel, causing a global recessi… [+255 chars]"
+    },
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": "John Power",
+      "title": "Trump administration refunds $100bn in tariffs struck down by Supreme Court - Al Jazeera",
+      "description": "Move comes after the US Supreme Court struck down many of Trump’s sweeping levies in February.",
+      "url": "https://www.aljazeera.com/economy/2026/8/6/trump-administration-refunds-100bn-in-tariffs-struck-down-by-supreme-court",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/08/AP26078510387730-1785980847_b33344-1785981009.jpg?resize=1200%2C630&quality=80",
+      "publishedAt": "2026-08-06T03:39:39Z",
+      "content": "United States President Donald Trumps administration has refunded about $100bn in tariffs since the nations top court ruled against its use of emergency powers to impose duties on dozens of trade par… [+1981 chars]"
     },
     {
       "source": {
@@ -96,32 +122,6 @@
       "urlToImage": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2F7c86e9e77bbbbb6c13ddd72526cc80e6a7620f82-2000x1200.jpg%3Fw%3D800%26q%3D75%26fit%3Dmax%26auto%3Dformat&w=1200&op=resize",
       "publishedAt": "2026-08-06T00:30:00Z",
       "content": "Walt Disney (DIS+3.65%) delivered the goods on Wednesday morning. The king of the entertainment industry broadcast its fiscal third-quarter results, and investors clearly found much to like about the… [+3959 chars]"
-    },
-    {
-      "source": {
-        "id": "fox-news",
-        "name": "Fox News"
-      },
-      "author": null,
-      "title": "Amazon driver caught on video flinging customer’s package onto porch in infuriating delivery blunder - Fox News",
-      "description": "Ring camera video shows a Yun Express driver hurling an Amazon package onto a Florida porch, snapping a proof-of-delivery photo and walking away.",
-      "url": "https://www.foxnews.com/us/amazon-driver-caught-video-flinging-customers-package-porch-infuriating-delivery-blunder",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/08/amazon-box-fail.gif",
-      "publishedAt": "2026-08-06T00:18:27Z",
-      "content": "A delivery driver is under scrutiny after a doorbell camera captured a package sailing through the air instead of being carefully delivered.\r\nRing camera video shared by Florida resident Nathan Pekas… [+2007 chars]"
-    },
-    {
-      "source": {
-        "id": "associated-press",
-        "name": "Associated Press"
-      },
-      "author": null,
-      "title": "Trump says ‘we may have to’ send oil prices higher during speech talking up the economy - AP News",
-      "description": "As he often does, President Donald Trump predicted that oil prices will fall once the war in Iran is over – something he has been saying for weeks, but which has yet to fully come to fruition.",
-      "url": "https://apnews.com/video/trump-says-we-may-have-to-send-oil-prices-higher-during-speech-talking-up-the-economy-0890359d57ef40618e79f5d9e151be7e",
-      "urlToImage": "https://dims.apnews.com/dims4/default/3d2c98f/2147483647/strip/true/crop/1621x1080+150+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F7c%2Fe8%2F6f05d9b422a93580610f18e70ee2%2Fus-nv-trump-iran-oil-prices-20260805cr-1920x1080.jpg",
-      "publishedAt": "2026-08-06T00:03:00Z",
-      "content": "As he often does, President Donald Trump predicted that oil prices will fall once the war in Iran is over something he has been saying for weeks, but which has yet to fully come to fruition."
     },
     {
       "source": {
@@ -177,6 +177,19 @@
     },
     {
       "source": {
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "author": "Hema Parmar",
+      "title": "Situational Awareness Returns to Investing With $400 Million Bet - Bloomberg.com",
+      "description": "Just days after his hedge fund was on the brink of collapse, Leopold Aschenbrenner has made his return to the investing scene, plunking down $400 million to back a privately held company, according to people familiar with the matter.",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-05/situational-awareness-returns-to-investing-with-400-million-bet",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iE35JkFDKOc8/v1/1200x818.jpg",
+      "publishedAt": "2026-08-05T22:46:41Z",
+      "content": "Just days after his hedge fund was on the brink of collapse, Leopold Aschenbrenner has made his return to the investing scene, plunking down $400 million to back a privately held company, according t… [+271 chars]"
+    },
+    {
+      "source": {
         "id": null,
         "name": "Semafor.com"
       },
@@ -203,19 +216,6 @@
     },
     {
       "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Stevie Bonifield",
-      "title": "X product chief Nikita Bier is leaving after one year - The Verge",
-      "description": "Nikita Bier is stepping down as X’s head of product after just over a year in the role.",
-      "url": "https://www.theverge.com/tech/975955/x-twitter-nikita-bier-leaving",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25535562/STK160_X_TWITTER_2__D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "publishedAt": "2026-08-05T22:19:55Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nNikita Bier says hes stepping down to become a poster, 13 months after taking over the service formerly known as Twitter.\r\nNikita Bier says hes stepping down to … [+2421 chars]"
-    },
-    {
-      "source": {
         "id": "techcrunch",
         "name": "TechCrunch"
       },
@@ -226,6 +226,19 @@
       "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/GettyImages-2235448056.jpg?resize=1200,800",
       "publishedAt": "2026-08-05T21:21:28Z",
       "content": "Meta, considered a bit of a straggler in the AI harnesses realm, is making strides to catch up. This week, the company released a new terminal coding agent aimed at programmers looking for assistance… [+1460 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Investor's Business Daily"
+      },
+      "author": null,
+      "title": "Western Digital Earnings Beat With 44% Sales Growth. But Stock Tumbles Late. - Investor's Business Daily",
+      "description": "Western Digital stock slumped even though it posted second quarter earnings results that were ahead of estimates.",
+      "url": "https://www.investors.com/news/technology/western-digital-stock-wdc-earnings-june-2026/",
+      "urlToImage": "https://www.investors.com/wp-content/uploads/2017/09/Stock-westernDigital-01-company.jpg",
+      "publishedAt": "2026-08-05T21:16:00Z",
+      "content": "Information in Investors Business Daily is for informational and educational purposes only and should not be construed as an offer, recommendation, solicitation, or rating to buy or sell securities. … [+1064 chars]"
     },
     {
       "source": {
@@ -256,32 +269,6 @@
     {
       "source": {
         "id": null,
-        "name": "Abcnews.com"
-      },
-      "author": "ABC News - Breaking News, Latest News and Videos",
-      "title": "Trump administration pays out milestone $100 billion in tariff refunds - ABC News - Breaking News, Latest News and Videos",
-      "description": null,
-      "url": "https://abcnews.com/Business/trump-administration-pays-milestone-100-billion-tariff-refunds/story?id\\\\u003d135399276",
-      "urlToImage": null,
-      "publishedAt": "2026-08-05T20:34:36Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "the-wall-street-journal",
-        "name": "The Wall Street Journal"
-      },
-      "author": null,
-      "title": "SpaceX Stock Drops on Ballooning AI Bill - WSJ",
-      "description": "Plus, Google reshuffles AI leadership and Shake Shack draws an activist investor",
-      "url": "https://www.wsj.com/finance/stocks/spacex-stock-drops-on-ballooning-ai-bill-d7bf57d7",
-      "urlToImage": "https://images.wsj.net/im-91412023/social",
-      "publishedAt": "2026-08-05T20:31:00Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
         "name": "ABC15 Arizona"
       },
       "author": "abc15.com staff",
@@ -291,6 +278,19 @@
       "urlToImage": "https://ewscripps.brightspotcdn.com/dims4/default/ac3d39e/2147483647/strip/true/crop/640x336+0+10/resize/1200x630!/quality/90/?url=https%3A%2F%2Fmediaassets.abc15.com%2Fphoto%2F2017%2F08%2F01%2Fbethanyhome_1501630618658_63638371_ver1.0_640_480.jpg",
       "publishedAt": "2026-08-05T20:13:00Z",
       "content": "TEMPE, AZ Popular Arizona coffee chain Dutch Bros has filed paperwork to buy Salad and Go locations as part of a $105 million deal.\r\nThe owners of Salad and Go announced on Tuesday that they filed fo… [+1343 chars]"
+    },
+    {
+      "source": {
+        "id": "usa-today",
+        "name": "USA Today"
+      },
+      "author": "Anthony Thompson",
+      "title": "This is the salary needed to afford a typical US home in 2026 - USA Today",
+      "description": "The income needed to afford a typical U.S. home remains near a record high, with many buyers still priced out of the market, a new Redfin report says.",
+      "url": "https://www.usatoday.com/story/money/2026/08/05/income-needed-afford-typical-us-home-2026-redfin-report/91185869007/",
+      "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/08/05/USAT/91186119007-getty-images-2270295852.jpg?crop=1023,576,x0,y68&width=1023&height=576&format=pjpg&auto=webp",
+      "publishedAt": "2026-08-05T20:12:00Z",
+      "content": "Americans still need to earn nearly $110,000 a year to comfortably afford the typical home for sale in the United States, even as housing affordability has shown modest signs of improvement over the … [+4006 chars]"
     },
     {
       "source": {
@@ -334,6 +334,19 @@
     {
       "source": {
         "id": null,
+        "name": "Hollywood Reporter"
+      },
+      "author": "Caitlin Huston",
+      "title": "Disney Is “Exploring” Launching Its Own FAST Offering - The Hollywood Reporter",
+      "description": "While there were no launch announcements Wednesday, CEO Josh D'Amaro said it's \"definitely something\" the company is considering.",
+      "url": "http://www.hollywoodreporter.com/business/digital/disney-exploring-launching-fast-offering-1236664717/",
+      "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2026/05/GettyImages-2183884600-1.jpg?crop=0px%2C332px%2C3332px%2C1864px&resize=1440%2C810",
+      "publishedAt": "2026-08-05T18:53:17Z",
+      "content": "Disney said it is exploring launching a FAST product, or free, ad-supported channels for consumers. \r\n“We’re exploring a free product for consumers, one that will allow us to accomplish several goals… [+1912 chars]"
+    },
+    {
+      "source": {
+        "id": null,
         "name": "Barron's"
       },
       "author": "Kit Norton",
@@ -369,32 +382,6 @@
       "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/08/02/PCIN/91142563007-b-7-e-99-c-1-afe-884-def-9-ba-633918-f-01-bc-57.png?crop=1919,1080,x0,y179&width=1919&height=1080&format=pjpg&auto=webp",
       "publishedAt": "2026-08-05T18:42:11Z",
       "content": "A popular Cincinnati apparel company is rallying behind a corner store facing a lawsuit from gas station chain Buc-ee's.\r\nCincy Shirts, an apparel brand co-owned by comedian Josh Sneed and artist Dar… [+5817 chars]"
-    },
-    {
-      "source": {
-        "id": "bloomberg",
-        "name": "Bloomberg"
-      },
-      "author": "Hema Parmar, Katherine Burton, Sridhar Natarajan",
-      "title": "Major Hedge Funds Targeted in Wave of Attempted Cyberattacks - Bloomberg.com",
-      "description": "Hackers launched a wave of sophisticated attacks on Wall Street firms in recent days, targeting information systems at major money managers, according to people familiar with the matter.",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-05/major-hedge-funds-targeted-in-wave-of-attempted-cyberattacks",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i7ZXPvzL2kao/v0/1200x800.jpg",
-      "publishedAt": "2026-08-05T18:27:34Z",
-      "content": "Hackers launched a wave of sophisticated attacks on Wall Street firms in recent days, targeting information systems at major money managers, according to people familiar with the matter.\r\nPoint72 Ass… [+331 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": "Contessa Brewer",
-      "title": "Flutter shares plummet on earnings miss and another key leadership change - CNBC",
-      "description": "FanDuel, Flutter's most important business, has been losing its dominance in market share in the United States.",
-      "url": "https://www.cnbc.com/2026/08/05/flutter-earnings-ceo-leadership-change-stock.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108345483-1785950940792-gettyimages-2288109875-img_3996.jpeg?v=1785950964&w=1920&h=1080",
-      "publishedAt": "2026-08-05T18:20:31Z",
-      "content": "Flutter shares faltered Wednesday after the company slashed its full-year U.S. profit guidance by 22% and announced the departure of CEO Peter Jackson at the end of the quarter. The current CEO of Fl… [+3888 chars]"
     },
     {
       "source": {
@@ -451,28 +438,15 @@
     {
       "source": {
         "id": null,
-        "name": "Kitco NEWS"
+        "name": "Jalopnik"
       },
-      "author": null,
-      "title": "Gold prices push above $4,200 as ADP says 44k jobs created in July - KITCO",
-      "description": "(Kitco News) - The gold market is adding to its overnight gains, pushing to session highs above $4,200 an ounce as the U.S. economy created fewer private-sector jobs than expected in July, according to private-sector payroll processor ADP.On Wednesday, ADP an…",
-      "url": "https://www.kitco.com/news/article/2026-08-05/gold-prices-push-above-4200-adp-says-44k-jobs-created-july",
-      "urlToImage": "https://image-api.prod.kitco.com/image/4483dab0-8260-471c-b190-bb23c8f7dfc2.jpeg?top=48.336538461538&left=0&width=640&height=360.32692307692&scale_width=1920&token=338eaf03364f9518a13e991ce1425cb6230e9736476839108e46a9d452bff430",
-      "publishedAt": "2026-08-05T15:33:50Z",
-      "content": "(Kitco News) - The gold market is adding to its overnight gains, pushing to session highs above $4,200 an ounce as the U.S. economy created fewer private-sector jobs than expected in July, according … [+1745 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "New York Post"
-      },
-      "author": "Allie Yang",
-      "title": "Some patients to score new super-effective 'Triple G' weight loss drug — before FDA approval - New York Post",
-      "description": "Retatrutide — also known as “reta” — has been shown to produce dramatically greater weight loss than Ozempic and Mounjaro.",
-      "url": "https://nypost.com/2026/08/05/health/some-patients-to-score-new-super-effective-triple-g-weight-loss-drug-before-fda-approval/",
-      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/08/newspress-collage-r8by7ouwr-1785939727674.jpg?quality=75&strip=all&1785925352&w=1200",
-      "publishedAt": "2026-08-05T15:20:00Z",
-      "content": "An unapproved weight loss drug is about to become available to more patients.\r\nRetatrutide also known as “reta” has been shown to produce dramatically greater weight loss than blockbuster drugs like … [+4504 chars]"
+      "author": "Andy Kalmowitz",
+      "title": "Lucid's Cosmos Delayed Until Next Year As It Deals With A $1 Billion Q2 Loss - Jalopnik",
+      "description": "Lucid really needs this car to do well if it wants to survive into the future, but it also needs to survive long enough to produce it.",
+      "url": "https://www.jalopnik.com/2230799/lucid-cosmos-delayed-next-year/",
+      "urlToImage": "https://www.jalopnik.com/img/gallery/lucids-cosmos-delayed-until-next-year-as-it-deals-with-a-1-billion-q2-loss/l-intro-1785941370.jpg",
+      "publishedAt": "2026-08-05T14:52:30Z",
+      "content": "Lucid is slamming the brakes on the launch of what could be its most important vehicle ever: the Cosmos. The compact electric crossover is meant to be the Newark, California-based automaker's first m… [+1856 chars]"
     },
     {
       "source": {
@@ -499,6 +473,19 @@
       "urlToImage": "https://wgntv.com/wp-content/uploads/sites/5/2026/08/overhead-bin-on-plane-e1785930271145.jpg?w=1280",
       "publishedAt": "2026-08-05T14:15:06Z",
       "content": "WELLINGTON, New Zealand (AP) For passengers on the budget Australian airline Jetstar, the days of cramming your bag into an overhead bin already full of your seatmates’ suitcases are coming to an end… [+2462 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Benzinga"
+      },
+      "author": "Kaustubh Bagalkote",
+      "title": "What's Going on With Palantir Stock on Wednesday? - benzinga.com",
+      "description": "Palantir Technologies Inc stock jumped Tuesday after reporting Q2 revenue growth of 93% and boosting full-year revenue guidance.",
+      "url": "https://www.benzinga.com/trading-ideas/movers/26/08/60951792/whats-going-on-with-palantir-stock-on-wednesday",
+      "urlToImage": "https://cdn.benzinga.com/cdn-cgi/image/width=1200,height=800,fit=crop/files/images/story/2026/08/05/Bosnia-And-Hercegovina--Sarajevo--27-1-2.jpg",
+      "publishedAt": "2026-08-05T14:09:42Z",
+      "content": "Nasdaq futures are up 0.47% while S&amp;P 500 futures have gained 0.60%.\r\nPalantir reported second-quarter revenue growth of 93% year-on-year to $1.94 billion and adjusted earnings of 41 cents per sh… [+1616 chars]"
     },
     {
       "source": {
@@ -542,19 +529,6 @@
     {
       "source": {
         "id": null,
-        "name": "Variety"
-      },
-      "author": "Cynthia Littleton",
-      "title": "Disney Looking to Launch Free Streaming Channels as CEO Josh D’Amaro Doubles Down on the Streaming Biz - Variety",
-      "description": "Disney CEO Josh D'Amaro tells investors the company is considering launching free streaming channels as he doubles down on the streaming biz.",
-      "url": "https://variety.com/2026/tv/news/disney-free-streaming-channels-launch-josh-damaro-1236828249/",
-      "urlToImage": "https://variety.com/wp-content/uploads/2026/02/Josh-DAmaro-Disney.jpg?crop=0px%2C66px%2C2598px%2C1461px&resize=1000%2C563",
-      "publishedAt": "2026-08-05T13:20:00Z",
-      "content": "Disney is looking to join the free streaming channel boom as newly named CEO Josh D’Amaro doubles down on streaming as one of two key pillars to drive future growth.\r\nDuring Disney’s quarterly earnin… [+4158 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "Phoronix"
       },
       "author": null,
@@ -564,6 +538,32 @@
       "urlToImage": "https://www.phoronix.net/image.php?id=2026&image=cloudflare_os_2",
       "publishedAt": "2026-08-05T13:16:00Z",
       "content": "Cloudflare OS is already used internally at Cloudflare and is described in today's announcement as:\r\n\"Cloudflare OS starts with a conversation in your browser, like many other AI tools. What makes it… [+709 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Fox Business"
+      },
+      "author": "Matthew Kazin",
+      "title": "Private sector added 44,000 jobs in July, below expectations, ADP says - Fox Business",
+      "description": "The figure reported on Wednesday is below economists’ estimates of an increase of 70,000 jobs. The prior month's reading was revised lower to 95,000.",
+      "url": "https://www.foxbusiness.com/economy/private-sector-added-44000-jobs-july-below-expectations-adp-says",
+      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/07/0/0/job-fair-hiring-table.jpg?ve=1&tl=1",
+      "publishedAt": "2026-08-05T13:03:00Z",
+      "content": "Companies in the private sector added 44,000 jobs in July, payroll processing firm ADP said in its latest report on Wednesday.\r\nThe figure is below economists’ estimates of a gain of 70,000 jobs and … [+1888 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Luke Fountain",
+      "title": "Warren presses Lutnick over UAE access to sensitive U.S. tech after Trump crypto investment - CNBC",
+      "description": "Sen. Elizabeth Warren asked Howard Lutnick to explain eased UAE export controls after UAE-linked entities invested in the Trump family’s crypto venture.",
+      "url": "https://www.cnbc.com/2026/08/05/warren-lutnick-uae-export-controls-trump-crypto.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108335435-1784130427634-gettyimages-2286238322-tk4l2517_il65y20n.jpeg?v=1785885662&w=1920&h=1080",
+      "publishedAt": "2026-08-05T13:00:01Z",
+      "content": "Sen. Elizabeth Warren, D-Mass., on Wednesday demanded that Commerce Secretary Howard Lutnick explain the Trump administration's July decision to ease export controls on the United Arab Emirates after… [+3233 chars]"
     },
     {
       "source": {
@@ -607,19 +607,6 @@
     {
       "source": {
         "id": null,
-        "name": "Financial Times"
-      },
-      "author": null,
-      "title": "Citadel’s flagship fund surges 6% after Situational Awareness swoop - Financial Times",
-      "description": "Ken Griffin’s company bought billions of dollars of AI stocks from Leopold Aschenbrenner’s firm",
-      "url": "https://www.ft.com/content/ae7acfa8-32d6-496a-a1df-28206fa1661d?syn-25a6b1a6\\\\u003d1",
-      "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F3657b4b3-3cff-4421-a447-35407af777e9.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
-      "publishedAt": "2026-08-05T11:05:27Z",
-      "content": "Then $75 per month. Complete digital access to quality FT journalism on any device. Cancel anytime during your trial."
-    },
-    {
-      "source": {
-        "id": null,
         "name": "CNBC"
       },
       "author": "Diana Olick",
@@ -629,6 +616,58 @@
       "urlToImage": "https://image.cnbcfm.com/api/v1/image/108323581-1781729854891-gettyimages-2281471793-US_HOUSING.jpeg?v=1785886583&w=1920&h=1080",
       "publishedAt": "2026-08-05T11:00:01Z",
       "content": "Mortgage demand continued to plummet last week, after mortgage rates rose to their highest level in over a year. \r\nTotal mortgage application volume dropped 2.9% week to week, according to the Mortga… [+2304 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Ejewishphilanthropy.com"
+      },
+      "author": "Jay Deitcher",
+      "title": "23 Shabsels’ camps sell at auction, many for well over their asking price - eJewishPhilanthropy",
+      "description": "Many high bidders, including Warner Bros. Discovery CEO David Zaslav, missed out as private investors and current co-owners snap up properties",
+      "url": "https://ejewishphilanthropy.com/23-shabsels-camps-sell-at-auction-many-for-well-over-their-asking-price/",
+      "urlToImage": "https://image.ejewishphilanthropy.com/wp-content/uploads/2026/07/21052854/images.jpg",
+      "publishedAt": "2026-08-05T10:52:29Z",
+      "content": "Traditionally, the majority of American summer camps have run as community nonprofits with a small number of family-owned for-profit camps. This is especially true in the Jewish world, where more tha… [+6580 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Variety"
+      },
+      "author": "Jennifer Maas",
+      "title": "Disney Streaming Profit Doubles in June Quarter, Company Shifting Consumer Products to Studios Division - Variety",
+      "description": "Disney touted the success of \"Toy Story 5\" when it reported its latest quarterly earnings results for the June 2026 quarter.",
+      "url": "https://variety.com/2026/digital/news/disney-streaming-earnings-q3-2026-consumer-products-shift-1236827893/",
+      "urlToImage": "https://variety.com/wp-content/uploads/2026/06/MCDTOST_WD035_001121.jpg?w=1000&h=563&crop=1",
+      "publishedAt": "2026-08-05T10:36:00Z",
+      "content": "Disney posted mixed results for the June 2026 quarter, as Disney+ and Hulu continued to boost profits and the theme parks division turning in solid performance. And Disney CEO Josh D’Amaro revealed h… [+8433 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Forbes"
+      },
+      "author": "Anna Tong",
+      "title": "These American Startups Are Making China's AI Smarter - Forbes",
+      "description": "The same Silicon Valley startups supplying OpenAI, Anthropic and the U.S. government are also selling AI training datasets to Chinese labs building rival models.",
+      "url": "https://www.forbes.com/sites/annatong/2026/08/05/silicon-valleys-other-china-problem-its-training-their-ai/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6a72777906d99f5b480662be/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2026-08-05T10:30:00Z",
+      "content": "When U.S. sales teams from Silicon Valleys big data-labeling startups visited this years International Conference on Machine Learning\r\n in Seoul, Korea, they arrived prepped to court the industrys bi… [+9519 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Bloomberglaw.com"
+      },
+      "author": "Lisa Helem",
+      "title": "They’ve Got Next: The 40 Under 40—Meet Our 2026 Honorees - Bloomberg Law News",
+      "description": "Our 2026 They’ve Got Next: The 40 Under 40 honorees are leading in an evolving legal profession. Read about how these young lawyers approach leadership and client service in the sixth annual edition of our special report.",
+      "url": "https://news.bloomberglaw.com/business-and-practice/theyve-got-next-the-40-under-40-meet-our-2026-honorees",
+      "urlToImage": "https://bwrite-static.bloombergindustry.com/dims4/default/68115d5/2147483647/legacy_thumbnail/960x370%3E/quality/90/?url=https%3A%2F%2Fbloomberg-bna-brightspot.s3.us-east-1.amazonaws.com%2Fc5%2Fcd%2Fadec2b3c4cae8addaf788d2712d1%2Fbli-40u40-main-cover-art-static.png",
+      "publishedAt": "2026-08-05T09:54:10Z",
+      "content": "The next-generation lawyers in the 2026 Theyve Got Next: The 40 Under 40 excel in a legal profession being reshaped by AI and new avenues for leadership, service and success.\r\nSo this year, we asked … [+4013 chars]"
     },
     {
       "source": {
@@ -658,29 +697,16 @@
     },
     {
       "source": {
-        "id": "cnn",
-        "name": "CNN"
-      },
-      "author": "Jessie Yeung, Yoonjung Seo",
-      "title": "Why police raided Starbucks Korea’s headquarters - CNN",
-      "description": "The headquarters of Starbucks Korea was raided by South Korean police on Wednesday, as they continue to investigate the coffee chain that faced a nationwide backlash and publicity crisis over a disastrous ad campaign.",
-      "url": "https://www.cnn.com/2026/08/05/asia/south-korea-raid-starbucks-tank-ad-intl-hnk",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/ap26173548578993.jpg?c=16x9&q=w_800,c_fill",
-      "publishedAt": "2026-08-05T06:22:00Z",
-      "content": "The headquarters of Starbucks Korea was raided by South Korean police on Wednesday, as they continue to investigate the coffee chain that faced a nationwide backlash and publicity crisis over a disas… [+2114 chars]"
-    },
-    {
-      "source": {
         "id": null,
-        "name": "Motley Fool"
+        "name": "CBR - Comic Book Resources"
       },
-      "author": "Micah Zimmerman",
-      "title": "Is SK Hynix Quietly Winning the AI Memory Supercycle Against Micron and Sandisk? - The Motley Fool",
-      "description": "Everyone is watching AI chipmakers, but the real battle may be unfolding in memory, and SK Hynix is leading the charge.",
-      "url": "https://www.fool.com/investing/2026/08/05/is-sk-hynix-quietly-winning-the-ai-memory-supercyc/",
-      "urlToImage": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F880935%2Fgettyimages-2188818713.jpg&w=1200&op=resize",
-      "publishedAt": "2026-08-05T05:00:00Z",
-      "content": "Ask most people to name the winners of the artificial intelligence (AI) boom and they reach for the chipmakers first. But the AI machine needs somewhere to put all the data it churns through, and tha… [+4471 chars]"
+      "author": "Monica Coman",
+      "title": "After 42 Years, It’s Officially the End of an Era as Disney Abandons Multiple Cable Channels - cbr.com",
+      "description": "In the midst of several mergers, Disney is announcing a new split.",
+      "url": "https://www.cbr.com/disney-ends-stake-a-e/",
+      "urlToImage": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2025/11/disney-logo.jpeg?w=1600&h=900&fit=crop",
+      "publishedAt": "2026-08-05T00:55:11Z",
+      "content": "Over the years, The Walt Disney Company has acquired multiple companies. Now, it's dropping one of its partnerships.\r\nThe Hollywood Reporter reveals that Disney has sold its 50% equity stake in A+E G… [+3178 chars]"
     },
     {
       "source": {

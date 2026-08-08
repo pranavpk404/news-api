@@ -3,9 +3,35 @@
   "country": "us",
   "category": "business",
   "mode": "country",
-  "fetched_at": "2026-08-08T20:13:12.103019+00:00",
-  "articles_count": 58,
+  "fetched_at": "2026-08-08T22:13:04.256284+00:00",
+  "articles_count": 55,
   "articles": [
+    {
+      "source": {
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
+      },
+      "author": "WSJ",
+      "title": "Stock Market Today: Dow Rises After Jobs Report Misses Forecasts — Live Updates - WSJ",
+      "description": null,
+      "url": "https://www.wsj.com/livecoverage/july-jobs-report-stock-market-08-07-2026",
+      "urlToImage": null,
+      "publishedAt": "2026-08-07T20:22:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Amelia Lucas",
+      "title": "Burger King overtakes Wendy's as the nation's second-largest burger chain - CNBC",
+      "description": "Burger King is once again the second-largest burger chain in the U.S. by system-wide sales.",
+      "url": "https://www.cnbc.com/2026/08/07/burger-king-wendys-hamburger-restaurants.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108346815-1786133181309-BK_Wendys.jpg?v=1786133195&w=1920&h=1080",
+      "publishedAt": "2026-08-07T18:19:39Z",
+      "content": "Burger King has overtaken Wendy's as the second-largest burger chain in the U.S. by systemwide sales, retaking its crown six years after losing it to the rival chain.\r\nThe change in positions follows… [+2517 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -21,29 +47,81 @@
     },
     {
       "source": {
-        "id": "the-washington-post",
-        "name": "The Washington Post"
+        "id": null,
+        "name": "Seeking Alpha"
       },
-      "author": "Riley Beggin, Federica Cocco, Joyce Sohyun Lee, Amy Brittain",
-      "title": "Freedom Fuel, praised by Trump, sells cheap gasoline. But how? - The Washington Post",
-      "description": "Despite recent price hikes, the mysterious company is still offering a significant discount at 29 stations across Pennsylvania and New Jersey.",
-      "url": "https://www.washingtonpost.com/politics/2026/08/07/freedom-fuel-praised-by-trump-sells-cheap-gasoline-how/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/YARFOCP7HMH2FP3CUD2UI54WYM_size-normalized.jpg&w=1440",
-      "publishedAt": "2026-08-07T17:00:01Z",
-      "content": "PHILADELPHIA As a steady stream of drivers pulled into the Freedom Fuel Networks gas station on Roosevelt Boulevard this week, some pumps still had signs saying Red Lion, the stations brand as recent… [+17 chars]"
+      "author": "Joshua Fineman",
+      "title": "Celsius jumps on report Rockstar Energy founder takes stake, wants to be CEO (update) (CELH:NASDAQ) - Seeking Alpha",
+      "description": "Celsius (CELH) jumps 15% as Rockstar founder Russ Savage reveals a 4.7% stake and calls for management changes after earnings miss.",
+      "url": "https://seekingalpha.com/news/4629308-celsius-jumps-on-report-rockstar-energy-founder-takes-stake-wants-to-be-ceo",
+      "urlToImage": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1371981216/image_1371981216.jpg?io=getty-c-w630",
+      "publishedAt": "2026-08-07T17:21:00Z",
+      "content": "SolStock\r\nUpdate 1:20pm: Adds Celsius response.\r\nCelsius Holdings (CELH) soared 12% after a report that Rockstar Energy founder Russ Savage has taken a stake and wants to change management after the … [+71 chars]"
     },
     {
       "source": {
-        "id": "al-jazeera-english",
-        "name": "Al Jazeera English"
+        "id": "the-hill",
+        "name": "The Hill"
       },
-      "author": "Al Jazeera Staff",
-      "title": "US labour market sheds jobs in July as labour force participation slumps - Al Jazeera",
-      "description": "US labour market loses 23,000 jobs in July as education, government and retail sectors record significant declines.",
-      "url": "https://www.aljazeera.com/economy/2026/8/7/us-labour-market-sheds-jobs-in-july-as-labour-force-participation-slumps",
-      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/08/2023-04-07T222947Z_1537522823_RC2U90ACAN62_RTRMADP_3_USA-ECONOMY-JOBS-1786114500.jpg?resize=1920%2C1440",
-      "publishedAt": "2026-08-07T16:28:49Z",
-      "content": "The United States labour market lost 23,000 jobs in July, with major declines across several sectors, including education, government and retail trade.\r\nOn Friday, the Bureau of Labor Statistics rele… [+3648 chars]"
+      "author": "Spencer Gustafson, Emily Rahhal",
+      "title": "Amazon responds to Mamdani’s cease-and-desist letter - The Hill",
+      "description": "Amazon has responded to New York City Mayor Zohran Mamdani's cease-and-desist letters that went out to 40 major retailers over the sale of \"prohibited motorized scooters and e-bikes.\"",
+      "url": "https://thehill.com/business/6017218-amazon-new-york-mamdani-e-bikes/",
+      "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2026/07/mamdanizoran_070326upi01_w.jpg?w=1280",
+      "publishedAt": "2026-08-07T17:19:00Z",
+      "content": "Skip to content\r\nby Spencer Gustafson and Emily Rahhal - 08/07/26 1:19 PM ET\r\nby Spencer Gustafson and Emily Rahhal - 08/07/26 1:19 PM ET\r\nNEW YORK (WPIX) – Amazon has responded to New York City Mayo… [+2137 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "OilPrice.com"
+      },
+      "author": "Julianne Geiger",
+      "title": "US Oil Drillers Add Rigs - Crude Oil Prices Today | OilPrice.com",
+      "description": "The number of active oil rigs rose by 3, reaching 454 during the latest reporting period, according to the data.",
+      "url": "https://oilprice.com/Energy/Energy-General/US-Oil-Drillers-Add-Rigs.html",
+      "urlToImage": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-08-07_7f8tuiseoa.jpg",
+      "publishedAt": "2026-08-07T17:14:00Z",
+      "content": "Vaca Muertas rapid growth is…\r\nThe Iran war has tightened…\r\nFalling Central Asian labor migration…\r\nBy Julianne Geiger - Aug 07, 2026, 12:14 PM CDTThe total number of active drilling rigs for oil and… [+1666 chars]"
+    },
+    {
+      "source": {
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "author": "Nacha Cattan, Amanda L. Gordon",
+      "title": "Mamdani Wants to Form Business Panel With Ex-Lazard, UBS Bankers - Bloomberg.com",
+      "description": "Mayor Zohran Mamdani’s administration is asking a former top executive for UBS Group AG in the US, an ex-global head of investment banking at Lazard Inc. and Bank of America Corp.’s New York City president to be among the business leaders joining his administ…",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-07/mamdani-wants-to-form-business-panel-with-ex-lazard-ubs-bankers",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/igSRzLfTw4is/v9/1200x800.jpg",
+      "publishedAt": "2026-08-07T17:00:46Z",
+      "content": "Mayor Zohran Mamdanis administration is asking a former top executive for UBS Group AG in the US, an ex-global head of investment banking at Lazard Inc. and Bank of America Corp.s New York City presi… [+305 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Nauman Khan",
+      "title": "Palantir Stock Soars -- Bank of America Sees Massive Upside - Yahoo Finance",
+      "description": "Wall Street Sees More Room to Run for Palantir After 9% Rally",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/palantir-stock-soars-bank-america-164742904.html",
+      "urlToImage": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
+      "publishedAt": "2026-08-07T16:47:42Z",
+      "content": "This article first appeared on GuruFocus.\r\nPalantir Technologies (NASDAQ:PLTR) was in focus on Friday after its shares jumped about 9%, extending gains following the AI software company's strong seco… [+1151 chars]"
+    },
+    {
+      "source": {
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
+      },
+      "author": "WSJ",
+      "title": "The Hottest App in Retail Is Now Worth $20 Billion - WSJ",
+      "description": null,
+      "url": "https://www.wsj.com/business/retail/the-hottest-app-in-retail-is-now-worth-20-billion-c98f0897",
+      "urlToImage": null,
+      "publishedAt": "2026-08-07T16:46:00Z",
+      "content": null
     },
     {
       "source": {
@@ -73,6 +151,19 @@
     },
     {
       "source": {
+        "id": "the-washington-post",
+        "name": "The Washington Post"
+      },
+      "author": "Julie Z. Weil",
+      "title": "The Trump administration has refunded $100 billion in tariffs. Will you get any of the money? - The Washington Post",
+      "description": "Major corporations are getting hundreds of millions of dollars back. Most individuals aren’t.",
+      "url": "https://www.washingtonpost.com/business/2026/08/07/how-get-your-tariff-refund/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/WVD3EMN5HR5667KYZ6RYBNOIOM_size-normalized.jpg&w=1440",
+      "publishedAt": "2026-08-07T16:00:00Z",
+      "content": "The Trump administration has refunded about $100 billion in tariffs in response to the Supreme Court ruling that declared the tariffs illegal, according to a new court filing this week.\r\nMajor corpor… [+168 chars]"
+    },
+    {
+      "source": {
         "id": null,
         "name": "Barron's"
       },
@@ -87,15 +178,15 @@
     {
       "source": {
         "id": null,
-        "name": "CNBC"
+        "name": "Yahoo Entertainment"
       },
-      "author": "Robert Frank",
-      "title": "Rockstar Energy founder builds Celsius stake, wants to take over as CEO - CNBC",
-      "description": "Rockstar Energy founder Russ Savage told CNBC he now controls 12 million shares of Celsius Holdings, amounting to roughly 4.7% of the energy drink company.",
-      "url": "https://www.cnbc.com/2026/08/07/rockstar-energy-founder-celsius-stake-ceo.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108346688-1786115670394-Facetune_07-08-2026-10-00-40.JPG?v=1786118422&w=1920&h=1080",
-      "publishedAt": "2026-08-07T15:20:01Z",
-      "content": "The billionaire founder of Rockstar Energy has purchased millions of shares of Celsius Holdings and is calling for the ouster of that company's CEO after its earnings miss this week.\r\nRuss Savage now… [+4215 chars]"
+      "author": "Jennifer Schonberger",
+      "title": "Weak July jobs report helps case for Fed to hold rates but doesn't take hikes off the table - Yahoo Finance",
+      "description": "A weaker-than-expected jobs report for July is likely to strengthen the case for those who support holding interest rates steady and could renew Federal Rese...",
+      "url": "https://finance.yahoo.com/economy/policy/article/weak-july-jobs-report-helps-case-for-fed-to-hold-rates-but-doesnt-take-hikes-off-the-table-134001140.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/9F9FEFFCADB1FD8E135A7D3640B6D670F42346C773C7ADE8132233784C8609C8/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-08%2Faa01307a-0d8e-46a2-b678-24c07902f1ce",
+      "publishedAt": "2026-08-07T15:02:28Z",
+      "content": "A weaker-than-expected jobs report for July is likely to strengthen the case for those who support holding interest rates steady and could renew Federal Reserve policymakers' focus on the strength of… [+4247 chars]"
     },
     {
       "source": {
@@ -164,42 +255,29 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "TheStreet"
+        "id": "politico",
+        "name": "Politico"
       },
-      "author": "Hillary Remy, Celine Provini",
-      "title": "Palantir CEO drops 11-word bombshell for stock market investors - thestreet.com",
-      "description": "CEO Alex Karp claims an achievement no other similar business can touch.",
-      "url": "https://www.thestreet.com/investing/stocks/palantir-business-doubled-ceo-karp-tells-stock-market-investors",
-      "urlToImage": "https://www.thestreet.com/.image/NDA6MDAwMDAwMDAzMTM4Nzgw/palantir-ceo-alex-karp-visits-the-claman-countdown.jpg?profile=share16-9",
-      "publishedAt": "2026-08-07T13:03:00Z",
-      "content": "Software stocks have had a rough year. The fear driving them down is real: AI agents are getting good enough to automate tasks that enterprise software used to handle, and investors have been cutting… [+5329 chars]"
+      "author": "Ry Rivard, James Bikales",
+      "title": "Retail gas stations touted by Trump racked up penalties in New Jersey - Politico",
+      "description": "The operator behind Freedom Fuel retail gas stations has drawn a raft of penalties and fines from New Jersey regulators.",
+      "url": "https://www.politico.com/news/2026/08/07/freedom-fuel-new-jersey-penalties-01028052",
+      "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2Fb0%2Fad%2Ff6e4f22a4500a6cf3a09f7bf57c1%2Ffreedom-fuel-543-3.jpg",
+      "publishedAt": "2026-08-07T14:00:00Z",
+      "content": "The Department of Environmental Protection, in its order, said the gas stations had repeatedly, significantly and substantially failed to comply with state law and repeatedly failed to comply with pr… [+2528 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Investor's Business Daily"
+        "name": "Yahoo Entertainment"
       },
-      "author": null,
-      "title": "Software Winners Lift Tech Futures; Jobs Report Due - Investor's Business Daily",
-      "description": "Pause healthy? Depends on what happens next. Don't buy these AI stocks yet.",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-jobs-report-cloudflare-sezzle-earnings-movers/",
-      "urlToImage": "https://www.investors.com/wp-content/uploads/2019/01/stock-software-02-adobe.jpg",
-      "publishedAt": "2026-08-07T12:03:00Z",
-      "content": "Information in Investors Business Daily is for informational and educational purposes only and should not be construed as an offer, recommendation, solicitation, or rating to buy or sell securities. … [+1064 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": "Leslie Josephs",
-      "title": "Companies scoff at airlines' cheapest business class tickets. 'The real value is flexibility' - CNBC",
-      "description": "Some companies plan to shun the cheapest business- and premium- economy fares from their executives.",
-      "url": "https://www.cnbc.com/2026/08/07/business-business-premium-fares.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108137918-1745927012381-ORD_Polaris_Lounge_-_Entry_-_2025.jpg?v=1745927085&w=1920&h=1080",
-      "publishedAt": "2026-08-07T12:00:02Z",
-      "content": "United Airlines Polaris lounge in Chicago\r\nCHICAGO No advanced seat selection, lounge access or flight changes included with a C-suite executive's business-class ticket? Absolutely not, some companie… [+5936 chars]"
+      "author": "Brian Sozzi",
+      "title": "What the vicious Sandisk bears are forgetting - Yahoo Finance",
+      "description": "Keep this in mind about Sandisk.",
+      "url": "https://finance.yahoo.com/markets/article/what-the-vicious-sandisk-bears-are-forgetting-132927678.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/53B03DDAC62DB745351F192678B037839975644C2EE626A41FAF0BD5AA984A47/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-05%2F1d729549-52cd-408a-b414-baa0af19a2ed",
+      "publishedAt": "2026-08-07T13:29:27Z",
+      "content": "Sandisk (SNDK) management offered some perspective following earnings this week showing that the momentum stock shouldn't be down for much longer.\r\nSandisk repurchased a whopping $4.5 billion of its … [+2398 chars]"
     },
     {
       "source": {
@@ -213,19 +291,6 @@
       "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/02/zuckerberg-LA-trial-2026-GettyImages-2261841364.jpg?w=1024",
       "publishedAt": "2026-08-07T11:40:37Z",
       "content": "A New Mexico Court judge on Thursday ordered Meta to pay a fine of $567 million, on top of the $375 million levied in March, in a case regarding social media harms and addiction. This brings the tota… [+2428 chars]"
-    },
-    {
-      "source": {
-        "id": "fortune",
-        "name": "Fortune"
-      },
-      "author": "Allie Garfinkle",
-      "title": "In AI-obsessed Silicon Valley, live commerce platform Whatnot just notched a new funding round valuing it at $20 billion - Fortune",
-      "description": "The $545 million Series G nearly doubles Whatnot's valuation—a rare consumer-marketplace breakout when nearly every venture dollar is flowing to AI.",
-      "url": "https://fortune.com/2026/08/07/ai-obsessed-silicon-valley-live-commerce-platform-whatnot-new-funding-round-20-billion/",
-      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/08/55323125671_c3c2d093d5_6k-e1786052270579.jpg?resize=1200,600",
-      "publishedAt": "2026-08-07T11:17:00Z",
-      "content": "Whatnot, started in a Funko Pop-flooded rental house, is now a $20 billion company. The live commerce platform exclusively told Fortune it recently raised its $545 million Series G, almost doubling W… [+7040 chars]"
     },
     {
       "source": {
@@ -255,16 +320,16 @@
     },
     {
       "source": {
-        "id": "bloomberg",
-        "name": "Bloomberg"
+        "id": null,
+        "name": "New York Post"
       },
-      "author": "Jeran Wittenstein, Rainier Harris",
-      "title": "Big Tech Stocks Storm Back as AI Fears Fade and Euphoria Resumes - Bloomberg.com",
-      "description": "After spending much of the year in the stock market doghouse over fears about their profligate spending on artificial intelligence, the world’s biggest technology companies are suddenly leading the way once again.",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-07/big-tech-stocks-storm-back-as-ai-fears-fade-and-euphoria-resumes",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i8P7OE6zomfg/v0/1200x800.jpg",
-      "publishedAt": "2026-08-07T10:30:01Z",
-      "content": "After spending much of the year in the stock market doghouse over fears about their profligate spending on artificial intelligence, the worlds biggest technology companies are suddenly leading the wa… [+226 chars]"
+      "author": "Charles Gasparino",
+      "title": "Tish James, Kathy Hochul's pursuit of Kalshi raises questions about why they're ignoring Polymarket - New York Post",
+      "description": "Kalshi argues the suit is a death blow to its business.",
+      "url": "https://nypost.com/2026/08/07/business/tish-james-kathy-hochuls-pursuit-of-kalshi-raises-questions-about-why-theyre-ignoring-polymarket/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/08/James-Kalshi-slots-1.jpg?quality=75&strip=all&w=1200",
+      "publishedAt": "2026-08-07T11:00:00Z",
+      "content": "State regulators taking aim at prediction markets for regulation isn’t new, but according to Kalshi, what is new is New York singling out its business as an “illegal gambling operation” for much of t… [+5914 chars]"
     },
     {
       "source": {
@@ -278,6 +343,19 @@
       "urlToImage": "https://image.cnbcfm.com/api/v1/image/108346303-1786049823204-gettyimages-2288529701-TRUMP_EO.jpeg?v=1786049863&w=1920&h=1080",
       "publishedAt": "2026-08-07T10:23:51Z",
       "content": "U.S. solar stocks jumped Friday, after President Donald Trump opened a new front in his trade war with China, imposing fresh tariffs on imported products made from a key material used to manufacture … [+1045 chars]"
+    },
+    {
+      "source": {
+        "id": "associated-press",
+        "name": "Associated Press"
+      },
+      "author": "Elaine Kurtenbach",
+      "title": "China’s exports slow slightly in July despite robust demand for high-tech products - AP News",
+      "description": "China has reported its exports slowed slightly in July from the month before despite strong growth in demand for high-tech electronics and vehicles. Customs data released Friday showed China’s trade surplus narrowed to $112.5 billion from $125.6 billion in Ju…",
+      "url": "https://apnews.com/article/china-trade-exports-imports-iran-oil-8bd433d388d143ba2d37a10aefdc5629",
+      "urlToImage": "https://dims.apnews.com/dims4/default/d4b6a0d/2147483647/strip/true/crop/7344x4894+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fb0%2Fee%2F3c7b1cb2f93d18cbe753bf6dea83%2Fd5d400bee27642f09aa330137da58290",
+      "publishedAt": "2026-08-07T10:18:00Z",
+      "content": "BANGKOK (AP) Chinas exports slowed slightly in July from the month before but still were higher than forecast thanks to strong demand for high-tech electronics and vehicles.\r\nCustoms data released Fr… [+3268 chars]"
     },
     {
       "source": {
@@ -320,19 +398,6 @@
     },
     {
       "source": {
-        "id": "business-insider",
-        "name": "Business Insider"
-      },
-      "author": "Polly Thompson",
-      "title": "Sorry PwC interns, your end-of-summer trip to Disney World is canceled - Business Insider",
-      "description": "The Big Four firm PwC has cut a 20-year tradition of taking summer interns to \"The Happiest Place on Earth.\"",
-      "url": "https://www.businessinsider.com/pwc-us-cancels-disney-world-intern-trip-2026-8#article",
-      "urlToImage": "https://i.insider.com/6a75c1150c0bf4e8be522897?width=1200&format=jpeg",
-      "publishedAt": "2026-08-07T06:00:00Z",
-      "content": "So much for a magical ending.\r\nPwC has canceled the signature finale to its summer internship program: a multi-day trip to Disney World.\r\nManagers at the Big Four firm told members of its 2026 summer… [+4732 chars]"
-    },
-    {
-      "source": {
         "id": null,
         "name": "CoinDesk"
       },
@@ -347,32 +412,6 @@
     {
       "source": {
         "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Simply Wall St",
-      "title": "Is Oklo (OKLO) Undervalued After Reaching Criticality At Its Groves Reactor? - Yahoo Finance",
-      "description": "Oklo (OKLO) just reached first criticality at its Groves low power test reactor in Texas, achieving a controlled, self sustaining nuclear chain reaction less...",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/oklo-oklo-undervalued-reaching-criticality-051411087.html",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/167EC5D2FCE6BE22C2A7822941C0461887956A29C7F5320F59BE2A5FD81B35DC/subgraphmysterio/resizefill_w1200_h434;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fsimply_wall_st__316%2F88fedce06307b8d0a5a6b7fe29a1be66",
-      "publishedAt": "2026-08-07T05:14:00Z",
-      "content": "Find your next quality investment with Simply Wall St's easy and powerful screener, trusted by over 7 million individual investors worldwide.\r\nOklo (OKLO) just reached first criticality at its Groves… [+4081 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "WWD"
-      },
-      "author": "Kate Nishimura",
-      "title": "Illinois Lawmaker Presses for Consumer Paybacks As Trump Administration Hits $100B in Tariff Refunds - WWD",
-      "description": "Some lawmakers have gotten involved on behalf of their constituents, imploring the federal government to return the money to constituents directly.",
-      "url": "http://wwd.com/sourcing-journal/trade/trump-cbp-100b-tariff-refunds-illinois-pritzker-consumers-1239097219/",
-      "urlToImage": "https://wwd.com/wp-content/uploads/2026/08/jbpritzker.jpg?w=1000&h=563&crop=1",
-      "publishedAt": "2026-08-07T04:06:44Z",
-      "content": "The Trump administration has refunded about $100 billion in revenue from its dismantled “reciprocal” tariff scheme—about 60 percent of the total owed to importers by the federal government.\r\nThe figu… [+3620 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "Financial Times"
       },
       "author": null,
@@ -382,19 +421,6 @@
       "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F2b67c609-ee03-4a50-b908-a90dfcb1d913.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
       "publishedAt": "2026-08-07T04:00:07Z",
       "content": "Then $75 per month. Complete digital access to quality FT journalism on any device. Cancel anytime during your trial."
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": "Anniek Bao",
-      "title": "China's exports growth beats estimates in July, as AI-driven shipments surge - CNBC",
-      "description": "China's exports rose more than expected in July, as global demand for high-tech components continues to absorb the country's manufactured goods.",
-      "url": "https://www.cnbc.com/2026/08/07/china-july-trade-exports-imports-surplus-imbalance-tariffs-.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108304828-1778492689574-gettyimages-2274002556-img_4105.jpeg?v=1778492905&w=1920&h=1080",
-      "publishedAt": "2026-08-07T02:47:00Z",
-      "content": "SHENZHEN, CHINA - MAY 1: The Chinese national flag is seen in front of stacked shipping containers bearing MSC (Mediterranean Shipping Company), Maersk, and Hamburg Süd branding at Yantian Port on Ma… [+3466 chars]"
     },
     {
       "source": {
@@ -412,15 +438,15 @@
     {
       "source": {
         "id": null,
-        "name": "CNBC"
+        "name": "Financial Times"
       },
-      "author": "Lee Ying Shan",
-      "title": "A 'weaponized' yen: How the U.S.-Japan intervention may reshape global currency markets - CNBC",
-      "description": "The unprecedented U.S.-Japan intervention to support the yen may end up shaping market behavior.",
-      "url": "https://www.cnbc.com/2026/08/07/japan-us-yen-intervention-global-currency-markets.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107282488-1691376461152-gettyimages-1434261552-banderajaponyyen2.jpeg?v=1785984770&w=1920&h=1080",
-      "publishedAt": "2026-08-07T00:05:00Z",
-      "content": "The Japan flag juxtaposed against a Japanese yen bank note.\r\nThe unprecedented U.S.-Japan intervention to support the yen may end up shaping market behavior. \r\nJapan has intervened in currency market… [+3925 chars]"
+      "author": null,
+      "title": "US euro sale to prop up yen blindsided ECB - Financial Times",
+      "description": "Christine Lagarde and Scott Bessent spoke only after Washington’s historic intervention",
+      "url": "https://www.ft.com/content/d9922d0b-51a0-48be-811b-42e08f90985a?syn-25a6b1a6\\\\u003d1",
+      "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F0facac4e-2cd7-4025-b4d0-8db4f73395e6.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
+      "publishedAt": "2026-08-07T02:02:14Z",
+      "content": "Then $75 per month. Complete digital access to quality FT journalism on any device. Cancel anytime during your trial."
     },
     {
       "source": {
@@ -440,25 +466,38 @@
         "id": null,
         "name": "TheStreet"
       },
-      "author": "thestreet.com",
+      "author": "Laura Grace Tarpley, Celine Provini",
       "title": "Americans face 3 major takeaways after mortgage rate news - thestreet.com",
-      "description": null,
+      "description": "Mortgage rates increased again on Aug. 6, but homebuyers shouldn't ignore crucial lessons.",
       "url": "https://www.thestreet.com/real-estate/freddie-mac-mortgage-rates-analysis",
-      "urlToImage": null,
+      "urlToImage": "https://www.thestreet.com/.image/NDA6MDAwMDAwMDAzMDk0MjA0/untitled.jpg?profile=share16-9",
       "publishedAt": "2026-08-06T23:17:00Z",
-      "content": null
+      "content": "The 30-year fixed mortgage rate is 6.69% as of Aug. 6, according to Freddie Mac data. This is a 0.03% increase from the previous week.\r\nThe 15-year fixed rate is actually down 0.03% to 6.01%. But its… [+6021 chars]"
+    },
+    {
+      "source": {
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "author": "Rita Nazareth",
+      "title": "Stocks Gain as Oil Dips Ahead of Key US Jobs Data: Markets Wrap - Bloomberg.com",
+      "description": "A sharp slowdown in the US jobs market drove stocks higher while bond yields fell on speculation the Federal Reserve won’t be forced to raise interest rates any time soon.",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-06/stock-market-today-dow-s-p-live-updates",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iuGBj10OZgqY/v0/1200x800.jpg",
+      "publishedAt": "2026-08-06T22:10:21Z",
+      "content": "A sharp slowdown in the US jobs market drove stocks higher while bond yields fell on speculation the Federal Reserve wont be forced to raise interest rates any time soon.\r\nThe S&amp;P 500 rose to a r… [+213 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Inc."
+        "name": "Abcnews.com"
       },
-      "author": "inc.com",
-      "title": "After Years of Falling Behind, Burger King Is Finally Beating McDonald’s. Its Comeback Comes Down to 3 Fixes - inc.com",
+      "author": "ABC News - Breaking News, Latest News and Videos",
+      "title": "Flights grounded throughout Midwest after temporary outage at Minnesota air traffic control facility: FAA - ABC News - Breaking News, Latest News and Videos",
       "description": null,
-      "url": "https://www.inc.com/amaya-nichole/burger-king-is-finally-beating-mcdonalds-comeback-comes-down-to-three-fixes/91386107",
+      "url": "https://abcnews.com/US/flights-grounded-midwest-after-temporary-outage-minnesota-air/story?id\\\\u003d135438785",
       "urlToImage": null,
-      "publishedAt": "2026-08-06T21:57:12Z",
+      "publishedAt": "2026-08-06T21:43:59Z",
       "content": null
     },
     {
@@ -490,67 +529,15 @@
     {
       "source": {
         "id": null,
-        "name": "WOWT"
+        "name": "Investor's Business Daily"
       },
-      "author": "Gina Dvorak",
-      "title": "Air traffic control issues impacting regional airports including Omaha, Lincoln - WOWT",
-      "description": "Eppley Airfield advised passengers on Thursday afternoon to check their flight status as airports throughout the region where experiencing air traffic control issues.",
-      "url": "https://www.wowt.com/2026/08/06/air-traffic-control-issues-impacting-regional-airports-including-omaha-lincoln/",
-      "urlToImage": "https://gray-wowt-prod.gtv-cdn.com/resizer/v2/U4BV3SMPFRDH5E23AK3RQT4PPA.jpg?auth=d4486c17410d6d687822dfd6763b758fd82cdafa14770fd64412ea1f7b344bd4&width=1200&height=600&smart=true",
-      "publishedAt": "2026-08-06T21:00:00Z",
-      "content": "OMAHA, Neb. (WOWT) - Eppley Airfield advised passengers on Thursday afternoon to check their flight status as airports throughout the region where experiencing air traffic control issues.\r\n Due to Ai… [+1439 chars]"
-    },
-    {
-      "source": {
-        "id": "the-wall-street-journal",
-        "name": "The Wall Street Journal"
-      },
-      "author": "Xavier Martinez",
-      "title": "FDA Approves Replimune’s Melanoma Drug on Third Attempt - WSJ",
-      "description": "The agency had turned down two earlier applications over clinical data-quality concerns",
-      "url": "https://www.wsj.com/tech/biotech/fda-approves-replimunes-melanoma-drug-on-third-attempt-5018cccf",
-      "urlToImage": "https://images.wsj.net/im-96275070/social",
-      "publishedAt": "2026-08-06T20:46:00Z",
-      "content": "Replimune Group said Thursday that the Food and Drug Administration has approved its therapy for advanced skin cancer, ending a regulatory saga that spanned three submissions and two rejections and w… [+388 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Gothamist"
-      },
-      "author": "https://gothamist.com/staff/elizabeth-kim",
-      "title": "Will the Mamdani-Menin rivalry boost regulations of e-bikes in NYC? - Gothamist",
-      "description": "The two Democrats are jockeying to shape New York’s approach to e-bikes and potentially create a model for other cities.",
-      "url": "https://gothamist.com/news/will-the-mamdani-menin-rivalry-boost-regulations-of-e-bikes-in-nyc",
-      "urlToImage": "https://api-prod.gothamist.com/images/358519/fill-1200x650|format-webp|webpquality-85/",
-      "publishedAt": "2026-08-06T20:40:00Z",
-      "content": "This column originally appeared inThe Politics Brief,our weekly newsletter on the people, power and policies that shape New Yorkers' lives.\r\nSign upto get the full version where you can ask questions… [+3901 chars]"
-    },
-    {
-      "source": {
-        "id": "associated-press",
-        "name": "Associated Press"
-      },
-      "author": "Barbara Ortutay",
-      "title": "Meta says its AI model hacked another company, adding to worries about bots going rogue - AP News",
-      "description": "Meta on Thursday said that one of its artificial intelligence models accessed the internet on its own and hacked another company, the latest in a series of disclosures about AI models going rogue. In recent weeks OpenAI and Anthropic also have described insta…",
-      "url": "https://apnews.com/article/meta-ai-hacking-anthropic-irregular-openai-0e8061437da6779be962b24ac134a514",
-      "urlToImage": "https://dims.apnews.com/dims4/default/1f2ac64/2147483647/strip/true/crop/5804x3867+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F82%2F23%2Ff9274eb71b08dac8c5bab2cae61a%2Fed33499e1521436d9e128d410feb96a7",
-      "publishedAt": "2026-08-06T20:38:00Z",
-      "content": "Meta said Thursday that one of its artificial intelligence models accessed the internet on its own and hacked another company, the latest in a series of disclosures about AI models going rogue. \r\nIn … [+3067 chars]"
-    },
-    {
-      "source": {
-        "id": "the-wall-street-journal",
-        "name": "The Wall Street Journal"
-      },
-      "author": "WSJ",
-      "title": "U.S. Stocks Down on Hormuz Deal Doubts - WSJ",
-      "description": null,
-      "url": "https://www.wsj.com/finance/stocks/u-s-stocks-down-on-hormuz-deal-doubts-37f55a6a",
-      "urlToImage": null,
-      "publishedAt": "2026-08-06T20:36:00Z",
-      "content": null
+      "author": null,
+      "title": "Stock Market Today: Dow Sinks 464 Points, But Chip Firm Surges; Microsoft Surpasses Buy Zone (Live Coverage) - Investor's Business Daily",
+      "description": "Stock Market Today: The Dow Jones index ends lower Thursday, as does the Nasdaq composite. Sandisk and Western Digital slump.",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-ai-stocks-sandisk-western-digital/",
+      "urlToImage": "https://www.investors.com/wp-content/uploads/2025/07/Stock-Microsoft-SurfaceLaptopWoman-company.jpg",
+      "publishedAt": "2026-08-06T20:58:00Z",
+      "content": "Information in Investors Business Daily is for informational and educational purposes only and should not be construed as an offer, recommendation, solicitation, or rating to buy or sell securities. … [+1064 chars]"
     },
     {
       "source": {
@@ -593,29 +580,29 @@
     },
     {
       "source": {
-        "id": "the-wall-street-journal",
-        "name": "The Wall Street Journal"
+        "id": null,
+        "name": "STAT"
       },
-      "author": "Xavier Martinez",
-      "title": "The Race to Come Up With the Next Big Sleep Drug - WSJ",
-      "description": "FDA approves first drug to treat a root cause of narcolepsy, which could help other sleep conditions as well",
-      "url": "https://www.wsj.com/health/pharma/the-race-to-come-up-with-the-next-big-sleep-drug-473a4a5e",
-      "urlToImage": "https://images.wsj.net/im-80949925/social",
-      "publishedAt": "2026-08-06T18:31:38Z",
-      "content": null
+      "author": "Elaine Chen",
+      "title": "FDA approves Replimune melanoma drug previously rejected twice - STAT",
+      "description": "The FDA approved Replimune’s treatment for advanced melanoma, dealing the company and patient advocates a big win after a tumultuous saga.",
+      "url": "https://www.statnews.com/2026/08/06/replimune-melanoma-drug-rp1-fda-approves-phase-3-confirmatory-trial/",
+      "urlToImage": "https://www.statnews.com/wp-content/uploads/2023/04/AdobeStock_521699065_Editorial_Use_Only-1024x576.jpeg",
+      "publishedAt": "2026-08-06T20:04:45Z",
+      "content": "The Food and Drug Administration has cleared Replimunes treatment for advanced melanoma, dealing the biotech a major win after a tumultuous saga of trying to seek approval for the controversial treat… [+771 chars]"
     },
     {
       "source": {
-        "id": null,
-        "name": "Gothamist"
+        "id": "bloomberg",
+        "name": "Bloomberg"
       },
-      "author": "https://gothamist.com/staff/ramsey-khalifeh",
-      "title": "Baby on board: MTA to make room for strollers on all NYC buses - Gothamist",
-      "description": "The MTA said it wants riders to be able to convert two seats in the back of all buses into stroller parking by the end of the first quarter 2027.",
-      "url": "https://gothamist.com/news/baby-on-board-mta-to-make-room-for-strollers-on-all-nyc-buses",
-      "urlToImage": "https://api-prod.gothamist.com/images/358525/fill-1200x650|format-webp|webpquality-85/",
-      "publishedAt": "2026-08-06T17:29:00Z",
-      "content": "By next year, the MTA wants to have all buses outfitted with a spot for parents and guardians to park a stroller.\r\nThe transit agency said Thursday it is expanding a pilot program that converts two s… [+1856 chars]"
+      "author": "Dylan Sloan, Emily Flitter",
+      "title": "Top US Mortgage Lender Plunges Most Ever After Pausing Dividend - Bloomberg.com",
+      "description": "Shares in United Wholesale Mortgage fell by as much as 49% Thursday, a record slide after the country’s biggest mortgage lender announced a net loss of $452 million and suspended its dividend for the first time.",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-06/top-us-mortgage-lender-plunges-most-ever-after-pausing-dividend",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iHX2itN.EmCA/v0/1200x827.jpg",
+      "publishedAt": "2026-08-06T17:57:28Z",
+      "content": "Shares in United Wholesale Mortgage fell by as much as 49% Thursday, a record slide after the countrys biggest mortgage lender announced a net loss of $452 million and suspended its dividend for the … [+225 chars]"
     },
     {
       "source": {
@@ -698,19 +685,6 @@
     {
       "source": {
         "id": null,
-        "name": "Barron's"
-      },
-      "author": "Andrew Bary",
-      "title": "Berkshire Hathaway Earnings Preview: 3 Things to Watch That Might Move the Stock - Barron's",
-      "description": "Berkshire Hathaway was busy in the second quarter, repurchasing its own stock. Its investment activity and cash levels are also on Wall Street’s radar.",
-      "url": "https://www.barrons.com/articles/berkshire-hathaway-earnings-preview-stock-price-7454a7d3",
-      "urlToImage": "https://images.barrons.com/im-11113789/social",
-      "publishedAt": "2026-08-06T12:42:00Z",
-      "content": "Berkshire Hathawaysstock repurchase activity could be the most important figure in the companys second-quarter earnings report on Saturday.\r\nCopyright ©2026Dow Jones &amp; Company, Inc. All Rights Re… [+39 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "KABC-TV"
       },
       "author": "Carley Gomez",
@@ -720,6 +694,19 @@
       "urlToImage": "https://cdn.abcotvs.com/dip/images/19635439_080626-kabc-food-safety-advice.jpg?w=1600",
       "publishedAt": "2026-08-06T12:09:52Z",
       "content": "With several outbreaks of foodborne illnesses nationwide, there are some steps you can take to keep your family from getting sick.\r\nOne of the latest outbreaks of salmonella spans 27 states.\r\nThe U.S… [+1604 chars]"
+    },
+    {
+      "source": {
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
+      },
+      "author": "WSJ",
+      "title": "Meta AI Model Hacked Outside Company, Adding to Concerns Over Rogue Bots - WSJ",
+      "description": null,
+      "url": "https://www.wsj.com/tech/ai/meta-ai-model-hacked-outside-company-adding-to-concerns-over-rogue-bots-dd5f6e45",
+      "urlToImage": null,
+      "publishedAt": "2026-08-06T11:41:00Z",
+      "content": null
     },
     {
       "source": {
@@ -733,32 +720,6 @@
       "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/08/GettyImages-2283873070.jpg?resize=1200,600",
       "publishedAt": "2026-08-06T10:35:00Z",
       "content": "Wall Street was never going to enjoy Kevin Warshs new, minimum viable communications approach at the Federal Reserve. Even if some analysts could understand why Warshs strategy might benefit the cent… [+3610 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": "Samantha Subin",
-      "title": "Hadrian valued at nearly $8 billion after fresh funding as money pours into defense tech - CNBC",
-      "description": "Hadrian is one of a number of defense tech startups raising large sums and benefiting from President Trump's plans to upgrade the U.S. military.",
-      "url": "https://www.cnbc.com/2026/08/06/hadrian-defense-tech-ai-manufacturing.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108173465-1752771241809-Hermle_Line.png?v=1752771889&w=1920&h=1080",
-      "publishedAt": "2026-08-06T09:54:58Z",
-      "content": "Riding a wave of enthusiasm for defense tech, manufacturing startup Hadrian said on Thursday that it has closed its latest round of funding at a $7.9 billion valuation, more than quadruple where inve… [+1827 chars]"
-    },
-    {
-      "source": {
-        "id": "the-wall-street-journal",
-        "name": "The Wall Street Journal"
-      },
-      "author": "WSJ",
-      "title": "Trump Speaks Repeatedly With Warsh, Departing From Precedent - WSJ",
-      "description": null,
-      "url": "https://www.wsj.com/world/trump-speaks-repeatedly-with-warsh-departing-from-precedent-aaaa8741",
-      "urlToImage": null,
-      "publishedAt": "2026-08-06T09:44:00Z",
-      "content": null
     }
   ]
 }

@@ -3,34 +3,125 @@
   "country": "us",
   "category": "business",
   "mode": "country",
-  "fetched_at": "2026-08-07T22:21:19.863775+00:00",
+  "fetched_at": "2026-08-08T00:36:34.970495+00:00",
   "articles_count": 59,
   "articles": [
     {
       "source": {
-        "id": "the-wall-street-journal",
-        "name": "The Wall Street Journal"
+        "id": "politico",
+        "name": "Politico"
       },
-      "author": "WSJ",
-      "title": "Stock Market Today: Dow Poised to Break Winning Streak — Live Updates - WSJ",
-      "description": null,
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-06-2026",
-      "urlToImage": null,
-      "publishedAt": "2026-08-06T20:10:00Z",
-      "content": null
+      "author": "Daniel Desrochers",
+      "title": "Trump announces tariffs on key component for solar panels and semiconductors - Politico",
+      "description": "The move comes as the administration has bolstered its attempts to cut off Chinese choke points in the supply chain.",
+      "url": "https://www.politico.com/news/2026/08/06/trump-tariffs-solar-semiconductors-01028009",
+      "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2Ff6%2F3b%2F34f6ad2646e885ee152f4de777bf%2Fclimate-guterres-ai-2-231.jpg",
+      "publishedAt": "2026-08-06T22:00:00Z",
+      "content": "Because polysilicon is used in semiconductors and solar panels, its essential for military hardware and everyday electronics like cell phones and laptops, in addition to the worlds fastest-growing en… [+1863 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Financial Times"
+      },
+      "author": null,
+      "title": "Google shifts AI power back to Brin as DeepMind’s Hassabis steps aside - Financial Times",
+      "description": "Silicon Valley parent consolidates control as the London lab’s scientific culture gives way to urgency to build AI products",
+      "url": "https://www.ft.com/content/1453e9c2-4922-482f-8720-0bafd7e07df7?syn-25a6b1a6\\\\u003d1",
+      "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F393916b8-c221-43bf-9032-dde077de9579.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
+      "publishedAt": "2026-08-06T21:40:54Z",
+      "content": "Then $75 per month. Complete digital access to quality FT journalism on any device. Cancel anytime during your trial."
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Barron's"
+      },
+      "author": "Mackenzie Tatananni",
+      "title": "Why D-Wave Quantum Stock Is Sliding After Earnings Reveal a 1,120% Surge in Bookings - Barron's",
+      "description": "D-Wave Quantum posts lower-than-expected revenue in its latest quarter, even as the number of revenue-generating customer orders soars.",
+      "url": "https://www.barrons.com/articles/d-wave-quantum-earnings-stock-price-95b7b57e",
+      "urlToImage": "https://images.barrons.com/im-74953865/social",
+      "publishedAt": "2026-08-06T20:54:00Z",
+      "content": "Wall Street was met with a tale of two quantum computing companies on Thursday, asIonQstock extended gains following a stronger-than-expected quarterly earnings report while shares ofD-Wave Quantumhe… [+130 chars]"
     },
     {
       "source": {
         "id": null,
         "name": "CNBC"
       },
-      "author": "Leslie Josephs",
-      "title": "American Airlines will stop upgrading elite flyers to business from coach on long domestic flights - CNBC",
-      "description": "American Airlines will no longer give elite frequent flyers free upgrades from economy class to business on some of its longest domestic routes",
-      "url": "https://www.cnbc.com/2026/08/06/american-airlines-flight-upgrades-become-harder-to-get.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108025032-1724437349260-gettyimages-2167250314-AFP_36EN87H.jpeg?v=1724437432&w=1920&h=1080",
-      "publishedAt": "2026-08-06T19:55:20Z",
-      "content": "American Airlines elite frequent flyers have to say goodbye to the free coach-to-business leap on several long-haul domestic routes.\r\nStarting Aug. 25, American said it will stop putting frequent fly… [+1250 chars]"
+      "author": "Amelia Lucas",
+      "title": "Sweetgreen cuts full-year outlook as cyclospora fears weigh on sales - cnbc.com",
+      "description": "The salad chain has not been implicated in the ongoing cyclospora outbreak.",
+      "url": "https://www.cnbc.com/2026/08/06/sweetgreen-cuts-full-year-outlook-as-cyclospora-fears-weigh-on-sales.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108344880-1786049149058-108344880-1785876568185-gettyimages-2289091999-_88a7247_kwpwihxw.jpeg?v=1786049185&w=1920&h=1080",
+      "publishedAt": "2026-08-06T20:40:16Z",
+      "content": "Sweetgreen on Thursday cut its full-year outlook and is now projecting steeper same-store sales declines due to diner fears of eating fresh produce during the ongoing cyclospora outbreak.\r\nShares of … [+2141 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Business Wire"
+      },
+      "author": "Business Wire",
+      "title": "Nielsen to Acquire DoubleVerify, Creating a Leading, Independent Media Intelligence Platform - Business Wire",
+      "description": null,
+      "url": "https://www.businesswire.com/news/home/20260806603799/en/Nielsen-to-Acquire-DoubleVerify-Creating-a-Leading-Independent-Media-Intelligence-Platform",
+      "urlToImage": null,
+      "publishedAt": "2026-08-06T20:28:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Fox Business"
+      },
+      "author": "Eric Revell",
+      "title": "Here's the income needed to afford the typical American home - Fox Business",
+      "description": "A Redfin report reveals the income needed to buy a typical U.S. home is $109,756, leaving a $22,197 gap above what most American households earn.",
+      "url": "https://www.foxbusiness.com/economy/heres-income-needed-afford-typical-american-home",
+      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/08/0/0/real-estate-agent-client-inside-house.jpg?ve=1&tl=1",
+      "publishedAt": "2026-08-06T20:16:00Z",
+      "content": "Housing affordability remains a concern for would-be homebuyers as the income needed to afford a typical U.S. home remains near historic highs and well above what most American households earn, thoug… [+3756 chars]"
+    },
+    {
+      "source": {
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
+      },
+      "author": "Hannah Erin Lang, David Uberti, Julia Amann, Paul Berger, Ben Glickman, Sam Goldfarb, WSJ Staff, Jennifer Hiller, Laura Cooper, Micah Maidenberg, Gunjan Banerji, Caitlin McCabe, Molly Reinmann, Xavier Martinez, Heather Haddon, Adrià Calatayud",
+      "title": "Stock Market Today: Dow Poised to Break Winning Streak — Live Updates - WSJ",
+      "description": "Live updates on markets and the top finance, economics and business stories. Plus the latest on oil prices, the Dow, S&P 500 and Nasdaq.",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-06-2026",
+      "urlToImage": "https://images.wsj.net/im-34062673/social",
+      "publishedAt": "2026-08-06T20:10:00Z",
+      "content": "A sixth consecutive day of gains proved out of reach for the Dow Jones Industrial Average.\r\nThe blue-chip index opened Thursday's session higher, on track for its longest winning streak of the year, … [+968 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Thetradedesk.com"
+      },
+      "author": null,
+      "title": "The Trade Desk Reports Second Quarter 2026 Financial Results - investors.thetradedesk.com",
+      "description": "The Trade Desk, Inc. (“The Trade Desk,” the “Company” or “we”) (NASDAQ: TTD), a provider of a global technology platform for buyers of advertising, today announced financial results for its second quarter ended June 30, 2026. “This quarter did not meet the st…",
+      "url": "https://investors.thetradedesk.com/news-and-events/news/news-details/2026/The-Trade-Desk-Reports-Second-Quarter-2026-Financial-Results/default.aspx",
+      "urlToImage": null,
+      "publishedAt": "2026-08-06T20:01:54Z",
+      "content": "LOS ANGELES--(BUSINESS WIRE)-- \r\nThe Trade Desk, Inc. (The Trade Desk, the Company or we) (NASDAQ: TTD), a provider of a global technology platform for buyers of advertising, today announced financia… [+32532 chars]"
+    },
+    {
+      "source": {
+        "id": "cbs-news",
+        "name": "CBS News"
+      },
+      "author": "WCCO  Staff, Frankie  McLister",
+      "title": "Ground stop issued at MSP Airport Thursday due to \"regional FAA equipment outage,\" officials says - CBS News",
+      "description": "A ground stop is now lifted at Minneapolis-St. Paul International Airport Thursday after \"a regional FAA equipment outage,\" according to the Metropolitan Airports Commission​.",
+      "url": "https://www.cbsnews.com/minnesota/news/minneapolis-st-paul-international-airport-ground-stop-august-6-2026/",
+      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/08/06/720ca624-ee29-4807-b3a7-70a8eb42ef03/thumbnail/1200x630/0a90940c315437eec506d1290ff4eaa4/msp.jpg",
+      "publishedAt": "2026-08-06T20:01:00Z",
+      "content": "Minneapolis-St. Paul International Airport was put on a brief ground stop Thursday due to \"a regional FAA equipment outage,\" according to the Metropolitan Airports Commission.\r\nThe Federal Aviation A… [+352 chars]"
     },
     {
       "source": {
@@ -44,6 +135,19 @@
       "urlToImage": "https://dims.apnews.com/dims4/default/3a6f09b/2147483647/strip/true/crop/6702x4466+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F31%2F63%2Fba4948322c4421924b08040e91d0%2F12e0856871344f52a2984eb90b141234",
       "publishedAt": "2026-08-06T19:42:00Z",
       "content": "An offshore wind company said Thursday that it reached a $1.2 billion settlement with the Trump administration to walk away from projects under development off New York, California and Louisiana. Thi… [+3713 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Points Guy"
+      },
+      "author": "Sean Cudahy",
+      "title": "American tightens upgrade policy on certain domestic routes - The Points Guy",
+      "description": "American Airlines is tightening its upgrade policy: Elite status flyers on domestic routes will now get upgrades to premium economy instead of business class.",
+      "url": "https://thepointsguy.com/news/american-ends-domestic-upgrades-coach-business-class/",
+      "urlToImage": "https://runway-media-production.global.ssl.fastly.net/us/originals/2025/12/aa-a321xlr-9.jpeg",
+      "publishedAt": "2026-08-06T19:25:43Z",
+      "content": "American Airlines is beginning to offer premium economy on a growing number of domestic flights. As a result, the carrier is changing its complimentary upgrade policy.\r\nOn certain domestic routes, th… [+4711 chars]"
     },
     {
       "source": {
@@ -87,15 +191,15 @@
     {
       "source": {
         "id": null,
-        "name": "CNBC"
+        "name": "Fox Business"
       },
-      "author": "Yun Li",
-      "title": "United Wholesale Mortgage plunges 40% after suspending dividend and raising capital - CNBC",
-      "description": "\"We're taking decisive action to make UWM stronger, more liquid and better positioned to win for years to come,\" CEO Mat Ishbia said in a statement.",
-      "url": "https://www.cnbc.com/2026/08/06/united-wholesale-mortgage-plunges-40percent-suspends-dividend-raises-capital-.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/106828651-1611336069998UWM-OB-Photo-210122-PRESS-58-jpg?v=1611336181&w=1920&h=1080",
-      "publishedAt": "2026-08-06T17:44:14Z",
-      "content": "Shares in UWM Holdings, parent of United Wholesale Mortgage, plunged 35% on Thursday after the biggest U.S. mortgage lender suspended its dividend and raised fresh capital.\r\nUWM announced a $2.05 bil… [+1693 chars]"
+      "author": "Eric Revell, Matthew Kazin",
+      "title": "Mortgage rates hit highest level in over a year - Fox Business",
+      "description": "The average rate on a 30-year fixed mortgage rose this week to 6.69%, according to the latest Freddie Mac data released Thursday. That is up from last week's reading of 6.66%.",
+      "url": "https://www.foxbusiness.com/economy/mortgage-rates-8-6-2026",
+      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/08/0/0/real-estate-agent-outside-home.jpg?ve=1&tl=1",
+      "publishedAt": "2026-08-06T18:16:00Z",
+      "content": "Mortgage rates\r\n rose this week, mortgage buyer Freddie Mac said Thursday.\r\nFreddie Mac's latest Primary Mortgage Market Survey, released Thursday, showed the average rate on the benchmark 30-year fi… [+2175 chars]"
     },
     {
       "source": {
@@ -109,19 +213,6 @@
       "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/02/UEV_aero.jpg?resize=1200,1200",
       "publishedAt": "2026-08-06T17:41:56Z",
       "content": "Few automotive companies are as dependent on breakout hits as Ford. Its almost as though its baked into the companys DNA: From the Model T and the Taurus to the F-150 and the Explorer, Ford has lurch… [+4207 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Financial Times"
-      },
-      "author": null,
-      "title": "Google seeks a sharper focus in AI after Hassabis move - Financial Times",
-      "description": "New role for the DeepMind co-founder comes as the competitive frontier in the technology is shifting",
-      "url": "https://www.ft.com/content/f860d189-7def-4c7a-8ce3-4e96b3371d1f?syn-25a6b1a6\\\\u003d1",
-      "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Ffe9797bb-075f-4057-8501-24f59cf6a6b6.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
-      "publishedAt": "2026-08-06T16:55:52Z",
-      "content": "Then $75 per month. Complete digital access to quality FT journalism on any device. Cancel anytime during your trial."
     },
     {
       "source": {
@@ -203,29 +294,16 @@
     },
     {
       "source": {
-        "id": "bloomberg",
-        "name": "Bloomberg"
-      },
-      "author": "Brian W Smith, Caleb Mutua, Davide Barbuscia",
-      "title": "Alphabet’s Jumbo Bond Sale Draws $115 Billion of Investor Demand - Bloomberg.com",
-      "description": "Alphabet Inc. has received about $115 billion of orders for its latest jumbo bond sale, signaling renewed investor appetite for debt tied to the artificial intelligence boom after a recent selloff.",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-06/alphabet-s-jumbo-bond-sale-draws-115-billion-of-investor-demand",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i2VnWSXMkOQw/v0/1200x800.jpg",
-      "publishedAt": "2026-08-06T15:58:06Z",
-      "content": "Alphabet Inc. has received about $115 billion of orders for its latest jumbo bond sale, signaling renewed investor appetite for debt tied to the artificial intelligence boom after a recent selloff.\r\n… [+258 chars]"
-    },
-    {
-      "source": {
         "id": null,
-        "name": "Seeking Alpha"
+        "name": "Abcnews.com"
       },
-      "author": "Uttam Dey",
-      "title": "Celestica Just Unloaded Bad News - Buy It (NYSE:CLS) - Seeking Alpha",
-      "description": "Celestica Inc. Q2 CY26 surged on AI switch demand and margin gains. Click for this CLS update and see why I remain bullish in the face of bad news.",
-      "url": "https://seekingalpha.com/article/4931885-celestica-just-unloaded-bad-news-buy-it",
-      "urlToImage": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2268388747/image_2268388747.jpg?io=getty-c-w1536",
-      "publishedAt": "2026-08-06T15:22:02Z",
-      "content": "Analysts Disclosure: I/we have a beneficial long position in the shares of CLS either through stock ownership, options, or other derivatives. I wrote this article myself, and it expresses my own opin… [+729 chars]"
+      "author": "ABC News - Breaking News, Latest News and Videos",
+      "title": "Powerball drawing: Jackpot soars to $856 million, eighth largest in game history - ABC News - Breaking News, Latest News and Videos",
+      "description": null,
+      "url": "https://abcnews.com/US/powerball-drawing-jackpot-soars-856-million-eighth-largest/story?id\\\\u003d135427363",
+      "urlToImage": null,
+      "publishedAt": "2026-08-06T15:38:12Z",
+      "content": null
     },
     {
       "source": {
@@ -282,32 +360,6 @@
     {
       "source": {
         "id": null,
-        "name": "Newser"
-      },
-      "author": "Polly Davis Doig",
-      "title": "Michael Burry: This Feels a Lot Like the 1987 Crash - Newser",
-      "description": "The Big Short investor doubles down on shorts, keeps bearish bets on AI",
-      "url": "https://www.newser.com/story/394178/michael-burry-this-feels-a-lot-like-the-1987-crash.html",
-      "urlToImage": "https://cdn.newser.com/image/1703590-12-20260806092348.jpeg",
-      "publishedAt": "2026-08-06T14:11:00Z",
-      "content": "Michael Burry thinks the party on Wall Street may be nearing an ugly end. As Quartz reports, the investor made famous by The Big Short is warning that the S&amp;P 500's fresh record could be followed… [+548 chars]"
-    },
-    {
-      "source": {
-        "id": "fox-news",
-        "name": "Fox News"
-      },
-      "author": null,
-      "title": "Dem senator presses OpenAI, Anthropic for answers in AI hacking probe - Fox News",
-      "description": "Sen. Lisa Blunt Rochester demands security logs and transcripts from OpenAI and Anthropic after AI agents allegedly hacked third parties during testing.",
-      "url": "https://www.foxnews.com/politics/dem-senator-presses-openai-anthropic-answers-ai-hacking-probe",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/08/Altman-Amodei-Blunt-Rochester-Split-Photo-1.jpg",
-      "publishedAt": "2026-08-06T14:03:15Z",
-      "content": "Revelations of OpenAI and Anthropic artificial intelligence agents hacking third parties has drawn the \"serious concern\" of Sen. Lisa Blunt Rochester, D-Del., who is now seeking answers from the two … [+8800 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "MarketWatch"
       },
       "author": "Jeffry Bartash",
@@ -317,6 +369,19 @@
       "urlToImage": "https://images.mktw.net/im-68540123/social",
       "publishedAt": "2026-08-06T14:03:00Z",
       "content": "The last time layoffs in the U.S. were as low as they are now, NASA was landing astronauts on the moon, young Americans were rocking out at Woodstock and President Richard Nixon was moving into the W… [+252 chars]"
+    },
+    {
+      "source": {
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "author": "Dylan Sloan, Emily Flitter",
+      "title": "Top US Mortgage Lender Plunges Most Ever After Pausing Dividend - Bloomberg.com",
+      "description": "Shares in United Wholesale Mortgage fell by as much as 49% Thursday, a record slide after the country’s biggest mortgage lender announced a net loss of $452 million and suspended its dividend for the first time.",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-06/top-us-mortgage-lender-plunges-most-ever-after-pausing-dividend",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iHX2itN.EmCA/v0/1200x827.jpg",
+      "publishedAt": "2026-08-06T13:57:51Z",
+      "content": "Shares in United Wholesale Mortgage fell by as much as 49% Thursday, a record slide after the countrys biggest mortgage lender announced a net loss of $452 million and suspended its dividend for the … [+225 chars]"
     },
     {
       "source": {
@@ -330,19 +395,6 @@
       "urlToImage": "https://image.cnbcfm.com/api/v1/image/108261536-1770233397984-Side_by_Side_template.jpg?v=1770233491&w=1920&h=1080",
       "publishedAt": "2026-08-06T13:45:29Z",
       "content": "The diverging paths of two GLP-1 drugmakers were on full display this week.\r\nBoth Eli Lilly and Novo Nordisk beat second-quarter estimates and raised their full-year outlooks. But while investors che… [+5210 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": "Sean Conlon, Joseph Wilkins, Justina Lee, Tanaya Macheel",
-      "title": "S&P 500 futures are little changed, Nasdaq futures drop as traders monitor Iran, Sandisk shares fall: Live updates - CNBC",
-      "description": "The S&P 500 was relatively unchanged on Thursday, while the Nasdaq Composite pulled back as traders kept an eye on the Middle East.",
-      "url": "https://www.cnbc.com/2026/08/05/stock-market-today-live-updates.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108344589-1786022549101-108344589-17858573052026-08-04t144442z_395456627_rc2prmai57sn_rtrmadp_0_usa-stocks.jpg?v=1786022562&w=1920&h=1080",
-      "publishedAt": "2026-08-06T13:22:00Z",
-      "content": "WPP shares soared in early London trade after the British advertising group's first-half earnings showed organic growth beat analysts' expectations, signaling that turnaround efforts could be paying … [+1758 chars]"
     },
     {
       "source": {
@@ -360,6 +412,45 @@
     {
       "source": {
         "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Jared Blikre",
+      "title": "The AI rally is back — here’s how to tell if it has legs: One Big Investment Idea - finance.yahoo.com",
+      "description": "Stocks are back at records — the rally still has something to prove.",
+      "url": "https://finance.yahoo.com/markets/article/the-ai-rally-is-back--heres-how-to-tell-if-it-has-legs-one-big-investment-idea-100000348.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/A604DDC8088CFC020E3D112C64716716891A5ECA0B40E928245F10134B3449E5/subgraphmysterio/resizefill_w1200_h802;quality_80;format_webp/https:%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-08%2Fa391aa84-75f9-4672-9e52-76e368580ee5",
+      "publishedAt": "2026-08-06T13:13:51Z",
+      "content": "Stocks are back at records. The rally still has something to prove.\r\nThe S&amp;P 500 (^GSPC) broke out after months of reversals that frustrated bulls and bears alike. Wednesday's modest decline left… [+4878 chars]"
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "cnbc.com",
+      "title": "AppLovin stock tanks on Q2 revenue miss - cnbc.com",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9YYnFMSHpkWG9fcE1ZYXlSOVIzQmxoZVJFUGVhSnFYUl80eVVtU1gyTkpOZmdEM3NfbTAwME1hcWtiUWFzeEEyVkJQT3BydmJSY3hOT0tWM29pcko3TFVaV1NlZVdMd3B2QTVPdHNkb0xFSGN5czRVeVc3TdIBgAFBVV95cUxOb1hGNGZKQ0ttcUNuOTd2ODJYQ2hWNUhGNzdlUXhObUVlSmhNX3BRcXA2cWFmODNzMDJnZVBFTkRRRDNqM3BFRWRVOG50TWZ6QXNaeEdvTmRHTE5zZ0wtZTJTdnhrbWQ2dHpSMTFvSHcxVnRpNV84TnBYb1ZCenBZcg?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2026-08-06T13:07:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Deadline"
+      },
+      "author": "Dade Hayes",
+      "title": "David Zaslav Says WBD Staffers Are “Working Extremely Hard” Despite Paramount Deal Uncertainty - deadline.com",
+      "description": "Warner Bros. Discovery CEO David Zaslav says staffers are staying focused despite uncertainty about the company's pending merger with Paramount.",
+      "url": "http://deadline.com/2026/08/david-zaslav-wbd-workers-paramount-merger-1237027585/",
+      "urlToImage": "https://deadline.com/wp-content/uploads/2026/01/P103X8A2.jpg?w=1024",
+      "publishedAt": "2026-08-06T13:06:00Z",
+      "content": "Warner Bros. Discovery CEO David Zaslav says staffers are working “extremely hard” and staying focused despite uncertainty about the fate of the company’s pending merger with Paramount.\r\nSpeaking to … [+3163 chars]"
+    },
+    {
+      "source": {
+        "id": null,
         "name": "Hollywood Reporter"
       },
       "author": "Alex Weprin",
@@ -373,28 +464,28 @@
     {
       "source": {
         "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Renato Neves, CFA",
-      "title": "AppLovin Stock Falls 17% Despite a 98 Rule of 40 - Yahoo Finance",
-      "description": "Revenue of $1.92 billion missed estimates while EPS matched",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/applovin-stock-falls-17-despite-123621455.html",
-      "urlToImage": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
-      "publishedAt": "2026-08-06T12:36:21Z",
-      "content": "This article first appeared on GuruFocus.\r\nAppLovin (NASDAQ:APP), which runs an advertising and marketing platform for app developers, fell 16.91% premarket after reporting second-quarter revenue of … [+693 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "Investor's Business Daily"
       },
       "author": null,
-      "title": "Quantum Computing Stocks: D-Wave Earnings, Revenue Miss - Investor's Business Daily",
-      "description": "D-Wave reported a bigger-than-expected Q2 loss while flat revenue fell short.",
-      "url": "https://www.investors.com/news/technology/quantum-computing-stocks-dwave-stock-dwave-earnings-q22026/",
-      "urlToImage": "https://www.investors.com/wp-content/uploads/2025/01/Stock-Dwave-sign-company.jpg",
-      "publishedAt": "2026-08-06T11:44:00Z",
+      "title": "Dow Jones Futures Rise But Techs Fall As Sandisk, Western Digital, Datadog Lead Earnings Losers - Investor's Business Daily",
+      "description": "The Dow hit a new high thanks to Nvidia, but the Nasdaq win streak ended.",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-nvidia-google-spacex-skid-sandisk-western-digital-earnings/",
+      "urlToImage": "https://www.investors.com/wp-content/uploads/2024/12/Stock-cyberneticcircuitbrain-genAI-01-adobe.jpg",
+      "publishedAt": "2026-08-06T12:04:00Z",
       "content": "Information in Investors Business Daily is for informational and educational purposes only and should not be construed as an offer, recommendation, solicitation, or rating to buy or sell securities. … [+1064 chars]"
+    },
+    {
+      "source": {
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
+      },
+      "author": "WSJ",
+      "title": "Meta AI Model Hacked Outside Company, Adding to Concerns Over Rogue Bots - WSJ",
+      "description": null,
+      "url": "https://www.wsj.com/tech/ai/meta-ai-model-hacked-outside-company-adding-to-concerns-over-rogue-bots-dd5f6e45",
+      "urlToImage": null,
+      "publishedAt": "2026-08-06T11:41:00Z",
+      "content": null
     },
     {
       "source": {
@@ -412,15 +503,15 @@
     {
       "source": {
         "id": null,
-        "name": "Deadline"
+        "name": "CoinDesk"
       },
-      "author": "Dade Hayes",
-      "title": "Warner Bros. Discovery Stumbles In Q2 As ‘Supergirl,’ Lack Of NBA Drag Down Results - Deadline",
-      "description": "Warner Bros. Discovery missed Wall Street's second-quarter estimates, as 'Supergirl' and the lack of the NBA dragged revenue down 11% to $8.7 billion.",
-      "url": "http://deadline.com/2026/08/warner-bros-discovery-q2-2026-earnings-supergirl-nba-1237027368/",
-      "urlToImage": "https://deadline.com/wp-content/uploads/2026/07/GettyImages-2285924203.jpg?w=1024",
-      "publishedAt": "2026-08-06T11:10:00Z",
-      "content": "Warner Bros. Discovery fell short of Wall Street expectations in the second quarter, as Supergirl and the lack of the NBA dragged total revenue down 11% to $8.7 billion.\r\nAnalysts had projected $9.2 … [+1791 chars]"
+      "author": "James Van Straten",
+      "title": "Why Sandisk and Western Digital crashed 10% and what it means for bitcoin - CoinDesk",
+      "description": "Strong earnings from Sandisk and Western Digital were not enough to satisfy investors, raising questions about whether capital is beginning to rotate from AI winners into crypto.",
+      "url": "https://www.coindesk.com/markets/2026/08/06/why-sandisk-and-western-digital-crashed-10-and-what-it-means-for-bitcoin",
+      "urlToImage": "https://cdn.sanity.io/images/s3y3vcno/production/c2a4789a8ed7a8a55ccf74e856006ffc90555a80-3068x1938.png?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+      "publishedAt": "2026-08-06T11:16:19Z",
+      "content": "Sandisk (SNDK) and Western Digital (WDC), two of the biggest beneficiaries of the AI storage boom, were both 10% lower in pre-market trading Thursday, despite reporting strong quarterly results.\r\nSan… [+1055 chars]"
     },
     {
       "source": {
@@ -490,19 +581,6 @@
     {
       "source": {
         "id": null,
-        "name": "WLWT Cincinnati"
-      },
-      "author": "Fletcher Keel",
-      "title": "Despite no Powerball jackpot, winning $1 million ticket sold in Ohio - WLWT",
-      "description": "No one won Wednesday night's estimated $786 million Powerball jackpot, but one big-money ticket was sold in Ohio.",
-      "url": "https://www.wlwt.com/article/powerball-aug-5-2026-drawing-1-million-winner-ohio-numbers/73363562",
-      "urlToImage": "https://kubrick.htvapps.com/htv-prod/ibmig/cms/image/wlwt/37350856-37350856.jpg?crop=1.00xw%3A1.00xh%3B0%2C0&resize=1200%3A*",
-      "publishedAt": "2026-08-06T09:59:00Z",
-      "content": "No one won Wednesday night's estimated $786 million Powerball jackpot, but one big-money ticket was sold in Ohio.\r\nAccording to Powerball's website, an Ohio-sold ticket is a $1 million winner after f… [+1030 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "CNBC"
       },
       "author": "Samantha Subin",
@@ -554,19 +632,6 @@
     },
     {
       "source": {
-        "id": "fortune",
-        "name": "Fortune"
-      },
-      "author": "Jordan Blum",
-      "title": "Michael Dell’s son built a $13 billion home battery business—and he’s going on 30 years old - fortune.com",
-      "description": "Zach Dell is banking on a home electricity and battery rental business that offers backup power without buying an exorbitantly expensive system.",
-      "url": "https://fortune.com/2026/08/06/michael-dell-son-built-home-battery-business/",
-      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/10/Image_Headshot_CEO_Zach_Dell-e1761603594253.jpg?resize=1200,600",
-      "publishedAt": "2026-08-06T07:07:00Z",
-      "content": "Zach Dells goal is to install a Base Power home battery system in every backyard in Americaand in Europe and beyond for that matterso its fair to say theres a lot of room for growth.The son of legend… [+4604 chars]"
-    },
-    {
-      "source": {
         "id": "nbc-news",
         "name": "NBC News"
       },
@@ -590,19 +655,6 @@
       "urlToImage": null,
       "publishedAt": "2026-08-05T23:43:46Z",
       "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "AlterNet"
-      },
-      "author": "Matthew  Rozsa",
-      "title": "Trump’s bizarre pitch to Vegas voters: I might send gas prices up - alternet.org",
-      "description": "The president bragged about lowering costs—before pivoting to a warning that left experts sounding the alarm.",
-      "url": "https://www.alternet.org/trump-inflation-2677663414/",
-      "urlToImage": "https://www.alternet.org/media-library/file-photo-federal-reserve-chair-jerome-powell-looks-at-u-s-president-donald-trump-holding-a-document-during-a-tour-of-the-fed.jpg?id=62718665&width=1200&height=600&coordinates=0%2C60%2C0%2C60",
-      "publishedAt": "2026-08-05T23:13:00Z",
-      "content": "President Donald Trump has long attempted to deny the sour state of Americas economy, even as rampant inflation causes millions of people to struggle to make ends meet. Yet on Wednesday, during a ral… [+4344 chars]"
     },
     {
       "source": {
@@ -632,45 +684,6 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "MarketWatch"
-      },
-      "author": "Jaimy Lee",
-      "title": "Lilly’s revenue soars 48%, driven by demand for its GLP-1s - MarketWatch",
-      "description": "Mounjaro sales led the drugmaker’s stellar performance in the second quarter, bringing in $9.9 billion",
-      "url": "https://www.marketwatch.com/story/lillys-revenue-soars-48-driven-by-demand-of-its-glp-1s-7361c223",
-      "urlToImage": "https://images.mktw.net/im-76946661/social",
-      "publishedAt": "2026-08-05T20:45:00Z",
-      "content": "Eli Lilly, the American drug giant, had another record-breaking quarter. \r\nThe weight-loss injection Zepbound saw sales soar 46% in the second quarter to $4.9 billion. The FactSet consensus was for $… [+279 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Investor's Business Daily"
-      },
-      "author": null,
-      "title": "Stock Market Today: Dow Scores Record As SpaceX Craters; SharkNinja Soars - Investor's Business Daily",
-      "description": "Stock Market Today: The Dow Jones index rises Wednesday on word of a reopening deal for the Strait of Hormuz deal. AMD stock and SpaceX fall.",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-jobs-data-amd-stock-spacex-earnings/",
-      "urlToImage": "https://www.investors.com/wp-content/uploads/2024/12/Stock-wallstreet-flags-30-adobe.jpg",
-      "publishedAt": "2026-08-05T20:44:00Z",
-      "content": "Information in Investors Business Daily is for informational and educational purposes only and should not be construed as an offer, recommendation, solicitation, or rating to buy or sell securities. … [+1064 chars]"
-    },
-    {
-      "source": {
-        "id": "usa-today",
-        "name": "USA Today"
-      },
-      "author": "Anthony Thompson",
-      "title": "This is the salary needed to afford a typical US home in 2026 - USA Today",
-      "description": "The income needed to afford a typical U.S. home remains near a record high, with many buyers still priced out of the market, a new Redfin report says.",
-      "url": "https://www.usatoday.com/story/money/2026/08/05/income-needed-afford-typical-us-home-2026-redfin-report/91185869007/",
-      "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/08/05/USAT/91186119007-getty-images-2270295852.jpg?crop=1023,576,x0,y68&width=1023&height=576&format=pjpg&auto=webp",
-      "publishedAt": "2026-08-05T20:12:00Z",
-      "content": "Americans still need to earn nearly $110,000 a year to comfortably afford the typical home for sale in the United States, even as housing affordability has shown modest signs of improvement over the … [+4006 chars]"
-    },
-    {
-      "source": {
         "id": "cbs-news",
         "name": "CBS News"
       },
@@ -687,39 +700,13 @@
         "id": null,
         "name": "TheStreet"
       },
-      "author": "thestreet.com",
+      "author": "Hillary Remy, Celine Provini",
       "title": "Bank of America doubles down on Micron stock price for 2026 - thestreet.com",
-      "description": null,
+      "description": "One of the market's biggest semiconductor debates just got a fresh twist",
       "url": "https://www.thestreet.com/investing/stocks/bank-of-america-doubles-down-on-micron-stock-price-for-2026-semiconductor",
-      "urlToImage": null,
+      "urlToImage": "https://www.thestreet.com/.image/NDA6MDAwMDAwMDAzMTM1ODQ1/semiconductor-hearing.jpg?profile=share16-9",
       "publishedAt": "2026-08-05T19:55:23Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Fox Business"
-      },
-      "author": "Eric Revell",
-      "title": "Fed's Kashkari says central bank should raise interest rates now to avoid 'entrenched inflation problem' - Fox Business",
-      "description": "Neel Kashkari says corporate earnings and a resilient labor market show monetary policy isn't restrictive enough to bring inflation back to target.",
-      "url": "https://www.foxbusiness.com/economy/feds-kashkari-says-central-bank-should-raise-interest-rates-now-avoid-entrenched-inflation-problem",
-      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/03/0/0/neel-kashkari-interview-fox-business-getty.jpg?ve=1&tl=1",
-      "publishedAt": "2026-08-05T19:03:00Z",
-      "content": "Minneapolis Federal Reserve President Neel Kashkari on Wednesday outlined why he thinks the central bank should raise interest rates to curb persistent inflation and head off the need for more substa… [+3640 chars]"
-    },
-    {
-      "source": {
-        "id": "polygon",
-        "name": "Polygon"
-      },
-      "author": "Jen Glennon",
-      "title": "Every studio owned by EA, now that the gaming giant has gone private - Polygon.com",
-      "description": "EA has officially gone private. Here’s a rundown of all 20+ studios currently owned by Electronic Arts",
-      "url": "https://www.polygon.com/ea-all-studios-list-electronic-arts/",
-      "urlToImage": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/sergei-novikov-hinztoff-ss-unsplash.jpg?w=1600&h=900&fit=crop",
-      "publishedAt": "2026-08-05T18:29:18Z",
-      "content": "As of Aug. 4, Electronic Arts has gone private. The venerable American game developer was purchased by a group of buyers that includes the Saudi Arabian governments Public Investment Fund (PIF) and t… [+4750 chars]"
+      "content": "Memory stocks have always been among the most volatile in the semiconductor sector. They run hard when the cycle is right, then give back a lot of it when investors start pricing in the next downturn… [+5747 chars]"
     },
     {
       "source": {
@@ -772,6 +759,19 @@
       "urlToImage": "https://cdn.benzinga.com/cdn-cgi/image/width=1200,height=800,fit=crop/files/images/story/2026/08/05/Congress-Spending-And-Wasting-Your-Money.jpg",
       "publishedAt": "2026-08-05T11:22:20Z",
       "content": "Bitwise Chief Investment Officer Matt Hougan says the SEC is ready to step in with rule-making if the CLARITY Act misses Fridays deadline, arguing crypto will march ahead either way.\r\nHougan wrote in… [+1772 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Morningstar.com"
+      },
+      "author": "Morningstar",
+      "title": "Nvidia Stock: This Onetime Market Darling Is Now Surprisingly Undervalued - Morningstar",
+      "description": null,
+      "url": "https://global.morningstar.com/en-ca/stocks/nvidia-stock-this-onetime-market-darling-is-now-surprisingly-undervalued",
+      "urlToImage": null,
+      "publishedAt": "2026-08-05T10:05:58Z",
+      "content": null
     }
   ]
 }

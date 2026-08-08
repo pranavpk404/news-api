@@ -3,21 +3,86 @@
   "country": "us",
   "category": "health",
   "mode": "country",
-  "fetched_at": "2026-08-08T00:36:34.970495+00:00",
-  "articles_count": 66,
+  "fetched_at": "2026-08-08T03:13:21.047542+00:00",
+  "articles_count": 63,
   "articles": [
     {
       "source": {
+        "id": "cbs-news",
+        "name": "CBS News"
+      },
+      "author": "Faris  Tanyos",
+      "title": "Flesh-eating bacteria has killed 5 in Louisiana this year, officials say - CBS News",
+      "description": "A flesh-eating bacteria found in warm coastal waters is responsible for at least five deaths so far this year in Louisiana, state health officials reported Thursday.",
+      "url": "https://www.cbsnews.com/news/vibrio-vulnificus-flesh-eating-bacteria-5-dead-louisiana-2026/",
+      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/08/06/a5f9ac57-7a89-4010-8e4c-93cb4844aa4e/thumbnail/1200x630/33bcfa33ad210e5076c4be0082232725/gettyimages-179795898.jpg",
+      "publishedAt": "2026-08-06T22:00:00Z",
+      "content": "A flesh-eating bacteria found in warm coastal waters is responsible for at least five deaths so far this year in Louisiana, state health officials reported Thursday. \r\nThere have been at least nine t… [+2697 chars]"
+    },
+    {
+      "source": {
         "id": null,
-        "name": "BBC News"
+        "name": "Abcnews.com"
+      },
+      "author": "ABC News - Breaking News, Latest News and Videos",
+      "title": "Biting rabid beavers prompt partial closure of popular Maryland park - ABC News - Breaking News, Latest News and Videos",
+      "description": null,
+      "url": "https://abcnews.com/US/biting-rabid-beavers-prompt-partial-closure-popular-maryland/story?id\\\\u003d135422034",
+      "urlToImage": null,
+      "publishedAt": "2026-08-06T21:02:52Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Women's Health"
+      },
+      "author": "Korin Miller",
+      "title": "Low Levels of This Vitamin Were Just Linked to Dementia. Are You Getting Enough? - AOL.com",
+      "description": "Vitamin B12 was recently linked with dementia in a new study. Doctors explain how much you should be getting, and the major signs that your levels are off.",
+      "url": "https://www.womenshealthmag.com/health/a73368855/dementia-risk-vitamin-b12-study/",
+      "urlToImage": "https://hermes.media.static.aol.com/media/2026/08/06/f61004f6-2350-3d29-80d6-22c357bff792/69d63949-d662-42dc-8c2c-ba1cccfc42cb.jpg",
+      "publishedAt": "2026-08-06T20:15:13Z",
+      "content": "\"Hearst Magazines and AOL may earn commission or revenue on some items through these links.\"\r\nWhile vitamin B12 might not be as buzzy as calcium or an immediately recognizable household name like Vit… [+5841 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Abcnews.com"
+      },
+      "author": "Mary Kekatos",
+      "title": "4th case of 'rabbit fever' reported in New York. Here's what to know - 6abc Philadelphia",
+      "description": "Tularemia is a rare bacterial illness commonly spread by ticks or deer flies.",
+      "url": "https://abcnews.com/Health/rabbit-fever-amid-3-probable-cases-reported-new/story?id=135321741",
+      "urlToImage": "https://cdn.abcotvs.com/dip/images/19635722_080626-wabc-adobestock-tularemia-rabbit-fever-img.jpg?w=1600",
+      "publishedAt": "2026-08-06T18:01:18Z",
+      "content": "NEW YORK -- A fourth case of a rare bacterial illness has been detected on Long Island, health officials in New York said on Thursday.\r\nDr. Gregson Pigott, commissioner of the Suffolk County Departme… [+4434 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Financial Times"
       },
       "author": null,
-      "title": "Artificial Intelligence used to design brand new viruses - BBC",
-      "description": "Scientists made 16 successful viruses that had their genetic code designed by artificial intelligence.",
-      "url": "https://www.bbc.com/news/articles/c5y3j3ngevmo",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/e150/live/81e84950-91b8-11f1-bab9-173de0e7d358.jpg",
-      "publishedAt": "2026-08-06T18:01:52Z",
-      "content": "\"This is a next step in the complexity that's designable by generative AI, this is the first time generative AI has been used to design a complete genome, it's something that can replicate and have o… [+127 chars]"
+      "title": "AI creates first synthetic viruses - Financial Times",
+      "description": "Genomic language model has huge potential to redesign organisms such as bacteria",
+      "url": "https://www.ft.com/content/5ab33fb4-2636-4bb0-aa0e-3da6a8f71838?syn-25a6b1a6\\\\u003d1",
+      "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F1d8359dc-911b-4bbf-ada1-c01a22db92ef.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
+      "publishedAt": "2026-08-06T18:00:09Z",
+      "content": "Then $75 per month. Complete digital access to quality FT journalism on any device. Cancel anytime during your trial."
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "KABC-TV"
+      },
+      "author": "Ivan Pereira",
+      "title": "Measles exposure reported at Universal Studios Hollywood - ABC7 Los Angeles",
+      "description": "Health officials say vaccinated persons are likely protected.",
+      "url": "https://abc7.com/story/measles-exposure-reported-universal-studios-hollywood/19636492/",
+      "urlToImage": "https://cdn.abcotvs.com/dip/images/19637057_080626-measles-univ.jpg?w=1600",
+      "publishedAt": "2026-08-06T17:42:07Z",
+      "content": "Los Angeles County health officials said a person infected with measles visited Universal Studios Hollywood last month and potentially exposed others to the virus.\r\nThe county's Department of Public … [+2485 chars]"
     },
     {
       "source": {
@@ -34,16 +99,16 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "NPR"
+        "id": "ars-technica",
+        "name": "Ars Technica"
       },
-      "author": "Rob Stein",
-      "title": "A new flu vaccine geared to older people is coming soon - NPR",
-      "description": "The first mRNA-based flu shot to be approved by the Food and Drug Administration will be ready for the upcoming flu season. Moderna, the vaccine's maker",
-      "url": "https://www.npr.org/2026/08/06/nx-s1-5923342/moderna-mrna-flu-vaccine",
-      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3500x1969+0+0/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fae%2Fea%2Fef54df914f3689477d58c842edd5%2Fgettyimages-1228813221.jpg",
-      "publishedAt": "2026-08-06T17:06:41Z",
-      "content": "For the latest stories on the science of healthy living, subscribe to NPR's Health newsletter. \r\nThe Food and Drug Administration approved Moderna's mRNA-based vaccine against seasonal influenza for … [+3363 chars]"
+      "author": "Beth Mole",
+      "title": "Moderna’s mRNA flu shot earns FDA approval after rollercoaster review - Ars Technica",
+      "description": "Moderna's new flu vaccine, mFLUSIVA, is approved for all adults ages 50 and up.",
+      "url": "https://arstechnica.com/health/2026/08/modernas-mrna-flu-shot-earns-fda-approval-after-rollercoaster-review/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2020/12/GettyImages-1290558683.jpg",
+      "publishedAt": "2026-08-06T16:31:06Z",
+      "content": null
     },
     {
       "source": {
@@ -74,15 +139,15 @@
     {
       "source": {
         "id": null,
-        "name": "Abcnews.com"
+        "name": "Womansworld.com"
       },
-      "author": "ABC News - Breaking News, Latest News and Videos",
-      "title": "Measles exposure reported at Universal Studios Hollywood - ABC News - Breaking News, Latest News and Videos",
-      "description": null,
-      "url": "https://abcnews.com/US/measles-exposure-reported-universal-studios-hollywood/story?id\\\\u003d135422560",
-      "urlToImage": null,
-      "publishedAt": "2026-08-06T16:00:42Z",
-      "content": null
+      "author": "Cailey Griffin",
+      "title": "Do Statins Lower Blood Pressure? What To Know About This Surprising Side Effect - Woman's World",
+      "description": "Do statins lower blood pressure? A cardiologist explains the link, when this side effect can be a good thing and when too-low readings can be a red flag",
+      "url": "https://www.womansworld.com/wellness/heart-health/do-statins-lower-blood-pressure-a-cardiologist-shares-the-truth#article",
+      "urlToImage": "https://www.womansworld.com/wp-content/uploads/2026/08/do-statins-lower-blood-pressure.jpg?quality=86&strip=all",
+      "publishedAt": "2026-08-06T16:00:45Z",
+      "content": "You and your doctor have decided statins are the best option to lower your cholesterol. While youre excited about finally getting your cholesterol in check, you still have a lot of questions, particu… [+7065 chars]"
     },
     {
       "source": {
@@ -96,19 +161,6 @@
       "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2026/07/Ebola_Weixel_AP_MosesSawasawa.jpg?w=1280",
       "publishedAt": "2026-08-06T15:32:00Z",
       "content": "Skip to content\r\nNew reported cases of Ebola are outpacing the response capabilities from international health partners, a top World Health Organization (WHO) official said this week. \r\nWHO Director-… [+3839 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Foxweather.com"
-      },
-      "author": null,
-      "title": "Fourth case of rare, highly infectious 'rabbit fever' confirmed in New York City suburb - FOX Weather",
-      "description": "Rabbit fever cases are on the rise as a fourth case was confirmed in Suffolk County, prompting health officials to urge the public to stay aware and take precautions.",
-      "url": "https://www.foxweather.com/lifestyle/rare-highly-infectious-rabbit-fever-tick-new-york-long-island-suffolk-county-august-2026",
-      "urlToImage": "https://images.foxweather.com/static.foxweather.com/www.foxweather.com/content/uploads/2026/08/1024/512/gettyimages-2256095047-scaled.jpg?ve=1&tl=1",
-      "publishedAt": "2026-08-06T15:22:00Z",
-      "content": "LONG ISLAND, N.Y. — Rabbit fever cases are on the rise as a fourth case was confirmed in Suffolk County, prompting health officials to urge the public to stay aware and take precautions.\r\nTularemia, … [+2484 chars]"
     },
     {
       "source": {
@@ -139,6 +191,19 @@
     {
       "source": {
         "id": null,
+        "name": "STAT"
+      },
+      "author": "Jonathan Wosen",
+      "title": "Study reveals new role for tau, a top target for Alzheimer’s drug development - STAT",
+      "description": "The protein tau is top target for Alzheimer’s drug development, and a new study bolsters those efforts by describing a previously unknown role that tau plays in neurodegeneration.",
+      "url": "https://www.statnews.com/2026/08/06/research-finds-how-tau-targets-cells-structure-alzheimers-drug-development/",
+      "urlToImage": "https://www.statnews.com/wp-content/uploads/2026/08/C0508954-Tau_protein_clusters_TEM-1024x576.jpg",
+      "publishedAt": "2026-08-06T15:04:45Z",
+      "content": "In the race for new ways to treat Alzheimers and other devastating neurologic diseases, the protein tau has become a tantalizing target for drug developers. A new study lends support to those efforts… [+1182 chars]"
+    },
+    {
+      "source": {
+        "id": null,
         "name": "Womansworld.com"
       },
       "author": "Allison Nemetz, Kara Wahlgren, Courtney Shapiro, Isabelle Paquette",
@@ -152,28 +217,15 @@
     {
       "source": {
         "id": null,
-        "name": "Yahoo Entertainment"
+        "name": "Quanta Magazine"
       },
-      "author": "Kate Murphy",
-      "title": "2nd person dies in Florida from 'flesh-eating' bacteria found in oysters and swimming water: How to reduce your risk of a Vibrio vulnificus infection - Yahoo",
-      "description": "Florida confirmed the state's second death this year from the flesh-eating bacterium Vibrio vulnificus. Though cases are generally rare, here's how to preven...",
-      "url": "https://www.yahoo.com/news/us/article/2nd-person-dies-in-florida-from-flesh-eating-bacteria-found-in-oysters-and-swimming-water-how-to-reduce-your-risk-of-a-vibrio-vulnificus-infection-222930277.html",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/1a1fc2d3d0054842eb0b850f9c0cbe5f51223119fbeeed076370a9b47afa1e04/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2025-08%2Fa8b32220-77c5-11f0-b7fe-1e3a23fa3070",
-      "publishedAt": "2026-08-06T14:26:48Z",
-      "content": "Florida health officials confirmed on Thursday that a second person has died in the state from the flesh-eating bacterium Vibrio vulnificus. The second death was reported in Marion County, and the fi… [+4458 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "WTOP"
-      },
-      "author": "Will Vitka",
-      "title": "Fisherman bit in 2nd beaver attack at Maryland state park - WTOP",
-      "description": "Maryland wildlife officials have closed more areas around Hunting Creek Lake after a 19-year-old fisherman was bitten on the ankle by a beaver Wednesday morning.",
-      "url": "https://wtop.com/maryland/2026/08/they-dont-give-a-dam-2nd-beaver-attack-prompts-more-closures-at-md-s-cunningham-falls-state-park/",
-      "urlToImage": "https://wtop.com/wp-content/uploads/2026/08/GettyImages-2258500837.jpg",
-      "publishedAt": "2026-08-06T14:03:22Z",
-      "content": "The beavers at Cunningham Falls State Park in Frederick County, Maryland, are having a very strange couple of weeks.\r\nMaryland wildlife officials have closed more areas around Hunting Creek Lake afte… [+1732 chars]"
+      "author": null,
+      "title": "How Does Touch Lead To Pain Or Pleasure? - Quanta Magazine",
+      "description": "Neuroscientist Ishmail Abdus-Saboor discusses efforts to understand how skin contact can be painful or pleasurable, and what touch-obsessed naked mole rats might teach us about human social behavior.",
+      "url": "https://www.quantamagazine.org/how-does-touch-lead-to-pain-or-pleasure-20260806/",
+      "urlToImage": "https://www.quantamagazine.org/wp-content/uploads/2026/08/JOW-S5-E5-Social-LOGO.jpg",
+      "publishedAt": "2026-08-06T13:40:16Z",
+      "content": "Pain and pleasure seem like simple facts of life, however they are anything but that. Neuroscientists still cannot say why physical pain differs from psychological pain, for instance, or why a loved … [+58928 chars]"
     },
     {
       "source": {
@@ -200,19 +252,6 @@
       "urlToImage": "https://dims.apnews.com/dims4/default/7a0ec5c/2147483647/strip/true/crop/1777x1184+0+296/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F57%2Fac%2F06dd5a54ad5e0b030702e36b8cbb%2Ffc4348235e534c8181eea9484da81edf",
       "publishedAt": "2026-08-06T12:26:00Z",
       "content": "Dr. Stacy Norton was only 7 years old when her mother died of colon cancer, one of several family members struck by aggressive tumors at unusually young ages. Decades later, Norton rolled up her slee… [+5625 chars]"
-    },
-    {
-      "source": {
-        "id": "fox-news",
-        "name": "Fox News"
-      },
-      "author": null,
-      "title": "The 8 healthiest beans you should be eating more often, according to nutrition expert - Fox News",
-      "description": "A nutrition expert reveals the eight healthiest beans and legumes for protein, fiber and cholesterol benefits, plus easy ways to prep canned beans.",
-      "url": "https://www.foxnews.com/food-drink/8-healthiest-beans-you-should-eating-more-often-according-nutrition-expert",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/08/fde97c81-black_beans.jpg",
-      "publishedAt": "2026-08-06T12:00:54Z",
-      "content": "Beans and legumes are affordable, protein-packed and health-promoting foods that deserve a more prominent place on your plate, health experts say.\r\n\"Fewer than 14% of American adults eat beans on a g… [+4767 chars]"
     },
     {
       "source": {
@@ -256,19 +295,6 @@
     {
       "source": {
         "id": null,
-        "name": "Thebeaconnews.org"
-      },
-      "author": "Suzanne King",
-      "title": "Missouri and Kansas to see double-digit ACA premium hikes again - thebeaconnews.org",
-      "description": "Preliminary rate filings show every ACA marketplace carrier planning to raise prices in 2027. Insurers blame rising costs.",
-      "url": "https://thebeaconnews.org/stories/2026/08/06/missouri-and-kansas-to-see-double-digit-aca-premium-hikes-again/",
-      "urlToImage": "https://thebeaconnews.org/wp-content/uploads/2026/08/IMG_4319.jpeg",
-      "publishedAt": "2026-08-06T11:00:00Z",
-      "content": "Kansas Citians who buy health insurance through healthcare.gov can expect to pay much more for monthly premiums next year.\r\nAccording to preliminary rate filings submitted to state insurance regulato… [+8053 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "DogTime"
       },
       "author": "Mugdha Singh",
@@ -291,6 +317,32 @@
       "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/BGZYOC5SJZEYZJ4FK6NIBKFBWU.jpg&w=1440",
       "publishedAt": "2026-08-06T10:32:18Z",
       "content": "There was a time when bookstores devoted entire shelves to brain fitness even though no one really called it that. Crossword collections. Sudoku. Memory games. Later came adult coloring books. Each p… [+54 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Studyfinds.com"
+      },
+      "author": "StudyFinds Analysis",
+      "title": "Could Viagra Help Fight Cancer? Study Finds Surprising Cholesterol Link - StudyFinds",
+      "description": "A new study links Viagra and statins to lower five-year death risk in cancer patients, with a cholesterol-based mechanism.",
+      "url": "https://studyfinds.com/viagra-fights-cancer-cholesterol/",
+      "urlToImage": "https://studyfinds.com/wp-content/uploads/2021/03/Tablets-scattered-on-the-table-of-the.jpeg?ver=1705337154",
+      "publishedAt": "2026-08-06T10:06:22Z",
+      "content": "(© H_Ko - stock.adobe.com)\r\n<ul><li>Viagra’s active ingredient, sildenafil, appears to trap cholesterol inside cancer cells, potentially limiting their ability to spread.</li><li>In mice, sildenafil … [+9106 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "NPR"
+      },
+      "author": "Brian Mann",
+      "title": "Hospital staff said he was faking it and released him. He died from an overdose soon after - npr.org",
+      "description": "Addiction treatments are safe, effective — and rarely offered to patients. That's because many doctors and nurses still view people with alcohol or drug addiction with suspicion and hostility.",
+      "url": "https://www.npr.org/2026/08/06/nx-s1-5845162/addiction-treatment-overdose-deaths",
+      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1892x1064+0+259/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fc9%2F50%2F656f7951468e9e923ff831f2ea7b%2Fmilwaukie-1.jpg",
+      "publishedAt": "2026-08-06T09:52:45Z",
+      "content": "On a cold December night in 2023, the staff at Providence Milwaukie Hospital in Milwaukie, Ore., called local police. They wanted help getting one of their patients, a 26-year-old man named Jean Desc… [+13437 chars]"
     },
     {
       "source": {
@@ -386,19 +438,6 @@
     {
       "source": {
         "id": null,
-        "name": "Eatingwell.com"
-      },
-      "author": "https://www.facebook.com/EatingWell/",
-      "title": "This Habit May Increase the Risk of Dementia—Here’s the Easy Solution, and the Gear We Recommend - EatingWell",
-      "description": "Dementia prevention starts with ditching a sedentary lifestyle. Moving more may help lower risk, so we gathered our favorite walking gear, from $16 at Amazon.",
-      "url": "https://www.eatingwell.com/sedentary-dementia-risk-editor-loved-walking-gear-amazon-12035041",
-      "urlToImage": "https://www.eatingwell.com/thmb/Rt9kY8PClxIUyJHqYzbW9XJbo_M=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/etw--dementia-risk-may-go-up-from-this-activity-tout-03ecfbedab6140209b6685695cdf6e23.jpg",
-      "publishedAt": "2026-08-06T07:00:00Z",
-      "content": "Many of us have seen the impact of dementia on loved ones. Its a condition we think arrives much later in life, but the things we do now have a long-lasting impact. We recently discussed one behavior… [+5026 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "KESQ"
       },
       "author": "Peter Daut",
@@ -408,19 +447,6 @@
       "urlToImage": "https://kesq.b-cdn.net/2020/03/doctors-medical-Stethoscope_1530026046025_12122362_ver1.0.jpg",
       "publishedAt": "2026-08-06T03:42:46Z",
       "content": "RANCHO MIRAGE, Calif. (KESQ)-- Valley doctors say they're seeing an increase in patients with \"brain fog.\"\r\nBrain fog is a term used to describe a range of cognitive symptoms, including impaired conc… [+645 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Prevention.com"
-      },
-      "author": "Samantha MacAvoy",
-      "title": "Is It Healthy to Eat a Banana Every Day? Here's What Dietitians Think - AOL.com",
-      "description": "Dietitians reveal how eating a banana every day can benefit your health, along with possible drawbacks and side effects of eating too many.",
-      "url": "https://www.prevention.com/food-nutrition/a73346535/can-you-eat-a-banana-every-day/",
-      "urlToImage": "https://hermes.media.static.aol.com/media/2026/08/05/30fbd6b4-097c-3bec-b6f3-60d93f49abb3/c95c227e-6d3f-4163-a868-e5c3f3ad6ba5.jpeg",
-      "publishedAt": "2026-08-06T01:36:13Z",
-      "content": "Fruits are some of the healthiest foods you can eatand that includes bananas. Still, they sometimes get a bad rap for their high carbohydrate content. So we were wondering: is eating a banana every d… [+7187 chars]"
     },
     {
       "source": {
@@ -490,19 +516,6 @@
     {
       "source": {
         "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Michael Dahlstrom",
-      "title": "Beach discovery takes sinister turn as major catastrophe looms on Australia's doorstep - Yahoo News Australia",
-      "description": "The timing of the sad find sparked increased concern.",
-      "url": "https://au.news.yahoo.com/beach-discovery-takes-sinister-turn-as-major-catastrophe-looms-on-australias-doorstep-220702062.html",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/5fa707e36f2e0bbff643b1079802560a11146c912cfefc188ba43651449cab23/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fpelican-on-beach_1830.png",
-      "publishedAt": "2026-08-05T22:07:02Z",
-      "content": "A dog walker's stroll along a quiet Australian beach this week took an ominous turn after he spotted a dark mass on the shoreline.\r\nAt first, David Parker thought he'd spotted \"someone's old coat\" be… [+2400 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "Medical Xpress"
       },
       "author": "Sanjukta Mondal",
@@ -538,19 +551,6 @@
       "urlToImage": "https://gray-wsfa-prod.gtv-cdn.com/resizer/v2/E2BRD46BCVBV5BPNQXB5HNAL2Y.jpg?auth=f5681ad3b881a546596ad93d0be999eac4b08024c4a8f9b08a400d8d1b179ed0&width=1200&height=600&smart=true",
       "publishedAt": "2026-08-05T20:59:00Z",
       "content": "MONTGOMERY, Ala. (WSFA) - A raccoon found in Montgomery has tested positive for rabies, the Alabama Department of Public Health confirmed.\r\nThe wild animal was captured by a wildlife pest control com… [+1750 chars]"
-    },
-    {
-      "source": {
-        "id": "fox-news",
-        "name": "Fox News"
-      },
-      "author": null,
-      "title": "Viagra could do more than advertised as study reveals surprising health superpower - Fox News",
-      "description": "Sildenafil, Viagra's active ingredient, may restrict cancer metastasis by limiting cancer cells' cholesterol access, a new study has found.",
-      "url": "https://www.foxnews.com/health/viagra-could-do-more-than-advertised-study-reveals-surprising-health-superpower",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2021/12/viagrapill.jpg",
-      "publishedAt": "2026-08-05T20:31:31Z",
-      "content": "Viagra could do more than give men a boost in the bedroom, as new research suggests it may have benefits for cancer patients.\r\nThe prescription medication, which is manufactured and distributed by Vi… [+3626 chars]"
     },
     {
       "source": {
@@ -607,19 +607,6 @@
     {
       "source": {
         "id": null,
-        "name": "WHIO"
-      },
-      "author": "Brooke Jones, WHIO.com",
-      "title": "Mosquitoes at Montgomery County park test positive for West Nile Virus; Public Health to spray area - WHIO TV",
-      "description": "Public Health - Dayton & Montgomery County will be spraying for mosquitoes in a local park tonight.",
-      "url": "https://www.whio.com/news/local/mosquitoes-montgomery-county-park-test-postivie-west-nile-virus-public-health-spray-area/IPRO7RTUHVAXPDMYQ2RO4WJCAE/",
-      "urlToImage": "https://cmg-cmg-tv-10040-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FH2XBOONQGJACTLIKTS7R7GXYTI.jpeg?auth=4293ae8a7aa79ae8926ad702261a3f25742a27769925b49501f3a6f6b46c7a76&width=1200&height=630&smart=true",
-      "publishedAt": "2026-08-05T17:50:02Z",
-      "content": "DAYTON — Public Health - Dayton &amp; Montgomery County will be spraying for mosquitoes in a local park tonight. \r\n[DOWNLOAD: Free WHIO-TV News app for alerts as news breaks]\r\nThe move comes after th… [+537 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "KABC-TV"
       },
       "author": "Hannah Moore",
@@ -629,19 +616,6 @@
       "urlToImage": "https://cdn.abcotvs.com/dip/images/19630736_080526-wpvi-mom-spider-bite-1230pm-vid.jpg?w=1600",
       "publishedAt": "2026-08-05T17:39:44Z",
       "content": "WICHITA, Ks. -- A Kansas mother is fighting for her life after a spider bite at Cheney Lake turned into a life-changing medical emergency.\r\nOn May 28, Britagne Miller said she and her family were at … [+3465 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "NPR"
-      },
-      "author": "NPR",
-      "title": "Scientists say they have found a new clue to how COVID-19 may cause long COVID - NPR",
-      "description": "In the journal <em>Nature</em>, the team, led by researchers at the University of Texas at Austin, found that infection with the coronavirus that causes COVID can apparently reactivate other viruses that had been dormant in their bodies.",
-      "url": "https://www.npr.org/2026/08/05/g-s1-137479/long-covid-19",
-      "urlToImage": "https://media.npr.org/include/images/facebook-default-wide-s1400-c85.jpg",
-      "publishedAt": "2026-08-05T17:29:23Z",
-      "content": "Scientists say they have found a new clue to how COVID-19 may cause long COVID.\r\nThe researchers studied more than 1,100 patients who were hospitalized for COVID at 20 hospitals around the country.\r\n… [+479 chars]"
     },
     {
       "source": {
@@ -672,19 +646,6 @@
     {
       "source": {
         "id": null,
-        "name": "Boing Boing"
-      },
-      "author": "Ellsworth Toohey",
-      "title": "A dietitian's verdict: multivitamins are useless - Boing Boing",
-      "description": "A dietitian rates 10 supplements: the multivitamin memory gain was a quarter of a word in a 20-word test.",
-      "url": "https://boingboing.net/2026/08/05/supplements-quarter-of-a-word.html",
-      "urlToImage": "https://i0.wp.com/boingboing.net/wp-content/uploads/2026/08/B_vitamin_supplement_tablets-scaled.jpg?fit=2560%2C2043&quality=60&ssl=1",
-      "publishedAt": "2026-08-05T16:00:00Z",
-      "content": "Dietitian Josie Porter, author of How Not to Take Supplements, sized up ten popular supplements for the Guardian. One of the largest multivitamin trials found a memory improvement in older adults, bu… [+1036 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "The-independent.com"
       },
       "author": "Hunter Bennett",
@@ -707,6 +668,19 @@
       "urlToImage": "https://c.ndtvimg.com/2026-08/1pmm94b_chewing-gum_625x300_05_August_26.png?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
       "publishedAt": "2026-08-05T15:06:39Z",
       "content": "Head and neck cancer is one of the most common cancers worldwide, which affects the mouth, throat, voice box, nose, and nearby tissues. A lot of these cases are linked to tobacco and alcohol use. How… [+4359 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Prevention.com"
+      },
+      "author": "Samantha MacAvoy",
+      "title": "Is It Healthy to Eat a Banana Every Day? Here's What Dietitians Think - AOL.com",
+      "description": "Dietitians reveal how eating a banana every day can benefit your health, along with possible drawbacks and side effects of eating too many.",
+      "url": "https://www.prevention.com/food-nutrition/a73346535/can-you-eat-a-banana-every-day/",
+      "urlToImage": "https://hermes.media.static.aol.com/media/2026/08/05/30fbd6b4-097c-3bec-b6f3-60d93f49abb3/c95c227e-6d3f-4163-a868-e5c3f3ad6ba5.jpeg",
+      "publishedAt": "2026-08-05T14:08:11Z",
+      "content": "Fruits are some of the healthiest foods you can eatand that includes bananas. Still, they sometimes get a bad rap for their high carbohydrate content. So we were wondering: is eating a banana every d… [+7187 chars]"
     },
     {
       "source": {
@@ -831,38 +805,25 @@
         "name": "ScienceAlert"
       },
       "author": "Peter Dockrill",
-      "title": "GLP-1 Drugs May Have a Hidden Effect on Your Eyes, Study Finds - Yahoo",
-      "description": "The effects could go much further than we expected.",
+      "title": "GLP-1 Drugs May Have a Hidden Effect on Your Eyes, Study Finds - ScienceAlert",
+      "description": "GLP-1 drugs such as Ozempic have transformed healthcare in recent years, dramatically altering how we treat conditions like type 2 diabetes and obesity.",
       "url": "https://www.sciencealert.com/glp-1-drugs-may-have-a-hidden-effect-on-your-eyes-study-finds",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/598d0b79a615ecc158edc48f6b4d85861e07e70cb4a5611cb8eb3cefc05bf004/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsciencealert_160%2F4d07d34d79b22a0d6cf49a33bdffe8f0",
-      "publishedAt": "2026-08-05T05:00:00Z",
-      "content": "GLP-1 drugs such as Ozempic have transformed healthcare in recent years, dramatically altering how we treat conditions like type 2 diabetes and obesity.\r\nBut while the medications are primarily used … [+4651 chars]"
+      "urlToImage": "https://www.sciencealert.com/images/2026/08/eye-closeup.jpg",
+      "publishedAt": "2026-08-05T05:01:07Z",
+      "content": "GLP-1 drugs such as Ozempic have transformed healthcare in recent years, dramatically altering how we treat conditions like type 2 diabetes and obesity.\r\nBut while the medications are primarily used … [+4688 chars]"
     },
     {
       "source": {
-        "id": null,
-        "name": "The Conversation Africa"
+        "id": "the-times-of-india",
+        "name": "The Times of India"
       },
-      "author": "Sharayah Carter",
-      "title": "Eating less protein may ‘slow’ ageing. But here’s why the evidence isn’t clear-cut - The Conversation",
-      "description": "A new review links eating less protein to longer lifespans and improved metabolism. But lots of this evidence comes from animals, not humans.",
-      "url": "https://theconversation.com/eating-less-protein-may-slow-ageing-but-heres-why-the-evidence-isnt-clear-cut-288388",
-      "urlToImage": "https://images.theconversation.com/files/751648/original/file-20260803-59-je5jym.jpg?ixlib=rb-4.1.1&rect=0%2C480%2C5759%2C2879&q=45&auto=format&w=1356&h=668&fit=crop",
-      "publishedAt": "2026-08-05T00:34:00Z",
-      "content": "Protein powders. Protein yoghurt. Protein snack bars. Protein is everywhere. Supermarket shelves and social media are full of messages encouraging us to eat more of this nutrient. \r\nBut now, a new re… [+5794 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "PsyPost"
-      },
-      "author": "Karina Petrova",
-      "title": "A simple 30-minute daily routine may help slow cognitive decline - PsyPost",
-      "description": "A 12-week program requiring older adults to read out loud, write by hand, and solve basic math problems for 30 minutes a day resulted in measurable improvements on cognitive tests.",
-      "url": "https://www.psypost.org/a-simple-30-minute-daily-routine-may-help-slow-cognitive-decline/",
-      "urlToImage": "https://www.psypost.org/wp-content/uploads/2026/08/handwriting-with-pen.jpg",
-      "publishedAt": "2026-08-05T00:18:34Z",
-      "content": "A daily routine of reading out loud, writing by hand, and doing basic math might help older adults maintain their memory and thinking skills. A 12-week program consisting of these three specific exer… [+6320 chars]"
+      "author": "Aadya Jha",
+      "title": "One egg, two eggs or more? Cardiologist reveals the ideal daily number for a healthy heart and cholesterol - The Times of India",
+      "description": "Eggs have had a complicated reputation for decades. They have been praised as one of the best sources of protein and, at the same time, blamed for raising cholesterol and harming the heart. Many people still hesitate before eating an extra egg, wondering if t…",
+      "url": "https://timesofindia.indiatimes.com/health/one-egg-two-eggs-or-more-cardiologist-reveals-the-ideal-daily-number-for-a-healthy-heart-and-cholesterol/photostory/132831744.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-132831912,width-1280,height-720,imgsize-28964,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-08-05T03:57:00Z",
+      "content": "For years, eggs were judged almost entirely by the amount of cholesterol found in the yolk. One large egg contains roughly 200 mg of cholesterol, which sounds like a lot. But modern research has show… [+1224 chars]"
     }
   ]
 }

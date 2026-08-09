@@ -3,21 +3,34 @@
   "country": "us",
   "category": "health",
   "mode": "country",
-  "fetched_at": "2026-08-09T08:25:40.364854+00:00",
-  "articles_count": 59,
+  "fetched_at": "2026-08-09T10:18:41.493464+00:00",
+  "articles_count": 62,
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "The Star Online"
+      },
+      "author": "DPA",
+      "title": "How much coffee is too much coffee for your health? - The Star",
+      "description": "This popular beverage is beneficial for our health – up to a certain extent.",
+      "url": "https://www.thestar.com.my/lifestyle/health/2026/08/06/here039s-how-much-coffee-you-can-drink-for-your-health",
+      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2026/07/31/4036540.jpg",
+      "publishedAt": "2026-08-08T10:06:00Z",
+      "content": null
+    },
     {
       "source": {
         "id": "cnn",
         "name": "CNN"
       },
-      "author": "CNN",
-      "title": "5 Things Weekly News Quiz - CNN",
-      "description": "A raging wildfire. A pivotal election. A moon collision. What do you remember from the week that was?",
-      "url": "https://www.cnn.com/interactive/2026/08/us/cnn-5-things-news-quiz-august-7-sec/",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/20260806-news-quiz-split-080626.jpg?c=original",
-      "publishedAt": "2026-08-08T04:34:44Z",
-      "content": "Sony Pictures and Marvels Spider-Man: Brand New Day soared to the second-biggest North American opening weekend ever with a $355 million haul at the box office, according to industry experts, just be… [+152 chars]"
+      "author": "Katie Hunt",
+      "title": "Strange phenomenon of shadow bands captivates scientists as a total solar eclipse nears - CNN",
+      "description": "Solar eclipse viewers often witness a phenomenon known as shadow bands just before and after totality. An upcoming eclipse offers a new chance to study this mystery.",
+      "url": "https://www.cnn.com/2026/08/08/science/shadow-bands-total-solar-eclipse",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2147613449.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2026-08-08T09:00:29Z",
+      "content": "Racing water. Phantom serpents. Rippling patterns of light and dark.\r\nSolar eclipse watchers have for centuries vividly described an eerie phenomenon known as shadow bands that appears just before an… [+8606 chars]"
     },
     {
       "source": {
@@ -87,6 +100,19 @@
     {
       "source": {
         "id": null,
+        "name": "Turn to 10"
+      },
+      "author": "LEANNA FAULK, NBC 10 NEWS",
+      "title": "Providence woman attacked by raccoon while pulling weeds in backyard - WJAR",
+      "description": "A Providence woman is recovering after she was attacked by a raccoon while pulling weeds in her backyard earlier this week.",
+      "url": "https://turnto10.com/news/local/providence-woman-attacked-raccoon-while-pulling-weeds-backyard-vassar-avenue-epidemiologist-august-7-2026",
+      "urlToImage": "https://turnto10.com/resources/media2/16x9/1920/1320/center/90/0024c8cd-e990-41e3-85cf-b427dbf43976-11PPPVDRACCOONATTACK.transferxcodemix299_frame_520.jpeg",
+      "publishedAt": "2026-08-07T23:54:48Z",
+      "content": "PROVIDENCE, R.I. (WJAR) A Providence woman is recovering after she was attacked by a raccoon while pulling weeds in her backyard earlier this week.\r\nProvidence police said the attack happened on the … [+2577 chars]"
+    },
+    {
+      "source": {
+        "id": null,
         "name": "fox8.com"
       },
       "author": "Justin Dennis",
@@ -113,15 +139,28 @@
     {
       "source": {
         "id": null,
-        "name": "Upworthy"
+        "name": "Phys.Org"
       },
-      "author": "Tod Perry",
-      "title": "Yale expert shares 5 steps to rewire your brain for happiness with no weird tricks - upworthy.com",
-      "description": "It's counterintuitive, but our mental default settings may not be setting us up for true happiness.",
-      "url": "https://www.upworthy.com/yale-expert-shares-5-steps-to-rewire-your-brain-for-happiness-with-no-weird-tricks/",
-      "urlToImage": "https://www.upworthy.com/wp-content/uploads/sites/2/2026/08/Happy-woman.jpg",
-      "publishedAt": "2026-08-07T20:38:43Z",
-      "content": null
+      "author": "Paul Arnold",
+      "title": "Tiny floating magnet detects ultrafaint magnetic fields at room temperature - Phys.org",
+      "description": "Measuring faint magnetic fields is useful in a number of areas, including mapping brain activity, monitoring hearts and probing fundamental physics. Typically, picking up such weak signals requires expensive or bulky equipment, such as liquid-helium cooling t…",
+      "url": "https://phys.org/news/2026-08-tiny-magnet-ultrafaint-magnetic-fields.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/a-tiny-levitating-magn.jpg",
+      "publishedAt": "2026-08-07T20:20:02Z",
+      "content": "Measuring faint magnetic fields is useful in a number of areas, including mapping brain activity, monitoring hearts and probing fundamental physics. Typically, picking up such weak signals requires e… [+3332 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Raleigh News & Observer"
+      },
+      "author": "Hanna Wickes",
+      "title": "The Early Prostate Cancer Symptoms Too Many Men Don’t Realize Could Be Warning Signs - Raleigh News & Observer",
+      "description": "Prostate cancer symptoms are often subtle. Doctors explain the early warning signs men shouldn’t ignore, when to get screened and when to see a urologist.",
+      "url": "https://www.newsobserver.com/living/article316802504.html",
+      "urlToImage": "https://www.miamiherald.com/public/latest-news/8rqpbx/picture316802780/alternates/LANDSCAPE_1200/GettyImages-141507078.jpg",
+      "publishedAt": "2026-08-07T20:00:00Z",
+      "content": "Living\r\nProstate cancer symptoms can be so subtle that many men dismiss the earliest warning signs, and the disease is projected to be the most commonly diagnosed cancer among U.S. males in 2026. Doc… [+3751 chars]"
     },
     {
       "source": {
@@ -190,6 +229,19 @@
     },
     {
       "source": {
+        "id": null,
+        "name": "Simplyrecipes.com"
+      },
+      "author": "https://www.facebook.com/simplyrecipes",
+      "title": "3 Easy Ways To Remove Odors From Your Stainless Steel Water Bottle - Simply Recipes",
+      "description": "Once you know where to look, keeping your bottle fresh is just a matter of routine.",
+      "url": "https://www.simplyrecipes.com/three-ways-to-remove-odors-from-stainless-steel-water-bottle-12032156",
+      "urlToImage": "https://www.simplyrecipes.com/thmb/0vB83gwyXmNdiF4YYj_nfT6JPP0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Simply-Recipes-Stainless-Water-Bottle-LEAD-01-OPTION-03-2e6eb80a2b3f41c29dfaf143e5d05b75.jpg",
+      "publishedAt": "2026-08-07T17:03:00Z",
+      "content": "Recently, during a morning workout, I noticed my water bottle was doing me dirty. I showed up with a freshly washed bottle filled with cold water, and every time Id take a sip, the water would taste … [+2957 chars]"
+    },
+    {
+      "source": {
         "id": "fox-news",
         "name": "Fox News"
       },
@@ -203,19 +255,6 @@
     },
     {
       "source": {
-        "id": "the-washington-post",
-        "name": "The Washington Post"
-      },
-      "author": "Erica Sloan",
-      "title": "Avoiding these 3 risk factors might buy you 13 more dementia-free years - The Washington Post",
-      "description": "New research finds that people who steer clear of key cardiovascular hazards at midlife live much longer before developing dementia.",
-      "url": "https://www.washingtonpost.com/wellness/2026/08/07/avoiding-these-risk-factors-might-delay-dementia-by-13-years/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/AEE6LP55UWLI7R6L24EJOZO6JU.jpg&w=1440",
-      "publishedAt": "2026-08-07T17:00:01Z",
-      "content": "The link between cardiovascular health and dementia is well established; research shows that whats good for your heart generally is also good for your brain. Now, a new study suggests that avoiding a… [+133 chars]"
-    },
-    {
-      "source": {
         "id": null,
         "name": "Futurism"
       },
@@ -226,6 +265,19 @@
       "urlToImage": "https://s.yimg.com/lo/mysterio/api/215d0afccbdf215c8e9db70faee2f308ea1d6984d344adf02e70bb7efbdf2ab4/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ffuturism_981%2Fbb95c18ca09e1f0a453cd098a9f10231",
       "publishedAt": "2026-08-07T16:53:19Z",
       "content": "Even notorious anti-vaxxer and US health secretary Robert F Kennedy Jr had to urge families to vaccinate their children against measles last week.\r\nDespite being an entirely preventable disease thank… [+2652 chars]"
+    },
+    {
+      "source": {
+        "id": "nbc-news",
+        "name": "NBC News"
+      },
+      "author": "Lily Alvino",
+      "title": "How 3 health factors can help delay dementia for up to 13 years - NBC News",
+      "description": "New research from NYU Langone Health found that people who avoid three vascular risk factors in middle age had about 13 more dementia-free years.",
+      "url": "https://www.nbcnews.com/health/aging/delay-dementia-health-factors-diabetes-blood-pressure-smoking-memory-rcna590815",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-08/260805-blood-pressure-stock-mn-1605-08d4f4.jpg",
+      "publishedAt": "2026-08-07T16:45:55Z",
+      "content": "It may be possible to ward off or prevent one of the most common types of dementia, a new long-term study suggests.\r\nThe risk of cognitive decline increases as we get older, with about 42% of America… [+3414 chars]"
     },
     {
       "source": {
@@ -330,6 +382,19 @@
       "urlToImage": "https://19thnews.org/wp-content/uploads/2026/08/birth-bands_3.jpg",
       "publishedAt": "2026-08-07T14:42:05Z",
       "content": "Hospitals across the U.S. are trying to reduce maternal deaths and complications after pregnancies using one small tool: a silicone wristband stamped with the declaration I Gave Birth.\r\nThe wristband… [+9131 chars]"
+    },
+    {
+      "source": {
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "author": "Ars Contributors",
+      "title": "AI chatbots have failed people in crisis. Can that be fixed? - Ars Technica",
+      "description": "Clinicians and researchers say AI companies need to open up their safety data.",
+      "url": "https://arstechnica.com/ai/2026/08/ai-chatbots-have-failed-people-in-crisis-can-that-be-fixed/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/mentalhealthaichat-1152x648.jpg",
+      "publishedAt": "2026-08-07T13:49:37Z",
+      "content": null
     },
     {
       "source": {
@@ -451,19 +516,6 @@
     {
       "source": {
         "id": null,
-        "name": "Nature.com"
-      },
-      "author": null,
-      "title": "A clinically validated framework for auditing AI chatbot behavior in mental health interactions - nature.com",
-      "description": "Across 810 conversations, an evaluation framework finds that AI chatbots often amplify simulated users’ psychological vulnerabilities, revealing persistent safety risks in mental health contexts.",
-      "url": "https://www.nature.com/articles/s41591-026-04577-2",
-      "urlToImage": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41591-026-04577-2/MediaObjects/41591_2026_4577_Fig1_HTML.png",
-      "publishedAt": "2026-08-07T09:40:18Z",
-      "content": "We evaluated the mental-health safety of AI chatbots using Petri36an agentic red-teaming framework for large-scale, multi-turn auditing. In Petri, one model simulates a user and adversarially engages… [+27164 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "ScienceAlert"
       },
       "author": "David Nield",
@@ -490,6 +542,19 @@
     {
       "source": {
         "id": null,
+        "name": "Emjreviews.com"
+      },
+      "author": "Rana Zarour",
+      "title": "High Intake of Artificial Sweeteners Linked to Cognitive Decline - EMJ",
+      "description": "A long-term prospective study links high artificial sweetener consumption to faster cognitive aging. Read more about the clinical findings.",
+      "url": "https://www.emjreviews.com/neurology/news/high-intake-of-artificial-sweeteners-linked-to-cognitive-decline/",
+      "urlToImage": "https://www.emjreviews.com/wp-content/uploads/2026/08/AdobeStock_1955153900.jpeg",
+      "publishedAt": "2026-08-07T07:02:09Z",
+      "content": "HIGH consumption of artificial sweeteners is associated with accelerated global cognitive decline over an eight-year study period.\r\nLongitudinal Findings on Artificial Sweeteners and Cognitive Declin… [+2538 chars]"
+    },
+    {
+      "source": {
+        "id": null,
         "name": "woman&home"
       },
       "author": "Grace Walsh",
@@ -499,6 +564,19 @@
       "urlToImage": "https://cdn.mos.cms.futurecdn.net/cWvRQjE9YSJZhreDJcyf5M-1920-80.jpg",
       "publishedAt": "2026-08-07T06:36:45Z",
       "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Eatingwell.com"
+      },
+      "author": "https://www.facebook.com/EatingWell/",
+      "title": "Eating Avocado May Lower a Key Heart Disease Risk Marker, New Study Finds - eatingwell.com",
+      "description": "A new study found that eating one avocado daily lowered LDL particle concentration, a key heart disease risk marker, in adults with obesity.",
+      "url": "https://www.eatingwell.com/avocado-heart-disease-cholesterol-study-12036316",
+      "urlToImage": "https://www.eatingwell.com/thmb/AhOEPF1DHJqwvHLfCCX0cQMNyTg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Eating-1-Avocado-a-Day-May-Lower-This-Key-Heart-Disease-Risk-Marker-67114b943a8543fabbb4b3379d7faae8.jpg",
+      "publishedAt": "2026-08-07T03:19:43Z",
+      "content": "Youve likely heard that high LDL cholesterol (or the so-called bad cholesterol) is a major risk factor for heart disease. But theres another marker that often flies under the radar when it comes to y… [+6279 chars]"
     },
     {
       "source": {
@@ -516,6 +594,19 @@
     {
       "source": {
         "id": null,
+        "name": "News-Medical.Net"
+      },
+      "author": null,
+      "title": "New study explores cholesterol-driven survival mechanisms in pancreatic cancer - News-Medical",
+      "description": "A University of Oklahoma researcher has received a five-year, $2 million grant from the National Cancer Institute to investigate how pancreatic cancer uses cholesterol to survive chemotherapy.",
+      "url": "https://www.news-medical.net/news/20260806/New-study-explores-cholesterol-driven-survival-mechanisms-in-pancreatic-cancer.aspx",
+      "urlToImage": "https://www.news-medical.net/image-handler/picture/2015/3/Pancreatic_Cancer_89a89cdc7f804d5b8329b646f86bbec6-620x480.jpg",
+      "publishedAt": "2026-08-07T01:49:00Z",
+      "content": "A University of Oklahoma researcher has received a five-year, $2 million grant from the National Cancer Institute to investigate how pancreatic cancer uses cholesterol to survive chemotherapy. By unc… [+3140 chars]"
+    },
+    {
+      "source": {
+        "id": null,
         "name": "OregonLive"
       },
       "author": "oregonlive.com",
@@ -525,32 +616,6 @@
       "urlToImage": null,
       "publishedAt": "2026-08-07T01:31:00Z",
       "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "New York Post"
-      },
-      "author": "Daniel Farr",
-      "title": "Rare cancer fears grip OC community as school shuts down pesticide use - Yahoo",
-      "description": "California school district halts pesticide use after parents demand answers on rare childhood cancer cluster in Orange County.",
-      "url": "https://nypost.com/2026/08/06/us-news/oc-school-pauses-pesticides-amid-rare-childhood-cancer-concerns/",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/333518cde7e10951934cb9887895851f0c30d51aca0d9f1cf7ad1672e283f65d/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcalifornia_post_772%2F85be58ee40dab906b6e1aabc891fa977",
-      "publishedAt": "2026-08-06T23:40:44Z",
-      "content": "A California school district is freezing pesticide use as parents in an affluent Orange County community demand answers over a string of rare childhood cancer cases.\r\nThe Capistrano Unified School Di… [+5042 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "WDIV ClickOnDetroit"
-      },
-      "author": "Frank McGeorge, MD",
-      "title": "Coffee and heart health: Why cardiologists’ view of caffeine has shifted - ClickOnDetroit | WDIV Local 4",
-      "description": "Coffee has long been treated with caution in cardiology offices, largely because caffeine can temporarily raise heart rate and blood pressure.",
-      "url": "https://www.clickondetroit.com/health/2026/08/06/coffee-and-heart-health-why-cardiologists-view-of-caffeine-has-shifted/",
-      "urlToImage": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/video/wdiv/7c93be1e-ab59-4aa3-b79b-0c2da7148ce8/image.jpg?_a=DATAg1kSZAA0",
-      "publishedAt": "2026-08-06T23:08:09Z",
-      "content": "Coffee has long been treated with caution in cardiology offices, largely because caffeine can temporarily raise heart rate and blood pressure. \r\nBut a new scientific statement from the American Heart… [+4535 chars]"
     },
     {
       "source": {
@@ -577,6 +642,19 @@
       "urlToImage": "https://hermes.media.static.aol.com/media/2026/08/06/ef2beeb0-9699-3321-916a-d0d06ba77044/95310b0c-045a-41f7-bc0e-da4cb81c9ed5.jpg",
       "publishedAt": "2026-08-06T20:52:49Z",
       "content": "Key Takeaways\r\n<ul><li>Pneumococcal pneumonia poses a serious threat to adults over 50 due to natural immune system weakening with age\r\n</li><li>Experts recommend vaccines, healthy habits, and early … [+5000 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Women's Health"
+      },
+      "author": "Korin Miller",
+      "title": "Low Levels of This Vitamin Were Just Linked to Dementia. Are You Getting Enough? - AOL.com",
+      "description": "Vitamin B12 was recently linked with dementia in a new study. Doctors explain how much you should be getting, and the major signs that your levels are off.",
+      "url": "https://www.womenshealthmag.com/health/a73368855/dementia-risk-vitamin-b12-study/",
+      "urlToImage": "https://hermes.media.static.aol.com/media/2026/08/06/f61004f6-2350-3d29-80d6-22c357bff792/69d63949-d662-42dc-8c2c-ba1cccfc42cb.jpg",
+      "publishedAt": "2026-08-06T20:15:13Z",
+      "content": "\"Hearst Magazines and AOL may earn commission or revenue on some items through these links.\"\r\nWhile vitamin B12 might not be as buzzy as calcium or an immediately recognizable household name like Vit… [+5841 chars]"
     },
     {
       "source": {
@@ -610,38 +688,25 @@
         "name": "Buzzfeed"
       },
       "author": "Leyla Mohammed",
-      "title": "Here’s How 9 Famous Women Reacted To Getting Pregnant In Their 40s - yahoo.com",
-      "description": "Claire Danes admitted she felt “shame” when she fell pregnant with her third child at 44, stating: “I was so old when that happened. I didn't think it was po...",
-      "url": "https://www.buzzfeed.com/leylamohammed/how-celebrity-women-reacted-to-getting-pregnant-in-their-40s?origin=bf-yahoo",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/1561470f24bccdd4baa91f0d62c9fa06b81e61246531653720ec4a978f8deb78/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbuzzfeed_articles_778%2F7d466f88041d3827f4d94b76c90f71b1",
+      "title": "Here Are A Bunch Of Famous Women Who Were Either Totally Shocked Or Overjoyed To Fall Pregnant In Their 40s - BuzzFeed",
+      "description": "Claire Danes admitted she felt “shame” when she fell pregnant with her third child at 44, stating: “I was so old when that happened. I didn't think it was possible.”",
+      "url": "https://www.buzzfeed.com/leylamohammed/how-celebrity-women-reacted-to-getting-pregnant-in-their-40s",
+      "urlToImage": "https://img.buzzfeed.com/buzzfeed-static/static/2026-08/06/14/thumb/qbw3qUmoF.jpg?crop=2999:1570;0,2%26downsize=1250:*",
       "publishedAt": "2026-08-06T15:43:07Z",
-      "content": "These days, more and more women are choosing to have kids in their mid-to-late 30s and beyond, with the Cleveland Clinic reporting last year that roughly 20% of people in the US now have their first … [+6730 chars]"
+      "content": "I had two strong cocktails at dinner, and then, first thing in the morning, hit CVS. It was bold, caps lock, PREGNANTand I burst into tears, she recalled."
     },
     {
       "source": {
         "id": null,
-        "name": "Science.org"
+        "name": "STAT"
       },
-      "author": null,
-      "title": "Tau protein can sneak into brain cells’ energy factories—and wreak havoc - Science | AAAS",
-      "description": "Study of mitochondria suggests new treatment strategy for Alzheimer’s and other diseases",
-      "url": "https://www.science.org/content/article/tau-protein-can-sneak-brain-cells-energy-factories-and-wreak-havoc",
-      "urlToImage": "https://www.science.org/cms/asset/06ef9ac8-49d8-481f-bde7-097c1710dc67/_20260806_on_tau_alzheimers.jpg",
-      "publishedAt": "2026-08-06T15:33:00Z",
-      "content": "The protein tau is best known for its potential to clog the brain. In neurodegenerative conditions including Alzheimers disease, chains of the molecule twist into tangles inside neurons and choke out… [+4975 chars]"
-    },
-    {
-      "source": {
-        "id": "fox-news",
-        "name": "Fox News"
-      },
-      "author": null,
-      "title": "Viagra could do more than advertised as study reveals surprising health superpower - LiveNOW from FOX",
-      "description": "Viagra could do more than give men a boost in the bedroom, as new research suggests it may have benefits for cancer patients.",
-      "url": "https://www.foxnews.com/health/viagra-could-do-more-than-advertised-study-reveals-surprising-health-superpower",
-      "urlToImage": "https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2026/08/1200/630/gettyimages-629409531-scaled.jpg?ve=1&tl=1",
-      "publishedAt": "2026-08-06T14:40:23Z",
-      "content": "Viagra could do more than give men a boost in the bedroom, as new research suggests it may have benefits for cancer patients.\r\nThe prescription medication, which is manufactured and distributed by Vi… [+3736 chars]"
+      "author": "Jonathan Wosen",
+      "title": "Study reveals new role for tau, a top target for Alzheimer’s drug development - STAT",
+      "description": "The protein tau is top target for Alzheimer’s drug development, and a new study bolsters those efforts by describing a previously unknown role that tau plays in neurodegeneration.",
+      "url": "https://www.statnews.com/2026/08/06/research-finds-how-tau-targets-cells-structure-alzheimers-drug-development/",
+      "urlToImage": "https://www.statnews.com/wp-content/uploads/2026/08/C0508954-Tau_protein_clusters_TEM-1024x576.jpg",
+      "publishedAt": "2026-08-06T15:04:45Z",
+      "content": "In the race for new ways to treat Alzheimers and other devastating neurologic diseases, the protein tau has become a tantalizing target for drug developers. A new study lends support to those efforts… [+1182 chars]"
     },
     {
       "source": {
@@ -737,41 +802,15 @@
     {
       "source": {
         "id": null,
-        "name": "Science Daily"
+        "name": "Studyfinds.com"
       },
-      "author": null,
-      "title": "A drug already used for osteoporosis blocked spinal damage in a new study - ScienceDaily",
-      "description": "Genetic changes may set off a chain reaction that causes the spine’s natural shock absorbers to harden and deteriorate. Zebrafish with a faulty collagen-related gene developed mineral buildup and spinal fusion similar to human disc disease. Researchers were a…",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260806051943.htm",
-      "urlToImage": "https://www.sciencedaily.com/images/1920/male-anatomy-spinal-column-backbone.webp",
-      "publishedAt": "2026-08-06T09:51:57Z",
-      "content": "Changes in gene activity may contribute to neck and back pain by damaging the discs that act as the spine's natural shock absorbers, according to new research.A study using zebrafish found that alter… [+4662 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The Boston Globe"
-      },
-      "author": null,
-      "title": "What should you eat? Eight myth-busting tips from an evolutionary biologist. - bostonglobe.com",
-      "description": "A Harvard professor’s new book tests out popular diets for grains of truth.",
-      "url": "https://www.bostonglobe.com/2026/08/06/magazine/eight-healthful-eating-tips/",
-      "urlToImage": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/v2/XFRWA7UH7ZEHJLU6ONV5SKMJKQ.jpg?auth=fac7d2690d7a2514361e263d93d2d719bdf6f5432214afe03850c1f617241cdb&width=1440",
-      "publishedAt": "2026-08-06T09:32:37Z",
-      "content": "I started with what our ape ancestors ate and worked my way through the farming and industrial eras, then ended with todays most popular dietary approaches. Although my focus is the science underlyin… [+12031 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Medscape"
-      },
-      "author": null,
-      "title": "Protein Intake and Kidney Function: No Link Found - Medscape",
-      "description": "A decade-long study using precise kidney function measurements challenges concerns about dietary protein harming kidney health in adults largely free of chronic kidney disease.",
-      "url": "https://www.medscape.com/viewarticle/higher-protein-intake-not-linked-kidney-function-decline-2026a1000qt2",
-      "urlToImage": "https://img.medscapestatic.com/vim/live/professional_assets/medscape/images/thumbnail_library/gty-260805-protein-foods-800x450.jpg",
-      "publishedAt": "2026-08-06T09:24:34Z",
-      "content": "TOPLINE\r\nOver 10 years, higher habitual dietary protein intake was not associated with a faster decline in iohexol-measured GFR (mGFR) among middle-aged and older adults.\r\nMETHODOLOGY\r\n<ul><li>Resear… [+3108 chars]"
+      "author": "StudyFinds Analysis",
+      "title": "Could Viagra Help Fight Cancer? Study Finds Surprising Cholesterol Link - StudyFinds",
+      "description": "A new study links Viagra and statins to lower five-year death risk in cancer patients, with a cholesterol-based mechanism.",
+      "url": "https://studyfinds.com/viagra-fights-cancer-cholesterol/",
+      "urlToImage": "https://studyfinds.com/wp-content/uploads/2021/03/Tablets-scattered-on-the-table-of-the.jpeg?ver=1705337154",
+      "publishedAt": "2026-08-06T10:06:22Z",
+      "content": "(© H_Ko - stock.adobe.com)\r\n<ul><li>Viagra’s active ingredient, sildenafil, appears to trap cholesterol inside cancer cells, potentially limiting their ability to spread.</li><li>In mice, sildenafil … [+9106 chars]"
     }
   ]
 }

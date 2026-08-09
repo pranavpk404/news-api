@@ -3,9 +3,22 @@
   "country": "us",
   "category": "business",
   "mode": "country",
-  "fetched_at": "2026-08-09T08:25:40.364854+00:00",
-  "articles_count": 58,
+  "fetched_at": "2026-08-09T10:18:41.493464+00:00",
+  "articles_count": 61,
   "articles": [
+    {
+      "source": {
+        "id": "the-washington-post",
+        "name": "The Washington Post"
+      },
+      "author": "Andrew Ackerman",
+      "title": "Trump renews effort to fire Fed governor Lisa Cook after Supreme Court ruling - The Washington Post",
+      "description": "The Supreme Court in June thwarted an earlier attempt by Trump to oust Cook, asserting the Fed’s status as an independent agency.",
+      "url": "https://www.washingtonpost.com/business/2026/08/07/white-house-revives-bid-remove-fed-lisa-cook-over-mortgage-claims/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/2G5QMNEYR5Z2JG6GUKWGCHUI2U.JPG&w=1440",
+      "publishedAt": "2026-08-08T02:25:36Z",
+      "content": "President Donald Trump is restarting his effort to remove Lisa Cook from the Federal Reserve Board, about a month after he was blocked from doing so by the Supreme Court. \r\nIn a letter to Cook this w… [+301 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -18,32 +31,6 @@
       "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/08/0/0/elon-musk-looking-into-distance.jpg?ve=1&tl=1",
       "publishedAt": "2026-08-08T00:52:00Z",
       "content": "SpaceX announced this week that its planned semiconductor plant that is expected to become the largest building in the world at more than 100 million square feet will be built in Grimes, Texas, outsi… [+2364 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Kirsten Korosec",
-      "title": "OpenAI says it slowed Astra model development over security concerns - techcrunch.com",
-      "description": "OpenAI said this model, which is still in development, reached its \"critical cybersecurity threshold,\" meaning it could independently identify and carry out cyberattacks against traditionally well-protected real-world systems.",
-      "url": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/07/OpenAI-logo-in-Seoul.jpg?w=1024",
-      "publishedAt": "2026-08-07T22:48:24Z",
-      "content": "OpenAI said Friday it has suspended work on some aspects of its upcoming model Astra after an internal review found it had made significant advancements in agentic coding and cybersecurity enough to … [+2406 chars]"
-    },
-    {
-      "source": {
-        "id": "the-wall-street-journal",
-        "name": "The Wall Street Journal"
-      },
-      "author": "WSJ",
-      "title": "Exclusive | Situational Awareness Bets $400 Million on Stealth Chip Startup After Crash - WSJ",
-      "description": null,
-      "url": "https://www.wsj.com/tech/ai/situational-awareness-bets-400-million-on-stealth-chip-startup-after-crash-02c7374e",
-      "urlToImage": null,
-      "publishedAt": "2026-08-07T22:31:00Z",
-      "content": null
     },
     {
       "source": {
@@ -99,15 +86,28 @@
     },
     {
       "source": {
-        "id": "the-wall-street-journal",
-        "name": "The Wall Street Journal"
+        "id": "bloomberg",
+        "name": "Bloomberg"
       },
-      "author": "WSJ",
-      "title": "Shopping App Whatnot Valued at $20 Billion in New Funding - WSJ",
-      "description": null,
-      "url": "https://www.wsj.com/business/retail/the-hottest-app-in-retail-is-now-worth-20-billion-c98f0897",
-      "urlToImage": null,
-      "publishedAt": "2026-08-07T20:50:00Z",
+      "author": "Nishant Kumar, Hema Parmar, Katherine Burton, Natasha Mascarenhas",
+      "title": "Investors Clamor to Bet on AI Whiz Kid's Fund After Situational Awareness Turmoil - Bloomberg.com",
+      "description": "One week after Leopold Aschenbrenner’s hedge fund Situational Awareness nearly blew up, he’s already getting requests from investors looking to place more money with the artificial intelligence wunderkind.",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-07/silicon-valley-rallies-around-ai-whiz-kid-after-situational-awareness-turmoil",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i0aoAJWTN2Lo/v0/1200x855.jpg",
+      "publishedAt": "2026-08-07T20:50:28Z",
+      "content": "One week after Leopold Aschenbrenners hedge fund Situational Awareness nearly blew up, hes already getting requests from investors looking to place more money with the artificial intelligence wunderk… [+348 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Space.com"
+      },
+      "author": "Mike Wall",
+      "title": "'Not looking good right now': Starship likely to be lost at sea 2 weeks after epic 13th test flight, Elon Musk says - Space",
+      "description": "\"Nonetheless, we were able to obtain close-up photos of critical regions of the heat shield and engines for future upgrades.\"",
+      "url": "https://www.space.com/space-exploration/launches-spacecraft/not-looking-good-right-now-starship-likely-to-be-lost-at-sea-2-weeks-after-epic-13th-test-flight-elon-musk-says",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/ECEZXk7kX6GPop2uHodk6Z-2560-80.jpg",
+      "publishedAt": "2026-08-07T20:44:20Z",
       "content": null
     },
     {
@@ -152,6 +152,19 @@
     {
       "source": {
         "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Pras Subramanian",
+      "title": "SpaceX's big week: Stock jumps despite earnings storm, lock-up expiration in crucial test for investors - Yahoo Finance",
+      "description": "SpaceX closes out a pivotal week solidly in the green, with the stock fighting higher over the past five sessions after reporting its first earnings report a...",
+      "url": "https://finance.yahoo.com/markets/stocks/article/spacexs-big-week-stock-jumps-despite-earnings-storm-lock-up-expiration-in-crucial-test-for-investors-131828277.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/5F5864614A36A26FF938124838C3AC923F6773E293F2FCFA76BC13B3468B448D/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-08%2F6c17bda8-bf54-4ec4-85de-2d60cda42df0",
+      "publishedAt": "2026-08-07T20:01:39Z",
+      "content": "SpaceX (SPCX) closes out a pivotal week solidly in the green, with the stock fighting higher over the past five sessions after reporting its first earnings report as a public company and the largest … [+3293 chars]"
+    },
+    {
+      "source": {
+        "id": null,
         "name": "PCMag.com"
       },
       "author": "Jim Fisher",
@@ -161,6 +174,19 @@
       "urlToImage": "https://i.pcmag.com/imagery/articles/033sIKe5AtPoK1C81n5auNK-1.fit_lim.size_1200x630.v1786132018.jpg",
       "publishedAt": "2026-08-07T19:55:32Z",
       "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Daniel Howley",
+      "title": "OpenAI says its upcoming Astra model may have 'critical' cybersecurity capabilities amid rash of AI model hacks - Yahoo Finance",
+      "description": "OpenAI says its latest AI model could have critical cybersecurity capabilities.",
+      "url": "https://finance.yahoo.com/technology/article/openai-says-its-upcoming-astra-model-may-have-critical-cybersecurity-capabilities-amid-rash-of-ai-model-hacks-194909085.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/C1CCD48E1C82547A9BB2B4FB0BF9F096690CE791A7C8C68E5A8F64D9BAD089B2/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fc6faeb17-a1c6-462a-b98b-748d26cacdb6_565edc5178e83a63db055d61937a965203310fa33dc380dd5971fb3b822b71af.jpg",
+      "publishedAt": "2026-08-07T19:49:09Z",
+      "content": "OpenAI (OPAI.PVT) on Friday said that its upcoming frontier AI model Astra has shown the potential for high-level cybersecurity capabilities and that the company is putting stronger safeguards and se… [+3415 chars]"
     },
     {
       "source": {
@@ -178,6 +204,19 @@
     {
       "source": {
         "id": null,
+        "name": "InsideEVs "
+      },
+      "author": "Mack Hogan",
+      "title": "EV Reveals Have Gotten Way, Way Too Drawn Out. The Ford Fathom Proves It - InsideEVs",
+      "description": "Here's why automakers now announce products years before building them, and why they're unlikely to change course.",
+      "url": "https://insideevs.com/features/804221/ev-development-cycles-too-long/",
+      "urlToImage": "https://cdn.motor1.com/images/mgl/G3QMzA/s1/ford-fathom-and-scout-traveler.jpg",
+      "publishedAt": "2026-08-07T19:44:00Z",
+      "content": "In August 2025, Ford announced big news to the world: It was developing an all-new electric pickup truck that would cost under $30,000 when it arrived in a couple of years. A full year later, just th… [+9278 chars]"
+    },
+    {
+      "source": {
+        "id": null,
         "name": "Barron's"
       },
       "author": "Mackenzie Tatananni",
@@ -190,16 +229,16 @@
     },
     {
       "source": {
-        "id": "bloomberg",
-        "name": "Bloomberg"
+        "id": null,
+        "name": "WGAL Susquehanna Valley Pa."
       },
-      "author": "Maria Eloisa Capurro",
-      "title": "Fed Split on Rate Hikes Deepens as Five Years of High Inflation Tests Patience - Bloomberg",
-      "description": "Five years of high inflation is testing the patience of Federal Reserve officials and showcasing a split between those willing to wait before hiking interest rates and those who say time is running out.",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-07/fed-split-on-rate-hikes-deepens-as-high-inflation-tests-patience",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iK2CUoia35Ng/v0/1200x800.jpg",
-      "publishedAt": "2026-08-07T19:27:06Z",
-      "content": "Five years of high inflation is testing the patience of Federal Reserve officials and showcasing a split between those willing to wait before hiking interest rates and those who say time is running o… [+443 chars]"
+      "author": "Damali Ramirez",
+      "title": "Buying a ticket for this weekend's $856 Powerball drawing? These are the most commonly drawn numbers - wgal.com",
+      "description": "The eighth-largest Powerball jackpot draws Saturday night. See which numbers are most commonly drawn.",
+      "url": "https://www.wgal.com/article/most-drawn-powerball-numbers-856-million/73378221",
+      "urlToImage": "https://kubrick.htvapps.com/htv-prod/images/83cd4404-d948-49ac-a1c0-18f1672a667e.png?crop=1.00xw%3A1.00xh%3B0%2C0&resize=1200%3A*",
+      "publishedAt": "2026-08-07T19:09:00Z",
+      "content": "An $856 million Powerball jackpot is on the line Saturday night, up $70 million from Wednesday's drawing. \r\nThe jackpot is the largest since last year's $1.8 billion prize won in Arkansas on Christma… [+1125 chars]"
     },
     {
       "source": {
@@ -239,19 +278,6 @@
       "urlToImage": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
       "publishedAt": "2026-08-07T17:02:33Z",
       "content": "(Bloomberg) -- President Donald Trump and Federal Reserve Chairman Kevin Warsh frequently talk about the economy, according to National Economic Council Director Kevin Hassett.\r\nMost Read from Bloomb… [+2213 chars]"
-    },
-    {
-      "source": {
-        "id": "the-washington-post",
-        "name": "The Washington Post"
-      },
-      "author": "Riley Beggin, Federica Cocco, Joyce Sohyun Lee, Amy Brittain",
-      "title": "Freedom Fuel, praised by Trump, sells cheap gasoline. But how? - The Washington Post",
-      "description": "Despite recent price hikes, the mysterious company is still offering a significant discount at 29 stations across Pennsylvania and New Jersey.",
-      "url": "https://www.washingtonpost.com/politics/2026/08/07/freedom-fuel-praised-by-trump-sells-cheap-gasoline-how/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/YARFOCP7HMH2FP3CUD2UI54WYM_size-normalized.jpg&w=1440",
-      "publishedAt": "2026-08-07T17:00:01Z",
-      "content": "PHILADELPHIA As a steady stream of drivers pulled into the Freedom Fuel Networks gas station on Roosevelt Boulevard this week, some pumps still had signs saying Red Lion, the stations brand as recent… [+17 chars]"
     },
     {
       "source": {
@@ -295,15 +321,28 @@
     {
       "source": {
         "id": null,
-        "name": "Motley Fool"
+        "name": "Abcnews.com"
       },
-      "author": "Danny Vena, CPA",
-      "title": "Why The Trade Desk Stock Plunged to a New 7-Year Low Today - The Motley Fool",
-      "description": "Investors are increasingly bearish on the adtech specialist.",
-      "url": "https://www.fool.com/investing/2026/08/07/why-the-trade-desk-stock-plunged-to-a-new-7-year-l/",
-      "urlToImage": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F882540%2Fthe-trade-desk-logo-over-a-blue-background-supimposed-over-an-image-of-a-modern-hi-rise-office-building.png&w=1200&op=resize",
-      "publishedAt": "2026-08-07T16:22:00Z",
-      "content": "Shares of The Trade Desk(TTD-21.90%) plunged anew on Friday, falling as much as 27.3% to lows not seen since early 2019. As of 10:48 a.m. ET, the stock was still down 19.8%.\r\nThe catalyst that sent t… [+1935 chars]"
+      "author": "ABC News - Breaking News, Latest News and Videos",
+      "title": "Wendy's worker heading to Yale after managers help him pay for school - ABC News - Breaking News, Latest News and Videos",
+      "description": null,
+      "url": "https://abcnews.com/GMA/Living/wendys-worker-heading-yale-after-managers-pay-school/story?id\\\\u003d135450320",
+      "urlToImage": null,
+      "publishedAt": "2026-08-07T16:23:29Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "OMFIF"
+      },
+      "author": "Mark Sobel, Mark Sobel",
+      "title": "Japan’s yen intervention and unusual US support - OMFIF",
+      "description": "Market commentators are atwitter debating Japan’s foreign exchange market intervention and the US’ unusual participation",
+      "url": "https://www.omfif.org/2026/08/japans-yen-intervention-and-the-us-unusual-support/",
+      "urlToImage": "https://www.omfif.org/wp-content/uploads/2026/08/3a94357c-e3bc-26e7-9220-6b1e3b8cf7e9.webp",
+      "publishedAt": "2026-08-07T16:19:01Z",
+      "content": "Market commentators are atwitter debating Japans foreign exchange market intervention and the US unusual participation. The yens weakness is a misalignment reflecting Japans inconsistent economic pol… [+5525 chars]"
     },
     {
       "source": {
@@ -320,32 +359,6 @@
     },
     {
       "source": {
-        "id": "the-washington-post",
-        "name": "The Washington Post"
-      },
-      "author": "Julie Z. Weil",
-      "title": "The Trump administration has refunded $100 billion in tariffs. Will you get any of the money? - The Washington Post",
-      "description": "Major corporations are getting hundreds of millions of dollars back. Most individuals aren’t.",
-      "url": "https://www.washingtonpost.com/business/2026/08/07/how-get-your-tariff-refund/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/WVD3EMN5HR5667KYZ6RYBNOIOM_size-normalized.jpg&w=1440",
-      "publishedAt": "2026-08-07T16:00:00Z",
-      "content": "The Trump administration has refunded about $100 billion in tariffs in response to the Supreme Court ruling that declared the tariffs illegal, according to a new court filing this week.\r\nMajor corpor… [+168 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Barron's"
-      },
-      "author": "Al Root",
-      "title": "Why SpaceX Stock Can Break Its Brutal 4-Week Slump Today - Barron's",
-      "description": "SpaceX stock is on the cusp on ending a four-week losing streak with e shares rising in Friday's premarket.",
-      "url": "https://www.barrons.com/articles/spacex-stock-price-today-26cc591d",
-      "urlToImage": "https://images.barrons.com/im-65361300/social",
-      "publishedAt": "2026-08-07T15:42:00Z",
-      "content": "Retail investorswere buyingSpaceXall the way through its four-week losing streakand now they might finally have something to show for it.\r\nCopyright ©2026Dow Jones &amp; Company, Inc. All Rights Rese… [+37 chars]"
-    },
-    {
-      "source": {
         "id": null,
         "name": "PBS"
       },
@@ -356,32 +369,6 @@
       "urlToImage": "https://d3i6fh83elv35t.cloudfront.net/static/2026/08/2026-08-04T172604Z_878501396_RC2TRMA20QAL_RTRMADP_3_CHIPOTLE-MEXICAN-SALMONELLA-1024x683.jpg",
       "publishedAt": "2026-08-07T15:17:17Z",
       "content": "NEW YORK (AP) Jalapeño peppers linked to a multistate salmonella outbreak have been traced back to a grower in Sinaloa, Mexico, federal officials say.\r\nAt least 345 people in 27 states have been repo… [+3059 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Tim De Chant",
-      "title": "Trump administration has spent nearly $4B to cancel offshore wind farms - TechCrunch",
-      "description": "The Trump administration has now convinced developers to abandon 12 offshore wind leases. The latest will cost taxpayers $1.2 billion.",
-      "url": "https://techcrunch.com/2026/08/07/trump-administration-has-spent-nearly-4b-to-cancel-offshore-wind-farms/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/07/Block-Island-Rhode-Island-offshore-wind.jpg?resize=1200,856",
-      "publishedAt": "2026-08-07T15:11:03Z",
-      "content": "The Trump administration is paying another $1.2 billion to cancel an offshore wind lease, this time to German utility RWE. \r\nThe energy company said in an announcement that the wind farms would have … [+878 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Lorenzo Franceschi-Bicchierai",
-      "title": "Chinese AI model Kimi escaped its cybersecurity testing environment, researchers say - TechCrunch",
-      "description": "In the Kimi test, the sandbox designed to contain the experiment was not properly configured.",
-      "url": "https://techcrunch.com/2026/08/07/chinese-ai-model-kimi-escaped-its-cybersecurity-testing-environment-researchers-say/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-2286500505.jpg?resize=1200,800",
-      "publishedAt": "2026-08-07T14:28:31Z",
-      "content": "Kimi K3, the latest AI model made by Chinese company Moonshot, escaped an environment set up to test its cyber capabilities, researchers said in a blog post published on Friday. \r\nThe news shows once… [+1399 chars]"
     },
     {
       "source": {
@@ -408,6 +395,58 @@
       "urlToImage": "https://images.barrons.com/im-359368/social",
       "publishedAt": "2026-08-07T14:01:00Z",
       "content": "Shares ofDoximitysurged more than 80% in premarket trading Friday after the medical networking and telehealth platform missed analysts earnings target.\r\nCopyright ©2026Dow Jones &amp; Company, Inc. A… [+51 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Backyardgardenlover.com"
+      },
+      "author": "Lauren Wellbank",
+      "title": "Man Tows His Neighbor’s Car From His Driveway, Now the Neighborhood Is Mad at Him - Yahoo",
+      "description": "A neighborhood dispute is unfolding for one Redditor, who has found themselves at the center of a feud they may have inadvertently caused. The source of the...",
+      "url": "https://www.backyardgardenlover.com/man-tows-his-neighbors-car-from-his-driveway-now-the-neighborhood-is-mad-and-says-he-shouldve-been-grateful-instead/",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/bad650e4d2dfb16cc0e7fd8a430cad328fb67056437e7ce44f547dce53879221/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbackyard_garden_lover_223%2Fbcc78a7c91c9c2489b964b9b7df6f29f",
+      "publishedAt": "2026-08-07T14:00:39Z",
+      "content": "A neighborhood dispute is unfolding for one Redditor, who has found themselves at the center of a feud they may have inadvertently caused. The source of the problem? Reddit user u/Aromatic_Homework53… [+2748 chars]"
+    },
+    {
+      "source": {
+        "id": "politico",
+        "name": "Politico"
+      },
+      "author": "Ry Rivard, James Bikales",
+      "title": "Retail gas stations touted by Trump racked up penalties in New Jersey - Politico",
+      "description": "The operator behind Freedom Fuel retail gas stations has drawn a raft of penalties and fines from New Jersey regulators.",
+      "url": "https://www.politico.com/news/2026/08/07/freedom-fuel-new-jersey-penalties-01028052",
+      "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2Fb0%2Fad%2Ff6e4f22a4500a6cf3a09f7bf57c1%2Ffreedom-fuel-543-3.jpg",
+      "publishedAt": "2026-08-07T14:00:00Z",
+      "content": "The Department of Environmental Protection, in its order, said the gas stations had repeatedly, significantly and substantially failed to comply with state law and repeatedly failed to comply with pr… [+2528 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "24/7 Wall St."
+      },
+      "author": "David Moadel",
+      "title": "Trade Desk Plunges 28% After Earnings Miss Triggers Downgrade Avalanche; Ad-Tech Peers AppLovin and Magnite Hold Firm - Yahoo Finance",
+      "description": "A brutal earnings miss sent one ad-tech giant into freefall while its closest rivals barely flinched, raising urgent questions about whether the company face...",
+      "url": "https://247wallst.com/investing/2026/08/07/trade-desk-plunges-28-after-earnings-miss-triggers-downgrade-avalanche-ad-tech-peers-applovin-and-magnite-hold-firm/",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/9100B570EF170BE69FDE783446926C1B588FBC454264640DD3C6B667E9C682A2/subgraphmysterio/resizefill_w1200_h842;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2Fe0689953aabc8e5a90e8883761d15370",
+      "publishedAt": "2026-08-07T13:31:52Z",
+      "content": "Quick Read\r\n<ul><li>Trade Desk stock crashed 28% after Q2 revenue of $715M missed estimates and Q3 guidance of at least $650M fell $155M short of the $805M consensus.\r\n</li><li>MoffettNathanson slash… [+5530 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Brian Sozzi",
+      "title": "What the vicious Sandisk bears are forgetting - Yahoo Finance",
+      "description": "Keep this in mind about Sandisk.",
+      "url": "https://finance.yahoo.com/markets/article/what-the-vicious-sandisk-bears-are-forgetting-132927678.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/53B03DDAC62DB745351F192678B037839975644C2EE626A41FAF0BD5AA984A47/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-05%2F1d729549-52cd-408a-b414-baa0af19a2ed",
+      "publishedAt": "2026-08-07T13:29:27Z",
+      "content": "Sandisk (SNDK) management offered some perspective following earnings this week showing that the momentum stock shouldn't be down for much longer.\r\nSandisk repurchased a whopping $4.5 billion of its … [+2398 chars]"
     },
     {
       "source": {
@@ -438,19 +477,6 @@
     {
       "source": {
         "id": null,
-        "name": "Benzinga"
-      },
-      "author": "Daragh Thomas",
-      "title": "Elon Musk Wants Starlink To Take On T-Mobile, Verizon, AT&T—Here's Why That's Easier Said Than Done Starl - Benzinga",
-      "description": "SpaceX says Starlink Mobile can challenge T-Mobile, Verizon and AT&T, but its plan still depends on building terrestrial cellular infrastructure.",
-      "url": "https://www.benzinga.com/markets/prediction-markets/26/08/61036008/starlink-mobile-cellular-networks",
-      "urlToImage": "https://cdn.benzinga.com/cdn-cgi/image/width=1200,height=800,fit=crop/files/images/story/2026/08/07/Starlink-is-a-satellite-internet-constel.jpg",
-      "publishedAt": "2026-08-07T12:22:17Z",
-      "content": "Investors took notice, sending shares of all three carriers lower Wednesday after SpaceX detailed the plan. \r\nThe group rebounded Thursday, with T-Mobile gaining 3.75%, AT&amp;T 2.82% and Verizon 1.1… [+2275 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "Investor's Business Daily"
       },
       "author": null,
@@ -464,28 +490,28 @@
     {
       "source": {
         "id": null,
-        "name": "SpaceNews"
+        "name": "CNBC"
       },
-      "author": "Jeff Foust",
-      "title": "Europe increases size and cost of IRIS² constellation - SpaceNews",
-      "description": "The European Commission has reached an agreement with an industrial consortium to proceed with a secure connectivity constellation.",
-      "url": "https://spacenews.com/europe-increases-size-and-cost-of-iris²-constellation/",
-      "urlToImage": "https://spacenews.com/wp-content/uploads/2026/08/iris2.jpeg",
-      "publishedAt": "2026-08-07T11:51:44Z",
-      "content": "IDAHO FALLS, Idaho The European Commission has reached an agreement with an industrial consortium to proceed with a secure connectivity constellation, increasing the number of satellites as well as i… [+3228 chars]"
+      "author": "Leslie Josephs",
+      "title": "Companies scoff at airlines' cheapest business class tickets. 'The real value is flexibility' - CNBC",
+      "description": "Some companies plan to shun the cheapest business- and premium- economy fares from their executives.",
+      "url": "https://www.cnbc.com/2026/08/07/business-business-premium-fares.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108137918-1745927012381-ORD_Polaris_Lounge_-_Entry_-_2025.jpg?v=1745927085&w=1920&h=1080",
+      "publishedAt": "2026-08-07T12:00:02Z",
+      "content": "United Airlines Polaris lounge in Chicago\r\nCHICAGO No advanced seat selection, lounge access or flight changes included with a C-suite executive's business-class ticket? Absolutely not, some companie… [+5940 chars]"
     },
     {
       "source": {
-        "id": "cnn",
-        "name": "CNN"
+        "id": "fortune",
+        "name": "Fortune"
       },
-      "author": "Michael Ballaban",
-      "title": "Ford’s new electric pickup will cost $28,350. It’s an extremely expensive bet on a very cheap truck - CNN",
-      "description": "Ford is the undisputed global leader in pickup trucks. The F-Series is the best-selling vehicle in the US – of any kind – since 1981. Its latest pickup, the Ford Fathom, will cost a downright cheap $28,350, which should set it up to be a massive seller.",
-      "url": "https://www.cnn.com/2026/08/07/business/ford-electric-pickup-cheap-car-big-bet",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/2025-10-20t214641z-1076938076-rc2wfhahck2x-rtrmadp-3-ford-results.JPG?c=16x9&q=w_800,c_fill",
-      "publishedAt": "2026-08-07T11:00:29Z",
-      "content": "Ford is the undisputed global leader in pickup trucks. The F-Series is the best-selling vehicle in the US of any kind since 1981. Its latest pickup, the Ford Fathom, will cost a downright cheap $28,3… [+4853 chars]"
+      "author": "Allie Garfinkle",
+      "title": "In AI-obsessed Silicon Valley, live commerce platform Whatnot just notched a new funding round valuing it at $20 billion - Fortune",
+      "description": "The $545 million Series G nearly doubles Whatnot's valuation—a rare consumer-marketplace breakout when nearly every venture dollar is flowing to AI.",
+      "url": "https://fortune.com/2026/08/07/ai-obsessed-silicon-valley-live-commerce-platform-whatnot-new-funding-round-20-billion/",
+      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/08/55323125671_c3c2d093d5_6k-e1786052270579.jpg?resize=1200,600",
+      "publishedAt": "2026-08-07T11:17:00Z",
+      "content": "Whatnot, started in a Funko Pop-flooded rental house, is now a $20 billion company. The live commerce platform exclusively told Fortune it recently raised its $545 million Series G, almost doubling W… [+7040 chars]"
     },
     {
       "source": {
@@ -542,6 +568,19 @@
     {
       "source": {
         "id": null,
+        "name": "Motley Fool"
+      },
+      "author": "Adam Spatacco, The Motley Fool",
+      "title": "Amazon CEO Andy Jassy Just Gave Investors 220 Billion Reasons to Buy Micron Stock - Yahoo Finance",
+      "description": "Amazon just raised its artificial intelligence (AI) budget to $220 billion, up from a prior estimate of $200 billion.",
+      "url": "https://www.fool.com/investing/2026/08/07/amazon-ceo-andy-jassy-just-gave-investors-220-bill/",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/0F1E92B56607A3D89B40C72E52D20FD739D745C2F1DF9599ACFB4A7D3C57ACD1/subgraphmysterio/resizefill_w1200_h690;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fmotleyfool.com%2Fc9a72d6544944a0260899c712afc4fd3",
+      "publishedAt": "2026-08-07T09:20:00Z",
+      "content": "The world's largest technology companies are pouring unprecedented amounts of money into infrastructure as the artificial intelligence (AI) revolution shows no signs of slowing. Alphabet, Microsoft, … [+5964 chars]"
+    },
+    {
+      "source": {
+        "id": null,
         "name": "CNBC"
       },
       "author": "Sam Meredith",
@@ -584,25 +623,25 @@
         "name": "Financial Times"
       },
       "author": null,
-      "title": "Yen intervention illustrates the dangers of monetary experiments - Financial Times",
-      "description": "Tokyo and Washington’s desire to maintain stability may be creating long-term danger",
-      "url": "https://www.ft.com/content/daec1a03-d1a2-4f17-8dda-ede4140a88c2?syn-25a6b1a6\\\\u003d1",
-      "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F28300a8c-30fd-48c9-b953-50fd7c534808.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
-      "publishedAt": "2026-08-07T04:01:43Z",
+      "title": "Starlink mobile threat has been exaggerated, says T-Mobile CEO - Financial Times",
+      "description": "Boss of US network sceptical that Elon Musk’s planned entry into cell market will solve customer problems",
+      "url": "https://www.ft.com/content/5d6b7dcf-fe0e-4cb1-ad1d-0157407296cc?syn-25a6b1a6\\\\u003d1",
+      "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F2b67c609-ee03-4a50-b908-a90dfcb1d913.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
+      "publishedAt": "2026-08-07T04:02:51Z",
       "content": "Then $75 per month. Complete digital access to quality FT journalism on any device. Cancel anytime during your trial."
     },
     {
       "source": {
-        "id": "politico",
-        "name": "Politico"
+        "id": null,
+        "name": "BBC News"
       },
-      "author": "Jasper Goodman",
-      "title": "Crypto bill ethics counteroffer includes divestment requirement for Trump - Politico",
-      "description": "The ethics language remains the subject of ongoing discussions.",
-      "url": "https://www.politico.com/live-updates/2026/08/06/congress/crypto-bill-ethics-counteroffer-divestment-requirement-trump-01028418",
-      "urlToImage": "https://www.politico.com/dims4/default/2769148/2147483647/resize/1200x/quality/90/?url=https%3A%2F%2Fstatic.politico.com%2Fc8%2F4a%2F53fad87146a6a1c0c0f40cbd72d4%2Fu-s-congress-68-51.jpg",
-      "publishedAt": "2026-08-07T02:12:46Z",
-      "content": null
+      "author": null,
+      "title": "Trump imposes 15% tariff on key chip material to counter China - BBC",
+      "description": "The move  aims to protect US firms as they face increasing competition from China's chip industry.",
+      "url": "https://www.bbc.com/news/articles/cdrvn686dljo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/60dd/live/9a103bd0-91fb-11f1-952a-e58ebd1358f8.jpg",
+      "publishedAt": "2026-08-07T01:03:35Z",
+      "content": "For decades, the US has allowed \"foreign firms to weaken United States producers in the polysilicon sector,\" said Trump, who has long advocated for the use of tariffs to protect American jobs and boo… [+14 chars]"
     },
     {
       "source": {
@@ -645,16 +684,16 @@
     },
     {
       "source": {
-        "id": "cnn",
-        "name": "CNN"
+        "id": null,
+        "name": "WWD"
       },
-      "author": "Isa Mudannayake",
-      "title": "Powerball jackpot soars to $856 million, next drawing Saturday night - CNN",
-      "description": "The Powerball jackpot has reached an estimated $856 million after no grand prize winner was selected in Wednesday’s drawing.",
-      "url": "https://www.cnn.com/2026/08/06/business/powerball-drawing-next-jackpot",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2248882976-20260806200628061.jpg?c=16x9&q=w_800,c_fill",
-      "publishedAt": "2026-08-06T20:37:46Z",
-      "content": "Over a million tickets were sold as hopeful players tried their luck, but no one scored in Wednesdays Powerball jackpot, sending the prize soaring to an estimated $856 million.\r\nThe next drawing for … [+2745 chars]"
+      "author": "Kate Nishimura",
+      "title": "Illinois Lawmaker Presses for Consumer Paybacks As Trump Administration Hits $100B in Tariff Refunds - Yahoo Finance",
+      "description": "Some lawmakers have gotten involved on behalf of their constituents, imploring the federal government to return the money to constituents directly.",
+      "url": "https://wwd.com/sourcing-journal/trade/trump-cbp-100b-tariff-refunds-illinois-pritzker-consumers-1239097219/",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/3CD3EF3D595FA05BCE9F068839AD650259AF873422372EE045A93B1F0C0D0400/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fsourcing_journal_735%2Fa8861a2756001c89ce804266fc6f95c2",
+      "publishedAt": "2026-08-06T22:07:40Z",
+      "content": "The Trump administration has refunded about $100 billion in revenue from its dismantled \"reciprocal\" tariff schemeabout 60 percent of the total owed to importers by the federal government.\r\nThe figur… [+3643 chars]"
     },
     {
       "source": {
@@ -700,11 +739,11 @@
         "id": "the-wall-street-journal",
         "name": "The Wall Street Journal"
       },
-      "author": "WSJ",
+      "author": "Xavier Martinez",
       "title": "The Race to Come Up With the Next Big Sleep Drug - WSJ",
-      "description": null,
+      "description": "FDA approves first drug to treat a root cause of narcolepsy, which could help other sleep conditions as well",
       "url": "https://www.wsj.com/health/pharma/the-race-to-come-up-with-the-next-big-sleep-drug-473a4a5e",
-      "urlToImage": null,
+      "urlToImage": "https://images.wsj.net/im-80949925/social",
       "publishedAt": "2026-08-06T18:30:00Z",
       "content": null
     },

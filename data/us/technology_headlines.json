@@ -3,9 +3,22 @@
   "country": "us",
   "category": "technology",
   "mode": "country",
-  "fetched_at": "2026-08-12T08:55:19.204379+00:00",
-  "articles_count": 63,
+  "fetched_at": "2026-08-12T10:46:10.923339+00:00",
+  "articles_count": 61,
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "MacRumors"
+      },
+      "author": "Juli Clover",
+      "title": "iOS 27 Hints at 'Apple Reference Image' Photo Authentication - MacRumors",
+      "description": "Apple is working on \"Apple Reference Image,\" a photo provenance system that will verify if an image was captured with an iPhone. References...",
+      "url": "https://www.macrumors.com/2026/08/10/ios-27-apple-reference-image/",
+      "urlToImage": "https://images.macrumors.com/t/wLgAAiLwH3el2P4hkJrGBrtRWVY=/2500x/article-new/2025/08/iOS-26-Glass-Photos-Feature.jpg",
+      "publishedAt": "2026-08-11T00:08:01Z",
+      "content": "Apple is working on \"Apple Reference Image,\" a photo provenance system that will verify if an image was captured with an iPhone. References to the feature were found in a privacy disclosure included … [+1953 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -18,6 +31,19 @@
       "urlToImage": "https://kotaku.com/app/uploads/2026/08/fields-of-mistria-trailer-1.jpg",
       "publishedAt": "2026-08-10T22:45:34Z",
       "content": "Last week, I started Fields of Mistria, a game my friends have been raving about for ages while it was in early access, but which just now entered its full, 1.0 launch. And man, my friends were right… [+7690 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "PhoneArena"
+      },
+      "author": "PhoneArena",
+      "title": "Leaked Galaxy S26 FE specs confirm another battery disappointment from Samsung - PhoneArena",
+      "description": null,
+      "url": "https://www.phonearena.com/news/leaked-galaxy-s26-fe-specs-confirm-another-battery-disappointment-from-samsung_id182497",
+      "urlToImage": null,
+      "publishedAt": "2026-08-10T22:26:15Z",
+      "content": null
     },
     {
       "source": {
@@ -47,19 +73,6 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "GSMArena.com"
-      },
-      "author": "Michail",
-      "title": "iPhone 18 Pro BOM cost estimated to be up by 40% - GSMArena.com news - gsmarena.com",
-      "description": "Apple is reportedly paying three times more for RAM and storage than it did with the iPhone 17 Pro. We’ve already seen rumors that iPhone 18 Pro...",
-      "url": "https://www.gsmarena.com/iphone_18_pro_components_estimated_to_be_40_more_than_before__-news-74098.php",
-      "urlToImage": "https://fdn.gsmarena.com/imgroot/news/26/08/iphone-18-pro-bom-trendforce/-952x498w6/gsmarena_000.jpg",
-      "publishedAt": "2026-08-10T21:58:02Z",
-      "content": "Weve already seen rumors that iPhone 18 Pro availability may be limited at launch due to the ongoing global memory chip shortage and a new TrendForcereport now gives an estimate of how much more expe… [+810 chars]"
-    },
-    {
-      "source": {
         "id": "ars-technica",
         "name": "Ars Technica"
       },
@@ -73,16 +86,42 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "Windows Central"
+        "id": "ign",
+        "name": "IGN"
       },
-      "author": "Zac Bowden",
-      "title": "Windows 11 license fee hikes contributing to higher laptop prices, says report - Windows Central",
-      "description": "A new report claims Microsoft has raised the cost of the Windows license by up to 10% for certain OEMs, which is much higher than usual.",
-      "url": "https://www.windowscentral.com/microsoft/windows-11/amid-ram-price-hikes-microsoft-reportedly-raises-windows-license-cost-forcing-oems-to-hike-prices-even-further-on-hardware",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/M7JF68YqgZSesrbfH9m6DN-2048-80.jpg",
-      "publishedAt": "2026-08-10T20:47:20Z",
-      "content": "According to a new report from Taiwanese publication United Daily News (UDC,) Microsoft is raising the cost of Windows license fees for hardware makers by a much higher amount than normal. According … [+2331 chars]"
+      "author": "Cade Onder",
+      "title": "Battlefield 6 Player With Over 400 Hours Gets Full Refund from Steam After Key Modes Were Removed - IGN",
+      "description": "A Battlefield 6 player with hundreds of hours of playtime has scored a full refund of the game after Battlefield Studios removed key modes from the game's quick-play matchmaking.",
+      "url": "https://www.ign.com/articles/battlefield-6-player-with-over-400-hours-gets-full-refund-from-steam-after-key-modes-were-removed",
+      "urlToImage": "https://assets-prd.ignimgs.com/2026/07/30/bf6-vod1-oo-thumb-1785452574960.png?width=1280&format=jpg&auto=webp&quality=80",
+      "publishedAt": "2026-08-10T21:10:18Z",
+      "content": "A Battlefield 6 player with hundreds of hours of playtime has scored a full refund of the game after Battlefield Studios removed key modes from its quick-play matchmaking.\r\nOver on Reddit, the player… [+2280 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Kotaku"
+      },
+      "author": "Kenneth Shepard",
+      "title": "Marvel Tōkon PC Patch Improves Struggling Steam Version: ‘Maybe PS5 Players Will Play With Us Now’ - Kotaku",
+      "description": "Arc System Works’ new Marvel tag fighter has been struggling on PC since beta",
+      "url": "https://kotaku.com/marvel-tokon-fighting-souls-pc-patch-performance-steam-2000723166",
+      "urlToImage": "https://kotaku.com/app/uploads/2026/07/tokon-1200x675.jpg",
+      "publishedAt": "2026-08-10T20:59:49Z",
+      "content": "Marvel Tkon: Fighting Souls came out last week and while the PS5 version of Arc System Works fighting game is going down well enough, PC players have reported performance issues so bad that prominent… [+2372 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "9to5google.com"
+      },
+      "author": "Ben Schoon",
+      "title": "Google’s base Pixel 11 probably won’t have ‘HiLight’ but will actually have enough RAM - 9to5Google",
+      "description": "With just hours left to go for Google’s Pixel 11 launch event, details keep on leaking out, with some clarification...",
+      "url": "http://9to5google.com/2026/08/10/pixel-11-hilight-ram-leak/",
+      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/07/Pixel-11-Glow-teaser.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2026-08-10T20:15:00Z",
+      "content": "With just hours left to go for Googles Pixel 11 launch event, details keep on leaking out, with some clarification around the base Pixel 11 now making its way online.\r\nOne of the few new features com… [+1294 chars]"
     },
     {
       "source": {
@@ -100,15 +139,28 @@
     {
       "source": {
         "id": null,
-        "name": "9to5google.com"
+        "name": "Yahoo Entertainment"
       },
-      "author": "Ben Schoon",
-      "title": "Galaxy S26 FE specs leak alongside a higher price tag - 9to5Google",
-      "description": "Ahead of its launch that will likely happen next month, Samsung’s Galaxy S26 FE has had its full specs leak...",
-      "url": "http://9to5google.com/2026/08/10/galaxy-s26-fe-specs-leak-alongside-a-higher-price-tag/",
-      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/08/galaxy-s26-fe-leak-1.webp?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "publishedAt": "2026-08-10T19:45:00Z",
-      "content": "Ahead of its launch that will likely happen next month, Samsung’s Galaxy S26 FE has had its full specs leak alongside a higher price tag for the device that exists solely to be more affordable.\r\nWinF… [+1285 chars]"
+      "author": "Moz Farooque ACCA",
+      "title": "Apple Users Face Major iPhone 18 Shock - Yahoo Finance",
+      "description": "Apple may have to choose between price and volume",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/apple-users-face-major-iphone-192846036.html",
+      "urlToImage": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
+      "publishedAt": "2026-08-10T19:28:46Z",
+      "content": "This article first appeared on GuruFocus.\r\nApple (NASDAQ:AAPL) could face a sharper iPhone margin squeeze than investors expected, with TrendForce estimating that the bill of materials for the 256GB … [+2307 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Jay Peters",
+      "title": "Bluesky now lets you hide reposts from that annoying person you follow - The Verge",
+      "description": "Bluesky has added a new feature that lets you hide reposts from a specific person in your feeds. It’s also adding post numbers in threads as part of a beta feature.",
+      "url": "https://www.theverge.com/tech/977581/bluesky-hide-reposts-user-post-count-threads",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/bafkreig2hq7svgwj4bppizprcv5t3dlg4zbu3a6pvbebftlavbocibuud4.webp?quality=90&strip=all&crop=0%2C6.1039458562125%2C100%2C87.792108287575&w=1200",
+      "publishedAt": "2026-08-10T19:26:50Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nBluesky is giving you another way to control your feeds.\r\nBluesky is giving you another way to control your feeds.\r\nby\r\nJay PetersClose\r\nPosts from this author w… [+1716 chars]"
     },
     {
       "source": {
@@ -122,6 +174,19 @@
       "urlToImage": "https://gameinformer.com/sites/default/files/styles/og_image/public/2026/08/10/4015b9bb/big%20walk%20million%20units.jpg.webp",
       "publishedAt": "2026-08-10T18:41:00Z",
       "content": "Big Walk, the recently released multiplayer puzzle game from House House, has officially sold one million copies. It's a major milestone to hit for any game, but it's especially significant for an in… [+1509 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Lowpass.cc"
+      },
+      "author": "Janko Roettgers",
+      "title": "Sonos gets ready to launch new Ace Ultra headphones - Lowpass",
+      "description": "The company may add support for its voice assistant",
+      "url": "https://www.lowpass.cc/p/sonos-ace-ultra-headphones-fcc-filing-september-launch-wifi-voice-assistant",
+      "urlToImage": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/c66aa88c-6484-4345-af17-fd13fc3fa3fd/Screenshot_2026-08-10_11.00.02_AM.png?t=1786384835",
+      "publishedAt": "2026-08-10T18:26:24Z",
+      "content": "Sonos is getting ready to unveil a new pair of over-ear headphones, according to a filing that made its way through the FCC Monday. The new product, dubbed Ace Ultra, is likely going to be unveiled a… [+719 chars]"
     },
     {
       "source": {
@@ -242,16 +307,16 @@
     },
     {
       "source": {
-        "id": "the-verge",
-        "name": "The Verge"
+        "id": null,
+        "name": "GSMArena.com"
       },
-      "author": "Jay Peters",
-      "title": "What to expect from Google’s 2026 Pixel hardware launch event - The Verge",
-      "description": "Google’s Made By Pixel hardware launch event is expected to include details about the Pixel 11 lineup, the Pixel Watch 5, and a new Pixel Tag item tracker.",
-      "url": "https://www.theverge.com/tech/977448/made-by-google-2026-pixel-hardware-launch-event",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/videoframe_17597.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-      "publishedAt": "2026-08-10T17:30:00Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nGet ready for a bunch of new phones, smartwatches, and maybe even an item tracker.\r\nGet ready for a bunch of new phones, smartwatches, and maybe even an item tra… [+8025 chars]"
+      "author": "Peter",
+      "title": "Report: Samsung is increasing the Galaxy Z Fold8 production target for this year by 1 million units - GSMArena.com news - GSMArena.com",
+      "description": "The new wide format foldable has already proven to be more successful than even Samsung had hoped. The Samsung Galaxy Z Fold8 has proven to be more...",
+      "url": "https://www.gsmarena.com/report_samsung_is_increasing_the_galaxy_z_fold8_production_target_for_this_year_by_1_million_units-news-74092.php",
+      "urlToImage": "https://fdn.gsmarena.com/imgroot/news/26/08/samsung-increases-build-target-for-galaxy-z-fold8/-952x498w6/gsmarena_000.jpg",
+      "publishedAt": "2026-08-10T17:38:02Z",
+      "content": "The Samsung Galaxy Z Fold8 has proven to be more successful than even Samsung dared to hope. According to ETNews, the companys initial production batch already favored the new wide foldable Samsung h… [+1734 chars]"
     },
     {
       "source": {
@@ -291,19 +356,6 @@
       "urlToImage": "https://gizmodo.com/app/uploads/2025/09/Apple-Watch-SE-3-Series-11-Ultra-3-Sleep-Score-Hypertension-8-1200x675.jpg",
       "publishedAt": "2026-08-10T17:15:05Z",
       "content": "Screenless fitness bands like the Garmin Cirqa and Fitbit Air are cheaper and less distracting alternatives to the Apple Watch, and their popularity hasn’t gone unnoticed. Bloomberg reports that Appl… [+2259 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Autocar"
-      },
-      "author": "Charlie Martin",
-      "title": "This 819bhp supercar is what a Porsche 911 Turbo S designed for Mars would look like - Autocar",
-      "description": "Son of 1980s tuning hero reveals new take on all-weather supercar, inspired by legendary 959",
-      "url": "https://www.autocar.co.uk/car-news/new-cars/new-marsien-gt-unveiled-819bhp-porsche-959-inspired-supercar",
-      "urlToImage": "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/images/car-reviews/first-drives/legacy/04_marsien_gt.jpg",
-      "publishedAt": "2026-08-10T17:01:04Z",
-      "content": "Marc Philipp Gemballa, the son of 1980s tuning legend Uwe Gemballa, has revealed a new road-focused, Porsche 959-inspired supercar called the Marsien GT.\r\nIt's based on the Marsien, the genre-bending… [+1563 chars]"
     },
     {
       "source": {
@@ -359,32 +411,6 @@
     },
     {
       "source": {
-        "id": "cnn",
-        "name": "CNN"
-      },
-      "author": "Henry T. Casey",
-      "title": "I spent a week with Samsung’s $2,100 Galaxy Z Fold 8 Ultra to see if it’s worth it - CNN",
-      "description": "Our tech reviewer spent a week with the Galaxy Z Fold 8 Ultra to see how it compares against the new Z Fold 8 and other foldable phones.",
-      "url": "https://www.cnn.com/cnn-underscored/reviews/samsung-galaxy-z-fold8-ultra",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/samsung-galaxy-z-flip-8-ultrae-cnnu-1.jpg?c=16x9&q=w_800,c_fill",
-      "publishedAt": "2026-08-10T16:19:00Z",
-      "content": "The Galaxy Z Fold 8 Ultra is Samsungs latest phone that unfolds to a midsize tablet, giving folks who want both an easier way to travel lighter. But there was no Galaxy Z Fold 7 Ultra that came befor… [+14076 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "TechSpot"
-      },
-      "author": "Skye Jacobs",
-      "title": "A cybersecurity researcher covered a Toyota in an AI-generated pattern to confuse Flock cameras - TechSpot",
-      "description": "Donut Media plans to release video of the test in the coming weeks.",
-      "url": "https://www.techspot.com/news/113418-cybersecurity-researcher-covered-toyota-ai-generated-pattern-confuse.html",
-      "urlToImage": "https://www.techspot.com/images2/news/bigimage/2026/08/2026-08-10-image-18.jpg",
-      "publishedAt": "2026-08-10T16:11:00Z",
-      "content": "What just happened? Bill Swearingen's noRecognition project is testing whether computer-generated patterns can interfere with software used to identify people, vehicles, and other objects on surveill… [+4311 chars]"
-    },
-    {
-      "source": {
         "id": null,
         "name": "Starcitygames.com"
       },
@@ -399,15 +425,15 @@
     {
       "source": {
         "id": null,
-        "name": "Eurogamer.net"
+        "name": "Gematsu"
       },
-      "author": "Robert Purchese",
-      "title": "Assassin's Creed creator's dark and witchy action game 1666: Amsterdam is out in early access sooner than we expected - Eurogamer.net",
-      "description": "It's been 15 years in the making, one way or another, and now 1666: Amsterdam's early access release date is in sight.",
-      "url": "https://www.eurogamer.net/amsterdam-1666-early-access-release-date",
-      "urlToImage": "https://assetsio.gnwcdn.com/amsterdam-1666_GtEC3xc.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "publishedAt": "2026-08-10T16:02:09Z",
-      "content": "1666: Amsterdam, a game that's survived years of legal battles between Assassin's Creed creator Patrice Désilets and Ubisoft, has an early access release date. It'll be released 25th August for PC, o… [+1490 chars]"
+      "author": "Sal Romano",
+      "title": "1666: Amsterdam launches in Early Access on August 25 - Gematsu",
+      "description": "Dark third-person narrative action adventure game 1666: Amsterdam will launch in Early Access for PC via Steam and Epic Games Store on August 25, developer Panache Digital Games announced.",
+      "url": "https://www.gematsu.com/2026/08/1666-amsterdam-launches-in-early-access-on-august-25",
+      "urlToImage": "https://www.gematsu.com/wp-content/uploads/2026/08/1666-EA-Date_08-10-26.jpg",
+      "publishedAt": "2026-08-10T16:06:00Z",
+      "content": "The latest “Gameplay Feature” trailer introduces the game’s investigation mechanics, as well as combat, the day and night cycle, Noa’s mystical abilities, Aaron’s feline gameplay, and how both charac… [+1916 chars]"
     },
     {
       "source": {
@@ -421,32 +447,6 @@
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/12/powered-by-steam-os-1152x648.jpg",
       "publishedAt": "2026-08-10T16:01:04Z",
       "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Kotaku"
-      },
-      "author": "Zack Zwiezen",
-      "title": "Upcoming Halloween Game Banned In Australia Over Drugs And Now Some GTA 6 Fans Are Worried - Kotaku",
-      "description": "GTA Online banned Australian players from its casino last month due to local laws and regulations",
-      "url": "https://kotaku.com/upcoming-halloween-game-banned-in-australia-over-drugs-and-now-some-gta-6-fans-are-worried-2000723023",
-      "urlToImage": "https://kotaku.com/app/uploads/2026/08/GTA-6-halloweeeeeeen.jpg",
-      "publishedAt": "2026-08-10T16:00:18Z",
-      "content": "Halloween: The Game is set to launch this September on Xbox Series X/S, PS5, and PC. But not for players in Australia and New Zealand, as the upcoming slasher game has been denied classification over… [+2902 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Pokebeach.com"
-      },
-      "author": "Water Pokémon Master",
-      "title": "Day and Night Pikachu ex Revealed from \"30th Celebration!\" - PokeBeach",
-      "description": "TPCi has officially revealed the day and night versions of Pikachu ex from 30th Celebration. The set's products will begin to release worldwide on",
-      "url": "https://www.pokebeach.com/2026/08/day-and-night-pikachu-ex-revealed-from-30th-celebration",
-      "urlToImage": "https://www.pokebeach.com/news/2026/08/054-Pikachu-ex.jpg",
-      "publishedAt": "2026-08-10T15:50:10Z",
-      "content": "Pokémon and its trademarks are ©1995-2026 Nintendo, Creatures, and GAMEFREAK. English card images appearing on this website are the property of The Pokémon Company International, Inc.\r\nPokeBeach.com … [+264 chars]"
     },
     {
       "source": {
@@ -503,15 +503,15 @@
     {
       "source": {
         "id": null,
-        "name": "Top Gear"
+        "name": "MacRumors"
       },
-      "author": "Top Gear",
-      "title": "Dodge’s new Charger Super Bee ups the inline-six’s output to 600bhp - Top Gear",
-      "description": "Iconic name comes back alongside new turbos, uprated brakes, extra aero and insect graphics",
-      "url": "https://www.topgear.com/car-news/usa/dodges-new-charger-super-bee-ups-inline-sixs-output-600bhp",
-      "urlToImage": "https://www.topgear.com/sites/default/files/images/news-article/2026/08/264ac02234435e7ef38ab056587c35b1/DG027_335CH%20copy.jpg?w=1280&h=720",
-      "publishedAt": "2026-08-10T14:15:00Z",
-      "content": "USAIconic name comes back alongside new turbos, uprated brakes, extra aero and insect graphics\r\nWhile the all-electric Dodge Charger can make up to 670bhp with all the right buttons pressed, up until… [+2186 chars]"
+      "author": "Tim Hardwick",
+      "title": "Apple's Foldable iPhone Ultra Faces a Surging Samsung Galaxy Z Fold 8 - MacRumors",
+      "description": "Apple's foldable iPhone is expected to arrive in September against a rival already outrunning its own forecasts.   ETNews reports Samsung is...",
+      "url": "https://www.macrumors.com/2026/08/10/foldable-iphone-faces-surging-galaxy-z-fold-8/",
+      "urlToImage": "https://images.macrumors.com/t/eAhfE9XyM_P8ec_NbbjbqhdzZrs=/1600x/article-new/2026/08/samsung-galaxy-z-fold8.jpg",
+      "publishedAt": "2026-08-10T14:41:21Z",
+      "content": "Apple's foldable iPhone is expected to arrive in September against a rival already outrunning its own forecasts. \r\nETNews reports Samsung is building an extra one million Galaxy Z Fold 8 units, after… [+201 chars]"
     },
     {
       "source": {
@@ -594,6 +594,19 @@
     {
       "source": {
         "id": null,
+        "name": "Supercarblondie.com"
+      },
+      "author": "Ben Thompson",
+      "title": "Dodge Charger Super Bee returns for 2027 and it has something more powerful than a V8 under the hood - supercarblondie.com",
+      "description": "The Dodge Charger Super Bee will be coming out in 2027, in what is set to be an epic comeback for an iconic car - and it doesn't have a V8 anymore",
+      "url": "https://supercarblondie.com/dodge-charger-super-bee-return-2027/",
+      "urlToImage": "https://supercarblondie.com/cdn-cgi/image/width=1200,height=675,quality=80,format=webp,fit=cover/wp-content/uploads/Dodge-Super-Bee-featured.webp",
+      "publishedAt": "2026-08-10T12:40:00Z",
+      "content": "The Dodge Charger Super Bee is finally making its comeback and this time around, theres something more powerful than a V8 sitting underneath the hood. \r\nA whole lot has changed in the sixty years sin… [+2372 chars]"
+    },
+    {
+      "source": {
+        "id": null,
         "name": "Internet"
       },
       "author": "The Hacker News",
@@ -603,32 +616,6 @@
       "urlToImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjWKCkGCqH-c6Yaqkd_NnzFQijViu34tjAEsdl9tl2CmZLHL4m1rLhezO76zF6XFRTGS9Sr4R3jhMD7z15QV0BMqG948bjg8SoZb_j6HtQajd0PUDR8Tmw06GMqDwS6VhAtH-ZNtD06lzb9KMhJsHi-Vvkps0n6bl6C8n6rSBHCldBuc1cMczr30h11N-8/s1600/passkeys.jpg",
       "publishedAt": "2026-08-10T12:25:00Z",
       "content": "Three separate research efforts last week demonstrated ways to defeat passkey protections without breaking the cryptography they rest on.\r\nPasskeys are designed to replace reusable passwords and resi… [+8504 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Videocardz.com"
-      },
-      "author": null,
-      "title": "Intel launches Star Wars and Tomb Raider game bundle for Core Ultra 200/300, 14th Gen Core and Arc G3 CPUs - VideoCardz.com",
-      "description": "Intel is offering two games with qualifying Core and Arc hardware through September. The promotion covers products ranging from 14th Gen Core to Core Ultra 300 and Arc G3.",
-      "url": "https://videocardz.com/newz/intel-launches-star-wars-and-tomb-raider-game-bundle-for-core-ultra-200-300-14th-gen-core-and-arc-g3-cpus",
-      "urlToImage": "https://cdn.videocardz.com/1/2026/08/INTEL-STAR-WARS-LARA-GAME-BUNDLE-HERO.webp",
-      "publishedAt": "2026-08-10T11:50:51Z",
-      "content": "Intel has launched its new Gamer Days Bundle promotion, offering two games with qualifying Intel processors, graphics products and systems. The promotion starts August 10 and may run through Septembe… [+2187 chars]"
-    },
-    {
-      "source": {
-        "id": "ign",
-        "name": "IGN"
-      },
-      "author": "Wesley Yin-Poole",
-      "title": "Take-Two Boss Says Borderlands 4 Performance 'Has Not Affected Our Plans at All' as Fans Await Year 2 Roadmap - IGN",
-      "description": "Take-Two boss Strauss Zelnick has insisted publisher 2K remains committed to Borderlands 4, and that the looter shooter's commercial performance hasn’t affected plans to support the game.",
-      "url": "https://www.ign.com/articles/were-totally-supporting-it-take-two-boss-says-borderlands-4-performance-has-not-affected-our-plans-at-all-as-fans-await-year-2-roadmap",
-      "urlToImage": "https://assets-prd.ignimgs.com/2026/08/10/borderlands-4-1786362102249.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "publishedAt": "2026-08-10T11:45:25Z",
-      "content": "Take-Two boss Strauss Zelnick has insisted publisher 2K remains committed to Borderlands 4, and that the looter shooter's commercial performance hasnt affected plans to support the game.\r\nSome within… [+3300 chars]"
     },
     {
       "source": {
@@ -645,16 +632,16 @@
     },
     {
       "source": {
-        "id": "ars-technica",
-        "name": "Ars Technica"
+        "id": null,
+        "name": "Thewalrus.ca"
       },
-      "author": "Ars Contributors",
-      "title": "Peer review is overwhelmed—can it survive in the AI era? - Ars Technica",
-      "description": "As research and AI-assisted papers surge, volunteer reviewers struggle to keep up.",
-      "url": "https://arstechnica.com/science/2026/08/peer-review-is-overwhelmed-can-it-survive-in-the-ai-era/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/peer-review-difficulties-1152x648.jpg",
-      "publishedAt": "2026-08-10T11:00:47Z",
-      "content": null
+      "author": "Vass Bednar",
+      "title": "Google Search Is Dying. What Comes Next Is Worse - The Walrus",
+      "description": "As AI eats the web, the internet’s collective memory is disappearing",
+      "url": "https://thewalrus.ca/google-search-is-dying/",
+      "urlToImage": "https://walrus-assets.s3.amazonaws.com/img/Bednar-Google-1800.jpg",
+      "publishedAt": "2026-08-10T10:30:02Z",
+      "content": "It turns out a lot of people ask Google when the sun will set. Its a good fact to know. Getting a ballpark on twilight can help you plan a bike ride, barbecue, or a perfectly timed promposal. The occ… [+11115 chars]"
     },
     {
       "source": {
@@ -681,19 +668,6 @@
       "urlToImage": "https://img.buzzfeed.com/buzzfeed-static/static/2026-08/05/18/thumb/sBXADJVqj.jpg?crop=2999:1570;0,2%26downsize=1250:*",
       "publishedAt": "2026-08-10T10:16:04Z",
       "content": "by Ajani Bazile-DutesBuzzFeed\r\nBuzzFeed StaffI'm a Senior Staff Writer who writes a wide range of topics, spanning from people's real-life drama to pop culture to funny things I find on the internet."
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Video Games Chronicle"
-      },
-      "author": "Chris Scullion",
-      "title": "‘I don’t think this is a good idea’: Veteran Bethesda world artist says Starfield having 1,000+ planets was the wrong move - Video Games Chronicle",
-      "description": "\"I would have done a handful of planets with bespoke layouts\", the Fallout 3/4 artist says",
-      "url": "https://www.videogameschronicle.com/news/i-dont-think-this-is-a-good-idea-veteran-bethesda-world-artist-says-starfield-having-1000-planets-was-the-wrong-move/",
-      "urlToImage": "https://www.videogameschronicle.com/files/2023/11/starfield-m.jpg",
-      "publishedAt": "2026-08-10T09:57:11Z",
-      "content": "A former veteran environmental artist at Bethesda says the decision to have more than 1,000 planets in Starfield was the wrong move.\r\nNathan Purkeypile worked at Bethesda for 14 years, during which t… [+2659 chars]"
     },
     {
       "source": {
@@ -737,19 +711,6 @@
     {
       "source": {
         "id": null,
-        "name": "Film Stories"
-      },
-      "author": "Simon Brew",
-      "title": "Google removes access to legally bought Lord Of The Rings movies - Film Stories",
-      "description": "Google books a trip to Mordor, as it removes a legally-bought digital copy of Lord Of The Rings Extended Edition, and refuses a refund.",
-      "url": "https://filmstories.co.uk/news/google-removes-access-to-legally-bought-lord-of-the-rings-movies/",
-      "urlToImage": "https://spaces.filmstories.co.uk/uploads/2020/08/lord-of-the-rings.jpg",
-      "publishedAt": "2026-08-10T06:50:12Z",
-      "content": "Google books itself a trip to Mordor, as it removes a legally-bought digital copy of Lord Of The Rings Extended Edition, and refuses a refund. Its not the most difficult rule of thumb here: that if y… [+2674 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "SlashGear"
       },
       "author": "Stephen Fogel",
@@ -759,6 +720,19 @@
       "urlToImage": "https://www.slashgear.com/img/gallery/7-common-issues-with-the-toyota-gr-corolla-hot-hatch/l-intro-1785881143.jpg",
       "publishedAt": "2026-08-10T02:15:00Z",
       "content": "A major concern that Toyota GR Corolla owners have noticed relates to how much the clutch wears, particularly involving use at the track, or even during normal operation if practices like clutch slip… [+1246 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Conversation Africa"
+      },
+      "author": "Melissa Lee",
+      "title": "Generative AI has changed mathematics forever. Where to from here? - The Conversation",
+      "description": "AI-powered breakthroughs are raising big questions about how to do mathematics – and why we do it in the first place.",
+      "url": "https://theconversation.com/generative-ai-has-changed-mathematics-forever-where-to-from-here-288954",
+      "urlToImage": "https://images.theconversation.com/files/752487/original/file-20260806-50-d5v1wl.jpg?ixlib=rb-4.1.1&rect=0%2C333%2C4897%2C2448&q=45&auto=format&w=1356&h=668&fit=crop",
+      "publishedAt": "2026-08-09T20:11:30Z",
+      "content": "A little over a week ago, artificial intelligence company OpenAI announced ten advances in mathematics and computer science made with their as-yet unreleased model Astra. The discoveries cover a wide… [+5199 chars]"
     },
     {
       "source": {
@@ -789,6 +763,32 @@
     {
       "source": {
         "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Zack Whittaker",
+      "title": "This ‘adversarial’ pattern can prevent surveillance cameras from detecting you - Yahoo Tech",
+      "description": "A security researcher has designed an algorithm that can create computer-generated patterns capable of hiding people, faces, and vehicles from detection by s...",
+      "url": "https://tech.yahoo.com/cybersecurity/articles/adversarial-pattern-prevent-surveillance-cameras-140000786.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/76c97ad6c390a2262e4e62a499044792c5433bd0c4e2119f694c84309859786b/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftechcrunch_finance_785%2F8352eb6e59384ea554595a687ea33296",
+      "publishedAt": "2026-08-09T14:00:00Z",
+      "content": "Bill Swearingen has spent the past year running largely the same test, over and over again. The goal was to produce a computer-generated pattern that could block the surveillance cameras lining Ameri… [+6289 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gamegpu.com"
+      },
+      "author": "Evgen Kovalov",
+      "title": "NVIDIA reveals details of DLSS 5 and confirms its exclusivity for RTX 50 series. - GameGPU",
+      "description": "Nvidia revealed details of DLSS 5 technology at SIGGRAPH 2026. Research directors confirmed the launch...",
+      "url": "https://en.gamegpu.com/news/igry/nvidia-raskryla-podrobnosti-dlss-5-i-podtverdila-eksklyuzivnost-dlya-rtx-50",
+      "urlToImage": "https://gamegpu.com/images/1_2026/NEWS/Q2/Avg/Image_5vwe8e5vwe8e5vwe_ggpu.webp#joomlaImage://local-images/1_2026/NEWS/Q2/Avg/Image_5vwe8e5vwe8e5vwe_ggpu.webp?width=1920&height=1080",
+      "publishedAt": "2026-08-09T12:27:03Z",
+      "content": "Nvidia revealed details of DLSS 5 technology at SIGGRAPH 2026. Research directors confirmed that it will launch in the fall of 2026 exclusively for GeForce RTX 50 series graphics cards. Previous gene… [+1000 chars]"
+    },
+    {
+      "source": {
+        "id": null,
         "name": "BGR"
       },
       "author": "Chris Smith",
@@ -798,32 +798,6 @@
       "urlToImage": "https://www.bgr.com/img/gallery/what-phone-is-spider-man-using-in-brand-new-day/l-intro-1786113969.jpg",
       "publishedAt": "2026-08-09T11:17:00Z",
       "content": "Given the massive success of \"Brand New Day\" at the box office, Samsung's decision to partner with Sony for the release of its 2026 foldables is notable. The new \"Spider-Man\" movie made $932 million … [+1374 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ScienceAlert"
-      },
-      "author": "Jess Cockerill",
-      "title": "The World's Vegetables Are Vanishing, And It's Quietly Wrecking Our Diets - ScienceAlert",
-      "description": "Most of us aren't eating anywhere near enough vegetables, and we're suffering the health consequences.",
-      "url": "https://www.sciencealert.com/the-worlds-vegetables-are-vanishing-and-its-quietly-wrecking-our-diets",
-      "urlToImage": "https://www.sciencealert.com/images/2026/08/dying-corn.jpg",
-      "publishedAt": "2026-08-09T11:01:41Z",
-      "content": "Most of us aren't eating anywhere near enough vegetables, and we're suffering the health consequences.\r\nMeanwhile, we're also growing fewer and fewer varieties of vegetables, adding to the declining … [+5557 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Post Magazine"
-      },
-      "author": null,
-      "title": "US and Israeli physicists hail China’s glueball discovery as a ‘triumph’ - South China Morning Post",
-      "description": "Global experts praise team for solving 50-year-old puzzle, while Chinese social media buzzes with Nobel Prize predictions.",
-      "url": "https://www.scmp.com/news/china/science/article/3363444/matter-pure-force-us-israeli-physicists-hail-chinas-glueball-discovery-triumph",
-      "urlToImage": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/08/09/253c1b0b-23e1-4893-9a1e-dbc944b9f907_59900823.jpg?itok=RJWsYV_4&v=1786269946",
-      "publishedAt": "2026-08-09T10:05:54Z",
-      "content": "The international physics community has hailed a Chinese-led discovery as a triumph after researchers presented the strongest evidence yet for the existence of the glueball a mysterious particle made… [+935 chars]"
     }
   ]
 }

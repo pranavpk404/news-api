@@ -3,86 +3,203 @@
   "country": "us",
   "category": "business",
   "mode": "country",
-  "fetched_at": "2026-08-14T12:32:09.627223+00:00",
+  "fetched_at": "2026-08-14T14:42:10.240850+00:00",
   "articles_count": 60,
   "articles": [
     {
       "source": {
         "id": null,
-        "name": "Barron's"
+        "name": "CNBC"
       },
-      "author": "Barron's",
-      "title": "Cisco Networking Sales Surge on AI Demand. Why the Stock Is Down After Earnings. - Barron's",
+      "author": "Yun Li",
+      "title": "'Big Short' investor Steve Eisman sees an Achilles' heel in the AI boom - CNBC",
+      "description": "Steve Eisman is warning that the artificial intelligence boom has become increasingly dependent on the fortunes of just two companies: OpenAI and Anthropic.",
+      "url": "https://www.cnbc.com/2026/08/13/big-short-investor-steve-eisman-sees-an-achilles-heel-in-the-ai-boom.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107327714-1698931527683-gettyimages-949516886-AFP_13Z2MW.jpeg?v=1698938212&w=1920&h=1080",
+      "publishedAt": "2026-08-13T13:19:00Z",
+      "content": "Steve Eisman is warning that the artificial intelligence boom has become increasingly dependent on the fortunes of just two companies: OpenAI and Anthropic.\r\nThe investor, best known for his bet agai… [+1751 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Robert Frank",
+      "title": "Inside Wealth: Monterey Car Week auctions could hit a record $500 million, with help from younger buyers - CNBC",
+      "description": "A new generation of millennials and Gen Zers is taking over the collecting market from baby boomers and bidding up modern supercars at Monterey Car Week.",
+      "url": "https://www.cnbc.com/2026/08/13/monterey-car-week-auctions-sales-estimates.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108349060-1786624767133-IMG_2742.jpeg?v=1786624852&w=1920&h=1080",
+      "publishedAt": "2026-08-13T13:15:01Z",
+      "content": "A version of this article first appeared in CNBC's Inside Wealth newsletter with Robert Frank, a weekly guide to the high-net-worth investor and consumer. Sign up to receive future editions, straight… [+4847 chars]"
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Alicia Wallace",
+      "title": "US wholesale inflation slowed more than expected in July - CNN",
+      "description": "Businesses’ costs aren’t rising as fast as they have been in recent months, an indication that price hikes could slow for consumers in the months ahead.",
+      "url": "https://www.cnn.com/2026/08/13/economy/us-ppi-wholesale-inflation-july",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2280155493.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2026-08-13T12:43:08Z",
+      "content": "Businesses costs arent rising as fast as they have been in recent months, an indication that price hikes could slow for consumers in the months ahead.\r\nThe Producer Price Index, which tracks prices c… [+2457 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Sarah Agostino",
+      "title": "New federal rules could end mortgage escrow interest for some homeowners. States are suing to block them - CNBC",
+      "description": "A new lawsuit challenges recently issued rules from federal banking regulators that preempts state laws requiring banks to pay interest on escrow accounts.",
+      "url": "https://www.cnbc.com/2026/08/13/mortgage-escrow-account-interest-lawsuit-bank-rules.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108348450-1786542040544-gettyimages-2042511845-tae00779.jpeg?v=1786542201&w=1920&h=1080",
+      "publishedAt": "2026-08-13T12:15:02Z",
+      "content": "A legal battle is brewing over new federal rules related to accounts that hold money to pay homeowners' property taxes and insurance payments.\r\nTen state attorneys general filed a lawsuit on Tuesday … [+4593 chars]"
+    },
+    {
+      "source": {
+        "id": "associated-press",
+        "name": "Associated Press"
+      },
+      "author": "Bernard Condon",
+      "title": "Lawsuit seeks to ban Trump Media from charging for early access to president's posts on US policy - AP News",
+      "description": "President Donald Trump was sued in federal court Wednesday to stop him from making money off a new, paid service at his Truth Social company offering early, exclusive access to his posts on U.S. policy. The lawsuit alleges the service offering paying customer…",
+      "url": "https://apnews.com/article/trump-media-lawsuit-truth-social-access-wall-street-traders-7f057fd1dba31dd4e357c8bf635ee009",
+      "urlToImage": "https://dims.apnews.com/dims4/default/02c7133/2147483647/strip/true/crop/3335x2222+0+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fce%2Fc6%2F2fe0f9552c162d365637ab9cf9cb%2F86b39af0de0e41bd984a7cc7e3349392",
+      "publishedAt": "2026-08-13T12:10:00Z",
+      "content": "NEW YORK (AP) President Donald Trump was sued in federal court Wednesday to stop him from making money off a new, paid service at his Truth Social company offering early, exclusive access to his post… [+3528 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Quartz India"
+      },
+      "author": "Cris Tolomia",
+      "title": "Bill Ackman's Pershing Square buys Netflix, 5 other stocks in 2026 - qz.com",
+      "description": "The hedge fund also disclosed new positions in Visa, Mastercard, S&P Global, Intercontinental Exchange, and Alcon",
+      "url": "https://qz.com/bill-ackman-pershing-square-netflix-new-positions-081326",
+      "urlToImage": "https://qz.com/cdn-cgi/image/width=1200,quality=85,format=auto/https://assets.qz.com/media/GettyImages-1232471334-300x202.jpg",
+      "publishedAt": "2026-08-13T11:52:33Z",
+      "content": "Global business news for a smarter world\r\n<li>Privacy and Cookie Settings</li>\r\n© 2026 Quartz Media, Inc. All rights reserved.\r\nThe hedge fund also disclosed new positions in Visa, Mastercard, S&amp;… [+2671 chars]"
+    },
+    {
+      "source": {
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
+      },
+      "author": "WSJ",
+      "title": "Stock Market Today: Stock Futures Tick Higher - WSJ",
       "description": null,
-      "url": "https://www.barrons.com/articles/cisco-systems-earnings-stock-price-ec1ea4f5",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-13-2026",
       "urlToImage": null,
-      "publishedAt": "2026-08-13T10:05:00Z",
+      "publishedAt": "2026-08-13T11:46:00Z",
       "content": null
     },
     {
       "source": {
         "id": null,
-        "name": "Barron's"
+        "name": "CNBC"
       },
-      "author": "Adam Levine",
-      "title": "Cerebras Stock Plunges After Strong Earnings Report - Barron's",
-      "description": "Cerebras Systems stock has had a wild ride in a crowded field. Its stock was down despite a strong earnings report.",
-      "url": "https://www.barrons.com/articles/cerebras-systems-earnings-stock-price-fac4c486",
-      "urlToImage": "https://images.barrons.com/im-27251103/social",
-      "publishedAt": "2026-08-13T08:49:00Z",
-      "content": "Artificial-intelligence chip makerCerebrasSystems reported solid second-quarter earnings results late Wednesday. Its shares were down 17% in Thursdays premarket, having closed 12% higher on Wednesday… [+100 chars]"
+      "author": "Hayley Cuccinello",
+      "title": "The ‘20% rule’ behind Giorgos Tsetis’ blueprint for a new kind of family office - CNBC",
+      "description": "Family offices are built to be patient with their money. Giorgos Tsetis is not.",
+      "url": "https://www.cnbc.com/2026/08/13/family-office-giorgos-tsetis-nutrafol.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108348499-1786546135594-Giorgos_6.JPG?v=1786570877&w=1920&h=1080",
+      "publishedAt": "2026-08-13T11:30:01Z",
+      "content": "A version of this article first appeared in CNBC's Inside Wealth newsletter with Robert Frank, a weekly guide to the high-net-worth investor and consumer. Sign up to receive future editions, straight… [+4458 chars]"
     },
     {
       "source": {
-        "id": null,
-        "name": "Investing.com"
+        "id": "ars-technica",
+        "name": "Ars Technica"
       },
-      "author": "Roushni Nair",
-      "title": "KOSPI exits bear market as tech rally returns; Nikkei gains, China slips - Investing.com",
-      "description": "KOSPI exits bear market as tech rally returns; Nikkei gains, China slips",
-      "url": "https://www.investing.com/news/stock-market-news/kospi-enters-bull-market-as-ai-rally-returns-japan-gains-china-tech-mixed-4856577",
-      "urlToImage": "https://content-media.investing.com/news/moved_LYNXMPEH3509L_L.jpg",
-      "publishedAt": "2026-08-13T07:41:42Z",
-      "content": "Investing.com -- Asian stocks mostly rose on Thursday as a renewed rally in technology shares pushed South Koreas KOSPI into a technical bull market, while a softer U.S. inflation report reduced expe… [+3275 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Abcnews.com"
-      },
-      "author": "ABC News - Breaking News, Latest News and Videos",
-      "title": "Powerball player in Illinois wins $1 billion jackpot - ABC News - Breaking News, Latest News and Videos",
-      "description": null,
-      "url": "https://abcnews.com/US/powerball-player-illinois-wins-1-billion-jackpot/story?id\\\\u003d135600933",
-      "urlToImage": null,
-      "publishedAt": "2026-08-13T06:07:30Z",
+      "author": "Ashley Belanger",
+      "title": "Claude's new Scarlet Letter watermark is invisible — for now - Ars Technica",
+      "description": "The mark flags anything Claude processed, even human writing it only edited.",
+      "url": "https://arstechnica.com/tech-policy/2026/08/claudes-new-scarlet-letter-watermark-is-invisible-for-now/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/claude-psycho-watermark-1152x648.jpg",
+      "publishedAt": "2026-08-13T11:10:18Z",
       "content": null
     },
     {
       "source": {
-        "id": null,
-        "name": "Hollywood Reporter"
+        "id": "usa-today",
+        "name": "USA Today"
       },
-      "author": "Caitlin Huston",
-      "title": "Alex Cooper’s Unwell Receives Investment From Patrick Whitesell’s Firm at $500 Million Valuation - The Hollywood Reporter",
-      "description": "This is the first outside investment taken by the company, which includes the breakout podcast 'Call Her Daddy.'",
-      "url": "http://www.hollywoodreporter.com/business/digital/alex-cooper-unwell-investment-patrick-whitesell-500-million-1236671737/",
-      "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2024/04/2024-Alex-Cooper-Headshot-by-Alex-Stone-H-2024.jpg?w=1296&h=730&crop=1",
-      "publishedAt": "2026-08-13T05:16:51Z",
-      "content": "WTSL, the Silver Lake-backed firm led by Patrick Whitesell, has made a strategic investment in Alex Cooper’s Unwell media company. \r\nThe exact figure was not disclosed, but the funding values the bus… [+2287 chars]"
+      "author": "Fernando Cervantes Jr.",
+      "title": "We have a winner! $1.040B Powerball jackpot ticket sold in Illinois - usatoday.com",
+      "description": "One ticket sold in the state matched all six numbers Wednesday, Aug. 12, sending one lucky player home with one of the lottery's largest prizes.",
+      "url": "https://www.usatoday.com/story/money/lottery/2026/08/13/powerball-jackpot-winner-illinois/91280892007/",
+      "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/08/13/USAT/91282047007-20260813-t-011149-z-1791631932-mt-1-usatoday-29570272-rtrmadp-3-apowerballlotteryticketinfrontofanewjerseylottery.JPG?crop=767,432,x0,y153&width=767&height=432&format=pjpg&auto=webp",
+      "publishedAt": "2026-08-13T10:40:00Z",
+      "content": "The search for Powerball's newest billionaire is underway after a single ticket sold in Illinois won $1 billion jackpot on Wednesday, Aug. 12.\r\nThe winning ticket was purchased at a Hy-Vee gas statio… [+2566 chars]"
+    },
+    {
+      "source": {
+        "id": "axios",
+        "name": "Axios"
+      },
+      "author": "Madison Mills, Zachary Basu",
+      "title": "Musk and Zuckerberg claw back into AI race with new model momentum - axios.com",
+      "description": "The tech giants are putting new pressure on a hierarchy dominated by OpenAI and Anthropic.",
+      "url": "https://www.axios.com/2026/08/13/grok-elon-musk-ai-zuckerberg-and-meta",
+      "urlToImage": "https://images.axios.com/TNXy-jkXC2Yg1uFmEn6Mc_qh77c=/0x0:1920x1080/1366x768/2026/07/28/1785257580576.jpeg",
+      "publishedAt": "2026-08-13T10:04:36Z",
+      "content": "State of play: Both companies released models this week featuring a combination of performance and price that would have been hard to imagine from either lab a year ago.\r\n<ul><li>SpaceX's Grok 4.6 sc… [+2998 chars]"
+    },
+    {
+      "source": {
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
+      },
+      "author": "WSJ",
+      "title": "Everyone Dreams of Island-Hopping Through Greece—Until They Board the ‘Vomit Comet’ - WSJ",
+      "description": null,
+      "url": "https://www.wsj.com/lifestyle/travel/everyone-dreams-of-island-hopping-through-greeceuntil-they-board-the-vomit-comet-287b97c6",
+      "urlToImage": null,
+      "publishedAt": "2026-08-13T09:30:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "fortune",
+        "name": "Fortune"
+      },
+      "author": "Jim Edwards",
+      "title": "Anthropic reportedly plans a $2 trillion IPO in October—the largest ever—that will eclipse SpaceX - fortune.com",
+      "description": "Everything you need to know before you reach the office this morning.",
+      "url": "https://fortune.com/2026/08/13/anthropic-ipo-2-trillion-october-largest-ever-spacex/",
+      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/08/GettyImages-2280291380-e1786612080880.jpg?resize=1200,600",
+      "publishedAt": "2026-08-13T09:12:00Z",
+      "content": "Did someone forward you this email? If you would like to receive this information directly, every morning before the markets open in New York,sign up here.ITS HAPPENING!\r\nAnthropic targets $2 trillio… [+8489 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "BBC News"
+        "name": "CNBC"
       },
-      "author": null,
-      "title": "Twitch faces backlash over Amazon training AI on its users' livestreams - BBC",
-      "description": "Fans of the streaming platform criticised Twitch for letting Amazon use their content for AI training.",
-      "url": "https://www.bbc.com/news/articles/cp30pz8d09jo",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/19c0/live/3a5d4e80-96b0-11f1-a357-f9f53ca5007d.jpg",
-      "publishedAt": "2026-08-13T02:46:04Z",
-      "content": "The announcement on Wednesday confirmed that the technology giant, which bought Twitch for nearly $1bn (£740m) in 2014, was using the platform's content for AI training, prompting widespread backlash… [+11 chars]"
+      "author": "Sean Conlon, Joseph Wilkins",
+      "title": "Treasury yields dip as Wall Street awaits wholesale inflation data - CNBC",
+      "description": "Treasury yields dipped on Thursday as Wall Street digested even more U.S. inflation data.",
+      "url": "https://www.cnbc.com/2026/08/13/treasury-yields-wall-street-inflation-data.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108239055-1786622268565-108239055-1765291336487-gettyimages-2250242669-ah807476.jpg?v=1786622289&w=1920&h=1080",
+      "publishedAt": "2026-08-13T08:40:17Z",
+      "content": "Treasury yields dipped on Thursday as Wall Street digested even more U.S. inflation data.\r\nThe yield on the 10-year U.S. Treasury note the key benchmark for U.S. government borrowing fell 2.6 basis p… [+1816 chars]"
+    },
+    {
+      "source": {
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "author": "Sumio Ito",
+      "title": "JPY/USD: Japan’s Government Is Said to Support Faster BOJ Rate Hike - Bloomberg.com",
+      "description": "Prime Minister Sanae Takaichi’s government is supportive of a near-term rate hike by the Bank of Japan, with the next move likely either in September or October, according to people familiar with the matter.",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-13/japan-s-government-is-said-to-support-faster-boj-rate-hike",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iCv4W5W5h2eE/v0/1200x800.jpg",
+      "publishedAt": "2026-08-13T05:04:00Z",
+      "content": "Sign up for the Next Japan newsletter, for an inside view of the forces reshaping Japan, and whats next for its businesses, markets and consumers.\r\nPrime Minister Sanae Takaichis government is suppor… [+154 chars]"
     },
     {
       "source": {
@@ -113,19 +230,6 @@
     {
       "source": {
         "id": null,
-        "name": "Fox Business"
-      },
-      "author": "Michael Sinkewicz",
-      "title": "Whole Foods recalls salsa, guacamole and prepared foods in 12 states over salmonella concerns - Fox Business",
-      "description": "Whole Foods recalled salsas, guacamole, pico de gallo and prepared foods containing jalapeños linked to a salmonella outbreak sickening 345 people.",
-      "url": "https://www.foxbusiness.com/lifestyle/whole-foods-recalls-salsa-guacamole-prepared-foods-12-states-over-salmonella-concerns",
-      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/07/0/0/us-whole-foods-checkout.jpg?ve=1&tl=1",
-      "publishedAt": "2026-08-13T01:13:00Z",
-      "content": "Whole Foods announced Wednesday that it is recalling certain produce and prepared foods containing fresh jalapeño peppers supplied by Coast Citrus Distributors over potential salmonella contamination… [+3416 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "CNBC"
       },
       "author": "Anniek Bao",
@@ -152,6 +256,32 @@
     {
       "source": {
         "id": null,
+        "name": "The Boston Globe"
+      },
+      "author": null,
+      "title": "Massachusetts family wealth: What a new survey found - The Boston Globe",
+      "description": "Even in Massachusetts, where the overall median net worth is $374,000, deep structural inequities persist.",
+      "url": "https://www.bostonglobe.com/2026/08/12/metro/massachusetts-family-wealth-net-worth-survey/",
+      "urlToImage": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/v2/AI643LIGAFFOBK4R3IA77PA4GA.jpg?auth=6458ed5c15535efdc91cd2d30c22211d42fdb19452be204c38a756540d3465d0&width=1440",
+      "publishedAt": "2026-08-13T00:51:58Z",
+      "content": "And again, the results show a staggering wealth gap. \r\nThe new report, released Wednesday, found Latino families in Massachusetts have a median net wealth of just $1,200; Black families have only sli… [+9417 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Newsnationnow.com"
+      },
+      "author": "Alicia Sitz",
+      "title": "Higher 2027 COLA could boost benefits for millions - NewsNation",
+      "description": "Some analysts note that higher benefit payments would also increase Social Security's costs.",
+      "url": "https://www.newsnationnow.com/business/your-money/2027-social-security-cola-boost/",
+      "urlToImage": "https://www.newsnationnow.com/wp-content/uploads/sites/108/2025/09/GettyImages-1642158076.jpg?w=1280",
+      "publishedAt": "2026-08-13T00:37:01Z",
+      "content": "(NewsNation) With just two months left until the Social Security Administration announces its 2027 cost-of-living adjustment, the latest predictions are showing a dip from previous estimates.\r\nNew es… [+3399 chars]"
+    },
+    {
+      "source": {
+        "id": null,
         "name": "Fox Business"
       },
       "author": "Brittany Miller",
@@ -164,42 +294,16 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "Motley Fool"
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
       },
-      "author": "Will Ebiefung",
-      "title": "Where Will SpaceX Stock Be in 5 Years? - The Motley Fool",
-      "description": "Elon Musk's second megacap company has been a controversial investment, to say the least.",
-      "url": "https://www.fool.com/investing/2026/08/12/where-will-spacex-stock-be-in-5-years/",
-      "urlToImage": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F882793%2Fgettyimages-1271085883.jpg&w=1200&op=resize",
-      "publishedAt": "2026-08-12T23:52:00Z",
-      "content": "The much-anticipated initial public offering (IPO) of Space Exploration Technologies(SPCX+9.65%) and its aftermath have been a roller-coaster ride for investors. While shares initially surged, they a… [+4284 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Seeking Alpha"
-      },
-      "author": "Elina Selianska",
-      "title": "Nebius Q2 Earnings: Transitioning From Massive Backlog To Explosive Cash Flow (NBIS) - Seeking Alpha",
-      "description": "Nebius Group's Q2 earnings show a 454% YoY revenue growth, positive EBITDA, and European AI infrastructure arbitrage. Click to know more about NBIS.",
-      "url": "https://seekingalpha.com/article/4935655-nebius-q2-earnings-transitioning-from-massive-backlog-to-explosive-cash-flow",
-      "urlToImage": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/154957066/image_154957066.jpg?io=getty-c-w1536",
-      "publishedAt": "2026-08-12T22:46:20Z",
-      "content": "Analysts Disclosure: I/we have no stock, option or similar derivative position in any of the companies mentioned, and no plans to initiate any such positions within the next 72 hours. I wrote this ar… [+771 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Lucas Ropek",
-      "title": "Some Claude users are mad that Anthropic's new watermarks will catch them using it at their jobs, classes - TechCrunch",
-      "description": "Is Anthropic's new watermarking system a travesty? Some have taken to social media to complain that it is.",
-      "url": "https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/06/Claude-photo.jpg?w=1024",
-      "publishedAt": "2026-08-12T22:26:37Z",
-      "content": "Anthropic recently made the decision to watermark Claude’s outputs inserting invisible code into the chatbot’s editorial text that marks it as AI-generated. \r\nAnthropic rolled out this new policy to … [+3660 chars]"
+      "author": "WSJ",
+      "title": "StubHub Fails to Turn Profit as Costs Outpace Revenue Growth - WSJ",
+      "description": null,
+      "url": "https://www.wsj.com/business/earnings/stubhub-fails-to-turn-profit-as-costs-outpace-revenue-growth-df528fa5",
+      "urlToImage": null,
+      "publishedAt": "2026-08-12T22:29:00Z",
+      "content": null
     },
     {
       "source": {
@@ -242,29 +346,16 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "NPR"
+        "id": "usa-today",
+        "name": "USA Today"
       },
-      "author": "NPR",
-      "title": "Trump sued over service selling faster access to Truth Social posts - NPR",
-      "description": null,
-      "url": "https://www.npr.org/2026/08/12/nx-s1-5929391/trump-truth-social-api-lawsuit",
-      "urlToImage": null,
-      "publishedAt": "2026-08-12T20:33:10Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Fox Business"
-      },
-      "author": "Eric Revell",
-      "title": "New Social Security COLA estimates released after fresh inflation data - Fox Business",
-      "description": "Social Security 2027 COLA estimates range from 3.2% to 3.6% after July CPI inflation data showed consumer prices rose 3.4% from a year ago.",
-      "url": "https://www.foxbusiness.com/economy/new-social-security-cola-estimates-released-after-fresh-inflation-data",
-      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2025/03/0/0/social-security-office-1.jpg?ve=1&tl=1",
-      "publishedAt": "2026-08-12T20:09:00Z",
-      "content": "Social Security beneficiaries are still expected to see a larger cost-of-living adjustment (COLA) in 2027 than they did this year, though it has decreased as inflation eased in July.\r\nBy law, the ann… [+3519 chars]"
+      "author": "Greta Cross",
+      "title": "Popeyes chicken contained 'condom-like' object, $1.5M lawsuit alleges - usatoday.com",
+      "description": "Two Texans are suing Popeyes and its parent company for $1.5 million after allegedly finding a \"condom-like foreign object\" in their chicken.",
+      "url": "https://www.usatoday.com/story/money/2026/08/12/popeyes-lawsuit-condom-like-object-chicken/91273821007/",
+      "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/03/16/USAT/89185397007-getty-images-2214115570.jpg?crop=1023,576,x0,y53&width=1023&height=576&format=pjpg&auto=webp",
+      "publishedAt": "2026-08-12T20:48:30Z",
+      "content": "Two Popeyes customers in Texas are suing the fast-food chain and its parent company for $1.5 million after allegedly finding a condom-like object inside a piece of fried chicken.\r\nJustin Howard and D… [+2486 chars]"
     },
     {
       "source": {
@@ -294,29 +385,68 @@
     },
     {
       "source": {
-        "id": "cnn",
-        "name": "CNN"
+        "id": null,
+        "name": "FierceBiotech"
       },
-      "author": "Mustafa Qadri, Aida Karimi, Kara Fox, Charbel Mallo, Hanna Ziady, Catherine Nicholls, Issy Ronald, Kevin Liptak, Christian Edwards, Sophia Saifi, Nadeen Ebrahim, Anna Cooban, June Jeong, Rhea Mogul, Piper Hudspeth Blackburn, Alejandra Jaramillo, Ivana Kottasová",
-      "title": "Live updates: Strait of Hormuz traffic remains low as world rapidly burns through oil stockpiles - CNN",
-      "description": "Meanwhile, an Iranian military adviser says Tehran could “prolong” war with the US until Trump is out of office. Follow for the latest news updates.",
-      "url": "https://www.cnn.com/2026/08/12/world/live-news/iran-war-trump",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2289908047.jpg?c=16x9&q=w_800,c_fill",
-      "publishedAt": "2026-08-12T19:05:00Z",
-      "content": "Pakistans foreign minister has said three of its nationals were killed and one more wounded in an attack by the Houthi militia on a commercial vessel in the Red Sea.\r\nThe deaths would mark the first … [+1799 chars]"
+      "author": "Will Maddox",
+      "title": "AI clinical monitoring agent can deliver up to 82 times the ROI in oncology: report - Fierce Biotech",
+      "description": "A new analysis from the Tufts Center for the Study of Drug Development (CSDD) found that an AI clinical monitoring agent can deliver 82 times the return on investment (ROI) in oncology trials. | A new analysis from the Tufts Center for the Study of Drug Devel…",
+      "url": "https://www.fiercebiotech.com/cro/ai-clinical-monitoring-agents-can-deliver-82-times-roi-report",
+      "urlToImage": "https://qtxasset.com/quartz/qcloud5/media/image/gettyimages-2257013925.jpg?VersionId=.jly7OG98mYUnvOVx4kVAoHcEH3Wu8.3",
+      "publishedAt": "2026-08-12T19:16:21Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Barron's"
+      },
+      "author": "Al Root, Patrick O’Donnell",
+      "title": "SpaceX Stock Lifts Off After Musk’s All-Hands Meeting and More Starlink Satellites - Barron's",
+      "description": "SpaceX stock rose after CEO Elon Musk held an all-hands meeting for SpaceX employees where he discussed artificial-intelligence, Starlink, and the company’s future.",
+      "url": "https://www.barrons.com/articles/spacex-starlink-launch-stock-price-5b6ac356",
+      "urlToImage": "https://images.barrons.com/im-71259159/social",
+      "publishedAt": "2026-08-12T18:58:00Z",
+      "content": "SpaceXstock surged Wednesday after CEO Elon Musk held an all-hands meeting for SpaceX employees where he discussed artificial-intelligence, Starlink, and the companys future.\r\nCopyright ©2026Dow Jone… [+74 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Barron's"
+      },
+      "author": "Jack Denton, Mackenzie Tatananni",
+      "title": "Nebius Stock Soars 28% as Revenue Beat Bolsters AI Rally. Michael Burry May Be Helping. - Barron's",
+      "description": "Nebius stock surges after second-quarter numbers from the AI cloud infrastructure company beat expectations. Short pressure may be helping, too.",
+      "url": "https://www.barrons.com/articles/nebius-earnings-stock-price-cf23bdef",
+      "urlToImage": "https://images.barrons.com/im-65814131/social",
+      "publishedAt": "2026-08-12T18:26:00Z",
+      "content": "Nebius Groupsurged after the cloud-computing company posted numbers that broadly beat estimates. Now, the rally may get an extra boost from the very people betting against it.\r\nCopyright ©2026Dow Jon… [+75 chars]"
     },
     {
       "source": {
         "id": null,
         "name": "Motley Fool"
       },
-      "author": "Keithen Drury",
-      "title": "Up 26% Since July 29, Is It Too Late to Buy Microsoft Stock? - The Motley Fool",
-      "description": "The tech giant has been on a roll over the past two weeks.",
-      "url": "https://www.fool.com/investing/2026/08/12/up-26-since-july-29-is-it-too-late-to-buy-microsof/",
-      "urlToImage": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F882682%2Finvestor-wathcing-their-stock-rise.jpg&w=1200&op=resize",
-      "publishedAt": "2026-08-12T18:18:00Z",
-      "content": "Microsoft(MSFT-2.26%) stock has been on quite a run since the company reported its results for the fourth quarter of its fiscal 2026 (which ended June 30). Microsoft delivered those results after the… [+2854 chars]"
+      "author": "Danny Vena, CPA",
+      "title": "CoreWeave and Nebius Group Deliver Earnings Shocker. Here's What It Signals About the Future of AI. - The Motley Fool",
+      "description": "Investors have been concerned about a potential slowdown in AI adoption, but results from these neocloud operators suggest otherwise.",
+      "url": "https://www.fool.com/investing/2026/08/12/coreweave-and-nebius-group-deliver-earnings-shocker-here-s-what-it-signals-about-the-future-of-ai/",
+      "urlToImage": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2Fff1852ac0b0f09d784c10e5337285d33feda22d0-1200x800.png%3Fw%3D800%26q%3D75%26fit%3Dmax%26auto%3Dformat&w=1200&op=resize",
+      "publishedAt": "2026-08-12T18:25:00Z",
+      "content": "One of the biggest questions among investors these days is what the future holds for artificial intelligence (AI). After several years of rapid adoption and impressive stock price gains, some investo… [+5029 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Financial Times"
+      },
+      "author": null,
+      "title": "Mark Walter’s insurers rush to unwind affiliated investments - Financial Times",
+      "description": "TWG Global is seeking to refinance loans, restructure firms and bring in outside investors as prosecutors scrutinise books",
+      "url": "https://www.ft.com/content/ab5f7160-68f5-4396-a5a2-f97f770e8634?syn-25a6b1a6\\\\u003d1",
+      "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F46e28dc1-5e8d-4700-86f0-4c59b3dfe5d7.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
+      "publishedAt": "2026-08-12T18:13:34Z",
+      "content": "Then $75 per month. Complete digital access to quality FT journalism on any device. Cancel anytime during your trial."
     },
     {
       "source": {
@@ -334,15 +464,15 @@
     {
       "source": {
         "id": null,
-        "name": "Motley Fool"
+        "name": "Yahoo Entertainment"
       },
-      "author": "Danny Vena, CPA, The Motley Fool",
-      "title": "CoreWeave and Nebius Group Deliver Earnings Shocker. Here's What It Signals About the Future of AI. - Yahoo Finance",
-      "description": "Investors have been concerned about a potential slowdown in AI adoption, but results from these neocloud operators suggest otherwise.",
-      "url": "https://www.fool.com/investing/2026/08/12/coreweave-and-nebius-group-deliver-earnings-shocker-here-s-what-it-signals-about-the-future-of-ai/",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/5C2C95D7F326D4DD5035662F1A1C966CFE8058092CED6A6895C3196D4C259545/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fmotleyfool.com%2F7b512c807556da16ca03a0bad5e5634b.png",
-      "publishedAt": "2026-08-12T17:45:05Z",
-      "content": "One of the biggest questions among investors these days is what the future holds for artificial intelligence (AI). After several years of rapid adoption and impressive stock price gains, some investo… [+6216 chars]"
+      "author": "NBC",
+      "title": "Proposal backed by Trump administration would allow 401K and IRA funds to be used in riskier investments - Yahoo",
+      "description": "Proposal backed by the Trump administration would allow 401K and Roth IRA funds into riskier investments like private equity, hedge funds and cryptocurrency....",
+      "url": "https://www.yahoo.com/news/videos/proposal-backed-trump-administration-allow-175631090.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/f56e06be30879c717c2e3847aecce54dd1cc79614a2984c5560072757593609a/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fnbcu_713%2F7ad35d2b65bae77f9c608623f50a746e.jpg",
+      "publishedAt": "2026-08-12T17:56:31Z",
+      "content": "Proposal backed by the Trump administration would allow 401K and Roth IRA funds into riskier investments like private equity, hedge funds and cryptocurrency. The administration says that it could yie… [+178 chars]"
     },
     {
       "source": {
@@ -388,13 +518,13 @@
         "id": "the-wall-street-journal",
         "name": "The Wall Street Journal"
       },
-      "author": "WSJ",
+      "author": "Kirk Maltais",
       "title": "USDA Makes Surprise Cut to Corn Yield Projections - WSJ",
-      "description": null,
+      "description": "The USDA projects the national corn yield for the 2026/27 season at 180.7 bushels an acre, down from 183 bushels an acre projected in July’s report",
       "url": "https://www.wsj.com/finance/commodities-futures/usda-makes-surprise-cut-to-corn-yield-projections-da91542a",
-      "urlToImage": null,
+      "urlToImage": "https://images.wsj.net/im-68022683/social",
       "publishedAt": "2026-08-12T16:48:00Z",
-      "content": null
+      "content": "U.S. farmers may produce less corn on their land than forecast earlier this year, the Department of Agriculture said Wednesday.\r\nIn its latest World Agricultural Supply and Demand Estimates report, t… [+412 chars]"
     },
     {
       "source": {
@@ -424,19 +554,6 @@
     },
     {
       "source": {
-        "id": "cbs-news",
-        "name": "CBS News"
-      },
-      "author": "Megan  Cerullo",
-      "title": "How much time does AI save at work? New Census Bureau data breaks it down. - CBS News",
-      "description": "New Census data shows how much faster workers can complete tasks when they enlist artificial intelligence for help.",
-      "url": "https://www.cbsnews.com/news/census-data-ai-workers-time-saved/",
-      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/08/11/1f0cedc9-4de0-4303-9bbd-26deb014aadb/thumbnail/1200x630/6ff3104e6f84eb997dbea9ef370291f3/gettyimages-2261087989.jpg",
-      "publishedAt": "2026-08-12T16:27:00Z",
-      "content": "Artificial intelligence is believed to save workers time by helping them complete their daily tasks. But just how much more efficient can it make employees?\r\nAbout 55% of workers say they use AI on t… [+2170 chars]"
-    },
-    {
-      "source": {
         "id": null,
         "name": "New York Post"
       },
@@ -447,19 +564,6 @@
       "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/08/137178223.jpg?quality=75&strip=all&w=1200",
       "publishedAt": "2026-08-12T15:52:00Z",
       "content": "Hundreds of thousands of Uber and Lyft drivers across California are on the verge of joining what organizers say will become the largest rideshare drivers union in the world.\r\nThe California Public E… [+3770 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Louis Juricic",
-      "title": "Nelson Peltz’s Trian prepares take-private offer for Wendy’s; WEN stock surges 12% - Yahoo Finance",
-      "description": "Wendy’s (NASDAQ: WEN) shares rose 12% following the report. The company is the direct subject of the potential transaction. Trian holds a combined stake exce...",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/nelson-peltz-trian-prepares-private-153840102.html",
-      "urlToImage": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
-      "publishedAt": "2026-08-12T15:38:40Z",
-      "content": "Investing.com -- Nelson Peltz's Trian Fund Management is nearing a formal take-private bid for Wendy's, assembling a consortium that could include Abu Dhabi-based BlueFive Capital and Flynn Group, on… [+2776 chars]"
     },
     {
       "source": {
@@ -477,15 +581,41 @@
     {
       "source": {
         "id": null,
-        "name": "Accounting Today"
+        "name": "CNBC"
       },
-      "author": "Michael Cohn",
-      "title": "IRS provides guidance on retirement plan rollovers - Accounting Today",
-      "description": "The Internal Revenue Service and the Treasury Department offered guidance on rollovers between retirement plans and individual retirement accounts.",
-      "url": "https://www.accountingtoday.com/news/irs-provides-guidance-on-retirement-plan-rollovers",
-      "urlToImage": "https://arizent.brightspotcdn.com/dims4/default/492b191/2147483647/strip/true/crop/4000x2100+0+0/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.us-east-1.amazonaws.com%2Fec%2F6a%2Ff5289110413488fce58e3561d125%2F461089002.jpg",
-      "publishedAt": "2026-08-12T15:18:00Z",
-      "content": "The Internal Revenue Service and the Treasury Department offered guidance Wednesday on rollovers between retirement plans and individual retirement accounts. \r\nNotice 2026-49\r\nprovides sample forms a… [+1825 chars]"
+      "author": "Amelia Lucas",
+      "title": "Wendy's stock jumps on report of potential takeover bid from Nelson Peltz's Trian Fund Management - CNBC",
+      "description": "Peltz's relationship with Wendy's dates back to an activist campaign he led more than two decades ago.",
+      "url": "https://www.cnbc.com/2026/08/12/wendys-stock-jumps-on-nelson-peltz-takeover-bid-report.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108348530-1786547869805-gettyimages-2288749340-golba-dailylif260729_npKTw.jpeg?v=1786554097&w=1920&h=1080",
+      "publishedAt": "2026-08-12T15:25:09Z",
+      "content": "Shares of Wendy's jumped more than 14% Wednesday after the Financial Times reported that Nelson Peltz's Trian Fund Management is preparing a takeover bid for the struggling burger chain.\r\nTrading of … [+2186 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Benzinga"
+      },
+      "author": "Daragh Thomas",
+      "title": "Nebius Jumps 20% Days After Michael Burry Said His AI Shorts Were Like ‘Shooting Fish in a Barrel’ - Benzinga",
+      "description": "Nebius stock jumped 18% after earnings, putting Michael Burry’s short in focus as the AI infrastructure company said payback on new investments fell below two years.",
+      "url": "https://www.benzinga.com/markets/prediction-markets/26/08/61146979/nebius-stock-michael-burry-short-ai-payback",
+      "urlToImage": "https://cdn.benzinga.com/cdn-cgi/image/width=1200,height=800,fit=crop/files/images/story/2026/08/12/Nebius-Group.jpg",
+      "publishedAt": "2026-08-12T15:11:42Z",
+      "content": "Nebius now expects to recoup the capex and related operating costs on its second-quarter deals in one year and 10 months, down from its previous range of two to three years.\r\nBurrys concern with the … [+2087 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "FiercePharma"
+      },
+      "author": "Kevin Dunleavy",
+      "title": "Lilly takes 6 companies to court for selling retatrutide knockoffs - Fierce Pharma",
+      "description": "Eli Lilly’s experimental weight-loss drug retatrutide has yet to be approved by the FDA. | Eli Lilly has filed lawsuits against six U.S. companies, accusing them of selling illegal versions of its experimental weight-loss drug retatrutide.",
+      "url": "https://www.fiercepharma.com/pharma/lilly-takes-6-companies-court-selling-retatrutide-knockoffs",
+      "urlToImage": "https://qtxasset.com/quartz/qcloud5/media/image/LILLYUS.JPG?VersionId=98ZEiNqUo5eBB_mO4Uun6KzbdXaXK30E",
+      "publishedAt": "2026-08-12T14:46:35Z",
+      "content": null
     },
     {
       "source": {
@@ -503,15 +633,15 @@
     {
       "source": {
         "id": null,
-        "name": "CNBC"
+        "name": "STAT"
       },
-      "author": "Oliver Renick",
-      "title": "Trust, but hedge: Quietly violent summer lingers as bulls buy crash protection - CNBC",
-      "description": "It's been a wild summer for stocks, even if it may not feel like it at surface level.",
-      "url": "https://www.cnbc.com/2026/08/12/trust-but-hedge-quietly-violent-summer-lingers-as-bulls-buy-crash-protection.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108348451-1786542135771-gettyimages-2289640398-US-NEW_YORK-STOCK.jpeg?v=1786542190&w=1920&h=1080",
-      "publishedAt": "2026-08-12T13:59:17Z",
-      "content": "It's been a wild summer for stocks, even if it may not feel like it at surface level: the S&amp;P 500 is back at an all-time high, and volatility measured by the Cboe VIX Index is near year-to-date l… [+2433 chars]"
+      "author": "Casey Ross, Brittany Trang",
+      "title": "Inside a $7 billion Silicon Valley startup’s mad dash to automate the business of health care - STAT",
+      "description": "Commure wants to automate health care's administrative tasks with AI. An inside look at the messy realities of the startup's ambitious quest.",
+      "url": "https://www.statnews.com/2026/08/12/inside-commure-athelas-mad-dash-automate-health-care/",
+      "urlToImage": "https://www.statnews.com/wp-content/uploads/2026/08/STAT_AIBillingSystem_F1_3000-1024x576.jpg",
+      "publishedAt": "2026-08-12T13:49:29Z",
+      "content": "Commure, a $7 billion technology company that uses AI to automate administrative tasks in health care, offers thousands of dollars of compensation to customers and other parties willing to refer its … [+2627 chars]"
     },
     {
       "source": {
@@ -538,32 +668,6 @@
       "urlToImage": "https://images.law.com/brightspot/f6/a1/0a083cf749e9b1009377b0d3f024/display-art-a-list-2026-11-jpg767x505.jpg",
       "publishedAt": "2026-08-12T13:00:00Z",
       "content": "The industry-leading media platform offering competitive intelligence to prepare for today and anticipate opportunities for future success.\r\nAs a part of your digital membership, you can sign up for … [+92 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": "Chloe Taylor",
-      "title": "'Tougher times ahead': Don't expect blowout returns to continue, CEO of $2.3 trillion fund warns after record first half - CNBC",
-      "description": "Norway's sovereign wealth fund, the largest of its kind, is an investor in around 1.5% of the world's listed companies.",
-      "url": "https://www.cnbc.com/2026/08/12/norway-sovereign-wealth-tangen-nbim.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108348343-1786533578950-gettyimages-2272987232-NORWAY_NBIM.jpeg?v=1786533653&w=1920&h=1080",
-      "publishedAt": "2026-08-12T12:23:06Z",
-      "content": "Investors shouldn't expect the bumper gains returned by the equity market so far this year to continue, the CEO of the world's largest sovereign wealth fund told CNBC on Wednesday. \r\nNicolai Tangen, … [+3520 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": "Jonathan Vanian",
-      "title": "Meta and Nvidia plant 'very firm flag' in open-weight AI race led by Chinese Labs - CNBC",
-      "description": "With China way ahead in the market for open-weight models, Meta and Nvidia are both doing what they can to put the U.S. on the map.",
-      "url": "https://www.cnbc.com/2026/08/12/meta-nvidia-open-weight-ai-race-china.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107300086-1694616035094-gettyimages-1662734382-AFP_33V44H7.jpeg?v=1771381842&w=1920&h=1080",
-      "publishedAt": "2026-08-12T12:00:01Z",
-      "content": "(L to R) Jensen Huang, President and CEO of Nvidia Corporation, Google CEO Sundar Pichai and Mark Zuckerberg, CEO of Meta, arrive for a U.S. Senate bipartisan Artificial Intelligence Insight Forum at… [+5001 chars]"
     },
     {
       "source": {
@@ -594,32 +698,6 @@
     {
       "source": {
         "id": null,
-        "name": "Quartz India"
-      },
-      "author": "Cris Tolomia",
-      "title": "Eli Lilly is suing six companies over illegal sales of its unapproved weight loss drug - qz.com",
-      "description": "The drug remains in Phase 3 clinical trials and has not been approved by any regulator for human use",
-      "url": "https://qz.com/eli-lilly-lawsuits-retatrutide-black-market-081226",
-      "urlToImage": "https://qz.com/cdn-cgi/image/width=1200,quality=85,format=auto/https://assets.qz.com/media/GettyImages-521503314-300x200.jpg",
-      "publishedAt": "2026-08-12T11:31:46Z",
-      "content": "Global business news for a smarter world\r\n© 2026 Quartz Media, Inc. All rights reserved.\r\nThe drug remains in Phase 3 clinical trials and has not been approved by any regulator for human use\r\nEli Lil… [+3217 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CoinDesk"
-      },
-      "author": "Omkar Godbole",
-      "title": "XRP trading could get spicy after CPI report as futures bets hit highest since October: Crypto Daily - CoinDesk",
-      "description": "The day ahead in crypto: Aug. 12, 2026",
-      "url": "https://www.coindesk.com/daybook-us/2026/08/12/xrp-trading-could-get-spicy-after-cpi-report-as-futures-bets-hit-highest-since-october",
-      "urlToImage": "https://cdn.sanity.io/images/s3y3vcno/production/a609b9f3ab71fef5656539dcbecaf286254da50c-1920x1080.jpg?auto=format&q=75",
-      "publishedAt": "2026-08-12T11:15:00Z",
-      "content": "Forecasts point to 0.1% month-on-month growth in the headline CPI for July, up from Junes 0.4% reading. The year-on-year figure is expected at 3.4%, down from 3.5%, and annual core CPI inflation is s… [+1005 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "Heated.world"
       },
       "author": "Emily Atkin",
@@ -633,15 +711,15 @@
     {
       "source": {
         "id": null,
-        "name": "STAT"
+        "name": "FierceBiotech"
       },
-      "author": "Allison DeAngelis",
-      "title": "Biotech company co-founded by top autoimmune researcher lays out plans with antibody therapies - STAT",
-      "description": "German researcher Georg Schett has made a name for himself as a pioneer in autoimmune disease treatment. Now he's co-founding his own company.",
-      "url": "https://www.statnews.com/2026/08/12/boulevard-bio-georg-schett-antibody-therapies/",
-      "urlToImage": "https://www.statnews.com/wp-content/uploads/2026/08/Schett-1024x576.jpg",
-      "publishedAt": "2026-08-12T10:35:25Z",
-      "content": "Over the last five years, German researcher Georg Schett has made a name for himself as a pioneer in autoimmune disease treatment, showing that CAR-T therapy could be used to reset patients immune sy… [+460 chars]"
+      "author": "Will Maddox",
+      "title": "Deerfield-backed Boulevard Bio embarks on ‘beautiful path to a cure’ with trio of immunology drugs - Fierce Biotech",
+      "description": "Boulevard Bio has strolled out of stealth with $65 million in funding from Deerfield Management and three autoimmune disease candidates. | Boulevard Bio has strolled out of stealth with $65 million in funding from Deerfield Management and three autoimmune dis…",
+      "url": "https://www.fiercebiotech.com/biotech/deerfield-backed-boulevard-bio-strolls-65m-launch-and-trio-immunology-candidates",
+      "urlToImage": "https://qtxasset.com/quartz/qcloud5/media/image/boulevard_getty.jpg?VersionId=ggh83._TJNNvd1fiaPJ2RIV2JcUfpTbk",
+      "publishedAt": "2026-08-12T10:30:00Z",
+      "content": null
     },
     {
       "source": {
@@ -661,19 +739,6 @@
         "id": "axios",
         "name": "Axios"
       },
-      "author": "Adriel Bettelheim",
-      "title": "AI brings savings to clinical trials: study - Axios",
-      "description": "New research shows it's starting to unlock millions of dollars' worth of new efficiencies.",
-      "url": "https://www.axios.com/2026/08/12/ai-clinical-trials-cost-savings",
-      "urlToImage": "https://images.axios.com/RiRe1QAvOlWBHbxjoKSMnuwN5hA=/0x0:1920x1080/1366x768/2026/08/11/1786475915881.jpg",
-      "publishedAt": "2026-08-12T09:42:45Z",
-      "content": "<ul><li>That could free up resources for more clinical studies and possibly lower the high failure rate for new drugs. </li></ul>What they found: A new Tufts Center for the Study of Drug Development … [+2271 chars]"
-    },
-    {
-      "source": {
-        "id": "axios",
-        "name": "Axios"
-      },
       "author": "Tina Reed",
       "title": "More employers are dropping the largest PBMs - Axios",
       "description": "The findings are the latest sign of a shift underway in employer-sponsored health care.",
@@ -681,6 +746,19 @@
       "urlToImage": "https://images.axios.com/BcHGs4dT_n_1WLxhQyIfoJuzUrI=/0x0:1920x1080/1366x768/2026/02/23/1771885020706.jpeg",
       "publishedAt": "2026-08-12T09:33:17Z",
       "content": "What they found: The survey of 408 employers conducted in May and June found nearly half (46%) were using a PBM other than the big three CVS Caremark, Optum Rx and Express Scripts up from 37% last ye… [+1679 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Tsvetana Paraskova",
+      "title": "Brent Tops $89 Amid U.S.-Iran Stalemate Over Hormuz - Yahoo Finance",
+      "description": "Oil prices rose as conflicting US and Iranian claims over control and shipping through the Strait of Hormuz kept supply risks elevated.",
+      "url": "https://finance.yahoo.com/energy/articles/brent-tops-89-amid-u-093000794.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/DE61E9008EE8FD6980331EDED83F85A30475AB2E5E8B4146F699666BD3996421/subgraphmysterio/resizefill_w1200_h676;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Foilprice.com%2Fe08f516dcc5338dfc4a2e74d65fff50d.jpg",
+      "publishedAt": "2026-08-12T09:30:00Z",
+      "content": "Brent Crude oil prices rose above $89 per barrel in early trade in Europe on Wednesday as Iran and the United States offered contrasting claims about who controls the Strait of Hormuz.\r\nBrent Crude p… [+2305 chars]"
     },
     {
       "source": {
@@ -698,93 +776,15 @@
     {
       "source": {
         "id": null,
-        "name": "NPR"
-      },
-      "author": "npr.org",
-      "title": "AI chatbots are offering financial advice. Should you trust them? - npr.org",
-      "description": null,
-      "url": "https://www.npr.org/2026/08/12/nx-s1-5924813/ai-chatbots-financial-advice",
-      "urlToImage": null,
-      "publishedAt": "2026-08-12T09:00:00Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Iea.org"
+        "name": "Financial Times"
       },
       "author": null,
-      "title": "Oil Market Report - August 2026 – Analysis - IEA – International Energy Agency",
-      "description": "Oil Market Report - August 2026 - Analysis and key findings. A report by the International Energy Agency.",
-      "url": "https://www.iea.org/reports/oil-market-report-august-2026",
-      "urlToImage": "https://iea.imgix.net/9e69d31f-3789-4cdd-8a28-e020e81380cf/08-August.jpg?auto=compress%2Cformat&fit=min&h=600&q=80&rect=488%2C0%2C1200%2C1200&w=1200",
-      "publishedAt": "2026-08-12T08:00:00Z",
-      "content": "Benchmark crude prices surged to a two-month high in July as the recovery in oil supplies from the Gulf reversed course following the breakdown of the mid-June Iran-US ceasefire agreement. Oil prices… [+3382 chars]"
-    },
-    {
-      "source": {
-        "id": "the-washington-post",
-        "name": "The Washington Post"
-      },
-      "author": "Riley Beggin",
-      "title": "Rule could let parents put $2,500 into child ‘Trump accounts’ tax-free - The Washington Post",
-      "description": "Proposed guidance from the Treasury Department clarifies how employer and employee contributions to the new accounts would work.",
-      "url": "https://www.washingtonpost.com/politics/2026/08/11/rule-could-let-parents-put-2500-into-child-trump-accounts-tax-free/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/YU5OLTVX4TPXD7C46VY6GSBZPY_size-normalized.jpg&w=1440",
-      "publishedAt": "2026-08-12T03:59:37Z",
-      "content": "Parents would be able to contribute up to $2,500 per year tax-free to their Trump accountsthrough their paycheck under a proposed rule from the Treasury Department. \r\nThe proposal would expand the sa… [+173 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "KRQE News 13"
-      },
-      "author": "Jordan Honeycutt",
-      "title": "Albertsons recalls products sold in New Mexico potentially contaminated with Salmonella - KRQE",
-      "description": "NEW MEXICO (KRQE) – Albertsons’ parent company is recalling nearly 60 store-made products over possible Salmonella contamination. The United Family said the affected products all contain pico de gallo made with jalapeños linked to Ron’s Home Style Foods. Some…",
-      "url": "https://www.krqe.com/news/recalls/albertsons-recalls-products-sold-in-new-mexico-potentially-contaminated-with-salmonella/",
-      "urlToImage": "https://www.krqe.com/wp-content/uploads/sites/12/2022/12/albertsons.png?w=1280",
-      "publishedAt": "2026-08-12T01:42:55Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "OregonLive"
-      },
-      "author": "OregonLive.com",
-      "title": "Oregon sues Trump admin over new homeowner interest payments rule - OregonLive.com",
-      "description": null,
-      "url": "https://www.oregonlive.com/nation/2026/08/oregon-sues-trump-admin-over-new-homeowner-interest-payments-rule.html",
-      "urlToImage": null,
-      "publishedAt": "2026-08-11T21:34:00Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "usa-today",
-        "name": "USA Today"
-      },
-      "author": "Michelle Del Rey",
-      "title": "Toyota recalls more than half a million vehicles. See affected models - USA Today",
-      "description": "Toyota is recalling more than half a million cars due to this issue, which may increase the risk of a crash. See the affected models.",
-      "url": "https://www.usatoday.com/story/cars/recalls/2026/08/11/toyota-vehicle-recall-august-2026/91254760007/",
-      "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/08/11/USAT/91257583007-getty-images-71569576.jpg?crop=2999,1687,x0,y174&width=2999&height=1687&format=pjpg&auto=webp",
-      "publishedAt": "2026-08-11T16:36:00Z",
-      "content": "Toyota is recalling more than half a million vehicles due to an issue with the cars' instrument cluster display, which may increase the risk of a crash.\r\nAn error may occur in the affected cars' star… [+1603 chars]"
-    },
-    {
-      "source": {
-        "id": "nbc-news",
-        "name": "NBC News"
-      },
-      "author": "Bethany Heitman",
-      "title": "That robot vacuum you’ve been eyeing may now be banned in the U.S. — here’s what you need to know - nbcnews.com",
-      "description": "The FCC banned foreign-made advanced robots, and robot vacuums fall under the new rules. Here’s what it means for the device you already own — and which models you can still buy.",
-      "url": "https://www.nbcnews.com/select/shopping/robot-vacuum-ban-rcna591927",
-      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-08/260811-robot-vacuum-ban-kb-main-ee1d2e.jpg",
-      "publishedAt": "2026-08-11T16:15:04Z",
-      "content": "Robots are having a moment with the federal government and its not all positive. The Federal Communications Commission (FCC) recently announced a ban on foreign-made advanced mobile robots, a categor… [+5894 chars]"
+      "title": "Bank of America commits $250bn to US projects in boost to ‘America First’ agenda - ft.com",
+      "description": "Pledge comes after president snubbed chief executive of US’s second-largest lender this year",
+      "url": "https://www.ft.com/content/99c86e8e-02d5-4c7c-9eef-27ad9bb5b7c6?syn-25a6b1a6\\\\u003d1",
+      "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F61866b0d-7815-4348-a3fc-18b7554373f2.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
+      "publishedAt": "2026-08-12T09:00:07Z",
+      "content": "Access to eight surprising articles a day, hand-picked by FT editors. For seamless reading, access content via the FT Edit page on FT.com and receive the FT Edit newsletter.\r\n<ul><li></li>FT Edit: Ac… [+23 chars]"
     }
   ]
 }

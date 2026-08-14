@@ -3,9 +3,22 @@
   "country": "us",
   "category": "technology",
   "mode": "country",
-  "fetched_at": "2026-08-14T07:00:42.430641+00:00",
-  "articles_count": 39,
+  "fetched_at": "2026-08-14T08:52:55.831925+00:00",
+  "articles_count": 36,
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Kotaku"
+      },
+      "author": "Ethan Gach",
+      "title": "Saber CEO Makes Rideshare's Undisclosed AI Mess Even Worse - Kotaku",
+      "description": "Matt Karch said a missing Steam disclosure will be added eventually",
+      "url": "https://kotaku.com/saber-ceo-denies-replacing-rideshare-writer-with-chatgpt-but-says-i-would-frankly-in-retrospect-have-been-happy-to-replace-her-with-ai-2000723953",
+      "urlToImage": "https://kotaku.com/app/uploads/2026/08/rideshare-1-1200x675.jpg",
+      "publishedAt": "2026-08-13T04:42:19Z",
+      "content": "Rideshare Stimulator was revealed nearly two weeks ago in a short trailer teasing its gig-economy driving-sim satire. But most people probably didn’t hear about it until its former lead writer accuse… [+4203 chars]"
+    },
     {
       "source": {
         "id": "mashable",
@@ -44,19 +57,6 @@
       "urlToImage": "https://kotaku.com/app/uploads/2026/08/kingsfield43-1200x675.jpg",
       "publishedAt": "2026-08-12T20:30:44Z",
       "content": "Last week, I spent roughly ten hours of my limited time here on God’s green Earth playing King’s Field: The Ancient City, the fourth game in a series by developer FromSoftware. Today FromSoftware is … [+5319 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Amanda Silberling",
-      "title": "Amazon will train on Twitch streamers’ content by default, unless they opt out - TechCrunch",
-      "description": "\"If this was opt-in, nobody would opt in,\" Twitch CPO Mike Minton said on a livestream responding to user feedback. \"That's honestly the answer.\"",
-      "url": "https://techcrunch.com/2026/08/12/amazon-will-train-on-twitch-streamers-content-by-default-unless-they-opt-out/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/03/twitch-reflection.jpg?resize=1200,799",
-      "publishedAt": "2026-08-12T20:10:40Z",
-      "content": "The streaming platform Twitch will now use creators’ content to help train generative AI models for its parent company, Amazon. This move has inspired swift and concentrated backlash from the Twitch … [+3106 chars]"
     },
     {
       "source": {
@@ -113,6 +113,19 @@
     {
       "source": {
         "id": null,
+        "name": "Push Square"
+      },
+      "author": "Push Square",
+      "title": "Final Fantasy Resonance Shows Off 11-Minute Shiva Battle and Squall Summon on PS5 - Push Square",
+      "description": "Whatever",
+      "url": "https://www.pushsquare.com/news/2026/08/final-fantasy-resonance-shows-off-11-minute-shiva-battle-and-squall-summon-on-ps5",
+      "urlToImage": "https://images.pushsquare.com/b26e5818f5f55/large.jpg",
+      "publishedAt": "2026-08-12T17:30:00Z",
+      "content": "Square Enix has just dropped a 16-minute gameplay video for Final Fantasy Resonance the upcoming turn-based RPG that's been built on the bones of the old mobile title, Final Fantasy Brave Exvius.\r\nBu… [+1032 chars]"
+    },
+    {
+      "source": {
+        "id": null,
         "name": "9to5Mac"
       },
       "author": "Ryan Christoffel",
@@ -164,16 +177,16 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "Video Games Chronicle"
+        "id": "techcrunch",
+        "name": "TechCrunch"
       },
-      "author": "Chris Scullion",
-      "title": "Amazon Game Studios gives Lost Ark and Throne & Liberty back to their studios to run, ending its MMO presence - Video Games Chronicle",
-      "description": "Amazon is handing over each game's operational duties to their developers",
-      "url": "https://www.videogameschronicle.com/news/amazon-game-studios-gives-lost-ark-and-throne-liberty-back-to-their-studios-to-run-ending-its-mmo-presence/",
-      "urlToImage": "https://www.videogameschronicle.com/files/2026/08/lost-ark-throne-liberty.jpg",
-      "publishedAt": "2026-08-12T14:52:19Z",
-      "content": "Amazon Game Studios may have taken the last major step in its move away from MMO investment, after handing back its two existing MMOs to their studios.\r\nLost Ark was released on PC in 2022, while Thr… [+2292 chars]"
+      "author": "Zack Whittaker",
+      "title": "After Microsoft threatened legal action, a security researcher publishes a new Windows zero-day bug - TechCrunch",
+      "description": "This is the latest zero-day released by security researcher Nightmare Eclipse, despite Microsoft publicly threatening to take legal action against them.",
+      "url": "https://techcrunch.com/2026/08/12/after-microsoft-threatened-legal-action-a-security-researcher-publishes-a-new-windows-zero-day-bug/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/06/moshed-windows-11.jpg?resize=1200,752",
+      "publishedAt": "2026-08-12T15:18:55Z",
+      "content": "A security researcher has published details of a new vulnerability in the latest versions of Windows that allows hackers to gain system-wide access to the user’s device and data, despite facing a leg… [+3089 chars]"
     },
     {
       "source": {
@@ -191,15 +204,15 @@
     {
       "source": {
         "id": null,
-        "name": "Kotaku"
+        "name": "BGR"
       },
-      "author": "Rebekah Valentine",
-      "title": "Witcher Multiplayer Project Suffers Another Round Of Layoffs - Kotaku",
-      "description": "Project Sirius is still in the works four years and two layoff rounds after its announcement in 2022",
-      "url": "https://kotaku.com/witcher-multiplayer-project-suffers-another-round-of-layoffs-2000723777",
-      "urlToImage": "https://kotaku.com/app/uploads/2023/06/0f57b89dab957ea81e090c0ce042843e-1200x675.jpg",
-      "publishedAt": "2026-08-12T14:14:17Z",
-      "content": "The upcoming The Witcher multiplayer game, known as Project Sirius, has lost another chunk of its development team, Kotaku has learned.\r\nKotaku understands that nine individuals were let go from the … [+1233 chars]"
+      "author": "Tom Bedford",
+      "title": "8 Best Uses For The Samsung Galaxy Z Fold 8's Wide Screen - bgr.com",
+      "description": "With its wide 4:3 inner screen, the passport-shaped Samsung Galaxy Z Fold 8 makes it easier than ever to read, write, game, and even work on mobile.",
+      "url": "https://www.bgr.com/2232536/best-uses-samsung-galaxy-z-fold-8-screen/",
+      "urlToImage": "https://www.bgr.com/img/gallery/8-best-uses-for-the-samsung-galaxy-z-fold-8s-wide-screen/l-intro-1786120519.jpg",
+      "publishedAt": "2026-08-12T14:02:00Z",
+      "content": "When you watch movies, TV shows, or online videos on the Samsung Galaxy Z Fold 8's main display, they look much better than when doing so on the Z Fold 8 Ultra. This is, again, because of its aspect … [+1064 chars]"
     },
     {
       "source": {
@@ -226,6 +239,19 @@
       "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/insta360_x6_1.jpg?quality=90&strip=all&crop=0%2C10.740836125969%2C100%2C78.518327748063&w=1200",
       "publishedAt": "2026-08-12T13:00:00Z",
       "content": "<ul><li></li><li></li><li></li></ul>\r\nThe smaller X6 comes with improved 8K recording, stronger and cheaper replacement lenses, and a battery life boost.\r\nThe smaller X6 comes with improved 8K record… [+4693 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Push Square"
+      },
+      "author": "Push Square",
+      "title": "Oblivion Remastered Could Finally Be Fixed on PS5 as Bethesda Promises 'Optimisations' Patch - Push Square",
+      "description": "Take your time",
+      "url": "https://www.pushsquare.com/news/2026/08/oblivion-remastered-could-finally-be-fixed-on-ps5-as-bethesda-promises-optimisations-patch",
+      "urlToImage": "https://images.pushsquare.com/675611a06a036/large.jpg",
+      "publishedAt": "2026-08-12T12:45:00Z",
+      "content": "It's been roughly 16 months since The Elder Scrolls 4: Oblivion Remastered launched on PS5, and the open world revival still runs poorly on Sony's system.\r\nAlthough a couple of post-release updates d… [+1583 chars]"
     },
     {
       "source": {
@@ -333,32 +359,6 @@
     },
     {
       "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Jay Peters",
-      "title": "Saber denies replacing Rideshare Stimulator’s writers with ChatGPT - The Verge",
-      "description": "Saber Interactive’s CEO has denied that it has replaced any game writers with AI after former Rideshare “Stimulator” lead writer Stella Sacco claimed Saber “replaced me with ChatGPT.”",
-      "url": "https://www.theverge.com/games/978558/rideshare-stimulator-writer-ai-saber-interactive",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/RS_storefronts_3840x2160_8.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-      "publishedAt": "2026-08-12T00:39:00Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nSabers CEO says the games story was written entirely by real people except for one experimental mode.\r\nSabers CEO says the games story was written entirely by re… [+3089 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "MacRumors"
-      },
-      "author": "Juli Clover",
-      "title": "Samsung is Starting to Catch Up to Apple on Hearing Health - MacRumors",
-      "description": "Samsung today said its Galaxy Buds Hearing Aid feature has been cleared by the U.S. FDA, which means hearing aid capabilities will be coming to the...",
-      "url": "https://www.macrumors.com/2026/08/11/samsung-galaxy-buds-hearing-aid/",
-      "urlToImage": "https://images.macrumors.com/t/0Lpgm2gcdBb8QPj9TPTTFfDThmE=/1600x/article-new/2024/07/samsung-galaxy-buds-3.jpg",
-      "publishedAt": "2026-08-12T00:01:43Z",
-      "content": "Samsung today said its Galaxy Buds Hearing Aid feature has been cleared by the U.S. FDA, which means hearing aid capabilities will be coming to the Galaxy Buds in the fourth quarter of 2026.\r\nSamsung… [+1419 chars]"
-    },
-    {
-      "source": {
         "id": "nbc-news",
         "name": "NBC News"
       },
@@ -369,19 +369,6 @@
       "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-08/260811-super-mario-nintendo-vsb-1838-2f5626.jpg",
       "publishedAt": "2026-08-11T22:53:12Z",
       "content": "A few years ago, a pop culture store owner in Wisconsin mentioned to Jason Ganos, a well-known Nintendo game collector, that he had a box of Super Mario cartridges that had been sitting in storage fo… [+3873 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "MacRumors"
-      },
-      "author": "Juli Clover",
-      "title": "Satechi Launches 240W ChargeView Desktop Charger With Six USB-C Ports - MacRumors",
-      "description": "Satechi today launched the ChargeView 240W Desktop Charger, a successor to the 140W ChargeView released last year. The ChargeView 240W can power...",
-      "url": "https://www.macrumors.com/2026/08/11/satechi-240w-chargeview/",
-      "urlToImage": "https://images.macrumors.com/t/jcNBBWJ5rpZKiZhnOZUKpashmek=/2000x/article-new/2026/08/satechi-chargeview-240w.jpg",
-      "publishedAt": "2026-08-11T22:29:58Z",
-      "content": "Satechi today launched the ChargeView 240W Desktop Charger, a successor to the 140W ChargeView released last year. The ChargeView 240W can power multiple devices at one time, splitting 240W across si… [+1087 chars]"
     },
     {
       "source": {
@@ -408,19 +395,6 @@
       "urlToImage": "https://futurism.com/wp-content/uploads/2026/08/man-covers-car-special-wrap-flock-cameras.jpg?w=1200",
       "publishedAt": "2026-08-11T19:21:04Z",
       "content": "Can’t-miss innovations from the bleeding edge of science and tech\r\nIn light of plummeting public support for its widespread automatic license plate readers, surveillance company Flock has lost dozens… [+2561 chars]"
-    },
-    {
-      "source": {
-        "id": "ign",
-        "name": "IGN"
-      },
-      "author": "Tom Phillips",
-      "title": "The Legend of Zelda 40th Anniversary Nintendo Switch 2 Console Images Reportedly Leak - IGN",
-      "description": "Leaked images of a The Legend of Zelda 40th Anniversary Nintendo Switch 2 console and Pro Controller appear to be circulating online.",
-      "url": "https://www.ign.com/articles/the-legend-of-zelda-40th-anniversary-nintendo-switch-2-console-images-reportedly-leak",
-      "urlToImage": "https://assets-prd.ignimgs.com/2025/11/04/zelda-ocarinaoftime-stillfun-blogroll-1762282899827.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "publishedAt": "2026-08-11T17:27:31Z",
-      "content": "Leaked images of a The Legend of Zelda 40th Anniversary Nintendo Switch 2 console and Pro Controller appear to be circulating online. \r\nPhotos of the unannounced Nintendo hardware were posted to X/Tw… [+2529 chars]"
     },
     {
       "source": {
@@ -451,28 +425,28 @@
     {
       "source": {
         "id": null,
-        "name": "Gameinformer.com"
+        "name": "Notebookcheck.net"
       },
-      "author": "Charles Harte",
-      "title": "Wolverine-Themed PlayStation 5 Consoles And Controllers Drop In September - Game Informer",
-      "description": "Unsurprisingly, the console in the bundle does not have a disc drive. - Game Informer",
-      "url": "https://gameinformer.com/2026/08/11/wolverine-themed-playstation-5-consoles-and-controllers-drop-in-september",
-      "urlToImage": "https://gameinformer.com/sites/default/files/styles/og_image/public/2026/08/11/d8df172a/marvels_wolverine_-_limited_edition_marvels_wolverine_bundle_and_accessories_ps5_0-10_screenshot.jpg.webp",
-      "publishedAt": "2026-08-11T16:04:00Z",
-      "content": "Marvel's Wolverine, one of the biggest games of the year, comes out it a little over a month. Today we learned it'll get the same treatment as PlayStation's other beloved first-party IP and launch al… [+3200 chars]"
+      "author": "Abdul Haddi",
+      "title": "Zelda-themed Nintendo Switch 2 console and Pro Controller leaked - Notebookcheck",
+      "description": "Nintendo is reportedly planning to launch a new limited-edition Zelda-themed Nintendo Switch 2 console and a matching Pro Controller to celebrate the series' 40th anniversary. And a new leak has now given us our first look at the hardware.",
+      "url": "https://www.notebookcheck.net/Zelda-themed-Nintendo-Switch-2-console-and-Pro-Controller-leaked.1365883.0.html",
+      "urlToImage": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Switch-2-Zelda-Pro-Controller.jpg",
+      "publishedAt": "2026-08-11T15:54:00Z",
+      "content": "The Legend of Zelda: Ocarina of Time remake is planned to launch sometime in 2026, and fans of the series are excited to see the classic return. The series will also be celebrating its 40th anniversa… [+446 chars]"
     },
     {
       "source": {
-        "id": null,
-        "name": "Jacobin.com"
+        "id": "ign",
+        "name": "IGN"
       },
-      "author": null,
-      "title": "Capitalism Is Killing an American Cinema Renaissance - Jacobin",
-      "description": "The Odyssey’s runaway success should green light more 70mm IMAX screens. But deindustrialization killed the skilled trades that built the projectors and the union jobs that ran them — so instead we’ll get resale markets and paywalled seats.",
-      "url": "https://jacobin.com/2026/08/imax-sale-odyssey-cinema-corporate-consolidation",
-      "urlToImage": "https://media.jacobin.com/images/2026/8/474506417166.jpg",
-      "publishedAt": "2026-08-11T15:55:26Z",
-      "content": "Its been an exciting year to be a movie fan. After years of declining public interest in the art form, 2026 has brought the movies back in a big way. Just in the last few months, audiences turned the… [+1436 chars]"
+      "author": "Tom Phillips",
+      "title": "Marvel's Wolverine Limited Edition PS5 Console Announced, Plus Physical Disc Drive Covers - IGN",
+      "description": "PlayStation 5 exclusive Marvel's Wolverine will be accompanied by a limited edition PS5 console bundle, plus cover plates for both digital PS5 consoles and those with disc drives.",
+      "url": "https://www.ign.com/articles/marvels-wolverine-limited-edition-ps5-console-announced-plus-physical-disc-drive-covers",
+      "urlToImage": "https://assets-prd.ignimgs.com/2026/08/11/1cb6edc77cea73be0bf1ef2d20fcf6b10851bad4-1786458157899.jpg?width=1280&format=jpg&auto=webp&quality=80",
+      "publishedAt": "2026-08-11T14:47:02Z",
+      "content": "PlayStation 5 exclusive Marvel's Wolverine will be accompanied by a limited edition PS5 console bundle, plus cover plates for both digital PS5 consoles and those with disc drives.\r\nAvailable from Sep… [+2931 chars]"
     },
     {
       "source": {
@@ -486,19 +460,6 @@
       "urlToImage": "https://cdn.motor1.com/images/mgl/JONPPJ/s1/dodge-ceo-interview.jpg",
       "publishedAt": "2026-08-11T14:10:00Z",
       "content": "The 600-horsepower Charger Super Bee may be Dodges latest performance weapon, but its only the beginning of what the automaker has planned. Dodge is keeping the Super Bee exclusive for now, but that … [+3446 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "9to5google.com"
-      },
-      "author": "Ben Schoon",
-      "title": "Galaxy Z Fold 8's wider shape still survives bend test, teardown shows off titanium and poor Qi placement [Video] - 9to5Google",
-      "description": "Durability is perhaps the single-biggest hesitation about folding phones, but Samsung has proven time and time again that its foldables...",
-      "url": "http://9to5google.com/2026/08/11/galaxy-z-fold-8-bend-test-teardown/",
-      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/08/fold-8-bend-test-qi-placement-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "publishedAt": "2026-08-11T13:50:00Z",
-      "content": "Durability is perhaps the single-biggest hesitation about folding phones, but Samsung has proven time and time again that its foldables are rather strong and resilient. Despite its wider new shape, S… [+2191 chars]"
     },
     {
       "source": {

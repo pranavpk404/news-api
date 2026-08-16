@@ -3,9 +3,35 @@
   "country": "us",
   "category": "business",
   "mode": "country",
-  "fetched_at": "2026-08-15T22:04:52.387462+00:00",
-  "articles_count": 60,
+  "fetched_at": "2026-08-16T00:26:18.161415+00:00",
+  "articles_count": 62,
   "articles": [
+    {
+      "source": {
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
+      },
+      "author": "WSJ",
+      "title": "Exclusive | Trump Family’s World Liberty Financial Gets Preliminary Approval to Launch a Bank - WSJ",
+      "description": null,
+      "url": "https://www.wsj.com/finance/trump-familys-world-liberty-financial-gets-preliminary-approval-to-launch-a-bank-dd518a2b",
+      "urlToImage": null,
+      "publishedAt": "2026-08-14T21:24:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "author": "Bailey Lipschultz, Rachel Metz",
+      "title": "Anthropic Revenue Surges to Over $11.5 Billion in Second Quarter - Bloomberg.com",
+      "description": "Anthropic PBC is telling prospective investors its second-quarter revenue jumped at least 14-fold versus the same period a year ago, according to documents seen by Bloomberg News.",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-14/anthropic-revenue-ahead-of-ipo-surges-over-14-fold-in-second-quarter",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iMFYdqPJ3P18/v1/1200x824.jpg",
+      "publishedAt": "2026-08-14T21:08:57Z",
+      "content": "Anthropic PBC is telling prospective investors its second-quarter revenue jumped at least 14-fold versus the same period a year ago, according to documents seen by Bloomberg News.\r\nThe Claude chatbot… [+350 chars]"
+    },
     {
       "source": {
         "id": "the-washington-post",
@@ -21,29 +47,55 @@
     },
     {
       "source": {
-        "id": "the-wall-street-journal",
-        "name": "The Wall Street Journal"
+        "id": "associated-press",
+        "name": "Associated Press"
       },
-      "author": "Cara Lombardo, Gina Heeb, Lauren Thomas, Corrie Driebusch, Sam Goldfarb, Joe Wallace, David Uberti, Shradha Dinesh, Matt Grossman, Ed Ballard",
-      "title": "Stock Market Today: Dow, S&P 500 Slip; Reddit Stock Jumps — Live Updates - WSJ",
-      "description": "Oil levels off; retail sales slipped in July",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-14-2026",
-      "urlToImage": "https://images.wsj.net/im-925351/social",
-      "publishedAt": "2026-08-14T20:16:00Z",
-      "content": "Stocks slipped, but the S&amp;P 500 still ended the week near records after a boost from slowing inflation and some AI-related stocks.\r\nThe benchmark U.S. index opened higher, but was settled down 0.… [+832 chars]"
+      "author": "Josh Funk",
+      "title": "2 planes with the same flight number avoid possible disaster thanks to quick-thinking controller - AP News",
+      "description": "Potential disaster was averted when a Phoenix air traffic controller recognized two American Airlines jets mistakenly were flying the same flight number and acted quickly to avoid confusion and keep them a safe distance apart. Audio of the incident shortly af…",
+      "url": "https://apnews.com/article/american-airlines-air-traffic-control-call-sign-8ab07e296fa2ad2fea3b9aada9a802d6",
+      "urlToImage": "https://dims.apnews.com/dims4/default/422fc2f/2147483647/strip/true/crop/3747x2497+156+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fc6%2F73%2Fdc307bd873b6ef75f907457c3c98%2F4ad862318af3430cbe2c746bc019d496",
+      "publishedAt": "2026-08-14T20:36:00Z",
+      "content": "A potential disaster was averted Friday when a Phoenix air traffic controller recognized two American Airlines jets mistakenly were flying the same flight number and acted quickly to avoid confusion … [+3124 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Yun Li",
+      "title": "Berkshire Hathaway boosts Alphabet to a top three holding, ups Delta and housing bets - CNBC",
+      "description": "Berkshire owned about 106 million shares in the parent of Google, worth $37.9 billion at the end of June, according to a regulatory filing released Friday.",
+      "url": "https://www.cnbc.com/2026/08/14/berkshire-hathaway-boosts-alphabet-to-a-top-three-holding-ups-delta-and-housing-bets.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108327769-1782530637304-2026-06-26_Citizenshipship_Greg-8.jpg?v=1782531933&w=1920&h=1080",
+      "publishedAt": "2026-08-14T20:31:30Z",
+      "content": "Berkshire Hathaway sharply increased its stake in Alphabet in the second quarter, vaulting the Google parent into its three biggest stock holdings. The sprawling conglomerate also added to the size o… [+2075 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Sean Conlon, Hugh Leask, Justina Lee, Fred Imbert",
+      "title": "S&P 500 closes lower, but posts third straight weekly gain: Live updates - CNBC",
+      "description": "The S&P 500 slid on Friday after a record-setting session, though the benchmark still notched its third consecutive weekly advance.",
+      "url": "https://www.cnbc.com/2026/08/13/stock-market-today-live-updates.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108322606-1781626040978-Traders-Photo-20260616-KK-PRESS-007.jpg?v=1781626133&w=1920&h=1080",
+      "publishedAt": "2026-08-14T20:14:00Z",
+      "content": "The S&amp;P 500 slid on Friday after a record-setting session, though the benchmark still notched its third consecutive weekly advance.\r\nThe broad market index closed down 0.2% to end the day at 7,78… [+2201 chars]"
     },
     {
       "source": {
         "id": "the-wall-street-journal",
         "name": "The Wall Street Journal"
       },
-      "author": "WSJ",
+      "author": "Cara Lombardo, Gina Heeb, Lauren Thomas",
       "title": "Exclusive | Stripe, Advent in Talks to Buy PayPal - WSJ",
-      "description": null,
+      "description": "The fintech startup and private-equity firm offered to buy the struggling payments company in July",
       "url": "https://www.wsj.com/business/deals/stripe-advent-in-talks-to-buy-paypal-ea6aa2ba",
-      "urlToImage": null,
+      "urlToImage": "https://images.wsj.net/im-96473568/social",
       "publishedAt": "2026-08-14T19:44:00Z",
-      "content": null
+      "content": "PayPalPYPL1.77%increase; up pointing triangle\r\nHoldings is in talks to sell itself to a group that includes Stripe and the private-equity firm Advent International, according to people familiar with … [+334 chars]"
     },
     {
       "source": {
@@ -57,6 +109,71 @@
       "urlToImage": "https://sportscar365.com/wp-content/uploads/2026/08/26-086_GM_CRC_s06_R34_Motion_Comp04_RE_FinalArt_V2_SRGB_16x9-copy.jpg",
       "publishedAt": "2026-08-14T19:35:41Z",
       "content": "Image: Cadillac\r\nCadillac has taken the wraps off its V-ONE prototype, billed as a concept study that “unites the Cadillac V-Series performance legacy with a one-of-one, single-seat expression” marki… [+1594 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Financial Times"
+      },
+      "author": null,
+      "title": "Americans sour on Donald Trump’s economy as affordability strains intensify - Financial Times",
+      "description": "Consumer sentiment and retail sales fall as the war in Iran worsens cost of living pressures",
+      "url": "https://www.ft.com/content/66d3a2de-6591-443d-83b0-94f2224edbbf?syn-25a6b1a6\\\\u003d1",
+      "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Ff27e3103-c6ba-43f5-a8d6-eb9042a4fbc6.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
+      "publishedAt": "2026-08-14T18:49:51Z",
+      "content": "Then $75 per month. Complete digital access to quality FT journalism on any device. Cancel anytime during your trial."
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "Thibault Spirlet",
+      "title": "Claude users are canceling their subscriptions, citing Anthropic’s new AI watermark - Business Insider",
+      "description": "One developer said they feared Anthropic's watermark could lead clients to flag their work as AI-generated and raise questions about authorship.",
+      "url": "https://www.businessinsider.com/claude-users-cancel-subscriptions-citing-anthropic-new-ai-watermark-2026-8#article",
+      "urlToImage": "https://i.insider.com/6a7eeca5e3df4d0cbe685e46?width=1200&format=jpeg",
+      "publishedAt": "2026-08-14T18:48:00Z",
+      "content": "Anthropic's move to watermark Claude-generated text is driving some users away from its AI assistant.\r\nThe AI lab said this week that some versions of Claude will embed an \"imperceptible watermark\" d… [+5884 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "West Virginia MetroNews"
+      },
+      "author": "Brad McElhinny",
+      "title": "Justices complete half-billion dollar joint venture on The Greenbrier - WV MetroNews",
+      "description": "The deal represents a joint venture with the New York financial firm Kennedy Lewis Investment Management and puts to rest, at least temporarily, a long saga of debt related to the hotel.",
+      "url": "https://wvmetronews.com/2026/08/14/justices-complete-half-billion-dollar-joint-venture-on-the-greenbrier/",
+      "urlToImage": "https://s3.us-east-005.backblazeb2.com/wvmn-s3/2025/09/Greenbrier-6.jpg",
+      "publishedAt": "2026-08-14T18:34:37Z",
+      "content": "Senator Jim Justice and his family announced the completion of a new, $500 million joint venture with the New York financial firm Kennedy Lewis Investment Management and put to rest, at least for now… [+13247 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": null,
+      "title": "Who controls the Strait of Hormuz right now? Here's what the ship traffic actually shows - Fox News",
+      "description": "Traffic through the Strait of Hormuz appears to have declined substantially as compared to conditions before the war with Iran started earlier this year.",
+      "url": "https://www.foxnews.com/politics/who-controls-strait-hormuz-right-now-heres-what-ship-traffic-actually-shows",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/05/container-ship-strait-hormuz-iran-ap-fox-news-optimized.jpg",
+      "publishedAt": "2026-08-14T18:34:00Z",
+      "content": "As tensions between the U.S. and Iran remain unsettled more than five months since the start of the war, the number of ships transiting the Strait of Hormuz appears to be far below pre-conflict level… [+5586 chars]"
+    },
+    {
+      "source": {
+        "id": "associated-press",
+        "name": "Associated Press"
+      },
+      "author": "Ashraf Khalil",
+      "title": "Pull up to the window, please, for a glimpse of an American icon: The drive-thru - AP News",
+      "description": "What happens when two distinctly American icons, fast food and cars, collide? The drive-thru, naturally. Those two massive sociological forces had already joined up, Voltron-style, early in the 20th century with the development of the drive-in restaurant. Tha…",
+      "url": "https://apnews.com/article/drivethru-dining-car-culture-america-250-da66714c7282d307d5240f91c31b9e56",
+      "urlToImage": "https://dims.apnews.com/dims4/default/4503c66/2147483647/strip/true/crop/3023x2014+0+29/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fc8%2Fab%2F5bad3e610f216ec339306e3e29f2%2F9d2a60d81cea4198869441b67d6027fb",
+      "publishedAt": "2026-08-14T18:32:00Z",
+      "content": "WASHINGTON (AP) Full disclosure: this should really be two tales. How better to pay tribute to the natural and perhaps inevitable combination of two distinctly American icons: fast food and cars?\r\nTh… [+2726 chars]"
     },
     {
       "source": {
@@ -99,19 +216,6 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "Quartz India"
-      },
-      "author": "Cris Tolomia",
-      "title": "U.S. consumer sentiment falls in August 2026, ending recovery - qz.com",
-      "description": "The University of Michigan index dropped to 51.0 from 55.2 in July, with consumers expecting higher inflation tied to the Middle East conflict",
-      "url": "https://qz.com/us-consumer-sentiment-august-2026-iran-inflation-081426",
-      "urlToImage": "https://qz.com/cdn-cgi/image/width=1200,quality=85,format=auto/https://assets.qz.com/media/GettyImages-2206476103-300x200.jpg",
-      "publishedAt": "2026-08-14T17:22:14Z",
-      "content": "Global business news for a smarter world\r\n© 2026 Quartz Media, Inc. All rights reserved.\r\nThe University of Michigan index dropped to 51.0 from 55.2 in July, with consumers expecting higher inflation… [+2719 chars]"
-    },
-    {
-      "source": {
         "id": "bloomberg",
         "name": "Bloomberg"
       },
@@ -122,19 +226,6 @@
       "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iFj_hfwjDkqE/v0/1200x800.jpg",
       "publishedAt": "2026-08-14T16:59:08Z",
       "content": "The Justice Department and a US financial regulator are probing transactions around Radiant World, the private firm that has rapidly risen to become one of the worlds largest iron ore traders, accord… [+413 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Newser"
-      },
-      "author": "Rob Quinn",
-      "title": "Construction Crew Uncovers $10M Gold Hoard - Newser",
-      "description": "Belgian workers may end up splitting it with charity that owns building",
-      "url": "https://www.newser.com/story/394662/construction-crew-uncovers-10m-gold-hoard.html",
-      "urlToImage": "https://cdn.newser.com/image/1705324-12-20260814120033.jpeg",
-      "publishedAt": "2026-08-14T16:50:00Z",
-      "content": "Sewer work in a Belgian city has turned into a $10 million mystery. A construction crew in Dendermonde, north of Brussels, unearthed a stash of gold bars and coins while drilling to install new sewer… [+311 chars]"
     },
     {
       "source": {
@@ -151,16 +242,16 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "Barron's"
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
       },
-      "author": "Patrick O’Donnell",
-      "title": "SpaceX Stock Drops as Musk’s Rockets Face a Fresh Rival - Barron's",
-      "description": "SpaceX stock has gained around 19% in the week since the first tranche of shares were unlocked last Thursday and another release is coming next week.",
-      "url": "https://www.barrons.com/articles/spacex-stock-price-unlocked-rival-52f9fc3a",
-      "urlToImage": "https://images.barrons.com/im-87139323/social",
-      "publishedAt": "2026-08-14T16:31:00Z",
-      "content": "Another tranche ofSpaceXstock will be unlocked and free to trade next week. It will be the second since the company came to market two months ago.\r\nCopyright ©2026Dow Jones &amp; Company, Inc. All Ri… [+46 chars]"
+      "author": "WSJ",
+      "title": "Kratom is the Gas Station Herbal Extract Behind a Growing Addiction Crisis | The Future of Everything for August 14 - WSJ",
+      "description": null,
+      "url": "https://www.wsj.com/health/wellness/the-gas-station-herbal-extract-behind-a-growing-addiction-crisis-96f4f93a",
+      "urlToImage": null,
+      "publishedAt": "2026-08-14T15:55:00Z",
+      "content": null
     },
     {
       "source": {
@@ -174,19 +265,6 @@
       "urlToImage": "https://image.cnbcfm.com/api/v1/image/108349722-1786712900728-gettyimages-2285138968-kd1_9383_mmure7bl.jpeg?v=1786712921&w=1920&h=1080",
       "publishedAt": "2026-08-14T15:45:15Z",
       "content": "When OpenAI hired Denise Dresser from Slack to be its chief revenue officer in December, Fidji Simo, a top-ranking executive, said in a blog post that Dresser's \"experience will help us make AI usefu… [+7754 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Seeking Alpha"
-      },
-      "author": "Joshua Fineman",
-      "title": "Workday may be worth $240-$250/share in takeover - analyst - Seeking Alpha",
-      "description": "Workday (WDAY) takeover talks: analysts see $230–$250/share potential amid Silver Lake interest.",
-      "url": "https://seekingalpha.com/news/4633350-workday-may-be-worth-240-250-share-in-takeover-analyst",
-      "urlToImage": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1212869212/image_1212869212.jpg?io=getty-c-w630",
-      "publishedAt": "2026-08-14T15:26:03Z",
-      "content": "hapabapa\r\nWorkday (WDAY) may see $240-$250 a share in a potential takeover by private equity after a report on Thursday that Silver Lake was in talks to acquire the company, according to a Needham an… [+39 chars]"
     },
     {
       "source": {
@@ -213,6 +291,19 @@
       "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-2234130980.jpg?resize=1200,800",
       "publishedAt": "2026-08-14T14:54:48Z",
       "content": "After trying and failing to delay the matter, Apple on Thursday submitted its proposal for the commissions it wants to charge on purchases made using external links inside apps on its iOS devices.\r\nI… [+1885 chars]"
+    },
+    {
+      "source": {
+        "id": "the-hill",
+        "name": "The Hill"
+      },
+      "author": "Michael Bartiromo, Addy Bink",
+      "title": "FDA assigns highest-risk Class I status for recall of nearly 1.6 million cartons of eggs - The Hill",
+      "description": "A Class I recall indicates “a situation in which there is a reasonable probability that the use of or exposure to a violative product will cause serious adverse health consequences or death,\" according to the FDA.",
+      "url": "https://thehill.com/policy/healthcare/6029894-fda-assigns-highest-risk-class-i-status-for-recall-of-nearly-1-6-million-cartons-of-eggs/",
+      "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2026/08/EggsGettyImages-1441851398-e1786717868328.jpg?w=1280",
+      "publishedAt": "2026-08-14T14:54:00Z",
+      "content": "Skip to content\r\n(NEXSTAR) – A recall affecting nearly 1.6 million cartons of eggs has been assigned to the U.S. Food and Drug Administration’s most serious risk category.\r\nThe recall, which was init… [+2927 chars]"
     },
     {
       "source": {
@@ -269,15 +360,15 @@
     {
       "source": {
         "id": null,
-        "name": "WPEC"
+        "name": "KWQC-TV6"
       },
-      "author": "Eric Weiss",
-      "title": "FDA upgrades recall of 19 million eggs to highest risk level for Salmonella poisoning - WPEC",
-      "description": "FDA upgrades a recall of nearly 19 million eggs to Class I as officials investigate a Salmonella outbreak linked to 98 illnesses in 17 states.",
-      "url": "https://cbs12.com/news/local/health-news-fda-upgrades-recall-of-19-million-eggs-to-highest-risk-level-for-salmonella-poisoning-class-i-serious-health-consequences-death-outbreak-midwest-poultry-services-consumer-alert-kroger-",
-      "urlToImage": "https://cbs12.com/resources/media2/16x9/778/1320/121x0/90/943e6cf4-8f2c-4e3f-ad2d-85e91a120c9e-image_5_50.jpg",
-      "publishedAt": "2026-08-14T13:13:17Z",
-      "content": "WEST PALM BEACH, Fla. (CBS12) The Food and Drug Administration has upgraded a recall of nearly 19.1 million eggs to its highest risk category as federal health officials investigate a multistate Salm… [+2059 chars]"
+      "author": "Elisabeth Ruggiero",
+      "title": "Joslin workers describe tears, chaos after learning Tyson plant shutting down permanently - KWQC",
+      "description": "Tyson Foods is permanently closing its Joslin, Illinois beef plant, leaving more than 2,700 workers without jobs. The facility is expected to shut down by Monday.",
+      "url": "https://www.kwqc.com/2026/08/14/tyson-plant-closure-leaves-2700-workers-without-jobs-with-no-warning/",
+      "urlToImage": "https://gray-kwqc-prod.gtv-cdn.com/resizer/v2/CT6755WZ3BALDPFPQQSQUPAZAA.png?auth=d69fec93b5a68fb587de46c83d53d7203e42539d2da39acf960fa2da9dedf9d1&width=1200&height=600&smart=true",
+      "publishedAt": "2026-08-14T13:01:00Z",
+      "content": "JOSLIN, Ill. (KWQC) Tyson Foods is permanently closing its beef processing plant in Joslin, leaving more than 2,700 workers without jobs. Workers received letters confirming the closure when they arr… [+2152 chars]"
     },
     {
       "source": {
@@ -307,16 +398,16 @@
     },
     {
       "source": {
-        "id": "fox-news",
-        "name": "Fox News"
+        "id": null,
+        "name": "STAT"
       },
-      "author": null,
-      "title": "Treasure hunters strike gold after years of disappointment with find worth a fortune - Fox News",
-      "description": "Hobbyists Alan Daniels and Andy Crammond unearthed three Bronze Age gold bracelets near Carlisle, England, dating to 1100 B.C. The items are now under British Museum review.",
-      "url": "https://www.foxnews.com/travel/treasure-hunters-strike-gold-years-disappointment-find-worth-fortune",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/08/UK-METAL-DETECTORISTS-BRONZE-AGE-BRACELETS-ANCIENT-HISTORY-ARCHAEOLOGY-DISCOVERY-4.jpg",
-      "publishedAt": "2026-08-14T12:00:55Z",
-      "content": "Two metal detectorists recently struck gold literally after finding three Bronze Age gold bracelets worth six figures.\r\nThe detectorists, Alan Daniels, 48, and Andy Crammond, 34, found the bracelets … [+2877 chars]"
+      "author": "Adam Feuerstein",
+      "title": "FDA approves Bristol multiple myeloma treatment, marking debut of novel drug class - STAT",
+      "description": "The FDA approved a treatment for advanced multiple myeloma made by Bristol Myers Squibb, marking the debut of a new class of drugs for the blood cancer.",
+      "url": "https://www.statnews.com/2026/08/14/fda-approves-bristol-multiple-myeloma-drug-zenbexus/",
+      "urlToImage": "https://www.statnews.com/wp-content/uploads/2022/12/AdobeStock_251916311-1024x576.jpeg",
+      "publishedAt": "2026-08-14T12:09:20Z",
+      "content": "The Food and Drug Administration on Thursday approved an oral treatment for advanced multiple myeloma made by Bristol Myers Squibb, marking the debut of a new class of medicine for the blood cancer a… [+873 chars]"
     },
     {
       "source": {
@@ -412,19 +503,6 @@
     {
       "source": {
         "id": null,
-        "name": "Seeking Alpha"
-      },
-      "author": "Jessica Kuruthukulangara",
-      "title": "Bill Ackman's latest bets, including Netflix and Visa, mark major portfolio overhaul - Seeking Alpha",
-      "description": "Bill Ackman’s Pershing Square adds Netflix, Visa, Mastercard, S&P Global, ICE and Alcon, citing undervaluation and growth.",
-      "url": "https://seekingalpha.com/news/4633047-bill-ackman-pershing-square-portfolio-overhaul",
-      "urlToImage": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2188218644/image_2188218644.jpg?io=getty-c-w630",
-      "publishedAt": "2026-08-14T09:48:11Z",
-      "content": "Michael M. Santiago\r\nBill Ackman's recent investments in Netflix (NFLX), Visa (V), Mastercard (MA), S&amp;P Global (SPGI), Intercontinental Exchange (ICE) and Alcon (ALC) mark the biggest portfolio o… [+109 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "WHYY"
       },
       "author": "Susan Phillips",
@@ -441,12 +519,12 @@
         "name": "Business Insider"
       },
       "author": "Alex Bitter",
-      "title": "The burger wars are heating up as McDonald's loses ground to an old rival - Business Insider",
+      "title": "The burger wars are heating up as McDonald's loses ground to an old rival - Currently.com",
       "description": "McDonald's sales growth slows as diners opt for Burger King and other rivals, seeking better deals amid rising inflation and economic challenges.",
-      "url": "https://www.businessinsider.com/mcdonalds-faces-competition-burger-king-sales-rise-wars-fast-food-2026-8#article",
-      "urlToImage": "https://i.insider.com/6a7b43efc78818eff7d2bb0d?width=1200&format=jpeg",
-      "publishedAt": "2026-08-14T09:09:42Z",
-      "content": "Peter Lauwers used to swing by McDonald's to buy dinner for his family on busy weeknights.\r\nA few years ago, though, the Michigan-based father, who runs a mobile app development company, noticed risi… [+6165 chars]"
+      "url": "https://www.businessinsider.com/mcdonalds-faces-competition-burger-king-sales-rise-wars-fast-food-2026-8",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/32c75d45ba75dc8ee742200e832a5b70c88b68d575d3698bea4903beec8b55c2/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbusiness_insider_consolidated_articles_886%2Fda2eafb612ebe4e0169c06e65394a21a.jpg",
+      "publishedAt": "2026-08-14T09:07:01Z",
+      "content": "<ul><li>McDonald's reported slowing sales growth for its second quarter.\r\n</li><li>Some customers are looking elsewhere for cheap meals, from Burger King to gas stations.\r\n</li><li>It's the latest ev… [+6480 chars]"
     },
     {
       "source": {
@@ -476,15 +554,15 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "Abcnews.com"
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
       },
-      "author": "abcnews.com",
-      "title": "United flight aborts takeoff at Chicago O'Hare due to blown tires - abcnews.com",
+      "author": "WSJ",
+      "title": "DeepSeek Lifts AI Model Prices Fourfold - WSJ",
       "description": null,
-      "url": "https://abcnews.com/US/united-flight-aborts-takeoff-chicago-ohare-due-blown/story?id\\\\u003d135625737",
+      "url": "https://www.wsj.com/tech/ai/deepseek-lifts-ai-model-prices-fourfold-fbe893e7",
       "urlToImage": null,
-      "publishedAt": "2026-08-14T02:43:27Z",
+      "publishedAt": "2026-08-14T04:36:00Z",
       "content": null
     },
     {
@@ -503,15 +581,28 @@
     {
       "source": {
         "id": null,
-        "name": "Successful Farming"
+        "name": "WLS-TV"
       },
-      "author": "https://www.facebook.com/SuccessfulFarmingUSA/",
-      "title": "Tyson Foods Will Close or Sell Three U.S. Beef Facilities as Industry Struggles - Successful Farming",
-      "description": "Tyson Foods said on Thursday it will close or sell three of its beef plant and packaging operation sites, further shrinking its beef footprint as a historic U.S. cattle shortage deepens losses for the largest U.S. meatpacker.",
-      "url": "https://www.agriculture.com/partners-tyson-foods-says-it-will-close-sell-three-sites-amid-u-s-cattle-shortage-12059640",
-      "urlToImage": "https://www.agriculture.com/thmb/mPx0uRfvBmXqOAXBx0zngm4R1yI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/52813922012_b280054ea1_o-aa637689822a47ce8217fa9ea3d786e9.jpeg",
-      "publishedAt": "2026-08-13T23:22:27Z",
-      "content": "By P.J. Huffstutter\r\n CHICAGO, Aug. 13 (Reuters) - Tyson Foods said on Thursday it will close or sell three of its beef plant and packaging operation sites, further shrinking its beef footprint as a … [+3992 chars]"
+      "author": "ABC7 Chicago Digital Team",
+      "title": "United Airlines Flight 455 blows tire during takeoff at Chicago O'Hare International Airport: FAA; video shows emergency response - ABC7 Chicago",
+      "description": "A United Airlines plane blew a tire during takeoff Thursday at O'Hare airport, the FAA said. Video showed the emergency response on the runway.",
+      "url": "https://abc7chicago.com/post/emergency-response-involving-united-airlines-plane-seen-chicago-ohare-international-airport-video-shows/19674043/",
+      "urlToImage": "https://cdn.abcotvs.com/dip/images/19674050_081326-wls-united-emergency-clean-img.jpg?w=1600",
+      "publishedAt": "2026-08-13T23:28:11Z",
+      "content": "CHICAGO (WLS) -- An emergency response involving a United Airlines plane could be seen Thursday afternoon at Chicago O'Hare International Airport.\r\nThe FAA said a preliminary investigation found the … [+799 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Investor's Business Daily"
+      },
+      "author": null,
+      "title": "Sandisk Stock Jumps On Bullish Outlook, Leads Memory Names Higher - Investor's Business Daily",
+      "description": "Sandisk stock jumped after the memory-chip maker gave an upbeat presentation at an analyst meeting in New York City.",
+      "url": "https://www.investors.com/news/technology/sandisk-stock-jumps-bullish-outlook-memory-names-follow/",
+      "urlToImage": "https://www.investors.com/wp-content/uploads/2026/08/stock-Sandisk-memorycard-company.jpg",
+      "publishedAt": "2026-08-13T22:39:00Z",
+      "content": "Information in Investors Business Daily is for informational and educational purposes only and should not be construed as an offer, recommendation, solicitation, or rating to buy or sell securities. … [+1064 chars]"
     },
     {
       "source": {
@@ -538,32 +629,6 @@
       "urlToImage": "https://images.wsj.net/im-40009343/social",
       "publishedAt": "2026-08-13T22:03:00Z",
       "content": "HOUSTONIn one of his last public appearances as ApplesAAPL1.00%increase; up pointing triangle\r\nChief Executive, Tim Cook on Thursday toured a Texas factory with Commerce Secretary Howard Lutnick, sho… [+515 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Investor's Business Daily"
-      },
-      "author": null,
-      "title": "SEC May Advance Crypto Rules, 24/7 Trading Without Clarity Act. OCC Paves Way For Crypto Banks. - Investor's Business Daily",
-      "description": "The SEC on Friday will host a meeting on whether to introduce new cryptocurrency, trading proposals. OCC paves way for crypto banks.",
-      "url": "https://www.investors.com/news/sec-cryptocurrency-rules-innovation-trading-clarity-act-senate-delay-occ-national-banks-bitcoin/",
-      "urlToImage": "https://www.investors.com/wp-content/uploads/2018/04/stock-SEC-02-shutter.jpg",
-      "publishedAt": "2026-08-13T21:24:00Z",
-      "content": "Information in Investors Business Daily is for informational and educational purposes only and should not be construed as an offer, recommendation, solicitation, or rating to buy or sell securities. … [+1064 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Abcnews.com"
-      },
-      "author": "ABC News - Breaking News, Latest News and Videos",
-      "title": "Inflation surge has squeezed shoppers. Sluggish pay has made it worse - ABC News - Breaking News, Latest News and Videos",
-      "description": null,
-      "url": "https://abcnews.com/Business/inflation-surge-squeezed-shoppers-sluggish-pay-made-worse/story?id\\\\u003d135610975",
-      "urlToImage": null,
-      "publishedAt": "2026-08-13T20:27:58Z",
-      "content": null
     },
     {
       "source": {
@@ -607,6 +672,19 @@
     {
       "source": {
         "id": null,
+        "name": "MyNorthwest.com"
+      },
+      "author": "MyNorthwest Staff",
+      "title": "Kalshi ordered to cease most betting operations in WA - mynorthwest.com",
+      "description": "A final order was issued by a King County Superior Court judge, requiring Kalshi to cease its illegal gambling operation in the state.",
+      "url": "https://mynorthwest.com/local/kalshi-wa-betting-gambling/4265762",
+      "urlToImage": "https://mynorthwest.com/wp-content/uploads/2026/08/Untitled-design-2026-08-13T122848.269.jpg",
+      "publishedAt": "2026-08-13T19:45:57Z",
+      "content": "A King County Superior Court judge issued a final order requiring Kalshi to cease many of its Washington operations after finding that Kalshi violated the Washington Gambling Act and the Consumer Pro… [+3737 chars]"
+    },
+    {
+      "source": {
+        "id": null,
         "name": "Electrek"
       },
       "author": "Jameson Dow",
@@ -622,13 +700,26 @@
         "id": null,
         "name": "Yahoo Entertainment"
       },
-      "author": "Nauman Khan",
-      "title": "Sandisk Stock Soars 15% After Company Unveils Powerful FY2030 Targets - Yahoo Finance",
-      "description": "Sandisk Stock Jumps as New Forecast Points to Strong Growth and Cash Flow",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/sandisk-stock-soars-15-company-192809365.html",
+      "author": "Renato Neves, CFA",
+      "title": "Bill Ackman Buys Back Into Netflix Four Years After Selling at a Loss - Yahoo Finance",
+      "description": "Ackman adds six new holdings across his funds, the biggest overhaul in years",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/bill-ackman-buys-back-netflix-191039109.html",
       "urlToImage": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
-      "publishedAt": "2026-08-13T19:28:09Z",
-      "content": "This article first appeared on GuruFocus.\r\nSandisk (NASDAQ:SNDK) shares climbed more than 15% Thursday after the company laid out its financial targets through fiscal 2030 at its Investor Day.\r\nFor f… [+875 chars]"
+      "publishedAt": "2026-08-13T19:10:39Z",
+      "content": "This article first appeared on GuruFocus.\r\nBill Ackman (Trades, Portfolio) disclosed six new holdings, buying Netflix (NASDAQ:NFLX), Visa (NYSE:V), Mastercard (NYSE:MA), eye care company Alcon (NYSE:… [+794 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Avon, CT Patch"
+      },
+      "author": "Kara Seymour",
+      "title": "Automatic Tariff Refunds Coming To These PA Residents - Patch",
+      "description": "Pennsylvania residents ﻿who bought these products can expect a refund.",
+      "url": "https://patch.com/pennsylvania/across-pa/automatic-tariff-refunds-coming-these-pa-residents",
+      "urlToImage": "https://patch.com/img/cdn20/shutterstock/127196/20260813/023954/styles/patch_image/public/shutterstock-268850816___13143940958.jpg",
+      "publishedAt": "2026-08-13T18:39:55Z",
+      "content": "UPS said it had paid $5 billion in tariffs on behalf of clients as of April and was initiating government refund applications. The company initially requested $500 million in reimbursement, noting th… [+856 chars]"
     },
     {
       "source": {
@@ -672,32 +763,6 @@
     {
       "source": {
         "id": null,
-        "name": "BleepingComputer"
-      },
-      "author": "Ax Sharma",
-      "title": "AI 'watermark removers' flood the web. Almost none can prove they work. - BleepingComputer",
-      "description": "Multiple 'watermark removers' have surfaced days after Anthropic began watermarking text generated by Claude, including an open source project with over 4,500 GitHub stars and paid AI detection evasion services. None of the tools' claims about defeating the t…",
-      "url": "https://www.bleepingcomputer.com/news/security/ai-watermark-removers-flood-the-web-almost-none-can-prove-they-work/",
-      "urlToImage": "https://www.bleepstatic.com/content/hl-images/2026/02/13/Claude_chats.jpg",
-      "publishedAt": "2026-08-13T17:33:28Z",
-      "content": "A market for removing AI watermarks has sprung up days after Anthropic disclosed switching on invisible marks in everything Claude writes, spanning a GitHub project with over 4,500 stars, a cluster o… [+6242 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "BleepingComputer"
-      },
-      "author": "Bill Toulas",
-      "title": "Critical VMware vCenter RCE flaw exploited for reverse SSH access - BleepingComputer",
-      "description": "A recently patched critical vulnerability (CVE-2026-59310) in VMware vCenter Syslog Server is being exploited in an active campaign to deploy a reverse SSH tool for persistence and remote access.",
-      "url": "https://www.bleepingcomputer.com/news/security/critical-vmware-vcenter-rce-flaw-exploited-for-reverse-ssh-access/",
-      "urlToImage": "https://www.bleepstatic.com/content/hl-images/2023/10/25/VMware_red.jpg",
-      "publishedAt": "2026-08-13T16:40:23Z",
-      "content": "A recently patched critical vulnerability (CVE-2026-59310) in VMware vCenter Syslog Server is being exploited in an active campaign to deploy a reverse SSH tool for persistence and remote access.\r\nCo… [+2929 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "Fox Business"
       },
       "author": "Eric Revell",
@@ -707,19 +772,6 @@
       "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2025/12/0/0/pharmacy-tech.png?ve=1&tl=1",
       "publishedAt": "2026-08-13T16:37:00Z",
       "content": "A group of nine pharmacy benefit managers (PBMs) announced Thursday that they will work with an industry group to boost the transparency of prescription drug pricing through the TrumpRx platform.\r\nFO… [+3136 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Arizona Sports"
-      },
-      "author": "Damon Allred",
-      "title": "Suns owner Mat Ishbia welcomes noise from UWM stock drop - Arizona Sports",
-      "description": "Suns owner Mat Ishbia told his UWM employees it's in the best place it's ever been despite a tumbling stock price and a report that a housing market miscalculation left the company in a significant hole.",
-      "url": "https://arizonasports.com/nba/phoenix-suns/mat-ishbia-uwm-financial-struggles",
-      "urlToImage": "https://cdn.arizonasports.com/arizonasports/wp-content/uploads/2023/10/Mat-Ishbia.jpg",
-      "publishedAt": "2026-08-13T16:27:00Z",
-      "content": "Phoenix Suns owner Mat Ishbia told his United Wholesale Mortgage (UWM) employees the company is in the best place it’s ever been despite a tumbling stock price and a report that a housing market misc… [+2028 chars]"
     },
     {
       "source": {
@@ -759,32 +811,6 @@
       "urlToImage": "https://image.cnbcfm.com/api/v1/image/108349060-1786624767133-IMG_2742.jpeg?v=1786624852&w=1920&h=1080",
       "publishedAt": "2026-08-13T13:15:01Z",
       "content": "A version of this article first appeared in CNBC's Inside Wealth newsletter with Robert Frank, a weekly guide to the high-net-worth investor and consumer. Sign up to receive future editions, straight… [+4847 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": "Sarah Agostino",
-      "title": "New federal rules could end mortgage escrow interest for some homeowners. States are suing to block them - CNBC",
-      "description": "A new lawsuit challenges recently issued rules from federal banking regulators that preempts state laws requiring banks to pay interest on escrow accounts.",
-      "url": "https://www.cnbc.com/2026/08/13/mortgage-escrow-account-interest-lawsuit-bank-rules.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108348450-1786542040544-gettyimages-2042511845-tae00779.jpeg?v=1786542201&w=1920&h=1080",
-      "publishedAt": "2026-08-13T12:15:02Z",
-      "content": "A legal battle is brewing over new federal rules related to accounts that hold money to pay homeowners' property taxes and insurance payments.\r\nTen state attorneys general filed a lawsuit on Tuesday … [+4593 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "MAE ANDERSON",
-      "title": "A surprise credit after an overseas purchase: The tariff refunds now flowing through shippers - Yahoo Finance",
-      "description": "Shippers including FedEx and UPS that acted as customs brokers for imported packages and received tariff refunds from the U.S. government have started to pas...",
-      "url": "https://finance.yahoo.com/economy/policy/articles/surprise-credit-overseas-purchase-tariff-040159600.html",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/94EEECF14E68FC5B70CAB5B6F5812F1A9863BEC85C110BC5F0E8E588FD256683/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2Fcf5c4ef2fa2a9d1ad1bd03d24d00cce8.jpg",
-      "publishedAt": "2026-08-13T04:01:00Z",
-      "content": "NEW YORK (AP) If you bought something from an overseas vendor last year, it might be time to check your bank account.\r\nShippers including FedEx and UPS that acted as customs brokers for imported pack… [+5287 chars]"
     }
   ]
 }

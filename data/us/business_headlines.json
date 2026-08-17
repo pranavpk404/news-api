@@ -3,9 +3,61 @@
   "country": "us",
   "category": "business",
   "mode": "country",
-  "fetched_at": "2026-08-17T20:10:45.441666+00:00",
-  "articles_count": 58,
+  "fetched_at": "2026-08-17T22:09:15.824821+00:00",
+  "articles_count": 60,
   "articles": [
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Anthony Ha",
+      "title": "Why people aren’t buying Mark Zuckerberg’s AI future - techcrunch.com",
+      "description": "On the latest episode of Equity podcast, we discuss why not everyone is buying Zuckerberg’s vision.",
+      "url": "https://techcrunch.com/2026/08/16/why-people-arent-buying-mark-zuckerbergs-ai-future/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2239280474.jpg?resize=1200,800",
+      "publishedAt": "2026-08-16T20:32:01Z",
+      "content": "Meta CEO Mark Zuckerberg published a 6,500 word essay this week declaring that The Future is for Everyone and painting an optimistic picture of a future powered by AI, where everyone will have an exc… [+7454 chars]"
+    },
+    {
+      "source": {
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "author": "Yazhou Sun, Natasha Mascarenhas, Paige Smith",
+      "title": "Stripe Clinches Over $7 Billion Deal to Buy AI Firm OpenRouter - Bloomberg.com",
+      "description": "Stripe Inc. has finalized an agreement to acquire OpenRouter Inc., a startup that helps companies switch between artificial intelligence models, for more than $7 billion, according to people familiar with the matter.",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i5.taRLVay1E/v1/1200x800.jpg",
+      "publishedAt": "2026-08-16T20:08:01Z",
+      "content": "Stripe Inc. has finalized an agreement to acquire OpenRouter Inc., a startup that helps companies switch between artificial intelligence models, for more than $7 billion, according to people familiar… [+337 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Fox Business"
+      },
+      "author": "Sophia Compton",
+      "title": "Granola sold nationwide on Amazon recalled over salmonella contamination fears - Fox Business",
+      "description": "Lactation granola sold nationwide is being recalled after a supplier notified the company that a product containing an ingredient also used in the granola tested positive for salmonella.",
+      "url": "https://www.foxbusiness.com/lifestyle/granola-sold-nationwide-amazon-recalled-salmonella-contamination-fears",
+      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/08/0/0/granola-poured-into-jar.jpg?ve=1&tl=1",
+      "publishedAt": "2026-08-16T19:51:00Z",
+      "content": "Granola marketed to breastfeeding mothers and sold nationwide is being recalled over concerns that it may be contaminated with salmonella.\r\nThe Hampton Grocer, Inc., a New York-based company, is reca… [+2314 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Daringfireball.net"
+      },
+      "author": null,
+      "title": "Anthropic’s ‘Watermark’ Text Adulteration in Claude Is a Perversion of Writing - Daring Fireball",
+      "description": "It’s unacceptable for a tool to sacrifice an iota of clarity, coherence, meaning, quality, etc. for the purpose of embedding hidden clues within the text to suggest its provenance. The idea that anything other than *my* needs should factor into the generation…",
+      "url": "https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing",
+      "urlToImage": "https://daringfireball.net/graphics/df-wide-card.png",
+      "publishedAt": "2026-08-16T19:26:46Z",
+      "content": "When I wrote this week about Anthropics announcement that all Claude models, worldwide, would soon begin watermarking everything they generate, including text, to comply with this EU regulation, we w… [+27734 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -18,19 +70,6 @@
       "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/08/0/0/rancher-cattle-shortage.png?ve=1&tl=1",
       "publishedAt": "2026-08-16T19:18:00Z",
       "content": "Relief from high beef prices may depend on something that can’t be fixed overnight: rebuilding America’s shrinking cattle herd.\r\nAmerica’s ranchers are facing their smallest cattle herd in 75 years, … [+2687 chars]"
-    },
-    {
-      "source": {
-        "id": "fox-news",
-        "name": "Fox News"
-      },
-      "author": "Fox News",
-      "title": "Viral Italian spritz cocktail — no, not Aperol — makes a summer splash in the US - New York Post",
-      "description": "Move over Hugo and Aperol spritz, there’s a new trendy drink in town.",
-      "url": "https://www.foxnews.com/food-drink/move-over-aperol-viral-italian-spritz-arrives-us-eye-catching-twist",
-      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/08/crop-40365710.jpg?quality=75&strip=all&w=1200",
-      "publishedAt": "2026-08-16T17:38:00Z",
-      "content": "Sarti Rosa is making a splash with its United States debut.\r\nThe new spirit in town, previously only available in Europe, is officially hitting liquor stores across the country and it’s become a vira… [+4029 chars]"
     },
     {
       "source": {
@@ -73,16 +112,16 @@
     },
     {
       "source": {
-        "id": "the-wall-street-journal",
-        "name": "The Wall Street Journal"
+        "id": "techcrunch",
+        "name": "TechCrunch"
       },
-      "author": "WSJ",
-      "title": "How AI Models From OpenAI and Anthropic Went Rogue - WSJ",
-      "description": null,
-      "url": "https://www.wsj.com/tech/ai/how-ai-models-from-openai-and-anthropic-went-rogue-a28e29ee",
-      "urlToImage": null,
-      "publishedAt": "2026-08-16T16:03:00Z",
-      "content": null
+      "author": "Kirsten Korosec",
+      "title": "TechCrunch Mobility: The shifting flight path of electric air taxis - TechCrunch",
+      "description": "Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation.",
+      "url": "https://techcrunch.com/2026/08/16/techcrunch-mobility-the-shifting-flight-path-of-electric-air-taxis/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/08/joby-aviation-GettyImages-2272907562.jpg?resize=1200,800",
+      "publishedAt": "2026-08-16T16:04:00Z",
+      "content": "Welcome back to TechCrunch Mobility your central hub for news and insights on the future of transportation. To get this in your inbox, sign up here for free just click TechCrunch Mobility!\r\nSomething… [+7206 chars]"
     },
     {
       "source": {
@@ -102,13 +141,13 @@
         "id": null,
         "name": "TheStreet"
       },
-      "author": "thestreet.com",
+      "author": "Daniel Kline, Celine Provini",
       "title": "Casino operator liquidated as Chapter 11 bankruptcy ends - thestreet.com",
-      "description": null,
+      "description": "Gamblers have more options, and some casino operators are paying the price.",
       "url": "https://www.thestreet.com/retail/casino-operator-imperial-pacific-liquidated-as-chapter-11-bankruptcy-ends",
-      "urlToImage": null,
+      "urlToImage": "https://www.thestreet.com/.image/NDA6MDAwMDAwMDAzMTQ3MDgz/casino-lead.jpg?profile=share16-9",
       "publishedAt": "2026-08-16T15:39:42Z",
-      "content": null
+      "content": "Gambling keeps growing in the United States, but that does not tell the full story as to why some casinos still fail.\r\nThe U.S. commercial gaming industry reached a record high in 2025, generating $7… [+6128 chars]"
     },
     {
       "source": {
@@ -126,15 +165,15 @@
     {
       "source": {
         "id": null,
-        "name": "Motley Fool"
+        "name": "Liveandletsfly.com"
       },
-      "author": "Sean Williams",
-      "title": "Social Security's Trump Bump-Driven 2027 COLA May Lead to a Silver Lining for the First Time Since 2023 - The Motley Fool",
-      "description": "Social Security's 2027 raise is being boosted by President Donald Trump's policies -- but this might not be the biggest story.",
-      "url": "https://www.fool.com/retirement/2026/08/16/social-security-trump-bump-2027-cola-silver-lining/",
-      "urlToImage": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F883164%2Fpresident-donald-trump-wh-photo-remarks-joyce-n-boghosian-national-archives.jpg&w=1200&op=resize",
-      "publishedAt": "2026-08-16T14:06:00Z",
-      "content": "For the last 25 years, Gallup has conducted annual surveys to gauge the importance of Social Security income to the average retired worker. These polls have consistently shown that 80% to 90% of reti… [+6373 chars]"
+      "author": "Kyle Stewart",
+      "title": "The Cult Of LUV (Southwest Airlines) - Live and Let's Fly",
+      "description": "The nation’s largest domestic carrier has a completely new identity, mission, and process, but some customers are in a LUV cult and can’t see a way out.",
+      "url": "https://liveandletsfly.com/the-cult-of-luv-southwest-airlines/",
+      "urlToImage": "https://liveandletsfly.com/wp-content/uploads/2025/08/Southwest-Airlines-737-700-Review-22.jpeg",
+      "publishedAt": "2026-08-16T14:39:20Z",
+      "content": null
     },
     {
       "source": {
@@ -165,6 +204,19 @@
     {
       "source": {
         "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Daniel Howley",
+      "title": "Meta to face massive social media addiction trial Tuesday - Yahoo Finance",
+      "description": "A lawsuit filed by 29 attorneys general related to Meta's impact on teens will go to trial Tuesday.",
+      "url": "https://finance.yahoo.com/technology/article/meta-to-face-massive-social-media-addiction-trial-tuesday-135141870.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/FC41E3566D9DCF931B6A9439B12A86D79E8E3F6E9EB14D7CE5497978A895FFA5/subgraphmysterio/resizefill_w1200_h819;quality_80;format_webp/https:%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-03%2F587bf975-6756-4c97-9db8-5ec6325d8ad3",
+      "publishedAt": "2026-08-16T13:51:41Z",
+      "content": "Meta (META) will face off against attorneys general from several states in an Oakland, Calif., courtroom Tuesday as part of a major lawsuit alleging that the company violated child safety and consume… [+2635 chars]"
+    },
+    {
+      "source": {
+        "id": null,
         "name": "Fox Business"
       },
       "author": "Bradford Betz",
@@ -178,28 +230,41 @@
     {
       "source": {
         "id": null,
-        "name": "The Takeout"
+        "name": "Yahoo Entertainment"
       },
-      "author": "Rachel Sobel",
-      "title": "11 Trader Joe's Cheeses, Ranked Worst To Best - thetakeout.com",
-      "description": "The Sheepish Pesto was our least favorite cheese from Trader Joe’s. We much preferred the Coastal Syrah Toscano and the rich Triple Creme Brie.",
-      "url": "https://www.thetakeout.com/2236858/trader-joes-cheese-ranked-worst-best/",
-      "urlToImage": "https://www.thetakeout.com/img/gallery/11-trader-joes-cheeses-ranked-worst-to-best/l-intro-1786694789.jpg",
-      "publishedAt": "2026-08-16T13:40:00Z",
-      "content": "Trader Joe's is good at many things. The grocery chain has lower prices, unique items, cult favorites, and then there's the cheese situation. As someone who regularly entertains in my home, Trader Jo… [+1170 chars]"
+      "author": "Sheryar Siddiq",
+      "title": "Wendy’s Jumps on Report That Nelson Peltz Wants to Take His Old Company Private - Yahoo Finance",
+      "description": "The Wendy’s Company (NASDAQ:WEN) just had its best week in months, with shares of the fast-food giant rising up to 16% on August 12 after the Financial Times...",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/wendy-jumps-report-nelson-peltz-134908532.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/256A7A33C49BAE33B032B7F02C6C3FC6CF05D433403B8E50647B77F672D39156/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2F673fd253435cbe1971128f25a875fb11.jpg",
+      "publishedAt": "2026-08-16T13:49:08Z",
+      "content": "The Wendy's Company (NASDAQ:WEN) just had its best week in months, with shares of the fast-food giant rising up to 16% on August 12 after the Financial Times reported that Nelson Peltz's Trian Fund M… [+4404 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "New York Post"
+        "name": "TheStreet"
       },
-      "author": "Andrea Palladino",
-      "title": "Gen Z’s $3 hack to beat the soaring cost of going out in NYC — tiny canned cocktails that pack a fierce punch - New York Post",
-      "description": "They’re known for being sober-curious — but a bite-sized new booze trend reveals that this generation hasn’t quite fully broken up with alcohol just yet.",
-      "url": "https://nypost.com/2026/08/16/lifestyle/why-gen-z-is-obsessed-with-tiny-4-blackout-pregame-drink/",
-      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/07/newspress-collage-g1czzlox2-1784824979631.jpg?quality=75&strip=all&1784810604&w=1200",
+      "author": "Faizan Farooque",
+      "title": "Workday’s $51 billion takeover talks could reset the software trade - thestreet.com",
+      "description": "Private equity may have found the software market’s biggest mistake",
+      "url": "https://www.thestreet.com/investing/workdays-51-billion-takeover-talks-could-reset-the-software-trade",
+      "urlToImage": "https://www.thestreet.com/.image/NDA6MDAwMDAwMDAzMTQ2NjI4/aneel-bhusri-ceo-of-enterprise-software-company-workday-in-pleasanton-calif-talks-during-an-interview-on-friday-january-30-2015.jpg?profile=share16-9",
+      "publishedAt": "2026-08-16T13:33:00Z",
+      "content": "For much of 2026, software investors have been grappling with a terrifying question: What if artificial intelligence makes many of the apps that firms have spent decades buying considerably less valu… [+8025 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "MarketWatch"
+      },
+      "author": "Isabel Wang, Claudia Assis",
+      "title": "Here’s the real reason oil prices aren’t moving higher - MarketWatch",
+      "description": "The world does not need as much as it used to — which could be a problem in itself",
+      "url": "https://www.marketwatch.com/story/heres-the-real-reason-oil-prices-arent-moving-higher-256afdbc",
+      "urlToImage": "https://images.mktw.net/im-31533452/social",
       "publishedAt": "2026-08-16T13:00:00Z",
-      "content": "They’re known for being sober-curious  but a bite-sized new booze trend reveals that Gen Z hasn’t quite fully broken up with alcohol just yet. \r\nAs the cost of going out on the town climbs ever highe… [+5654 chars]"
+      "content": "A still-blocked Strait of Hormuz. Tanker attacks. U.S.-Iran peace talks at an impasse. \r\nSix months ago, any one of those factors would have sent oil prices back above $100 a barrel. But when confron… [+158 chars]"
     },
     {
       "source": {
@@ -217,15 +282,15 @@
     {
       "source": {
         "id": null,
-        "name": "Forbes"
+        "name": "Motley Fool"
       },
-      "author": "Billy Bambrough",
-      "title": "Bitcoin And Crypto Suddenly Braced For A White House Price Game-Changer - Forbes",
-      "description": "Bitcoin and crypto prices have limped through 2026, despite U.S. president Donald Trump’s support...",
-      "url": "https://www.forbes.com/sites/digital-assets/2026/08/16/bitcoin-and-crypto-suddenly-braced-for-a-white-house-price-game-changer/",
-      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6a805521025557f55d6156f4/0x0.jpg?format=jpg&crop=2301,1534,x0,y0,safe&height=900&width=1600&fit=bounds",
+      "author": "Jeremy Bowman, The Motley Fool",
+      "title": "The Stock Market Is About To Do Something It's Never Done This Century. History Says This Is What Happens Next (Hint: It's Bullish) - Yahoo Finance",
+      "description": "S&P 500 earnings are on track to grow 50% this quarter, but there's more to the story than that.",
+      "url": "https://www.fool.com/investing/2026/08/16/the-stock-market-is-about-to-do-something-for-the/",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/A2D410C300E5907366F29A92B7541C6ED9B50960A5A78A839CED079D5C4E5C63/subgraphmysterio/resizefill_w1200_h735;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fmotleyfool.com%2F09efb95822bfa9caef99b0895eedaa08.png",
       "publishedAt": "2026-08-16T12:05:00Z",
-      "content": "08/16 update below. This post was originally published on August 15\r\nBitcoin and crypto prices have limped through 2026, despite U.S. president Donald Trumps support and the Federal Reserves bitcoin … [+5443 chars]"
+      "content": "Almost everywhere you look in the stock market, you can see signs of a bubble if you squint.\r\nValuations are unusually high. In fact, the CAPE ratio, which uses the last ten years of earnings, is nea… [+6142 chars]"
     },
     {
       "source": {
@@ -239,6 +304,19 @@
       "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/08/15/USAT/91319074007-20230719-t-224358-z-754820907-rc-2-m-62-ai-6-rdv-rtrmadp-3-usalottery.JPG?crop=4209,2368,x0,y0&width=3200&height=1801&format=pjpg&auto=webp",
       "publishedAt": "2026-08-16T12:04:00Z",
       "content": "No one matched all six numbers in Saturday night's Powerball drawing, meaning the jackpot will continue to grow after last week's historic $1.04 billion win in Illinois.\r\nThe next Powerball drawing i… [+2735 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": null,
+      "title": "Vacation nightmare unfolds as ferry passengers battle seasickness at island hot spot - Fox News",
+      "description": "Travelers on high-speed ferries between Greece's Cyclades islands report brutal seasickness as Meltemi winds churn the Aegean into rough crossings. A travel expert shares insights.",
+      "url": "https://www.foxnews.com/travel/vacation-nightmare-unfolds-ferry-passengers-battle-seasickness-island-hot-spot",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/08/seajets.jpg",
+      "publishedAt": "2026-08-16T12:00:00Z",
+      "content": "Tourists hopping between Greece's islands on high-speed ferries are reporting rough rides and brutal bouts of seasickness along the way.\r\nAcross social media, travelers this summer have been opening … [+4980 chars]"
     },
     {
       "source": {
@@ -282,6 +360,32 @@
     {
       "source": {
         "id": null,
+        "name": "SpaceNews"
+      },
+      "author": "Sandra Erwin",
+      "title": "U.S. defense agencies tap three companies for satellite disposal study - SpaceNews",
+      "description": "U.S. defense agencies tap three companies for satellite disposal study U.S. defense agencies tap three companies for satellite disposal study",
+      "url": "https://spacenews.com/u-s-defense-agencies-tap-three-companies-for-satellite-disposal-study/",
+      "urlToImage": "https://spacenews.com/wp-content/uploads/2024/03/Firefly_ElytraDawn_EarthOrbit.jpg",
+      "publishedAt": "2026-08-16T10:50:00Z",
+      "content": "WASHINGTON Three companies have been selected to study options for providing satellite deorbiting services to the U.S. government as the Pentagon explores whether disposal of aging spacecraft can be … [+3104 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "nj.com"
+      },
+      "author": "NJ.com",
+      "title": "There has never been a worse time to sell a home, survey says - NJ.com",
+      "description": null,
+      "url": "https://www.nj.com/news/2026/08/there-has-never-been-a-worse-time-to-sell-a-home-survey-says.html",
+      "urlToImage": null,
+      "publishedAt": "2026-08-16T10:00:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
         "name": "Yahoo Entertainment"
       },
       "author": "Jake Conley",
@@ -291,6 +395,19 @@
       "urlToImage": "https://s.yimg.com/lo/mysterio/api/4B82D91A560080F8E238844DC51F579782D403D34327ABE40E027DF9D0BC756A/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2F0e9dea66-2318-4021-be61-745136629074_11491862b659ff12119ca138a4c8c4e9e4782a28740405fe55a6b69124ee1bee.jpg",
       "publishedAt": "2026-08-16T10:00:00Z",
       "content": "After a week centered on inflation concerns and questions about the Federal Reserve's next move, investors step into a relatively quiet five-day stretch, with big box stores and other major retailers… [+8913 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Seeking Alpha"
+      },
+      "author": "Oliver Rodzianko",
+      "title": "Micron: I Think We Could Get An Upside Breakout (NASDAQ:MU) - Seeking Alpha",
+      "description": "Micron looks like a tactical short-term buy as DRAM/NAND tightness and AI/HBM demand lift prices—plus risk-aware stops. Click for more on MU stock.",
+      "url": "https://seekingalpha.com/article/4937117-micron-i-think-we-could-get-an-upside-breakout",
+      "urlToImage": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/173907910/image_173907910.jpg?io=getty-c-w1536",
+      "publishedAt": "2026-08-16T09:52:00Z",
+      "content": "Analysts Disclosure: I/we have a beneficial long position in the shares of MU either through stock ownership, options, or other derivatives. I wrote this article myself, and it expresses my own opini… [+747 chars]"
     },
     {
       "source": {
@@ -333,19 +450,6 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "Forbes"
-      },
-      "author": "Brad Japhe",
-      "title": "The World’s Best Single Malt Scotch Whisky—According To The 2026 Global Spirits Masters - Forbes",
-      "description": "Matured in ex-bourbon and finished in Ruby port casks, this sub-$100 bottle offers award-winning complexity to rival scotches far older and far more expensive.",
-      "url": "https://www.forbes.com/sites/bradjaphe/2026/08/16/the-worlds-best-single-malt-scotch-whisky-according-to-the-2026-global-spirits-masters/",
-      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6a80d7a69803f9430118bd0f/0x0.jpg?format=jpg&crop=2542,1430,x0,y224,safe&height=900&width=1600&fit=bounds",
-      "publishedAt": "2026-08-16T08:15:00Z",
-      "content": "Glen Scotia Campbeltown Malts Festival Edition 2026 Single Malt Scotch Whisky\r\nPhoto illustration: Brad Japhe\r\nThe results are in from the Global Spirits Masters one of the UKs top annual judging com… [+3657 chars]"
-    },
-    {
-      "source": {
         "id": "business-insider",
         "name": "Business Insider"
       },
@@ -362,13 +466,13 @@
         "id": null,
         "name": "Fox Business"
       },
-      "author": "Michael Sinkewicz",
-      "title": "Waymo gets regulatory approval to scale up robotaxi service across California, enter 2 new markets - Fox Business",
-      "description": "Waymo's robotaxi service expands across Northern and Southern California after CPUC approval, adding Sacramento and San Diego as new markets.",
-      "url": "https://www.foxbusiness.com/technology/waymo-gets-regulatory-approval-scale-up-robotaxi-service-across-california-enter-2-new-markets",
-      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/02/0/0/waymo-auto-chicago.jpg?ve=1&tl=1",
-      "publishedAt": "2026-08-16T03:52:00Z",
-      "content": "Waymo announced Friday that it is expanding its autonomous ride-hailing business across Northern and Southern California, including into two new major markets.\r\nThe Alphabet-owned company said it pla… [+3052 chars]"
+      "author": "Brittany Miller",
+      "title": "Harvard makes massive $2.2B SpaceX bet on Elon Musk's rocket company - Fox Business",
+      "description": "Harvard Management Company revealed a $2.2 billion SpaceX stake as university endowments benefit from early investments in Elon Musk’s rocket company",
+      "url": "https://www.foxbusiness.com/markets/harvard-makes-massive-spacex-bet-elon-musks-rocket-company",
+      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/08/0/0/spacex-harvard-display.jpg?ve=1&tl=1",
+      "publishedAt": "2026-08-16T00:11:00Z",
+      "content": "Harvard University’s investment arm disclosed a $2.2 billion stake in SpaceX, revealing a massive payoff from an early investment in Elon Musk’s rocket company following its blockbuster public debut.… [+2878 chars]"
     },
     {
       "source": {
@@ -382,19 +486,6 @@
       "urlToImage": "https://img.huffingtonpost.com/asset/6a80e9fa190000f71a60c55a.jpeg?cache=id75CFgt28&ops=500_281%2Cscalefit_1200_630",
       "publishedAt": "2026-08-15T22:56:39Z",
       "content": "Rep. Jamie Raskin (D-Md.) found some common ground with Joe Rogan over a plan in the works for President Donald Trumps social media company, Truth Social, to sell early access to his posts for a heft… [+1192 chars]"
-    },
-    {
-      "source": {
-        "id": "fortune",
-        "name": "Fortune"
-      },
-      "author": "Janet Lorin, Bloomberg",
-      "title": "Harvard fund discloses $2.2 billion stake in Musk’s SpaceX - fortune.com",
-      "description": "Others that have profited include the University of California’s investment arm as well as the University of North Carolina and Washington University in St. Louis.",
-      "url": "https://fortune.com/2026/08/15/harvard-management-fund-endowment-spacex-stake-university-california-north-carolina/",
-      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/08/GettyImages-2289079202-e1786833992622.jpg?resize=1200,600",
-      "publishedAt": "2026-08-15T22:52:00Z",
-      "content": "Harvard Management Co. disclosed a $2.2 billion stake in SpaceX, showing how the universitys endowment has profited from an early bet on Elon Musks giant rocket company.Harvard reported it holds the … [+1717 chars]"
     },
     {
       "source": {
@@ -450,19 +541,6 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "Abcnews.com"
-      },
-      "author": "ABC News - Breaking News, Latest News and Videos",
-      "title": "Trump-linked crypto venture World Liberty Trust granted bank status in unprecedented move for president - ABC News - Breaking News, Latest News and Videos",
-      "description": null,
-      "url": "https://abcnews.com/Business/trump-linked-crypto-venture-world-liberty-trust-granted/story?id\\\\u003d135668756",
-      "urlToImage": null,
-      "publishedAt": "2026-08-15T21:51:44Z",
-      "content": null
-    },
-    {
-      "source": {
         "id": "techcrunch",
         "name": "TechCrunch"
       },
@@ -490,28 +568,28 @@
     {
       "source": {
         "id": null,
-        "name": "WRAL.com"
+        "name": "The Information"
       },
-      "author": "Joseph Ochoa, WRAL multiplatform producer",
-      "title": "Developer withdraws plans for data center in southeast Raleigh, mayor says - WRAL",
-      "description": "According to Mayor Janet Cowell, Beacon Partners has withdrawn its proposal to build a data center on Jones Sausage Road. The 100,000-square-foot building was proposed to go on a more than 13-acre parcel of land that was already zoned for industrial mixed use.",
-      "url": "https://www.wral.com/news/local/developer-withdraws-plans-data-center-southeast-raleigh-mayor-says-august-2026/",
-      "urlToImage": "https://images.wral.com/045e6c12-fc19-5812-ba03-71e31059e3e4?w=1200&h=630&height=630",
-      "publishedAt": "2026-08-15T20:16:36Z",
-      "content": "A plan for a data center located in southeast Raleigh is no longer in the works.\r\nAccording to Mayor Janet Cowell, Beacon Partners has withdrawn its proposal to build a data center on Jones Sausage R… [+737 chars]"
+      "author": "Valida Pau, Ann Davis Vaughan, Phoebe Liu",
+      "title": "Nvidia in Talks to Invest $3 Billion in SB Energy as Part of OpenAI Data Center Deal - The Information",
+      "description": "Nvidia is in talks to invest as much as $3 billion in SB Energy, the Softbank Group-backed developer of a massive planned Ohio data center project for OpenAI, according to people familiar with the discussions. The investment is being discussed as part of Nvid…",
+      "url": "https://www.theinformation.com/articles/nvidia-talks-invest-3-billion-sb-energy-part-openai-data-center-deal",
+      "urlToImage": "https://tii.imgix.net/production/articles/17625/efe515c1-a311-4754-ace1-30d43b57e3d1.jpg?fm=jpg&auto=compress&w=1200&frame=0",
+      "publishedAt": "2026-08-15T19:12:00Z",
+      "content": null
     },
     {
       "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
+        "id": "fortune",
+        "name": "Fortune"
       },
-      "author": "Anthony Ha",
-      "title": "Anthropic shares more details about how Claude’s new watermarks will work - techcrunch.com",
-      "description": "How will the watermarking actually work? Can it be hidden with editing? And how does this affect code?",
-      "url": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/01/Magnifying-glasses.jpg?resize=1200,840",
-      "publishedAt": "2026-08-15T18:58:39Z",
-      "content": "Anthropic published a blog post Friday seeking to answer some basic questions about how it will watermark the text generated by its chatbot Claude. Such as: How will the watermarking actually work? C… [+3130 chars]"
+      "author": "Jason Ma",
+      "title": "Tariff refunds are juicing corporate profits and GDP, as tailwinds converge to propel growth to 4.3% - Fortune",
+      "description": "\"The bottom line is that the US economy continues to be supported by a growing set of tailwinds.\"",
+      "url": "https://fortune.com/2026/08/15/tariff-refunds-corporate-profits-gdp-tailwinds-4-3-percent-q3/",
+      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/08/GettyImages-2287125694-e1786817143716.jpg?resize=1200,600",
+      "publishedAt": "2026-08-15T19:08:00Z",
+      "content": "The Trump administration has returned more than $100 billion to U.S. businesses and importers that paid his global tariffs, and the money is quickly heating up the economy.The refunds are already boo… [+2636 chars]"
     },
     {
       "source": {
@@ -525,6 +603,19 @@
       "urlToImage": "https://kutv.com/resources/media2/16x9/3504/1320/0x46/90/10cf2fe2-80d2-408a-aaef-4d46c15df25a-AP20174770518285.jpg",
       "publishedAt": "2026-08-15T17:46:43Z",
       "content": "EAGLE MOUNTAIN, Utah (KUTV) More than 700 Utah workers are set to lose their jobs as Tyson Foods prepares to close its Eagle Mountain facility, a plant that opened just five years ago following an in… [+2306 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Notus.org"
+      },
+      "author": "Jade Lozada",
+      "title": "Trump Administration Greenlights World Liberty Financial Bank Charter - News of the United States - NOTUS",
+      "description": "The conditional approval comes soon after Trump reported more than $1.1 billion in crypto earnings in financial disclosures from last year.",
+      "url": "https://www.notus.org/money/trump-administration-world-liberty-financial-bank-charter-greenlight",
+      "urlToImage": "https://static.notus.org/dims4/default/ebe16e1/2147483647/strip/true/crop/5879x3307+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fk2-prod-aji.s3.us-east-1.amazonaws.com%2Fbrightspot%2F9f%2F2e%2F104e779f41668538933a80b8bb46%2Fap25121481701544.jpg",
+      "publishedAt": "2026-08-15T17:01:00Z",
+      "content": "The Trump administration conditionally approved a charter that would allow his familys crypto venture to act like a bank, in an unprecedented arrangement that will enable the presidents family to poc… [+2950 chars]"
     },
     {
       "source": {
@@ -551,19 +642,6 @@
       "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/07/22/USAT/91014785007-getty-images-2285918456.jpg?crop=1023,576,x0,y53&width=1023&height=576&format=pjpg&auto=webp",
       "publishedAt": "2026-08-15T16:31:00Z",
       "content": "Federal regulators have begun an inspection of Taylor Farms' central Mexico processing plant, which has been linked to a multistate outbreak of cyclosporiasis.\r\nThe Food and Drug Administration is co… [+4198 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Anthony Ha",
-      "title": "SpaceX officially closes its Cursor acquisition - TechCrunch",
-      "description": "AI coding startup Cursor is now officially a part of SpaceX.",
-      "url": "https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/07/cursor.jpg?resize=1200,800",
-      "publishedAt": "2026-08-15T16:30:00Z",
-      "content": "AI coding startup Cursor is now officially a part of SpaceX, according to an announcement on the Cursor blog.\r\nElon Musks SpaceX which also acquired Musks xAI earlier this year announced a deal in Ap… [+822 chars]"
     },
     {
       "source": {
@@ -646,28 +724,15 @@
     {
       "source": {
         "id": null,
-        "name": "Forbes"
+        "name": "CNBC"
       },
-      "author": "Pamela N. Danziger",
-      "title": "‘Delivery Protection Act’ Pits NYC Mayor Mamdani And The Teamsters Against Amazon - Forbes",
-      "description": "Delivery Protection Act could reshape last-mile logistics across New York City, as unions, Amazon and the business community fight over subcontracting delivery workers.",
-      "url": "https://www.forbes.com/sites/pamdanziger/2026/08/15/delivery-protection-act-pits-nyc-mayor-mamdani-and-the-teamsters-against-amazon/",
-      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6a8051615fde89f322c6dafb/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-      "publishedAt": "2026-08-15T12:30:50Z",
-      "content": "A coalition of Amazon Teamsters, the Alliance for a Greater New York and the Retail, Wholesale and Department Store Union rallied at New York City Hall to push passage of the Mayor Zohran Mamdani-bac… [+5003 chars]"
-    },
-    {
-      "source": {
-        "id": "the-wall-street-journal",
-        "name": "The Wall Street Journal"
-      },
-      "author": "WSJ",
-      "title": "On ‘Billionaire Bunker,’ Buying a Mansion Is Easy. Getting Into the Club Isn’t. - WSJ",
-      "description": null,
-      "url": "https://www.wsj.com/tech/personal-tech/on-billionaire-bunker-buying-a-mansion-is-easy-getting-into-the-club-isnt-f1bda8be",
-      "urlToImage": null,
-      "publishedAt": "2026-08-15T10:55:00Z",
-      "content": null
+      "author": "Michael Wayland",
+      "title": "I drove Tesla FSD, Rivian Autonomy+ ‘hands-free’ driving systems. Here’s how they compare - CNBC",
+      "description": "Rivian is trying to catch up to Tesla's \"hands-free\" capabilities, but with additional safety guardrails that the Elon Musk company doesn't have.",
+      "url": "https://www.cnbc.com/2026/08/15/rivian-tesla-self-driving-adas-fsd.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108344678-17858640942022-04-18t114421z_88518296_rc27lt9gl46l_rtrmadp_0_autos-rivian-factory.jpeg?v=1786742012&w=1920&h=1080",
+      "publishedAt": "2026-08-15T12:00:01Z",
+      "content": "Rivian's in-vehicle AI assistant launched in its vehicles on May 12, 2026.\r\nDETROIT What's the best advanced driver-assistance system on the market? Ask Rivian Automotive's new artificial intelligenc… [+9108 chars]"
     },
     {
       "source": {
@@ -681,32 +746,6 @@
       "urlToImage": "https://freebeacon.com/wp-content/uploads/2026/08/MixCollage-14-Aug-2026-11-07-AM-1499-scaled.jpg",
       "publishedAt": "2026-08-15T09:05:06Z",
       "content": "The biggest supporters and critics of artificial intelligence seem to have reached a consensus: AI companies need to stop pushing the technology's frontier until they understand how it will develop.\r… [+5069 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "New York Post"
-      },
-      "author": "Nicholas McEntyre",
-      "title": "Georgia financial CEO Todd Burkhalter sentenced for running historic $380M Ponzi scheme to fund lavish lifestyle - New York Post",
-      "description": "A financial advising CEO was sentenced Friday to 20 years behind bars for masterminding a $380 million Ponzi scheme to fund his lavish lifestyle that featured yachts, private jets and luxury shoppi…",
-      "url": "https://nypost.com/2026/08/15/us-news/georgia-financial-ceo-todd-burkhalter-sentenced-for-running-historic-380m-ponzi-scheme-to-fund-lavish-lifestyle/",
-      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/08/COMP-CEO.jpg?quality=75&strip=all&w=1200",
-      "publishedAt": "2026-08-15T05:20:00Z",
-      "content": "A Georgia financial advising CEO was sentenced Friday to 20 years behind bars for masterminding a $380 million Ponzi scheme to fund his lavish lifestyle of yachts, private jets and luxury shopping.\r\n… [+4018 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "NBC Bay Area"
-      },
-      "author": "Victoria Meza",
-      "title": "Terra restaurant inside San Jose's Eataly closes due to vermin contamination, officials say - nbcbayarea.com",
-      "description": "The Terra Restaurant on the third floor of Eataly was closed Friday due to vermin contamination, according to authorities on Friday.",
-      "url": "https://www.nbcbayarea.com/news/local/san-jose-terra-closes-vermin/4128511/",
-      "urlToImage": "https://media.nbcbayarea.com/2022/05/Eataly.jpg?quality=85&strip=all&resize=1200%2C675",
-      "publishedAt": "2026-08-15T04:48:28Z",
-      "content": "The Terra restaurant on the third floor of Eataly closed due to vermin contamination, according to the County of Santa Clara Environmental Health on Friday.\r\nAuthorities said an inspection was conduc… [+1179 chars]"
     },
     {
       "source": {
@@ -737,28 +776,15 @@
     {
       "source": {
         "id": null,
-        "name": "Firstalert4.com"
+        "name": "UPI.com"
       },
-      "author": "Heather Sullivan",
-      "title": "How to know what’s safe to eat amid the Cyclospora and Salmonella outbreaks - First Alert 4",
-      "description": "Health officials say there are currently 1500 cases of Cyclospora in Missouri, including 90 in the city of St. Louis.",
-      "url": "https://www.firstalert4.com/2026/08/14/how-know-whats-safe-eat-amid-cyclospora-salmonella-outbreaks/",
-      "urlToImage": "https://gray-kmov-prod.gtv-cdn.com/resizer/v2/5NN4NSWWXJCUHGQPP3B3VNZ2XM.jpg?auth=02b151e0ad4a50047b31ad3329028d842c18302816e3ef1b92cbb2313a78c821&width=1200&height=600&smart=true",
-      "publishedAt": "2026-08-14T22:35:00Z",
-      "content": "ST. LOUIS, Mo. (First Alert 4) - Health officials say there are currently 1500 cases of Cyclospora in Missouri, including 90 in the city of St. Louis. \r\nThe outbreak led to the recall of iceberg lett… [+2115 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "24/7 Wall St."
-      },
-      "author": "Gerelyn Terzo",
-      "title": "Humana Is Dropping Plans That Cover 600,000 Medicare Members in 2027. The Letters Arrive in September. - 24/7 Wall St.",
-      "description": "A Humana termination letter looks like bad news, but it quietly unlocks a set of rights most members never knew they had, and those rights expire on a clock most people never see coming.",
-      "url": "https://247wallst.com/personal-finance/2026/08/14/humana-is-dropping-plans-that-cover-600000-medicare-members-in-2027-the-letters-arrive-in-september/",
-      "urlToImage": "https://247wallst.com/wp-content/uploads/2022/10/imageForEntry11-b2M.jpg",
-      "publishedAt": "2026-08-14T21:02:21Z",
-      "content": "This post may contain links from our sponsors and affiliates, and Flywheel Publishing may receive compensation for actions taken through them.In September, roughly 600,000 Humana Medicare Advantage m… [+4559 chars]"
+      "author": null,
+      "title": "CEO sent to prison for 'largest Ponzi scheme in Georgia history' - upi.com",
+      "description": "An executive was sentenced to 20 years in prison for running what authorities described as \"likely the largest Ponzi scheme in Georgia history.\"",
+      "url": "https://www.upi.com",
+      "urlToImage": "https://cdnph.upi.com/sv/ph/og/upi/2581786761706/2026/1/5c1be4fbabde65ee4d0b70fdc7635c27/v1.5/CEO-sent-to-prison-for-largest-Ponzi-scheme-in-Georgia-history.jpg",
+      "publishedAt": "2026-08-15T02:50:10Z",
+      "content": "Aug. 14 (UPI) -- An Atlanta executive was sentenced to 20 years in prison on Friday for running what authorities described as \"likely the largest Ponzi scheme in Georgia history.\"\r\nTodd Burkhalter, t… [+1694 chars]"
     }
   ]
 }

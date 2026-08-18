@@ -3,9 +3,22 @@
   "country": "us",
   "category": "technology",
   "mode": "country",
-  "fetched_at": "2026-08-18T04:21:04.790066+00:00",
+  "fetched_at": "2026-08-18T06:18:19.027960+00:00",
   "articles_count": 62,
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "EventHubs"
+      },
+      "author": "EventHubs",
+      "title": "CEO 2026 results - EventHubs",
+      "description": null,
+      "url": "https://www.eventhubs.com/news/2026/aug/14/ceo-2026-results/",
+      "urlToImage": null,
+      "publishedAt": "2026-08-17T02:32:20Z",
+      "content": null
+    },
     {
       "source": {
         "id": null,
@@ -21,16 +34,42 @@
     },
     {
       "source": {
+        "id": null,
+        "name": "BGR"
+      },
+      "author": "Joel Loynds",
+      "title": "Who Owns Commodore? The Retro PC Brand Still Exists, But A Lot Has Changed - bgr.com",
+      "description": "Commodore is still in business, but it isn't quite the household name it once was, instead producing a flip phone and other \"fun\" tech.",
+      "url": "https://www.bgr.com/2233625/who-owns-commodore-retro-brand/",
+      "urlToImage": "https://www.bgr.com/img/gallery/who-owns-commodore-the-retro-pc-brand-still-exists-but-a-lot-has-changed/l-intro-1785940511.jpg",
+      "publishedAt": "2026-08-17T01:17:00Z",
+      "content": "Prior to the latest iteration, Retro Games, produced the C64 Mini and C64 Maxi, as well as A500 and A1200 Mini, based on Amiga systems. These were licensed out by Amiga Corporation (Cloanto). Cloanto… [+1183 chars]"
+    },
+    {
+      "source": {
         "id": "buzzfeed",
         "name": "Buzzfeed"
       },
       "author": "Andy Golder",
-      "title": "24 Memes From This Week That Are 100% Clean But Still Funny As Heck - BuzzFeed",
+      "title": "24 Clean Memes That Are Actually Hilarious - Yahoo News Singapore",
       "description": "Nothin' but clean memes here.",
-      "url": "https://www.buzzfeed.com/andyneuenschwander/memes-from-this-week-that-are-clean-but-still-funny",
-      "urlToImage": "https://img.buzzfeed.com/buzzfeed-static/static/2026-08/06/17/thumb/AA7pJNYfV.jpg?crop=2997:1569;0,216%26downsize=1250:*",
-      "publishedAt": "2026-08-17T01:16:02Z",
+      "url": "https://www.buzzfeed.com/andyneuenschwander/memes-from-this-week-that-are-clean-but-still-funny?origin=bf-yahoo",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/395a81069c25fa6e633deb4f94211e7572554c280ad783aa81707889fa48695b/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbuzzfeed_articles_778%2F6a19aea6da57b14a008d9122f57b1d89.jpg",
+      "publishedAt": "2026-08-17T01:16:00Z",
       "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Nintendoeverything.com"
+      },
+      "author": "Brian",
+      "title": "Nintendo Switch eShop latest sales: lowest prices ever for Front Mission remakes, New Super Lucky's Tale, more - Nintendo Everything",
+      "description": "A bunch of new sales are up and running on the North American Nintendo Switch eShop. These include the lowest prices ever for the Front Mission remakes, New Super Lucky’s Tale, and more. Here’s the full roundup: – A Memoir Blue – $2.79 (was $7.99) – AEW: Figh…",
+      "url": "https://nintendoeverything.com/nintendo-switch-eshop-latest-sales-lowest-prices-ever-for-front-mission-remakes-new-super-luckys-tale-more/",
+      "urlToImage": "https://nintendoeverything.com/wp-content/uploads/new-super-luckys-tale-3.jpg",
+      "publishedAt": "2026-08-17T00:09:01Z",
+      "content": "A bunch of new sales are up and running on the North American Nintendo Switch eShop. These include the lowest prices ever for the Front Mission remakes, New Super Lucky’s Tale, and more.\r\nHere’s the … [+4187 chars]"
     },
     {
       "source": {
@@ -57,6 +96,32 @@
       "urlToImage": "https://spacenews.com/wp-content/uploads/2026/08/f9-bluebird-aug26.jpeg",
       "publishedAt": "2026-08-16T23:05:35Z",
       "content": "WASHINGTON Amid a constrained launch market, satellite operators are increasingly emphasizing to investors and customers that they have lined up launch capacity, even if it is uncertain when those ve… [+4916 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "9to5linux.com"
+      },
+      "author": "Marcus Nestor",
+      "title": "Linux Kernel 7.2 Officially Released, This Is What’s New - 9to5Linux",
+      "description": "Linux kernel 7.2 is now available to download with new features, improvements, and enhanced hardware support through new and updated drivers.",
+      "url": "https://9to5linux.com/linux-kernel-7-2-officially-released-this-is-whats-new",
+      "urlToImage": "https://9to5linux.com/wp-content/uploads/2026/08/lk72.webp",
+      "publishedAt": "2026-08-16T23:02:32Z",
+      "content": "Linux kernel 7.2 is now available for download, as announced today by Linus Torvalds himself, featuring enhanced hardware support, filesystem and networking improvements, security enhancements, and m… [+3401 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BleepingComputer"
+      },
+      "author": "Mayank Parmar",
+      "title": "Anthropic confirms Claude is down in major outage affecting multiple services - BleepingComputer",
+      "description": "Claude is experiencing a major outage, with users reporting login problems and degraded performance across several Anthropic services.",
+      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-confirms-claude-is-down-in-major-outage-affecting-multiple-services/",
+      "urlToImage": "https://www.bleepstatic.com/content/hl-images/2026/05/07/Claude_AI.png",
+      "publishedAt": "2026-08-16T22:28:57Z",
+      "content": "Claude is experiencing a major outage, with users reporting login problems and degraded performance across several Anthropic services.\r\nThe incident began on August 16, 2026, at around 21:58 UTC, and… [+1543 chars]"
     },
     {
       "source": {
@@ -100,19 +165,6 @@
     {
       "source": {
         "id": null,
-        "name": "Netcarshow.com"
-      },
-      "author": null,
-      "title": "McLaren McL 6GT Concept (2026) - NetCarShow.com",
-      "description": "McL 6GT name is inspired by McLaren's presence on track, as well as the foundations of McLaren's automotive journey. McL 6GT creates a direct link between these two realms...",
-      "url": "https://www.netcarshow.com/mclaren/2026-mcl_6gt_concept/",
-      "urlToImage": "https://www.netcarshow.com/McLaren-McL_6GT_Concept-2026-1280-150417fc1280af96b2678b16b0fb0723f6.jpg",
-      "publishedAt": "2026-08-16T21:30:23Z",
-      "content": "McLaren Automotive revealed the McL 6GT at the 2026 Monterey Car Week. The first McLaren car of its kind, its design connects McLaren's heritage to the present, using the McLaren M6GT - Bruce McLaren… [+4975 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "BGR"
       },
       "author": "Michael Bizzaco",
@@ -148,6 +200,19 @@
       "urlToImage": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2026/08/readme-hero.png?w=1600&h=900&fit=crop",
       "publishedAt": "2026-08-16T20:00:15Z",
       "content": "Microsoft has a default phone companion app for Windows PCs. It's called Phone Link.\r\nUsing Phone Link, you can get your important phone notifications on your desktop, copy and paste text between dev… [+4419 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "GSMArena.com"
+      },
+      "author": "Ivan",
+      "title": "Pixel 11 series, Honor Robot Phone, Redmi 17 official, Week 33 in review - GSMArena.com news - GSMArena.com",
+      "description": "Sony says that Xperia 1 VIII sales are strong, praises microSD slot and 3.5mm jack as integral features. Tech news started picking up a bit, especially in...",
+      "url": "https://www.gsmarena.com/pixel_11_series_honor_robot_phone_redmi_17_official_week_33_in_review-news-74177.php",
+      "urlToImage": "https://fdn.gsmarena.com/imgroot/news/26/08/week-33-in-review/-952x498w6/gsmarena_000.jpg",
+      "publishedAt": "2026-08-16T19:31:02Z",
+      "content": "Tech news started picking up a bit, especially in the past week. Google unveiled its Pixel 11 series alongside the Pixel Watch 5.\r\nThe Pixel 11, 11 Pro, 11 Pro XL, and 11 Pro Fold all pack the new Te… [+5578 chars]"
     },
     {
       "source": {
@@ -230,19 +295,6 @@
     {
       "source": {
         "id": null,
-        "name": "Kotaku"
-      },
-      "author": "Zack Kotzer",
-      "title": "Now It Will Be Sonic Who Gets To Have A Gun In Latest Fortnite Update - Kotaku",
-      "description": "Mega Man, Crash Bandicoot, Spyro and Jazz Jackrabbit join Fortnite’s ever growing IP pit in ‘Gaming Legends’ trailer",
-      "url": "https://kotaku.com/now-it-will-be-sonic-who-gets-to-have-a-gun-in-latest-fortnite-update-2000724774",
-      "urlToImage": "https://kotaku.com/app/uploads/2026/08/sonicfortnite-1200x675.jpg",
-      "publishedAt": "2026-08-16T17:55:42Z",
-      "content": "Sonic. Goes fast. Does loop de loops. Grabs rings. You get the gist. When Fortnite began teasing their upcoming Gaming Legends season, the IP pit has hardly been subtle about the inclusion of Sega ch… [+1849 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "Chowhound"
       },
       "author": "Amber Sutherland-Namako",
@@ -282,6 +334,32 @@
     {
       "source": {
         "id": null,
+        "name": "TechSpot"
+      },
+      "author": "Skye Jacobs",
+      "title": "New study finds HGST, WD hard drives fail less often than Seagate and Toshiba - TechSpot",
+      "description": "The peer-reviewed IEEE study was written by Christoph Siemroth of the University of Essex and Yeomyung Park of Sungkyunkwan University. It reviewed data on 443,156 drives used...",
+      "url": "https://www.techspot.com/news/113499-new-study-finds-hgst-wd-hard-drives-fail.html",
+      "urlToImage": "https://www.techspot.com/images2/news/bigimage/2026/08/2026-08-15-image-13.jpg",
+      "publishedAt": "2026-08-16T17:17:00Z",
+      "content": "Bottom line: A study of Backblaze's hard-drive fleet found that HGST and Western Digital drives had lower failure rates than Seagate and Toshiba drives after accounting for factors such as age, capac… [+3917 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Newser"
+      },
+      "author": "John Johnson",
+      "title": "10 Best 'Good Neighbor' Cities - Newser",
+      "description": "Madison, Wisconsin, earns top honors",
+      "url": "https://www.newser.com/story/394563/10-best-good-neighbor-cities.html",
+      "urlToImage": "https://cdn.newser.com/image/1705192-12-20260816124303.jpeg",
+      "publishedAt": "2026-08-16T17:13:00Z",
+      "content": "Neighbors Bank finds that a top quality people want in a neighbor is somebody who \"respects boundaries and privacy.\" More than half of respondents (56%) ranked that ahead of \"quiet and considerate\" (… [+319 chars]"
+    },
+    {
+      "source": {
+        "id": null,
         "name": "TheStreet"
       },
       "author": "Faizan Farooque",
@@ -295,15 +373,41 @@
     {
       "source": {
         "id": null,
-        "name": "GSMArena.com"
+        "name": "Twistedvoxel.com"
       },
-      "author": "Peter",
-      "title": "Weekly poll: which Google Pixel 11 model would you buy? - GSMArena.com news - gsmarena.com",
-      "description": "This generation brings a new chipset, some changes to the cameras and batteries - as well as new prices across the board.",
-      "url": "https://www.gsmarena.com/weekly_poll_which_google_pixel_11_model_would_you_buy-news-74157.php",
-      "urlToImage": "https://fdn.gsmarena.com/imgroot/news/26/08/weekly-poll-google-pixel-11-series/-952x498w6/gsmarena_000.jpg",
-      "publishedAt": "2026-08-16T16:03:02Z",
-      "content": "Google announced the new Pixel 11, Pixel 11 Pro, 11 Pro XL and 11 Pro Fold this week the phones are already available for pre-order and will be available from August 20. Are you planning on getting o… [+7633 chars]"
+      "author": "Salal Awan",
+      "title": "LEGO Super Mario Minifigure Sets Reportedly Leaked For 2027 - TwistedVoxel",
+      "description": "Several LEGO Super Mario sets reportedly planned for January 2027 have leaked online, with the alleged lineup including eight sets featuring minifigures and prices ranging from $9.99 to $99.99. The…",
+      "url": "https://twistedvoxel.com/lego-super-mario-2027-sets/",
+      "urlToImage": "https://twistedvoxel.com/wp-content/uploads/2024/08/lego-mario-kart.jpg",
+      "publishedAt": "2026-08-16T16:58:34Z",
+      "content": "2Several LEGO Super Mario sets reportedly planned for January 2027 have leaked online, with the alleged lineup including eight sets featuring minifigures and prices ranging from $9.99 to $99.99.\r\nThe… [+1409 chars]"
+    },
+    {
+      "source": {
+        "id": "polygon",
+        "name": "Polygon"
+      },
+      "author": "Tomas Franzese",
+      "title": "'Persona 5' And More Iconic Games Will Dominate The Next Season Of Fortnite - polygon.com",
+      "description": "Fortnite Chapter 7 Season 4: Override begins on August 20 and is full of gaming crossovers with Sonic, Persona 5, Crash Bandicoot, Spyro, and more",
+      "url": "https://www.polygon.com/fortnite-override-season-trailer/",
+      "urlToImage": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/fortnite-persona-5-sonic.jpg?w=1600&h=900&fit=crop",
+      "publishedAt": "2026-08-16T16:35:50Z",
+      "content": "The first trailer for Fortnite Chapter 7 Season 4: Override was released and confirmed that it's the massive gaming crossover bonanza that leak suggested it would be.\r\nMixing cinematics and gameplay,… [+2030 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Android Police"
+      },
+      "author": "Parth Shah",
+      "title": "I used Gemini and Grok side-by-side for a month on Android; one clearly dominated - Android Police",
+      "description": "One assistant felt built for Android",
+      "url": "https://www.androidpolice.com/used-gemini-and-grok-side-by-side-for-month-on-android-one-clearly-dominated/",
+      "urlToImage": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2026/08/robotic-hands-holding-gemini-and-grok-icons.png?w=1600&h=900&fit=crop",
+      "publishedAt": "2026-08-16T16:15:16Z",
+      "content": "For the past month, I have been using Gemini 3.6 Flash and Grok 4.5 side by side on Android and focused entirely on the kind of day-to-day tasks that matter to mobile users.\r\nI deliberately stayed aw… [+5116 chars]"
     },
     {
       "source": {
@@ -317,6 +421,19 @@
       "urlToImage": "https://i.pcmag.com/imagery/articles/06NjWfMMLOq3qWdglw6lzGL-1.fit_lim.size_1200x630.v1785870677.jpg",
       "publishedAt": "2026-08-16T16:00:36Z",
       "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Slashdot.org"
+      },
+      "author": null,
+      "title": "Researchers Use Ordinary WiFi Connections to Create Images of Nearby People and Their Surroundings - Slashdot",
+      "description": "Science Daily reports:\n\nResearchers showed that unencrypted signals routinely exchanged between WiFi devices and routers can be used to create radio-based images of people and recognize them within seconds. In tests involving 197 participants, the system iden…",
+      "url": "https://mobile.slashdot.org/story/26/08/16/057254/researchers-use-ordinary-wifi-connections-to-create-images-of-nearby-people-and-their-surroundings",
+      "urlToImage": "https://a.fsdn.com/sd/topics/wireless_64.png",
+      "publishedAt": "2026-08-16T15:22:15Z",
+      "content": "Researchers showed that unencrypted signals routinely exchanged between WiFi devices and routers can be used to create radio-based images of people and recognize them within seconds. In tests involvi… [+1510 chars]"
     },
     {
       "source": {
@@ -346,6 +463,19 @@
     },
     {
       "source": {
+        "id": null,
+        "name": "Pure Xbox"
+      },
+      "author": "Pure Xbox",
+      "title": "Random: Xbox Trading Cards Shown Off In Official Video, And People Want To Buy Them - Pure Xbox",
+      "description": "Don't get your hopes up though",
+      "url": "https://www.purexbox.com/news/2026/08/random-xbox-trading-cards-shown-off-in-official-video-and-people-want-to-buy-them",
+      "urlToImage": "https://images.purexbox.com/e39c30ee69076/large.jpg",
+      "publishedAt": "2026-08-16T15:00:00Z",
+      "content": "There's obviously a massive craze going on with trading cards these days, but we've never seen Xbox trying to get in on it - although a new video has certainly got the attention of certain Xbox fans.… [+1299 chars]"
+    },
+    {
+      "source": {
         "id": "the-verge",
         "name": "The Verge"
       },
@@ -356,32 +486,6 @@
       "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK155_OPEN_AI_4_CVirginia_C.png?quality=90&strip=all&crop=0%2C10.742221417566%2C100%2C78.515557164868&w=1200",
       "publishedAt": "2026-08-16T14:56:40Z",
       "content": "<ul><li></li><li></li><li></li></ul>\r\nIts like Windows Recall, but without all the creepy screenshots. (But its still kind of creepy.)\r\nIts like Windows Recall, but without all the creepy screenshots… [+2070 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Wccftech"
-      },
-      "author": "Sarfraz Khan",
-      "title": "Intel Reportedly Splits Its Handheld Strategy As A Tiny 4-Xe3 Panther Lake Chip Targets The Budget Buyers Arc G3 Ignored - Wccftech",
-      "description": "Intel is preparing a Panther Lake 4+0+4+4 SoC for entry-level gaming handhelds, potentially lowering prices below $800.",
-      "url": "https://wccftech.com/intel-reportedly-splits-its-handheld-strategy-as-a-tiny-4-xe3-panther-lake-chip-targets-the-budget-buyers-arc-g3-ignored/",
-      "urlToImage": "https://cdn.wccftech.com/wp-content/uploads/2026/04/Intel-Arc-G3-Extreme-Gaming-Handheld-SoC-_F-1920x1061.jpg",
-      "publishedAt": "2026-08-16T14:20:42Z",
-      "content": "Intel might not be done with the current Arc G3 series for the gaming handhelds, and might come up with more SKUs for entry-level devices. \r\nThe Arc G3 series is Intel's most powerful SoC lineup for … [+1759 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Android Police"
-      },
-      "author": "Dhruv Bhutani",
-      "title": "Gemini on my Kindle solved the one problem tablets couldn't fix - Android Police",
-      "description": "I hacked my Kindle to understand what I'm reading, and now I can't go back",
-      "url": "https://www.androidpolice.com/gemini-on-my-kindle-solved-the-one-problem-tablets-couldnt-fix/",
-      "urlToImage": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2026/08/kindle-running-gemini-through-koreader-with-ai-generated-reading-assistance.png?w=1600&h=900&fit=crop",
-      "publishedAt": "2026-08-16T14:15:16Z",
-      "content": "My Kindle is hands-down the favorite piece of tech I own. I make it a point to read every night, and the Kindle facilitates that.\r\nBut unlike a tablet, it doesn't really offer me a way to dive deeper… [+4729 chars]"
     },
     {
       "source": {
@@ -412,15 +516,15 @@
     {
       "source": {
         "id": null,
-        "name": "Thespruce.com"
+        "name": "WindowsLatest"
       },
-      "author": "https://www.facebook.com/thespruceofficial/",
-      "title": "Experts Say This Popular Trick for Getting Rid of Bed Bugs Is Actually a Total Waste of Time and Money - The Spruce",
-      "description": "Experts say that baking soda does not kill bed bugs and share other more effective solutions for eliminating the pest infestation.",
-      "url": "https://www.thespruce.com/does-baking-soda-kill-bed-bugs-12030479",
-      "urlToImage": "https://www.thespruce.com/thmb/m090Q1G6fADMjmiDdWryOguwW_o=/5212x0/filters:no_upscale():max_bytes(150000):strip_icc()/remove-urine-odors-from-mattresses-step1-8bc3202f9abc44748327a6ba5b5afb3a.jpg",
-      "publishedAt": "2026-08-16T13:26:00Z",
-      "content": "A bed bug infestation is a huge nuisance and getting rid of them properly is essential in order to make sure they are completely eliminated. Baking soda is commonly regarded as a DIY remedy for bed b… [+2752 chars]"
+      "author": "Abhijith M B",
+      "title": "Ubuntu is growing faster on Windows 11 than on native Linux PCs, says Canonical - Windows Latest",
+      "description": "Ubuntu's VP of Engineering says WSL usage on Windows 11 is growing faster than native Ubuntu installs, and could overtake them within months.",
+      "url": "https://www.windowslatest.com/2026/08/16/ubuntu-is-growing-faster-on-windows-11-than-on-native-linux-pcs-says-canonical/",
+      "urlToImage": "https://www.windowslatest.com/wp-content/uploads/2026/08/Developers-handed-Windows-laptops-by-employers-are-increasingly-running-Ubuntu-through-WSL-for-AI-and-machine-learning-work.jpg",
+      "publishedAt": "2026-08-16T13:10:12Z",
+      "content": "Canonical’s VP of Engineering says Ubuntu’s user base inside Windows Subsystem for Linux is growing significantly faster than its native desktop user base, and he expects WSL to overtake native Ubunt… [+7733 chars]"
     },
     {
       "source": {
@@ -541,6 +645,19 @@
     },
     {
       "source": {
+        "id": null,
+        "name": "Cord Cutters News, LLC"
+      },
+      "author": "Luke Bouma",
+      "title": "Pluto TV’s New App is Rolling Out Now As Paramount Overhauls Its Pluto TV & Paramount+ Apps - | Cord Cutters News",
+      "description": "Pluto TV is in the process of deploying a significant technical and design update that places its free ad-supported streaming service on the same underlying application foundation as Paramount+. The change, long planned as part of Paramount Skydance’s broader…",
+      "url": "https://cordcuttersnews.com/pluto-tvs-new-app-is-rolling-out-now-as-paramount-overhauls-its-pluto-tv-paramount-apps/",
+      "urlToImage": "https://cordcuttersnews.com/wp-content/uploads/2024/02/Untitled-design-2024-02-05T095738.972.jpg",
+      "publishedAt": "2026-08-16T11:57:38Z",
+      "content": "Pluto TV is in the process of deploying a significant technical and design update that places its free ad-supported streaming service on the same underlying application foundation as Paramount+. The … [+5605 chars]"
+    },
+    {
+      "source": {
         "id": "wired",
         "name": "Wired"
       },
@@ -551,32 +668,6 @@
       "urlToImage": "https://media.wired.com/photos/6a7faa218588d7c31b9a75f5/191:100/w_1280,c_limit/Someone-Fixed-App-Install-Mac-Gear.jpg",
       "publishedAt": "2026-08-16T10:30:00Z",
       "content": "One of the oddest things about macOS is the installation dance. Dealing with disk images, dragging and droppingit's the main way of installing software from outside the Mac App Store, and it's annoyi… [+1366 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "SlashGear"
-      },
-      "author": "Marc Magrini",
-      "title": "3 Of The Best Pre-Built PCs That Are Cheaper Than Building One Yourself In 2026 - slashgear.com",
-      "description": "With all the craze surrounding building your own PC, some pre-built PCs have actually become a value -- and will save you assembly time in 2026.",
-      "url": "https://www.slashgear.com/2236783/best-pre-built-pc-options-cheaper-than-diy-builds-2026/",
-      "urlToImage": "https://www.slashgear.com/img/gallery/3-of-the-best-pre-built-pcs-that-are-cheaper-than-building-one-yourself-in-2026/l-intro-1786667089.jpg",
-      "publishedAt": "2026-08-16T10:30:00Z",
-      "content": "The KOTIN Prebuilt, available from Amazon, is seemingly a stellar choice. It undercuts a custom build by over $150 while boasting more cooling fans and a much fancier case. 16GB DDR5 RAM isn't amazin… [+1262 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "BGR"
-      },
-      "author": "Briley Kenney",
-      "title": "You Can Use Your Old Android Phone As A Universal Remote - Here's How - bgr.com",
-      "description": "Looking for a way to control your devices without buying an expensive new remote control? You may be able to use an old Android phone instead.",
-      "url": "https://www.bgr.com/2233833/how-to-use-old-android-phone-universal-remote-guide/",
-      "urlToImage": "https://www.bgr.com/img/gallery/you-can-use-your-old-android-phone-as-a-universal-remote-heres-how/l-intro-1786384628.jpg",
-      "publishedAt": "2026-08-16T10:17:00Z",
-      "content": "We may receive a commission on purchases made from links.\r\nMisplacing your TV remote or losing it between the couch cushions doesn't have to be as frustrating as it seems. Sure, it's always a great i… [+1301 chars]"
     },
     {
       "source": {
@@ -594,32 +685,6 @@
     {
       "source": {
         "id": null,
-        "name": "Android Police"
-      },
-      "author": "Ben Khalesi",
-      "title": "I traded my hyper-organized Obsidian databases for an app that honors the messiness of thought - Android Police",
-      "description": "My vault was asking for paperwork",
-      "url": "https://www.androidpolice.com/my-obsidian-vault-was-too-organized/",
-      "urlToImage": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2026/08/milanote-board-with-notes-images-links-and-scattered-sticky-notes.png?w=1600&h=900&fit=crop",
-      "publishedAt": "2026-08-16T10:01:15Z",
-      "content": "A well-tuned Obsidian vault is a beautiful thing. The app is local-first and durable, and it bends to whatever shape you want.\r\nAdd the right community plugins and a metadata scheme you stick to, and… [+4316 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "BGR"
-      },
-      "author": "Suzanne Bonnett",
-      "title": "Who Owns Ultimate Ears Speakers? - bgr.com",
-      "description": "Founded in 1995 by an audio engineer for Van Halen, Ultimate Ears is now owned by Logitech, the Swiss tech giant that owns many other top technology brands.",
-      "url": "https://www.bgr.com/2226911/who-owns-ultimate-ears-speakers-explained/",
-      "urlToImage": "https://www.bgr.com/img/gallery/who-owns-ultimate-ears-speakers/l-intro-1785417335.jpg",
-      "publishedAt": "2026-08-16T09:47:00Z",
-      "content": "We may receive a commission on purchases made from links.\r\nWalk onto a college campus, visit a crowded beach, or peek into a professional musician's heavy touring-gear bag, and you'll probably spot a… [+1403 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "Wccftech"
       },
       "author": "Alessio Palumbo",
@@ -633,15 +698,41 @@
     {
       "source": {
         "id": null,
-        "name": "Tom's Guide"
+        "name": "Neowin"
       },
-      "author": "Amanda Caswell",
-      "title": "This new AI assistant makes AI easier for people 65+ — no app or prompts required - Tom's Guide",
-      "description": "With just a text, seniors can discover AI",
-      "url": "https://www.tomsguide.com/ai/this-new-ai-assistant-makes-ai-easier-for-people-65-no-app-or-prompts-required",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/EBs89PV2SW3XVSM23CwAML-1920-80.jpg",
-      "publishedAt": "2026-08-16T08:00:00Z",
-      "content": null
+      "author": "Usama Jawad",
+      "title": "Microsoft is removing a legacy Windows feature that has been around for 25 years - Neowin",
+      "description": "WMIC is finally disappearing from Windows 11, and users who still depend on the aging utility may need to switch to an alternative.",
+      "url": "https://www.neowin.net/news/microsoft-is-removing-a-legacy-windows-feature-that-has-been-around-for-25-years/",
+      "urlToImage": "https://cdn.neowin.com/news/images/uploaded/2024/01/1706314378_wmic_story.jpg",
+      "publishedAt": "2026-08-16T08:22:00Z",
+      "content": "Windows Management Instrumentation Command-line (WMIC) is a utility that was bundled with Windows XP back in 2001, enabling IT admins to interact with Windows Management Instrumentation (WMI) to mana… [+1798 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Fortnite Tracker"
+      },
+      "author": null,
+      "title": "Solo Reload Victory Cup in NA West: Day 3 Day 3 Round 1 - Fortnite Tracker",
+      "description": "Battle your way to Gold, Diamond and Champion in Reload Ranked to be eligible for the first,second and final respectively Event of the Season! Compete for the opportunity to win a cash prize! Reach Round 2 (top 1600 in EU; top 800 in NAC; top 320 in OCE, ASIA…",
+      "url": "https://fortnitetracker.com/events/epicgames_S41_ReloadReloadSoloVictoryCup_NAW?window\\\\u003dS41_ReloadSoloVictoryCup_Round1_Day3_NAW\\\\u0026page\\\\u003d1",
+      "urlToImage": "https://trackercdn.com/unreal/en-fnce-38-00-competitive-discoverytile-victorycashcup-1980x1020-1920x1080-286ddbb64684.jpg",
+      "publishedAt": "2026-08-15T23:43:38Z",
+      "content": "Event InfoBattle your way to Gold, Diamond and Champion in Reload Ranked to be eligible for the first,second and final respectively Event of the Season! Compete for the opportunity to win a cash priz… [+174 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "MLB.com"
+      },
+      "author": null,
+      "title": "St. Louis Cardinals at Chicago Cubs Preview - 08/16/2026 - MLB.com",
+      "description": "",
+      "url": "https://www.mlb.com/stories/game-preview/824642",
+      "urlToImage": "https://img.mlbstatic.com/mlb-images/image/upload/ar_40:21,g_auto,q_auto:good,w_1200,c_fill,f_jpg/mlb/ceopnnd6ud4vwf2xruoh",
+      "publishedAt": "2026-08-15T20:30:31Z",
+      "content": "This browser does not support the video element."
     },
     {
       "source": {
@@ -672,67 +763,15 @@
     {
       "source": {
         "id": null,
-        "name": "Yahoo Entertainment"
+        "name": "GameRant"
       },
-      "author": "Pras Subramanian",
-      "title": "Lamborghini's pricey Revuelto SV supercar debuts at Monterey with scarcity as its strategy, CEO says - AOL.com",
-      "description": "Lamborghini brought its most extreme car to the lawn at the Quail, A Motorsports Gathering -  the Revuelto SV, a 1,050-horsepower naturally aspirated hybrid V12 that the company calls the most powerful and fastest production car in its history.",
-      "url": "https://finance.yahoo.com/markets/stocks/article/lamborghinis-pricey-revuelto-sv-supercar-debuts-at-monterey-with-scarcity-as-its-strategy-ceo-says-174822285.html",
-      "urlToImage": "https://hermes.media.static.aol.com/media/2026/08/15/8e786bca-bfd0-3e1c-9f94-d7b84e7eb19f/94da2a39-1dc3-470c-805b-f1a1628b0954.jpg",
-      "publishedAt": "2026-08-15T18:07:59Z",
-      "content": "Lamborghini (VWAGY) brought its most extreme car to the lawn at The Quail by The Peninsula, A Motorsports Gathering the Revuelto SV, featuring a 1,050-horsepower naturally aspirated hybrid V12 that t… [+3947 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Kotaku"
-      },
-      "author": "Zack Kotzer",
-      "title": "Former Square Enix Exec Says Disc-Free Games Will Lower Prices - Kotaku",
-      "description": "Jacob Navok says that a world without physical media will put major publishers in constant competition with each other, though how that would drive costs down is just a theory",
-      "url": "https://kotaku.com/former-square-enix-exec-believes-disc-free-playstation-will-drive-game-prices-down-2000724716",
-      "urlToImage": "https://kotaku.com/app/uploads/2026/08/trustcaitsith.jpg",
-      "publishedAt": "2026-08-15T17:00:20Z",
-      "content": "As Sony soldiers ahead with their plans to end hard copies for new PlayStation games, players are fearing a future which will force them to pay more and own less. Reactions from major publishers seem… [+2596 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Phys.Org"
-      },
-      "author": null,
-      "title": "Early-universe plasma may have stopped dark photons from heating cosmos - Phys.org",
-      "description": "A new paper published in Physical Review Letters reveals that a leading dark matter candidate—the hypothetical \"dark photon\"—would not have heated the early universe as previously thought. The finding opens a vast region for experimental searches and could ch…",
-      "url": "https://phys.org/news/2026-08-early-universe-plasma-dark-photons.html",
-      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2025/early-universe.jpg",
-      "publishedAt": "2026-08-15T16:40:01Z",
-      "content": "A new paper published in Physical Review Letters reveals that a leading dark matter candidatethe hypothetical \"dark photon\"would not have heated the early universe as previously thought. The finding … [+4487 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Lorenzo Franceschi-Bicchierai",
-      "title": "How to tell if your AI platforms’ accounts have been hacked - TechCrunch",
-      "description": "A guide on how to check if hackers have broken into your accounts on the most popular AI platforms.",
-      "url": "https://techcrunch.com/2026/08/15/how-to-tell-if-your-ai-platforms-accounts-have-been-hacked/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/08/broken-lock.jpg?resize=1200,823",
-      "publishedAt": "2026-08-15T16:10:00Z",
-      "content": "Just like any other online service, hackers can target and break into your accounts on popular AI platforms such as ChatGPT, Claude, and Perplexity. \r\nTechCrunch has created a comprehensive guide to … [+3162 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "9to5Mac"
-      },
-      "author": "Michael Burkhardt",
-      "title": "Apple has a huge product roadmap for the smart home: Here’s what’s coming - 9to5Mac",
-      "description": "Apple’s home products (primarily HomePod mini and Apple TV) have been the talk of the town for the past couple...",
-      "url": "https://9to5mac.com/2026/08/15/apple-home-product-roadmap-tv-homepod-smart-display/",
-      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/06/ai-siri-homepod.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "publishedAt": "2026-08-15T16:08:00Z",
-      "content": "Apples home products (primarily HomePod mini and Apple TV) have been the talk of the town for the past couple of years. The reasoning is quite simple: the current iterations are 4-6 years old. \r\nSiri… [+3160 chars]"
+      "author": "Dalton Cooper",
+      "title": "August 18 is Going to Be a Super Busy Day for PS Plus Subscribers - GameRant",
+      "description": "PlayStation Plus subscribers should keep an eye on August 18, which is set to be a particularly busy day for the service.",
+      "url": "https://gamerant.com/ps-plus-extra-premium-games-august-2026-list/",
+      "urlToImage": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/08/ps-plus-extra-premium-games-august-2026.jpg?w=1600&h=900&fit=crop",
+      "publishedAt": "2026-08-15T19:30:13Z",
+      "content": "PlayStation Plus subscribers have a busy day to look forward to, as the service's next big update is coming on Tuesday, August 18. Sony recently changed the way it distributes PlayStation Plus games,… [+3194 chars]"
     },
     {
       "source": {
@@ -749,68 +788,29 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "9to5google.com"
+        "id": "polygon",
+        "name": "Polygon"
       },
-      "author": "Ben Schoon",
-      "title": "Pixel 11 ads show a mysterious screen-equipped tracker that's not Pixel Watch 5 or Fitbit Air [Gallery] - 9to5Google",
-      "description": "Google might have another fitness tracker in the works, as a pair of new ads online show off a mysterious...",
-      "url": "http://9to5google.com/2026/08/15/google-pixel-11-ad-unknown-fitbit-tracker/",
-      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/08/pixel-11-ads-unknown-tracker.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "publishedAt": "2026-08-15T13:30:00Z",
-      "content": "Google might have another fitness tracker in the works, as a pair of new ads online show off a mysterious little pebble that’s neither a Fitbit Air nor a Pixel Watch 5 but is it anything at all?\r\nSom… [+2024 chars]"
+      "author": "Oli Welsh",
+      "title": "Nintendo's GameCube tantrum doomed the console but saved the company - polygon.com",
+      "description": "In the 2000s, Nintendo kicked and screamed against PlayStation and its own fans",
+      "url": "https://www.polygon.com/switchboard-mario-sunshine-gamecube-nintendo/",
+      "urlToImage": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/24759109/51601827.jpg?w=1200&h=675&fit=crop",
+      "publishedAt": "2026-08-15T12:00:12Z",
+      "content": "Patch Notes is a weekly newsletter bringing you the best of Polygon, sent on Fridays and published on the site on Sundays. You can subscribe here.\r\nNintendo has just added one of its most divisive ga… [+5458 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Gamingbible.com"
+        "name": "Thenewsmarket.com"
       },
-      "author": "Jack Marsh",
-      "title": "Bethesda leaves Fallout 4 community outraged by new update, Skyrim soon to follow - GAMINGbible",
-      "description": "The modders are madders",
-      "url": "https://www.gamingbible.com/news/fallout-4-update-outage-skyrim-bethesda-467647-20260815",
-      "urlToImage": "https://resizer.ladbiblegroup.com/ogimage/v3/assets/bltbc1876152fcd9f07/blt37ebc150d33fe71e/6a8048140d16fd592a982d3b/Fallout_4_Update.jpg",
-      "publishedAt": "2026-08-15T13:00:02Z",
+      "author": "TheNewsMarket",
+      "title": "Automobili Lamborghini Holds World Debut of Revuelto SV at The Quail, A Motorsports Gathering - TheNewsMarket",
+      "description": null,
+      "url": "https://www.thenewsmarket.com/news/automobili-lamborghini-holds-world-debut-of-revuelto-sv-at-the-quail--a-motorsports-gathering/s/5809c52a-8e3b-46f9-8a18-0101f5523659",
+      "urlToImage": null,
+      "publishedAt": "2026-08-15T11:19:12Z",
       "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Interesting Engineering"
-      },
-      "author": "Aman Tripathi",
-      "title": "Copper endures 2,595°F in US nuclear fusion reactor material test, defies earlier models - Interesting Engineering",
-      "description": "SLAC researchers discover copper melts gradually past its superheating limit rather than collapsing instantly.",
-      "url": "https://interestingengineering.com/energy/copper-endures-high-temperature",
-      "urlToImage": "https://cms.interestingengineering.com/wp-content/uploads/2026/08/MEV-UV.jpg",
-      "publishedAt": "2026-08-15T12:16:00Z",
-      "content": "Scientists have discovered that copper melts gradually rather than collapsing all at once under extreme heat. The finding challenges earlier computer models that predict how nuclear fusion reactor ma… [+3806 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Pure Xbox"
-      },
-      "author": "Pure Xbox",
-      "title": "These 30+ Games Are Coming To Xbox Next Week (August 17-21) - purexbox.com",
-      "description": "Including two big single-player releases!",
-      "url": "https://www.purexbox.com/features/these-30plus-games-are-coming-to-xbox-next-week-august-17-21",
-      "urlToImage": "https://images.purexbox.com/46d78e2d3193e/large.jpg",
-      "publishedAt": "2026-08-15T12:02:56Z",
-      "content": "Welcome to your Xbox games roundup for August 17-21! We've got two particularly big single-player releases over the next few days in The Sinking City 2 and Mortal Shell 2, while other highlights incl… [+7969 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Digitalfoundry.net"
-      },
-      "author": "Digital Foundry",
-      "title": "Review: Switch 2 Oblivion Remastered Frustrates as Much as It Impresses - Digital Foundry",
-      "description": "Adeptly adapted visuals but performance remains as frustrating as ever.",
-      "url": "https://www.digitalfoundry.net/reviews/switch-2-oblivion-remastered-frustrates-as-much-as-it-impresses",
-      "urlToImage": "https://images.digitalfoundry.net/7157606542b38/large.jpg",
-      "publishedAt": "2026-08-14T15:44:09Z",
-      "content": "It's better than the poor Nintendo Direct debut with some impressively tuned visuals, but performance once again impacts the Oblivion Remastered experience.\r\nA year since its shadow drop on PC, PlayS… [+4973 chars]"
     }
   ]
 }

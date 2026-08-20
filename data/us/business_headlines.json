@@ -3,21 +3,86 @@
   "country": "us",
   "category": "business",
   "mode": "country",
-  "fetched_at": "2026-08-20T16:17:20.333957+00:00",
+  "fetched_at": "2026-08-20T18:17:23.173752+00:00",
   "articles_count": 44,
   "articles": [
     {
       "source": {
-        "id": null,
-        "name": "CNBC"
+        "id": "nbc-news",
+        "name": "NBC News"
       },
-      "author": "Sean Conlon, Justina Lee, Sarah Min",
-      "title": "Stock futures jump as Treasury action relieves bond market pressure: Live updates - CNBC",
-      "description": "U.S. stocks jumped on Wednesday as Treasury yields fell after the Treasury Department announced an increased buyback operation for longer-term debt.",
-      "url": "https://www.cnbc.com/2026/08/18/stock-market-today-live-updates.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108344537-1785853710278-Traders-Photo-20260803-KK-PRESS-013.jpg?v=1785853829&w=1920&h=1080",
-      "publishedAt": "2026-08-19T13:11:41Z",
-      "content": "The Dow Jones Industrial Average rose on Wednesday as bond yields fell following the Treasury Department's announcement of an increased buyback operation for longer-term debt.\r\nThe 30-stock Dow added… [+2283 chars]"
+      "author": "Rob Wile, Aria Bendix",
+      "title": "Merck and Moderna say cancer vaccine shows promise in preventing recurrence of melanoma - NBC News",
+      "description": "Pharmaceutical giants Moderna and Merck said that an experimental vaccine treatment has shown signs of preventing skin cancer from returning or spreading in a study of melanoma patients.",
+      "url": "https://www.nbcnews.com/health/health-news/merck-moderna-say-melanoma-vaccine-promise-prevent-recurrence-cancer-rcna593316",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-08/260819-moderna-cancer-vaccine-mn-0845-2c4c43.jpg",
+      "publishedAt": "2026-08-19T16:10:33Z",
+      "content": "Pharmaceutical giants Moderna and Merck said Wednesday that an experimental vaccine treatment has shown signs of preventing cancer from returning or spreading in a study of high-risk melanoma patient… [+3398 chars]"
+    },
+    {
+      "source": {
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
+      },
+      "author": "WSJ",
+      "title": "Stock Market Today: Dow Opens Higher, Bond Yields Dive After Treasury Steps Up Buybacks — Live Updates - WSJ",
+      "description": null,
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-19-2026",
+      "urlToImage": null,
+      "publishedAt": "2026-08-19T15:42:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "US retail giant receives $1bn boost from tariff refunds - BBC",
+      "description": "The US chain said it received a $994 million pre-tax reimbursement, which resulted in its second quarter operating income rising to $2.6bn.",
+      "url": "https://www.bbc.com/news/articles/c78gp4y8d3eo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/43a3/live/9236eb70-9bd8-11f1-bb4d-1147ef2e78e5.jpg",
+      "publishedAt": "2026-08-19T14:47:02Z",
+      "content": "Trump has threatened to impose 50% levy on nearly $20bn (C$28bn) worth of imports from Canada. The two sides have been at an impasse on several issues, including US tariffs on autos, and many Canadia… [+41 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Investor's Business Daily"
+      },
+      "author": null,
+      "title": "Clarity Act Vote Set, SEC Proposes Crypto Rules Ahead Of White House Summit - Investor's Business Daily",
+      "description": "The Senate sets date for Clarity Act vote. SEC proposes new rules for crypto offerings. White House, Trump to host crypto summit.",
+      "url": "https://www.investors.com/news/clarity-act-sec-regulation-crypto-white-house-summit-trump-cftc-bitcoin/",
+      "urlToImage": "https://www.investors.com/wp-content/uploads/2024/11/Stock-WhiteHouseStockmarket-genAI-02-adobe.jpg",
+      "publishedAt": "2026-08-19T13:23:00Z",
+      "content": "Information in Investors Business Daily is for informational and educational purposes only and should not be construed as an offer, recommendation, solicitation, or rating to buy or sell securities. … [+1064 chars]"
+    },
+    {
+      "source": {
+        "id": "associated-press",
+        "name": "Associated Press"
+      },
+      "author": null,
+      "title": "China successfully recovers rocket stage on land for the first time - apnews.com",
+      "description": "China has successfully recaptured the first stage of a rocket on land for the first time, state media reports, as the country seeks to advance its space program. Although this marks China’s first successful recovery on land, it is the second time the country …",
+      "url": "https://apnews.com/article/china-space-rocket-reuse-land-7280ab07f29771e2034a917ff679e1a6",
+      "urlToImage": "https://dims.apnews.com/dims4/default/a60ffcc/2147483647/strip/true/crop/5000x3332+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F85%2F16%2F259d75085d7bddb29aac8789283e%2F56a15d854a794125991c18be1fd89079",
+      "publishedAt": "2026-08-19T13:04:00Z",
+      "content": "BEIJING (AP) China has successfully recaptured the first stage of a rocket on land for the first time, state media reported Wednesday, as the country seeks to advance its space program.\r\nAlthough thi… [+1231 chars]"
+    },
+    {
+      "source": {
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "author": "Dana Wollman",
+      "title": "Marvell Gives Client Google Right to Buy $12.2 Billion in Shares - Bloomberg.com",
+      "description": "Marvell Technology Inc. has agreed to give Alphabet Inc.’s Google rights to buy as much as $12.2 billion of its shares in exchange for purchasing chips.",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-19/marvell-gives-google-right-to-buy-up-to-12-2-billion-in-shares",
+      "urlToImage": "https://assets.bwbx.io/s3/lightsaber/_next/static/media/social-default.d7363fa9.png",
+      "publishedAt": "2026-08-19T12:52:12Z",
+      "content": "Marvell Technology Inc. has agreed to give Alphabet Inc.s Google rights to buy as much as $12.2 billion of its shares in exchange for purchasing chips. \r\nGoogle will have to right to buy almost 59 mi… [+332 chars]"
     },
     {
       "source": {
@@ -31,32 +96,6 @@
       "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/K6HJVZRLEIVDN4YTC523FRT4DA_size-normalized.jpg&w=1440",
       "publishedAt": "2026-08-19T12:35:21Z",
       "content": "The cost for the U.S. government to borrow money hit its highest level since 2007 on Tuesday, the latest in a worrisome series of developments that have rattled global markets and American consumers … [+5 chars]"
-    },
-    {
-      "source": {
-        "id": "usa-today",
-        "name": "USA Today"
-      },
-      "author": "Jason St. Angelo",
-      "title": "Buc-ee's is expanding, and so are the legal fights - USA Today",
-      "description": "A growing national footprint has made Buc-ee's beaver mascot more valuable and more aggressively defended in court.",
-      "url": "https://www.usatoday.com/story/money/2026/08/19/bucees-expansion-trademark-lawsuits-legal-fights/91215536007/",
-      "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/08/12/USAT/91275671007-20240312-t-234457-z-994162549-mt-1-usatoday-22759259-rtrmadp-3-thebuceescharacterisshownonshotglassesinsidethe.JPG?crop=2399,1350,x0,y0&width=2399&height=1350&format=pjpg&auto=webp",
-      "publishedAt": "2026-08-19T11:01:00Z",
-      "content": "Buc-ees is growing fast, putting its smiling beaver mascot in front of customers well beyond Texas.\r\nThat growth has also brought a series of legal fights over logos, mascots and names that Buc-ees s… [+5918 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Minneapolis Star Tribune"
-      },
-      "author": "Carson Hartzog",
-      "title": "Target doubles profit, boosted by $1 billion tariff refund - Star Tribune",
-      "description": "The Minneapolis-based retailer reported growth for the second consecutive quarter on Wednesday.",
-      "url": "https://www.startribune.com/target-tariffs-refund-trump-earnings-profit-eps-sales/601880010",
-      "urlToImage": "https://arc.stimg.co/startribunemedia/6NFD7AQHABHBLJ6PJ7523XI3DI.JPG?&w=1200&ar=1.91:1&fit=crop",
-      "publishedAt": "2026-08-19T10:30:55Z",
-      "content": "Target Corp. is among the first major Minnesota companies to report a tariff refund and at nearly $1 billion, it helped double the companys quarterly profit.\r\nThe Minneapolis-based retailer reported … [+1198 chars]"
     },
     {
       "source": {
@@ -100,19 +139,6 @@
     {
       "source": {
         "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Daniel Howley",
-      "title": "Meta social media addiction trial kicks off with major implications for company’s future - Yahoo Finance",
-      "description": "Meta is in court again, as it faces another social media addiction suit.",
-      "url": "https://finance.yahoo.com/technology/article/meta-social-media-addiction-trial-kicks-off-with-major-implications-for-companys-future-215458217.html",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/A04A40F2F59CEC05427474CD11E9A27D291370DF54C9FA0C16B38FAD69DDA7F9/subgraphmysterio/resizefill_w1200_h798;quality_80;format_webp/https:%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-07%2F1888944e-e585-4acc-bd46-6c13922844a1",
-      "publishedAt": "2026-08-19T09:48:24Z",
-      "content": "Attorneys representing four states argued that Meta (META) developed its products to hook young users on its platforms and harvested the data of children under 13 to its benefit in the latest social … [+4348 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "CNBC"
       },
       "author": "Hugh Leask",
@@ -138,6 +164,45 @@
     },
     {
       "source": {
+        "id": "usa-today",
+        "name": "USA Today"
+      },
+      "author": "Daniel de Visé",
+      "title": "The Magnificent 7 are struggling. Don't let them sink your 401(k) - USA Today",
+      "description": "The Magnificent Seven once powered Wall Street. Lately, though, analysts fear their collective story will end like the old Yul Brynner film.",
+      "url": "https://www.usatoday.com/story/money/personal-finance/2026/08/19/magnificent-seven-stocks-401k-wall-street/91354381007/",
+      "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/08/18/USAT/91357872007-nvidia-4.JPG?crop=3999,2250,x0,y208&width=3200&height=1801&format=pjpg&auto=webp",
+      "publishedAt": "2026-08-19T09:05:00Z",
+      "content": "In recent years, the tech giants known as the Magnificent Seven have been the toast of Wall Street.  \r\nBetween 2015 and 2024, the seven stocks collectively earned an eye-popping 698%, nearly four tim… [+6003 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Mike Pearl",
+      "title": "People From 50- to 61-Years-Old Are Reportedly the Least Freaked Out by AI - Gizmodo",
+      "description": "Pew's survey doesn't say they love AI, but they do seem to hate it the least.",
+      "url": "https://gizmodo.com/pew-50-to-61-ai-2000800186",
+      "urlToImage": "https://gizmodo.com/app/uploads/2026/08/winery-friends-1200x675.jpg",
+      "publishedAt": "2026-08-19T09:00:55Z",
+      "content": "One of the ways Pew Research has been gauging American attitudes about AI for the past few years is by asking this question that measures peoples excitement against their concern. They started asking… [+2239 chars]"
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Matt Egan",
+      "title": "Red lights are flashing in energy markets - CNN",
+      "description": "Oil prices are once again uncomfortably high, but the bigger problem is lurking just beneath the surface.",
+      "url": "https://www.cnn.com/2026/08/19/business/oil-gas-war-iran-russia",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2270992283-20260818195014350.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2026-08-19T09:00:30Z",
+      "content": "Oil prices are once again uncomfortably high, but the bigger problem is lurking just beneath the surface.\r\nWhat initially began as an oil supply shock caused by the Strait of Hormuz blockage is morph… [+4925 chars]"
+    },
+    {
+      "source": {
         "id": null,
         "name": "STAT"
       },
@@ -152,6 +217,19 @@
     {
       "source": {
         "id": null,
+        "name": "Hollywood Reporter"
+      },
+      "author": "Steven Zeitchik",
+      "title": "California AG Rob Bonta Says David Ellison Is “Desperate” and “Grasping at Straws” - The Hollywood Reporter",
+      "description": "In an expansive interview with The Hollywood Reporter, Bonta laid out his strategy and took aim at the Paramount chief and emerging legal rival. “He cannot flee accountability.\"",
+      "url": "http://www.hollywoodreporter.com/news/politics-news/rob-bonta-david-ellison-lawsuit-merger-interview-1236676788/",
+      "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/GettyImages-2244846352.jpg?w=1440&h=810&crop=1",
+      "publishedAt": "2026-08-19T07:09:23Z",
+      "content": "The road to a Paramount-Warner Bros. Discovery deal has been littered with many hurdles for David Ellison. The would-be mogul has cleared them all — save one. \r\nThat would be, of course, the dozen at… [+14979 chars]"
+    },
+    {
+      "source": {
+        "id": null,
         "name": "Yahoo Entertainment"
       },
       "author": "Nick Lichtenberg",
@@ -161,19 +239,6 @@
       "urlToImage": "https://s.yimg.com/lo/mysterio/api/1DDB53B97A57606CABDFCB7DD4DBAF0609C6D2AE4C2196EB1817597F80C6023C/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Ffortune_175%2F460991f9e103b7405da560d7e4e0fd9c.jpg",
       "publishedAt": "2026-08-19T07:00:00Z",
       "content": "The bond market is the only major asset class currently pricing risk correctly, according to Johns Hopkins economist Steve Hankeand what it's pricing in is ugly. In an interview with Fortune, Hanke a… [+8256 chars]"
-    },
-    {
-      "source": {
-        "id": "the-washington-post",
-        "name": "The Washington Post"
-      },
-      "author": "Shira Ovide",
-      "title": "Young Americans really hate AI. These two charts show how much. - washingtonpost.com",
-      "description": "A new survey adds to the evidence that Americans are skeptical that artificial intelligence will have positive effects on daily life or the job market.",
-      "url": "https://www.washingtonpost.com/technology/2026/08/18/americans-under-30-are-becoming-more-pessimistic-about-artificial-intelligence/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/QLKUGNPFDOJCIU7PHTKBAWAU4Y_size-normalized.jpg&w=1440",
-      "publishedAt": "2026-08-19T03:25:34Z",
-      "content": "Theres one thing uniting Americas warring generations: revulsion toward artificial intelligence.\r\nA new poll released Tuesday by Pew Research Center adds to the evidence that Americans believe AI is … [+29 chars]"
     },
     {
       "source": {
@@ -216,15 +281,15 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "Space.com"
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
       },
-      "author": "Mike Wall",
-      "title": "Touchdown! Private Chinese rocket aces landing on 2nd-ever flight - Space",
-      "description": "\"This mission marks China's first-ever successful recovery attempt of the first stage of an orbital-class launch vehicle using landing legs, and China's first successful booster recovery on land.\"",
-      "url": "https://www.space.com/space-exploration/launches-spacecraft/touchdown-private-chinese-rocket-aces-landing-on-2nd-ever-flight",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/b3TbWLSVpCuC9ANjWAvB6X-2560-80.jpg",
-      "publishedAt": "2026-08-19T01:32:27Z",
+      "author": "WSJ",
+      "title": "Stock Market News, August 18, 2026: Tech Stocks Slide With Global Bond Selloff Picking Up Steam - WSJ",
+      "description": null,
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-18-2026",
+      "urlToImage": null,
+      "publishedAt": "2026-08-19T00:13:00Z",
       "content": null
     },
     {
@@ -258,11 +323,11 @@
         "id": "the-wall-street-journal",
         "name": "The Wall Street Journal"
       },
-      "author": "WSJ",
+      "author": "Berber Jin, Corrie Driebusch",
       "title": "Exclusive | OpenAI’s Second-Quarter Sales Show Tepid Growth Compared With Anthropic - WSJ",
-      "description": null,
+      "description": "The ChatGPT-maker’s revenue disappointed some investors, although the company told them its growth accelerated in the third quarter",
       "url": "https://www.wsj.com/tech/ai/openais-second-quarter-sales-show-tepid-growth-compared-with-anthropic-5cb42998",
-      "urlToImage": null,
+      "urlToImage": "https://images.wsj.net/im-90960290/social",
       "publishedAt": "2026-08-18T23:47:00Z",
       "content": null
     },
@@ -281,19 +346,6 @@
     },
     {
       "source": {
-        "id": "cnn",
-        "name": "CNN"
-      },
-      "author": "Elise Haulund",
-      "title": "Outshine fruit bars recalled for possible glass contamination - CNN",
-      "description": "Some Outshine Fruit Bars distributed nationwide have been recalled amid concerns over potential contamination with glass, according to parent company Dreyer’s Grand Ice Cream.",
-      "url": "https://www.cnn.com/2026/08/18/health/outshine-fruit-bars-recall",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/c-screenshot-2026-08-16-133136.jpg?c=16x9&q=w_800,c_fill",
-      "publishedAt": "2026-08-18T22:04:28Z",
-      "content": "Some Outshine Fruit Bars distributed nationwide have been recalled amid concerns over potential contamination with glass, according to parent company Dreyers Grand Ice Cream.\r\nThe recall was prompted… [+880 chars]"
-    },
-    {
-      "source": {
         "id": null,
         "name": "Financial Times"
       },
@@ -307,42 +359,42 @@
     },
     {
       "source": {
-        "id": "the-wall-street-journal",
-        "name": "The Wall Street Journal"
+        "id": "bloomberg",
+        "name": "Bloomberg"
       },
-      "author": "WSJ",
-      "title": "Iran’s Attacks on Ships in Hormuz Mount, Testing U.S. Military Restraint - WSJ",
+      "author": "Loukia Gyftopoulou, Paige Smith, Charlie Wells",
+      "title": "The Ultrawealthy Tax Maneuver That’s Spooking Schwab and Fidelity - Bloomberg.com",
+      "description": "Two Wall Street heavy hitters — Charles Schwab and Fidelity — are passing up the chance to add billions of assets, a sign that the booming tax aware investing strategy may be too good to be true.",
+      "url": "https://www.bloomberg.com/features/2026-fidelity-charles-schwab-tax-aware-investing/",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iJ2iYEW4mUUk/v0/-1x-1.webp",
+      "publishedAt": "2026-08-18T21:06:00Z",
+      "content": "Two Wall Street heavy hitters are passing up the chance to add billions of assets, a sign that a booming tax strategy may be too good to be true even for the 1%.\r\nBy Loukia Gyftopoulou, Paige Smith a… [+12049 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Forbes"
+      },
+      "author": "Forbes",
+      "title": "Google’s ‘Outrageous’ Plan To Train AI Using Spirit Airlines’ Data Blasted By Flight Attendant Union - Forbes",
       "description": null,
-      "url": "https://www.wsj.com/world/middle-east/irans-attacks-on-ships-in-hormuz-pile-up-testing-u-s-military-restraint-6ff9f5dd",
+      "url": "https://www.forbes.com/sites/suzannerowankelleher/2026/08/18/google-train-ai-spirit-airlines-data/",
       "urlToImage": null,
-      "publishedAt": "2026-08-18T21:01:00Z",
+      "publishedAt": "2026-08-18T20:30:59Z",
       "content": null
     },
     {
       "source": {
         "id": null,
-        "name": "CoinDesk"
+        "name": "MarketWatch"
       },
-      "author": "Jesse Hamilton",
-      "title": "U.S. SEC proposes first major crypto rule in surprise announcement - CoinDesk",
-      "description": "The Securities and Exchange Commission issued the \"Regulation Crypto\" proposal after having cancelled a meeting days before meant to vote on it.",
-      "url": "https://www.coindesk.com/policy/2026/08/18/r",
-      "urlToImage": "https://cdn.sanity.io/images/s3y3vcno/production/f5e51d142f4aa8a9a66d07435fa821e33f12872b-4858x2733.jpg?auto=format&fit=crop&crop=focalpoint&fp-x=0.2396&fp-y=0.2971&w=1920&h=1080&q=75",
-      "publishedAt": "2026-08-18T19:09:33Z",
-      "content": "So, once the management is done and conditions are met, the investment contract is no longer considered a potential security. \r\nThe SEC is inviting the public and industry to weigh in with comment le… [+1245 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Variety"
-      },
-      "author": "Todd Spangler",
-      "title": "Will David Ellison Say Goodbye to Hollywood? Some See Paramount’s Potential Exit From California as ‘Strategically Unwise’ — but Others Say It’s Just Smart Business - variety.com",
-      "description": "Will David Ellison really go through with his plan to leave California amid the standoff with states AGs in the Paramount-Warner Bros. merger? What the exit could mean for the company and the industry.",
-      "url": "https://variety.com/2026/film/news/goodbye-to-hollywood-paramount-california-exit-david-ellison-1236837300/",
-      "urlToImage": "https://variety.com/wp-content/uploads/2026/08/David-Ellison-Paramount-Leaving-California.png?w=1000&h=563&crop=1",
-      "publishedAt": "2026-08-18T19:00:00Z",
-      "content": "David Ellison, we have been told, loves Hollywood. He loves movies. In trying to rally industry support behind the Paramount-Warner Bros. megamerger, he has claimed the combined studios will release … [+6070 chars]"
+      "author": "Isabel Wang",
+      "title": "America’s growing debt pile will be the big focus Wednesday as global bond rout deepens - MarketWatch",
+      "description": "The world will be watching as the U.S. asks investors to buy more of its debt",
+      "url": "https://www.marketwatch.com/story/americas-growing-debt-pile-will-be-the-big-focus-wednesday-as-global-bond-rout-deepens-a6955c80",
+      "urlToImage": "https://images.mktw.net/im-21459206/social",
+      "publishedAt": "2026-08-18T19:52:00Z",
+      "content": "The U.S. Treasury on Wednesday will be asking investors to hand over another $16 billion for 20 years to help finance the \r\nnearly $1.8 trillion U.S. budget deficit so far this year.The answer from i… [+539 chars]"
     },
     {
       "source": {
@@ -424,19 +476,6 @@
     },
     {
       "source": {
-        "id": "bloomberg",
-        "name": "Bloomberg"
-      },
-      "author": "Will Kubzansky",
-      "title": "Diesel Margins Top $100 a Barrel to Reach Record High as Supply Crunch Grows - Bloomberg",
-      "description": "The margin for making diesel from crude oil in the US has soared to more than $100 a barrel, setting new all-time highs as a global fuel-making crunch continues to exacerbate fuel prices.",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-18/diesel-margins-top-100-a-barrel-to-reach-record-high-as-supply-crunch-grows",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iLyxNDOeAGYQ/v1/1200x800.jpg",
-      "publishedAt": "2026-08-18T16:15:46Z",
-      "content": "The margin for making diesel from crude oil in the US has soared to more than $100 a barrel, setting new all-time highs as a global fuel-making crunch continues to exacerbate fuel prices.\r\nThe widely… [+206 chars]"
-    },
-    {
-      "source": {
         "id": null,
         "name": "Forbes"
       },
@@ -490,19 +529,6 @@
     {
       "source": {
         "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Grace O'Donnell",
-      "title": "Global bond sell-off pressures stocks: AlphaCheck - Yahoo Finance",
-      "description": "Tech stocks took a leg lower amid concerns about rising borrowing costs.",
-      "url": "https://finance.yahoo.com/markets/article/global-bond-sell-off-pressures-stocks-alphacheck-135011383.html",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/19368538FEEC7A0E79943BDC7483A369E88D2D5B4F31F388988453BC64B90E34/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-08%2Fbf5b1758-b014-495c-9b2b-4fdff6e4718c",
-      "publishedAt": "2026-08-18T13:50:11Z",
-      "content": "Good morning. Stocks fell at the open as Treasury yields and oil prices continued their marches higher. The tech-heavy Nasdaq Composite (^IXIC) saw the sharpest declines, dropping 1%, while the Dow J… [+941 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "Electrek"
       },
       "author": "Fred Lambert",
@@ -512,19 +538,6 @@
       "urlToImage": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2025/04/Tesla-Semi-factory-hero.png?resize=1200%2C628&quality=82&strip=all&ssl=1",
       "publishedAt": "2026-08-18T13:29:00Z",
       "content": "Einride is putting 500 Tesla Semis on US roads, the largest commitment to Teslas electric truck that anyone has made public.\r\nThat will takes the Swedish freight company from roughly 250 deployed ele… [+3961 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Electrek"
-      },
-      "author": "Michelle Lewis",
-      "title": "Just 10% of California’s EVs could provide 9 GW of grid power - Electrek",
-      "description": "Just 10% of California's EVs could provide 9 GW of power for 12 hours, cutting grid costs and easing peak demand.",
-      "url": "http://electrek.co/2026/08/18/just-10-percent-of-californias-evs-could-provide-9-gw-of-grid-power/",
-      "urlToImage": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2025/11/2026_LEAF-image.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "publishedAt": "2026-08-18T13:05:00Z",
-      "content": "Image: Nissan\r\nCalifornia could turn parked EVs into one of its largest sources of energy storage but utilities need to make it a lot easier for EV owners to participate.\r\nA new report from GridLab, … [+4470 chars]"
     },
     {
       "source": {
@@ -551,19 +564,6 @@
       "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/B64LT2UZ7C67ZLZEKJ5FMCTA5M_size-normalized.jpg&w=1440",
       "publishedAt": "2026-08-18T11:32:19Z",
       "content": "The U.S. national debt is likely to surpass $40 trillion this week, months earlier than forecasters previously expected, in part because of billions of dollars in lost revenue from President Donald T… [+25 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "TechSpot"
-      },
-      "author": "Rob Thubron",
-      "title": "Google pays $10 million for 100 million Spirit Airlines emails and 500 million Teams chats to train AI - TechSpot",
-      "description": "The proposed purchase covers employee emails, Microsoft Teams messages, spreadsheets, calendars, marketing material, aircraft operations, revenue management, and worker productivity data.",
-      "url": "https://www.techspot.com/news/113526-google-pays-10-million-100-million-spirit-airlines.html",
-      "urlToImage": "https://www.techspot.com/images2/news/bigimage/2026/08/2026-08-18-image-6.jpg",
-      "publishedAt": "2026-08-18T11:15:00Z",
-      "content": "What just happened? Google has won an auction for Spirit Airlines' internal data, offering $10 million for the defunct carrier's workplace communications, operational records, documents, and custom s… [+2408 chars]"
     },
     {
       "source": {

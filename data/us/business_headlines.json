@@ -3,9 +3,22 @@
   "country": "us",
   "category": "business",
   "mode": "country",
-  "fetched_at": "2026-08-20T14:21:38.687143+00:00",
-  "articles_count": 47,
+  "fetched_at": "2026-08-20T16:17:20.333957+00:00",
+  "articles_count": 44,
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Sean Conlon, Justina Lee, Sarah Min",
+      "title": "Stock futures jump as Treasury action relieves bond market pressure: Live updates - CNBC",
+      "description": "U.S. stocks jumped on Wednesday as Treasury yields fell after the Treasury Department announced an increased buyback operation for longer-term debt.",
+      "url": "https://www.cnbc.com/2026/08/18/stock-market-today-live-updates.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108344537-1785853710278-Traders-Photo-20260803-KK-PRESS-013.jpg?v=1785853829&w=1920&h=1080",
+      "publishedAt": "2026-08-19T13:11:41Z",
+      "content": "The Dow Jones Industrial Average rose on Wednesday as bond yields fell following the Treasury Department's announcement of an increased buyback operation for longer-term debt.\r\nThe 30-stock Dow added… [+2283 chars]"
+    },
     {
       "source": {
         "id": "the-washington-post",
@@ -21,29 +34,29 @@
     },
     {
       "source": {
-        "id": "the-wall-street-journal",
-        "name": "The Wall Street Journal"
+        "id": "usa-today",
+        "name": "USA Today"
       },
-      "author": "WSJ",
-      "title": "Stock Market Today: Global Bonds Stabilize After Selloff, Dow Futures Muted — Live Updates - WSJ",
-      "description": null,
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-19-2026",
-      "urlToImage": null,
-      "publishedAt": "2026-08-19T11:37:00Z",
-      "content": null
+      "author": "Jason St. Angelo",
+      "title": "Buc-ee's is expanding, and so are the legal fights - USA Today",
+      "description": "A growing national footprint has made Buc-ee's beaver mascot more valuable and more aggressively defended in court.",
+      "url": "https://www.usatoday.com/story/money/2026/08/19/bucees-expansion-trademark-lawsuits-legal-fights/91215536007/",
+      "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/08/12/USAT/91275671007-20240312-t-234457-z-994162549-mt-1-usatoday-22759259-rtrmadp-3-thebuceescharacterisshownonshotglassesinsidethe.JPG?crop=2399,1350,x0,y0&width=2399&height=1350&format=pjpg&auto=webp",
+      "publishedAt": "2026-08-19T11:01:00Z",
+      "content": "Buc-ees is growing fast, putting its smiling beaver mascot in front of customers well beyond Texas.\r\nThat growth has also brought a series of legal fights over logos, mascots and names that Buc-ees s… [+5918 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Yahoo Entertainment"
+        "name": "Minneapolis Star Tribune"
       },
-      "author": "Brian Sozzi",
-      "title": "Target delivers earnings beat, CEO 'encouraged' by turnaround traction - Yahoo Finance",
-      "description": "Target has moved quickly to rewrite its merchandising wrongs to improve traffic to its stores and online.",
-      "url": "https://finance.yahoo.com/markets/stocks/article/target-delivers-earnings-beat-ceo-encouraged-by-turnaround-traction-103412473.html",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/030CB03D635A024037B204BD150B87B15F89FEE2342D130946F976543508A33F/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-05%2F2a148977-9c73-422f-9ea5-1946644a1ec4",
-      "publishedAt": "2026-08-19T10:34:12Z",
-      "content": "After chopping prices and overhauling its merchandise department, retailer Target (TGT) did its part for the second straight quarter to signal that its worst days in 2024 and 2025 are in the rearview… [+4087 chars]"
+      "author": "Carson Hartzog",
+      "title": "Target doubles profit, boosted by $1 billion tariff refund - Star Tribune",
+      "description": "The Minneapolis-based retailer reported growth for the second consecutive quarter on Wednesday.",
+      "url": "https://www.startribune.com/target-tariffs-refund-trump-earnings-profit-eps-sales/601880010",
+      "urlToImage": "https://arc.stimg.co/startribunemedia/6NFD7AQHABHBLJ6PJ7523XI3DI.JPG?&w=1200&ar=1.91:1&fit=crop",
+      "publishedAt": "2026-08-19T10:30:55Z",
+      "content": "Target Corp. is among the first major Minnesota companies to report a tariff refund and at nearly $1 billion, it helped double the companys quarterly profit.\r\nThe Minneapolis-based retailer reported … [+1198 chars]"
     },
     {
       "source": {
@@ -57,6 +70,19 @@
       "urlToImage": "https://image.cnbcfm.com/api/v1/image/108348686-1786561289622-gettyimages-2246741946-LOWES_EARNS.jpeg?v=1786561309&w=1920&h=1080",
       "publishedAt": "2026-08-19T10:27:16Z",
       "content": "Lowe's on Wednesday reported mixed quarterly results as the home improvement retailer said it saw \"pressure\" in spending on projects.\r\nThough the company did not cut its full-year guidance, it update… [+1970 chars]"
+    },
+    {
+      "source": {
+        "id": "associated-press",
+        "name": "Associated Press"
+      },
+      "author": "Josh Funk",
+      "title": "Amazon set to expand drone delivery of lightweight packages to 500 US cities - AP News",
+      "description": "Millions more people may be able to get smaller, lightweight Amazon packages delivered by drones by the end of the year under a plan the company announced Wednesday to expand the airborne shipping to suburban areas in nearly 500 U.S. cities. Amazon said in ne…",
+      "url": "https://apnews.com/article/amazon-drone-delivery-expansion-walmart-20db399ba65e8bc36a76b547f990b118",
+      "urlToImage": "https://dims.apnews.com/dims4/default/e46e119/2147483647/strip/true/crop/8176x5448+232+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F93%2Fc6%2F709846581c1a74afbe57172e8781%2F76752a85c62c478d81fd3355d2f62ee6",
+      "publishedAt": "2026-08-19T10:00:00Z",
+      "content": "Millions more people may be able to get smaller, lightweight Amazon packages delivered by drones by the end of the year under a plan the company announced Wednesday to expand the airborne shipping to… [+4266 chars]"
     },
     {
       "source": {
@@ -74,15 +100,80 @@
     {
       "source": {
         "id": null,
-        "name": "Investing.com"
+        "name": "Yahoo Entertainment"
       },
-      "author": "Roushni Nair",
-      "title": "Asian stocks slump as chip selloff deepens; KOSPI plunges 5% - Investing.com",
-      "description": "Asian stocks slump as chip selloff deepens; KOSPI plunges 5%",
-      "url": "https://www.investing.com/news/stock-market-news/asian-stocks-slump-as-chip-selloff-deepens-kospi-plunges-5-4866415",
-      "urlToImage": "https://content-media.investing.com/news/LYNXMPEB310J3_L.jpg",
-      "publishedAt": "2026-08-19T04:09:03Z",
-      "content": "Investing.com -- Asian stocks slumped on Wednesday as a renewed semiconductor selloff hit South Korea and Japan, while elevated bond yields and persistent Middle East tensions kept investors cautious… [+3667 chars]"
+      "author": "Daniel Howley",
+      "title": "Meta social media addiction trial kicks off with major implications for company’s future - Yahoo Finance",
+      "description": "Meta is in court again, as it faces another social media addiction suit.",
+      "url": "https://finance.yahoo.com/technology/article/meta-social-media-addiction-trial-kicks-off-with-major-implications-for-companys-future-215458217.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/A04A40F2F59CEC05427474CD11E9A27D291370DF54C9FA0C16B38FAD69DDA7F9/subgraphmysterio/resizefill_w1200_h798;quality_80;format_webp/https:%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-07%2F1888944e-e585-4acc-bd46-6c13922844a1",
+      "publishedAt": "2026-08-19T09:48:24Z",
+      "content": "Attorneys representing four states argued that Meta (META) developed its products to hook young users on its platforms and harvested the data of children under 13 to its benefit in the latest social … [+4348 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Hugh Leask",
+      "title": "Dollar risks are mounting. Here’s what could weaken the greenback - CNBC",
+      "description": "Currency strategists flag Treasury risk, softer U.S. data and uncertain Fed policy as key factors that could pressure the dollar.",
+      "url": "https://www.cnbc.com/2026/08/19/inflation-dollar-risks-fed.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108238058-1765168272053-gettyimages-1438235949-economia3.jpeg?v=1776076368&w=1920&h=1080",
+      "publishedAt": "2026-08-19T09:32:56Z",
+      "content": "Growing fiscal risks, softer economic data and uncertainty over Federal Reserve policy could intensify pressure on the U.S. dollar, despite recent strength, according to currency strategists.\r\nHigher… [+4626 chars]"
+    },
+    {
+      "source": {
+        "id": "axios",
+        "name": "Axios"
+      },
+      "author": "Madison Mills, Ina Fried",
+      "title": "OpenAI blinks first in AI safety standoff - Axios",
+      "description": "The two leading AI labs publicly diverging on safety could put them on different model-release timelines.",
+      "url": "https://www.axios.com/2026/08/19/openai-astra-safety-altman-anthropic",
+      "urlToImage": "https://images.axios.com/U3AW8OCo28PPXNZsBsrpC3uwTyM=/0x0:1920x1080/1366x768/2026/03/02/1772489032391.jpeg",
+      "publishedAt": "2026-08-19T09:16:07Z",
+      "content": "State of play: OpenAI has introduced new safety practices after finding that its upcoming model, Astra, posed potentially critical cybersecurity risks.\r\n<ul><li>\"[W]e always said we would take action… [+3873 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "STAT"
+      },
+      "author": "Arya Rao, Marc Succi",
+      "title": "AI has created a shadow medical system - STAT",
+      "description": "Financial incentives – health care makes up nearly one-fifth of the American economy – have driven every major AI company into health care.",
+      "url": "https://www.statnews.com/2026/08/19/ai-doctor-outperforms-chatgpt-oura-quest-ro-hims-medical-system/",
+      "urlToImage": "https://www.statnews.com/wp-content/uploads/2026/08/AdobeStock_159757760-1024x576.jpeg",
+      "publishedAt": "2026-08-19T08:34:50Z",
+      "content": "Every few weeks, another headline announces that artificial intelligence has matched a doctor, beaten a doctor, or is finally ready to become one. The latest wave arrived with familiar force: Several… [+8003 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Nick Lichtenberg",
+      "title": "Top economist on Trump’s ‘deadly cocktail’ for the bond market—and how the bond vigilantes have crossed Scott Bessent’s ‘red line’ - Yahoo Finance",
+      "description": "\"The bond vigilantes have come out of hibernation,\" Johns Hopkins' Steve Hanke told Fortune, and \"the inflation genie is out of the bottle.\"",
+      "url": "https://finance.yahoo.com/economy/policy/articles/top-economist-trump-deadly-cocktail-070000763.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/1DDB53B97A57606CABDFCB7DD4DBAF0609C6D2AE4C2196EB1817597F80C6023C/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Ffortune_175%2F460991f9e103b7405da560d7e4e0fd9c.jpg",
+      "publishedAt": "2026-08-19T07:00:00Z",
+      "content": "The bond market is the only major asset class currently pricing risk correctly, according to Johns Hopkins economist Steve Hankeand what it's pricing in is ugly. In an interview with Fortune, Hanke a… [+8256 chars]"
+    },
+    {
+      "source": {
+        "id": "the-washington-post",
+        "name": "The Washington Post"
+      },
+      "author": "Shira Ovide",
+      "title": "Young Americans really hate AI. These two charts show how much. - washingtonpost.com",
+      "description": "A new survey adds to the evidence that Americans are skeptical that artificial intelligence will have positive effects on daily life or the job market.",
+      "url": "https://www.washingtonpost.com/technology/2026/08/18/americans-under-30-are-becoming-more-pessimistic-about-artificial-intelligence/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/QLKUGNPFDOJCIU7PHTKBAWAU4Y_size-normalized.jpg&w=1440",
+      "publishedAt": "2026-08-19T03:25:34Z",
+      "content": "Theres one thing uniting Americas warring generations: revulsion toward artificial intelligence.\r\nA new poll released Tuesday by Pew Research Center adds to the evidence that Americans believe AI is … [+29 chars]"
     },
     {
       "source": {
@@ -100,6 +191,19 @@
     {
       "source": {
         "id": null,
+        "name": "Fox Business"
+      },
+      "author": "Bonny Chu",
+      "title": "Costco plots major expansion into senior healthcare with Medicare partnership - Fox Business",
+      "description": "In a first-of-its-kind venture, Costco is partnering with SCAN Health Plan on senior-focused insurance products that could include pharmacy, vision and hearing benefits.",
+      "url": "https://www.foxbusiness.com/retail/costco-plots-major-expansion-senior-healthcare-medicare-partnership",
+      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/08/0/0/costco-pharmacy.jpg?ve=1&tl=1",
+      "publishedAt": "2026-08-19T02:01:00Z",
+      "content": "Costco will soon offer Medicare plans to certain members as part of a new, first-of-its-kind health insurance venture. \r\nThe warehouse giant has teamed up with SCAN Health Plan, one of the nation’s l… [+3362 chars]"
+    },
+    {
+      "source": {
+        "id": null,
         "name": "Profarmer.com"
       },
       "author": null,
@@ -113,19 +217,6 @@
     {
       "source": {
         "id": null,
-        "name": "CNBC"
-      },
-      "author": "Jonathan Vanian",
-      "title": "California AG Bonta says case against Meta is about 'restitution and distortion,' not damages - CNBC",
-      "description": "Following opening arguments in the case against Meta, California Attorney General Bonta said the trial is not about extracting a massive payout.",
-      "url": "https://www.cnbc.com/2026/08/18/meta-attorneys-general-opening-arguments-california-bonta-restitution.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108283652-1785343065824-108283652-17745520112026-03-26t190623z_1890999401_rc2ickaaf3hs_rtrmadp_0_usa-congress.jpg?v=1785343074&w=1920&h=1080",
-      "publishedAt": "2026-08-19T01:34:00Z",
-      "content": "Following the first day of arguments in a high-stakes child safety case against Meta, California Attorney General Rob Bonta said Tuesday that the trial centers around \"civil penalties, restitution an… [+4337 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "Space.com"
       },
       "author": "Mike Wall",
@@ -135,19 +226,6 @@
       "urlToImage": "https://cdn.mos.cms.futurecdn.net/b3TbWLSVpCuC9ANjWAvB6X-2560-80.jpg",
       "publishedAt": "2026-08-19T01:32:27Z",
       "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Semianalysis.com"
-      },
-      "author": "Myron Xie, Bryan Shan, Wega Chu, Jordan Nanos, Dylan Patel",
-      "title": "Cerebras's Next Generation CS-4: Fast Just Got Faster - SemiAnalysis",
-      "description": "Double the Performance with Double the Power",
-      "url": "https://newsletter.semianalysis.com/p/cerebrass-next-generation-cs-4-fast",
-      "urlToImage": "https://substackcdn.com/image/fetch/$s_!eBTS!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F90818ad0-ee2b-4245-b3ef-7e2875e97add_1672x941.png",
-      "publishedAt": "2026-08-19T01:32:08Z",
-      "content": "Cerebras revealed CS-4 this week, with more details to come at Hot Chips. CS-4 is their fourth-generation rack built around the same third generation 5nm wafer-scale engine: WSE-3. CS-4 doubles the p… [+12614 chars]"
     },
     {
       "source": {
@@ -203,42 +281,16 @@
     },
     {
       "source": {
-        "id": "bloomberg",
-        "name": "Bloomberg"
-      },
-      "author": "Andre Janse Van Vuuren, Levin Stamm",
-      "title": "Stocks and Bonds Find Respite After Days of Strain: Markets Wrap - Bloomberg.com",
-      "description": "Stocks and bonds rose after the US government announced it’s stepping in to support the longer-dated end of the Treasury market.",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-18/stock-market-today-dow-s-p-live-updates",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iiGQLG06yrXA/v0/1200x675.png",
-      "publishedAt": "2026-08-18T22:11:07Z",
-      "content": "Stocks and bonds rose after the US government announced its stepping in to support the longer-dated end of the Treasury market.\r\nS&amp;P 500 futures climbed 0.5%. The yield on 30-year US bonds fell n… [+167 chars]"
-    },
-    {
-      "source": {
         "id": "cnn",
         "name": "CNN"
       },
-      "author": "CNN",
+      "author": "Elise Haulund",
       "title": "Outshine fruit bars recalled for possible glass contamination - CNN",
-      "description": null,
+      "description": "Some Outshine Fruit Bars distributed nationwide have been recalled amid concerns over potential contamination with glass, according to parent company Dreyer’s Grand Ice Cream.",
       "url": "https://www.cnn.com/2026/08/18/health/outshine-fruit-bars-recall",
-      "urlToImage": null,
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/c-screenshot-2026-08-16-133136.jpg?c=16x9&q=w_800,c_fill",
       "publishedAt": "2026-08-18T22:04:28Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "New York Post"
-      },
-      "author": "Katie Jerkovich",
-      "title": "California’s most dreaded commute revealed in new ranking — and it’s not in SoCal - New York Post",
-      "description": "The survey asked how much of your annual salary you would be willing to sacrifice to escape your daily commute.",
-      "url": "https://nypost.com/2026/08/18/lifestyle/worst-california-commute-revealed-and-its-not-in-socal/",
-      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/08/newspress-collage-e5vb0sqtn-1787090358939.jpg?quality=75&strip=all&1787076015&w=1200",
-      "publishedAt": "2026-08-18T22:01:00Z",
-      "content": "California commuters have crowned the states ultimate traffic nightmare and its not in Los Angeles.\r\nThe infamous MacArthur Maze near the Bay Bridge has been ranked the worst commute in California, b… [+3250 chars]"
+      "content": "Some Outshine Fruit Bars distributed nationwide have been recalled amid concerns over potential contamination with glass, according to parent company Dreyers Grand Ice Cream.\r\nThe recall was prompted… [+880 chars]"
     },
     {
       "source": {
@@ -255,29 +307,16 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "TheStreet"
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
       },
-      "author": "Moz Farooque",
-      "title": "SanDisk sends strong signal to Micron investors, BofA says - thestreet.com",
-      "description": "One memory stock is reshaping BofA’s view on Micron",
-      "url": "https://www.thestreet.com/investing/stocks/micron-stock-sandisk-bofa",
-      "urlToImage": "https://www.thestreet.com/.image/NDA6MDAwMDAwMDAzMTQ4NjY4/untitled.jpg?profile=share16-9",
-      "publishedAt": "2026-08-18T19:42:11Z",
-      "content": "Micron (MU) and SanDisk (SNDK) have delivered the sort of gains investors typically wait years for.\r\nMicron traded around $1,012 on August 18, while SanDisk changed hands near $1,787. Seeking Alpha d… [+6212 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Jay Peters",
-      "title": "OpenAI lays out new security changes after its AI hacked Hugging Face - The Verge",
-      "description": "OpenAI is improving its research environments, monitoring, and alignment techniques to beef up security after its AI accidentally hacked Hugging Face.",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/981640/openai-security-changes-ai-hugging-face-hack",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STK155_OPEN_AI_CVirginia__C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "publishedAt": "2026-08-18T19:28:30Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nOpenAI is updating its research environments, monitoring, and alignment techniques to avoid another security fiasco.\r\nOpenAI is updating its research environment… [+2967 chars]"
+      "author": "WSJ",
+      "title": "Iran’s Attacks on Ships in Hormuz Mount, Testing U.S. Military Restraint - WSJ",
+      "description": null,
+      "url": "https://www.wsj.com/world/middle-east/irans-attacks-on-ships-in-hormuz-pile-up-testing-u-s-military-restraint-6ff9f5dd",
+      "urlToImage": null,
+      "publishedAt": "2026-08-18T21:01:00Z",
+      "content": null
     },
     {
       "source": {
@@ -399,28 +438,15 @@
     {
       "source": {
         "id": null,
-        "name": "SFGate"
+        "name": "Forbes"
       },
-      "author": "Ramin Skibba",
-      "title": "After slashing science budgets, Trump bets on Bay Area researchers - SFGATE",
-      "description": "After a year of federal worker layoffs and cuts to R&D budgets, the Trump administration is funding research involving AI, energy and critical minerals.",
-      "url": "https://www.sfgate.com/tech/article/trump-bay-area-science-research-22388902.php",
-      "urlToImage": "https://s.hdnux.com/photos/01/55/15/70/28630547/3/rawImage.jpg",
-      "publishedAt": "2026-08-18T16:11:46Z",
-      "content": "Electric vehicle companies and other industries have been scouring the globe for critical minerals for their batteries. Now the Trump administration is funding Stanford researchers to use artificial … [+11474 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Fox Business"
-      },
-      "author": "Bradford Betz",
-      "title": "Home Depot customers stick to smaller projects as housing costs stay high - foxbusiness.com",
-      "description": "Home Depot posted higher second-quarter sales as smaller home projects supported demand despite elevated mortgage rates and costly housing.",
-      "url": "https://www.foxbusiness.com/economy/home-depot-sales-small-projects-housing-costs",
-      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2025/08/0/0/home-depot-customer.jpg?ve=1&tl=1",
-      "publishedAt": "2026-08-18T15:01:00Z",
-      "content": "Home Depot customers are still spending on their homes, with smaller projects supporting demand as Americans contend with elevated mortgage rates and high home prices.\r\nThe home improvement retailer … [+2582 chars]"
+      "author": "Ty Roush",
+      "title": "CEO Who Allegedly Called Staff ‘Monkeys’ Is Being Sued By His Company - Forbes",
+      "description": "Better Home & Finance accused its founder of running an illegal scheme to regain control of the firm.",
+      "url": "https://www.forbes.com/sites/tylerroush/2026/08/18/ceo-who-fired-900-people-on-zoom-allegedly-calling-employees-monkeys-faces-lawsuit-from-his-company/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6a84821bee27b708abd3bfaf/0x0.jpg?format=jpg&crop=1815,1021,x26,y49,safe&height=900&width=1600&fit=bounds",
+      "publishedAt": "2026-08-18T16:05:28Z",
+      "content": "Better Home &amp; Finance on Tuesday sued founder Vishal Garg, accusing him of a scorched-earth campaign to regain control of the company in a lawsuit that highlights his controversial tenure as chie… [+3053 chars]"
     },
     {
       "source": {
@@ -464,6 +490,19 @@
     {
       "source": {
         "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Grace O'Donnell",
+      "title": "Global bond sell-off pressures stocks: AlphaCheck - Yahoo Finance",
+      "description": "Tech stocks took a leg lower amid concerns about rising borrowing costs.",
+      "url": "https://finance.yahoo.com/markets/article/global-bond-sell-off-pressures-stocks-alphacheck-135011383.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/19368538FEEC7A0E79943BDC7483A369E88D2D5B4F31F388988453BC64B90E34/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-08%2Fbf5b1758-b014-495c-9b2b-4fdff6e4718c",
+      "publishedAt": "2026-08-18T13:50:11Z",
+      "content": "Good morning. Stocks fell at the open as Treasury yields and oil prices continued their marches higher. The tech-heavy Nasdaq Composite (^IXIC) saw the sharpest declines, dropping 1%, while the Dow J… [+941 chars]"
+    },
+    {
+      "source": {
+        "id": null,
         "name": "Electrek"
       },
       "author": "Fred Lambert",
@@ -473,19 +512,6 @@
       "urlToImage": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2025/04/Tesla-Semi-factory-hero.png?resize=1200%2C628&quality=82&strip=all&ssl=1",
       "publishedAt": "2026-08-18T13:29:00Z",
       "content": "Einride is putting 500 Tesla Semis on US roads, the largest commitment to Teslas electric truck that anyone has made public.\r\nThat will takes the Swedish freight company from roughly 250 deployed ele… [+3961 chars]"
-    },
-    {
-      "source": {
-        "id": "cnn",
-        "name": "CNN"
-      },
-      "author": "Chris Isidore",
-      "title": "Google is buying all of Spirit Airlines’ data to feed its AI models - CNN",
-      "description": "Did you ever fly on Spirit Airlines? Or work there? Or send an email to someone who worked there? Then your information will soon be feeding Google’s artificial intelligence model.",
-      "url": "https://www.cnn.com/2026/08/18/business/google-spirit-airlines-data",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2274586037.jpg?c=16x9&q=w_800,c_fill",
-      "publishedAt": "2026-08-18T13:08:44Z",
-      "content": "Did you ever fly onSpirit Airlines? Or work there? Or send an email to someone who worked there? Then your information will soon be feeding Googles artificial intelligence model.\r\nThe discount airlin… [+1596 chars]"
     },
     {
       "source": {
@@ -499,19 +525,6 @@
       "urlToImage": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2025/11/2026_LEAF-image.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
       "publishedAt": "2026-08-18T13:05:00Z",
       "content": "Image: Nissan\r\nCalifornia could turn parked EVs into one of its largest sources of energy storage but utilities need to make it a lot easier for EV owners to participate.\r\nA new report from GridLab, … [+4470 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": "Jenni Reid",
-      "title": "'Worrisome': AI is driving a looming market correction, European central bank economists warn - CNBC",
-      "description": "History suggests valuations will tumble even if they are a fair reflection of the transformative power of AI, according to a European Central Bank analysis.",
-      "url": "https://www.cnbc.com/2026/08/18/ai-tech-rally-correction-economists.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108295609-1776882616323-gettyimages-2271950132-AFP_A8NJ9YH.jpeg?v=1776882638&w=1920&h=1080",
-      "publishedAt": "2026-08-18T12:07:05Z",
-      "content": "The American flag flies behind a Wall Street sign near the New York Stock Exchange (NYSE) in New York City on April 22, 2026. \r\nU.S. and European stocks are scaling record highs as investors pile int… [+2355 chars]"
     },
     {
       "source": {
@@ -542,6 +555,19 @@
     {
       "source": {
         "id": null,
+        "name": "TechSpot"
+      },
+      "author": "Rob Thubron",
+      "title": "Google pays $10 million for 100 million Spirit Airlines emails and 500 million Teams chats to train AI - TechSpot",
+      "description": "The proposed purchase covers employee emails, Microsoft Teams messages, spreadsheets, calendars, marketing material, aircraft operations, revenue management, and worker productivity data.",
+      "url": "https://www.techspot.com/news/113526-google-pays-10-million-100-million-spirit-airlines.html",
+      "urlToImage": "https://www.techspot.com/images2/news/bigimage/2026/08/2026-08-18-image-6.jpg",
+      "publishedAt": "2026-08-18T11:15:00Z",
+      "content": "What just happened? Google has won an auction for Spirit Airlines' internal data, offering $10 million for the defunct carrier's workplace communications, operational records, documents, and custom s… [+2408 chars]"
+    },
+    {
+      "source": {
+        "id": null,
         "name": "SFGate"
       },
       "author": "Kasia Pawlowska",
@@ -551,71 +577,6 @@
       "urlToImage": "https://s.hdnux.com/photos/01/67/06/37/31221710/3/rawImage.jpg",
       "publishedAt": "2026-08-18T11:13:47Z",
       "content": "When people talk about notable sites in Marin County, the discussion is usually centered on southern cities, such as Sausalito and Tiburon, or coastal stretches, including Point Reyes National Seasho… [+4209 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "syracuse.com"
-      },
-      "author": "Syracuse.com",
-      "title": "Remember 12 CDs for 1 cent? Columbia House is shutting down after 71 years - Syracuse.com",
-      "description": null,
-      "url": "https://www.syracuse.com/entertainment/2026/08/remember-12-cds-for-1-cent-columbia-house-is-shutting-down-after-71-years.html",
-      "urlToImage": null,
-      "publishedAt": "2026-08-18T11:12:00Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Financial Times"
-      },
-      "author": null,
-      "title": "AI phobia is America’s new consensus - Financial Times",
-      "description": "Trump is uncharacteristically deaf to voter fears over the technology",
-      "url": "https://www.ft.com/content/7d5f7e30-88de-4dcb-9fd5-f41a4ff03804?syn-25a6b1a6\\\\u003d1",
-      "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F1a51ef83-04cb-4ef8-a61c-fe3dad5fd21a.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
-      "publishedAt": "2026-08-18T10:57:48Z",
-      "content": "Then $75 per month. Complete digital access to quality FT journalism on any device. Cancel anytime during your trial."
-    },
-    {
-      "source": {
-        "id": "the-wall-street-journal",
-        "name": "The Wall Street Journal"
-      },
-      "author": "WSJ",
-      "title": "Exclusive | Costco Sells Vacations, Gas and, Soon, Medicare Plans - WSJ",
-      "description": null,
-      "url": "https://www.wsj.com/health/healthcare/costco-sells-vacations-gas-and-soon-medicare-plans-c0e1470e",
-      "urlToImage": null,
-      "publishedAt": "2026-08-18T09:30:00Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "BBC News"
-      },
-      "author": null,
-      "title": "AI to help planes avoid climate-warming 'sky graffiti' - BBC",
-      "description": "A new UK trial hopes to reduce the condensation trails from planes, which can trap heat in the Earth's atmosphere.",
-      "url": "https://www.bbc.com/news/articles/c62em5lpvnjo",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/975e/live/208c6990-9ae4-11f1-b2f7-5d1639b20e22.jpg",
-      "publishedAt": "2026-08-18T09:26:41Z",
-      "content": "The 30-month Operation Blue Skies project brings together Google, the UK government, the Met Office, air traffic control provider National Air Traffic Services (NATS) and researchers at the Universit… [+42 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "WPRI.com"
-      },
-      "author": "Eli Sherman",
-      "title": "RI casino operator Bally’s sees stock price plunge nearly 30% after solvency warning - WPRI.com",
-      "description": "Bally's Corp., the Providence-based casino operator, runs Rhode Island's two casinos.",
-      "url": "https://www.wpri.com/target-12/ri-casino-operator-ballys-sees-stock-price-plunge-nearly-30-after-solvency-warning/",
-      "urlToImage": "https://www.wpri.com/wp-content/uploads/sites/23/2024/07/BALLYS-GENERIC-FILE-CASINO-TWIN-RIVER-.jpg?w=1280",
-      "publishedAt": "2026-08-17T21:17:27Z",
-      "content": "PROVIDENCE, R.I. (WPRI) — Bally’s Corp., the Providence-based casino operator that runs Rhode Island’s two casinos, saw its stock price tumble after telling regulators there is “substantial doubt” ab… [+8638 chars]"
     }
   ]
 }

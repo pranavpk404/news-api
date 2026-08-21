@@ -3,9 +3,35 @@
   "country": "us",
   "category": "technology",
   "mode": "country",
-  "fetched_at": "2026-08-21T00:27:36.860093+00:00",
-  "articles_count": 59,
+  "fetched_at": "2026-08-21T02:51:19.470028+00:00",
+  "articles_count": 63,
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Mike Pearl",
+      "title": "We Think We Found ‘Human Printer’ Natalie Harp’s Printer Setup. It’s Bulky - Gizmodo",
+      "description": "A fairly bulky printer, and a totally unnecessary backup battery. Why?",
+      "url": "https://gizmodo.com/we-think-we-found-human-printer-natalie-harps-printer-setup-its-bulky-2000800705",
+      "urlToImage": "https://gizmodo.com/app/uploads/2026/08/natalie-harp-printing-1-1200x675.jpg",
+      "publishedAt": "2026-08-20T00:45:25Z",
+      "content": "Were pretty sure weve found the human printers printer.\r\nNatalie Harp is a former TV personality and current presidential executive assistant. Shes also what I guess you might call a rising star with… [+6016 chars]"
+    },
+    {
+      "source": {
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "author": "Mark Gurman",
+      "title": "Apple’s Camera-Equipped AI AirPods Remain on Track for 2027 Despite Video Leak - Bloomberg.com",
+      "description": "An Apple Inc. effort to sell camera-equipped AirPods remains on track for 2027, despite a leak from the company indicating that the product might arrive sooner.",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-19/apple-s-camera-equipped-ai-airpods-remain-on-track-for-2027-despite-video-leak",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/imyPS6.O_neQ/v0/1200x800.jpg",
+      "publishedAt": "2026-08-19T23:05:35Z",
+      "content": "An Apple Inc. effort to sell camera-equipped AirPods remains on track for 2027, despite a leak from the company indicating that the product might arrive sooner. \r\nThe new earbuds, designed to vault t… [+217 chars]"
+    },
     {
       "source": {
         "id": "ars-technica",
@@ -18,6 +44,19 @@
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/05/IMG_1032-1152x648.jpeg",
       "publishedAt": "2026-08-19T20:21:59Z",
       "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "GameSpot"
+      },
+      "author": "Cameron Koch",
+      "title": "Want A Modern Warfare 4 Beta Code? Just Talk Trash - GameSpot",
+      "description": "Talk s***, get hit (with a free code)?",
+      "url": "https://www.gamespot.com/articles/want-a-modern-warfare-4-beta-code-just-talk-trash/",
+      "urlToImage": "https://www.gamespot.com/wp-content/uploads/2026/08/MW4-Beta-Insults.jpg",
+      "publishedAt": "2026-08-19T19:55:41Z",
+      "content": "GameSpot may receive revenue from affiliate and advertising partnerships for sharing this content and from purchases through links.\r\nThe creators of Call of Duty: Modern Warfare 4 are trying to prove… [+2512 chars]"
     },
     {
       "source": {
@@ -35,6 +74,32 @@
     {
       "source": {
         "id": null,
+        "name": "Videocardz.com"
+      },
+      "author": null,
+      "title": "LG Display unveils FLiPP OLED technology with up to 1.6x higher brightness and 2.4x longer lifespan - VideoCardz.com",
+      "description": "LG Display says FLiPP improves OLED aperture ratio by 55%. The process supports panels from 1 to 100 inches and can improve substrate utilization by up to 64%.",
+      "url": "https://videocardz.com/newz/lg-display-unveils-flipp-oled-technology-with-up-to-1-6x-higher-brightness-and-2-4x-longer-lifespan",
+      "urlToImage": "https://cdn.videocardz.com/1/2026/08/LG-DISPLAY-FLIPP-OLED-TECH-HERO.webp",
+      "publishedAt": "2026-08-19T19:09:49Z",
+      "content": "LG Display has unveiled FLiPP, its new OLED pixel patterning technology that removes the Fine Metal Mask (FMM) from the manufacturing process. The company is demonstrating the technology at IMID 2026… [+1710 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Internet"
+      },
+      "author": "The Hacker News",
+      "title": "Cloudflare Workers Spectre Attack Leaks JWT From Co-Located Worker at 12 Bits/Second - The Hacker News",
+      "description": "Researchers leak a JWT from a co-located Cloudflare Worker via Spectre at up to 12 bits per second; Cloudflare says the attack is mitigated.",
+      "url": "https://thehackernews.com/2026/08/cloudflare-workers-spectre-attack-leaks.html",
+      "urlToImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi50HcHSWt796lc8zQ8Anp_fHUqgV-BM0xiS1NxJW8zRDgBRJ9ovZOECiIhdQt0aVTUdhduJYP1o5wTa5RpDoCwhihq8rKqWmh73E9E8UzafyDcq1n1khCEIDCikK2L6NEt1mbIuMRm6F36bap74JtZawFqqCPvWF72SAm25BzREVerWYaRIDEo1O89V4k/s1600/jwt.jpg",
+      "publishedAt": "2026-08-19T19:02:00Z",
+      "content": "Cybersecurity researchers have disclosed details of a remote Spectre attack against Cloudflare Workers that leaked a JSON Web Token (JWT) from a co-located Worker in the production environment at up … [+4358 chars]"
+    },
+    {
+      "source": {
+        "id": null,
         "name": "Kotaku"
       },
       "author": "Ethan Gach",
@@ -44,19 +109,6 @@
       "urlToImage": "https://kotaku.com/app/uploads/2026/08/GettyImages-477358798-1200x675.jpg",
       "publishedAt": "2026-08-19T18:45:31Z",
       "content": "Cheap consoles mean more players. The Wii proved that as competition brought prices down amid the peak of the Xbox 360 and PS3 generations, and the inverse is likely to be true if Sony and Microsoft … [+2257 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Emma Roth",
-      "title": "Watch Valve set up the Steam Frame in its own leaked videos - The Verge",
-      "description": "Valve has leaked several videos that demonstrate how to set up the Steam Frame, its upcoming virtual-reality headset.",
-      "url": "https://www.theverge.com/games/982406/valve-steam-frame-setup-unboxing-leaked-videos",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/valve-steam-frame-leak.png?quality=90&strip=all&crop=0%2C6.6657792764812%2C100%2C86.668441447038&w=1200",
-      "publishedAt": "2026-08-19T18:16:27Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nLeaked demonstrations show how to use the Steam Frame with its wireless dongle and accessories.\r\nLeaked demonstrations show how to use the Steam Frame with its w… [+3088 chars]"
     },
     {
       "source": {
@@ -112,16 +164,29 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "TechSpot"
+        "id": "the-verge",
+        "name": "The Verge"
       },
-      "author": "Kishalaya Kundu",
-      "title": "Best Buy removes 32GB RAM worth $600 to \"repair\" customer's 64GB gaming laptop - TechSpot",
-      "description": "Redditor GRINZ_DOCTOR claims to have bought a Lenovo Legion 5 gaming laptop from Best Buy's website last December. The laptop reportedly worked as advertised for a few...",
-      "url": "https://www.techspot.com/news/113533-best-buy-removes-32gb-ram-worth-600-repair.html",
-      "urlToImage": "https://www.techspot.com/images2/news/bigimage/2026/08/2026-08-19-image-10.jpg",
-      "publishedAt": "2026-08-19T16:50:00Z",
-      "content": "WTF?! Best Buy allegedly \"repaired\" a customer's gaming laptop by removing one of its two 32GB memory modules, reducing the system's installed RAM from 64GB to 32GB. The customer had sent the laptop … [+2419 chars]"
+      "author": "Emma Roth",
+      "title": "Meta AI is getting a Mac app - The Verge",
+      "description": "Meta is launching a new app dedicated to its AI chatbot on Mac. The Meta AI app allows you to share your window with the chatbot and also provides dictation across apps.",
+      "url": "https://www.theverge.com/tech/982270/meta-ai-mac-app",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/MacApp_ScreenShare_0818.2.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+      "publishedAt": "2026-08-19T17:00:00Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nYou can share your window with the new Meta AI app, as well as connect it to Google Workspace.\r\nYou can share your window with the new Meta AI app, as well as co… [+2734 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ExtremeTech"
+      },
+      "author": "Jon Martindale",
+      "title": "Best Buy 'Repaired' a 64GB Laptop by Making It 32GB - extremetech.com",
+      "description": "The repair department claimed it would only take 32GB—but is that a valid excuse for cutting a laptop's RAM by half?",
+      "url": "https://www.extremetech.com/computing/best-buy-repaired-a-64gb-laptop-by-making-it-32gb",
+      "urlToImage": "https://i.extremetech.com/imagery/content-types/05ARSUlEpWAYOKlXnJek1ln/hero-image.fill.size_1200x675.png",
+      "publishedAt": "2026-08-19T16:45:10Z",
+      "content": "One Best Buy customer is fuming after receiving a laptop with just 32GB of RAM after a warranty repair. The reason? It had 64GB when they sent it in. To make matters worse, Tom's Hardware reports tha… [+2113 chars]"
     },
     {
       "source": {
@@ -135,19 +200,6 @@
       "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/07/google-ai-pro.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
       "publishedAt": "2026-08-19T16:35:00Z",
       "content": "Google is introducing a blue gradient ring around your Account photo to indicate whether you’re subscribed to a paid tier.\r\nUpdate: This ring also appears for non-AI Google One tiers.\r\nPreviously, Go… [+1144 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "9to5google.com"
-      },
-      "author": "Damien Wilde",
-      "title": "Yes, the Pixelsnap magnets on Pixel 11 are stronger this year - 9to5Google",
-      "description": "Pixelsnap is one of the best things added to Pixel phones in a number of years, but it wasn’t quite...",
-      "url": "http://9to5google.com/2026/08/19/pixel-11-magnets-stronger/",
-      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/08/Moonstone-Pixelsnap-kickstand-on-Pixel-11.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "publishedAt": "2026-08-19T16:30:00Z",
-      "content": "Pixelsnap is one of the best things added to Pixel phones in a number of years, but it wasn’t quite a perfect first attempt. Luckily, this year those pesky magnets are a little stronger and more reli… [+1830 chars]"
     },
     {
       "source": {
@@ -269,6 +321,19 @@
     {
       "source": {
         "id": null,
+        "name": "TrueAchievements"
+      },
+      "author": null,
+      "title": "Fallout 76 finally gets its free Xbox Series X|S upgrade in September - TrueAchievements",
+      "description": "Bethesda Game Studios has announced that Fallout 76 will launch for Xbox Series X|S in September alongside a new in-game experience called The Slasher.",
+      "url": "https://www.trueachievements.com/news/fallout-76-xbox-series-xs-upgrade-release-date",
+      "urlToImage": "https://www.trueachievements.com/imgs/177670/fallout-76-finally-gets-its-free-xbox-series-xs-upgrade-in-september.jpg",
+      "publishedAt": "2026-08-19T14:01:09Z",
+      "content": "For players working their way through the Fallout 76 achievements, you'll be able to start unlocking them with a bunch of current-gen fidelity and performance improvements when the free Fallout 76 Xb… [+1752 chars]"
+    },
+    {
+      "source": {
+        "id": null,
         "name": "Nintendo Life"
       },
       "author": "Nintendo Life",
@@ -295,15 +360,15 @@
     {
       "source": {
         "id": null,
-        "name": "Thegamebusiness.com"
+        "name": "GamesIndustry.biz"
       },
-      "author": "Christopher Dring",
-      "title": "Arkane veterans Harvey Smith and Ben Horne reunite: “We’re back to the games we love” - The Game Business",
-      "description": "The heads of Black Pony Immersive chat smaller budgets, optimism, the mistakes of Redfall and why the ‘immersive sim’ is not dead",
-      "url": "https://www.thegamebusiness.com/p/arkane-veterans-harvey-smith-and",
-      "urlToImage": "https://substackcdn.com/image/fetch/$s_!ywqN!,w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-video.s3.amazonaws.com%2Fvideo_upload%2Fpost%2F211787979%2F902ef73d-f789-4a8a-9ec6-600a855b7171%2Ftranscoded-1787099387.png",
-      "publishedAt": "2026-08-19T13:01:11Z",
-      "content": "Listen now on Apple, Spotify or YouTube\r\nIn This Edition,Black Ponys Harvey Smith and Ben Horne on\r\n<ul><li>Sticking with immersive sims\r\n</li><li>Working on Redfall after being fired\r\n</li><li>Optim… [+10833 chars]"
+      "author": "Alex Spencer",
+      "title": "\"We chose the worst time in history\" – Harvey Smith on starting his own studio after Arkane - GamesIndustry.biz",
+      "description": "Black Pony Immersive has been built to create the games that Smith and his Dishonored and Deus Ex colleagues do best",
+      "url": "https://www.gamesindustry.biz/we-chose-the-worst-time-in-history-harvey-smith-on-starting-his-own-studio-after-arkane",
+      "urlToImage": "https://assetsio.gnwcdn.com/Harvey-Smith_An3f71m.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "publishedAt": "2026-08-19T13:00:00Z",
+      "content": "Microsoft's closure of Arkane Austin in May 2024 left 96 developers out of work – among them studio head Harvey Smith, whose storied career spans Deus Ex, Dishonored, and Prey. Now, after a two-year … [+4629 chars]"
     },
     {
       "source": {
@@ -399,19 +464,6 @@
     {
       "source": {
         "id": null,
-        "name": "HYPEBEAST"
-      },
-      "author": "Hypebeast Newsroom",
-      "title": "Apple Accidentally Leaks Camera-Equipped AirPods in macOS Tahoe Update - Hypebeast",
-      "description": "A macOS Tahoe 26.7 release candidate revealed a video showing camera-equipped AirPods using Visual Intelligence to log physical objects via Siri.",
-      "url": "https://hypebeast.com/2026/8/apple-camera-equipped-airpods-leak-with-visual-intelligence#article",
-      "urlToImage": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F08%2F19%2Ftwapple-camera-equipped-airpods-leak-with-visual-intelligence.jpg?w=1080&cbr=1&q=90&fit=max",
-      "publishedAt": "2026-08-19T08:04:37Z",
-      "content": "Apple inadvertently leaked a demonstration video for unreleased camera-equipped AirPods within the macOS Tahoe 26.7 release candidate.\r\nThe footage showcases a new Siri integration called Visual Inte… [+2815 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "Tom's Guide"
       },
       "author": "Mark Spoonauer",
@@ -421,6 +473,19 @@
       "urlToImage": "https://cdn.mos.cms.futurecdn.net/aUJZxCfMMXC3m2nKLVB2dV-2000-80.jpg",
       "publishedAt": "2026-08-19T07:15:00Z",
       "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Internet"
+      },
+      "author": "The Hacker News",
+      "title": "Microsoft Links 30+ Rotating Domains to MacSync Stealer Infrastructure - thehackernews.com",
+      "description": "Microsoft links 30+ domains to MacSync Stealer, tracing recurring execution and chunked exfiltration of credentials and sensitive data.",
+      "url": "https://thehackernews.com/2026/08/microsoft-links-30-rotating-domains-to.html",
+      "urlToImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLR2UjD4FhPqPT7MZpKuuqDl82K13qHQ_ob2-S_fK62g7UtwW6jn6YafX4RcZcqFgZWFbXiuCTkLbeD9zC_ws4mOUL0xVJgJ315fMiFlqxDFnhyphenhyphenIe2K8IXv3Vn1ZfWJevZywKd01wSpTS0BT08VlGtSoksz8y0ihBug5XqbRN48jy_NoQx-4fRc52Khzg/s1600/apple-macos.jpg",
+      "publishedAt": "2026-08-19T06:01:00Z",
+      "content": "Microsoft Defender Experts have linked more than 30 web domains to MacSync Stealer, a macOS-focused information stealer, after correlating recurring endpoint and network behaviors across changing inf… [+6262 chars]"
     },
     {
       "source": {
@@ -490,6 +555,19 @@
     {
       "source": {
         "id": null,
+        "name": "WindowsLatest"
+      },
+      "author": "Abhijith M B",
+      "title": "Microsoft admits it made Windows 11 worse than Windows 10 for right-click menus, promises to fix \"sluggish and cluttered\" UX - Windows Latest",
+      "description": "Microsoft admits Windows 11's context menu got cluttered and sluggish, and its new customizable redesign is already rolling out to Insiders.",
+      "url": "https://www.windowslatest.com/2026/08/19/microsoft-admits-it-made-windows-11-worse-than-windows-10-for-right-click-menus-promises-to-fix-sluggish-and-cluttered-ux/",
+      "urlToImage": "https://www.windowslatest.com/wp-content/uploads/2026/08/Microsofts-new-customizable-context-menu-fixes-the-clutter-it-once-blamed-on-Windows-10.jpg",
+      "publishedAt": "2026-08-18T20:08:35Z",
+      "content": "Microsoft has finally admitted that Windows 11’s right-click menu became “cluttered and sluggish,” and it’s rebuilding the experience with a faster default layout and control over what appears when y… [+8876 chars]"
+    },
+    {
+      "source": {
+        "id": null,
         "name": "BGR"
       },
       "author": "José Adorno",
@@ -551,32 +629,6 @@
       "urlToImage": "https://cdn.mos.cms.futurecdn.net/ofaEMEtqR9rufrNTUTTJoh-1152-80.jpg",
       "publishedAt": "2026-08-18T16:29:55Z",
       "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "TrueAchievements"
-      },
-      "author": null,
-      "title": "Teenage Mutant Ninja Turtles: Splintered Fate adds three achievements with King’s Gambit update - TrueAchievements",
-      "description": "Developer Super Evil Megacorp has rolled out the new King's Gambit update for Teenage Mutant Ninja Turtles: Splintered Fate, which includes three Xbox achievements.",
-      "url": "https://www.trueachievements.com/news/teenage-mutant-ninja-turtles-splintered-fate-kings-gambit-achievements",
-      "urlToImage": "https://www.trueachievements.com/imgs/177643/teenage-mutant-ninja-turtles-splintered-fate-adds-three-achievements-with-kings-gambit-update.jpg",
-      "publishedAt": "2026-08-18T16:29:31Z",
-      "content": "It's time to return to the Teenage Mutant Ninja Turtles: Splintered Fate achievements as three more are now up for grabs with the roguelike brawler's free King's Gambit update.According to developer … [+1535 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Gematsu"
-      },
-      "author": "Sal Romano",
-      "title": "iRacing Arcade coming to PS5, Xbox Series on August 21 - Gematsu",
-      "description": "Publisher iRacing.com Motorsport Simulations and developer Original Fire Games will release racing game iRacing Arcade for PlayStation 5 and Xbox Series on August 21, the companies announced.",
-      "url": "https://www.gematsu.com/2026/08/iracing-arcade-coming-to-ps5-xbox-series-on-august-21",
-      "urlToImage": "https://www.gematsu.com/wp-content/uploads/2026/08/iRacing-Arcade-Consoles_08-18-26.jpg",
-      "publishedAt": "2026-08-18T16:25:00Z",
-      "content": "Publisher iRacing.com Motorsport Simulations and developer Original Fire Games will release racing game iRacing Arcade for PlayStation 5 and Xbox Series on August 21, the companies announced. \r\niRaci… [+1957 chars]"
     },
     {
       "source": {
@@ -659,6 +711,19 @@
     {
       "source": {
         "id": null,
+        "name": "Gematsu"
+      },
+      "author": "Sal Romano",
+      "title": "Teenage Mutant Ninja Turtles: Splintered Fate DLC character Slash now available alongside ‘King’s Gambit’ update - Gematsu",
+      "description": "Super Evil Megacorp has released Teenage Mutant Ninja Turtles: Splintered Fate downloadable content character Slash, as well as the free “King’s Gambit” update, new cosmetic skins…",
+      "url": "https://www.gematsu.com/2026/08/teenage-mutant-ninja-turtles-splintered-fate-dlc-character-slash-now-available-alongside-kings-gambit-update",
+      "urlToImage": "https://www.gematsu.com/wp-content/uploads/2026/08/Teenage-Mutant-Ninja-Turtles-Splintered-Fate_2026_08-18-26_008.jpg",
+      "publishedAt": "2026-08-18T15:00:50Z",
+      "content": "Super Evil Megacorp has released Teenage Mutant Ninja Turtles: Splintered Fate downloadable content character Slash, as well as the free “King’s Gambit” update, new cosmetic skins, a new bundle, and … [+4992 chars]"
+    },
+    {
+      "source": {
+        "id": null,
         "name": "What Hi-Fi? US"
       },
       "author": "https://www.whathifi.com/us/author/lewis-empson, https://www.whathifi.com/us/author/alastair-stevenson",
@@ -685,19 +750,6 @@
     {
       "source": {
         "id": null,
-        "name": "Insider-gaming.com"
-      },
-      "author": "Andrew Highton",
-      "title": "How to Get & Redeem Modern Warfare 4 Beta Code—Obtain a Free Beta Key - Insider Gaming",
-      "description": "The Call of Duty: Modern Warfare 4 beta lets everyone try out most aspects of the new FPS, so get a code and know how to claim it.",
-      "url": "https://insider-gaming.com/how-to-get-redeem-modern-warfare-4-beta-code-obtain-a-free-beta-key/",
-      "urlToImage": "https://insider-gaming.com/wp-content/uploads/2026/08/How-to-Get-Redeem-Modern-Warfare-4-Beta-Code-guide.jpg",
-      "publishedAt": "2026-08-18T13:52:49Z",
-      "content": "If you’re struggling to get a Modern Warfare 4 beta code, this guide tells you everything you need to know, including how to redeem one and the chance to get one for free through Insider Gaming.\r\nHea… [+3466 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "Nintendo Life"
       },
       "author": "Nintendo Life",
@@ -707,6 +759,19 @@
       "urlToImage": "https://images.nintendolife.com/acb640e952968/large.jpg",
       "publishedAt": "2026-08-18T12:15:00Z",
       "content": "A new preview for Elden Ring: Tarnished Edition has gone live courtesy of Denfaminicogamer (thanks, Go Nintendo), and judging from the commentary and gameplay footage, it seems any lingering performa… [+1266 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Traxion.gg"
+      },
+      "author": "Martin Bigg",
+      "title": "iRacing Arcade arrives on PS5 and Xbox Series X|S this week - Traxion.GG",
+      "description": "iRacing Arcade is set to launch on PS5 and Xbox Series X|S on 21st August with four-player split-screen, new cars and new tracks.",
+      "url": "https://traxion.gg/iracing-arcade-arrives-on-ps5-and-xbox-series-xs-this-week/",
+      "urlToImage": "https://traxion.gg/wp-content/uploads/2026/08/iRacing-Arcade-arrives-on-PS5-and-Xbox-Series-this-week-1.jpg",
+      "publishedAt": "2026-08-18T11:48:19Z",
+      "content": "Following its initial PC release in March, iRacing Arcade is heading to PS5 and Xbox Series X|S later this week on 21st August.\r\nPriced at $24.99, the console version will launch with split-screen mu… [+1978 chars]"
     },
     {
       "source": {
@@ -759,19 +824,6 @@
       "urlToImage": "https://www.carscoops.com/wp-content/uploads/2026/08/SB22509-copy.jpg",
       "publishedAt": "2026-08-18T07:52:32Z",
       "content": "A hardcore Vantage RS just broke cover with a taller wing, four center pipes, and a reworked front end at the Ring \r\n<ul><li>Camouflaged prototype is bathed in wild aero parts, including a big wing.<… [+2210 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "BGR"
-      },
-      "author": "Chifundo Kasiya",
-      "title": "5 Anker Gadgets Under $25 Worth Adding To Your Kit - bgr.com",
-      "description": "Anker USB-C to Ethernet Adapter, USB-A to USB-C Adapter, 5-in-1 USB-C Hub, USB-C Charging Cable, and 10-in-1 Power Strip with 300J Surge Protector.",
-      "url": "https://www.bgr.com/2237515/anker-accessories-under-50-dollars-worth-buying/",
-      "urlToImage": "https://www.bgr.com/img/gallery/5-anker-gadgets-under-25-worth-adding-to-your-kit/l-intro-1786745203.jpg",
-      "publishedAt": "2026-08-18T01:47:00Z",
-      "content": "Every person who uses a lot of tech at once, including a desktop, monitor, phone, and audio gear, can be severely limited by a single socket. With the Anker 10-in-1 Power Strip with Surge Protector, … [+994 chars]"
     }
   ]
 }

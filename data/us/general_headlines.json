@@ -3,21 +3,86 @@
   "country": "us",
   "category": "general",
   "mode": "country",
-  "fetched_at": "2026-08-22T00:25:06.174818+00:00",
-  "articles_count": 30,
+  "fetched_at": "2026-08-22T02:42:57.296583+00:00",
+  "articles_count": 35,
   "articles": [
     {
       "source": {
+        "id": "espn",
+        "name": "ESPN"
+      },
+      "author": "ESPN",
+      "title": "Cardinals 10-9 Reds (Aug 20, 2026) Game Recap - ESPN",
+      "description": null,
+      "url": "https://www.espn.com/mlb/recap?gameId\\\\u003d401816603",
+      "urlToImage": null,
+      "publishedAt": "2026-08-20T22:45:18Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "nbc-news",
+        "name": "NBC News"
+      },
+      "author": "Ben Kamisar",
+      "title": "Democrat Aisha Wahab wins the special election for Eric Swalwell’s former California district - NBC News",
+      "description": "NBC News projects that Wahab, a state senator, defeated fellow Democrat Melissa Hernandez in the race to serve out the rest of Swalwell’s term.",
+      "url": "https://www.nbcnews.com/politics/2026-election/democrat-aisha-wahab-wins-special-election-eric-swalwells-former-calif-rcna350344",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-06/260616-Aisha-Wahab-ch-1412-93d684.jpg",
+      "publishedAt": "2026-08-20T22:41:54Z",
+      "content": "Democratic state Sen. Aisha Wahab has won the special election in Californias 14th District, NBC News projects, and will serve out the remaining months of former Rep. Eric Swalwells term.\r\nSwalwell r… [+1719 chars]"
+    },
+    {
+      "source": {
+        "id": "the-washington-post",
+        "name": "The Washington Post"
+      },
+      "author": "Perry Stein, Alexei Koseff",
+      "title": "Feds seize Eric Swalwell’s devices, search home as part of sexual assault inquiry - The Washington Post",
+      "description": "The former congressman, once considered a leading candidate in the California governor’s race, resigned after allegations surfaced in the spring.",
+      "url": "https://www.washingtonpost.com/national-security/2026/08/20/feds-seize-eric-swalwells-devices-search-home-part-sexual-assault-inquiry/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/YW7QNPFBYEI6TJ3H26VYJLXT5E.jpg&w=1440",
+      "publishedAt": "2026-08-20T22:11:53Z",
+      "content": "Federal law enforcement officials seized electronic devices belonging to former congressman Eric Swalwell (D-California) as part of an investigation of sexual assault allegations against him, accordi… [+42 chars]"
+    },
+    {
+      "source": {
         "id": null,
-        "name": "CBS Sports"
+        "name": "BBC News"
       },
       "author": null,
-      "title": "St. Louis Cardinals vs. Cincinnati Reds Results, Stats, and Recap - August 20, 2026 Gametracker - CBS Sports",
-      "description": "CBS Sports brings you live coverage, scoring, expert picks and stats for the MLB matchup between St. Louis Cardinals and Cincinnati Reds on August 20, 2026",
-      "url": "https://www.cbssports.com/mlb/gametracker/recap/MLB_20260820_STL@CIN/",
-      "urlToImage": "https://sportsfly.cbsistatic.com/fly-771/bundles/sportsmediacss/images/fantasy/default-article-image-large.png",
-      "publishedAt": "2026-08-20T22:07:30Z",
-      "content": "CINCINNATI (AP) Cincinnati's Dane Myers dropped a fly ball with two outs in the ninth, opening the flood gates in a six-run inning to give the St. Louis Cardinals a 10-9 win over the Cincinnati Reds.… [+2230 chars]"
+      "title": "Trump wants to be friends with Kim - but South Korea could pay the price - BBC",
+      "description": "US military exercises with South Korea end early on Friday, at a time when the North is in a position of strength.",
+      "url": "https://www.bbc.com/news/articles/c4gj1vje8dxo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/f73b/live/1c118420-9c76-11f1-b109-879e35c24276.jpg",
+      "publishedAt": "2026-08-20T22:01:26Z",
+      "content": "More recently, the country has joined Russia's war in Ukraine, where it has supplied what is believed to be billions of dollars' worth of artillery shells and missiles, as well as at least 13,000 tro… [+130 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Abcnews.com"
+      },
+      "author": "Angeline Jane Bernabe",
+      "title": "Brian Hickerson's attorney issues statement after Hayden Panettiere's death - ABC7 Los Angeles",
+      "description": "An investigation into the late actress's death is ongoing.",
+      "url": "https://abcnews.com/GMA/Culture/brian-hickersons-attorney-issues-statement-after-hayden-panettieres/story?id=135817617",
+      "urlToImage": "https://i.abcnewsfe.com/a/65be7462-3ec0-4c19-92fb-544523c641db/panettiere-2-gty-er-260820_1787254784123_hpMain_16x9.jpg?w=1600",
+      "publishedAt": "2026-08-20T21:57:45Z",
+      "content": "Brian Hickerson's attorney is speaking out on his behalf following Hayden Panettiere's death.\r\nHickerson, Panettiere's on-again, off-again boyfriend, was with the late actress at the time of her deat… [+2796 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Hollywood Reporter"
+      },
+      "author": "Katie Kilkenny",
+      "title": "L.A. Mayor Karen Bass Throws Her Support Behind Paramount-Warner Bros. Discovery Settlement - The Hollywood Reporter",
+      "description": "The mayor previously stated that she opposed the $111 billion merger deal unless jobs were preserved in the transaction.",
+      "url": "http://www.hollywoodreporter.com/business/business-news/karen-bass-paramount-warner-bros-discovery-settlement-1236677994/",
+      "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2026/05/GettyImages-2271711437.jpg?w=1440&h=810&crop=1",
+      "publishedAt": "2026-08-20T21:51:56Z",
+      "content": "Los Angeles Mayor Karen Bass has changed her tone on the proposed merger between Paramount and Warner Bros. Discovery. The mayor, who is running for reelection this year, previously opposed the $111 … [+3236 chars]"
     },
     {
       "source": {
@@ -35,15 +100,41 @@
     {
       "source": {
         "id": null,
-        "name": "Hollywood Reporter"
+        "name": "Space.com"
       },
-      "author": "Chris Gardner",
-      "title": "Neutrogena Responds to Backlash in Wake of Onetime Ambassador Hayden Panettiere’s Death - The Hollywood Reporter",
-      "description": "\"This is not what Neutrogena stands for or who we want to be,\" said the brand in acknowledging that Panettiere felt unsupported after revealing her struggle with postpartum depression.",
-      "url": "http://www.hollywoodreporter.com/news/general-news/neutrogena-hayden-panettiere-postpartum-depression-boycott-1236677969/",
-      "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/GettyImages-184472951.jpg?w=1296&h=730&crop=1",
-      "publishedAt": "2026-08-20T20:39:12Z",
-      "content": "Neutrogena released a statement Thursday about the death of Hayden Panettiere, the brand’s former 10-year-long ambassador, in the wake of a social media firestorm and proposed boycott. The company sa… [+2533 chars]"
+      "author": "Leonard David",
+      "title": "China's Chang'e 7 moon probe will launch this weekend on the most ambitious lunar mission in history - Space",
+      "description": "\"Chang'e-7 is the most ambitious, comprehensive, and complex robotic lunar mission ever attempted by any nation or entity.\"",
+      "url": "https://www.space.com/astronomy/moon/chinas-change-7-moon-probe-will-launch-this-weekend-on-the-most-ambitious-lunar-mission-in-history",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/34Zqz34tvj4zEcozEBx3qB-1920-80.jpg",
+      "publishedAt": "2026-08-20T21:00:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Pats Pulpit"
+      },
+      "author": "Brian Hines, Bernd Buchmasser",
+      "title": "5 performances of note from the second Patriots-Eagles joint practice - Pats Pulpit",
+      "description": "Who caught our eye during the Patriots’ joint practice on Thursday.",
+      "url": "https://www.patspulpit.com/new-england-patriots-training-camp/133931/winners-losers-second-joint-practice-eagles",
+      "urlToImage": "https://platform.patspulpit.com/wp-content/uploads/sites/121/2026/08/gettyimages-2291159940.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C78.543773881224&w=1200",
+      "publishedAt": "2026-08-20T20:52:14Z",
+      "content": "The public portion of the New England Patriots 2026 training camp is over, and it ended with one of the most eventful days of the summer. Squaring off against the Philadelphia Eagles for a second str… [+3089 chars]"
+    },
+    {
+      "source": {
+        "id": "associated-press",
+        "name": "Associated Press"
+      },
+      "author": "Christopher Rugaber, Stan Choe",
+      "title": "Why Treasury Secretary Bessent’s moves to calm the bond market haven’t worked so far - AP News",
+      "description": "Interest rates rebounded Thursday despite efforts by Treasury Secretary Scott Bessent to put a lid on longer-term borrowing costs. The yield on the 10-year Treasury note, a key benchmark for mortgage rates, rose back to 4.69% Thursday. That is nearly where it…",
+      "url": "https://apnews.com/article/rates-bond-market-bessent-inflation-c6e148f8235a98245adf04b2d4bdd8d1",
+      "urlToImage": "https://dims.apnews.com/dims4/default/fafa4fb/2147483647/strip/true/crop/3936x2623+0+5/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fcd%2F17%2F458a9e255e9cce90ac4352909e78%2Ffc8b2e6fa86d4f0181b7b450c56c19b0",
+      "publishedAt": "2026-08-20T20:25:00Z",
+      "content": "WASHINGTON (AP) Interest rates rebounded Thursday despite efforts by Treasury Secretary Scott Bessent to put a lid on longer-term borrowing costs, a sign Wall Street investors remain worried about bu… [+6002 chars]"
     },
     {
       "source": {
@@ -60,55 +151,55 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "WPVI-TV"
+        "id": "the-hill",
+        "name": "The Hill"
       },
-      "author": "6abc Digital Staff",
-      "title": "Police identify man accused of wearing Chucky-style Halloween mask, terrorizing people in Center City Philadelphia - 6abc Philadelphia",
-      "description": "An arrest warrant has been issued for 22-year-old Zymire Hughes, police announced on Thursday.",
-      "url": "https://6abc.com/post/police-identify-man-accused-wearing-chucky-style-halloween-mask-terrorizing-people-center-city-philadelphia/19708842/",
-      "urlToImage": "https://cdn.abcotvs.com/dip/images/19708871_hughes2.png?w=1600",
-      "publishedAt": "2026-08-20T20:05:13Z",
-      "content": "PHILADELPHIA (WPVI) -- Philadelphia police say that they have identified the man accused of wearing a Chucky-style Halloween mask and terrorizing residents in Center City.\r\nAn arrest warrant has been… [+3007 chars]"
+      "author": "Sudiksha Kochi, Helen Huiskes",
+      "title": "GOP, Democrats lament $40 trillion debt as Congress struggles to act - The Hill",
+      "description": "Lawmakers are sounding the alarm over the nation’s $40 trillion debt, lamenting Congress’s inability to meaningfully confront a problem that has grown increasingly difficult to ignore. Both parties have spent years trying to tackle the rising debt. Republican…",
+      "url": "https://thehill.com/homenews/house/6042281-lawmakers-debate-national-debt/",
+      "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2026/07/scottrick_071626gn01_w.jpg?w=1280",
+      "publishedAt": "2026-08-20T20:07:00Z",
+      "content": "Skip to content\r\nLawmakers are sounding the alarm over the nation’s $40 trillion debt, lamenting Congress’s inability to meaningfully confront a problem that has grown increasingly difficult to ignor… [+5971 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": null,
+      "title": "Police identify suspect accused of terrorizing Philadelphia women while wearing creepy Chucky-style mask - Fox News",
+      "description": "Surveillance video allegedly shows Zymire Hughes, 22, wearing a creepy Halloween mask and chasing women in Philadelphia before a combat-trained woman fought back.",
+      "url": "https://www.foxnews.com/us/police-identify-suspect-accused-terrorizing-philadelphia-women-wearing-creepy-chucky-style-mask",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/08/police-id-suspect-terrorzing-women-wearing-doll-mask-1.jpg",
+      "publishedAt": "2026-08-20T19:36:08Z",
+      "content": "The suspected masked menace who is accused of terrorizing women around the streets of Philadelphia last week is actively trying to avoid law enforcement, officials said Thursday.  \r\nNow, they're aski… [+4039 chars]"
+    },
+    {
+      "source": {
+        "id": "the-hill",
+        "name": "The Hill"
+      },
+      "author": "Filip Timotija",
+      "title": "Aircraft carrier arrives in Middle East to relieve USS Abraham Lincoln after lengthy deployment - The Hill",
+      "description": "The USS George Washington aircraft carrier arrived in the Middle East theater this week to provide relief for the USS Abraham Lincoln, whose lengthy deployment has drawn scrutiny over reports of worsening sailors’ mental health and supply shortages while supp…",
+      "url": "https://thehill.com/policy/defense/6042201-uss-george-washington-middle-east/",
+      "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2026/08/AP26225614336401.jpg?w=1280",
+      "publishedAt": "2026-08-20T19:27:00Z",
+      "content": "Skip to content\r\nThe USS George Washington aircraft carrier arrived in the Middle East theater this week to provide relief for the USS Abraham Lincoln, whose lengthy deployment has drawn scrutiny ove… [+1768 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "WCVB Boston"
+        "name": "9to5Mac"
       },
-      "author": "Veronica Haynes, Ted Wayman",
-      "title": "Search ends for day without finding woman sought in Worcester officer’s death - WCVB",
-      "description": "The search for Karen Solomon continues after Worcester police found her husband, Patrolman Kurt Solomon, dead at their home.",
-      "url": "https://www.wcvb.com/article/worcester-police-officer-death-search-solomon-august-20/73482051",
-      "urlToImage": "https://kubrick.htvapps.com/htv-prod/images/ca3335da-f4b9-4222-82f8-e052972c9865.jpg?crop=1.00xw%3A1.00xh%3B0%2C0&resize=1200%3A*",
-      "publishedAt": "2026-08-20T20:01:00Z",
-      "content": "WORCESTER, Mass.The search for a woman considered armed and dangerous after her off-duty Worcester, Massachusetts, police officer husband was found dead at their home was suspended Thursday afternoon… [+2241 chars]"
-    },
-    {
-      "source": {
-        "id": "the-washington-post",
-        "name": "The Washington Post"
-      },
-      "author": "Dan Lamothe",
-      "title": "New aircraft carrier arrives in Arabian Sea to replace long-stationed USS Abraham Lincoln - The Washington Post",
-      "description": "The USS George Washington is relieving a vessel that has gone months without a port stop.",
-      "url": "https://www.washingtonpost.com/politics/2026/08/20/new-aircraft-carrier-arrives-arabian-sea-replace-long-stationed-uss-abraham-lincoln/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/EUAPPSEOSMLC73SCSRMZHGZ5JU_size-normalized.jpg&w=1440",
-      "publishedAt": "2026-08-20T18:33:08Z",
-      "content": "U.S. military officials said Thursday that the aircraft carrier USS George Washington has made it to the Arabian Sea, where it will replace a similar vessel that has gone months without a port stop a… [+16 chars]"
-    },
-    {
-      "source": {
-        "id": "nbc-news",
-        "name": "NBC News"
-      },
-      "author": "Tom Winter, Doha Madani",
-      "title": "FBI thwarts an alleged ISIS-inspired plot to bomb New York capitol building - NBC News",
-      "description": "A woman has been charged with providing support to a terror group after allegedly plotting an ISIS-inspired attack on the New York State Capitol building in Albany, federal officials said Thursday.",
-      "url": "https://www.nbcnews.com/news/us-news/fbi-thwarts-isis-plot-bomb-new-york-capitol-building-rcna593595",
-      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-08/260820-Albany-New-York-State-Capital-building-vl-154p-9aaa2f.jpg",
-      "publishedAt": "2026-08-20T18:15:01Z",
-      "content": "A woman has been charged with providing support to a terror group after allegedly plotting an ISIS-inspired attack on the New York State Capitol building in Albany, federal officials said Thursday. \r… [+1507 chars]"
+      "author": "Ryan Christoffel",
+      "title": "AirPods Pro 3 and more just got new firmware release in beta - 9to5Mac",
+      "description": "Apple has released new AirPods beta firmware today, it’s available for AirPods Pro 3 and select other models. Here are the details.",
+      "url": "https://9to5mac.com/2026/08/20/airpods-pro-3-and-more-just-got-new-firmware-release-in-beta/",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/09/iphone-17-event-13.05.11.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2026-08-20T18:33:00Z",
+      "content": "Apple has released new AirPods beta firmware today for developers and public beta testers. Its available for AirPods Pro 3 and select other models. Here are the details.\r\nAhead of iOS 27s launch next… [+1235 chars]"
     },
     {
       "source": {
@@ -138,16 +229,29 @@
     },
     {
       "source": {
-        "id": "associated-press",
-        "name": "Associated Press"
+        "id": null,
+        "name": "BBC News"
       },
-      "author": "Michael R. Sisak",
-      "title": "Speedboat driver in fatal New York Harbor capsizing was in the US illegally, authorities say - AP News",
-      "description": "The pilot of a speedboat that capsized during a tour around the Statue of Liberty has been arrested by U.S. immigration authorities who say he was in the country illegally. The Department of Homeland Security said Wednesday that Manuel Ernesto Hernandez-Umana…",
-      "url": "https://apnews.com/article/new-york-harbor-baby-woman-capsized-boat-768a55755ff3e81c5ba142a24f8312b5",
-      "urlToImage": "https://dims.apnews.com/dims4/default/212d457/2147483647/strip/true/crop/3024x2015+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F47%2Fc5%2F9209fce0becb8583df765a696acf%2F36b90d039a1a49729d40e9603cd9e8c9",
-      "publishedAt": "2026-08-20T18:06:00Z",
-      "content": "NEW YORK (AP) The pilot of a speedboat that capsized during a tour around the Statue of Liberty, drowning an infant and her mother, has been arrested by U.S. immigration authorities who say he was in… [+3150 chars]"
+      "author": null,
+      "title": "Harry and Meghan's return to UK reignites questions over security - BBC",
+      "description": "Their surprise announcement means a fresh decision will need to be made on the level of publicly funded protection they are entitled to.",
+      "url": "https://www.bbc.com/news/articles/cr59yg34r4mo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/534c/live/9495e5d0-9ca3-11f1-a291-b542ee92de7c.jpg",
+      "publishedAt": "2026-08-20T18:12:59Z",
+      "content": "Prince Harry and Meghan plan to relocate from the US to a private, non-royal residence outside London, with their children, Prince Archie, seven, and Princess Lilibet, five, enrolled to start at scho… [+15 chars]"
+    },
+    {
+      "source": {
+        "id": "cbs-news",
+        "name": "CBS News"
+      },
+      "author": "Frank  Andrews",
+      "title": "Live Updates: Iran dismisses Trump's \"economic D-Day\" threat, says it \"will only bring further defeat\" - CBS News",
+      "description": "Iran has shrugged off President Trump's threat to hit the Islamic Republic with an \"economic D-Day\" as a \"doubling down on failed policies.\"",
+      "url": "https://www.cbsnews.com/live-updates/iran-war-donald-trump-us-economic-threat-defeat/",
+      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/08/20/19a0f9db-da98-49c5-8c73-7a078c714096/thumbnail/1200x630g2/9ec528441e24fd0d24b2e2de34637897/gettyimages-2290522805.jpg",
+      "publishedAt": "2026-08-20T18:12:00Z",
+      "content": "Iran on Thursday executed an Afghan national convicted of the killing of police officers during anti-government demonstrations, the 30th in a wave of hangings since the start of the Iran war, a right… [+1495 chars]"
     },
     {
       "source": {
@@ -164,19 +268,6 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "9to5Mac"
-      },
-      "author": "Zac Hall",
-      "title": "ChatGPT update adds Apple Messages integration on Mac - 9to5Mac",
-      "description": "Well, this seems interesting. ChatGPT’s latest update adds a new Mac integration: the ability to work with conversations from Apple’s...",
-      "url": "https://9to5mac.com/2026/08/20/chatgpt-update-adds-apple-messages-integration-on-mac/",
-      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/08/chatgpt-messages.webp?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "publishedAt": "2026-08-20T17:59:00Z",
-      "content": "Well, this seems interesting. ChatGPTs latest update adds a new Mac integration: the ability to work with conversations from Apples Messages app. The feature works with iMessage, SMS, and RCS.\r\nThe n… [+3425 chars]"
-    },
-    {
-      "source": {
         "id": "cbs-news",
         "name": "CBS News"
       },
@@ -190,16 +281,16 @@
     },
     {
       "source": {
-        "id": "the-hill",
-        "name": "The Hill"
+        "id": null,
+        "name": "EL PAÍS"
       },
-      "author": "Alix Martichoux",
-      "title": "NOAA releases fall weather predictions for all 50 states as El Niño grows stronger - The Hill",
-      "description": "Fall is just around the corner, but summer weather may be sticking around a little while longer.",
-      "url": "https://thehill.com/policy/energy-environment/6041581-noaa-releases-fall-weather-predictions-for-all-50-states-as-el-nino-grows-stronger/",
-      "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2026/08/GettyImages-1177300624.jpg?w=1280",
-      "publishedAt": "2026-08-20T17:08:00Z",
-      "content": "Skip to content\r\n(NEXSTAR) – Fall is just around the corner, but summer weather may be sticking around a little while longer. A seasonal outlook released by national forecasters on Thursday shows mos… [+2780 chars]"
+      "author": "Prosper Heri",
+      "title": "Ebola outbreak out of control in Democratic Republic of the Congo, WHO says: ‘It is spreading faster than our ability to contain it’ - EL PAÍS English",
+      "description": "Over 5,000 people have contracted the disease and 2,420 have died in an epidemic that is already the deadliest in the country’s history, hitting communities displaced by war",
+      "url": "https://english.elpais.com/international/2026-08-20/ebola-outbreak-out-of-control-in-democratic-republic-of-the-congo-who-says-it-is-spreading-faster-than-our-ability-to-contain-it.html",
+      "urlToImage": "https://imagenes.elpais.com/resizer/v2/WCM56SH7TFPUNGD6PIKHCVXNIM.jpg?auth=b01d0a73ed9ae68c159419390ad77efdb1cd5c178bc1dbf5737b37d83b1107e2&width=1200",
+      "publishedAt": "2026-08-20T17:10:37Z",
+      "content": null
     },
     {
       "source": {
@@ -219,13 +310,13 @@
         "id": null,
         "name": "NPR"
       },
-      "author": "Scott Horsley",
-      "title": "Three things to know about the $40 trillion federal debt - NPR",
-      "description": "The U.S. federal debt hit a record $40 trillion this week. The debt has doubled since 2017, and just paying interest on the accumulated debt now costs the government more than $1 trillion a year.",
-      "url": "https://www.npr.org/2026/08/20/nx-s1-5939473/40-trillion-federal-debt",
-      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8216x4622+0+428/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fb6%2Fa0%2F506bb6d54c868aa88475ac2c643a%2Fgettyimages-2290607514.jpg",
-      "publishedAt": "2026-08-20T16:50:41Z",
-      "content": "Sign up for the Planet Money newsletter. The world is confusing. Economics can help.\r\nThe Treasury Department reported this week that the U.S. federal debt had reached $40 trillion, an eye-popping le… [+2863 chars]"
+      "author": "Sydney Lupkin",
+      "title": "What to know about Dr. Heidi Overton, Trump's pick to lead the FDA - NPR",
+      "description": "Dr. Heidi Overton is currently working as a White House policy aide. If confirmed, she would lead an agency of 18,000 staffers who study and regulate food, drugs, medical devices, tobacco and more.",
+      "url": "https://www.npr.org/2026/08/20/nx-s1-5939549/heidi-overton-fda-commissioner-trump-senate-nomination",
+      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6000x3375+0+313/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ffc%2F2d%2Fc70abf054c1dbce79346ac29142b%2Fap26222696212458.jpg",
+      "publishedAt": "2026-08-20T16:49:11Z",
+      "content": "President Trump posted on Truth Social that he is nominating Dr. Heidi Overton to be the next FDA commissioner.\r\nOverton would fill a vacancy left by Dr. Marty Makary, who resigned in May\r\n after lea… [+2935 chars]"
     },
     {
       "source": {
@@ -255,19 +346,6 @@
     },
     {
       "source": {
-        "id": "nbc-news",
-        "name": "NBC News"
-      },
-      "author": "Rebecca Cohen, Daniel Arkin, Pilar Melendez",
-      "title": "Hayden Panettiere’s mom says narcotics investigator was called into police probe of her death - NBC News",
-      "description": "A narcotics investigator has joined the South Carolina police investigation into the death of “Heroes” and “Nashville” star Hayden Panettiere, according to her mother.",
-      "url": "https://www.nbcnews.com/news/us-news/hayden-panettieres-mom-says-narcotics-investigator-was-called-police-p-rcna593533",
-      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-08/260817-hayden-panettiere-mn-0850-66c3d0.jpg",
-      "publishedAt": "2026-08-20T15:41:21Z",
-      "content": "Aug. 20, 2026, 10:30 AM EDT / Updated Aug. 20, 2026, 11:41 AM EDT\r\nA narcotics investigator has joined the South Carolina police investigation into the death of Heroes and Nashville star Hayden Panet… [+85 chars]"
-    },
-    {
-      "source": {
         "id": null,
         "name": "NPR"
       },
@@ -291,19 +369,6 @@
       "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/08/afp_6a864ff53b0a-1787187189.jpg?resize=1920%2C1440",
       "publishedAt": "2026-08-20T15:13:05Z",
       "content": "Russian forces have launched ballistic missile attacks on Ukraines capital Kyiv, killing at least 16 people and wounding 33, officials said.\r\nExplosions rang out across several districts of Kyiv earl… [+5169 chars]"
-    },
-    {
-      "source": {
-        "id": "associated-press",
-        "name": "Associated Press"
-      },
-      "author": null,
-      "title": "Congo to receive 70,000 doses of Ervebo Ebola vaccine which has been effective in past outbreaks - AP News",
-      "description": "The World Health Organization says Congo will receive 70,000 doses of the Ervebo vaccine. This move is seen as a major boost to efforts to contain what officials describe as the fastest Ebola outbreak in history. The Ervebo vaccine is licensed for Ebola virus…",
-      "url": "https://apnews.com/article/congo-evola-vaccine-4aca46b218e114474ab43ca7868250bc",
-      "urlToImage": "https://dims.apnews.com/dims4/default/222ef41/2147483647/strip/true/crop/6000x3998+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fb0%2F30%2F5a6f5ca839228843c08f566d3377%2F148d0aca8ba843f1a3ee646a56f7690d",
-      "publishedAt": "2026-08-20T14:41:42Z",
-      "content": "BUNIA, Congo (AP) Congo will receive 70,000 doses of the Ervebo vaccine, which has been effective in past Ebola outbreaks, the World Health Organization and partners said Thursday, announcing a step … [+2299 chars]"
     },
     {
       "source": {
@@ -360,19 +425,6 @@
     {
       "source": {
         "id": null,
-        "name": "TribLIVE"
-      },
-      "author": "Kevin Gorman",
-      "title": "Kevin Gorman’s Take 5: For Pirates ace Paul Skenes, every pitch will be under scrutiny - TribLIVE.com",
-      "description": "There have been rampant rumors about what is wrong with Paul Skenes, who has gone from otherworldly in winning National League rookie of the year and Cy Young awards in his first two MLB seasons to being slightly better than league-average this season. Analys…",
-      "url": "https://triblive.com/sports/kevin-gormans-take-5-for-pirates-ace-paul-skenes-every-pitch-will-be-under-scrutiny/",
-      "urlToImage": "https://assets-varnish.triblive.com/2026/08/9864867_web1_ptr-BucsTigers13-082026.jpg",
-      "publishedAt": "2026-08-20T10:05:58Z",
-      "content": "There have been rampant rumors about what is wrong with Paul Skenes, who has gone from otherworldly in winning National League rookie of the year and Cy Young awards in his first two MLB seasons to b… [+11973 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "Detroit Free Press"
       },
       "author": "Kristen Jordan Shamus",
@@ -386,15 +438,28 @@
     {
       "source": {
         "id": null,
-        "name": "Space.com"
+        "name": "Deadline"
       },
-      "author": "Anthony Wood",
-      "title": "A 96% partial lunar eclipse is just 1 week away: Here's what you need to know - Space",
-      "description": "Earth's curved inner shadow will darken the moon's disk during the Aug. 27-28 partial lunar eclipse.",
-      "url": "https://www.space.com/stargazing/lunar-eclipses/a-96-percent-partial-lunar-eclipse-is-just-1-week-away-heres-what-you-need-to-know-aug-27-28",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/N2BCZ77SNSnDoByrU72PQJ-2560-80.jpg",
-      "publishedAt": "2026-08-20T10:00:00Z",
-      "content": null
+      "author": "Nellie Andreeva",
+      "title": "'SoA's Kurt Sutter Reacts To Charlie Hunnam's FX Series 'Legends' - Deadline",
+      "description": "'Sons Of Anarchy' creator Kurt Sutter endorses Charlie Hunnam FX limited series 'Legends' that reunites cast of biker drama: \"I Think You'll Dig It.\"",
+      "url": "http://deadline.com/2026/08/kurt-sutter-reaction-charlie-hunnam-legends-fx-series-1237046044/",
+      "urlToImage": "https://deadline.com/wp-content/uploads/2026/08/HunnamSutter.jpg?w=1024",
+      "publishedAt": "2026-08-20T05:34:00Z",
+      "content": "Sons of Anarchy creator/executive producer Kurt Suttertook to Instagram to assure his followers that he is OK with series star Charlie Hunnam and FX doing a meta take on his motorcycle gang drama wit… [+2513 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "LancasterOnline"
+      },
+      "author": "ANNE GARBER | Health reporter",
+      "title": "Potential measles exposure at Millersville University and Whole Foods Market - LancasterOnline",
+      "description": "Two individuals infected with measles may have exposed others at Millersville University and Whole Foods Market earlier this month, the state Department of Health announced today.",
+      "url": "https://lancasteronline.com/news/health/potential-measles-exposure-at-millersville-university-and-whole-foods-market/article_394f83cc-8919-4c8b-aaa1-18de42191a3f.html",
+      "urlToImage": "https://bloximages.newyork1.vip.townnews.com/lancasteronline.com/content/tncms/assets/v3/editorial/5/cf/5cfb08d4-0f85-11e9-9f4d-f712ac28af88/5c2e544ba1f7f.image.jpg?crop=1788%2C939%2C0%2C109&resize=1200%2C630&order=crop%2Cresize",
+      "publishedAt": "2026-08-19T17:49:00Z",
+      "content": "Two individuals infected with measles may have exposed others at Millersville University and Whole Foods Market earlier this month, the state Department of Health announced today.\r\nAttendees at a soc… [+3248 chars]"
     }
   ]
 }

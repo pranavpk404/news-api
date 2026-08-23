@@ -3,21 +3,34 @@
   "country": "us",
   "category": "business",
   "mode": "country",
-  "fetched_at": "2026-08-22T22:06:52.653529+00:00",
-  "articles_count": 59,
+  "fetched_at": "2026-08-23T00:26:54.045664+00:00",
+  "articles_count": 62,
   "articles": [
     {
       "source": {
-        "id": null,
-        "name": "CNBC"
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
       },
-      "author": "Sean Conlon, Justina Lee, Fred Imbert, Chloe Taylor",
-      "title": "Dow surges 500 points Friday, but index posts back-to-back weekly losses: Live updates - CNBC",
-      "description": "Stocks rose on Friday as investors tried to find their footing following a steep sell-off driven by rising Treasury yields.",
-      "url": "https://www.cnbc.com/2026/08/20/stock-market-today-live-updates.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108346678-1787342633884-108346678-17861152912026-08-07t150406z_1699965828_rc2ptmaa9np4_rtrmadp_0_usa-stocks.jpeg?v=1787342651&w=1920&h=1080",
-      "publishedAt": "2026-08-21T20:02:00Z",
-      "content": "The S&amp;P 500 rose on Friday as investors tried to find their footing following a steep sell-off driven by rising Treasury yields. \r\nThe broad market index climbed 0.43% to end at 7,674.37, while t… [+2140 chars]"
+      "author": "WSJ",
+      "title": "Stock Market Today: Dow Opens Higher; Yields Steady; Bitcoin in Focus — Live Updates - WSJ",
+      "description": null,
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-21-2026",
+      "urlToImage": null,
+      "publishedAt": "2026-08-21T22:00:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Fox Business"
+      },
+      "author": "Brie Stimson",
+      "title": "TikTok agrees to pay $400 million to settle Justice Department children's privacy case - Fox Business",
+      "description": "The DOJ called the $400 million TikTok settlement a major victory for American children and parents, citing strengthened privacy safeguards.",
+      "url": "https://www.foxbusiness.com/technology/tiktok-agrees-pay-400-million-settle-justice-department-childrens-privacy-case",
+      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/08/0/0/tiktok-over-american-flag.jpg?ve=1&tl=1",
+      "publishedAt": "2026-08-21T21:53:00Z",
+      "content": "The U.S. Department of Justice has secured a $400 million settlement with TikTok and parent company ByteDance in a case related to children’s privacy legislation, the DOJ announced Friday.\r\n\"This set… [+2818 chars]"
     },
     {
       "source": {
@@ -34,16 +47,29 @@
     },
     {
       "source": {
+        "id": "fortune",
+        "name": "Fortune"
+      },
+      "author": "Camila Grigera Naón",
+      "title": "Bitcoin soars to nearly $80,000—but crypto’s new favorite coin, Hyperliquid, is stealing its thunder - Fortune",
+      "description": "Bitcoin’s rally to $78,200 coincided with a record run for Hyperliquid as active traders increasingly use the platform to place leveraged bets on crypto prices.",
+      "url": "https://fortune.com/2026/08/21/bitcoin-cryptos-new-favorite-coin-hyperliquid-thunder/",
+      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/08/GettyImages-1340690121-e1787340151203.jpg?resize=1200,600",
+      "publishedAt": "2026-08-21T19:26:00Z",
+      "content": "Bitcoin is surging again. The cryptocurrency climbed above $78,200 on Friday for the first time since May. But it wasnt the only crypto asset posting big gains. Hyperliquid, the decentralized perpetu… [+2792 chars]"
+    },
+    {
+      "source": {
         "id": "usa-today",
         "name": "USA Today"
       },
-      "author": "Daniel de Visé",
-      "title": "Oura ring doesn't accurately measure sleep quality, lawsuit says - USA Today",
-      "description": "Oura rings are popular tools for measuring how well Americans sleep. A new lawsuit alleges, however, that much of the data is really hogwash.",
-      "url": "https://www.usatoday.com/story/money/2026/08/21/oura-rings-sleep-lawsuit/91402959007/",
-      "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/08/21/USAT/91404283007-getty-images-2266983487.jpg?crop=2119,1193,x0,y110&width=2119&height=1193&format=pjpg&auto=webp",
-      "publishedAt": "2026-08-21T19:02:00Z",
-      "content": "Oura rings oversell their ability to track a wearers sleep, a new class-action lawsuit alleges. \r\nMany Americans struggle with sleep. Oura rings promise to help people measure the length and quality … [+4743 chars]"
+      "author": "Gabe Hauari, James Powel",
+      "title": "Buc-ee's CEO eyes 'conservative, business-friendly states' for expansion - USA Today",
+      "description": "Buc-ee's co-founder and CEO Arch Aplin III recently said the company seeks expansion opportunities in \"conservative, business-friendly states.\"",
+      "url": "https://www.usatoday.com/story/money/2026/08/21/bucees-ceo-conservative-states-expansion-new-locations/91407096007/",
+      "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/08/21/USAT/91407364007-20260804-t-123150-z-637661164-mt-1-usatoday-29509779-rtrmadp-3-buceesinrockinghamcountyopenedtothepublicjune-30.JPG?crop=4372,2459,x0,y410&width=3200&height=1800&format=pjpg&auto=webp",
+      "publishedAt": "2026-08-21T19:14:00Z",
+      "content": "Buc-ee's is continuing its rapid expansion across the country, with its 58th location recently opening in Benton, Arkansas, continuing a trend leadership says is part of the popular travel center and… [+4321 chars]"
     },
     {
       "source": {
@@ -112,6 +138,19 @@
     },
     {
       "source": {
+        "id": "usa-today",
+        "name": "USA Today"
+      },
+      "author": "Melina Khan",
+      "title": "Blueberries, guacamole, granola. See list of recent food recalls - USA Today",
+      "description": "Do you have these products in your kitchen? See which foods have been recalled recently.",
+      "url": "https://www.usatoday.com/story/money/food/2026/08/21/recent-food-recalls-list-fda-2026/91400969007/",
+      "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/08/21/USAT/91403954007-mix-collage-21-aug-20261125-am-8536.jpg?crop=1439,810,x0,y54&width=1439&height=810&format=pjpg&auto=webp",
+      "publishedAt": "2026-08-21T17:13:00Z",
+      "content": "From snacks and produce to eggs and meat, recent recalls are affecting products across every food group.\r\nWhile a widespread jalapeno recall and linked salmonella outbreak is top of mind for many con… [+7445 chars]"
+    },
+    {
+      "source": {
         "id": "the-verge",
         "name": "The Verge"
       },
@@ -135,32 +174,6 @@
       "urlToImage": "https://s.yimg.com/lo/mysterio/api/618A8B2DF4F5D6A7370E26F272928243E0812C3F97FB523D4CFA52C6003AA60D/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fb6f43ff8-8c72-4df1-81bd-bb6b030f5056_c22a985cfea55c0ce082f560b0467a17054f45718146c31d0da63982857eff4c.jpg",
       "publishedAt": "2026-08-21T16:59:21Z",
       "content": "Stocks shrugged it off, but bond yields moved higher for a second straight day on Friday, the latest sign that the US Treasury's intervention efforts have been a bust.\r\nThe 30-year Treasury yield was… [+2429 chars]"
-    },
-    {
-      "source": {
-        "id": "bloomberg",
-        "name": "Bloomberg"
-      },
-      "author": "Hema Parmar, Katherine Burton",
-      "title": "Citadel Sold More Than 80% of Situational Awareness Bets - Bloomberg.com",
-      "description": "Ken Griffin’s Citadel has offloaded more than 80% of the aggregate risk associated with the Situational Awareness stock portfolio it snagged from the embattled AI hedge fund.",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-21/citadel-sold-more-than-4-billion-of-situational-awareness-bets",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/igbUHwz2PEU4/v0/1200x800.jpg",
-      "publishedAt": "2026-08-21T16:37:09Z",
-      "content": "Ken Griffins Citadel has offloaded more than 80% of the aggregate risk associated with the Situational Awareness stock portfolio it snagged from the embattled AI hedge fund. \r\nIn this effort, we have… [+200 chars]"
-    },
-    {
-      "source": {
-        "id": "usa-today",
-        "name": "USA Today"
-      },
-      "author": "Rachel Barber",
-      "title": "‘Where’s the humanity?’ Why job seekers say hiring is ‘broken’ - USA Today",
-      "description": "Fierce competition, AI, and a lack of trust in employers have further complicated the hiring process for job seekers. Why some feel it is \"broken.\"",
-      "url": "https://www.usatoday.com/story/money/economy/2026/08/21/job-seekers-say-hiring-is-broken-why/91370272007/",
-      "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/08/19/USAT/91373897007-20250612-t-131759-z-7809795-rc-2-qddamii-0-t-rtrmadp-3-usatrumpworkers.JPG?crop=6499,3656,x0,y339&width=3200&height=1801&format=pjpg&auto=webp",
-      "publishedAt": "2026-08-21T16:26:00Z",
-      "content": "After getting a layoff notice in May, engineer Todd Hendricks, 46, started his job search. One Friday, he signed on to Zoom for the coding round of a multistep interview process and waited for someon… [+10169 chars]"
     },
     {
       "source": {
@@ -217,6 +230,19 @@
     {
       "source": {
         "id": null,
+        "name": "Financial Times"
+      },
+      "author": null,
+      "title": "Citadel offloads 80% of portfolio scooped up from Situational Awareness - Financial Times",
+      "description": "Ken Griffin’s hedge fund has executed more than $4bn worth of block trades in recent weeks",
+      "url": "https://www.ft.com/content/1603577e-89d8-4cfa-884b-b83fbb8dd20e?syn-25a6b1a6\\\\u003d1",
+      "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F0207d21c-4fc3-4727-b54e-31f4c20d80dc.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
+      "publishedAt": "2026-08-21T14:50:54Z",
+      "content": "Then $75 per month. Complete digital access to quality FT journalism on any device. Cancel anytime during your trial."
+    },
+    {
+      "source": {
+        "id": null,
         "name": "Investor's Business Daily"
       },
       "author": null,
@@ -226,6 +252,19 @@
       "urlToImage": "https://www.investors.com/wp-content/uploads/2020/11/Stock-moderna-02-shutt.jpg",
       "publishedAt": "2026-08-21T14:49:00Z",
       "content": "Information in Investors Business Daily is for informational and educational purposes only and should not be construed as an offer, recommendation, solicitation, or rating to buy or sell securities. … [+1064 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Aisha Malik",
+      "title": "Oura faces lawsuit accusing it of misleading consumers about sleep-tracking accuracy - TechCrunch",
+      "description": "The lawsuit alleges that Oura rings are unable to measure any of the physiological signals needed to assess sleep quality or determine sleep stages.",
+      "url": "https://techcrunch.com/2026/08/21/oura-faces-lawsuit-accusing-it-of-misleading-consumers-about-sleep-tracking-accuracy/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/05/Oura_Ring_5_Product-1_Collection.png?resize=1200,800",
+      "publishedAt": "2026-08-21T14:39:24Z",
+      "content": "A proposed class action lawsuit is accusing smart ring maker Oura of deceiving consumers about the accuracy of its sleep tracking features. \r\nThe lawsuit, filed on Thursday by Clarkson Law Firm in Sa… [+2732 chars]"
     },
     {
       "source": {
@@ -256,15 +295,15 @@
     {
       "source": {
         "id": null,
-        "name": "Financial Times"
+        "name": "The Points Guy"
       },
-      "author": null,
-      "title": "Uber set for €825mn Dutch fine over automating driver suspensions - Financial Times",
-      "description": "Regulator says ride-hailing group deactivated driver accounts through automated systems without adequately informing them",
-      "url": "https://www.ft.com/content/6a068501-ec65-4061-9716-49c4124025d6?syn-25a6b1a6\\\\u003d1",
-      "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fe9f3a95d-241e-40a3-9787-a89c48da0e6f.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
-      "publishedAt": "2026-08-21T14:25:42Z",
-      "content": "Then $75 per month. Complete digital access to quality FT journalism on any device. Cancel anytime during your trial."
+      "author": "Edward Russell",
+      "title": "Court overturns DOT termination of Delta-Aeromexico pact - The Points Guy",
+      "description": "Delta and Aeromexico can continue their partnership in the largest international market from the U.S. after court ruling.",
+      "url": "https://thepointsguy.com/news/delta-air-lines-aeromexico-joint-venture-termination-order-dismissed/",
+      "urlToImage": "https://runway-media-production.global.ssl.fastly.net/us/originals/2023/06/LAX-Planes35.jpg",
+      "publishedAt": "2026-08-21T14:25:15Z",
+      "content": "Delta Air Lines and Aeromexico fliers can breathe a sigh of relief.\r\nA U.S. appeals court ruled on Thursday in favor of the airlines's immunized joint venture. The decision allows the pact to continu… [+2739 chars]"
     },
     {
       "source": {
@@ -333,19 +372,6 @@
     },
     {
       "source": {
-        "id": "the-wall-street-journal",
-        "name": "The Wall Street Journal"
-      },
-      "author": "Jason Chau, Emese Bartha",
-      "title": "Bitcoin Surges as Institutional Demand, Short Covering, Clarity Act Progress Converge - WSJ",
-      "description": "Along with gold and silver the cryptocurrency also benefitted from the U.S. Treasury’s announcement Wednesday",
-      "url": "https://www.wsj.com/finance/currencies/bitcoin-surges-as-institutional-demand-short-covering-clarity-act-progress-converge-a6451d1a",
-      "urlToImage": "https://images.wsj.net/im-73877597/social",
-      "publishedAt": "2026-08-21T13:09:00Z",
-      "content": "Bitcoin rebounded sharply from weeks of low volatility and tight range-bound trading as institutional demand for the asset picked up.\r\nThe cryptocurrency jumped more than 9% to hit a peak of $79,455 … [+195 chars]"
-    },
-    {
-      "source": {
         "id": null,
         "name": "The Cut"
       },
@@ -369,6 +395,19 @@
       "urlToImage": "https://www.investors.com/wp-content/uploads/2025/09/stock-robotaxi-waymo-adobe-1.jpg",
       "publishedAt": "2026-08-21T12:56:00Z",
       "content": "Information in Investors Business Daily is for informational and educational purposes only and should not be construed as an offer, recommendation, solicitation, or rating to buy or sell securities. … [+1064 chars]"
+    },
+    {
+      "source": {
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
+      },
+      "author": "WSJ",
+      "title": "Exclusive | Nvidia in Talks to Invest in Data-Center Power Developer Cloverleaf Infrastructure - WSJ",
+      "description": null,
+      "url": "https://www.wsj.com/business/deals/nvidia-in-talks-to-invest-in-data-center-power-developer-cloverleaf-infrastructure-ff94c556",
+      "urlToImage": null,
+      "publishedAt": "2026-08-21T12:30:00Z",
+      "content": null
     },
     {
       "source": {
@@ -399,14 +438,14 @@
     {
       "source": {
         "id": null,
-        "name": "WGAL Susquehanna Valley Pa."
+        "name": "WMUR Manchester"
       },
       "author": "Susie Webb",
-      "title": "US national debt tops $40 trillion: These charts offer more context - WGAL",
+      "title": "US national debt tops $40 trillion: These charts offer more context - WMUR",
       "description": "The U.S. had about $36.2 trillion in debt when President Donald Trump assumed office in January 2025. From then to now, the national debt has grown by 10.6%.",
-      "url": "https://www.wgal.com/article/us-national-debt-in-four-charts/73487070",
+      "url": "https://www.wmur.com/article/us-national-debt-in-four-charts/73487070",
       "urlToImage": "https://kubrick.htvapps.com/htv-prod/images/bb9cc42d-c518-4377-a97f-86a84dd9f19b.png?crop=1.00xw%3A1.00xh%3B0%2C0&resize=1200%3A*",
-      "publishedAt": "2026-08-21T11:01:18Z",
+      "publishedAt": "2026-08-21T10:59:00Z",
       "content": "The U.S. national debt has now surpassed the $40 trillion benchmark, new data from the Treasury Department shows. \r\nThe four charts below give context to the nation's debt issues.\r\nA wider look at ho… [+1921 chars]"
     },
     {
@@ -477,19 +516,6 @@
     {
       "source": {
         "id": null,
-        "name": "CNBC"
-      },
-      "author": "Lim Hui Jie",
-      "title": "Japan headline inflation rate hits highest this year as energy prices bite - CNBC",
-      "description": "Core inflation — which strips out prices of fresh food but includes energy — was in line with expectations, coming in at 1.8%.",
-      "url": "https://www.cnbc.com/2026/08/21/japan-inflation-iran-war-energy.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108243411-1766041547599-gettyimages-2230572480-AFP_72797T3.jpeg?v=1766041568&w=1920&h=1080",
-      "publishedAt": "2026-08-20T23:47:52Z",
-      "content": "Japan's headline inflation rate hit 1.9% in July, the highest level this year, as energy costs increase amid the Iran war.\r\nCore inflation which strips out prices of fresh food but includes energy wa… [+1821 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "Financial Times"
       },
       "author": null,
@@ -529,6 +555,19 @@
     {
       "source": {
         "id": null,
+        "name": "Fox Business"
+      },
+      "author": "Eric Revell",
+      "title": "Trump crypto meeting signals US 'not going to slow down' in bid for digital asset dominance, expert says - Fox Business",
+      "description": "Trump hosted crypto industry leaders at the White House to discuss the CLARITY Act with hopes to sign the digital assets bill into law by September.",
+      "url": "https://www.foxbusiness.com/technology/trump-crypto-meeting-signals-us-not-going-slow-down-bid-digital-asset-dominance-expert-says",
+      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/08/0/0/trump-digital-assets-crypto-innovation-01.jpg?ve=1&tl=1",
+      "publishedAt": "2026-08-20T20:39:00Z",
+      "content": "President Donald Trump and top financial regulators hosted key figures in the cryptocurrency and digital assets industries at the White House Wednesday, with a major legislative priority for the admi… [+5117 chars]"
+    },
+    {
+      "source": {
+        "id": null,
         "name": "Deadline"
       },
       "author": "Jill Goldsmith, Anthony D'Alessandro, Katie Campione",
@@ -538,6 +577,19 @@
       "urlToImage": "https://deadline.com/wp-content/uploads/2026/08/Paramount.jpg?w=1024",
       "publishedAt": "2026-08-20T20:30:00Z",
       "content": "Paramount‘s pending acquisition of Warner Bros Discovery has evoked a range of emotion in Hollywood, mainly fear among creatives at the planned merger of two more major studios. But now that uncertai… [+18836 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Brooke DiPalma",
+      "title": "Walmart stock drops 9% as sales growth slows, customers make 'trade-offs' amid high fuel costs - Yahoo Finance",
+      "description": "Walmart raised its outlook, but traffic and US sales came in below Wall Street's expectations.",
+      "url": "https://finance.yahoo.com/markets/stocks/article/walmart-stock-drops-9-as-sales-growth-slows-customers-make-trade-offs-amid-high-fuel-costs-182327744.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/016BBFD7B1AA9D9EFA363BB0B2E432579B34833C6D15014B5507E69BD5E71209/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-08%2F58a9cc97-d3c9-475c-b852-2f483249bbf5",
+      "publishedAt": "2026-08-20T20:16:20Z",
+      "content": "Walmart (WMT) raised its full-year financial outlook after beating Wall Street estimates on both the top and bottom lines, but the stock fell 9% after US same-store sales slowed.\r\nAmerica's biggest r… [+3408 chars]"
     },
     {
       "source": {
@@ -554,16 +606,16 @@
     },
     {
       "source": {
-        "id": "al-jazeera-english",
-        "name": "Al Jazeera English"
+        "id": "the-verge",
+        "name": "The Verge"
       },
-      "author": "Al Jazeera Staff",
-      "title": "Walmart sees sales drop as US consumer spending retreats - Al Jazeera",
-      "description": "Fuel prices above $4 per gallon impact consumer behaviour, driving spending trade-offs and slowing Walmart’s growth.",
-      "url": "https://www.aljazeera.com/economy/2026/8/20/walmart-sees-sales-drop-as-us-consumer-spending-retreats",
-      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/08/reuters_6a87169f-1787238047.jpg?resize=1920%2C1440",
-      "publishedAt": "2026-08-20T19:24:57Z",
-      "content": "Walmart sales are slumping as US consumer spending pulls back, with the economic impact of tariffs and the United States tensions with Iran weighing on consumers, the big-box retailers most recent ea… [+4183 chars]"
+      "author": "Andrew J. Hawkins",
+      "title": "The Genesis GV90 blows the bloody doors off what’s possible in EV design - The Verge",
+      "description": "Genesis announced the GV90, a three-row electric SUV with coach-style doors, heated floors, front seats that rotate 180 degrees, and an airbag for the glass roof.",
+      "url": "https://www.theverge.com/transportation/982910/genesis-gv90-ev-suv-coach-door-heated-floor",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Original-6722-photo-2-gv90-neolun-exterior.jpg?quality=90&strip=all&crop=0%2C15.095986038394%2C100%2C69.808027923211&w=1200",
+      "publishedAt": "2026-08-20T19:52:57Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nThe three-row SUV features coach-style doors and front seats that rotate 180 degrees.\r\nThe three-row SUV features coach-style doors and front seats that rotate 1… [+5725 chars]"
     },
     {
       "source": {
@@ -606,16 +658,29 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "Newser"
+        "id": "business-insider",
+        "name": "Business Insider"
       },
-      "author": "Kate Seamons",
-      "title": "Walmart Is Using Its $2.9B Tariff Refund to Benefit You - Newser",
-      "description": "If you're a Walmart shopper, that is",
-      "url": "https://www.newser.com/story/395016/walmarts-plan-for-29b-tariff-refund-could-benefit-you.html",
-      "urlToImage": "https://cdn.newser.com/image/1706548-12-20260820150900.jpeg",
-      "publishedAt": "2026-08-20T18:45:00Z",
-      "content": "Walmart told investors Thursday it has received nearly all of the $2.9 billion in tariff refunds it was owed and is channeling that cash into price cuts and store upgrades as inflation and higher fue… [+431 chars]"
+      "author": "James Faris",
+      "title": "Disney is starting an employee stock purchase program and changing its health insurance plans - Business Insider",
+      "description": "Disney is starting a stock purchase program and changing its health insurance plans, months after cutting stock-based pay for some tech employees.",
+      "url": "https://www.businessinsider.com/disney-plans-employee-stock-purchase-program-health-insurance-plan-changes-2026-8#article",
+      "urlToImage": "https://i.insider.com/6a8712d57e0482203ed17fa8?width=1200&format=jpeg",
+      "publishedAt": "2026-08-20T18:55:00Z",
+      "content": "Disney is shaking up its employee benefits by launching a stock purchase program and switching up its health insurance plans.\r\nEric Chaisson, Disney's EVP of total rewards and employee services, told… [+4925 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Maxwell Zeff",
+      "title": "Silicon Valley Doesn't Get Why You Hate AI - WIRED",
+      "description": "Technology leaders don’t seem to understand society’s gripes about AI, but boy, are they posting through it.",
+      "url": "https://www.wired.com/story/silicon-valley-doesnt-get-why-you-hate-ai/",
+      "urlToImage": "https://media.wired.com/photos/6a8606ab1997359abc4212b4/191:100/w_1280,c_limit/Model-Behavior-Silicon-Valley-Doesnt-Understand-AI-Backlash-Business.jpg",
+      "publishedAt": "2026-08-20T18:49:00Z",
+      "content": "Silicon Valley is trying to make sense of the growing backlash against artificial intelligence, but so far, its not going that well. The inconvenient truth is that a significant portion of the world … [+3522 chars]"
     },
     {
       "source": {
@@ -629,6 +694,19 @@
       "urlToImage": "https://futurism.com/wp-content/uploads/2026/08/openai-halts-training-advanced-model.jpg?quality=85&w=1200",
       "publishedAt": "2026-08-20T18:41:00Z",
       "content": "Can’t-miss innovations from the bleeding edge of science and tech\r\nOpenAI says that it’s slowing down development and release of new models due to security and alignment concerns.\r\nThe ChatGPT maker … [+2586 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "AZFamily"
+      },
+      "author": "Brian Petersheim",
+      "title": "Cox customers in Arizona to transition to Spectrum after $34.5B merger - AZ Family",
+      "description": "Charter has completed its $34.5 billion merger with Cox Communications. Cox customers in Phoenix and Tucson will transition to Spectrum by mid-September.",
+      "url": "https://www.azfamily.com/2026/08/20/cox-customers-arizona-transition-spectrum-after-345b-merger/",
+      "urlToImage": "https://gray-kpho-prod.gtv-cdn.com/resizer/v2/MO3CRTGOB5HA7G74ZX45IXMUCA.png?auth=b2ee4781f5e5b8d7004ac96430833987d0583681bf1fe0dc8775c88ad969fe7b&width=1200&height=600&smart=true",
+      "publishedAt": "2026-08-20T17:44:00Z",
+      "content": "PHOENIX (AZFamily) A pair of transactions worth tens of billions of dollars that will reshape cable and internet service across Arizona and the nation are now complete.\r\nCharter Communications announ… [+2210 chars]"
     },
     {
       "source": {
@@ -659,19 +737,6 @@
     {
       "source": {
         "id": null,
-        "name": "ABC15 Arizona"
-      },
-      "author": "abc15.com staff",
-      "title": "Cox customers to be switched to Spectrum following major merger - ABC15 Arizona",
-      "description": "Charter Communications is now the biggest broadband and video company in the country after closing its acquisitions of Cox Communications and Liberty Broadband Corporation.",
-      "url": "https://www.abc15.com/news/state/cox-customers-to-be-switched-to-spectrum-following-major-merger",
-      "urlToImage": "https://ewscripps.brightspotcdn.com/dims4/default/3546619/2147483647/strip/true/crop/2000x1050+0+142/resize/1200x630!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2Fb2%2F36%2Fa7dcea3f4072859066b33c93f3c8%2Fap22220543858120.jpg",
-      "publishedAt": "2026-08-20T16:10:00Z",
-      "content": "Charter Communications is now the biggest broadband and video company in the country after closing its acquisitions of Cox Communications and Liberty Broadband Corporation.\r\nThe deals also make Chart… [+12818 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "Substack.com"
       },
       "author": "Claudia Sahm",
@@ -685,15 +750,15 @@
     {
       "source": {
         "id": null,
-        "name": "24/7 Wall St."
+        "name": "MINING.com"
       },
-      "author": "Vandita Jadeja",
-      "title": "Palantir Is Growing Faster Than Almost Anyone Expected. Can the Stock Keep Up? - 24/7 Wall St.",
-      "description": "Palantir just delivered the kind of quarter that silences critics, but with a valuation that makes even bulls nervous, the real debate is whether the growth story can actually justify what the market is already pricing in.",
-      "url": "https://247wallst.com/investing/2026/08/20/palantir-is-growing-faster-than-almost-anyone-expected-can-the-stock-keep-up/",
-      "urlToImage": "https://247wallst.com/wp-content/uploads/2026/05/32215763362_b62ef08e5f_b.jpg",
-      "publishedAt": "2026-08-20T15:00:29Z",
-      "content": "This post may contain links from our sponsors and affiliates, and Flywheel Publishing may receive compensation for actions taken through them.Palantir has become one of the most polarizing stocks in … [+4196 chars]"
+      "author": null,
+      "title": "Trump administration to back US minerals projects with $500 million in grants - Mining.com",
+      "description": "This is the latest investment to boost American mining and processing for minerals and battery projects.",
+      "url": "https://www.mining.com/web/trump-administration-to-back-us-minerals-projects-with-500-million-in-grants/",
+      "urlToImage": "https://www.mining.com/wp-content/uploads/2026/08/55428975751_db7ed6d8f7_3k-1024x683.jpg",
+      "publishedAt": "2026-08-20T15:14:48Z",
+      "content": null
     },
     {
       "source": {
@@ -710,16 +775,16 @@
     },
     {
       "source": {
-        "id": "business-insider",
-        "name": "Business Insider"
+        "id": null,
+        "name": "CNBC"
       },
-      "author": "Henry Blodget",
-      "title": "I was there for the dot-com burst. Here's how the AI bubble will pop. - Business Insider",
-      "description": "Stock market booms and busts have two big things in common. Those signals point to a coming burst of the AI-fueled bubble.",
-      "url": "https://www.businessinsider.com/ai-bubble-burst-stock-market-crash-boom-dotcom-financial-crisis-2026-8#article",
-      "urlToImage": "https://i.insider.com/6a86068a85cca0a87cd8abd3?width=1200&format=jpeg",
-      "publishedAt": "2026-08-20T13:41:00Z",
-      "content": "As often happens in the early buildout of a new technology, a fierce argument is raging about whether the AI spending boom is a rational investment or a speculative bubble.\r\nThe answer, very likely, … [+9754 chars]"
+      "author": "Jessica Dickler",
+      "title": "Treasury proposes low-cost investment rules for Trump Accounts - CNBC",
+      "description": "The Treasury Department has issued new Trump Account guidance, emphasizing low-cost investments.",
+      "url": "https://www.cnbc.com/2026/08/20/trump-accounts-investment-rules-treasury.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108262653-1770399637971-gettyimages-2258080693-AFP_94BW7EB.jpeg?v=1782319654&w=1920&h=1080",
+      "publishedAt": "2026-08-20T12:59:46Z",
+      "content": "The U.S. Treasury Department issued proposed guidance on eligible Trump Account investments Thursday, establishing a framework for what products could qualify as additional investment options going f… [+1748 chars]"
     },
     {
       "source": {
@@ -739,39 +804,13 @@
         "id": null,
         "name": "Forbes"
       },
-      "author": "Siladitya Ray",
-      "title": "Bitcoin Soars Above $70,000 After Trump Urges Passage Of Clarity Act - Forbes",
-      "description": "Bitcoin inched towards the $70,000 mark for the first time since early June as Trump pushed Congress to pass the stalled CLARITY Act.",
-      "url": "https://www.forbes.com/sites/siladityaray/2026/08/20/bitcoin-soars-above-70000-after-trump-calls-for-passage-of-clarity-act-at-white-house-crypto-event/",
-      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6a86aa463989b7db2f5e872c/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-      "publishedAt": "2026-08-20T09:52:00Z",
-      "content": "Bitcoin led a rally in major cryptocurrencies and inched back above $71,000 late on Wednesday after President Donald Trump hosted top crypto industry executives and called on Congress to pass the sta… [+3043 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "SWNS",
-      "title": "Humanoid robot sprints around track during testing in Beijing - Yahoo",
-      "description": "Footage filmed on August 18 in Beijing, China, shows a humanoid robot sprinting around a blue athletics track during testing ahead of the 2nd World Humanoid...",
-      "url": "https://www.yahoo.com/news/videos/humanoid-robot-sprints-around-track-093309551.html",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/a69d148a2fa5fcb50e8c00b2ad1dffe052e96cd1d90a61b31622cc2603466029/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fswns_us_536%2F9b9e2416366aa88af927283d558c8512.jpg",
-      "publishedAt": "2026-08-20T09:33:09Z",
-      "content": "Footage filmed on August 18 in Beijing, China, shows a humanoid robot sprinting around a blue athletics track during testing ahead of the 2nd World Humanoid Robot Games. The robot uses a forward-lean… [+301 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "NPR"
-      },
-      "author": "The Associated Press",
-      "title": "Chinese court sentences founder of property developer Evergrande to life in prison - NPR",
-      "description": "Chinese property developer Hui Ka Yan has been sentenced to life in prison. The decision marks a milestone in Evergrande's saga after it collapsed with more than $300 billion in liabilities.",
-      "url": "https://www.npr.org/2026/08/20/nx-s1-5939335/chinese-sentence-founder-evergrande",
-      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8200x4613+0+427/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F56%2Ff3%2F80bb63e74a148f347cf5464e17fa%2Fap26232181538113.jpg",
-      "publishedAt": "2026-08-20T07:31:55Z",
-      "content": "BEIJING Chinese property developer Hui Ka Yan, founder of the Evergrande real estate group, has been sentenced to life in prison and the companies fined a total of $2.3 billion, a court in the southe… [+1745 chars]"
+      "author": "John Schroyer",
+      "title": "SBA Rule Change Makes 110,000 More Businesses Eligible For Benefits - Forbes",
+      "description": "The policy switch could be a major boon for small businesses hoping to compete against the likes of Boeing and Raytheon, says the U.S. Small Business Administration.",
+      "url": "https://www.forbes.com/sites/johnschroyer/2026/08/20/sba-rule-change-makes-110000-more-businesses-eligible-for-benefits/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6a67b5920c0660be226d17ed/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2026-08-20T12:00:21Z",
+      "content": "The U.S. Small Business Administration is increasing thresholds for the definition of \"small business,\" which it says will benefit roughly 110,000 companies nationwide in several ways.\r\nGetty Images\r… [+4893 chars]"
     }
   ]
 }

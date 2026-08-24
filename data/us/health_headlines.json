@@ -3,9 +3,35 @@
   "country": "us",
   "category": "health",
   "mode": "country",
-  "fetched_at": "2026-08-24T12:18:10.466412+00:00",
-  "articles_count": 64,
+  "fetched_at": "2026-08-24T14:28:04.988210+00:00",
+  "articles_count": 63,
   "articles": [
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "KSL.com",
+      "title": "Cedar Hills mom receiving double lung transplant after other cancer treatments fail - KSL.com",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOYnhneWc1RWk0UjJyazdDR3d1TTdvZWVUazU0eFRfQ3dnZUROb0RDaE1TZzFBempLeTJUZW44ZUN6QktsM1BIQlE0V1BZTWlVTlpULXU1TVkyZ1BxTXBSYkJCRlUzWFBEZ1Q3b1Z0cTNDWi1YZXZ2bHdDcGNEVGNwbWQ2VmRoRDBIbll6czJPcW9EM28tV3p1OHdjS1VFeDEwc2lKWkx5UE9mQmhRbXVnMm5xcnFPRHFNdXRLdw?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2026-08-23T13:16:10Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": null,
+      "title": "Men face new pressure to stay ‘hot’ as they age — and it’s not just about living longer - Fox News",
+      "description": "Plastic surgeon Dr. Krishna Vyas reveals why men no longer feel stigma around cosmetic procedures and shares the foundational steps for extending 'hotspan'.",
+      "url": "https://www.foxnews.com/health/men-face-new-pressure-stay-hot-age-not-just-living-longer",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/08/middle-aged-man.jpg",
+      "publishedAt": "2026-08-23T13:00:53Z",
+      "content": "Maintaining healthy cholesterol and blood pressure, along with regular physical activity, are widely recommended components of healthy aging.\r\nBut as interest in longevity grows, some older adults ar… [+3807 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -31,6 +57,19 @@
       "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/L65ZNGJHLKKAMBJSF4SWJGBUNA.jpg&w=1440",
       "publishedAt": "2026-08-23T10:33:31Z",
       "content": "For many women, the most disruptive symptoms of perimenopause (the transition leading up to menopause) and menopause (when youve gone 12 months without a menstrual cycle) arent just the hallmark ones… [+307 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Science Daily"
+      },
+      "author": null,
+      "title": "Experimental compound helps burn fat without muscle loss - Science Daily",
+      "description": "A decades-old compound may point to a new way of treating obesity by making the body burn more energy rather than simply reducing appetite. In mice, TOFA increased energy use by as much as 18%, reduced body fat without significant muscle loss, and improved bl…",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260823014953.htm",
+      "urlToImage": "https://www.sciencedaily.com/images/1920/fat-burning-human-tissue-cells.webp",
+      "publishedAt": "2026-08-23T10:25:56Z",
+      "content": "GLP-1 medications have transformed the treatment of obesity, diabetes, and fatty liver disease over the past several years. Drugs sold as Ozempic, Wegovy, Mounjaro, and Zepbound can produce substanti… [+5085 chars]"
     },
     {
       "source": {
@@ -73,19 +112,6 @@
     },
     {
       "source": {
-        "id": "al-jazeera-english",
-        "name": "Al Jazeera English"
-      },
-      "author": null,
-      "title": "More than 16,000 doses of Ervebo vaccine arrive in Ebola-hit DR Congo - Al Jazeera",
-      "description": "The doses are the first of 70,000 allocated for Kinshasa as experts warn of the virus’s exponential spread.",
-      "url": "https://www.aljazeera.com/news/2026/8/22/more-than-16000-doses-of-ervebo-vaccine-arrive-in-ebola-hit-dr-congo",
-      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/08/afp_6a896a075dfe-1787390471.jpg?resize=1920%2C1440",
-      "publishedAt": "2026-08-22T19:47:56Z",
-      "content": "The Democratic Republic of the Congo (DRC) has received more than 16,000 doses of the Ervebo vaccine developed for a previous strain of Ebola, as the country faces its deadliest-ever outbreak.\r\nThe 1… [+2332 chars]"
-    },
-    {
-      "source": {
         "id": null,
         "name": "New York Post"
       },
@@ -122,6 +148,19 @@
       "urlToImage": "https://www.sciencealert.com/images/2026/08/BypassHeart.jpg",
       "publishedAt": "2026-08-22T19:00:33Z",
       "content": "When heart attacks (myocardial infarctions) strike, it's because a coronary artery supplying the heart muscle gets blocked, cutting off the oxygen and nutrients the heart needs to keep going.\r\nSevera… [+4177 chars]"
+    },
+    {
+      "source": {
+        "id": "nbc-news",
+        "name": "NBC News"
+      },
+      "author": "The Associated Press",
+      "title": "Congo receives more than 16,000 doses of Ebola vaccine as it grapples with unprecedented outbreak - NBC News",
+      "description": "BUNIA, Congo — Congo has received more than 16,000 doses of the Ervebo vaccine as the country grapples with the fastest Ebola outbreak in history, the country’s health minister said.",
+      "url": "https://www.nbcnews.com/world/africa/congo-receives-16000-doses-ebola-vaccine-rcna593896",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-08/260822-cong-ebola-ch-1209-1c5dc1.jpg",
+      "publishedAt": "2026-08-22T17:12:16Z",
+      "content": "BUNIA, Congo Congo has received more than 16,000 doses of the Ervebo vaccine as the country grapples with the fastest Ebola outbreak in history, the countrys health minister said.\r\nThe 16,250 doses a… [+1382 chars]"
     },
     {
       "source": {
@@ -295,6 +334,19 @@
     {
       "source": {
         "id": null,
+        "name": "Science Daily"
+      },
+      "author": null,
+      "title": "This yeast supplement may boost cancer-fighting immunity - Science Daily",
+      "description": "A simple yeast-based food supplement may help restore the immune system’s ability to fight cancer, according to new research in mice. Scientists found that yeast beta-glucan reprogrammed early immune cells in the bone marrow, leading to stronger, longer-lasti…",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260821012230.htm",
+      "urlToImage": "https://www.sciencedaily.com/images/1920/body-immune-response-lymphocytes-t-cells-cancer-immunotherapy.webp",
+      "publishedAt": "2026-08-22T10:35:56Z",
+      "content": "Researchers at Trinity College Dublin and University College Dublin (UCD) have found that a yeast-based dietary supplement can strengthen immune cells involved in fighting cancer in mice.In experimen… [+4565 chars]"
+    },
+    {
+      "source": {
+        "id": null,
         "name": "Slate Magazine"
       },
       "author": "Lynda Lin Grigsby",
@@ -412,19 +464,6 @@
     {
       "source": {
         "id": null,
-        "name": "Boredpanda.com"
-      },
-      "author": "Ilona Baliūnaitė",
-      "title": "68 Strange Things Happening On Earth That Look Almost Too Incredible To Be Real (New Pics) - boredpanda.com",
-      "description": "No matter how well-read or well-traveled you are, you will always learn something new about the world. Even in this day and age of instant information, you will find yourself mind-blown by a piece of information you randomly discovered.",
-      "url": "https://www.boredpanda.com/interesting-happenings-on-earth-posts/",
-      "urlToImage": "https://static.boredpanda.com/blog/wp-content/uploads/2026/08/interesting-happenings-on-earth-posts-fb21.jpg",
-      "publishedAt": "2026-08-22T02:00:04Z",
-      "content": "No matter how well-read or well-traveled you are, you will always learn something new about the world. Even in this day and age of instant information, you will find yourself mind-blown by a piece of… [+524 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "Eatingwell.com"
       },
       "author": "https://www.facebook.com/EatingWell/",
@@ -516,19 +555,6 @@
     {
       "source": {
         "id": null,
-        "name": "Parade"
-      },
-      "author": "Beth Ann Mayer",
-      "title": "Here's Exactly What Happens to Your Gut Health When You Eat Bananas - AOL.com",
-      "description": "RDs peel back the layers on the many ways bananas affect your digestive health.",
-      "url": "https://parade.com/health/what-happens-to-your-gut-health-when-you-eat-bananas",
-      "urlToImage": "https://hermes.media.static.aol.com/media/2026/08/21/ca984837-cdfe-3908-b172-d4e68e02d5ac/04d57c01-0feb-4626-8630-a89554e033ae.jpg",
-      "publishedAt": "2026-08-21T22:41:15Z",
-      "content": "Gut health is the gift the internet keeps on giving. Attention to it peaked in the 2010s and never faded. But what does gut health even mean?\r\nGut health refers to how well the digestive system perfo… [+8820 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "Eatingwell.com"
       },
       "author": "https://www.facebook.com/EatingWell/",
@@ -551,19 +577,6 @@
       "urlToImage": null,
       "publishedAt": "2026-08-21T22:15:17Z",
       "content": "Xenobiotics such as medications, alcohol, supplements, and environmental chemicals can damage liver cells as the organ works to break down and remove them from the body. When exposure is too high or … [+3970 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Men's Journal"
-      },
-      "author": "Kelsey Kryger",
-      "title": "The 4 Best Fruits to Lower Colon Cancer Risk, According to a Gastroenterologist - AOL.com",
-      "description": "These fruits deliver a mix of fiber, polyphenols, flavonoids, and more that can benefit colorectal health.",
-      "url": "https://www.mensjournal.com/food/4-fruits-a-gastroenterologist-wants-you-to-eat-every-week-to-reduce-colon-cancer-risk",
-      "urlToImage": "https://hermes.media.static.aol.com/media/2026/08/21/aba2c665-4d31-3348-83cd-ae66df43be07/cec9ae5a-284f-4d03-9d38-fe656f0effdb.jpg",
-      "publishedAt": "2026-08-21T20:53:23Z",
-      "content": "Colorectal cancer is the third most commonly diagnosed cancer and second leading cause of cancer-related death in the U.S. Just this year, the American Cancer Society estimates that roughly 158,850 n… [+4574 chars]"
     },
     {
       "source": {
@@ -659,15 +672,28 @@
     {
       "source": {
         "id": null,
-        "name": "Medical Xpress"
+        "name": "Newser"
       },
-      "author": null,
-      "title": "Promising new weight loss and diabetes treatment helps burn fat while keeping muscle in preclinical study - Medical Xpress",
-      "description": "Over the past five years, medications called GLP-1s have revolutionized the treatment of metabolic disorders like obesity, diabetes and fatty liver disease. Sold under the brand names Ozempic, Wegovy, Mounjaro and Zepbound, these drugs are highly effective at…",
-      "url": "https://medicalxpress.com/news/2026-08-weight-loss-diabetes-treatment-fat.html",
-      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2024/weight-loss-3.jpg",
-      "publishedAt": "2026-08-21T18:00:09Z",
-      "content": "Over the past five years, medications called GLP-1s have revolutionized the treatment of metabolic disorders like obesity, diabetes and fatty liver disease. Sold under the brand names Ozempic, Wegovy… [+4658 chars]"
+      "author": "John Johnson",
+      "title": "Researchers Now Understand Why Astronauts Can't 'Go' - Newser",
+      "description": "Microgravity slows digestion and leads to constipation, an odd but important problem",
+      "url": "https://www.newser.com/story/395079/researchers-now-understand-why-astronauts-cant-go.html",
+      "urlToImage": "https://cdn.newser.com/image/1706751-12-20260821141229.jpeg",
+      "publishedAt": "2026-08-21T18:43:00Z",
+      "content": "But the study, published in Nature Communications, flags a longer-term concern: Protein fermentation produces compounds such as ammonia and hydrogen sulfide that, in high amounts and over long durati… [+321 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Futurism"
+      },
+      "author": "Joe Wilkins",
+      "title": "Wild New Paper Claims Human Brain Doesn’t Produce Consciousness - Futurism",
+      "description": "A bizarre new essay by a noted neuroscientist insists that it's time to reexamine the material assumptions about human consciousness.",
+      "url": "https://futurism.com/health-medicine/neuroscience-research-paper-human-brain-consciousness-idealism",
+      "urlToImage": "https://futurism.com/wp-content/uploads/2026/08/neuroscience-research-paper-human-brain-consciousness-idealism.jpg?w=1200",
+      "publishedAt": "2026-08-21T18:05:05Z",
+      "content": "Can’t-miss innovations from the bleeding edge of science and tech\r\nSince neuroscientists began excavating the human mind in search of the root cause of consciousness, they’ve acting on one foundation… [+2124 chars]"
     },
     {
       "source": {
@@ -697,16 +723,16 @@
     },
     {
       "source": {
-        "id": "newsweek",
-        "name": "Newsweek"
+        "id": "the-washington-post",
+        "name": "The Washington Post"
       },
-      "author": "Maria Azzurra Volpe",
-      "title": "Researchers Uncover New Lifestyle Factor That Could Affect Alzheimer’s Risk - Newsweek",
-      "description": "A surprising twist in the dementia research suggests that where and why you move may matter more than experts once thought.",
-      "url": "https://www.newsweek.com/researchers-uncover-new-lifestyle-factor-that-could-affect-alzheimers-risk-12352992",
-      "urlToImage": "https://assets.newsweek.com/wp-content/uploads/2026/08/GettyImages-1189648868.jpg?w=1200&crop=1",
-      "publishedAt": "2026-08-21T16:10:00Z",
-      "content": "A major new analysis suggests that, when it comes to dementia risk, how people are physically active may matter as much as how much they move. \r\nResearchers from the University of Southern California… [+7039 chars]"
+      "author": "Gretchen Reynolds",
+      "title": "Column | Here’s how workplace activity may affect dementia risk - The Washington Post",
+      "description": "Exercise outside of work has a different impact on the body than physical activity on the job.",
+      "url": "https://www.washingtonpost.com/wellness/2026/08/21/heres-how-workplace-physical-activity-may-affect-dementia-risk/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/6VPW6GTWLAOKDZUIV5STQ6VOWQ.jpg&w=1440",
+      "publishedAt": "2026-08-21T16:00:00Z",
+      "content": "Exercise is one of the healthiest things we can do for ourselves and our brains. Most science shows that even a few minutes a day of physical activity generally contribute to lower risks for dementia… [+10 chars]"
     },
     {
       "source": {
@@ -720,19 +746,6 @@
       "urlToImage": "https://assets.newsweek.com/wp-content/uploads/2026/08/GettyImages-1346002415.jpg?w=1200&crop=1",
       "publishedAt": "2026-08-21T15:37:00Z",
       "content": "New treatments are being explored for two devastating cancersglioblastoma and ovarian cancerand they are showing promise.\r\nGlioblastoma is an aggressive form of brain cancer and the most common malig… [+6061 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Live Science"
-      },
-      "author": "Harry Baker",
-      "title": "Scientists finally know why astronauts struggle to poop in space — and reveal a hidden risk of long-haul spaceflight - Live Science",
-      "description": "A new NASA-backed study has pinpointed why astronauts often experience constipation in space and how that might affect their health on long-haul missions to Mars and beyond.",
-      "url": "https://www.livescience.com/space/space-exploration/scientists-finally-know-why-astronauts-struggle-to-poop-in-space-and-reveal-a-hidden-risk-of-long-haul-spaceflight",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/RMPrYpjgkRMUjvzgsxvhFQ-1600-80.jpg",
-      "publishedAt": "2026-08-21T15:19:47Z",
-      "content": null
     },
     {
       "source": {
@@ -798,32 +811,6 @@
       "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_social_share_1200x630_center,f_auto,q_auto:best/rockcms/2026-08/cortisol-lower-exercises-mh-08202026-0558f3.jpg",
       "publishedAt": "2026-08-21T13:46:02Z",
       "content": "Stress is a natural part of day-to-day life, and so are fluctuations in the hormone associated with it, known as cortisol.\r\nBut online, influencers blame a range of health problems on cortisol, from … [+2035 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Science Daily"
-      },
-      "author": null,
-      "title": "3 minutes of sprinting does something 90 minutes of exercise does not - Science Daily",
-      "description": "A few minutes of sprinting may reshape the bloodstream far more dramatically than a much longer moderate workout. Six 30-second sprints altered nearly a quarter of the blood proteins measured and more than 200 metabolites, while 90 minutes of moderate cycling…",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260821012208.htm",
-      "urlToImage": "https://www.sciencedaily.com/images/1920/body-rejuvenation-strength-boost.webp",
-      "publishedAt": "2026-08-21T12:20:06Z",
-      "content": "Just three minutes of sprinting may produce a molecular response that looks very different from what happens after 90 minutes of moderate exercise.Researchers at Rockefeller University compared how t… [+3318 chars]"
-    },
-    {
-      "source": {
-        "id": "cnn",
-        "name": "CNN"
-      },
-      "author": "Faye Chiu",
-      "title": "Why a form of pregnancy-related high blood pressure is rising — and what to do - CNN",
-      "description": "Gestational hypertension, a form of high blood pressure during pregnancy, has become substantially more common in the United States, according to a new report.",
-      "url": "https://www.cnn.com/2026/08/21/health/gestational-hypertension-pregnancy-wellness",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1439932155.jpg?c=16x9&q=w_800,c_fill",
-      "publishedAt": "2026-08-21T11:00:29Z",
-      "content": "High blood pressure is a common condition that occurs with pregnancy. One form, gestational hypertension, has become substantially more common in the United States, a new report has found.\r\nThe rate … [+8460 chars]"
     },
     {
       "source": {

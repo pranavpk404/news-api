@@ -3,138 +3,385 @@
   "country": "us",
   "category": "general",
   "mode": "country",
-  "fetched_at": "2026-08-28T13:24:56.360149+00:00",
-  "articles_count": 26,
+  "fetched_at": "2026-08-28T23:13:48.536792+00:00",
+  "articles_count": 33,
   "articles": [
+    {
+      "source": {
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
+      },
+      "author": "WSJ",
+      "title": "Exclusive | Nvidia Pauses Revenue-Sharing Deals With AI Cloud Companies - WSJ",
+      "description": null,
+      "url": "https://www.wsj.com/tech/nvidia-pauses-revenue-sharing-deals-with-ai-cloud-companies-9c71454e",
+      "urlToImage": null,
+      "publishedAt": "2026-08-27T21:46:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "politico",
+        "name": "Politico"
+      },
+      "author": "Kimberly Leonard, Gary Fineout",
+      "title": "Hope Florida reemerges as midterm issue with leaked grand jury report - Politico",
+      "description": "A grand jury looked into the claims and issued a report in January, which was obtained by CBS Miami.",
+      "url": "https://www.politico.com/news/2026/08/27/hope-florida-midterms-grand-jury-moody-uthmeier-01052995",
+      "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2Fd0%2F57%2F4f2bdc9745cfb06c218343ffc4b1%2Fjustice-department-congress-91443.jpg",
+      "publishedAt": "2026-08-27T20:45:00Z",
+      "content": "But the grand jury report concluded Moody knew about the plans to divert the money to the foundation and authorized John Guard then a top official in her office to sign the settlement agreement. The … [+3007 chars]"
+    },
+    {
+      "source": {
+        "id": "the-washington-post",
+        "name": "The Washington Post"
+      },
+      "author": "Isaac Arnsdorf",
+      "title": "Secret Service spokesperson is put on leave amid investigation - The Washington Post",
+      "description": "The agency said two other non-law enforcement employees were also suspended in an unspecified misconduct investigation.",
+      "url": "https://www.washingtonpost.com/politics/2026/08/27/secret-service-spokesperson-is-put-leave-amid-investigation/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/ZJY2X7VJEV2HNQHPDXMZIYX2IM.jpg&w=1440",
+      "publishedAt": "2026-08-27T20:29:50Z",
+      "content": "The Secret Service put its chief spokesman and two other non-law enforcement employees on administrative leave in a misconduct investigation, the agency said. \r\nThe incident is being investigated by … [+96 chars]"
+    },
+    {
+      "source": {
+        "id": "associated-press",
+        "name": "Associated Press"
+      },
+      "author": "Michelle L. Price, Will Weissert",
+      "title": "Trump signs order renaming Lake Ontario as ‘Lake America’ in the United States - AP News",
+      "description": "President Donald Trump says he's renaming Lake Ontario to be known as “Lake America” in the United States as he escalates his trade war with Canada. The Republican president signed an executive order in the Oval Office on Thursday that updated the lake’s name…",
+      "url": "https://apnews.com/article/lake-ontario-canada-america-trump-trade-war-3ac58dca0ca83c15605d4dbff146b28a",
+      "urlToImage": "https://dims.apnews.com/dims4/default/84d47cd/2147483647/strip/true/crop/5304x3534+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F5d%2F9d%2F050eb08566e4012730ec21353d74%2F8c3b1117717d4facbdff14a96be8148c",
+      "publishedAt": "2026-08-27T20:29:00Z",
+      "content": "WASHINGTON (AP) President Donald Trump said Thursday he is renaming Lake Ontario to be known as Lake America in the United States as he escalates his trade war with Canada.\r\nThe Republican president … [+3961 chars]"
+    },
+    {
+      "source": {
+        "id": "nbc-news",
+        "name": "NBC News"
+      },
+      "author": "Juliette Arcodia, Tim Stelloh, David K. Li",
+      "title": "‘It’s death by scurvy’: Tristan and Andrew Tate seek bail as they fight extradition to United Kingdom - NBC News",
+      "description": "Attorneys for Andrew and Tristan Tate, the “manosphere” influencers accused of sex crimes in the United Kingdom, fought for their freedom on Thursday, telling a federal judge that the defendants are not a flight risk.",
+      "url": "https://www.nbcnews.com/news/us-news/tate-brothers-accused-sex-crimes-uk-fight-for-bail-rcna592247",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-08/260812-andrew-tristan-tate-ww-1548-dd4d29.jpg",
+      "publishedAt": "2026-08-27T19:54:21Z",
+      "content": "MIAMI Andrew and Tristan Tate, the manosphere influencers accused of sex crimes in the United Kingdom, told a judge Thursday that theyre not actually outrageous online personalities in real life.\r\nTh… [+5243 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Emma Roth",
+      "title": "Google’s AI note-taking app now allows you to interact with books - The Verge",
+      "description": "Google is bringing a new “Expert Intelligence” feature to its Gemini Notebook app that pulls information from the books you’ve purchased.",
+      "url": "https://www.theverge.com/tech/985567/google-gemini-notebook-expert-sources-books",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Expert-Intelligence-Hero.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+      "publishedAt": "2026-08-27T19:30:00Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nGemini Notebooks new Expert Intelligence feature pulls information from the books youve purchased.\r\nGemini Notebooks new Expert Intelligence feature pulls inform… [+3697 chars]"
+    },
+    {
+      "source": {
+        "id": "politico",
+        "name": "Politico"
+      },
+      "author": "Oriana Pawlyk",
+      "title": "Alerts from Trump’s helicopter went unheard at Reagan National - Politico",
+      "description": "The National Transportation Safety Board said the close call incident between Marine One and a passenger plane came after two unsuccessful warnings to the airport.",
+      "url": "https://www.politico.com/news/2026/08/27/ntsb-marine-one-reagan-airport-01052838",
+      "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2F0f%2F2c%2F455c988a485ebded9731b7d82f41%2Ftrump-28478.jpg",
+      "publishedAt": "2026-08-27T19:16:00Z",
+      "content": "Thursdays preliminary report is not intended to address root causes of the Marine One incident a determination the NTSB will make in a final report typically released within a year.\r\nAccording to a s… [+1498 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Variety"
+      },
+      "author": "Jennifer Maas",
+      "title": "‘GTA 6’ Drops 27 Minutes of New In-Game Footage on Netflix Amid Ongoing Rockstar Games Leaks - Variety",
+      "description": "Netflix dropped 27 minutes of new \"GTA 6\" content Thursday in a collaboration with Rockstar Games ahead of November release.",
+      "url": "https://variety.com/2026/tv/news/gta-6-netflix-trailer-extended-look-release-1236845475/",
+      "urlToImage": "https://variety.com/wp-content/uploads/2026/06/GTA-6.png?w=1000&h=563&crop=1",
+      "publishedAt": "2026-08-27T19:14:00Z",
+      "content": "Netflix dropped 27 minutes of new “Grand Theft Auto 6″ content Thursday at 3 p.m. ET in a collaboration with Rockstar Games ahead of the highly anticipated title’s November release.\r\nThe event, which… [+4294 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Jeff Cox",
+      "title": "Fed Chairman Kevin Warsh delivers his key Jackson Hole speech Friday. Here's what to expect - CNBC",
+      "description": "Prior Fed chairs have used the speech as an opportunity to lay out broad policy frameworks and intentions.",
+      "url": "https://www.cnbc.com/2026/08/27/fed-chairman-kevin-warsh-delivers-his-key-jackson-hole-speech-friday.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108341945-1785350915776-gettyimages-2288187032-wmr56545_c1g9vmm9.jpeg?v=1787863248&w=1920&h=1080",
+      "publishedAt": "2026-08-27T19:00:26Z",
+      "content": "Federal Reserve Chairman Kevin Warsh speaks during a news conference at Federal Reserve headquarters in Washington, July 29, 2026.\r\nThe Federal Reserve's cryptic chairman is set to deliver his much-a… [+4823 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Fox Business"
+      },
+      "author": "Anders Hagstrom",
+      "title": "Parent activist says Meta settlement is 'peanuts,' calls on Zuckerberg to speak out - Fox Business",
+      "description": "Cheryl Brown calls Meta's $17 billion settlement \"peanuts\" after losing her daughter to cyberbullying and urges Congress to pass the Kids Online Safety Act",
+      "url": "https://www.foxbusiness.com/politics/parent-activist-says-meta-settlement-peanuts-calls-zuckerberg-speak-out",
+      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/02/0/0/zuckerberg-meta-lawsuit.jpg?ve=1&tl=1",
+      "publishedAt": "2026-08-27T18:20:27Z",
+      "content": "Parent activists say Meta's $17 billion settlement in a child social media addiction lawsuit is \"peanuts,\" and more needs to be done to protect children on social media.\r\nActivist Cheryl Brown lost h… [+2594 chars]"
+    },
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": null,
+      "title": "PSG to face Barcelona, Man City and Villa in Champions League as draw made - Al Jazeera",
+      "description": "Last season’s runners-up Arsenal, will play the likes of Real Madrid, Borussia Dortmund and Lille in the league phase.",
+      "url": "https://www.aljazeera.com/sports/2026/8/27/psg-to-face-barcelona-man-city-and-villa-in-champions-league-as-draw-made",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/08/reuters_6a907cee-1787854062_9d7cd1-1787854245.jpg?resize=1200%2C630&quality=80",
+      "publishedAt": "2026-08-27T18:15:06Z",
+      "content": "Two-time defending champions Paris Saint-Germain were handed meetings with Barcelona, Manchester City and Aston Villa, among their eight matches in the league phase of this seasons Champions League, … [+3176 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "MarketWatch"
+      },
+      "author": "Christine Idzelis, Tomi Kilgore, Jamie Chisholm, Nora Redmond",
+      "title": "Stock Market Today: S&P 500 and Nasdaq are up in tech-fueled rally as Nvidia's stock jumps after its earnings beat expectations; Dow rises as Salesforce shares surge and Jackson Hole symposium gets started; Marvell Technology results on tap - MarketWatch",
+      "description": "The S&P 500, Nasdaq and Dow were rising Thursday afternoon as tech rallied after earnings reports from Nvidia and Salesforce. Traders also were assessing the latest weekly jobless claims data while looking ahead to Fed Chair Warsh's Jackson Hole speech.",
+      "url": "https://www.marketwatch.com/livecoverage/stock-market-today-dow-s-p-500-nasdaq-nvidia-beat-expectations-earnings-jackson-hole-marvell-results",
+      "urlToImage": "https://images.mktw.net/im-51746529/social",
+      "publishedAt": "2026-08-27T18:05:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Jacqueline Howard",
+      "title": "Largest ever ‘map’ of autism may hold clues for new targeted therapies - CNN",
+      "description": "Scientists are getting a step closer to understanding exactly how autism develops in the brain – and what might work to treat it.",
+      "url": "https://www.cnn.com/2026/08/27/health/autism-treatment-new-map-study",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/ady4523-5.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2026-08-27T18:00:29Z",
+      "content": "Scientists are getting a step closer to understanding exactly how autism develops in the brain and what might work to treat it.\r\nUsing artificial intelligence and data on tiny brains grown in the lab… [+7997 chars]"
+    },
     {
       "source": {
         "id": null,
         "name": "BBC News"
       },
-      "author": "https://www.facebook.com/bbcnews",
-      "title": "Lindsay Clancy trial hears closing arguments - watch live - BBC",
-      "description": "Lindsay Clancy does not dispute killing her three children, but her lawyers say she had postpartum psychosis at the time.",
-      "url": "https://www.bbc.com/news/live/cj62qy270l26t",
-      "urlToImage": "https://static.files.bbci.co.uk/core/website/assets/static/news/images/metadata/poster-1024x576.5f404a8b8b.png",
-      "publishedAt": "2026-08-27T13:23:57Z",
-      "content": "Grace Eliza GoodwinUS reporter\r\nSince Lindsay Clancy's murder trial began more than a month ago, we've heard from both prosecutors, defence lawyers, and more than 70 witnesses that have testified abo… [+1020 chars]"
+      "author": null,
+      "title": "Lindsay Clancy trial in hands of jury after closing arguments conclude - BBC",
+      "description": "Prosecutors argued Clancy made a calculated decision to murder the children, while the defence argued that she was suffering from postpartum psychosis.",
+      "url": "https://www.bbc.com/news/articles/c33keeyyv70o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/a8d1/live/4db59af0-a240-11f1-804a-af7f2afa0e85.jpg",
+      "publishedAt": "2026-08-27T17:46:21Z",
+      "content": "The jury could instead find Clancy guilty of second-degree murder - committed with malice or extreme recklessness, but without prior planning - or involuntary manslaughter - causing death because of … [+76 chars]"
     },
     {
       "source": {
-        "id": "usa-today",
-        "name": "USA Today"
+        "id": "the-washington-post",
+        "name": "The Washington Post"
       },
-      "author": "Elizabeth Flores",
-      "title": "Daughter of ex-MLB player breaking Little League World Series records - USA Today",
-      "description": "Kinley Rasmus, daughter of ex-Major League pitcher Cory Rasmus, is breaking records at the 2026 Little League World Series.",
-      "url": "https://www.usatoday.com/story/sports/mlb/llws/2026/08/26/kinley-rasmus-little-league-world-series-llws-dad/91471717007/",
-      "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/08/26/NENT/91474717007-082626-mv-williamsport-southwest-16.JPG?crop=4542,2555,x0,y0&width=3200&height=1801&format=pjpg&auto=webp",
-      "publishedAt": "2026-08-27T13:05:00Z",
-      "content": "Kinley Rasmus of Phenix City Little League, daughter of former Major League pitcher Cory Rasmus, has emerged as one of the breakout stars of this years Little League World Series. Shining as both a p… [+2187 chars]"
+      "author": "Silvia Foster-Frau, Maria Sacchetti",
+      "title": "ICE agent charged in shooting of immigrant in Minneapolis released from Texas jail - The Washington Post",
+      "description": "Christian Castro has been released from a jail in Texas after a federal judge denied Minnesota’s request to keep him in custody.",
+      "url": "https://www.washingtonpost.com/immigration/2026/08/27/ice-agent-wanted-shooting-immigrant-minneapolis-is-released/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/PF37ERVBIYI7DBQGDVAK2AAXFY_size-normalized.jpg&w=1440",
+      "publishedAt": "2026-08-27T17:43:32Z",
+      "content": "Christian Castro, the U.S. Immigration and Customs Enforcement agent charged with shooting and injuring a man in Minneapolis, has been released from a jail in Texas after a federal judge denied Minne… [+36 chars]"
     },
     {
       "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
+        "id": null,
+        "name": "Hollywood Reporter"
       },
-      "author": "Ivan Mehta",
-      "title": "Plaud’s new earphones come with an eSIM-enabled case for talking to AI agents - TechCrunch",
-      "description": "Plaud's new 'agentic' earbuds are priced at $249.",
-      "url": "https://techcrunch.com/2026/08/27/plauds-new-earphones-come-with-an-esim-enabled-case-for-talking-to-ai-agents/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/08/169-KV-Clean-2.jpeg?resize=1200,675",
-      "publishedAt": "2026-08-27T13:00:00Z",
-      "content": "Hardware companies have realized that note-taking is one of the easiest AI use cases to build for, and consequently have been busy shoving mics into everything from pendants and rings to credit-card-… [+3774 chars]"
+      "author": "Kirsten Chuba",
+      "title": "Will Forte Says Glowing Reviews for ‘Coyote vs. Acme’ “Make It Feel Like You’re Not Crazy,” Admits “I Felt Gaslit For a While” - The Hollywood Reporter",
+      "description": "After being shelved at Warner Bros. three years ago, the Looney Tunes legal comedy co-starring John Cena and Lana Condor is finally coming to theaters.",
+      "url": "http://www.hollywoodreporter.com/movies/movie-news/will-forte-reviews-coyote-vs-acme-gaslit-1236683074/",
+      "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/EC1_1172_pOf54dWe.jpg?crop=0px%2C428px%2C3984px%2C2229px&resize=1440%2C810",
+      "publishedAt": "2026-08-27T17:42:40Z",
+      "content": "After several years in limbo, Coyote vs. Acme finally got its moment in the sun on Wednesday at its L.A. premiere. \r\nIt was a night that for a long time did not seem possible, after Warner Bros. Disc… [+3356 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": null,
+      "title": "Democrats hand Trump one power they spent years fighting - Fox News",
+      "description": "Senate Democrats voted to give Trump limited tariff authority in exchange for Russia sanctions, a move some warn he could exploit against trade partners.",
+      "url": "https://www.foxnews.com/politics/democrats-hand-trump-one-power-spent-years-fighting",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/08/trump-ivf-order-fox-news.png",
+      "publishedAt": "2026-08-27T17:23:27Z",
+      "content": "After raging against a key tool in President Donald Trumps economic arsenal, Senate Democrats quietly green-lit the authority before they left Washington, D.C.\r\nDemocrats have bashed Trumps use of ta… [+3992 chars]"
+    },
+    {
+      "source": {
+        "id": "axios",
+        "name": "Axios"
+      },
+      "author": "Marc Caputo",
+      "title": "Scoop: U.S. close to striking \"massive\" deal for Venezuelan oil fields - Axios",
+      "description": "The deal would give the U.S. an ownership stake in Venezuela's oil fields and more than double American oil reserves.",
+      "url": "https://www.axios.com/2026/08/27/trump-venezuela-oil-deal-talks",
+      "urlToImage": "https://images.axios.com/CkGosnh3jr8ThqlR6MVeOulwlZU=/0x0:1920x1080/1366x768/2026/08/27/1787847142923.jpg",
+      "publishedAt": "2026-08-27T17:08:21Z",
+      "content": "<ul><li>\"Calling this deal huge would be an understatement,\" one of the officials said. \"It is massive.\"</li><li>Adding pressure to get the deal signed: the wars in Iran and Ukraine, which have disru… [+2636 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "MMA Fighting"
+      },
+      "author": "Mike Heck",
+      "title": "Bella Mir’s mother releases statement, apologizes after ripping Alex Apodaca following shocking DWCS result - MMA Fighting",
+      "description": "Jennifer Mir, the mother of Bella Mir, has apologized to Alex Apodaca following her comments after her massive upset win on DWCS.",
+      "url": "https://www.mmafighting.com/ufc/507322/bella-mirs-mother-releases-statement-apologizes-after-ripping-alex-apodaca-following-shocking-dwcs-result",
+      "urlToImage": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/08/gettyimages-2292059210.jpg?quality=90&strip=all&crop=0%2C10.735434041507%2C100%2C78.529131916987&w=1200",
+      "publishedAt": "2026-08-27T17:00:00Z",
+      "content": "Bella Mirs mother has been under fire since her reactions on social media following her daughters loss on the Contender Series this week, but is offering an explanation, and an apology to Alex Apodac… [+1708 chars]"
     },
     {
       "source": {
         "id": "ars-technica",
         "name": "Ars Technica"
       },
-      "author": "Dan Goodin",
-      "title": "How OpenAI let a mob of LLM agents game a test and ransack Hugging Face - Ars Technica",
-      "description": "Without authorization, 1,200 OpenAI agents conspired among themselves to game a test.",
-      "url": "https://arstechnica.com/security/2026/08/how-openai-let-a-mob-of-llm-agents-game-a-test-and-ransack-hugging-face/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-1004669768-1152x648-1784927041.jpg",
-      "publishedAt": "2026-08-27T12:58:59Z",
+      "author": "Beth Mole",
+      "title": "RFK Jr. spews anti-vaccine rubbish as newborn revealed to have died from measles - Ars Technica",
+      "description": "Kennedy and his allies have a history of downplaying vaccine-preventable deaths.",
+      "url": "https://arstechnica.com/health/2026/08/rfk-jr-spews-anti-vaccine-rubbish-as-newborn-revealed-to-have-died-from-measles/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-2262712176-1152x648.jpg",
+      "publishedAt": "2026-08-27T16:36:16Z",
       "content": null
     },
     {
       "source": {
         "id": null,
-        "name": "NBCSports.com"
+        "name": "Rolling Stone"
       },
-      "author": null,
-      "title": "NFL finally throws in the towel on the Pro Bowl - NBC Sports",
-      "description": "The Athletic's Jonathan Jones reports the Pro Bowl \" will no longer have a standalone game.\"",
-      "url": "https://www.nbcsports.com/fantasy/football/player-news/2026-08-26/nfl-finally-throws-in-the-towel-on-the-pro-bowl",
-      "urlToImage": "https://nbcsports.brightspotcdn.com/dims4/default/c7c7a81/2147483647/strip/true/crop/100x56+0+39/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fplayers%2F2%2F8369.jpg",
-      "publishedAt": "2026-08-27T12:38:43Z",
-      "content": "A Division of NBCUniversal.\r\nDISCLAIMER: This site and the products offered are for entertainment purposes only, and there is no gambling offered on this site. This service is intended for adult audi… [+153 chars]"
+      "author": "Kory Grow",
+      "title": "Dolly Parton’s Sister Stella Honors Singer: ‘Dolly Loved the World and Everyone in It’ - Rolling Stone",
+      "description": "Dolly Parton's sister, Stella, posted a tribute to her sister asking for people follow her example.",
+      "url": "http://www.rollingstone.com/music/music-news/dolly-parton-sister-stella-tribute-1235616754/",
+      "urlToImage": "https://www.rollingstone.com/wp-content/uploads/2026/08/stella-parton-on-dolly.jpg?w=1600&h=900&crop=1",
+      "publishedAt": "2026-08-27T16:27:50Z",
+      "content": "Dolly Parton‘s younger sister Stella posted a tribute to the late country icon today on Facebook. “My sister was one of the most generous, thoughtful, and kind people I’ve ever known,” she wrote. In … [+2087 chars]"
     },
     {
       "source": {
-        "id": "fox-news",
-        "name": "Fox News"
+        "id": "associated-press",
+        "name": "Associated Press"
       },
-      "author": null,
-      "title": "Missouri deputy AG, missing 6 days after seeking to summit Wyoming's tallest peak, is found alive - Fox News",
-      "description": "Missouri Attorney General Catherine L. Hanaway celebrated the rescue of Shaun Mackelprang after crews searched Wyoming's Wind River Range for days.",
-      "url": "https://www.foxnews.com/us/missouri-deputy-ag-missing-6-days-seeking-summit-wyomings-tallest-peak-found-alive",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/08/Shaun-Mackelprang-rescue-display.jpg",
-      "publishedAt": "2026-08-27T12:08:43Z",
-      "content": "A Missouri deputy attorney general who disappeared after setting out for Wyomings highest peak was found alive Wednesday after six days in the rugged mountains, authorities said.\r\nShaun Mackelprang w… [+2452 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "MacRumors"
-      },
-      "author": "Tim Hardwick",
-      "title": "Apple Event Logo Hints at Two iPhone 18 Pro Features - MacRumors",
-      "description": "Apple's logo for its upcoming September 9 \"Surprise and shine\" event hints at two rumored iPhone 18 Pro features, including new color...",
-      "url": "https://www.macrumors.com/2026/08/27/apple-event-hints-iphone-18-pro-features/",
-      "urlToImage": "https://images.macrumors.com/t/3KxQ1Cj5B33XoyogmjHvpHDtHDE=/2048x/article-new/2026/08/Apple-Surprise-Shine.jpeg",
-      "publishedAt": "2026-08-27T11:46:03Z",
-      "content": "Apple's logo for its upcoming September 9 \"Surprise and shine\" event hints at two rumored iPhone 18 Pro features, including new color options and a new camera system.\r\nApple fans often like to read i… [+1507 chars]"
+      "author": "Yuri Kageyama",
+      "title": "Yayoi Kusama, who splashed polka dots across the art world, dies at 97 in Tokyo - AP News",
+      "description": "Pioneering Japanese artist Yayoi Kusama has died. She was 97. Yayoi Kusama Studio said she died at a hospital in Tokyo on Aug. 14. Kusama splashed her signature polka dots on paintings, sculptures and museum installations around the world. Repetitive motifs w…",
+      "url": "https://apnews.com/article/yayoi-kusama-artist-obituary-f92e15d5e6a446f48f3675ddd2418b8a",
+      "urlToImage": "https://dims.apnews.com/dims4/default/e07f9da/2147483647/strip/true/crop/3000x1999+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F59%2Fca%2Fbfe2c57817e3ba1b679d13fa60c9%2Fa071e5eab1c846b88605941f24d6403d",
+      "publishedAt": "2026-08-27T15:56:00Z",
+      "content": "TOKYO (AP) Japanese artist Yayoi Kusama, who splashed her signature polka dots on paintings, sculptures and museum installations around the world, has died, her studio said Thursday. She was 97.\r\nKus… [+5433 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "BBC News"
+        "name": "On3.com"
       },
-      "author": null,
-      "title": "A biopic, a coffee brand and dog treats among Dolly Parton's business projects still to come - BBC",
-      "description": "\"Dolly worked up until the day she died,\" her manager says, as her upcoming projects are revealed.",
-      "url": "https://www.bbc.com/news/articles/c9dwy750jpdo",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/6669/live/055ee1c0-a200-11f1-a97e-999c5aae08bf.jpg",
-      "publishedAt": "2026-08-27T11:00:10Z",
-      "content": "Singer and businesswoman Dolly Parton, who died earlier this week, had a slew of projects in the pipeline including a biopic, documentary, avatar show, museum, travel stop for truckers, coffee brand … [+14 chars]"
-    },
-    {
-      "source": {
-        "id": "fox-news",
-        "name": "Fox News"
-      },
-      "author": null,
-      "title": "Oil prices remain low; Strait of Hormuz at center of Iran, Oman negotiations - Fox News",
-      "description": "Crude oil prices hovered near $82 Thursday despite a second commercial vessel incurring an attack in the Strait of Hormuz as Tehran and Oman work towards a deal to establish fees in the waterway",
-      "url": "https://www.foxnews.com/live-news/iran-war-us-strait-hormuz-oman-oil-tensions-08-27-26",
-      "urlToImage": "https://assets.foxnews.com/liveblog/fn/prod/images/2026/08/57ad188b984c634c6a1bd842b3999f2d.jpg",
-      "publishedAt": "2026-08-27T10:48:56Z",
-      "content": "Outgoing White House press secretary Karoline Leavitt said that the U.S. military blockade in the Arabian Sea will continue during her final interview on the job Thursday with Fox &amp; Friends.\r\n\"As… [+2369 chars]"
+      "author": "Andy Staples",
+      "title": "Calling my shot: Five bold predictions for the 2026 college football season - On3",
+      "description": "Andy Staples unveils five bold predictions for the 2026 college football season. He writes that an SEC team will win the national title.",
+      "url": "https://www.on3.com/news/calling-my-shot-five-bold-predictions-for-the-2026-college-football-season/",
+      "urlToImage": "https://on3static.com/uploads/dev/assets/cms/2026/08/27093201/cfb-afi-1-1.png",
+      "publishedAt": "2026-08-27T15:32:30Z",
+      "content": "When I unveiled my Bold Predictions this time last year, I called the 2025 season the most unpredictable in years. I was correct because only four of those 10 predictions came true. \r\nThats OK. Batti… [+6000 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "GoErie.com"
+        "name": "The Colorado Sun"
       },
-      "author": "Mitch Perry",
-      "title": "RFK Jr. questions Pa. measles deaths report; critics warn of impact - Erie Times-News",
-      "description": "Comments by RFK Jr. about reported measles deaths prompted a sharp response from Gov. Josh Shapiro and renewed concerns among health officials.",
-      "url": "https://www.goerie.com/story/news/healthcare/2026/08/27/rfk-jr-measles-comments-draw-public-health-criticism/91486470007/",
-      "urlToImage": "https://www.goerie.com/gcdn/authoring/authoring-images/2026/08/17/USAT/91339603007-trump-and-rfk-jr-on-vaccines.jpg?crop=5887,3314,x0,y0&width=3200&height=1802&format=pjpg&auto=webp",
-      "publishedAt": "2026-08-27T10:43:00Z",
-      "content": "TAMPA, Florida U.S. Health &amp; Human Services Secretary Robert F. Kennedy Jr. defended the Trump administrations stances on childhood vaccinations Wednesday, questioning the accuracy of a report th… [+6394 chars]"
+      "author": "Erica Breunlin",
+      "title": "A near-total lunar eclipse will turn the moon red over Colorado. Here’s how to catch the show. - The Colorado Sun",
+      "description": "The peak of the eclipse is expected around 9:45 p.m. with clear views along the Front Range and “hit or miss” farther south",
+      "url": "https://coloradosun.com/2026/08/27/colorado-lunar-eclipse-red-moon-weather-conditions/",
+      "urlToImage": "https://newspack-coloradosun.s3.amazonaws.com/wp-content/uploads/2026/06/FIRE-MOONKS-06282026002.jpg",
+      "publishedAt": "2026-08-27T15:10:45Z",
+      "content": "Colorado skies along the Front Range are looking clear for the moment the curtain goes up on Thursday nights near-total lunar eclipse, when a red-tinted moon will emerge across the entire state, visi… [+1995 chars]"
+    },
+    {
+      "source": {
+        "id": "the-hill",
+        "name": "The Hill"
+      },
+      "author": "Finya Swai",
+      "title": "GOP congressman: Jelly Roll ‘not welcomed’ to Florida Panhandle after Trump jabs - The Hill",
+      "description": "Rep. Jimmy Patronis (R-Fla.) ripped country star Jason DeFord, whose stage name is Jelly Roll, after the singer’s late-night monologue made fun of President Trump’s weight, with Patronis saying the singer is no longer welcome in his Florida Panhandle district…",
+      "url": "https://thehill.com/homenews/house/6054907-patronis-rips-jelly-roll-trump-jokes/",
+      "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2025/09/patronisjimmy_042925gn01_w.jpg?w=1280",
+      "publishedAt": "2026-08-27T15:10:00Z",
+      "content": "Skip to content\r\nRep. Jimmy Patronis (R-Fla.) ripped country star Jason DeFord, whose stage name is Jelly Roll, after the singer’s late-night monologue made fun of President Trump’s weight, with Patr… [+2268 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Space.com"
+      },
+      "author": "Josh Dinner",
+      "title": "Trump tried to scrap NASA's Roman Space Telescope last year. Now it's ready to launch - Space",
+      "description": "\"People were giving up their weekends, and at the same time, there was this compartmentalized knowledge that it could all get cut.\"",
+      "url": "https://www.space.com/space-exploration/launches-spacecraft/trump-tried-to-scrap-nasas-roman-space-telescope-last-year-now-its-ready-to-launch",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/EwPu85UVziqJB4gV35kinK-2560-80.jpg",
+      "publishedAt": "2026-08-27T15:00:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Ben Werschkul",
+      "title": "Iran and Oman move closer on 'future administration' of Strait of Hormuz. Tolls are in the mix. - Yahoo Finance",
+      "description": "Iran and Oman met this week and announced new progress toward a \"permanent navigational corridor and future administration\" of the Strait of Hormuz.",
+      "url": "https://finance.yahoo.com/markets/article/iran-and-oman-move-closer-on-future-administration-of-strait-of-hormuz-tolls-are-in-the-mix-143204896.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/525e9891d83f73c622719acf4dc56cce2001e5ccc2e70b849ba4945d574ffaf8/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-08%2Fb4a7fba3-465d-470c-828c-90982787035b",
+      "publishedAt": "2026-08-27T14:32:04Z",
+      "content": "Iran and Oman the two nations that abut the Strait of Hormuz met this week and announced new progress toward a \"permanent navigational corridor and future administration\" of the crucial waterway.\r\nIr… [+4357 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Android Headlines"
+      },
+      "author": "Alexander Maxham",
+      "title": "Exclusive: Samsung Galaxy S27 Pro Official CAD Renders Leaks - Android Headlines",
+      "description": "To add to the Galaxy S27 series this week, feast your eyes on the Galaxy S27 Pro. This is essentially the Galaxy S27 Ultra but in a smaller size. Unlike",
+      "url": "https://www.androidheadlines.com/samsung-galaxy-s27-pro",
+      "urlToImage": "https://www.androidheadlines.com/wp-content/uploads/2026/08/Exclusive-Samsung-Galaxy-S27-AH-999-scaled.png",
+      "publishedAt": "2026-08-27T13:01:31Z",
+      "content": "To add to the Galaxy S27 series this week, feast your eyes on the Galaxy S27 Pro. \r\nThis is essentially the Galaxy S27 Ultra but in a smaller size. Unlike Google and Apple, Samsung is using a differe… [+4050 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNET"
+      },
+      "author": "Mike Sorrentino",
+      "title": "Samsung’s Galaxy S26 FE Has Flagship Features, but It’s Harder to Call It a Bargain - CNET",
+      "description": "Samsung's best software features from 2026 are coming to the lower-cost S26 FE -- but at $700, it's certainly not cheap.",
+      "url": "https://www.cnet.com/tech/mobile/samsungs-700-galaxy-s26-fe-is-better-but-its-getting-harder-to-call-it-a-bargain/",
+      "urlToImage": "https://www.cnet.com/wp-content/uploads/sites/2/Samsung-S26-FE-24.jpg",
+      "publishedAt": "2026-08-27T12:00:00Z",
+      "content": "Samsungs Galaxy S26 FE may be the companys lower-cost flagship, but the phones getting nearly all of the same software features we first saw on the companys more expensive phones. And it better be, a… [+3816 chars]"
     },
     {
       "source": {
@@ -151,172 +398,29 @@
     },
     {
       "source": {
-        "id": "bloomberg",
-        "name": "Bloomberg"
-      },
-      "author": "Samantha Kelly, Natalie Lung",
-      "title": "Hugging Face Unveils $400 Singing, Skating Duck-Like Robot - Bloomberg.com",
-      "description": "Artificial intelligence platform Hugging Face Inc. unveiled a singing $400 bipedal robot that can be taught tricks, the latest in the company’s ongoing effort to make AI and robotics more approachable to the general public.The cute robot — aptly named Microdu…",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-27/hugging-face-unveils-400-singing-skating-duck-like-robot",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ibEoNidLRx4E/v2/1200x676.jpg",
-      "publishedAt": "2026-08-27T10:00:10Z",
-      "content": "Artificial intelligence platform Hugging Face Inc. unveiled a singing $400 bipedal robot that can be taught tricks, the latest in the companys ongoing effort to make AI and robotics more approachable… [+626 chars]"
-    },
-    {
-      "source": {
         "id": null,
-        "name": "NPR"
+        "name": "Space.com"
       },
-      "author": "Anastasia Tsioulcas",
-      "title": "Before an emergency hearing, the Kennedy Center's board threatens to demolish it - NPR",
-      "description": "A lawsuit seeks to block President Trump's name from going back on the center. The center's board warns that if renovation plans don't go forward, it may be demolished.",
-      "url": "https://www.npr.org/2026/08/27/nx-s1-5945238/emergency-hearing-kennedy-center-demolish-threat",
-      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5637x3171+0+256/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ff8%2F75%2F9fc1939246608fb4824442afd0a2%2Fgettyimages-2292011277.jpg",
-      "publishedAt": "2026-08-27T09:00:00Z",
-      "content": "In a legal filing, the board of the Kennedy Center said that the arts complex and living memorial\r\n to President John F. Kennedy may be torn down if its plans for a two-year renovation and to add Pre… [+4094 chars]"
-    },
-    {
-      "source": {
-        "id": "politico",
-        "name": "Politico"
-      },
-      "author": "Jennifer Scholtes, Katherine Tully-McManus",
-      "title": "The Social Security benefit cliff is here. Washington is struggling to wake up. - Politico",
-      "description": "Candidates now on the ballot will have to confront tough tradeoffs to prevent a drastic cut to retirees’ monthly checks.",
-      "url": "https://www.politico.com/news/2026/08/27/social-security-insolvent-cliff-01050928",
-      "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2Fc2%2Fd1%2F7e61273d43cba8f24ab4f8562587%2Fmain-socialsecuritycrunch.jpg",
-      "publishedAt": "2026-08-27T09:00:00Z",
-      "content": "Obamabacked away from a deal in 2011 with then-Speaker John Boehner to enact changes to Social Security as part of a broader fiscal grand bargain.\r\nToday, not only is the Social Security cliff much c… [+2420 chars]"
-    },
-    {
-      "source": {
-        "id": "cnn",
-        "name": "CNN"
-      },
-      "author": null,
-      "title": "Small plane crashes in water next to remote Alaska coastal town, killing all 4 on board - CNN",
-      "description": "A small plane carrying four people crashed into shallow waters next to a remote coastal town in Alaska on Wednesday, killing everyone on board, according to officials.",
-      "url": "https://www.cnn.com/2026/08/27/us/small-plane-crash-alaska-hnk",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/ap26237681114961.jpg?c=16x9&q=w_800,c_fill",
-      "publishedAt": "2026-08-27T07:19:43Z",
-      "content": "A small plane carrying four people crashed into shallow waters next to a remote coastal town in Alaska on Wednesday, killing everyone on board, according to officials.\r\nThe Piper PA-24 was heading fo… [+1391 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": "Chloe Taylor, Justina Lee, Alex Harring",
-      "title": "Stock futures rise as Nvidia shares gain over 4% after earnings: Live updates - CNBC",
-      "description": "Global investors are reacting to the earnings report from Nvidia, which surpassed analyst forecasts.",
-      "url": "https://www.cnbc.com/2026/08/26/stock-market-today-live-updates.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107376798-17086093362023-10-23t160042z_1411970615_rc2dy3a9538n_rtrmadp_0_usa-stocks.jpeg?v=1709051111&w=1920&h=1080",
-      "publishedAt": "2026-08-27T07:07:30Z",
-      "content": "Nvidia stands to break its recent pattern of seeing stock declines despite posting stronger-than-anticipated reports. Still, shares of Nvidia dropped more than 1% in Wednesday's session as investors … [+1783 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Variety"
-      },
-      "author": "Karla Cote",
-      "title": "Harry Styles Pays Tribute to Dolly Parton at MSG: Concert Review - Variety",
-      "description": "On the opening night of his Madison Square Garden residency, Harry Styles paid tribute to Dolly Parton and completely overhauled his setlist.",
-      "url": "https://variety.com/2026/music/reviews/harry-styles-tribute-dolly-parton-msg-concert-review-1236844775/",
-      "urlToImage": "https://variety.com/wp-content/uploads/2026/08/46_Pham_NycNt1_HS2_9915-e1787805412775.jpg?w=1000&h=563&crop=1",
-      "publishedAt": "2026-08-27T03:08:00Z",
-      "content": "Apart from the special show he performed with an orchestra in London, Harry Styles has played basically the same set since his “Together, Together” tour opened in Amsterdam 33 shows and nearly three … [+2967 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "BBC News"
-      },
-      "author": null,
-      "title": "Khalid Sheikh Mohammed: Trial date set for alleged 9/11 mastermind - BBC",
-      "description": "His plea deal to avoid a death-penalty trial was rejected by a federal appeals court last summer.",
-      "url": "https://www.bbc.com/news/articles/czezg2p50rxo",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/bac3/live/a4dad5b0-a1ba-11f1-966a-03e1c6a27aae.jpg",
-      "publishedAt": "2026-08-27T02:50:26Z",
-      "content": "Mohammed had reached a plea deal where he would admit guilt in exchange for avoiding a death-penalty trial, but a federal appeals court threw out the agreement last summer. Arrested in 2003, he has b… [+47 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Android Police"
-      },
-      "author": "Timi Cantisano",
-      "title": "Galaxy S27 Ultra leak reveals the 7,000mAh battery Samsung reportedly rejected - Android Police",
-      "description": "We can always dream",
-      "url": "https://www.androidpolice.com/the-galaxy-s27-ultra-could-have-arrived-with-a-7000mah-battery/",
-      "urlToImage": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/08/this-is-the-galaxy-s26-ultra-2-26-screenshot.png?w=1600&h=900&fit=crop",
-      "publishedAt": "2026-08-26T23:08:58Z",
-      "content": "Samsung used to really push the limits with its phones. But it's been pretty reserved ever since the 2016 battery failure incident. That event was huge and severely damaged the company's reputation. … [+2377 chars]"
-    },
-    {
-      "source": {
-        "id": "politico",
-        "name": "Politico"
-      },
-      "author": "Grace Yarrow",
-      "title": "Trump signs controversial beef import plan despite ranchers' backlash - Politico",
-      "description": "A slew of Republican lawmakers and beef industry allies have come out against President Donald Trump's plans that aim to lower the cost of ground beef.",
-      "url": "https://www.politico.com/news/2026/08/26/trump-signs-controversial-beef-import-plan-despite-ranchers-backlash-01051730",
-      "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2F64%2Fab%2F43ad9a5b49d4bf69f4f01004cec1%2Ftrump-67272.jpg",
-      "publishedAt": "2026-08-26T22:49:00Z",
-      "content": "The presidents move is the latest in a series of efforts to ease consumer strain at the grocery store ahead of the midterms. And it comes as White House officials and allies are increasingly worried … [+1792 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Hollywood Reporter"
-      },
-      "author": "McKinley Franklin, Lexi Carson",
-      "title": "Tim Curry Dead: Susan Sarandon, Carol Burnett, Rob Schneider Pay Tribute - The Hollywood Reporter",
-      "description": "The 'Rocky Horror Picture Show' star died at the age of 80 in Los Angeles, his longtime manager and friend Marcia Hurwitz announced Wednesday.",
-      "url": "http://www.hollywoodreporter.com/movies/movie-news/tim-curry-dead-tributes-reactions-1236682352/",
-      "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/MSDHOAL_FE030-H-2026.jpg?w=1296&h=730&crop=1",
-      "publishedAt": "2026-08-26T21:01:16Z",
-      "content": "Hollywood is mourning the loss of Tim Curry. \r\nThe Rocky Horror Picture Show star died at the age of 80 in Los Angeles, his longtime manager and friend Marcia Hurwitz announced Wednesday. A cause of … [+5260 chars]"
+      "author": "Sharmila Kuthunur",
+      "title": "Chance gaze at old Hubble Telescope image leads to discovery that could reveal dark matter's secrets - Space",
+      "description": "\"This is one of the most promising avenues for new astrophysical constraints on dark matter's nature.\"",
+      "url": "https://www.space.com/astronomy/hubble-space-telescope/chance-gaze-at-old-hubble-telescope-image-leads-to-discovery-that-could-reveal-dark-matters-secrets",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/7SgbBYfKYmqS62M4qymMqN-2000-80.jpg",
+      "publishedAt": "2026-08-26T15:00:00Z",
+      "content": null
     },
     {
       "source": {
         "id": null,
         "name": "Space.com"
       },
-      "author": "Chelsea Gohd",
-      "title": "From spy satellite to space telescope: The unlikely origins of NASA's Roman Space Telescope - Space",
-      "description": "At the heart of this next-gen space telescope lies the parts of old spy satellites.",
-      "url": "https://www.space.com/astronomy/from-spy-satellite-to-space-telescope-the-unlikely-origins-of-nasas-roman-space-telescope",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/RF7snvEnebMoLnr4CBnKE9-1920-80.jpg",
-      "publishedAt": "2026-08-26T21:00:00Z",
+      "author": "Mike Wall",
+      "title": "Final Falcon 9 Starlink launch from Florida creates gorgeous 'jellyfish' over New York City (video) - Space",
+      "description": "This was a milestone mission in more ways than one.",
+      "url": "https://www.space.com/space-exploration/launches-spacecraft/spacexs-final-falcon-9-starlink-launch-from-florida-creates-gorgeous-jellyfish-over-new-york-city-video",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/2XMVkHMbcBbwqQ422f5SHR-2560-80.jpg",
+      "publishedAt": "2026-08-26T12:00:00Z",
       "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ScienceAlert"
-      },
-      "author": "David Nield",
-      "title": "Forget Acid Rain: Electrically Charged Raindrops Can Corrode Metal in a Way We Never Knew About - ScienceAlert",
-      "description": "Metals everywhere need to be protected from corrosion, from beloved cars to iconic buildings, sculptures, and ships.",
-      "url": "https://www.sciencealert.com/forget-acid-rain-electrically-charged-raindrops-can-corrode-metal-in-a-way-we-never-knew-about",
-      "urlToImage": "https://www.sciencealert.com/images/2026/08/RustyMetal.jpg",
-      "publishedAt": "2026-08-26T19:00:34Z",
-      "content": "Metals everywhere need to be protected from corrosion, from beloved cars to iconic buildings, sculptures, and ships. \r\nHowever, according to new research, there's a source of corrosion we didn't know… [+4919 chars]"
-    },
-    {
-      "source": {
-        "id": "al-jazeera-english",
-        "name": "Al Jazeera English"
-      },
-      "author": null,
-      "title": "US inflation holds at 3.7 percent in July, above Fed target - Al Jazeera",
-      "description": "Inflation has worsened since the US and Israel attacked Iran, sending energy prices spiralling.",
-      "url": "https://www.aljazeera.com/economy/2026/8/26/us-inflation-remains-sticky-in-july",
-      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/08/AFP__20260824__C6DX7BT__v1__HighRes__SixMonthsSinceStartOfIranWar-1787595307.jpg?resize=1920%2C1440",
-      "publishedAt": "2026-08-26T17:33:01Z",
-      "content": "Inflation in the United States is holding steady well above the Federal Reserves 2 percent target for the 65th straight month, intensifying the debate about whether the US central bank should hold or… [+2789 chars]"
     },
     {
       "source": {
@@ -330,19 +434,6 @@
       "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/08/25/4647dfb5-c79b-4aee-b78b-3b9fd01b6d63/thumbnail/1200x630/9975b757d9ff565fe884a3b8628d25c7/untitled-design.jpg",
       "publishedAt": "2026-08-26T11:05:25Z",
       "content": "I have always been interested in the idea of food as medicine, and the significant role our diets play in our long-term health. On the latest episode of \"Healthful,\" I sat down with Dr. Laura Cox, an… [+4961 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "KCCI Des Moines"
-      },
-      "author": "Marcus McIntosh",
-      "title": "Owner says business dips at Ottumwa Pizza Ranch after being named possible measles exposure site - KCCI",
-      "description": "The owner of the Pizza Ranch in Ottumwa said he learned through TV news reports that his restaurant was a possible measles exposure site.",
-      "url": "https://www.kcci.com/article/iowa-measles-outbreak-affects-business-ottumwa-pizza-ranch-possible-exposure-site/73525027",
-      "urlToImage": "https://kubrick.htvapps.com/vidthumb/27c254b4-661c-4364-b5ca-99ed929ef951/52bd0455-ad90-492d-8cc3-3cae67c5da9b.jpg?crop=0.833xw%3A0.834xh%3B0.123xw%2C0&resize=1200%3A*",
-      "publishedAt": "2026-08-25T23:35:00Z",
-      "content": "OTTUMWA, IowaThe Iowa Department of Health and Human Services identified Pizza Ranch in Ottumwa as a possible measles exposure site. \r\nOwner Curt Hopkins said he learned about the announcement from a… [+3004 chars]"
     }
   ]
 }

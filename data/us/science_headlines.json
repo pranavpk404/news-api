@@ -3,21 +3,21 @@
   "country": "us",
   "category": "science",
   "mode": "country",
-  "fetched_at": "2026-09-03T01:35:05.094344+00:00",
-  "articles_count": 53,
+  "fetched_at": "2026-09-03T06:32:09.825671+00:00",
+  "articles_count": 55,
   "articles": [
     {
       "source": {
-        "id": null,
-        "name": "Futurism"
+        "id": "ars-technica",
+        "name": "Ars Technica"
       },
-      "author": "Victor Tangermann",
-      "title": "Researchers Alarmed as GPS Readings Suddenly Veer Off by 33 Feet, Enough to Crash Self-Driving Cars - Futurism",
-      "description": "Scientists are warning that a powerful solar storm threw GPS readings off by as much as 33 feet -- enough to cause real-world safety dangers.",
-      "url": "https://futurism.com/space/researchers-alarmed-gps-self-driving-cars",
-      "urlToImage": "https://futurism.com/wp-content/uploads/2026/09/researchers-alarmed-gps-self-driving-cars.jpg?w=1200",
-      "publishedAt": "2026-09-01T20:09:15Z",
-      "content": "Can’t-miss innovations from the bleeding edge of science and tech\r\nIn November of last year, scientists warned of a “severe” solar storm, the strongest in over two decades, colliding with the Earth.\r… [+2583 chars]"
+      "author": "Jennifer Ouellette",
+      "title": "Research roundup: 7 cool science stories we almost missed - Ars Technica",
+      "description": "Black hole stars,\" making cookies from plastic, tiny sound-powered drones, and more.",
+      "url": "https://arstechnica.com/science/2026/09/august-research-roundup-7-cool-science-stories-we-almost-missed/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/blackholestar1-1152x648.jpg",
+      "publishedAt": "2026-09-01T19:06:10Z",
+      "content": null
     },
     {
       "source": {
@@ -35,6 +35,19 @@
     {
       "source": {
         "id": null,
+        "name": "Phys.Org"
+      },
+      "author": null,
+      "title": "MeerKAT directly detects faint hydrogen signal from the distant universe - Phys.org",
+      "description": "Astronomers from the University of Manchester and the University of the Western Cape have directly detected an extremely faint radio signal from hydrogen gas billions of light-years away, opening a powerful new way to map the large-scale structure of the univ…",
+      "url": "https://phys.org/news/2026-09-meerkat-faint-hydrogen-distant-universe.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/2026/astronomers-use-meerka.jpg",
+      "publishedAt": "2026-09-01T18:20:08Z",
+      "content": "Astronomers from the University of Manchester and the University of the Western Cape have directly detected an extremely faint radio signal from hydrogen gas billions of light-years away, opening a p… [+5129 chars]"
+    },
+    {
+      "source": {
+        "id": null,
         "name": "Gadgetreview.com"
       },
       "author": "Rex Edison",
@@ -44,6 +57,45 @@
       "urlToImage": "https://s.yimg.com/lo/mysterio/api/9d6aac4d8e896ce74dabbf08370d13aa0820dded48bb65eab1b399fd438f9b41/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fgadget_review_articles_822%2F55359ec15e81b84d927d00e05f425096.jpg",
       "publishedAt": "2026-09-01T17:26:41Z",
       "content": "Nearly 35 years of seismic data. Over two million waveforms from roughly 5,000 magnitude-6-plus earthquakes. Manual analysis had picked through this archive for decades and kept missing something. A … [+4693 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Passant Rabie",
+      "title": "BepiColombo Survived a Glitchy 8-Year Trip to Mercury. Now Comes the Hard Part - Gizmodo",
+      "description": "The twin probes need to separate before entering a joint polar orbit around Mercury.",
+      "url": "https://gizmodo.com/bepicolombo-survived-a-glitchy-8-year-trip-to-mercury-now-comes-the-hard-part-2000805499",
+      "urlToImage": "https://gizmodo.com/app/uploads/2026/09/Mercury_Transfer_Module_separation-1200x675.jpg",
+      "publishedAt": "2026-09-01T17:15:16Z",
+      "content": "After traveling together as a conjoined spacecraft for eight years, the BepiColombo twin orbiters will finally be forced to separate as they arrive at their destination.\r\nBepiColombo, a joint mission… [+2424 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Phys.Org"
+      },
+      "author": "Krystal Kasal",
+      "title": "Geomagnetic superstorm shook GPS accuracy across the US—its timing may have averted agricultural losses - Phys.org",
+      "description": "On Nov. 11, 2025, Earth experienced a severe geomagnetic storm triggered by solar flares and coronal mass ejections from an active sunspot region. While this kind of storm brings beautiful auroras admired in many areas around the world, it can also cause iono…",
+      "url": "https://phys.org/news/2026-09-geomagnetic-superstorm-shook-gps-accuracy.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/geomagnetic-superstorm.jpg",
+      "publishedAt": "2026-09-01T16:30:01Z",
+      "content": "On Nov. 11, 2025, Earth experienced a severe geomagnetic storm triggered by solar flares and coronal mass ejections from an active sunspot region. While this kind of storm brings beautiful auroras ad… [+5577 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Space Daily"
+      },
+      "author": null,
+      "title": "Pluto’s atmosphere has probably persisted in some form for millions of years, but observations suggest its pressure fell 16% between mid-2021 and July 2023. With Pluto continuing away from the Sun until 2114, astronomers may be witnessing the beginning - Space Daily",
+      "description": "Stellar occultations suggest Pluto’s long pressure plateau is ending as nitrogen gas begins condensing back onto its frozen surface.",
+      "url": "https://spacedaily.com/t-pluto-atmosphere-pressure-decline-nitrogen-freezeout/",
+      "urlToImage": "https://spacedaily.com/wp-content/uploads/2026/09/nasa-spacedaily-pluto-haze-layers-pia20536-1024x484.jpg",
+      "publishedAt": "2026-09-01T16:30:00Z",
+      "content": "Pluto may be losing part of its sky to the ground beneath it.\r\nA 2026 study in The Planetary Science Journal reports that the dwarf planets atmospheric pressure appears to have begun falling after a … [+10198 chars]"
     },
     {
       "source": {
@@ -74,6 +126,19 @@
     {
       "source": {
         "id": null,
+        "name": "Cgtn.com"
+      },
+      "author": "CGTN",
+      "title": "China's FAST telescope offers new clues for understanding cosmic evolution - news.cgtn.com",
+      "description": "Scientists have long grappled with a perplexing question: in the early universe, new stars appeared with dazzling frequency, yet today, star formation has clearly slowed. Now, a new study led by Chinese scientists is offering fresh and crucial clues",
+      "url": "https://news.cgtn.com/news/2026-09-01/China-s-FAST-telescope-sheds-new-light-on-cosmic-evolution-1Q5GTzbnM4M/p.html",
+      "urlToImage": "https://news.cgtn.com/news/2026-09-01/China-s-FAST-telescope-sheds-new-light-on-cosmic-evolution-1Q5GTzbnM4M/img/ba4ccdd1a13c4895b449990c33195236/ba4ccdd1a13c4895b449990c33195236-1920.png",
+      "publishedAt": "2026-09-01T14:48:11Z",
+      "content": "Scientists have long grappled with a perplexing question: in the early universe, new stars appeared with dazzling frequency, yet today, star formation has clearly slowed. Now, a new study led by Chin… [+3113 chars]"
+    },
+    {
+      "source": {
+        "id": null,
         "name": "Phys.Org"
       },
       "author": "Shreejaya Karantha",
@@ -86,16 +151,42 @@
     },
     {
       "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
+        "id": null,
+        "name": "Discoverwildlife.com"
       },
-      "author": "TOI Science Desk",
-      "title": "In 1989, UK researchers turned 50 tonnes of coal-fired power station waste into an underwater reef; lobst - The Times of India",
-      "description": "Science News: What happens when waste from a coal-fired power station is placed beneath the sea? In 1989, researchers in the UK built an experimental artificial ree.",
-      "url": "https://timesofindia.indiatimes.com/science/in-1989-uk-researchers-turned-50-tonnes-of-coal-fired-power-station-waste-into-an-underwater-reef-lobsters-and-crabs-arrived-within-3-weeks/articleshow/133679315.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-133679523,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-09-01T11:42:00Z",
-      "content": "<ul><li>News</li>\r\n<li>Science News</li>\r\n<li>In 1989, UK researchers turned 50 tonnes of coal-fired power station waste into an underwater reef; lobsters and crabs arrived within 3 weeks</li></ul>\r\n… [+2058 chars]"
+      "author": "Nada Farhoud",
+      "title": "\"It can run at speeds of 35mph, climb 30m up a tree in seconds and is an excellent swimmer…\" 8 most dangerous, deadliest animals in Florida's Everglades - BBC Wildlife Magazine",
+      "description": "Florida's Everglades is a vast subtropical wilderness of sawgrass marshes, mangrove forests, cypress swamps and slow-moving water.",
+      "url": "https://www.discoverwildlife.com/animal-facts/deadliest-animals-florida-everglades",
+      "urlToImage": "https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/9ac494a4-627d-4fea-a827-dcf588dd6f96/79f76053-ea16-4d87-89f2-e777b1e1acba/thumbnails/18aa6ad1-2a9a-4adc-8daa-7b42275acafc.jpg?appId=f347d34d-c1a6-4a00-b570-b78c2dcb3211&w=1200",
+      "publishedAt": "2026-09-01T12:33:13Z",
+      "content": "Florida's Everglades is a vast subtropical wilderness of sawgrass marshes, mangrove forests, cypress swamps and slow-moving water. But beneath its seemingly tranquil surface lives an extraordinary co… [+9139 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Conversation Africa"
+      },
+      "author": "Dayana Alagirova, Karryl Kim Sagun Trajano, Margaret E. Kosal",
+      "title": "Many space missions are searching for life beyond Earth – but are we prepared for the fallout if they succeed? - The Conversation",
+      "description": "Historical events hold lessons about collaboration and competition in space that could inform how experts plan for the discovery of life beyond Earth.",
+      "url": "https://theconversation.com/many-space-missions-are-searching-for-life-beyond-earth-but-are-we-prepared-for-the-fallout-if-they-succeed-288171",
+      "urlToImage": "https://images.theconversation.com/files/755819/original/file-20260824-50-b2uqhs.jpg?ixlib=rb-4.1.1&rect=0%2C375%2C5500%2C2750&q=45&auto=format&w=1356&h=668&fit=crop",
+      "publishedAt": "2026-09-01T12:05:23Z",
+      "content": "Microbes from space have fueled the plots of science fiction mainstays like Project Hail Mary and The Andromeda Strain. But with more space missions launching each year, finding extraterrestrial life… [+9033 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Space.com"
+      },
+      "author": "Jules-Pierre Malartre",
+      "title": "Night sky September 2026 — The best things to see this month - Space",
+      "description": "Discover the best things to see in the night sky this month, from planets to moon meet-ups and deep-sky wonders.",
+      "url": "https://www.space.com/stargazing/what-to-see-night-sky-september-2026",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/qbBcnnxYC4TjjxsAdTTEv9-1920-80.jpg",
+      "publishedAt": "2026-09-01T11:57:16Z",
+      "content": null
     },
     {
       "source": {
@@ -125,16 +216,68 @@
     },
     {
       "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "TOI Science Desk",
+      "title": "Scientists use robots more than two kilometres beneath the Pacific to discover huge lava fields around an - The Times of India",
+      "description": "Science News: More than two kilometres beneath the surface of the Pacific, off the coast of Oregon, an active underwater volcano has been hiding one of the stranges.",
+      "url": "https://timesofindia.indiatimes.com/science/scientists-use-robots-more-than-two-kilometres-beneath-the-pacific-to-discover-huge-lava-fields-around-an-active-underwater-volcano/articleshow/133669182.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-133669266,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-09-01T07:00:00Z",
+      "content": "<ul><li>News</li>\r\n<li>Science News</li>\r\n<li>Scientists use robots more than two kilometres beneath the Pacific to discover huge lava fields around an active underwater volcano</li></ul>\r\nFollow Us … [+1916 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "World Socialist Web Site"
+      },
+      "author": null,
+      "title": "The Roman Space Telescope: The power of science and the bankruptcy of capitalism - World Socialist Web Site",
+      "description": "The extended international effort to probe the history of the universe of which the Roman telescope is a part conflicts directly with the continued existence of the profit motive and the nation-state system.",
+      "url": "https://www.wsws.org/en/articles/2026/09/01/nzpw-s01.html",
+      "urlToImage": "https://www.wsws.org/asset/94226243-3160-4472-b097-afff8a403ef1?rendition=1600x900",
+      "publishedAt": "2026-09-01T04:06:44Z",
+      "content": "The Nancy Grace Roman Space Telescope, launched at dawn on Sunday from Kennedy Space Center, is now well on its way to its final orbit about 1 million miles from Earth. The observatorys solar panels … [+10086 chars]"
+    },
+    {
+      "source": {
         "id": null,
         "name": "Space.com"
       },
       "author": "Mike Wall",
-      "title": "Watch 2 astronauts take 6th-ever all-female spacewalk today - Space",
+      "title": "Watch 2 astronauts take 6th-ever all-female spacewalk today - space.com",
       "description": "Coverage will begin at 7:00 a.m. ET today (Sept. 1).",
       "url": "https://www.space.com/space-exploration/international-space-station/watch-2-astronauts-take-6th-ever-all-female-spacewalk-today",
       "urlToImage": "https://cdn.mos.cms.futurecdn.net/fWSVjeR9TCkcS3o8zkGK8N-1920-80.jpg",
       "publishedAt": "2026-09-01T04:05:00Z",
       "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "NASA"
+      },
+      "author": "NASA Earth Observatory",
+      "title": "Ice Island Survives Run-In With Joe Island - NASA Science (.gov)",
+      "description": "In summer 2026, a substantial iceberg calved from Petermann Glacier in northwest Greenland and swiftly drifted into Nares Strait, colliding with an island along the way.",
+      "url": "https://science.nasa.gov/earth/earth-observatory/iceberg-from-petermann-glacier-speeds-away/",
+      "urlToImage": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/greenland-sheds-its-largest-berg-of-the-season/petermannberg_oli_20260824_th.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+      "publishedAt": "2026-09-01T04:00:00Z",
+      "content": "Summer is prime iceberg season in Greenlands glacier-fed fjords, and 2026 was no exception. Especially notable was the berg that broke from the Petermann Glacier along Greenlands northwest coast in A… [+5274 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "KSL.com"
+      },
+      "author": "Logan Stefanich, KSL",
+      "title": "Meteorite from 'once-in-a-lifetime' Great Salt Lake crash on display at University of Utah - KSL",
+      "description": "A 774-gram fragment of the Great Salt Lake meteorite is on display at the University of Utah.",
+      "url": "https://www.ksl.com/article/51618412/meteorite-from-once-in-a-lifetime-great-salt-lake-crash-on-display-at-university-of-utah",
+      "urlToImage": "https://img.ksl.com/slc/3200/320002/32000201.jpeg?filter=kslv2/responsive_story_lg",
+      "publishedAt": "2026-09-01T03:34:33Z",
+      "content": "SALT LAKE CITY Every year, James Karner travels to Antarctica as the principal investigator of the Antarctic Search for Meteorites to find and collect meteorites for the whole world to study.\r\nDespit… [+4961 chars]"
     },
     {
       "source": {
@@ -148,45 +291,6 @@
       "urlToImage": "https://s.yimg.com/lo/mysterio/api/cd81471cc085f025304ad48e5212fbfe9575d1d11ac4b19a73f12741f032730a/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cool_down_737%2Faaf3de4adf37e320b6693c326b2243ed.jpg",
       "publishedAt": "2026-09-01T02:37:00Z",
       "content": "Scientists have cleared a striking hurdle in synthetic biology: They got two different genetic codes working inside the same cell.\r\nThe advance is a step toward building forms of life that can manufa… [+2822 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "TOI Science Desk",
-      "title": "Nasa scientists grew corn seeds in space and found that microgravity changed how the seedlings’ roots and - The Times of India",
-      "description": "Science News: Long before astronauts ever plant a seed on the Moon or Mars, Nasa has been testing a much simpler question here on Earth's doorstep: what happens whe.",
-      "url": "https://timesofindia.indiatimes.com/science/nasa-scientists-grew-corn-seeds-in-space-and-found-that-microgravity-changed-how-the-seedlings-roots-and-shoots-grew/articleshow/133610065.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-133610277,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-09-01T01:00:00Z",
-      "content": "<ul><li>News</li>\r\n<li>Science News</li>\r\n<li>Nasa scientists grew corn seeds in space and found that microgravity changed how the seedlings roots and shoots grew</li></ul>\r\nFollow Us On Social Media… [+116 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Upworthy"
-      },
-      "author": "Upworthy Staff",
-      "title": "The most dramatic proof of our current climate catastrophe ever caught on camera - Yahoo News Canada",
-      "description": "A photographer captured the largest glacier calving event ever filmed, forever changing his mind on climate change.",
-      "url": "https://www.upworthy.com/the-largest-proof-of-climate-catastrophe-ex1/",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/3e554ade02b174af79a5c22459c2a4b26350c379ef63bff014ed3376f9fed92e/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fupworthy_219%2F1e7eba0b50269db9614b1c4829ec2cd7.jpg",
-      "publishedAt": "2026-09-01T00:04:00Z",
-      "content": "Photographer James Balog and his crew were hanging out near a glacier when their camera captured something extraordinary. They were in Greenland, gathering footage from the time-lapse they'd position… [+3949 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "PBS"
-      },
-      "author": "Amna Nawaz, Miles O'Brien, Karina Cuevas, Bridget Craig",
-      "title": "How NASA's new space telescope could help solve mysteries of dark energy and dark matter - pbs.org",
-      "description": "NASA launched its newest space telescope, undertaking its biggest mission yet to study the universe on a much larger scale. A roughly $4 billion project, the Nancy Grace Roman Space Telescope will allow scientists to get panoramic views of space and better un…",
-      "url": "https://www.pbs.org/newshour/show/how-nasas-new-space-telescope-could-help-solve-mysteries-of-dark-energy-and-dark-matter",
-      "urlToImage": "https://d3i6fh83elv35t.cloudfront.net/static/2026/08/cosmos-1024x683.jpg",
-      "publishedAt": "2026-08-31T22:30:50Z",
-      "content": "NASA launched its newest space telescope, undertaking its biggest mission yet to study the universe on a much larger scale. A roughly $4 billion project, the Nancy Grace Roman Space Telescope will al… [+5170 chars]"
     },
     {
       "source": {
@@ -204,28 +308,15 @@
     {
       "source": {
         "id": null,
-        "name": "Phys.Org"
+        "name": "Space Daily"
       },
       "author": null,
-      "title": "Faint far-infrared radiation drives a correlated insulator-to-metal transition in magic-angle graphene - Phys.org",
-      "description": "One of the central ideas in modern physics is the phase transition—a sudden transformation of the state of a material. We encounter phase transitions throughout everyday life: water freezes into ice, wax melts in the warmth of a flame, and water vapor condens…",
-      "url": "https://phys.org/news/2026-08-faint-infrared-insulator-metal-transition.html",
-      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/faint-far-infrared-rad.jpg",
-      "publishedAt": "2026-08-31T22:20:03Z",
-      "content": "One of the central ideas in modern physics is the phase transitiona sudden transformation of the state of a material. We encounter phase transitions throughout everyday life: water freezes into ice, … [+4565 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "New York Post"
-      },
-      "author": "Chadwick Moore",
-      "title": "First 'space elevator' — a 66,000-mile cable to the cosmos— closer than ever before as scientists make breakthrough - New York Post",
-      "description": "“There’s no reason we can’t put a honeymoon hotel on one of those legs.”",
-      "url": "https://nypost.com/2026/08/31/science/first-space-elevator-a-66000-mile-cable-to-the-cosmos-closer-than-ever-before-as-scientists-make-breakthrough/",
-      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/08/newspress-collage-k1s12rfn7-1788210049832.jpg?quality=75&strip=all&1788195665&w=1200",
-      "publishedAt": "2026-08-31T22:15:00Z",
-      "content": "On a visit to NASA’s Johnson Space Center in Houston last week, President Trump promised American astronauts would establish a permanent presence on the Moon before pushing forward to Mars.\r\n“Our nat… [+9901 chars]"
+      "title": "At the space shuttle’s orbital speed of roughly 28,000 kilometres per hour, the journey to Alpha Centauri would take about 165,000 years. Breakthrough Starshot proposes sending a gram-scale chip attached to a metre-wide sail—accelerated by Earth-based la - Space Daily",
+      "description": "The 165,000-year shuttle comparison is sound arithmetic rather than a mission profile, while Starshot’s 20-year result depends on a gram-scale flyby probe, a metre-scale sail and an unbuilt Earth-based laser array.",
+      "url": "https://spacedaily.com/t-shuttle-speed-alpha-centauri-165000-years-starshot-20-years/",
+      "urlToImage": "https://spacedaily.com/wp-content/uploads/2026/08/alpha-centauri-system-eso1702b.jpg",
+      "publishedAt": "2026-08-31T22:30:00Z",
+      "content": "At orbital speed, the space shuttle crossed a continent in minutes. It circled Earth about once every 90 minutes, moving fast enough for its crew to see a sunrise or sunset roughly every 45 minutes.\r… [+10505 chars]"
     },
     {
       "source": {
@@ -259,12 +350,12 @@
         "name": "Space.com"
       },
       "author": "Samantha Mathewson",
-      "title": "NASA's doomed Swift space telescope restarts science work after rescue mission fails - Space",
-      "description": "The nearly 22-year-old observatory is once again studying the cosmos, but its time in orbit is running out.",
+      "title": "NASA's doomed Swift space telescope restarts science work after rescue mission fails - Yahoo",
+      "description": "NASA's Swift space telescope has resumed science observations after a private mission failed to boost its decaying orbit, making the most of its remaining ti...",
       "url": "https://www.space.com/space-exploration/missions/nasas-doomed-swift-space-telescope-restarts-science-work-after-rescue-mission-fails",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/vrXD6fnzi9tqspZvKaeFBi-2560-80.jpg",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/b2e60ef78db325e1965df6fa5720bf97991167f9a35618a041700de7f43f7dd8/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fspace_311%2Fd51224179e0968dcc24413a16bb64e06.jpg",
       "publishedAt": "2026-08-31T21:00:00Z",
-      "content": null
+      "content": "When you buy through links on our articles, Future and its syndication partners may earn a commission.\r\nArtist's illlustration of NASA's Neil Gehrels Swift Observatory, which launched to Earth orbit … [+4019 chars]"
     },
     {
       "source": {
@@ -281,16 +372,29 @@
     },
     {
       "source": {
-        "id": "ars-technica",
-        "name": "Ars Technica"
+        "id": null,
+        "name": "Phys.Org"
       },
-      "author": "Jacek Krywko",
-      "title": "Raindrops are tiny lightning bolts, and they’re corroding cars, study finds - Ars Technica",
-      "description": "Finding reveals an overlooked way that water can damage surfaces.",
-      "url": "https://arstechnica.com/science/2026/08/raindrops-are-tiny-lightning-bolts-and-theyre-corroding-cars-study-finds/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-1856868830-1152x648.jpg",
-      "publishedAt": "2026-08-31T17:11:48Z",
-      "content": null
+      "author": null,
+      "title": "New method swaps single atom in a molecule to speed drug discovery - Phys.org",
+      "description": "Swapping out one letter in a word can entirely change its meaning. Similarly, swapping one atom in a molecule can completely change its identity. A group of chemists at the University of Chicago has demonstrated a new way to make a single-atom edit to a molec…",
+      "url": "https://phys.org/news/2026-08-method-swaps-atom-molecule-drug.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/new-method-swaps-singl.jpg",
+      "publishedAt": "2026-08-31T20:40:01Z",
+      "content": "Swapping out one letter in a word can entirely change its meaning. Similarly, swapping one atom in a molecule can completely change its identity. A group of chemists at the University of Chicago has … [+4142 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Sci.news"
+      },
+      "author": "Enrico de Lazaro",
+      "title": "55-Million-Year-Old Predatory Mammal Footprint Found in Antarctica - Sci.News",
+      "description": "A single fossilized footprint found in volcanic mud on a remote Antarctic island is the first known trackway from a mammal in Antarctica, and the earliest evidence anywhere on the continent of a carnivorous mammal.",
+      "url": "https://www.sci.news/paleontology/eocene-predatory-mammal-footprint-antarctica-15031.html",
+      "urlToImage": "https://cdn.sci.news/images/2026/08/image_15031f-T-373-Footprint.jpg",
+      "publishedAt": "2026-08-31T19:27:08Z",
+      "content": "A single fossilized footprint found in volcanic mud on a remote Antarctic island is the first known trackway from a mammal in Antarctica, and the earliest evidence anywhere on the continent of a carn… [+4259 chars]"
     },
     {
       "source": {
@@ -334,15 +438,15 @@
     {
       "source": {
         "id": null,
-        "name": "Discoverwildlife.com"
+        "name": "Space.com"
       },
-      "author": "Magda Patynska",
-      "title": "It looks like spaghetti, doesn’t have a gut or mouth – and has been feeding on bioplastics for millions of years - discoverwildlife.com",
-      "description": "Long before we invented biodegradable plastic, nature had its own version.",
-      "url": "https://www.discoverwildlife.com/animal-facts/marine-animals/olavius-algarvensis-worm-phas",
-      "urlToImage": "https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/9ac494a4-627d-4fea-a827-dcf588dd6f96/9d6089b6-d108-43c6-8e38-eb2a7a967575/thumbnails/d2e978d7-6049-4882-9826-e201d673d607.jpg?appId=f347d34d-c1a6-4a00-b570-b78c2dcb3211&w=1200",
-      "publishedAt": "2026-08-31T15:10:00Z",
-      "content": "Scientists from the Max Planck Institute for Marine Microbiology in Bremen, Germany, have discovered that breaking down microbial bioplastics isnt a skill reserved for microorganisms, like previously… [+3709 chars]"
+      "author": "Mike Wall",
+      "title": "SpaceX, NASA delay next astronaut launch to ISS due to leak on Dragon spacecraft - Space",
+      "description": "Crew-13 had been scheduled to lift off on Sept. 12. A new target date has not yet been announced.",
+      "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-nasa-delay-next-astronaut-launch-to-iss-due-to-leak-on-dragon-spacecraft",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/pcwY6JhozgEgPSKMGgbhFh-1920-80.jpg",
+      "publishedAt": "2026-08-31T15:00:00Z",
+      "content": null
     },
     {
       "source": {
@@ -360,15 +464,15 @@
     {
       "source": {
         "id": null,
-        "name": "Space.com"
+        "name": "Phys.Org"
       },
-      "author": "Anthony Wood",
-      "title": "September full moon 2026 — When, where and how to see the Harvest Moon - Space",
-      "description": "Your guide to September's full Harvest Moon, from peak times to skywatching highlights.",
-      "url": "https://www.space.com/stargazing/september-full-moon-2026-when-where-and-how-to-see-the-harvest-moon",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/eCz4FGuSXrzJjpQh9aUv9W-1920-80.jpg",
-      "publishedAt": "2026-08-31T13:00:00Z",
-      "content": null
+      "author": null,
+      "title": "Physicists take Hall effect in a new direction - Phys.org",
+      "description": "Carnegie Mellon University scientists have uncovered a new phenomenon that challenges a longstanding assumption about how electronic materials respond to magnetic fields. The discovery broadens the fundamental understanding of the Hall effect, a principle wid…",
+      "url": "https://phys.org/news/2026-08-physicists-hall-effect.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/2026/cmu-physicists-take-ha.jpg",
+      "publishedAt": "2026-08-31T13:20:07Z",
+      "content": "Carnegie Mellon University scientists have uncovered a new phenomenon that challenges a longstanding assumption about how electronic materials respond to magnetic fields. The discovery broadens the f… [+5529 chars]"
     },
     {
       "source": {
@@ -408,32 +512,6 @@
       "urlToImage": "https://spacedaily.com/wp-content/uploads/2026/08/esa-mars500-crew-eating-together-2010-1024x683.jpg",
       "publishedAt": "2026-08-31T11:56:16Z",
       "content": "Six men sealed inside a simulated Mars spacecraft became progressively less active across 520 days. From the first 130-day mission quarter to the last, active waking fell by 7 percent, equivalent to … [+8706 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Phys.Org"
-      },
-      "author": "Shreejaya Karantha",
-      "title": "JWST may solve a 20-year mystery behind a rule-breaking gamma-ray burst - Phys.org",
-      "description": "Astronomers may have finally solved the mystery behind a nearly two-decade-old cosmic explosion that seemed to break the rules of physics. The energy output of a powerful gamma-ray burst, GRB 061201, discovered in 2006, did not match well-established patterns…",
-      "url": "https://phys.org/news/2026-08-jwst-year-mystery-gamma-ray.html",
-      "urlToImage": "https://scx2.b-cdn.net/gfx/news/2026/jwst-may-solve-a-20-ye.jpg",
-      "publishedAt": "2026-08-31T11:30:01Z",
-      "content": "Astronomers may have finally solved the mystery behind a nearly two-decade-old cosmic explosion that seemed to break the rules of physics. The energy output of a powerful gamma-ray burst, GRB 061201,… [+4904 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Space Daily"
-      },
-      "author": null,
-      "title": "The fossil record suggests extinction crises killing 10% of species occur roughly once per million years, while events killing around 65% occur roughly once per 100 million years — but these are episodic catastrophes, not a steady countdown toward the next - Space Daily",
-      "description": "David Raup's fossil-record kill curve estimated average waiting times for extinction events of different magnitudes. Those intervals describe an uneven historical distribution, not a periodic schedule or forecast of when the next crisis will occur.",
-      "url": "https://spacedaily.com/t-the-fossil-record-suggests-extinction-crises-killing-10-percent-of-species-occur-roughly-once-per-million-years-while-events-killing-around-65-percent-occur-roughly-once-per-100-million-years-but-th/",
-      "urlToImage": "https://spacedaily.com/wp-content/uploads/2026/08/marine-fossils-extinction-kill-curve.jpg",
-      "publishedAt": "2026-08-31T10:41:06Z",
-      "content": "The history of life is full of disappearances, but they are not spread evenly through time. Long intervals of comparatively modest turnover are interrupted by sharp pulses in which extinction acceler… [+7515 chars]"
     },
     {
       "source": {
@@ -502,29 +580,16 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "Thebrighterside.news"
+        "id": "wired",
+        "name": "Wired"
       },
-      "author": "Joseph Shavit, Joshua Shavit",
-      "title": "Quantum interference offers a radically different way to measure time - The Brighter Side of News",
-      "description": "A quantum watch uses interference in excited helium atoms to measure elapsed time without counting from a defined starting point.",
-      "url": "https://www.thebrighterside.news/post/quantum-interference-offers-a-radically-different-way-to-measure-time/#article",
-      "urlToImage": "https://www.thebrighterside.news/uploads/2026/08/time-measurement.png?auto=webp",
-      "publishedAt": "2026-08-30T11:51:00Z",
-      "content": "<ul><li>A new quantum watch uses changing interference patterns inside excited helium atoms to determine how much time has passed without counting from a defined time zero.</li><li>Uppsala University… [+10101 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Science Daily"
-      },
-      "author": null,
-      "title": "The next Cascadia megaquake could hit Oregon harder than expected - Science Daily",
-      "description": "The Juan de Fuca plate beneath northern Oregon appears to be shallower than previously estimated, potentially making shaking from a future Cascadia megathrust earthquake significantly stronger. Scientists also found a deep basin beneath Tillamook that could t…",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260828082350.htm",
-      "urlToImage": "https://www.sciencedaily.com/images/1920/high-tech-earthquake-fault-map.webp",
-      "publishedAt": "2026-08-30T04:14:01Z",
-      "content": "A new seismic analysis of the Juan de Fuca tectonic plate beneath northern Oregon suggests the subducting slab lies closer to the surface than scientists previously believed. The finding could affect… [+3465 chars]"
+      "author": "Jorge Garay",
+      "title": "Scientists Create the Littlest Big Bang to Study the Universe’s Origins - WIRED",
+      "description": "The discovery redefines how large atoms need to be to produce the extreme state of matter found in the early universe.",
+      "url": "https://www.wired.com/story/scientists-create-littlest-big-bang-to-study-universe-origins/",
+      "urlToImage": "https://media.wired.com/photos/6a91cdabbb3a85e785f50a72/191:100/w_1280,c_limit/2191305242",
+      "publishedAt": "2026-08-30T09:00:00Z",
+      "content": "In the very first moments of the universe, matter didnt exist as we know today. A millionth of a second or so after the big bang, the universe was a dense, hot soup scientists call quark-gluon plasma… [+2616 chars]"
     },
     {
       "source": {
@@ -619,19 +684,6 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "Space.com"
-      },
-      "author": "Brett Tingley",
-      "title": "Curiosity climbs to new heights on Mars photo of the day for Aug. 28, 2026 - Space",
-      "description": "Curiosity has now gained a kilometer of elevation on the Red Planet.",
-      "url": "https://www.space.com/space-exploration/mars-rovers/curiosity-climbs-to-new-heights-on-mars-space-photo-of-the-day-for-aug-28-2026",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/vUuK26XN5mpajpVS4Ks2L6-2000-80.jpg",
-      "publishedAt": "2026-08-28T14:00:00Z",
-      "content": null
-    },
-    {
-      "source": {
         "id": "cnn",
         "name": "CNN"
       },
@@ -649,38 +701,12 @@
         "name": "ScienceAlert"
       },
       "author": "Michelle Starr",
-      "title": "The Hiroshima Atomic Blast Forged a Metal Never Seen Before on Earth - ScienceAlert",
-      "description": "The world changed forever on 6 August 1945.",
-      "url": "https://www.sciencealert.com/the-hiroshima-atomic-blast-forged-a-metal-never-seen-before-on-earth",
-      "urlToImage": "https://www.sciencealert.com/images/2026/08/hiroshima.jpg",
-      "publishedAt": "2026-08-28T11:01:33Z",
-      "content": "The world changed forever on 6 August 1945.\r\nThat was the day humanity first deliberately turned the most powerful weapon ever conceived upon itself when the US unleashed an atomic bomb on the people… [+6565 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ScienceAlert"
-      },
-      "author": "Michelle Starr",
       "title": "NASA Spots a Bizarre 'Jellyfish' Floating on Mars. Here's What We Know. - ScienceAlert",
       "description": "NASA rovers Curiosity and Perseverance have photographed some pretty strange objects on the surface of Mars.",
       "url": "https://www.sciencealert.com/nasa-spots-a-bizarre-jellyfish-floating-on-mars-heres-what-we-know",
       "urlToImage": "https://www.sciencealert.com/images/2026/08/JellyfishMars.jpg",
       "publishedAt": "2026-08-28T10:02:12Z",
       "content": "NASA rovers Curiosity and Perseverance have photographed some pretty strange objects on the surface of Mars.\r\nFrom human-like heads and femur-like bones, to 'mushrooms' and suspiciously geometric str… [+4332 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Space.com"
-      },
-      "author": "Robert Lea",
-      "title": "James Webb Space Telescope observes 72 stars and finds planet formation is a race against time - Yahoo",
-      "description": "Using the James Webb Space Telescope, astronomers have studied 72 young sun-like stars to discover that forming planets is a real race against time.",
-      "url": "https://www.space.com/astronomy/james-webb-space-telescope/james-webb-space-telescope-observes-72-stars-and-finds-planet-formation-is-a-race-against-time",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/db639a5776a1d282dc1409a29d5455e16bcb0586fdb4e86f4525e2c6f542ba08/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fspace_311%2F65313b9b1baa9068554c7e50e5fbf125.png",
-      "publishedAt": "2026-08-27T21:00:00Z",
-      "content": "When you buy through links on our articles, Future and its syndication partners may earn a commission.\r\n(Main) An illustration of a protoplanetary disk; (inset) an artist's rendition of the James Web… [+3941 chars]"
     },
     {
       "source": {

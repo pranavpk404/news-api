@@ -3,9 +3,48 @@
   "country": "us",
   "category": "health",
   "mode": "country",
-  "fetched_at": "2026-09-05T19:36:02.746822+00:00",
+  "fetched_at": "2026-09-05T21:43:54.456195+00:00",
   "articles_count": 65,
   "articles": [
+    {
+      "source": {
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "author": "Jennifer Ouellette",
+      "title": "Medieval manuscripts are \"biological time capsules\" for deadly sheeppox virus - Ars Technica",
+      "description": "Other archives and libraries around the world may also contain genetic traces of past disease outbreaks.",
+      "url": "https://arstechnica.com/science/2026/09/medieval-manuscripts-are-biological-time-capsules-for-deadly-sheeppox-virus/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/sheeppox-1152x648-1788203007.jpg",
+      "publishedAt": "2026-09-04T19:01:02Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": null,
+      "title": "Scientists discover new tick-borne virus after testing thousands of patients with mysterious illnesses - Fox News",
+      "description": "The Asian longhorned tick nairovirus caused flu-like illness and thrombocytopenia in over 10% of tick-bitten patients studied in a China lab.",
+      "url": "https://www.foxnews.com/health/scientists-discover-new-tick-borne-virus-testing-thousands-patients-mysterious-illnesses",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/09/asian-longhorned-tick.jpg",
+      "publishedAt": "2026-09-04T18:42:53Z",
+      "content": "Scientists in China have identified a previously unknown tick-borne virus that can cause flu-like illness, fatigue and gastrointestinal symptoms, according to a new study.\r\nThe newly discovered virus… [+4491 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "10News"
+      },
+      "author": "Karina Vargas",
+      "title": "San Diego County investigating highly contagious parasite cases linked to Gaylord Pacific Resort pools - 10News.com",
+      "description": "Health officials say anyone who swam at the Chula Vista resort between July 24 and Aug. 15 may have been exposed to the highly contagious parasite.",
+      "url": "https://www.10news.com/news/local-news/san-diego-news/san-diego-county-investigating-highly-contagious-parasite-cases-linked-to-gaylord-pacific-resort-pools",
+      "urlToImage": "https://ewscripps.brightspotcdn.com/dims4/default/c1a2dc5/2147483647/strip/true/crop/1280x672+0+24/resize/1200x630!/quality/90/?url=https%3A%2F%2Fcf.cdn.uplynk.com%2Fausw2%2Fslices%2F0a5%2F790551469ef2448fbb6dfa541303db12%2F0a50aa8edddb45fa9ace55543dfffc01%2Fposter_83c612f847174e029392cc84f214c1b1.jpg",
+      "publishedAt": "2026-09-04T17:47:19Z",
+      "content": "CHULA VISTA (KGTV)- San Diego County public health officials are investigating four cases of a highly contagious parasite linked to the swimming pools at the Gaylord Pacific Resort and Convention Cen… [+2480 chars]"
+    },
     {
       "source": {
         "id": "nbc-news",
@@ -21,16 +60,29 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "WGAL Susquehanna Valley Pa."
+        "id": "usa-today",
+        "name": "USA Today"
       },
-      "author": "Sarah Metts",
-      "title": "Second baby died of measles, Lancaster County coroner says - WGAL",
-      "description": "Second baby died of measles, Lancaster County coroner says",
-      "url": "https://www.wgal.com/article/lancaster-county-coroner-second-baby-died-of-measles/73616004",
-      "urlToImage": "https://kubrick.htvapps.com/vidthumb/71993154-3a90-4f77-b82d-b2d86e10687e/0fdcceaa-e69d-4ea9-96af-48d9ea339a16.jpg?crop=1xw%3A1.0xh%3Bcenter%2Ctop&resize=1200%3A*",
-      "publishedAt": "2026-09-04T16:09:00Z",
-      "content": "LANCASTER, Pa.An infant died from measles in Lancaster County, according to Lancaster County Coroner Stephen Diamantoni.\r\nVideo above: Lancaster County commissioner proposes health department.\r\nThe P… [+1826 chars]"
+      "author": "Sara Moniuszko",
+      "title": "Alcohol-related cancer deaths have doubled, and 1 drink could increase risk - USA Today",
+      "description": "Alcohol-related cancer deaths are rising − and it's not just the liver being impacted by alcohol consumption, according to a new study.",
+      "url": "https://www.usatoday.com/story/life/health-wellness/2026/09/04/alcohol-related-cancer-deaths-doubled-liver-study/91607446007/",
+      "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/09/04/USAT/91608364007-getty-images-1939545065-1.jpg?crop=3839,2159,x0,y0&width=3200&height=1800&format=pjpg&auto=webp",
+      "publishedAt": "2026-09-04T14:52:00Z",
+      "content": "Alcohol-related cancer deaths are rising and it's not just the liver being impacted by alcohol consumption, according to new research.\r\nIn the study, published Aug. 2 in The Lancet Regional Health Am… [+2073 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "KCCI Des Moines"
+      },
+      "author": null,
+      "title": "New report indicates 3 more measles cases in Iowa - KCCI",
+      "description": "More than 90% of measles cases in Iowa are in people who have not been vaccinated, according to HHS data.",
+      "url": "https://www.kcci.com/article/measles-in-iowa-unvaccinated-22-cases/73615322",
+      "urlToImage": "https://kubrick.htvapps.com/vidthumb/674a6531-de72-4363-bf38-c064a6252c8f/7eef9369-f3a1-4d60-abfa-eddeb0ac26c6.jpg?crop=1xw%3A1.0xh%3Bcenter%2Ctop&resize=1200%3A*",
+      "publishedAt": "2026-09-04T13:02:00Z",
+      "content": "DES MOINES, IowaA report released Thursday by Iowa Health and Human Services indicates three more people have tested positive for measles in the last week. \r\nThat report shows 22 confirmed cases. A m… [+463 chars]"
     },
     {
       "source": {
@@ -44,19 +96,6 @@
       "urlToImage": "https://www.marthastewart.com/thmb/X7F7hMuF6xXCKZTanQ5V5VMuyUk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1280684585-3b3d19d783af46a6af2c6fe0a1081a1f.jpg",
       "publishedAt": "2026-09-04T13:01:00Z",
       "content": "If youre getting a little 2020 déjà vu, youre not alone. Sourdough is having a moment. Again. Taylor Swift famously name-dropped her own starter, sourdough loaves are all over TikTok, and restaurants… [+4522 chars]"
-    },
-    {
-      "source": {
-        "id": "usa-today",
-        "name": "USA Today"
-      },
-      "author": "Sara Moniuszko",
-      "title": "She's going blind from wearing contacts in the shower. Could it happen to you? - USA Today",
-      "description": "Blind from wearing contacts in the shower? It can happen due to a rare but serious infection called acanthamoeba keratitis. Here's what to know.",
-      "url": "https://www.usatoday.com/story/life/health-wellness/2026/09/04/what-is-acanthamoeba-keratitis-wearing-contacts-in-shower/91591052007/",
-      "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/09/03/USAT/91591523007-getty-images-183430278.jpg?crop=2123,1194,x0,y141&width=2123&height=1194&format=pjpg&auto=webp",
-      "publishedAt": "2026-09-04T12:55:00Z",
-      "content": "Like many people who wear contact lenses, Grace Jamison left them in during a shower and now, she's going blind.\r\nIn videos posted to her TikTok, the 20-year-old explained she was diagnosed with acan… [+5173 chars]"
     },
     {
       "source": {
@@ -86,6 +125,19 @@
     },
     {
       "source": {
+        "id": null,
+        "name": "Wisconsin Public Radio News"
+      },
+      "author": "Danielle Kaeding, danielle.kaeding",
+      "title": "Reports of dead deer surge in southeastern Wisconsin amid disease outbreak - WPR",
+      "description": "Wisconsin wildlife regulators have now received almost 900 reports of dead deer in southeastern Wisconsin that are tied to an ongoing outbreak of Epizootic Hemorrhagic Disease.",
+      "url": "https://www.wpr.org/news/reports-dead-deer-surge-southeastern-wisconsin-amid-disease-outbreak",
+      "urlToImage": "https://www.wpr.org/wp-content/uploads/2019/09/ap_110812126289-scaled-e1788473156119.jpg",
+      "publishedAt": "2026-09-04T12:17:57Z",
+      "content": "Wisconsin wildlife regulators have now received almost 900 reports of dead deer in southeastern Wisconsin that are tied to an ongoing outbreak of Epizootic Hemorrhagic Disease.\r\nLast month, the Wisco… [+3731 chars]"
+    },
+    {
+      "source": {
         "id": "newsweek",
         "name": "Newsweek"
       },
@@ -99,6 +151,19 @@
     },
     {
       "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": null,
+      "title": "Common cholesterol drug linked to lower dementia risk when started early - Fox News",
+      "description": "A massive study found that starting statins within a year of a type 2 diabetes diagnosis was linked to a 15% lower risk of dementia over a decade.",
+      "url": "https://www.foxnews.com/health/common-cholesterol-drug-linked-lower-dementia-risk-started-early",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/09/older-couple-taking-pills.jpg",
+      "publishedAt": "2026-09-04T11:00:51Z",
+      "content": "Starting statin therapy shortly after a type 2 diabetes diagnosis may not only protect the heart it may also be linked to a lower dementia risk.\r\nA large study presented at the European Society of Ca… [+3737 chars]"
+    },
+    {
+      "source": {
         "id": "cnn",
         "name": "CNN"
       },
@@ -109,6 +174,19 @@
       "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1667204496.jpg?c=16x9&q=w_800,c_fill",
       "publishedAt": "2026-09-04T11:00:29Z",
       "content": "Everyone farts. But not everyone tracks their farts.\r\nNow, smart underwear is making a case for paying closer attention to what comes out of your body. Its creators said they hope that tracking flatu… [+7855 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Conversation Africa"
+      },
+      "author": "Max Davis",
+      "title": "The workout recovery techniques backed by science – and the ones that are just hype - The Conversation",
+      "description": "While many products promise faster recovery, reduced soreness and improved performance, the science is often more nuanced.",
+      "url": "https://theconversation.com/the-workout-recovery-techniques-backed-by-science-and-the-ones-that-are-just-hype-290266",
+      "urlToImage": "https://images.theconversation.com/files/757986/original/file-20260904-50-ofkr5p.jpg?ixlib=rb-4.1.1&rect=0%2C1046%2C7008%2C3504&q=45&auto=format&w=1356&h=668&fit=crop",
+      "publishedAt": "2026-09-04T10:13:54Z",
+      "content": "Finishing a tough workout always feels good. That is, until a few hours later when those uncomfortable muscle aches start setting in. This discomfort can linger for days making easy, everyday tasks a… [+6315 chars]"
     },
     {
       "source": {
@@ -216,19 +294,6 @@
     },
     {
       "source": {
-        "id": "fox-news",
-        "name": "Fox News"
-      },
-      "author": "FOX News Videos",
-      "title": "Expert sounds alarm on growing dementia ‘epidemic,’ reveals top prevention priority - Yahoo",
-      "description": "A geriatrician explains why starting statins soon after a type 2 diabetes diagnosis may be linked to lower dementia risk, particularly vascular dementia, whi...",
-      "url": "https://www.foxnews.com/video/6404565976112",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/b5802f7d06a91f837a22eaff1a9327ed45cc56305016a83ce62e5d00df27cf15/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fvideo.fbc.news.com%2Fbf6005ab4296126d2b37dff5c31ef596.jpg",
-      "publishedAt": "2026-09-04T01:44:00Z",
-      "content": "A geriatrician explains why starting statins soon after a type 2 diabetes diagnosis may be linked to lower dementia risk, particularly vascular dementia, while stressing that a recent study does not … [+15 chars]"
-    },
-    {
-      "source": {
         "id": "newsweek",
         "name": "Newsweek"
       },
@@ -239,19 +304,6 @@
       "urlToImage": "https://assets.newsweek.com/wp-content/uploads/2026/09/GettyImages-2211334600-Custom.jpg?w=1200&crop=1",
       "publishedAt": "2026-09-03T23:28:00Z",
       "content": "Regularly consuming sugar-sweetened beverages could more than double a person's risk of developing gastric cancer, according to a recent study.\r\nResearchers from Massachusetts General Hospital and Ha… [+3009 chars]"
-    },
-    {
-      "source": {
-        "id": "usa-today",
-        "name": "USA Today"
-      },
-      "author": "Mary Walrath-Holdridge",
-      "title": "What top doctors now recommend for COVID, flu, RSV vaccines - USA Today",
-      "description": "Amid shifting federal vaccine policies, major medical groups released independent guidance on flu, COVID-19 and RSV vaccinations.",
-      "url": "https://www.usatoday.com/story/news/health/2026/09/03/new-vaccine-recommendations-covid-flu-rsv/91596354007/",
-      "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/09/03/USAT/91599437007-getty-images-2254067431.jpg?crop=2120,1193,x0,y0&width=2120&height=1193&format=pjpg&auto=webp",
-      "publishedAt": "2026-09-03T22:23:00Z",
-      "content": "As the Trump administration continues to offer conflicting messages about vaccines, top medical groups are stepping in to ease confusion with a set of independent recommendations.\r\nThe guidelines wer… [+7605 chars]"
     },
     {
       "source": {
@@ -284,13 +336,13 @@
         "id": "fox-news",
         "name": "Fox News"
       },
-      "author": null,
-      "title": "Deadly mosquito-borne virus claims first life in major US city as cases spread - Fox News",
+      "author": "Melissa Rudy",
+      "title": "Deadly mosquito-borne virus claims first life in major US city as cases spread - AOL.com",
       "description": "Chicago's first West Nile virus death of 2026 follows the city's rainiest summer in years, as CDPH sprays insecticide across 15 community areas.",
       "url": "https://www.foxnews.com/health/deadly-mosquito-borne-virus-claims-first-life-major-us-city-cases-spread",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/09/mosquito-on-skin.jpg",
+      "urlToImage": "https://hermes.media.static.aol.com/media/2026/09/03/b58b461d-8da9-3a2f-80be-7182fdc18cd1/fbd3eec9-6de2-49e5-af5a-746808eaa4e5.jpg",
       "publishedAt": "2026-09-03T18:59:08Z",
-      "content": "A Chicago resident has died from West Nile virus, marking the citys first death linked to the mosquito-borne illness this year, according to the Chicago Department of Public Health.\r\nSeveral other ca… [+4122 chars]"
+      "content": "A Chicago resident has died from West Nile virus, marking the citys first death linked to the mosquito-borne illness this year, according to the Chicago Department of Public Health.\r\nSeveral other ca… [+4069 chars]"
     },
     {
       "source": {
@@ -320,16 +372,16 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "Umn.edu"
+        "id": "the-hill",
+        "name": "The Hill"
       },
-      "author": null,
-      "title": "Scientists in China discover new tick-borne virus that causes flu-like illness - CIDRAP",
-      "description": null,
-      "url": "https://www.cidrap.umn.edu/tick-borne-disease/scientists-china-discover-new-tick-borne-virus-causes-flu-illness",
-      "urlToImage": "https://www.cidrap.umn.edu/sites/default/files/styles/layout_large/public/article/Engorged%20tick.png?itok=bdKdJRk7",
-      "publishedAt": "2026-09-03T18:17:17Z",
-      "content": "Scientists in China have identified a novel tick-borne virus that causes an influenza-like illness characterized by fever, fatigue, gastrointestinal (GI) symptoms, and abnormal lab findings.\r\nThe tea… [+2790 chars]"
+      "author": "Joseph Choi",
+      "title": "Leading medical groups update flu, COVID vaccine recommendations amid confusion - thehill.com",
+      "description": "A coalition of leading medical groups has released its own vaccine recommendations for the 2026-27 respiratory viral season based on their independent evidence review of existing data. The Vaccine Integrity Project and American Medical Association (AMA) colla…",
+      "url": "https://thehill.com/policy/healthcare/6068925-ama-vip-vaccine-recommendations/",
+      "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2026/03/69b45227237263.74689135-e1788460120585.jpeg?w=1280",
+      "publishedAt": "2026-09-03T18:28:00Z",
+      "content": "Skip to content\r\nA coalition of leading medical groups has released its own vaccine recommendations for the 2026-27 respiratory viral season based on their independent evidence review of existing dat… [+2314 chars]"
     },
     {
       "source": {
@@ -412,6 +464,19 @@
     {
       "source": {
         "id": null,
+        "name": "Daily Beast"
+      },
+      "author": "Pia Bello",
+      "title": "Woman Loses Eyesight After Common Showering Mistake - The Daily Beast",
+      "description": "She was still a teenager when the incident happened.",
+      "url": "https://thelooker.thedailybeast.com/woman-19-goes-blind-after-showering-with-contact-lenses",
+      "urlToImage": "https://media.thedailybeast.com/resizer/v2/V7ESQPSWSJCKHDIN3M5O2Q4J7Y.jpg?auth=1dd84a8e49c2c4f6119f1907f22862db462edc22a0f05c0001fceddb69209707&width=1200&height=630&focal=3320%2C1867",
+      "publishedAt": "2026-09-03T14:59:55Z",
+      "content": "IN THE BLINK OF AN EYE...\r\nShe was still a teenager when the incident happened.\r\nA woman who lost her vision after a common shower mistake is warning others who wear contacts.\r\n Grace Jamison, then 1… [+6442 chars]"
+    },
+    {
+      "source": {
+        "id": null,
         "name": "Fodmapeveryday.com"
       },
       "author": "FODMAP Everyday",
@@ -473,6 +538,19 @@
       "urlToImage": "https://s.hdnux.com/photos/01/67/17/35/31258451/5/rawImage.jpg",
       "publishedAt": "2026-09-03T12:17:09Z",
       "content": "When Dustin Matteson moved his family to Orange Countys idyllic Ladera Ranch community in 2011, at first, it seemed like the perfect place to raise a child. \r\nIts green, open spaces and community-ori… [+7829 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "woman&home"
+      },
+      "author": "Grace Walsh",
+      "title": "'Start small' - 3 beginner exercises for starting strength training over 60, recommended by a PT - Woman & Home",
+      "description": "Strength training at 60 can set you up for a better life at 70 and 80, but there are a few things to know before you get started",
+      "url": "https://www.womanandhome.com/health-wellbeing/fitness/strength-training-over-60/",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/5QGbTMWEbuYsmT5z9PUEmV-1920-80.jpg",
+      "publishedAt": "2026-09-03T12:00:00Z",
+      "content": null
     },
     {
       "source": {
@@ -542,32 +620,6 @@
     {
       "source": {
         "id": null,
-        "name": "Hindustan Times"
-      },
-      "author": "Anukriti Srivastava",
-      "title": "Why are more young adults experiencing heart palpitations? Cardiologist explains when it may need attention | Health - Hindustan Times",
-      "description": "Irregular heartbeats are becoming increasingly common in people in their 20s and 30s. Here’s when you need to see a doctor.  | Health",
-      "url": "https://www.hindustantimes.com/lifestyle/health/why-are-more-young-adults-experiencing-heart-palpitations-cardiologist-explains-when-it-may-need-attention-101788414518886.html",
-      "urlToImage": "https://www.hindustantimes.com/ht-img/img/2026/09/03/1600x900/logo/pexels-photo-14569658_1788414684068_acad73f8-6e43-4984-a333-e500bd292e65_1788414699546_e37278ad-9276-418d-b2a3-cf883d23e725_cf700f60-5ad9-47b8-8dc6-ce20c3e2ffee_9d3f7e68-80cf-4f95-90d4-cd13e0848744.jpeg",
-      "publishedAt": "2026-09-03T06:51:57Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "TribLIVE"
-      },
-      "author": "Renatta Signorini",
-      "title": "Visitor at New Stanton turnpike plaza may have exposed others to measles - TribLIVE.com",
-      "description": "A person from out-of-state may have exposed others to measles while at the New Stanton Service Plaza on the westbound side Pennsylvania Turnpike, according to the state Department of Health. The potential exposure happened on Aug. 17, officials said. Anyone w…",
-      "url": "https://triblive.com/local/westmoreland/visitor-at-new-stanton-turnpike-plaza-may-have-exposed-others-to-measles/",
-      "urlToImage": "https://assets-varnish.triblive.com/2026/09/9908116_web1_ptr-TurnpikePlaza-061023.jpg",
-      "publishedAt": "2026-09-03T02:56:56Z",
-      "content": "A person from out-of-state may have exposed others to measles while at the New Stanton Service Plaza on the westbound side Pennsylvania Turnpike, according to the state Department of Health.\r\nThe pot… [+778 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "ScienceAlert"
       },
       "author": "Starre Vartan",
@@ -593,19 +645,6 @@
     },
     {
       "source": {
-        "id": "fox-news",
-        "name": "Fox News"
-      },
-      "author": null,
-      "title": "Women who start common hormone therapy in their 50s may have 23% lower dementia risk - Fox News",
-      "description": "Hormone replacement therapy started between ages 46 and 56 was tied to lower Alzheimer's and dementia risk, a major new UK Biobank study suggests.",
-      "url": "https://www.foxnews.com/health/women-start-common-hormone-therapy-50s-23-percent-lower-dementia-risk",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/09/mature-woman-taking-pill.jpg",
-      "publishedAt": "2026-09-02T19:10:12Z",
-      "content": "Women who start hormone replacement therapy (HRT) at a certain age may have a lower dementia risk, a new study suggests.\r\nThe study, published in Alzheimers &amp; Dementia, analyzed UK Biobank data o… [+4397 chars]"
-    },
-    {
-      "source": {
         "id": "time",
         "name": "Time"
       },
@@ -620,19 +659,6 @@
     {
       "source": {
         "id": null,
-        "name": "Slate Magazine"
-      },
-      "author": "Jessica Stoya",
-      "title": "I Did Something Regrettable With My Brother-in-Law at My Bachelor Party. We Vowed to Take It to Our Graves. - Slate",
-      "description": "My wife has no idea.",
-      "url": "https://slate.com/advice/2026/09/sex-advice-bachelor-party-marriage-wedding.html",
-      "urlToImage": "https://compote.slate.com/images/a862fcbe-0378-4a19-905f-3db780c9c30f.gif?crop=1560%2C1040%2Cx0%2Cy0&width=1560",
-      "publishedAt": "2026-09-02T16:30:00Z",
-      "content": "Sign up for the Slatest to get the most insightful analysis, criticism, and advice out there, delivered to your inbox daily.\r\nHow to Do It is Slates sex advice column. Have a question? Send it to Jes… [+7546 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "Cornell.edu"
       },
       "author": "Bridget Kuehn",
@@ -642,19 +668,6 @@
       "urlToImage": "https://news.cornell.edu/sites/default/files/styles/story_thumbnail_lg/public/2026-09/0902_microbiome_tnd.jpg?itok=dqckiX9i",
       "publishedAt": "2026-09-02T16:28:56Z",
       "content": "A commonly used systemic antifungal medication may help reduce symptoms in a subset of patients with inflammatory bowel disease (IBD) by restoring a healthier gut microbiome, according to a prelimina… [+6268 chars]"
-    },
-    {
-      "source": {
-        "id": "the-washington-post",
-        "name": "The Washington Post"
-      },
-      "author": "Gretchen Reynolds",
-      "title": "Column | The muscle ability you lose fastest with age — and how to preserve it - The Washington Post",
-      "description": "It’s never too late to start building muscle power, a leading exercise researcher says.",
-      "url": "https://www.washingtonpost.com/wellness/2026/09/02/muscle-ability-you-lose-fastest-with-age-how-preserve-it/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/TDV2A7UMQCCWCEC62VLU6XN52I.jpg&w=1440",
-      "publishedAt": "2026-09-02T16:00:00Z",
-      "content": "You may be losing power right now, at least in your muscles. \r\nThats because our muscles begin shedding power as we age, a process that typically begins in our 40s and accelerates in later decades."
     },
     {
       "source": {
@@ -681,19 +694,6 @@
       "urlToImage": "https://s.yimg.com/lo/mysterio/api/a1d521bf1b518728e6145958ec462bab15ed522b95b6e55907107f624bb4a05e/lightyear_networkapi/resizefill_w599_h309%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2Ff96e3106cd8f534653d1c7820172126d.jpg",
       "publishedAt": "2026-09-02T11:23:38Z",
       "content": "Undated brain scans show brain activity in healthy brains and ones with obsessive compulsive disorder. REUTERS/Adam Hampshire/University Of Cambridge/Handout\r\n(This is an excerpt of the Health Rounds… [+4617 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Medscape"
-      },
-      "author": "Sam Nichols",
-      "title": "Low B12, Folate in Fathers Linked to Birth Defects - Medscape",
-      "description": "Nutrient deficiencies among both parents during conception and early pregnancy were associated with a greater risk for birth defects in a new study.",
-      "url": "https://www.medscape.com/viewarticle/low-b12-folate-fathers-linked-birth-defects-2026a1000w5r",
-      "urlToImage": "https://img.medscapestatic.com/vim/live/professional_assets/medscape/images/thumbnail_library/gty-260901-expecting-parents-800x450.jpg",
-      "publishedAt": "2026-09-02T11:08:15Z",
-      "content": "The importance of adequate vitamin B12 and folate during pregnancy for preventing birth defects is well-known, but a new study suggests fathers may also need to watch their levels of these key nutrie… [+4921 chars]"
     },
     {
       "source": {
@@ -788,19 +788,6 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "News-Medical.Net"
-      },
-      "author": "Tarun Sai Lomte",
-      "title": "Experts call for safer weight loss as concerns grow over GLP-1 use - News-Medical",
-      "description": "An editorial in Diabetology International argues that inappropriate GLP-1 use should be judged not only by regulatory compliance or off-label prescribing, but also by whether weight reduction is medically safe, nutritionally adequate, and properly supervised.…",
-      "url": "https://www.news-medical.net/news/20260830/Experts-call-for-safer-weight-loss-as-concerns-grow-over-GLP-1-use.aspx",
-      "urlToImage": "https://www.news-medical.net/images/news/ImageForNews_845891_17881477989945710.jpg",
-      "publishedAt": "2026-08-31T03:44:00Z",
-      "content": "Japanese cases of ketosis and ketoacidosis are prompting a closer look at how GLP-1 medications, restrictive dieting, and gaps in medical supervision can intersect during weight-loss attempts.\r\nStudy… [+6100 chars]"
-    },
-    {
-      "source": {
         "id": "usa-today",
         "name": "USA Today"
       },
@@ -837,6 +824,19 @@
       "urlToImage": "https://img.medscapestatic.com/vim/live/professional_assets/medscape/images/thumbnail_library/dt-260901-catheter-ablation-800x450.jpg",
       "publishedAt": "2026-08-30T15:31:08Z",
       "content": "Dr John Mandrola\r\nWell, well. Isn’t that something? Professor Rolf Wachter presented the surprising null results of the PVI-SHAM-AF trial on the main stage here in Munich at the European Society of C… [+6452 chars]"
+    },
+    {
+      "source": {
+        "id": "the-washington-post",
+        "name": "The Washington Post"
+      },
+      "author": "Erica Sloan",
+      "title": "The common heart attack symptom many women ignore - The Washington Post",
+      "description": "Experts explain a typical red flag — which can fly under the radar for weeks.",
+      "url": "https://www.washingtonpost.com/wellness/2026/08/29/common-heart-attack-symptom-many-women-ignore/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/6FWPXG62KODTRSCK7Z5AQAHIHM.jpg&w=1440",
+      "publishedAt": "2026-08-29T17:00:01Z",
+      "content": "The feeling of a heart attack which occurs when blood flow to the heart is limited or cut off is often compared to an elephant stomping on your chest. But the signs can sometimes be far subtler, part… [+142 chars]"
     },
     {
       "source": {

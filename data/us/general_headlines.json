@@ -3,21 +3,86 @@
   "country": "us",
   "category": "general",
   "mode": "country",
-  "fetched_at": "2026-09-05T19:36:02.746822+00:00",
-  "articles_count": 28,
+  "fetched_at": "2026-09-05T21:43:54.456195+00:00",
+  "articles_count": 32,
   "articles": [
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Elise Hammond, August Phillips, Isa Mudannayake, Lauren del Valle, Eric Levenson, Ray Sanchez, Elizabeth Wolfe, Nicki Brown, Holly Yan, Rebekah Riess, Dakin Andone, Alisha Ebrahimji, Sarah Boxer, Kara Scannell, Martin Goillandeau, Merriam Mikhail, Tori B. Powell, Amanda Musa, Julianna Bragg, Jean Casarez",
+      "title": "Live updates: Judge in Lindsay Clancy trial declares mistrial - CNN",
+      "description": "The judge in the Lindsay Clancy case declared a mistrial after the Massachusetts Supreme Judicial Court denied an emergency request from the defense.",
+      "url": "https://www.cnn.com/2026/09/04/us/live-news/lindsay-clancy-trial",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/090426-gd-clancy-court-pool-16.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2026-09-04T20:29:00Z",
+      "content": "After seven days of deadlocked jury deliberations, Lindsay Clancys murder trial concluded in a series of twists and turns today, including a holdout juror, a frantic emergency appeal from the defense… [+1693 chars]"
+    },
     {
       "source": {
         "id": "nbc-news",
         "name": "NBC News"
       },
-      "author": "Marlene Lenthang, Rebecca Cohen, Corky Siemaszko",
-      "title": "Lindsay Clancy judge declares a mistrial after the state’s top court denies defense’s appeal - NBC News",
-      "description": "A judge on Massachusetts’ top court on Friday denied a last minute attempt by Lindsay Clancy’s lawyers to prevent the judge who had presided over her triple-murder trial from declaring a mistrial.",
-      "url": "https://www.nbcnews.com/news/us-news/lindsay-clancy-jury-hopelessly-deadlocked-mistrial-declared-rcna594052",
-      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-08/260823-lindsay-clancy-murder-ww-1805-e05d13.jpg",
-      "publishedAt": "2026-09-04T18:30:59Z",
-      "content": "A judge on Massachusetts top court on Friday denied a last minute attempt by Lindsay Clancys lawyers to prevent the judge who had presided over her triple-murder trial from declaring a mistrial.\r\nThe… [+7760 chars]"
+      "author": "Lawrence Hurley, Ben Kamisar",
+      "title": "Supreme Court backs Republicans in election ad rate dispute - NBC News",
+      "description": "Republicans asked the high court to allow party committees to receive the same ad discounts that candidates themselves benefit from.",
+      "url": "https://www.nbcnews.com/politics/supreme-court/justices-back-republicans-election-ad-rate-dispute-nrcc-nrsc-fcc-rcna595538",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-09/260901-supreme-court-mn-1450-b0933c.jpg",
+      "publishedAt": "2026-09-04T19:53:29Z",
+      "content": "WASHINGTON The Supreme Court on Friday handed a win to Republicans by ensuring that party committees paying for TV advertisements in the upcoming midterm elections can take advantage of the same disc… [+2304 chars]"
+    },
+    {
+      "source": {
+        "id": "associated-press",
+        "name": "Associated Press"
+      },
+      "author": "Samya Kullab",
+      "title": "Russian drone strikes Ukraine security service headquarters as US talks on the war are expected - AP News",
+      "description": "A Russian drone has struck Ukraine’s security service headquarters in Kyiv, President Volodymyr Zelenskyy says. The attack Friday wounded nine people. It comes as U.S. envoys prepare for diplomatic talks in Moscow and Kyiv. Zelenskyy emphasized the importance…",
+      "url": "https://apnews.com/article/russia-ukraine-war-diplomacy-zelenskyy-kushner-witkoff-553d4ed8204070be97b1671db0c5cd53",
+      "urlToImage": "https://dims.apnews.com/dims4/default/5114cd1/2147483647/strip/true/crop/5010x3338+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fd2%2F03%2Fdc483346c0e88b45c18874782145%2F3b1d34ed0f4c4ea1a01ac6b40bb2d76c",
+      "publishedAt": "2026-09-04T19:05:00Z",
+      "content": "KYIV, Ukraine (AP) A Russian drone struck the headquarters of Ukraines security service in central Kyiv, President Volodymyr Zelenskyy said Friday, ahead of diplomatic talks with U.S. officials on en… [+5628 chars]"
+    },
+    {
+      "source": {
+        "id": "nbc-news",
+        "name": "NBC News"
+      },
+      "author": "Nicole Acevedo, Julia Ainsley, Laura Strickler, Ryan J. Reilly",
+      "title": "Feds charge ICE officer with lying to investigators in the shooting of a Venezuelan immigrant - NBC News",
+      "description": "A federal grand jury returned an indictment against Christian Castro in the January shooting that left Julio Cesar Sosa Celis with a gunshot wound in one of his legs.",
+      "url": "https://www.nbcnews.com/news/us-news/federal-prosecutors-charge-ice-officer-lying-investigators-shooting-ve-rcna595975",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-01/260116-minneapolis-man-shot-leg-ew-1020a-34fd21.jpg",
+      "publishedAt": "2026-09-04T19:04:00Z",
+      "content": "An ICE officer is facing federal charges that he lied to federal investigators about the shooting of a Venezuelan immigrant during immigration enforcement operations in Minneapolis this year.\r\nA fede… [+3777 chars]"
+    },
+    {
+      "source": {
+        "id": "politico",
+        "name": "Politico"
+      },
+      "author": "Sam Ogozalek",
+      "title": "Trump administration opens probe into Tesla’s self-driving Cybercab - Politico",
+      "description": "The National Highway Traffic Safety Administration said it is reviewing the rollout of the vehicle in Austin, Texas, over a self-certification issue.",
+      "url": "https://www.politico.com/news/2026/09/04/trump-cybercab-musk-probe-01064706",
+      "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2F0c%2F02%2Fa75ac3cb497ea6552f75574b8778%2Ftesla-cybercab-18722.jpg",
+      "publishedAt": "2026-09-04T18:23:00Z",
+      "content": "In a notice, the National Highway Traffic Safety Administration said Tesla had notified the agency that it self-certified the driverless cars as being compliant with applicable federal safety standar… [+1194 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "KTLA Los Angeles"
+      },
+      "author": "Iman Palm",
+      "title": "Reporter who investigated Clippers salary-cap circumvention turns attention towards Dodgers - KTLA",
+      "description": "Investigative journalist Pablo Torre, who spent the last year investigating the Los Angeles Clippers for alleged salary cap circumvention, hinted on social media that he’s turning his attention towards another L.A. team: the Dodgers. The announcement comes as…",
+      "url": "https://ktla.com/news/local-news/pablo-torre-dodgers-investigation-hint/",
+      "urlToImage": "https://ktla.com/wp-content/uploads/sites/4/2026/03/dodger-stadium-naming-rights.jpg?w=1280",
+      "publishedAt": "2026-09-04T17:58:53Z",
+      "content": "Investigative journalist Pablo Torre, who spent the last year investigating the Los Angeles Clippers for alleged salary cap circumvention, hinted on social media that hes turning his attention toward… [+3304 chars]"
     },
     {
       "source": {
@@ -34,42 +99,16 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "CNBC"
+        "id": "fox-news",
+        "name": "Fox News"
       },
-      "author": "Lillian Rizzo",
-      "title": "Longtime host Maria Bartiromo disputes reports of Fox News termination - CNBC",
-      "description": "Maria Bartiromo, the longtime host of Fox News and Fox Business programming, has disputed reports she was fired from the cable TV networks.",
-      "url": "https://www.cnbc.com/2026/09/04/maria-bartiromo-fox-news-termination.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108359054-1788539004389-gettyimages-2243992399-z92_2885_82jmbmkz.jpeg?v=1788539030&w=1920&h=1080",
-      "publishedAt": "2026-09-04T17:09:50Z",
-      "content": "Maria Bartiromo is disputing reports that she was terminated from her longtime gig as a host of various segments for cable TV networks Fox News and Fox Business. \r\n\"The irresponsible reports that hav… [+1782 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Sean O'Kane",
-      "title": "No little kids allowed, and other new info about Tesla’s Cybercab - techcrunch.com",
-      "description": "The company says no children under 13 can ride -- even with a parent. That's more restrictive than the Model Y SUVs it's using as robotaxis.",
-      "url": "https://techcrunch.com/2026/09/04/no-little-kids-allowed-and-other-new-info-about-teslas-cybercab/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/09/tesla-cybercab-open.jpg?resize=1200,856",
-      "publishedAt": "2026-09-04T16:51:23Z",
-      "content": "Teslas private Cybercab event has come and gone, and it was very different from the large, loud, livestreamed events the company usually puts on — an odd choice for the launch of a product CEO Elon M… [+4400 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Hollywood Reporter"
-      },
-      "author": "Carly Thomas",
-      "title": "‘Wheel of Fortune’ Announcer Suspended After Alleged Pedophilia Chatroom Photos - The Hollywood Reporter",
-      "description": "Sony Pictures Television previously told The Hollywood Reporter that Jim Thornton was suspended pending an investigation into unspecified allegations.",
-      "url": "http://www.hollywoodreporter.com/tv/tv-news/wheel-of-fortune-announcer-suspended-pedophilia-chatroom-photos-1236690380/",
-      "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2026/09/GettyImages-2215782990.jpg?w=1440&h=810&crop=1",
-      "publishedAt": "2026-09-04T16:48:11Z",
-      "content": "Jim Thornton, the long-running Wheel of Fortune announcer, was reportedly suspended after alleged pedophilia chatroom photos prompted an investigation.\r\nOn Thursday, TMZ published photos they claim a… [+2194 chars]"
+      "author": null,
+      "title": "Fetterman faces Dem revolt as bombshell report fuels push to oust him: 'Disgrace' - Fox News",
+      "description": "Sen. Jon Fetterman's leaked texts reveal he dismissed meetings with Children's Hospital of Philadelphia over Medicaid cuts and skipped a police funeral.",
+      "url": "https://www.foxnews.com/politics/fetterman-faces-dem-revolt-bombshell-report-fuels-push-oust-him-disgrace",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/09/sen-john-fetterman-capitol-vote.jpg",
+      "publishedAt": "2026-09-04T17:11:04Z",
+      "content": "After a scathing report that called into question Sen. John Fettermans willingness to do the basic duties of a senator, some of his Democratic colleagues in Pennsylvania are eyeing ways to dislodge h… [+3945 chars]"
     },
     {
       "source": {
@@ -87,41 +126,41 @@
     {
       "source": {
         "id": null,
-        "name": "WGAL Susquehanna Valley Pa."
+        "name": "MacRumors"
       },
-      "author": "Sarah Metts",
-      "title": "Second baby died of measles, Lancaster County coroner says - WGAL",
-      "description": "Second baby died of measles, Lancaster County coroner says",
-      "url": "https://www.wgal.com/article/lancaster-county-coroner-second-baby-died-of-measles/73616004",
-      "urlToImage": "https://kubrick.htvapps.com/vidthumb/71993154-3a90-4f77-b82d-b2d86e10687e/0fdcceaa-e69d-4ea9-96af-48d9ea339a16.jpg?crop=1xw%3A1.0xh%3Bcenter%2Ctop&resize=1200%3A*",
-      "publishedAt": "2026-09-04T16:09:00Z",
-      "content": "LANCASTER, Pa.An infant died from measles in Lancaster County, according to Lancaster County Coroner Stephen Diamantoni.\r\nVideo above: Lancaster County commissioner proposes health department.\r\nThe P… [+1826 chars]"
+      "author": "Hartley Charlton",
+      "title": "The MacRumors Show: iPhone 18 Pro Event Expectations - macrumors.com",
+      "description": "Ahead of Apple's \"Surprise and shine\" event on September 9, we talk through everything to expect on this week's episode of The...",
+      "url": "https://www.macrumors.com/2026/09/04/the-macrumors-show-iphone-18-pro-event-expectations/",
+      "urlToImage": "https://images.macrumors.com/t/-P7b-otG66VBbUuOjYJ5b_Ip018=/1600x/article-new/2026/09/TMRS-209-Everything-Apple-Is-Expected-to-Announce-At-Surprise-and-Shine-Thumb.jpg",
+      "publishedAt": "2026-09-04T16:13:11Z",
+      "content": "Ahead of Apple's \"Surprise and shine\" event on September 9, we talk through everything to expect on this week's episode of The MacRumors Show.\r\nThe event begins at 10:00 a.m. Pacific Time at the Appl… [+3899 chars]"
     },
     {
       "source": {
-        "id": "the-washington-post",
-        "name": "The Washington Post"
+        "id": "politico",
+        "name": "Politico"
       },
-      "author": "Lauren Kaori Gurley, Meryl Kornfield",
-      "title": "Former labor secretary misused funds and drank on the job, report finds - The Washington Post",
-      "description": "Lori Chavez-DeRemer resigned in April over the misconduct allegations. She oversaw a “toxic, intimidating and humiliating” work environment, a federal watchdog said.",
-      "url": "https://www.washingtonpost.com/business/2026/09/04/lori-chavez-deremer-former-labor-secretary-drank-job-misused-funds-report-finds/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/NTBYJWKJVKUABEHBOGF7PW3ONY_size-normalized.jpg&w=1440",
-      "publishedAt": "2026-09-04T16:01:04Z",
-      "content": "A Cabinet officer appointed by President Donald Trump oversaw a toxic, intimidating and humiliating work environment at the Labor Department, a federal watchdog said in a report released Thursday eve… [+4 chars]"
+      "author": "Ashley Ahn",
+      "title": "Former Labor secretary allegedly fueled toxic workplace, drank on job, misused funds, watchdog report finds - Politico",
+      "description": "The report unveiled new details into Lori Chavez-DeRemer’s one-year tenure before resigning in April, including a personal relationship with a security aide.",
+      "url": "https://www.politico.com/news/2026/09/04/lori-chavez-deremer-inspector-general-report-01065211",
+      "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2F09%2F8e%2F85e25bef4616b313af785426c2df%2Fwhite-house-32744.jpg",
+      "publishedAt": "2026-09-04T16:01:00Z",
+      "content": "Chavez-DeRemers unprofessional relationship with a security aide involved physical familiarity, private communications, spending at least portions of nights in each others hotel rooms and an unoffici… [+1572 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "9to5Mac"
+        "name": "Gizmodo.com"
       },
-      "author": "Ryan Christoffel",
-      "title": "Leaked iPhone roadmap reveals plans for larger foldable, ‘biggest overhaul,’ more - 9to5Mac",
-      "description": "Apple is launching new iPhones next week, and a Bloomberg report today details what to expect from those models as...",
-      "url": "https://9to5mac.com/2026/09/04/leaked-iphone-roadmap-reveals-plans-for-larger-foldable-biggest-overhaul-more/",
-      "urlToImage": "https://9to5mac.com/wp-content/uploads/sites/6/2025/07/apple-tim-cook-iphone-15-launch.jpg?quality=82&strip=all&resize=1200,628",
-      "publishedAt": "2026-09-04T15:48:00Z",
-      "content": "Apple is launching new iPhones next week, and a Bloomberg report today details what to expect from those models as well as the roadmap for 2027 and 2028 debuts.\r\nAhead of Apples big September event n… [+1959 chars]"
+      "author": "Wes Davis",
+      "title": "This New iRobot Concept Is the Matryoshka of Robot Vacuums - gizmodo.com",
+      "description": "Hey, who put this robot inside my robot?!",
+      "url": "https://gizmodo.com/this-new-irobot-concept-is-the-matryoshka-of-robot-vacuums-2000807453",
+      "urlToImage": "https://gizmodo.com/app/uploads/2026/09/Roomba-Duo-reaching-1200x675.jpg",
+      "publishedAt": "2026-09-04T15:45:35Z",
+      "content": "A new iRobot concept called the Roomba Duo might be one of the best ideas for robovacs I’ve seen all year, and I don’t just mean because it looks like a Star Wars droid. Rolled out at IFA 2026, the R… [+2386 chars]"
     },
     {
       "source": {
@@ -139,15 +178,15 @@
     {
       "source": {
         "id": null,
-        "name": "Forbes"
+        "name": "Billboard"
       },
-      "author": "Forbes",
-      "title": "‘I Truly Don’t Care’: Report Says Fetterman Has Become Apathetic About His Duties—While Advocating For Israel - Forbes",
-      "description": null,
-      "url": "https://www.forbes.com/sites/saradorn/2026/09/04/i-truly-dont-care-report-says-fetterman-has-become-apathetic-about-his-duties-while-advocating-for-israel/",
-      "urlToImage": null,
-      "publishedAt": "2026-09-04T15:27:21Z",
-      "content": null
+      "author": "Hannah Dailey",
+      "title": "LISA Says BLACKPINK Has to ‘Hide When We’re Dating’ & Recalls Having Secret Relationships - Yahoo",
+      "description": "BLACKPINK's LISA said that the group has to \"hide when we're dating\" someone and talked about her own secret relationships in her new documentary.",
+      "url": "http://www.billboard.com/music/music-news/blackpink-lisa-girl-group-hide-when-were-dating-1236334304/",
+      "urlToImage": "https://www.billboard.com/wp-content/uploads/2026/09/P10Z680-e1788531958753.jpg?w=1024",
+      "publishedAt": "2026-09-04T15:16:30Z",
+      "content": "BLACKPINK‘s members have stayed private about their love lives for as long as they’ve been making music, and in her new documentary, LISA explained why. \r\nAt one point in Always Lalisa — which is set… [+1529 chars]"
     },
     {
       "source": {
@@ -167,39 +206,65 @@
         "id": "espn",
         "name": "ESPN"
       },
-      "author": "Alexa Philippou",
-      "title": "Cathy Engelbert, who oversaw WNBA boom, to retire as commissioner - ESPN",
-      "description": "WNBA commissioner Cathy Engelbert, who oversaw massive growth in the league while also facing recent scrutiny in her handling of multiple issues, will retire at the end of the year.",
-      "url": "https://www.espn.com/wnba/story/_/id/49825466/sources-wnba-commissioner-cathy-engelbert-retire",
-      "urlToImage": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0414%2Fr1643107_1296x729_16%2D9.jpg",
-      "publishedAt": "2026-09-04T14:36:00Z",
-      "content": "Cathy Engelbert will retire as WNBA commissioner at the end of the calendar year, the league announced Friday.\r\n\"Over the years, it has been amazing to watch WNBA players thrive and lead the massive … [+5937 chars]"
+      "author": "Jeff Legwold",
+      "title": "Pro Football HOF makes sweeping changes to selection process - ESPN",
+      "description": "The Pro Football Hall of Fame has made sweeping changes to its selection process that include a significant reduction in the number of selectors and the elimination of the separate Seniors category.",
+      "url": "https://www.espn.com/nfl/story/_/id/49823476/pro-football-hof-makes-sweeping-changes-selection-process",
+      "urlToImage": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0806%2Fr1698431_1296x729_16%2D9.jpg",
+      "publishedAt": "2026-09-04T15:00:00Z",
+      "content": "The Pro Football Hall of Fame has made sweeping changes to its selection process that include a significant reduction in the number of selectors and the elimination of the separate Seniors category.\r… [+2873 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "GamesIndustry.biz"
+        "name": "BBC News"
       },
-      "author": "Sophie McEvoy",
-      "title": "Nvidia acquires open-source AI platform Hugging Face for $12.9bn - GamesIndustry.biz",
-      "description": "Firm to pay approximately $11.9 billion to Hugging Face investors, could offer up to $1 billion in stock-based retention incentives",
-      "url": "https://www.gamesindustry.biz/nvidia-acquires-open-source-ai-platform-hugging-face-for-129bn",
-      "urlToImage": "https://assetsio.gnwcdn.com/nvidia-hugging-face.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "publishedAt": "2026-09-04T13:50:36Z",
-      "content": "Nvidia has acquired the artificial intelligence platform Hugging Face for $12.9 billion.\r\nAs BBC News reports, Nvidia will pay about $11.9 billion to Hugging Face investors and may offer up to $1 bil… [+1692 chars]"
+      "author": null,
+      "title": "OpenAI agents hijacked German website before Hugging Face hack, report claims - bbc.com",
+      "description": "OpenAI said it could not \"meaningfully respond\" to the report's findings because it hadn't been allowed to review it ahead of publication.",
+      "url": "https://www.bbc.com/news/articles/ckg725z5kgzo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/c694/live/dc86c7a0-a870-11f1-bbad-43eaf67b94b6.jpg",
+      "publishedAt": "2026-09-04T14:59:13Z",
+      "content": "The report is from a group called Nightingale Collective and claims that in May OpenAI's agents started using DseWiki as their own message board, shared tips on how to avoid being detected and made 1… [+17 chars]"
     },
     {
       "source": {
-        "id": "al-jazeera-english",
-        "name": "Al Jazeera English"
+        "id": "usa-today",
+        "name": "USA Today"
       },
-      "author": null,
-      "title": "Philippine court orders arrest of VP Duterte over President Marcos threats - Al Jazeera",
-      "description": "Warrant follows charge she threatened to have Marcos, his wife and a cousin killed by a hitman.",
-      "url": "https://www.aljazeera.com/news/2026/9/4/philippine-court-orders-arrest-of-vp-duterte-over-president-marcos-threats",
-      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/02/2026-02-02T052549Z_1760082592_RC2FPCA4E3TW_RTRMADP_3_PHILIPPINES-POLITICS-1771388033.jpg?resize=1920%2C1440",
-      "publishedAt": "2026-09-04T13:43:39Z",
-      "content": "A Philippine court has ordered the arrest of Vice President Sara Duterte over allegations that she arranged the assassination of the president.\r\nThe warrant was issued on Friday by a court in Quezon … [+2214 chars]"
+      "author": "Sara Moniuszko",
+      "title": "Alcohol-related cancer deaths have doubled, and 1 drink could increase risk - USA Today",
+      "description": "Alcohol-related cancer deaths are rising − and it's not just the liver being impacted by alcohol consumption, according to a new study.",
+      "url": "https://www.usatoday.com/story/life/health-wellness/2026/09/04/alcohol-related-cancer-deaths-doubled-liver-study/91607446007/",
+      "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/09/04/USAT/91608364007-getty-images-1939545065-1.jpg?crop=3839,2159,x0,y0&width=3200&height=1800&format=pjpg&auto=webp",
+      "publishedAt": "2026-09-04T14:52:00Z",
+      "content": "Alcohol-related cancer deaths are rising and it's not just the liver being impacted by alcohol consumption, according to new research.\r\nIn the study, published Aug. 2 in The Lancet Regional Health Am… [+2073 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNET"
+      },
+      "author": "Nelson Aguilar",
+      "title": "IFA Berlin 2026 Live: The Biggest Announcements From Samsung, Dyson, LG and More - CNET",
+      "description": "CNET is on the ground tracking the latest laptops, TVs, smart home gear and wonderfully weird gadgets as they’re announced.",
+      "url": "https://www.cnet.com/news-live/ifa-berlin-2026-live-the-biggest-announcements-from-samsung-lg-and-more/",
+      "urlToImage": "https://www.cnet.com/wp-content/uploads/sites/2/IFA-Intro-Image-Messe-Center.jpeg",
+      "publishedAt": "2026-09-04T14:36:25Z",
+      "content": "IFA 2026 is underway in Berlin, and the product announcements are already coming fast. The massive European tech show doesnt officially open to the public until Friday, but press events began earlier… [+8854 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Minneapolis Star Tribune"
+      },
+      "author": "Jeff Day, Mike Hughlett, Jeffrey Meitrodt, Liz Sawyer",
+      "title": "Years of threats preceded deadly Minneapolis shooting - startribune.com",
+      "description": "The suspect in this week’s mass shooting, who killed two people and wounded several others, had been flagged for gun-threat charges and a red flag order weeks before his rampage.",
+      "url": "https://www.startribune.com/years-of-threats-preceded-deadly-minneapolis-shooting/601885910",
+      "urlToImage": "https://arc.stimg.co/startribunemedia/WX3SCPUZHZBIDGVKU34EUZ4KSY.jpg?&w=1200&ar=1.91:1&fit=crop",
+      "publishedAt": "2026-09-04T13:39:55Z",
+      "content": "Carlton Johnson II had a long history of threats and violence that ended Wednesday when he allegedly shot six people in downtown Minneapolis, killing two and wounding two police officers.\r\nIn June, J… [+1062 chars]"
     },
     {
       "source": {
@@ -216,68 +281,42 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "MMA Fighting"
-      },
-      "author": "Mike Heck",
-      "title": "Salahdine Parnasse: Usman Nurmagomedov fight ‘a possibility’ with UFC Paris win - MMA Fighting",
-      "description": "Salahdine Parnasse believes a fight with Usman Nurmagomedov could happen with UFC Paris debut win.",
-      "url": "https://www.mmafighting.com/ufc/508370/salahdine-parnasse-usman-nurmagomedov-fight-a-possibility-for-sure-with-ufc-paris-win",
-      "urlToImage": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/09/gettyimages-2290015211.jpg?quality=90&strip=all&crop=0%2C10.736867118835%2C100%2C78.526265762331&w=1200",
-      "publishedAt": "2026-09-04T13:00:00Z",
-      "content": "Salahdine Parnasse has big plans for his fighting career beginning with his octagon debut this Saturday.\r\nThe former KSW two-division champion, and one of the most exciting fighters in the sport, hea… [+1802 chars]"
-    },
-    {
-      "source": {
         "id": "the-verge",
         "name": "The Verge"
       },
-      "author": "Jennifer Pattison Tuohy",
-      "title": "iRobot unveils the Roomba Duo - The Verge",
-      "description": "The Roomba Duo combines a floor washing robot with a smaller robot vacuum that it carriers around and deploys via a robot arm.",
-      "url": "https://www.theverge.com/tech/990045/irobot-roomba-duo-concept-robot-vacuum",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/LR6B5785.jpeg?quality=90&strip=all&crop=0%2C10.729258416383%2C100%2C78.541483167234&w=1200",
-      "publishedAt": "2026-09-04T12:53:49Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nAre two robots better than one? The Duo carries a second robot vacuum that it can lower via a mechanical arm.\r\nAre two robots better than one? The Duo carries a … [+4005 chars]"
+      "author": "Tom Warren",
+      "title": "Xbox app is coming to TCL TVs just as Microsoft rolls out pay-as-you-go cloud gaming - The Verge",
+      "description": "Xbox Cloud Gaming is coming to more TVs, just as Microsoft makes some major changes to its cloud gaming service.",
+      "url": "https://www.theverge.com/news/990132/microsoft-xbox-tv-app-tcl-smart-tvs",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/XGP_TCL-PARTNER-a9a894bf85566ec68565.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+      "publishedAt": "2026-09-04T13:25:09Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nXbox Cloud Gaming is coming to more TVs, just as Microsoft makes some major changes to its cloud gaming service.\r\nXbox Cloud Gaming is coming to more TVs, just a… [+2887 chars]"
     },
     {
       "source": {
-        "id": "the-verge",
-        "name": "The Verge"
+        "id": "associated-press",
+        "name": "Associated Press"
       },
-      "author": "Dominic Preston",
-      "title": "We spent the week testing IFA’s best (and weirdest) gadgets, ask us anything - The Verge",
-      "description": "﻿We’ve seen everything from smart home to smartphones. What do you want to know?",
-      "url": "https://www.theverge.com/tech/989199/ifa-berlin-2026-gadgets-ask-us-anything",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/ifa-ama-2026.jpg?quality=90&strip=all&crop=0%2C10.741906587151%2C100%2C78.516186825698&w=1200",
-      "publishedAt": "2026-09-04T12:00:00Z",
-      "content": "Live<ul><li></li><li></li><li></li></ul>\r\nWeve seen everything from smart home to smartphones. What do you want to know?\r\nWeve seen everything from smart home to smartphones. What do you want to know… [+2461 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "BBC News"
-      },
-      "author": null,
-      "title": "Xbox caps cloud gaming at 15 hours a month for Game Pass subscribers - bbc.com",
-      "description": "Xbox said the limits were due to the rising cost of cloud gaming, and would allow it to invest more in its performance",
-      "url": "https://www.bbc.com/news/articles/cj06zd4l99lo",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/067c/live/895a4a20-a84d-11f1-80f8-c33181935c5a.jpg",
-      "publishedAt": "2026-09-04T11:48:24Z",
-      "content": "Part of Sharma's reset has seen 3,200 people let go at the company - with 1,600 job losses announced in July, and the remaining posts to go gradually over the course of Microsoft's 2027 financial yea… [+1 chars]"
+      "author": "Shristi Kafle, Sheikh Saaliq",
+      "title": "Rescuers pull 2 trapped workers from a hydropower tunnel 9 days after Nepal floods - AP News",
+      "description": "Rescuers in Nepal have pulled two workers alive from an underground tunnel at a hydropower plant. That is raising hopes of reaching dozens of others believed to be trapped there nine days after deadly floods swept away villages and submerged the Himalayan reg…",
+      "url": "https://apnews.com/article/nepal-china-flash-floods-tunnel-rescue-82a2d39fb1385b28df79fe792c198f89",
+      "urlToImage": "https://dims.apnews.com/dims4/default/5b2933c/2147483647/strip/true/crop/1081x720+100+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fee%2Fb1%2Fba1361bd413f8334ef2b8a14676e%2Fdr-cover-photos-2026-09-04t072817-862.png",
+      "publishedAt": "2026-09-04T12:30:00Z",
+      "content": "KATHMANDU, Nepal (AP) Rescuers in Nepal pulled two workers alive from an underground tunnel at a hydropower plant Friday, raising hopes of reaching dozens of others believed to be trapped nine days a… [+2341 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "BBC News"
+        "name": "CBS Sports"
       },
-      "author": null,
-      "title": "Russell Howard 'devastated' after his baby son died shortly after birth - bbc.com",
-      "description": "The comedian says his son Felix died earlier this year shortly after his wife Cerys had given birth.",
-      "url": "https://www.bbc.com/news/articles/cg491g7rnqqo",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/601e/live/3504da00-a84b-11f1-aed2-8d6da8d75094.jpg",
-      "publishedAt": "2026-09-04T11:26:32Z",
-      "content": "As a result, Howard said he and Cerys were launching The Felix Foundation, which will aim to help families affected by miscarriage, premature birth, stillbirth, neonatal death or related bereavement."
+      "author": "Jamey Eisenberg",
+      "title": "Don't leave your final Fantasy Football drafts without these 12 sleepers Jamey Eisenberg keeps drafting - CBS Sports",
+      "description": "Jamey's top 2026 Fantasy Football sleepers feature value plays at every position and players to target in every format as your enter your drafts.",
+      "url": "https://www.cbssports.com/fantasy/football/news/jamey-eisenberg-fantasy-football-sleepers-2026/",
+      "urlToImage": "https://sportshub.cbsistatic.com/i/r/2025/11/30/897e1113-5314-45cb-853b-c4438421540a/thumbnail/1200x675/f98062dd0d71da03be1a57570a31d3cb/getty-jalen-coker-tetairoa-mcmillan-panthers.jpg",
+      "publishedAt": "2026-09-04T12:00:48Z",
+      "content": "As we head into Labor Day weekend, many Fantasy drafts will be happening over the next several days, leading up to the start of the NFL season. With that in mind, here is my final list of sleepers fo… [+876 chars]"
     },
     {
       "source": {
@@ -320,55 +359,68 @@
     },
     {
       "source": {
-        "id": "cnn",
-        "name": "CNN"
+        "id": null,
+        "name": "Tatlerasia.com"
       },
-      "author": "Prakash C Timilsena, Lauren Kent, Lex Harvey, Hanako Montgomery, Ross Adkin, Kathleen Magramo, Daniel Campisi, Kosh Raj Koirala, Hilary Whiteman, Todd Symons, Jerome Taylor, Simone McCarthy, Sylvie Zhuang, Bhadra Sharma, Sana Noor Haq, Laura Sharman, Charlotte Reck, Lauren Said-Moorhouse",
-      "title": "Live updates: Rescues underway as two workers pulled alive more than a week after Nepal-China floods - CNN",
-      "description": "The dramatic breakthrough comes after voices were heard from inside the tunnels of the stricken plant. Follow for live updates.",
-      "url": "https://www.cnn.com/2026/09/03/world/live-news/nepal-china-flood-hnk-intl",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/whatsapp-image-2026-09-04-at-14-44-12.jpg?c=16x9&q=w_800,c_fill",
-      "publishedAt": "2026-09-04T09:59:00Z",
-      "content": "Todays miraculous rescues are a rare bright spot in what has been a devastating nine days for Nepal and China.\r\nLast Wednesday, just after 8:30 a.m. Nepal time, a large piece of glacier near the coun… [+1312 chars]"
+      "author": "Tatler Asia",
+      "title": "Venice Film Festival 2026: 10 stars who rewrote the red carpet’s black-tie rules - Tatler Asia",
+      "description": null,
+      "url": "https://www.tatlerasia.com/style/fashion/venice-film-festival-2026-red-carpet",
+      "urlToImage": null,
+      "publishedAt": "2026-09-04T06:33:52Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "the-hill",
+        "name": "The Hill"
+      },
+      "author": "Joseph Choi",
+      "title": "Leading medical groups update flu, COVID vaccine recommendations amid confusion - thehill.com",
+      "description": "A coalition of leading medical groups has released its own vaccine recommendations for the 2026-27 respiratory viral season based on their independent evidence review of existing data. The Vaccine Integrity Project and American Medical Association (AMA) colla…",
+      "url": "https://thehill.com/policy/healthcare/6068925-ama-vip-vaccine-recommendations/",
+      "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2026/03/69b45227237263.74689135-e1788460120585.jpeg?w=1280",
+      "publishedAt": "2026-09-03T18:28:00Z",
+      "content": "Skip to content\r\nA coalition of leading medical groups has released its own vaccine recommendations for the 2026-27 respiratory viral season based on their independent evidence review of existing dat… [+2314 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Space Daily"
+        "name": "Space.com"
       },
-      "author": null,
-      "title": "NASA's Cassini spacecraft circled Saturn for 13 years and never saw a shape at the south pole, but when the planet's slow seasons tilted that pole back toward Earth, a giant ten-sided figure was waiting there — and it had not existed while the probe was watch - Space Daily",
-      "description": "A perfect ten-sided storm has materialized at Saturn's south pole—and it vanished the moment scientists stopped looking.",
-      "url": "https://spacedaily.com/b-nasas-cassini-spacecraft-circled-saturn-for-13-years-and-never-saw-a-shape-at-the-south-pole-but-when-the-planets-slow-seasons-tilted-that-pole-back-toward-earth-a-giant-ten-sided-figure-was-waiti/",
-      "urlToImage": "https://spacedaily.com/wp-content/uploads/2026/09/saturn-1.png",
-      "publishedAt": "2026-09-04T01:32:20Z",
-      "content": "Saturn has been keeping a secret at its bottom, and it took the planet’s own calendar to give it away.\r\nThis week, NASA and an international team announced that Hubble has confirmed a decagon a giant… [+4371 chars]"
-    },
-    {
-      "source": {
-        "id": "usa-today",
-        "name": "USA Today"
-      },
-      "author": "Mary Walrath-Holdridge",
-      "title": "What top doctors now recommend for COVID, flu, RSV vaccines - USA Today",
-      "description": "Amid shifting federal vaccine policies, major medical groups released independent guidance on flu, COVID-19 and RSV vaccinations.",
-      "url": "https://www.usatoday.com/story/news/health/2026/09/03/new-vaccine-recommendations-covid-flu-rsv/91596354007/",
-      "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/09/03/USAT/91599437007-getty-images-2254067431.jpg?crop=2120,1193,x0,y0&width=2120&height=1193&format=pjpg&auto=webp",
-      "publishedAt": "2026-09-03T22:23:00Z",
-      "content": "As the Trump administration continues to offer conflicting messages about vaccines, top medical groups are stepping in to ease confusion with a set of independent recommendations.\r\nThe guidelines wer… [+7605 chars]"
+      "author": "Meghan Bartels",
+      "title": "2 spacecraft will soon reach Mercury after 8 years in space. Here's what BepiColombo can do - Space",
+      "description": "The tiny planet hides big mysteries that scientists can't wait to tackle.",
+      "url": "https://www.space.com/astronomy/mercury/2-spacecraft-will-soon-reach-mercury-after-8-years-in-space-heres-what-bepicolombo-can-do",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/X7aomcFSXbUu6dCikuzsAV-2000-80.jpg",
+      "publishedAt": "2026-09-03T18:00:00Z",
+      "content": null
     },
     {
       "source": {
         "id": null,
-        "name": "Medium"
+        "name": "Newsnationnow.com"
       },
-      "author": "Avi Loeb",
-      "title": "Was Dark Matter Detected? - Avi Loeb – Medium",
-      "description": "All it takes is one event beyond a reasonable doubt to revolutionize our understanding of the Universe.",
-      "url": "https://avi-loeb.medium.com/was-dark-matter-detected-dec731e389bb",
-      "urlToImage": "https://miro.medium.com/v2/resize:fit:1200/1*k2buvUw0p0R8aDx9ypOiFA.png",
-      "publishedAt": "2026-09-03T09:11:40Z",
-      "content": "The LUX-ZEPLIN dark matter detector is sensitive to weakly interacting massive particles (WIMPs). The photomultiplier tubes in the image seek faint flashes of light from the interaction of WIMPs with… [+7264 chars]"
+      "author": "Caroline Jaime",
+      "title": "Scientists identify genetic markers linked to Big Five personality traits - NewsNation",
+      "description": "“Personality seems to be relevant nearly everywhere you look,\" lead author of the study Ted Schwaba said.",
+      "url": "https://www.newsnationnow.com/science/genetic-big-five-personality-traits/",
+      "urlToImage": "https://www.newsnationnow.com/wp-content/uploads/sites/108/2025/11/GettyImages-1040300740.jpg?w=1280",
+      "publishedAt": "2026-09-03T16:53:02Z",
+      "content": "(NewsNation)  A new study in Nature magazine has identified 1,260 genetic variants associated with the big five personality traits: agreeableness, openness, conscientiousness, extraversion and neurot… [+2112 chars]"
+    },
+    {
+      "source": {
+        "id": "cbs-news",
+        "name": "CBS News"
+      },
+      "author": "William  Harwood",
+      "title": "NASA launches its Roman Space Telescope to explore the hidden universe - CBS News",
+      "description": "NASA's Roman Space Telescope​ launched shortly after daybreak from Kennedy Space Center and blazed toward an observation point 1 million miles away.",
+      "url": "https://www.cbsnews.com/news/nasa-launches-roman-space-telescope-explore-hidden-universe/",
+      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/08/30/7ef9a1a3-2c86-48c3-80ac-47bd2dd3d1cd/thumbnail/1200x630/21d529674ecf349dbd61bd78b896146e/083026-launch1-sfn.jpg",
+      "publishedAt": "2026-08-30T11:54:00Z",
+      "content": "NASA's $4.3 billion Roman Space Telescope was launched atop a SpaceX Falcon Heavy rocket Sunday, kicking off a three-month voyage to a point in space a million miles from Earth where it will map the … [+7588 chars]"
     }
   ]
 }

@@ -3,21 +3,34 @@
   "country": "us",
   "category": "health",
   "mode": "country",
-  "fetched_at": "2026-09-05T17:44:13.327738+00:00",
-  "articles_count": 66,
+  "fetched_at": "2026-09-05T19:36:02.746822+00:00",
+  "articles_count": 65,
   "articles": [
     {
       "source": {
-        "id": "usa-today",
-        "name": "USA Today"
+        "id": "nbc-news",
+        "name": "NBC News"
       },
-      "author": "Sara Moniuszko",
-      "title": "Alcohol-related cancer deaths have doubled, and 1 drink could increase risk - USA Today",
-      "description": "Alcohol-related cancer deaths are rising − and it's not just the liver being impacted by alcohol consumption, according to a new study.",
-      "url": "https://www.usatoday.com/story/life/health-wellness/2026/09/04/alcohol-related-cancer-deaths-doubled-liver-study/91607446007/",
-      "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/09/04/USAT/91608364007-getty-images-1939545065-1.jpg?crop=3839,2159,x0,y0&width=3200&height=1800&format=pjpg&auto=webp",
-      "publishedAt": "2026-09-04T13:44:00Z",
-      "content": "Alcohol-related cancer deaths are rising and it's not just the liver being impacted by alcohol consumption, according to new research.\r\nIn the study, published Aug. 2 in The Lancet Regional Health Am… [+2073 chars]"
+      "author": "David K. Li",
+      "title": "Pig kidney works for a record 271 days inside the body of American patient - NBC News",
+      "description": "A New Hampshire man lived for a record 271 days with a transplanted pig kidney before doctors replaced it with a human one — in a procedure that’s kept him alive ever since and could offer new hope to countless others, researchers said Thursday.",
+      "url": "https://www.nbcnews.com/news/us-news/pig-kidney-works-record-271-days-body-surviving-american-rcna596101",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-09/260904-kidney-transplant-ch-1308-b00c0e.jpg",
+      "publishedAt": "2026-09-04T16:40:04Z",
+      "content": "A New Hampshire man lived for a record 271 days with a transplanted pig kidney before doctors replaced it with a human one in a procedure thats kept him alive ever since and could offer new hope to c… [+3952 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "WGAL Susquehanna Valley Pa."
+      },
+      "author": "Sarah Metts",
+      "title": "Second baby died of measles, Lancaster County coroner says - WGAL",
+      "description": "Second baby died of measles, Lancaster County coroner says",
+      "url": "https://www.wgal.com/article/lancaster-county-coroner-second-baby-died-of-measles/73616004",
+      "urlToImage": "https://kubrick.htvapps.com/vidthumb/71993154-3a90-4f77-b82d-b2d86e10687e/0fdcceaa-e69d-4ea9-96af-48d9ea339a16.jpg?crop=1xw%3A1.0xh%3Bcenter%2Ctop&resize=1200%3A*",
+      "publishedAt": "2026-09-04T16:09:00Z",
+      "content": "LANCASTER, Pa.An infant died from measles in Lancaster County, according to Lancaster County Coroner Stephen Diamantoni.\r\nVideo above: Lancaster County commissioner proposes health department.\r\nThe P… [+1826 chars]"
     },
     {
       "source": {
@@ -86,19 +99,6 @@
     },
     {
       "source": {
-        "id": "fox-news",
-        "name": "Fox News"
-      },
-      "author": null,
-      "title": "Common cholesterol drug linked to lower dementia risk when started early - Fox News",
-      "description": "A massive study found that starting statins within a year of a type 2 diabetes diagnosis was linked to a 15% lower risk of dementia over a decade.",
-      "url": "https://www.foxnews.com/health/common-cholesterol-drug-linked-lower-dementia-risk-started-early",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/09/older-couple-taking-pills.jpg",
-      "publishedAt": "2026-09-04T11:00:51Z",
-      "content": "Starting statin therapy shortly after a type 2 diabetes diagnosis may not only protect the heart it may also be linked to a lower dementia risk.\r\nA large study presented at the European Society of Ca… [+3737 chars]"
-    },
-    {
-      "source": {
         "id": "cnn",
         "name": "CNN"
       },
@@ -155,12 +155,12 @@
         "name": "Newsnationnow.com"
       },
       "author": "Stephanie Sokol",
-      "title": "Newborn vitamin K shot refusal jumps by 57% - Yahoo",
+      "title": "Newborn vitamin K shot refusal jumps by 57% - NewsNation",
       "description": "The vitamin K shot \"essentially eliminated cases of bleeding from vitamin K deficiency nationwide.\"",
       "url": "https://www.newsnationnow.com/health/newborn-bleeding-risks-refusal-rate-vitamin-k-vaccine/",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/30a5aa60ad2baada392af769c2709aa86599318990b59e215682fccab74db645/lightyear_networkapi/resizefill_w900_h506%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fnewsnation_articles_600%2Ff99684392b265cc14361c6cfe105c309.jpg",
-      "publishedAt": "2026-09-04T05:30:00Z",
-      "content": "NewsNation A growing trend of vitamin K shot refusal among parents is putting newborns at risk of a dangerous, life-threatening bleeding condition.\r\nVitamin K is crucial for blood clotting, but babie… [+2289 chars]"
+      "urlToImage": "https://www.newsnationnow.com/wp-content/uploads/sites/108/2024/08/GettyImages-866792570-e1724260491433.jpg?w=1280",
+      "publishedAt": "2026-09-04T05:33:00Z",
+      "content": "NewsNation A growing trend of vitamin K shot refusal among parents is putting newborns at risk of a dangerous, life-threatening bleeding condition.\r\nVitamin K is crucial for blood clotting, but babie… [+1997 chars]"
     },
     {
       "source": {
@@ -204,15 +204,28 @@
     {
       "source": {
         "id": null,
-        "name": "Financial Times"
+        "name": "Science Daily"
       },
       "author": null,
-      "title": "Pig kidneys successfully transplanted into humans - Financial Times",
-      "description": "Trial in US offers hope for solving organ shortage",
-      "url": "https://www.ft.com/content/e9548ff5-3b59-4d69-be26-5882e2c4a716?syn-25a6b1a6\\\\u003d1",
-      "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F1106f01d-e305-4968-b3b0-1c99540e9719.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
-      "publishedAt": "2026-09-04T01:38:17Z",
-      "content": "Then $75 per month. Complete digital access to quality FT journalism on any device. Cancel anytime during your trial."
+      "title": "New injectable treatment helps the brain rebuild after stroke - Science Daily",
+      "description": "Duke researchers developed an injectable scaffold that helped stroke-damaged brains grow new blood vessels, support nerve regrowth, and recover movement in mice. The treatment appears to work partly by recruiting the body’s own immune cells, including neutrop…",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260902234512.htm",
+      "urlToImage": "https://www.sciencedaily.com/images/1920/brain-stroke-x-ray.webp",
+      "publishedAt": "2026-09-04T04:01:10Z",
+      "content": "Biomedical engineers at Duke University have created an injectable biomaterial that may help the brain recover from damage left behind by an ischemic stroke. In experiments with mice, the material tr… [+6808 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": "FOX News Videos",
+      "title": "Expert sounds alarm on growing dementia ‘epidemic,’ reveals top prevention priority - Yahoo",
+      "description": "A geriatrician explains why starting statins soon after a type 2 diabetes diagnosis may be linked to lower dementia risk, particularly vascular dementia, whi...",
+      "url": "https://www.foxnews.com/video/6404565976112",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/b5802f7d06a91f837a22eaff1a9327ed45cc56305016a83ce62e5d00df27cf15/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fvideo.fbc.news.com%2Fbf6005ab4296126d2b37dff5c31ef596.jpg",
+      "publishedAt": "2026-09-04T01:44:00Z",
+      "content": "A geriatrician explains why starting statins soon after a type 2 diabetes diagnosis may be linked to lower dementia risk, particularly vascular dementia, while stressing that a recent study does not … [+15 chars]"
     },
     {
       "source": {
@@ -239,6 +252,19 @@
       "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/09/03/USAT/91599437007-getty-images-2254067431.jpg?crop=2120,1193,x0,y0&width=2120&height=1193&format=pjpg&auto=webp",
       "publishedAt": "2026-09-03T22:23:00Z",
       "content": "As the Trump administration continues to offer conflicting messages about vaccines, top medical groups are stepping in to ease confusion with a set of independent recommendations.\r\nThe guidelines wer… [+7605 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Livenowfox.com"
+      },
+      "author": null,
+      "title": "Dr. Ben Carson on Trump's new dietary guidelines - LiveNOW from FOX",
+      "description": "The keto diet may have surprising benefits for liver health, a new study suggests.",
+      "url": "https://www.livenowfox.com/news/popular-diet-slashes-liver-fat-reversing-prediabetes",
+      "urlToImage": "https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2026/09/1200/630/foods-getty-scaled.jpg?ve=1&tl=1",
+      "publishedAt": "2026-09-03T19:14:48Z",
+      "content": "The keto diet\r\n may have surprising benefits for liver health, a new study suggests.\r\nThe research, published in the journal Cell Metabolism, studied 42 adults who had obesity\r\n, prediabetes and exce… [+4378 chars]"
     },
     {
       "source": {
@@ -269,6 +295,32 @@
     {
       "source": {
         "id": null,
+        "name": "Berkeleyside.org"
+      },
+      "author": "Nico Savidge",
+      "title": "Berkeley sees uptick in rabid bat cases - Berkeleyside",
+      "description": "Public health officials have issued a warning to doctors after identifying five rabid bats so far this year.",
+      "url": "https://www.berkeleyside.org/2026/09/03/rabid-bats-berkeley",
+      "urlToImage": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2026/09/image.png",
+      "publishedAt": "2026-09-03T18:50:16Z",
+      "content": "A rabid bat found in Berkeley in 2023. Credit: Reza Sirafinejad\r\nPublic health officials are warning doctors and residents to be alert amid an uptick in the number of rabid bats found in Berkeley. \r\n… [+1794 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Daily Beast"
+      },
+      "author": "The Daily Beast",
+      "title": "Scientists Flag Shocking New Concern for Men on GLP-1 Drugs - Yahoo",
+      "description": "GLP-1s may be thinning more than just men’s waistlines, a shocking new review has found. Drugs like Ozempic and Zepbound have exploded into the mainstream ma...",
+      "url": "https://www.thedailybeast.com/scientists-flag-new-concern-for-men-on-glp-1-drugs/",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/fa62a3a7573c4670b5f703a561c17b73ff3f8b85a2d234b0f8163dbac009936a/lightyear_networkapi/resizefill_w720_h406%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fvideo.dailybeast.com%2Fc0315c3a992eb1ae5c92d27f7cd9eb41.jpg",
+      "publishedAt": "2026-09-03T18:38:17Z",
+      "content": "GLP-1s may be thinning more than just men's waistlines, a shocking new review has found.Drugs like Ozempic and Zepbound have exploded into the mainstream marketbut so have anecdotal reports of hair t… [+238 chars]"
+    },
+    {
+      "source": {
+        "id": null,
         "name": "Umn.edu"
       },
       "author": null,
@@ -278,6 +330,19 @@
       "urlToImage": "https://www.cidrap.umn.edu/sites/default/files/styles/layout_large/public/article/Engorged%20tick.png?itok=bdKdJRk7",
       "publishedAt": "2026-09-03T18:17:17Z",
       "content": "Scientists in China have identified a novel tick-borne virus that causes an influenza-like illness characterized by fever, fatigue, gastrointestinal (GI) symptoms, and abnormal lab findings.\r\nThe tea… [+2790 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Fresno Bee"
+      },
+      "author": "Gagandeep Singh",
+      "title": "Bat found at Yosemite campground tests positive for deadly disease. What to know - fresnobee.com",
+      "description": "A big brown bat found dead at Yosemite National Park’s Curry Village tested positive for rabies. Learn symptoms, wildfire risks, vaccine info and seek medical treatment if exposed.",
+      "url": "https://www.fresnobee.com/news/california/yosemite/article317116330.html",
+      "urlToImage": "https://www.fresnobee.com/public/latest-news/ek158s/picture315859859/alternates/LANDSCAPE_1200/FRS_YosemiteParking_3.JPG",
+      "publishedAt": "2026-09-03T18:10:00Z",
+      "content": "Yosemite\r\nA bat found at Yosemite National Park tested positive for a viral disease thats fatal for people and animals, park officials confirmed.\r\nThe big brown bat, which was found dead outside the … [+4465 chars]"
     },
     {
       "source": {
@@ -304,19 +369,6 @@
       "urlToImage": "https://i0.wp.com/healthpolicy-watch.news/wp-content/uploads/2026/09/PAHO-Headquarters-close.jpeg",
       "publishedAt": "2026-09-03T16:50:01Z",
       "content": "PAHO headquarters in Washington, DC, in 2026. The US administration has called the organization “corrupt” as it proposes to eliminate funding.\r\nA group of senior national security and health official… [+14370 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Newsnationnow.com"
-      },
-      "author": "Taylor Delandro",
-      "title": "Is keto better for your liver? New study find a potential advantage - NewsNation",
-      "description": "Researchers found liver fat dropped by 67% among people on a ketogenic diet",
-      "url": "https://www.newsnationnow.com/health/keto-diet-liver-benefits-study-finds/",
-      "urlToImage": "https://www.newsnationnow.com/wp-content/uploads/sites/108/2026/09/GettyImages-2266959885.jpg?w=1280",
-      "publishedAt": "2026-09-03T16:42:58Z",
-      "content": "(NewsNation) A new study from Washington University School of Medicine suggests how people lose weight may matter for certain aspects of metabolic and liver health, and not just how much weight they … [+3128 chars]"
     },
     {
       "source": {
@@ -425,19 +477,6 @@
     {
       "source": {
         "id": null,
-        "name": "woman&home"
-      },
-      "author": "Grace Walsh",
-      "title": "'Start small' - 3 beginner exercises for starting strength training over 60, recommended by a PT - Woman & Home",
-      "description": "Strength training at 60 can set you up for a better life at 70 and 80, but there are a few things to know before you get started",
-      "url": "https://www.womanandhome.com/health-wellbeing/fitness/strength-training-over-60/",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/5QGbTMWEbuYsmT5z9PUEmV-1920-80.jpg",
-      "publishedAt": "2026-09-03T12:00:00Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
         "name": "Moneytalksnews.com"
       },
       "author": "Stacy Johnson CPA",
@@ -502,19 +541,6 @@
     },
     {
       "source": {
-        "id": "nbc-news",
-        "name": "NBC News"
-      },
-      "author": "Shiv Sudhakar, M.D.",
-      "title": "GLP-1 medications may worsen or speed hair loss in some men, study finds - NBC News",
-      "description": "A new study shows some men on GLP-1 medications may experience more long-term hair loss by the medications uncovering male pattern baldness or accelerating it.",
-      "url": "https://www.nbcnews.com/health/mens-health/glp-1-hair-loss-male-pattern-baldness-shedding-study-rcna595577",
-      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-09/260902-balding-glp-1-ww-1707-9ff3ee.jpg",
-      "publishedAt": "2026-09-03T09:00:00Z",
-      "content": "As GLP-1 medications become more popular, many people are reporting temporary hair loss, a side effect previously blamed on the physical stress of rapid weight loss."
-    },
-    {
-      "source": {
         "id": null,
         "name": "Hindustan Times"
       },
@@ -529,15 +555,15 @@
     {
       "source": {
         "id": null,
-        "name": "Tom's Guide"
+        "name": "TribLIVE"
       },
-      "author": "Sam Hopes",
-      "title": "I've been taking creatine for almost 3 months, and here's exactly what's happened to my body - Tom's Guide",
-      "description": "Here's what a regular creatine supplement has done for me",
-      "url": "https://www.tomsguide.com/wellness/fitness/ive-been-taking-creatine-for-almost-3-months-and-heres-exactly-whats-happened-to-my-body",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/6BXL5K7dLABFLinQyfV8Wb-1600-80.jpg",
-      "publishedAt": "2026-09-03T05:00:00Z",
-      "content": null
+      "author": "Renatta Signorini",
+      "title": "Visitor at New Stanton turnpike plaza may have exposed others to measles - TribLIVE.com",
+      "description": "A person from out-of-state may have exposed others to measles while at the New Stanton Service Plaza on the westbound side Pennsylvania Turnpike, according to the state Department of Health. The potential exposure happened on Aug. 17, officials said. Anyone w…",
+      "url": "https://triblive.com/local/westmoreland/visitor-at-new-stanton-turnpike-plaza-may-have-exposed-others-to-measles/",
+      "urlToImage": "https://assets-varnish.triblive.com/2026/09/9908116_web1_ptr-TurnpikePlaza-061023.jpg",
+      "publishedAt": "2026-09-03T02:56:56Z",
+      "content": "A person from out-of-state may have exposed others to measles while at the New Stanton Service Plaza on the westbound side Pennsylvania Turnpike, according to the state Department of Health.\r\nThe pot… [+778 chars]"
     },
     {
       "source": {
@@ -551,19 +577,6 @@
       "urlToImage": "https://www.sciencealert.com/images/2026/09/MotherAndChildFacesSideBySide.jpg",
       "publishedAt": "2026-09-03T02:07:57Z",
       "content": "Aging is inevitable, but it's certainly not consistent.\r\nWe might think aging proceeds in a steady, linear fashion, with each day, week, and month marching us sedately into our Golden Years, but new … [+6217 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "WTAE Pittsburgh"
-      },
-      "author": "Caitlyn Scott, Ed DiOrio",
-      "title": "Potential exposure: Person tests positive for measles after stopping at Pa. Turnpike service plaza - WTAE",
-      "description": "Pennsylvania health officials are responding after they said some travelers at a service plaza along the Turnpike in Westmoreland County may have been exposed to measles.",
-      "url": "https://www.wtae.com/article/travelers-potential-exposure-measles-pa-turnpike-westmoreland-county/73597055",
-      "urlToImage": "https://kubrick.htvapps.com/htv-prod/images/248fadd7-1a56-4c39-9bc6-87b03857574a.png?crop=1.00xw%3A1.00xh%3B0%2C0&resize=1200%3A*",
-      "publishedAt": "2026-09-03T00:31:00Z",
-      "content": "HEMPFIELD TOWNSHIP, Pa.Pennsylvania health officials are responding after they said some travelers at a service plaza along the Turnpike in Westmoreland County may have been exposed to measles. \r\nHea… [+2607 chars]"
     },
     {
       "source": {
@@ -606,19 +619,6 @@
     },
     {
       "source": {
-        "id": "usa-today",
-        "name": "USA Today"
-      },
-      "author": "Ken Alltucker",
-      "title": "'Microdosing' GLP-1s can shed pounds, but here are the dangers - USA Today",
-      "description": "New research sheds some light on potential dangers and benefits of taking smaller-than-recommended doses of the popular medications Wegovy, Zepbound.",
-      "url": "https://www.usatoday.com/story/money/personal-finance/healthcare/2026/09/02/microdosing-glp-1-wegovy-zepbound-side-effects/91564457007/",
-      "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/08/20/USAT/91384111007-wegovy.JPG?crop=2091,1176,x0,y0&width=2091&height=1176&format=pjpg&auto=webp",
-      "publishedAt": "2026-09-02T17:21:00Z",
-      "content": "Celebrities such as \"Real Housewives\" executive producer Andy Cohen and \"Pitch Perfect\" star Rebel Wilson have touted microdosing GLP-1 weight loss drugs as a quick path to better health.\r\nYet medica… [+6479 chars]"
-    },
-    {
-      "source": {
         "id": null,
         "name": "Slate Magazine"
       },
@@ -642,6 +642,19 @@
       "urlToImage": "https://news.cornell.edu/sites/default/files/styles/story_thumbnail_lg/public/2026-09/0902_microbiome_tnd.jpg?itok=dqckiX9i",
       "publishedAt": "2026-09-02T16:28:56Z",
       "content": "A commonly used systemic antifungal medication may help reduce symptoms in a subset of patients with inflammatory bowel disease (IBD) by restoring a healthier gut microbiome, according to a prelimina… [+6268 chars]"
+    },
+    {
+      "source": {
+        "id": "the-washington-post",
+        "name": "The Washington Post"
+      },
+      "author": "Gretchen Reynolds",
+      "title": "Column | The muscle ability you lose fastest with age — and how to preserve it - The Washington Post",
+      "description": "It’s never too late to start building muscle power, a leading exercise researcher says.",
+      "url": "https://www.washingtonpost.com/wellness/2026/09/02/muscle-ability-you-lose-fastest-with-age-how-preserve-it/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/TDV2A7UMQCCWCEC62VLU6XN52I.jpg&w=1440",
+      "publishedAt": "2026-09-02T16:00:00Z",
+      "content": "You may be losing power right now, at least in your muscles. \r\nThats because our muscles begin shedding power as we age, a process that typically begins in our 40s and accelerates in later decades."
     },
     {
       "source": {
@@ -698,19 +711,6 @@
     {
       "source": {
         "id": null,
-        "name": "Science Daily"
-      },
-      "author": null,
-      "title": "Stanford scientists discover a seafood that can reverse signs of aging - Science Daily",
-      "description": "A substance found in edible sea squirts appeared to reverse several signs of aging in older mice. Plasmalogen supplements improved memory and learning, strengthened connections between brain cells, reduced inflammation, and even helped the mice grow thicker, …",
-      "url": "https://www.sciencedaily.com/releases/2026/09/260902234518.htm",
-      "urlToImage": "https://www.sciencedaily.com/images/1920/longevity-anti-aging-beauty-skincare.webp",
-      "publishedAt": "2026-09-02T07:00:00Z",
-      "content": "Aging often makes itself visible in familiar ways, from gray hair and wrinkles to lapses in memory. That has fueled a longstanding scientific question: Could some of those changes eventually be slowe… [+7502 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "Medical Xpress"
       },
       "author": null,
@@ -746,19 +746,6 @@
       "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2164283240.jpg?c=16x9&q=w_800,c_fill",
       "publishedAt": "2026-09-01T11:00:29Z",
       "content": "Cervical cancer is one of the most preventable cancers, yet a growing number of American women have never been screened.\r\nNearly 1 in 3 women ages 21 to 29 in 2023 had never received cervical cancer … [+7795 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "HuffPost"
-      },
-      "author": null,
-      "title": "This Vitamin Deficiency Can Cause Fatigue, Headaches And Memory Problems — And Drinking Raises Your Risk - HuffPost",
-      "description": "Neurologists and dietitians reveal who’s most at risk, and how alcohol makes it worse.",
-      "url": "https://www.huffpost.com/entry/folate-vitamin-deficiency-fatigue_l_6a959379e4b01837f7eb8c87",
-      "urlToImage": "https://img.huffingtonpost.com/asset/6a9599bf19000073046bbc82.jpeg?cache=awxHXOv6dx&ops=500_281%2Cscalefit_1200_630",
-      "publishedAt": "2026-09-01T11:00:17Z",
-      "content": "For some people, feeling exhausted or getting headaches happens so frequently that theyre just used to living with it. PSA: These are not symptoms anyone should put up with.\r\nFatigue and headaches ar… [+7320 chars]"
     },
     {
       "source": {

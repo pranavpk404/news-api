@@ -3,9 +3,22 @@
   "country": "us",
   "category": "business",
   "mode": "country",
-  "fetched_at": "2026-09-06T11:45:28.547399+00:00",
-  "articles_count": 43,
+  "fetched_at": "2026-09-06T14:27:01.940987+00:00",
+  "articles_count": 38,
   "articles": [
+    {
+      "source": {
+        "id": "usa-today",
+        "name": "USA Today"
+      },
+      "author": "Daniel de Visé",
+      "title": "Still sending checks in the mail? It's time to stop. - USA Today",
+      "description": "Check fraud is rising even as the number of checks in circulation is declining. If you're still sending them in the mail, it may be time to stop.",
+      "url": "https://www.usatoday.com/story/money/personal-finance/2026/09/05/is-it-safe-to-mail-checks/91591254007/",
+      "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/09/03/USAT/91595876007-20240327-t-205826-z-201923544-mt-1-usatoday-22880038-rtrmadp-3-asurgeincheckfraudhasledtonewtipsabouthowtomail.JPG?crop=1886,1060,x240,y0&width=1886&height=1060&format=pjpg&auto=webp",
+      "publishedAt": "2026-09-05T09:05:00Z",
+      "content": "Every time you send a paper check in the mail, consumer advocates say, youre putting your bank account at risk. \r\nCheck fraud is rising, even as the number of checks in circulation is declining. In 2… [+5921 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -21,29 +34,29 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "Abcnews.com"
+        "id": "cnn",
+        "name": "CNN"
       },
-      "author": "abcnews.com",
-      "title": "Unruly passenger arrested after being restrained with duct tape during flight - abcnews.com",
-      "description": null,
-      "url": "https://abcnews.com/US/unruly-passenger-arrested-after-restrained-duct-tape-flight/story?id\\\\u003d136214947",
-      "urlToImage": null,
-      "publishedAt": "2026-09-05T01:46:44Z",
-      "content": null
+      "author": "Aaron Cooper, Taylor Galgano",
+      "title": "Disruptive passenger duct-taped to first-class seat as plane makes emergency landing - CNN",
+      "description": "A disruptive passenger was restrained with flexible handcuffs and duct-taped to a seat as his flight was diverted to make an emergency landing in Baltimore Thursday night, photos and video from other passengers showed.",
+      "url": "https://www.cnn.com/2026/09/04/us/disruptive-passenger-duct-tape",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/02-passenger-blurred.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2026-09-05T03:10:00Z",
+      "content": "A disruptive passenger was restrained with flexible handcuffs and duct-taped to a seat as his flight was diverted to make an emergency landing in Baltimore Thursday night, photos and video from other… [+3327 chars]"
     },
     {
       "source": {
-        "id": null,
-        "name": "BBC News"
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
       },
-      "author": null,
-      "title": "Why are European countries moving their gold out of North America? - BBC",
-      "description": "The Netherlands has relocated 86 tonnes of the shiny stuff - what's going on?",
-      "url": "https://www.bbc.com/news/articles/cvgyn8q8gqxo",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/69ed/live/1f74ae20-a870-11f1-bbad-43eaf67b94b6.jpg",
-      "publishedAt": "2026-09-05T01:42:09Z",
-      "content": "Cavatoni, of the World Gold Council, said one standard approach to move gold stocks was to sell the commodity in one place and buy it in another. \"Let's say I want my gold in New York and I have it i… [+169 chars]"
+      "author": "WSJ",
+      "title": "Novartis Says Closely Watched Cholesterol Study Failed to Meet Goal - WSJ",
+      "description": null,
+      "url": "https://www.wsj.com/health/pharma/novartis-says-closely-watched-cholesterol-study-failed-to-meet-goal-7901cb11",
+      "urlToImage": null,
+      "publishedAt": "2026-09-04T23:56:05Z",
+      "content": null
     },
     {
       "source": {
@@ -112,6 +125,19 @@
     },
     {
       "source": {
+        "id": "politico",
+        "name": "Politico"
+      },
+      "author": "Chase DiFeliciantonio",
+      "title": "California’s Rob Bonta investigating OpenAI over Hugging Face hack - Politico",
+      "description": "The probe comes as new reports suggest the breach by autonomous artificial intelligence models went even further than first disclosed.",
+      "url": "https://www.politico.com/news/2026/09/04/california-investigation-openai-hugging-face-hack-01065800",
+      "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2F05%2F21%2F247d87e7448f92d956cf518e286a%2Fcalifornia-sheriff-ballot-seizure-5774.jpg",
+      "publishedAt": "2026-09-04T21:13:00Z",
+      "content": "The hack of startup Hugging Face, which OpenAI disclosed in July, was an unprecedented breach in which AI agents created by OpenAI effectively went rogue during internal testing, accessing the open i… [+2206 chars]"
+    },
+    {
+      "source": {
         "id": "associated-press",
         "name": "Associated Press"
       },
@@ -122,6 +148,19 @@
       "urlToImage": "https://dims.apnews.com/dims4/default/4da4943/2147483647/strip/true/crop/8640x5757+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fda%2Fe3%2F5ad22f27bcf5d5764762a7da74c0%2Fab26dc027169491c9c5fdf0cf6d339df",
       "publishedAt": "2026-09-04T20:57:00Z",
       "content": "U.S. stocks fell and Treasury yields rose Friday after the government reported that employers unexpectedly added 162,000 jobs last month, a development that could increase chances that the U.S. centr… [+5643 chars]"
+    },
+    {
+      "source": {
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
+      },
+      "author": "WSJ",
+      "title": "Exclusive | DOJ Staff Were Told to Pause Antitrust Work With Canadian Government - WSJ",
+      "description": null,
+      "url": "https://www.wsj.com/politics/policy/justice-department-hits-pause-on-cooperation-with-canadian-government-da9d74e0",
+      "urlToImage": null,
+      "publishedAt": "2026-09-04T20:53:00Z",
+      "content": null
     },
     {
       "source": {
@@ -152,15 +191,15 @@
     {
       "source": {
         "id": null,
-        "name": "Seeking Alpha"
+        "name": "nj.com"
       },
-      "author": "Quad 7 Capital",
-      "title": "Micron: AI Fatigue Into A Big Day (NASDAQ:MU) - Seeking Alpha",
-      "description": "Micron Technology, Inc. rides the AI memory boom with HBM3E sold out to 2027. Click to see key Q4 expectations, growth drivers, and risks.",
-      "url": "https://seekingalpha.com/article/4943230-micron-ai-fatigue-into-a-big-day",
-      "urlToImage": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1150565928/image_1150565928.jpg?io=getty-c-w1536",
-      "publishedAt": "2026-09-04T20:32:41Z",
-      "content": "Analysts Disclosure: I/we have a beneficial long position in the shares of MU, NVDA, AMD either through stock ownership, options, or other derivatives. I wrote this article myself, and it expresses m… [+739 chars]"
+      "author": "nj.com",
+      "title": "A $370M political firestorm: Inside the furious backlash of blame for Burlington’s move from N.J. - nj.com",
+      "description": null,
+      "url": "https://www.nj.com/politics/2026/09/a-370m-political-firestorm-inside-the-furious-backlash-of-blame-for-burlingtons-move-from-nj.html",
+      "urlToImage": null,
+      "publishedAt": "2026-09-04T19:56:00Z",
+      "content": null
     },
     {
       "source": {
@@ -187,19 +226,6 @@
       "urlToImage": "https://images.barrons.com/im-22411473/social",
       "publishedAt": "2026-09-04T19:48:00Z",
       "content": "Shares ofFair Isaac,Equifax,TransUnion, andExperianwere all falling on Friday following Thursday night social media posts from Bill Pulte, the head of the Federal Housing Finance Agency.\r\nCopyright ©… [+86 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Financial Times"
-      },
-      "author": null,
-      "title": "Anthropic close to awarding Morgan Stanley and Goldman Sachs top roles in $2tn IPO - ft.com",
-      "description": "AI giant on track to unveil paperwork underpinning its blockbuster Wall Street debut as soon as next week",
-      "url": "https://www.ft.com/content/3c9d0a82-643b-44ef-96a0-74a00e3c72ba?syn-25a6b1a6\\\\u003d1",
-      "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F22e10a41-a8e7-41c2-b6cd-f6fda20dca00.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
-      "publishedAt": "2026-09-04T19:46:21Z",
-      "content": "Then $75 per month. Complete digital access to quality FT journalism on any device. Cancel anytime during your trial."
     },
     {
       "source": {
@@ -269,6 +295,19 @@
     {
       "source": {
         "id": null,
+        "name": "Seeking Alpha"
+      },
+      "author": "Steven Cress",
+      "title": "3 Top Small-Cap Tech Stocks Averaging 50% Forward EPS Growth - Seeking Alpha",
+      "description": "Small-cap tech stocks quietly outperformed in the past year, while trading at attractive valuations. Discover 3 stocks offering strong growth outside Big Tech.",
+      "url": "https://seekingalpha.com/article/4943204-3-top-small-cap-tech-stocks-averaging-50-percent-forward-eps-growth",
+      "urlToImage": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2272186338/image_2272186338.jpg?io=getty-c-w1536",
+      "publishedAt": "2026-09-04T17:50:09Z",
+      "content": "Analysts Disclosure: I/we have no stock, option or similar derivative position in any of the companies mentioned, and no plans to initiate any such positions within the next 72 hours. I wrote this ar… [+1047 chars]"
+    },
+    {
+      "source": {
+        "id": null,
         "name": "GQ Magazine"
       },
       "author": "Reed Nelson",
@@ -333,29 +372,16 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "Investinglive.com"
+        "id": "cbs-news",
+        "name": "CBS News"
       },
-      "author": null,
-      "title": "Oil climbs on reports of Iran ballistic missile launches - investingLive",
-      "description": "Iran shifting to a pre-emptive doctrine",
-      "url": "https://investinglive.com/commodities/oil-climbs-on-reports-of-iran-ballistic-missile-launches/",
-      "urlToImage": "https://investinglive.com/cms/media/Processed/Categories/featured/ballistic%20missile_id_1fb3552e-d76e-43e3-b098-c5eacc65d36d_original-featured-1788533955-featured-1788534636.jpg?width=960&format=webp",
-      "publishedAt": "2026-09-04T15:24:00Z",
-      "content": "High risk warning: Foreign exchange trading carries a high level of risk that may not be suitable for all investors. Leverage creates additional risk and loss exposure. Before you decide to trade for… [+2119 chars]"
-    },
-    {
-      "source": {
-        "id": "business-insider",
-        "name": "Business Insider"
-      },
-      "author": "Jennifer Sor",
-      "title": "Trump demands the Fed lower interest rates after a blowout August jobs report - Business Insider",
-      "description": "Trump's post puts his handpicked Fed chair, Kevin Warsh, in a tough position before this month's policy meeting, as markets eye higher odds of a rate hike.",
-      "url": "https://www.businessinsider.com/trump-fed-interest-rates-cuts-august-jobs-report-kevin-warsh-2026-9#article",
-      "urlToImage": "https://i.insider.com/6a9ad389755b3072e51cc577?width=1200&format=jpeg",
-      "publishedAt": "2026-09-04T15:16:00Z",
-      "content": "Donald Trump is once again turning up the heat on the Federal Reserve.\r\nThe president fired off a fresh request for the central bank to lower interest rates in a post on Truth Social on Friday. This … [+3168 chars]"
+      "author": "Mary  Cunningham",
+      "title": "Employer and worker health plan costs expected to jump in 2027 - CBS News",
+      "description": "Employer health benefit costs are projected to see the steepest increase next year since 2003. That could mean higher deductions and out-of-pocket costs for workers.",
+      "url": "https://www.cbsnews.com/news/employer-health-care-costs-increase-2027/",
+      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/09/04/d401a472-882a-40c4-89a3-14bca0601560/thumbnail/1200x630/1887c36e5a5ec9931cd293b9a1c2dfcc/gettyimages-2270654355.jpg",
+      "publishedAt": "2026-09-04T14:59:00Z",
+      "content": "Employers across the U.S. are likely to face sharply higher health insurance costs next year, which could drive up how much workers pay for medical coverage, according to a recent survey.\r\nHealth ben… [+3751 chars]"
     },
     {
       "source": {
@@ -398,45 +424,6 @@
     },
     {
       "source": {
-        "id": "axios",
-        "name": "Axios"
-      },
-      "author": "Caitlin Owens",
-      "title": "Large employers drop health benefits as costs rise - Axios",
-      "description": "It's a sign that year-after-year spikes in medical costs have real consequences.",
-      "url": "https://www.axios.com/2026/09/04/employer-health-insurance-benefit-cut-costs",
-      "urlToImage": "https://images.axios.com/YbjhgnydI7-1pHhJid-l7Bpa3rw=/0x0:1920x1080/1366x768/2026/09/02/1788380044968.jpg",
-      "publishedAt": "2026-09-04T09:32:27Z",
-      "content": "Driving the news: Disney recently made headlines by deciding to drop health coverage for working spouses with access to their own coverage next year. A Disney spokesperson said the adjustments are be… [+3338 chars]"
-    },
-    {
-      "source": {
-        "id": "cbs-news",
-        "name": "CBS News"
-      },
-      "author": "Aimee  Picchi",
-      "title": "Sturdy stock market mints a record number of 401(k) millionaires - CBS News",
-      "description": "The number of millionaire 401(k) accounts at Fidelity reached a record 769,000 in the second quarter.",
-      "url": "https://www.cbsnews.com/news/401k-millionaires-record-fidelity-retirement-savings/",
-      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/07/29/c877ef69-6084-4932-89c7-212bb0b2857b/thumbnail/1200x630/5a5c45d5807747823da3d42fb303933d/gettyimages-2277260046.jpg",
-      "publishedAt": "2026-09-04T09:00:12Z",
-      "content": "America's ranks of retirement fund millionaires are surging, with the number of 401(k) accounts managed by Fidelity Investments holding at least $1 million surging to a record 769,000 in the second q… [+3793 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": "Kai Nicol-Schwarz",
-      "title": "Nvidia's investments grow to $99 billion as chip giant becomes major backer of AI companies - cnbc.com",
-      "description": "Nvidia reported $99 billion in equity holdings as it backs AI labs, cloud providers and infrastructure companies across the sector.",
-      "url": "https://www.cnbc.com/2026/09/04/nvidia-ai-investments-99-billion.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108353993-1787677585886-108353993-1787675816989-gettyimages-2266718431-NVIDIA_GTC.jpg?v=1787832050&w=1920&h=1080",
-      "publishedAt": "2026-09-04T08:08:51Z",
-      "content": "Nvidia has become one of the world's largest corporate backers of tech companies as the value of its equity investments soared more than tenfold in the past year to $99 billion, with the chip giant i… [+5061 chars]"
-    },
-    {
-      "source": {
         "id": "bloomberg",
         "name": "Bloomberg"
       },
@@ -450,16 +437,16 @@
     },
     {
       "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
+        "id": "the-hill",
+        "name": "The Hill"
       },
-      "author": "Lucas Ropek",
-      "title": "Oura files to go public - techcrunch.com",
-      "description": "The ring maker says that its business has shown significant revenue growth over the past year.",
-      "url": "https://techcrunch.com/2026/09/03/oura-files-to-go-public/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/06/oura-ring-5.jpg?resize=1200,900",
-      "publishedAt": "2026-09-03T22:35:41Z",
-      "content": "Oura, the smart ring maker, has filed to go public. \r\nThe filing with the Securities and Exchange Commission on Thursday shows that Oura’s revenue has jumped substantially in the past year. The compa… [+3333 chars]"
+      "author": "Max Rego",
+      "title": "Auto companies call for ban on Chinese-made cars - The Hill",
+      "description": "A group representing American automakers sent a letter Thursday to congressional leaders asking for a “permanent ban” on Chinese-made cars in the U.S. John Bozzella, the Alliance for Automotive Innovation’s CEO and president, described in the letter China’s m…",
+      "url": "https://thehill.com/policy/transportation/6070614-auto-companies-congress-letter-chinese-car-ban/",
+      "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2024/10/europe_china_electrric_vehicle_EV_10012024_AP_AP24164293820900.jpg?w=1280",
+      "publishedAt": "2026-09-03T23:57:00Z",
+      "content": "Skip to content\r\nA group representing American automakers sent a letter Thursday to congressional leaders asking for a “permanent ban” on Chinese-made cars in the U.S.\r\nJohn Bozzella, the Alliance fo… [+2234 chars]"
     },
     {
       "source": {
@@ -473,32 +460,6 @@
       "urlToImage": "https://www.thestreet.com/.image/NDA6MDAwMDAwMDAzMTY1Njg1/chipengineer_pl_030926.jpg?profile=share16-9",
       "publishedAt": "2026-09-03T22:17:00Z",
       "content": "Most investors know Nvidia as the face of the AI chip trade. Fewer pay the same attention to the company quietly building the plumbing that makes those chips useful.\r\nThat company is Broadcom (AVGO),… [+5727 chars]"
-    },
-    {
-      "source": {
-        "id": "cbs-news",
-        "name": "CBS News"
-      },
-      "author": "Megan  Cerullo",
-      "title": "American automakers urge Congress to ban Chinese vehicle sales in the U.S. - CBS News",
-      "description": "Chinese cars can collect and send consumer and vehicle data to Beijing, U.S. automaker group warns in calling for a ban on sales.",
-      "url": "https://www.cbsnews.com/news/automakers-urge-congress-ban-chinese-vehicles/",
-      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/09/03/7b3cb238-2d62-46a2-8415-c3591c781be1/thumbnail/1200x630/7a667d49c9c0ea328e96d0a5f28c38f4/gettyimages-2292514186.jpg",
-      "publishedAt": "2026-09-03T21:18:45Z",
-      "content": "A trade group representing American automakers is urging Congress to permanently bar the sale of Chinese vehicles in the U.S. \r\nIn a letter to senior lawmakers, the Alliance for Automotive Innovation… [+1701 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theautopian.com"
-      },
-      "author": "Thomas Hundal",
-      "title": "Why Ford’s Goal Of Selling 100,000 Fathom EV Pickup Trucks The First Year Is So Insane - The Autopian",
-      "description": "Ford reportedly wants to sell 100,000 Fathom EV pickup trucks in its first year of production, a number only Tesla's done before.",
-      "url": "https://www.theautopian.com/ford-has-an-insane-goal-outsell-the-entire-porsche-brand-with-just-the-electric-ford-fathom-pickup/",
-      "urlToImage": "https://images-stag.jazelc.com/uploads/theautopian-m2en/2028-Ford-Fathom-902-1-copy-2.png",
-      "publishedAt": "2026-09-03T21:10:38Z",
-      "content": null
     },
     {
       "source": {
@@ -529,19 +490,6 @@
     {
       "source": {
         "id": null,
-        "name": "nj.com"
-      },
-      "author": "NJ.com",
-      "title": "Major retail store relocates HQ after 50 years in N.J., invests $370M - NJ.com",
-      "description": null,
-      "url": "https://www.nj.com/news/2026/09/major-retail-store-relocates-hq-after-50-years-in-nj-invests-370m.html",
-      "urlToImage": null,
-      "publishedAt": "2026-09-03T18:27:00Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
         "name": "Yahoo Entertainment"
       },
       "author": "By David Lawder and Howard Schneider",
@@ -551,19 +499,6 @@
       "urlToImage": "https://s.yimg.com/lo/mysterio/api/4f46fbefb03edc942d9ff0e8d081e320cc82275b3c093349b5aabc147e41455c/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F28a0a80e45d0dcb88b834f39a5a07d84.jpg",
       "publishedAt": "2026-09-03T17:46:13Z",
       "content": "By David Lawder and Howard Schneider\r\nWASHINGTON, Sept 3 (Reuters) - There is no more premium for safe, liquid U.S. government debt, pushing the neutral level of interest rates higher, Federal Reserv… [+3198 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Hollywood Reporter"
-      },
-      "author": "Joseph Kahn",
-      "title": "Maybe Paramount-Warner Should Leave L.A.: Joseph Kahn Opinion Column - The Hollywood Reporter",
-      "description": "A veteran Hollywood director argues that it wouldn’t be the worst thing to happen to the possibly-soon-to-be merged studios. But it would be a disaster for Hollywood.",
-      "url": "http://www.hollywoodreporter.com/movies/movie-features/paramount-warner-leave-los-angeles-joseph-kahn-column-1236686863/",
-      "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2026/09/Maxomatic_HR_StudiosMoving-FINAL-Web-2-Hat-LA-SPLASH-2026.jpg?w=1440&h=810&crop=1",
-      "publishedAt": "2026-09-03T15:31:11Z",
-      "content": "If Paramount–Warner Bros. leaves L.A., it’ll be game over for Hollywood. But David Ellison’s newly merged studios will be fine. Better than fine. Nobody in Burbank actually likes Burbank anyway.\r\nThe… [+6895 chars]"
     }
   ]
 }

@@ -3,9 +3,87 @@
   "country": "us",
   "category": "business",
   "mode": "country",
-  "fetched_at": "2026-09-11T17:21:09.763509+00:00",
-  "articles_count": 55,
+  "fetched_at": "2026-09-11T20:06:15.112294+00:00",
+  "articles_count": 50,
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Jordan Novet",
+      "title": "Oracle's stock jumps 7% on earnings beat as cloud infrastructure revenue more than doubles - CNBC",
+      "description": "Oracle's results for the quarter came in stronger than expected, as did its revenue backlog.",
+      "url": "https://www.cnbc.com/2026/09/10/oracle-orcl-q1-earnings-report-2027.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108361331-1789060014865-gettyimages-1689129855-20090101230925-99-327233.jpeg?v=1789060080&w=1920&h=1080",
+      "publishedAt": "2026-09-10T20:12:46Z",
+      "content": "Oracle shares jumped 7% in extended trading on Thursday after the software vendor issued stronger-than-expected quarterly results. \r\nHere's how the company performed relative to LSEG consensus:\r\n<ul>… [+3027 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Sarah Perez",
+      "title": "Meta’s AI agent Muse is now the No. 2 app in the US - TechCrunch",
+      "description": "Meta's newest app Muse is off to a slower start than the company's other apps, like Meta AI or Threads.",
+      "url": "https://techcrunch.com/2026/09/10/metas-ai-agent-muse-is-now-the-no-2-app-in-the-us/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/09/meta-muse-app-GettyImages-2293792137.jpg?w=1024",
+      "publishedAt": "2026-09-10T19:50:04Z",
+      "content": "Meta is beginning to win over Wall Street following Tuesday’s launch of its new AI app, Muse. The tech giant’s push into agentic AI is also a hot topic on X among industry players. Now, early numbers… [+4283 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Jeff Cox",
+      "title": "Friday's CPI inflation report is even more important than usual. Here's what to expect - CNBC",
+      "description": "The Bureau of Labor Statistics will release the August consumer price index report at 8:30 a.m.",
+      "url": "https://www.cnbc.com/2026/09/10/fridays-cpi-inflation-report-is-even-more-important-than-usual-heres-what-to-expect.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108354182-1787691152020-gettyimages-2291508171-AFP_C6H6884.jpeg?v=1787691267&w=1920&h=1080",
+      "publishedAt": "2026-09-10T19:18:05Z",
+      "content": "A report due out Friday morning will be the last piece of the inflation puzzle the Federal Reserve will get before making its decision on interest rates next week.\r\nThe Bureau of Labor Statistics wil… [+2070 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Fox Business"
+      },
+      "author": "Bradford Betz",
+      "title": "55-year-old restaurant chain abruptly shutters locations nationwide - Fox Business",
+      "description": "Casual dining chain O’Charley’s has reportedly permanently closed all remaining corporate-owned locations nationwide following a steep decline in sales and traffic.",
+      "url": "https://www.foxbusiness.com/lifestyle/55-year-old-restaurant-chain-abruptly-shutters-locations-nationwide",
+      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/09/0/0/ocharleys-restaurant-construction.jpg?ve=1&tl=1",
+      "publishedAt": "2026-09-10T19:02:00Z",
+      "content": "Casual dining chain O’Charley’s Restaurant &amp; Bar is reportedly closing its remaining locations nationwide, according to employees who spoke with local news outlets, bringing the 55-year-old resta… [+2404 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "KOMO News"
+      },
+      "author": "Chris Daniels, KOMO News Senior Reporter",
+      "title": "Microsoft, Starbucks, Costco, Alaska Airlines call for Seattle public safety improvements - KOMO",
+      "description": "Dozens of Seattle-area business leaders are calling on Mayor Katie Wilson and the City Council to adopt a 100-day public safety action plan and more.",
+      "url": "https://komonews.com/news/local/microsoft-starbucks-costco-alaska-airlines-call-for-seattle-public-safety-improvements-tmobile-katie-wilson-city-council-public-safety",
+      "urlToImage": "https://komonews.com/resources/media2/16x9/3840/1320/center/90/f3bfd3db-c7e1-4936-a37a-0bad263252b7-refwrfead.jpg",
+      "publishedAt": "2026-09-10T19:01:11Z",
+      "content": "SEATTLE Dozens of Seattle-area business leaders are calling on Mayor Katie Wilson and the City Council to adopt a 100-day public safety action plan, restore surveillance cameras in high-event areas, … [+3703 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Investor's Business Daily"
+      },
+      "author": null,
+      "title": "Stock Market Today: Dow Drops As Oil, Yields Surge; Tech Titan Oracle's Earnings On Deck (Live Coverage) - Investor's Business Daily",
+      "description": "Stock Market Today: The Dow Jones index falls Thursday after a surprise inflation reading, as oil prices and Treasury yields surge.",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-inflation-data-nvidia-chipmaker-tsmc/",
+      "urlToImage": "https://www.investors.com/wp-content/uploads/2022/09/Stock-BearFish-shutt.jpg",
+      "publishedAt": "2026-09-10T18:31:00Z",
+      "content": "Information in Investors Business Daily is for informational and educational purposes only and should not be construed as an offer, recommendation, solicitation, or rating to buy or sell securities. … [+1064 chars]"
+    },
     {
       "source": {
         "id": "usa-today",
@@ -34,6 +112,19 @@
     },
     {
       "source": {
+        "id": "fortune",
+        "name": "Fortune"
+      },
+      "author": "Marco Quiroz-Gutierrez",
+      "title": "Scott Bessent dared $32 trillion bond market with 'I am the house now' statement. It didn’t listen - Fortune",
+      "description": "After helping lift the yen, Bessent is finding the much larger Treasury market harder to tame as yields push toward 5%.",
+      "url": "https://fortune.com/2026/09/10/scott-bessent-treasury-yields-bond-market-yen-intervention-japan-buybacks-10-year-treasury-iran-war-markets-us-economy-trump-administration/",
+      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/09/GettyImages-2294414016-e1789059476969.jpg?resize=1200,600",
+      "publishedAt": "2026-09-10T17:37:00Z",
+      "content": "Speaking at Southern Methodist University on Tuesday, Treasury Secretary Scott Bessent dared currency traders, and indirectly the bond market, to challenge him as he wages a multi-front battle to sta… [+4896 chars]"
+    },
+    {
+      "source": {
         "id": null,
         "name": "MarketWatch"
       },
@@ -47,16 +138,16 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "CNBC"
+        "id": "associated-press",
+        "name": "Associated Press"
       },
-      "author": "Hugh Son, Ashley Capoot",
-      "title": "OpenAI targets work of Wall Street junior bankers with new ChatGPT for Financial Services - CNBC",
-      "description": "OpenAI launched ChatGPT for Financial Services, targeting the labor-intensive research, modeling, and pitchbook tasks traditionally handled by junior bankers.",
-      "url": "https://www.cnbc.com/2026/09/10/openai-chatgpt-for-financial-services-targets-work-of-junior-bankers.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108361349-1789061236185-gettyimages-2221337331-kokovlis-notitle250625_npN2j.jpeg?v=1789061264&w=1920&h=1080",
-      "publishedAt": "2026-09-10T17:12:29Z",
-      "content": "OpenAI is taking aim at some of Wall Street's most labor-intensive tasks with a new version of ChatGPT designed to research companies, analyze financial data and generate the presentations that inves… [+4110 chars]"
+      "author": "Christopher Rugaber",
+      "title": "US wholesale prices rise in latest sign of stubborn inflation as oil prices continue to climb - AP News",
+      "description": "Wholesale inflation picked up last month after cooling earlier this summer as higher oil and gas prices stemming from the Iran war are keeping costs elevated. The Labor Department’s producer price index — which captures inflation before it reaches consumers —…",
+      "url": "https://apnews.com/article/producer-prices-inflation-economy-iran-66d1591b979271ee7b79b113d715f6ef",
+      "urlToImage": "https://dims.apnews.com/dims4/default/6d92451/2147483647/strip/true/crop/5114x3408+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F0c%2F70%2Fece2d8738dee149704e04f0437e9%2F02b5548c674c4fad9a7e936cd641d186",
+      "publishedAt": "2026-09-10T17:21:00Z",
+      "content": "WASHINGTON (AP) Wholesale inflation picked up last month after cooling earlier this summer as higher oil and gas prices stemming from the Iran war keep costs elevated. \r\nThe Labor Departments produce… [+4943 chars]"
     },
     {
       "source": {
@@ -70,6 +161,32 @@
       "urlToImage": "https://image.cnbcfm.com/api/v1/image/108138834-1746032874620-IMG_8425.JPG?v=1769532730&w=1920&h=1080",
       "publishedAt": "2026-09-10T16:57:43Z",
       "content": "DETROIT Ford Motor on Thursday announced a $1 billion investment to build a new paint shop at its crucial Kentucky Truck Plant.\r\nThe facility, which Ford has called its most important and profitable … [+1737 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "Pilot warned Amazon cargo plane going too fast before deadly crash, data shows - BBC",
+      "description": "One pilot told the other about the aircraft's \"excessive speed\" but received an uneven response even as alarms sounded.",
+      "url": "https://www.bbc.com/news/articles/cj4jynv59ddo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/da5e/live/e1bc0040-ad1c-11f1-826f-933990eae6f0.jpg",
+      "publishedAt": "2026-09-10T16:31:30Z",
+      "content": "The five who died were part of a plane-cleaning crew in the van. Miami authorities on Tuesday identified them as Rolando Aleman Leon, 55; Yoel Rodriguez Naranjo, 53; Julio C Pineda, 75; Carlos Acosta… [+45 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Diana Olick",
+      "title": "30-year fixed mortgage rate tops 7% for the first time in over a year - CNBC",
+      "description": "The average rate on the 30-year fixed mortgage crossed over 7% for the first time in more than a year, as home prices continue to rise and sales drop.",
+      "url": "https://www.cnbc.com/2026/09/10/30-year-fixed-mortgage-rate-crosses.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108358972-1788530869208-gettyimages-2292907653-US_HOME_SALES.jpeg?v=1788530919&w=1920&h=1080",
+      "publishedAt": "2026-09-10T16:28:59Z",
+      "content": "The average rate on the popular 30-year fixed mortgage crossed over 7% on Thursday for the first time since May 2025, hitting 7.07%, according to Mortgage News Daily. That is an increase of 10 basis … [+1218 chars]"
     },
     {
       "source": {
@@ -99,29 +216,16 @@
     },
     {
       "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
+        "id": "fox-news",
+        "name": "Fox News"
       },
-      "author": "Sean O'Kane",
-      "title": "The Boring Company raises $3B in round led by UAE - TechCrunch",
-      "description": "The company said it plans to dig more than 150 kilometers of tunnels in the Middle Eastern country.",
-      "url": "https://techcrunch.com/2026/09/10/the-boring-company-raises-3b-in-round-led-by-uae/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2021/07/GettyImages-1311710604.jpg?resize=1200,770",
-      "publishedAt": "2026-09-10T15:07:27Z",
-      "content": "Elon Musk’s tunneling company, The Boring Company, has raised a $3 billion Series D funding round that pushes its valuation to $23 billion.\r\nThe round was led by the United Arab Emirates. The Boring … [+759 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Emma Roth",
-      "title": "Meta’s Muse AI works and creeps me out - The Verge",
-      "description": "Meta just debuted its personal AI assistant Muse. While Muse delivers on its promise of performing tasks in the background, it’s hard to use the tool without thinking about its connection to Meta.",
-      "url": "https://www.theverge.com/tech/993391/meta-muse-ai-hands-on",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/muse-ai-window.png?quality=90&strip=all&crop=0%2C11.012266054978%2C100%2C77.975467890045&w=1200",
-      "publishedAt": "2026-09-10T15:00:00Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nMuse rattled off very specific interests linked to my Instagram account.\r\nMuse rattled off very specific interests linked to my Instagram account.\r\nby\r\nEmma Roth… [+6599 chars]"
+      "author": null,
+      "title": "TSA weighs major change to frustrating airport security rule for some travelers - Fox News",
+      "description": "TSA weighs whether to let PreCheck passengers bring full water bottles through airport security checkpoints using advanced CT scanners.",
+      "url": "https://www.foxnews.com/travel/tsa-weighs-major-change-frustrating-airport-security-rule-some-travelers",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/03/tsa-lines-government-shutdown-fox-news-1.jpg",
+      "publishedAt": "2026-09-10T14:46:55Z",
+      "content": "Travelers could soon be allowed to bring full water bottles through some airport security checkpoints a major shift from longstanding airport security restrictions.\r\nThe Transportation Security Admin… [+2197 chars]"
     },
     {
       "source": {
@@ -164,6 +268,19 @@
     },
     {
       "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Claire Boston",
+      "title": "Home sales dropped last month as mortgage rates reached highest level in over a year - Yahoo Finance",
+      "description": "Home sales dropped 2% in August as mortgage rates continued to rise.",
+      "url": "https://finance.yahoo.com/real-estate/article/home-sales-dropped-last-month-as-mortgage-rates-reached-highest-level-in-over-a-year-141755601.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/eaa5e9eeab70874738851d753c4844b44ee9ef6953e33ffe8e9226c044be8500/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-09%2Fac5f1501-4e5d-4350-afb9-f9e6cebaebfc",
+      "publishedAt": "2026-09-10T14:17:55Z",
+      "content": "Home sales declined in August as mortgage rates hit their highest levels in over a year, discouraging prospective buyers. \r\nExisting home sales dropped 2% last month from July to a seasonally adjuste… [+1778 chars]"
+    },
+    {
+      "source": {
         "id": "cbs-news",
         "name": "CBS News"
       },
@@ -193,26 +310,13 @@
         "id": null,
         "name": "CNBC"
       },
-      "author": "Diana Olick",
-      "title": "Home sales fall in August despite the highest supply in over a decade - CNBC",
-      "description": "Home sales slowed again despite the highest supply of homes for sale in over a decade. Prices, however, continue to rise.",
-      "url": "https://www.cnbc.com/2026/09/10/home-sales-august-supply.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108358973-1788530872989-gettyimages-2292907736-US_HOME_SALES.jpeg?v=1788530919&w=1920&h=1080",
-      "publishedAt": "2026-09-10T14:05:59Z",
-      "content": "Homebuyers continue to struggle amid higher mortgage rates and lofty home prices. \r\nSales of previously owned homes fell 2% in August from July to 3.98 million units on a seasonally adjusted, annuali… [+2084 chars]"
-    },
-    {
-      "source": {
-        "id": "nbc-news",
-        "name": "NBC News"
-      },
-      "author": "Steve Kopack",
-      "title": "U.S. crude oil hits $100 for the first time since May - NBC News",
-      "description": "The price of oil surged again, with Brent crude surpassing $105 per barrel for the first time since May as markets brace for a long U.S. war with Iran.",
-      "url": "https://www.nbcnews.com/business/energy/us-crude-oil-iran-trump-hormuz-rcna596997",
-      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-09/260910-hormuz-mn-0840-6bdbf3.jpg",
-      "publishedAt": "2026-09-10T14:01:12Z",
-      "content": "But rising yields may also be attributable to a pledge by Trump on Wednesday night to give a $5,000 rebate to all U.S. adults if Republicans retain the House and Senate in November. While details of … [+3189 chars]"
+      "author": "Davis Giangiulio",
+      "title": "Kalshi launches ‘perps’ for gold and silver following CFTC approval, expanding futures offerings - CNBC",
+      "description": "Its the latest move by the prediction market company to diversify its assets users can trade.",
+      "url": "https://www.cnbc.com/2026/09/10/kalshi-launches-perps-for-gold-and-silver-following-cftc-approval-expanding-futures-offerings.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108344436-17858457182026-08-04t102722z_1664165591_rc2mrmat3b8n_rtrmadp_0_usa-prediction-markets.jpeg?v=1787061386&w=1920&h=1080",
+      "publishedAt": "2026-09-10T14:00:11Z",
+      "content": "Kalshi has won approval to list perpetual futures tied to precious metals gold and silver in the U.S., in the latest development as the company seeks to grow its trading offerings beyond prediction m… [+2443 chars]"
     },
     {
       "source": {
@@ -256,28 +360,15 @@
     {
       "source": {
         "id": null,
-        "name": "WPBF West Palm Beach"
-      },
-      "author": "John Perik",
-      "title": "Witness says Miami plane crash pilot told him, 'My career is over' after deadly runway overrun - WPBF",
-      "description": "Seconds before the Miami crash, investigators say the plane’s throttles were at full power, and no speed brakes or thrust reversers were deployed.",
-      "url": "https://www.wpbf.com/article/amazon-cargo-plane-crash-miami-witness/73666768",
-      "urlToImage": "https://kubrick.htvapps.com/htv-prod/images/41edf093-de1d-4ebc-b3ab-de9504a063d6.jpg?crop=0.826xw%3A1.00xh%3B0.0488xw%2C0&resize=1200%3A*",
-      "publishedAt": "2026-09-10T12:49:00Z",
-      "content": "MIAMIThe NTSB believes the pilots of an Amazon cargo plane involved in Sunday's deadly crash at Miami International Airport considered aborting the landing moments before the disaster. \r\nThe crash ki… [+1610 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "CNBC"
       },
-      "author": "Julia Spina",
-      "title": "Oracle options are doing something curious heading into earnings - CNBC",
-      "description": "If ever there were a stock that captured the hopes and fear of the AI trade, it's Oracle.",
-      "url": "https://www.cnbc.com/2026/09/10/oracle-options-are-doing-something-curious-heading-into-earnings.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108348677-1786560865437-gettyimages-2289704306-US_STOCKS.jpeg?v=1786560938&w=1920&h=1080",
-      "publishedAt": "2026-09-10T12:20:51Z",
-      "content": "If ever there were a stock that captured the hopes and fear of the AI trade, it's Oracle. \r\nShares have fallen 17% year to date and have lost over half their value from their 52-week highs. Still, op… [+4251 chars]"
+      "author": "Tanaya Macheel",
+      "title": "Nasdaq invests $100 million in Kraken parent, eyeing 2027 launch of 'tokenized' stock trading - CNBC",
+      "description": "Nasdaq is making a big bet that tokenization of stocks and other assets are becoming part of the plumbing of the stock market.",
+      "url": "https://www.cnbc.com/2026/09/10/nasdaq-invests-100-million-in-crypto-firm-eyes-2027-launch-of-tokenized-stocks.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108339911-1784909894409-gettyimages-2286808102-SCRIBE_THERAPEUTICS_IPO.jpeg?v=1784909933&w=1920&h=1080",
+      "publishedAt": "2026-09-10T12:48:02Z",
+      "content": "Nasdaq's venture capital arm is investing $100 million in Kraken parent Payward, partnering with the crypto firm to launch tokenized equities in 2027 and build a market infrastructure and surveillanc… [+2649 chars]"
     },
     {
       "source": {
@@ -307,19 +398,6 @@
     },
     {
       "source": {
-        "id": "the-wall-street-journal",
-        "name": "The Wall Street Journal"
-      },
-      "author": "David Uberti, Sam Goldfarb, Shradha Dinesh, Suzanne Kapner, Chelsey Dulaney, Matt Grossman, Alexander Osipovich, WSJ Staff, Alex Frangos",
-      "title": "Stock Market Today: Dow Futures Gain; Bond Yields and Oil Edge Higher — Live Updates - WSJ",
-      "description": "Live updates on markets and the top finance, economics and business stories. Plus the latest on oil prices, the Dow, S&P 500 and Nasdaq.",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-10-2026",
-      "urlToImage": "https://images.wsj.net/im-925349/social",
-      "publishedAt": "2026-09-10T11:49:00Z",
-      "content": "U.S. government bond yields jumped to fresh multiyear highs as oil prices climbed further amid growing investor concerns about the war in Iran.\r\nAdvisers to President Trump have privately suggested t… [+792 chars]"
-    },
-    {
-      "source": {
         "id": null,
         "name": "TheStreet"
       },
@@ -330,19 +408,6 @@
       "urlToImage": null,
       "publishedAt": "2026-09-10T11:07:00Z",
       "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Substack.com"
-      },
-      "author": "Paul Krugman",
-      "title": "Bessent and the Bonds - Paul Krugman | Substack",
-      "description": "Big talk, but he carries a very small stick",
-      "url": "https://paulkrugman.substack.com/p/bessent-and-the-bonds",
-      "urlToImage": "https://substackcdn.com/image/fetch/$s_!yEz8!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2d5683a5-44c4-4549-8562-85c7e9b3021c_1340x538.png",
-      "publishedAt": "2026-09-10T10:56:38Z",
-      "content": "Another short, wonky post. Too much going on for more.\r\nSpeak softly and carry a big stick. Teddy Roosevelts favorite aphorism made sense then and now. Policymakers should avoid being boastful or bel… [+3066 chars]"
     },
     {
       "source": {
@@ -359,16 +424,16 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "Derekthompson.org"
+        "id": "fox-news",
+        "name": "Fox News"
       },
-      "author": "Derek Thompson",
-      "title": "AI Safety Is Having a Moment - derekthompson.org",
-      "description": "Why are the AI labs building a technology that they say might destroy the world?",
-      "url": "https://www.derekthompson.org/p/its-time-to-ask-the-big-question",
-      "urlToImage": "https://images.unsplash.com/photo-1515444029923-60569d238ec5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzMDAzMzh8MHwxfHNlYXJjaHwxM3x8c3RvcHxlbnwwfHx8fDE3ODg5NDQ2NDV8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "publishedAt": "2026-09-10T10:04:12Z",
-      "content": "In the last few weeks, Ive had many conversationsboth on and off the recordwith people who work on artificial intelligence about the dangers of out-of-control AI and the imminence of recursive self-i… [+9428 chars]"
+      "author": null,
+      "title": "America's reddest state chases billion-dollar boom as others sour on massive emerging industry - Fox News",
+      "description": "Wyoming's vast land, affordable energy and fiber optic corridors could lure billions in data center investment as other states add new taxes.",
+      "url": "https://www.foxnews.com/politics/americas-reddest-state-chases-billion-dollar-boom-others-sour-massive-emerging-industry",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/09/wyoming-scenic-jackson-hole.png",
+      "publishedAt": "2026-09-10T10:00:26Z",
+      "content": "As Americans weigh the costs and benefits of massive data centers emerging in their towns to fuel the artificial intelligence (AI) boom, the country's reddest state could be poised to capitalize on b… [+3690 chars]"
     },
     {
       "source": {
@@ -411,19 +476,6 @@
     },
     {
       "source": {
-        "id": "al-jazeera-english",
-        "name": "Al Jazeera English"
-      },
-      "author": "Al Jazeera Staff",
-      "title": "Anthropic discloses 4th AI hacking incident as researcher quits over safety - Al Jazeera",
-      "description": "AI firm says Claude Opus 4.6 hacked external systems during testing as concerns mount over security breaches.",
-      "url": "https://www.aljazeera.com/news/2026/9/10/anthropic-discloses-fourth-ai-breach-as-researcher-quits-over-safety",
-      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/09/reuters_6aa24481-1789019265.jpg?resize=1920%2C1440",
-      "publishedAt": "2026-09-10T06:43:56Z",
-      "content": "Anthropic has reported a fourth incident involving an AI model gaining unauthorised access to external systems, shortly after a researcher quit over concerns about the technologys rushed development.… [+3456 chars]"
-    },
-    {
-      "source": {
         "id": "the-wall-street-journal",
         "name": "The Wall Street Journal"
       },
@@ -450,32 +502,6 @@
     },
     {
       "source": {
-        "id": "cnn",
-        "name": "CNN"
-      },
-      "author": null,
-      "title": "22-year-old pleads guilty in $240 million bitcoin heist, one of the largest in US history - CNN",
-      "description": "A 22-year-old man pleaded guilty on Tuesday to teaming up with friends to steal nearly a quarter-billion dollars in bitcoin from a Washington, DC, resident — one of the largest cryptocurrency thefts in US history — and then embarking on a wild spending spree …",
-      "url": "https://www.cnn.com/2026/09/09/us/man-pleads-guilty-massive-crypto-heists-hnk",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/c-ap26247717154420.jpg?c=16x9&q=w_800,c_fill",
-      "publishedAt": "2026-09-10T02:14:00Z",
-      "content": "A 22-year-old man pleaded guilty on Tuesday to teaming up with friends to steal nearly a quarter-billion dollars in bitcoin from a Washington, DC, resident one of the largest cryptocurrency thefts in… [+2033 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "KOMO News"
-      },
-      "author": "Michelle Esteban, KOMO News Reporter",
-      "title": "Seattle mayor launches task force as city faces 'fragile' economic moment - KOMO",
-      "description": "Warning that Seattle’s economy is at a “fragile moment,” Mayor Katie Wilson has ordered the creation of a new task force aimed at helping businesses 'start, sta",
-      "url": "https://komonews.com/news/local/seattle-mayor-katie-wilson-gun-violence-economy-bellevue-consulting-organization-economic-assessment-tech-layoffs-2027-175-million-businesses-public-safety",
-      "urlToImage": "https://komonews.com/resources/media2/16x9/479/1320/0x226/90/51b361bc-13cb-40a0-8aea-a5f0523f13c6-2.jpg",
-      "publishedAt": "2026-09-10T00:35:29Z",
-      "content": "SEATTLE Warning that Seattles economy is at a fragile moment, Mayor Katie Wilson has ordered the creation of a new task force aimed at helping businesses start, stay and grow in the city as leaders g… [+3985 chars]"
-    },
-    {
-      "source": {
         "id": "the-washington-post",
         "name": "The Washington Post"
       },
@@ -486,6 +512,19 @@
       "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/J5X4VUOIG3AKPDZOUMYIG5YK6Y.jpg&w=1440",
       "publishedAt": "2026-09-09T22:29:53Z",
       "content": "A cryptocurrency token launched by Hunter Biden, the son of the former president, abruptly lost almost all of its value within minutes of its debut Wednesday morning.\r\nEarlier this week, the younger … [+372 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Chron.com"
+      },
+      "author": "Gwen Howerton",
+      "title": "Buc-ee's wins $850K in trademark lawsuit against South Carolina business - Yahoo Finance",
+      "description": "The retailer was also ordered to destroy any remaining merchandise.",
+      "url": "https://www.chron.com/culture/article/bucees-born-united-lawsuit-22424294.php?utm_medium=referral&amp;utm_campaign=yahoo_syndication",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/41b78ba9045a5cec43670dbd1a588400c9868b5ad3d1f775b05a9145e821c8d9/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fchron_hearst_841%2Fcc106e43cd3494d5d8ebb87e6904df7d.jpg",
+      "publishedAt": "2026-09-09T22:05:00Z",
+      "content": "The Buc-ee's gas station and convenience store logo is pictured at a facility in Katy, Texas, on August 17, 2026. (RONALDO SCHEMIDT/AFP via Getty Images)\r\nA year after being sued for trademark infrin… [+2478 chars]"
     },
     {
       "source": {
@@ -502,19 +541,6 @@
     },
     {
       "source": {
-        "id": "the-wall-street-journal",
-        "name": "The Wall Street Journal"
-      },
-      "author": "WSJ",
-      "title": "Exclusive | Texas Stock Exchange Is Close to Winning Its First Major Listing From New York - WSJ",
-      "description": null,
-      "url": "https://www.wsj.com/finance/stocks/texas-stock-exchange-is-close-to-winning-its-first-major-listing-from-new-york-569c0339",
-      "urlToImage": null,
-      "publishedAt": "2026-09-09T20:51:00Z",
-      "content": null
-    },
-    {
-      "source": {
         "id": "ars-technica",
         "name": "Ars Technica"
       },
@@ -524,32 +550,6 @@
       "url": "https://arstechnica.com/space/2026/09/as-europe-flounders-in-space-a-rising-french-star-may-show-the-way/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2237740895-1024x648.jpg",
       "publishedAt": "2026-09-09T20:27:40Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The Points Guy"
-      },
-      "author": "Sean Cudahy",
-      "title": "Delta, Hyatt to team up in new airline-hotel loyalty partnership - The Points Guy",
-      "description": "Delta Air Lines and Hyatt are launching a new loyalty partnership, hours after American Airlines called off its deal with the hotel giant.",
-      "url": "https://thepointsguy.com/news/delta-hyatt-new-partnership/",
-      "urlToImage": "https://runway-media-production.global.ssl.fastly.net/us/originals/2026/09/delta-jet.jpeg",
-      "publishedAt": "2026-09-09T20:25:42Z",
-      "content": "It looks like American Airlines' loss may be Delta Air Lines' gain when it comes to one of America's top hotel loyalty programs.\r\nDelta and Hyatt just announced they're teaming up in a new loyalty pa… [+3104 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "mlive.com"
-      },
-      "author": "MLive.com",
-      "title": "55-year-old restaurant chain abruptly closes locations nationwide - MLive.com",
-      "description": null,
-      "url": "https://www.mlive.com/business/2026/09/55-year-old-restaurant-chain-abruptly-closes-locations-nationwide.html",
-      "urlToImage": null,
-      "publishedAt": "2026-09-09T20:21:00Z",
       "content": null
     },
     {
@@ -580,45 +580,6 @@
     },
     {
       "source": {
-        "id": "politico",
-        "name": "Politico"
-      },
-      "author": "Madina Touré",
-      "title": "Teachers union reaches AI privacy deal with Microsoft - Politico",
-      "description": "The tech giant has agreed not to use student or teacher data to train AI and not to track students using the technology.",
-      "url": "https://www.politico.com/news/2026/09/09/aft-union-microsoft-ai-deal-01068544",
-      "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2F9f%2F81%2F565a74a942ee9d4003b0e200b5ed%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2204968832",
-      "publishedAt": "2026-09-09T20:00:00Z",
-      "content": "Microsoft plans to make the protections available to every school district in the U.S. beginning Nov. 1, according to the fact sheet. Districts can add them to new or existing customer agreements wit… [+1746 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Reuters",
-      "title": "Anthropic reports fourth cybersecurity incident with early version of Claude - Yahoo! Finance Canada",
-      "description": "Sept 9 (Reuters) - Anthropic said on Wednesday it had identified a fourth cybersecurity incident involving an early version of its Claude AI model.",
-      "url": "https://ca.finance.yahoo.com/news/anthropic-reports-fourth-cybersecurity-incident-194842259.html",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/44df63633f4994a503ae0a7f5fe138cfe08f889c50159f74349f6193c65f1ee4/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Freuters.ca%2F52221f69eb7964f52f7e5db308579eb9.jpg",
-      "publishedAt": "2026-09-09T19:48:42Z",
-      "content": "Sept 9 (Reuters) - Anthropic said on Wednesday it had identified a fourth cybersecurity incident involving an early version of its Claude AI model.\r\nThe company said in a blog post the incident occur… [+712 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Gizmodo.com"
-      },
-      "author": "AJ Dellinger",
-      "title": "Anthropic Builds Model to Predict Economy in 2030, Leaves Off the 'Everybody Dies' Outcome - Gizmodo",
-      "description": "Hey, all things considered, a 30% unemployment rate doesn't sound so bad!",
-      "url": "https://gizmodo.com/anthropic-builds-model-to-predict-economy-in-2030-leaves-off-the-everybody-dies-outcome-2000809239",
-      "urlToImage": "https://gizmodo.com/app/uploads/2026/06/GettyImages-2261854833-1200x675.jpg",
-      "publishedAt": "2026-09-09T19:40:03Z",
-      "content": "Life as a member of the communications team for frontier AI labs must be fascinating. Imagine you’ve got this big report ready to go out on the extremely elaborate model your economics team built tha… [+3188 chars]"
-    },
-    {
-      "source": {
         "id": null,
         "name": "New York Post"
       },
@@ -633,15 +594,28 @@
     {
       "source": {
         "id": null,
-        "name": "Fox Business"
+        "name": "Deadline"
       },
-      "author": "Eric Revell",
-      "title": "Treasury to buy back up to $6B in longer-term debt as bond yields hit highest level since 2023 - Fox Business",
-      "description": "The Treasury Department's $6 billion buyback of 10-year notes and 20-year bonds failed to calm markets as yields surged to levels unseen since 2023.",
-      "url": "https://www.foxbusiness.com/economy/treasury-buy-back-up-6b-longer-term-debt-bond-yields-hit-highest-level-since-2023",
-      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/06/0/0/scott-bessent-economic-statecraft-01.jpg?ve=1&tl=1",
-      "publishedAt": "2026-09-09T19:13:00Z",
-      "content": "The Treasury Department on Wednesday revealed that it will buy back up as much as $6 billion in longer-dated U.S. debt in an operation this week.\r\nThe agency's Bureau of the Fiscal Service announced … [+4199 chars]"
+      "author": "Dominic Patten",
+      "title": "Supreme Court Says AGs Must Respond To Merger Suit Objections From Red States - Deadline",
+      "description": "A potential showdown at SCOTUS could determine if Paramount's $111B purchase of WBD goes through or not",
+      "url": "http://deadline.com/2026/09/paramount-merger-lawsuit-supreme-court-ruling-1237072572/",
+      "urlToImage": "https://deadline.com/wp-content/uploads/2026/09/Warner-Bros.-PAramount-Water-Towers-The-Supreme-Court.jpg?w=1024",
+      "publishedAt": "2026-09-09T19:06:00Z",
+      "content": "UPDATED with statement from Iowa AG Brenna Bird: When all is said and done, the antitrust clash between Paramount Skydance and a dozen blue states may be best articulated by a certain Earth, Wind &am… [+3619 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Substack.com"
+      },
+      "author": "Gary Marcus",
+      "title": "The Case for Boycotting Generative AI - Marcus on AI",
+      "description": "I believe the time has come",
+      "url": "https://garymarcus.substack.com/p/the-case-for-boycotting-generative",
+      "urlToImage": "https://substackcdn.com/image/fetch/$s_!Ka51!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F8fb2e48c-be2a-4db7-b68c-90300f00fd1e_1668x1456.jpeg",
+      "publishedAt": "2026-09-09T18:46:11Z",
+      "content": "It has become clear by now that the frontier labs are knowingly and by their own admission doing something irreversible and incredibly dangerous without public consent. \r\nThey are already causing har… [+8012 chars]"
     },
     {
       "source": {
@@ -658,42 +632,16 @@
     },
     {
       "source": {
-        "id": "cbs-news",
-        "name": "CBS News"
-      },
-      "author": "Nicole  Sganga, Kathryn  Krupnik",
-      "title": "Some TSA PreCheck travelers may be able to bring full water bottles through airport security soon, officials say - CBS News",
-      "description": "The TSA is not prepared to eliminate all liquid restrictions, and the existing rule limiting other carry-on liquids to 3.4 ounces remains in effect.",
-      "url": "https://www.cbsnews.com/news/tsa-precheck-travelers-full-water-bottles-airport-security/",
-      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/09/09/2d0072e1-6297-4035-a542-4d773adc7ab3/thumbnail/1200x630/f86d6e7435da2007d4750bdb0ef1e975/gettyimages-1053880136.jpg",
-      "publishedAt": "2026-09-09T16:15:00Z",
-      "content": "The Transportation Security Administration is actively considering allowing TSA PreCheck passengers to bring water bottles through security checkpoints at a select number of airports in the coming mo… [+1570 chars]"
-    },
-    {
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": "CNBC",
-      "title": "Demand for riskier mortgages rises again, along with interest rates - CNBC",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPRWhjOGJEcEtKeFAyeWZLNzA0bGFjcWtnQ1BPTTJxVUlDc0pSYTV4OGdBSllDMTBfNjhlV09MMGZnTE1Pc2U5YVhfSG1NS3ZYM2FaU3Q4ODNRNjkxLUJmWWNuX0pnZGNocE84aE12M2kxLWdLRkRDaGtLbmxra1B2Wmcya3R4YmRYMURkZFVtVUhwT0pIbUc1a2ozM1I2YmtUU2tkV05R0gGrAUFVX3lxTE9Fczg1aDQ5dVFuek9hSlN3VnA0V3MxVEJmNHh4Z1dFYlI4UEJvS2VVYW41X3ROYnRFVDBEZ0ZDVGFDSFoxUUl6TGc3X2JmZUFxeDVwZjEzUEJIMERNMkZYdHJ2X2tPdS1RYXg0YmszaGxSMFdHaDRJTzdackpMYlZiRTlFckRVMExBMFp1eUJGU3JCODdnQzFtZ2xVc3RFc3NGUEZ3Sm40MkJ1UQ?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2026-09-09T11:00:02Z",
-      "content": null
-    },
-    {
-      "source": {
         "id": null,
-        "name": "Barron's"
+        "name": "NPR"
       },
-      "author": "Callum Keown",
-      "title": "Google Has a Cool $15 Billion Fix to the AI Energy Problem - Barron's",
-      "description": "Google announced a $15 billion investment in AI infrastructure in Finland, one of Europe's coldest countries.",
-      "url": "https://www.barrons.com/articles/google-stock-ai-energy-fix-31d9fe50",
-      "urlToImage": "https://images.barrons.com/im-88884466/social",
-      "publishedAt": "2026-09-09T10:28:00Z",
-      "content": "Google has found an interesting way to combat the sky-highenergy costsinvolved in data centersbuild them in an extremely cold country.\r\nCopyright ©2026Dow Jones &amp; Company, Inc. All Rights Reserve… [+34 chars]"
+      "author": "Scott Horsley",
+      "title": "A new Anthropic model seeks to test how AI could impact the U.S. economy - NPR",
+      "description": "Will artificial intelligence nibble around the edges of the economy or upend it altogether? A new, interactive model from Anthropic lets people tests their assumptions.",
+      "url": "https://www.npr.org/2026/09/09/nx-s1-5961443/ai-anthropic-economy",
+      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4822x2712+0+212/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F7d%2F0e%2Fddddeea34919b144bdcfa02b858c%2Fgettyimages-2285051730.jpg",
+      "publishedAt": "2026-09-09T13:34:48Z",
+      "content": "Will artificial intelligence light a fire under the U.S. economy in the coming years? That's been a big question in the field of economics, and now Anthropic the company behind the popular Claude AI … [+2715 chars]"
     },
     {
       "source": {
@@ -707,19 +655,6 @@
       "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-09/260908-austin-Tesla-Cybercab-ew-244p-f25801.jpg",
       "publishedAt": "2026-09-09T10:00:40Z",
       "content": "The fire department in Austin, Texas, said Tuesday that it has concerns that Teslas new Cybercab could block city streets because the unusual self-driving car doesnt have a steering wheel or other tr… [+79 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Minnesota Public Radio News"
-      },
-      "author": "Ahmed Hassan",
-      "title": "Where do leftovers from the Minnesota State Fair go? - MPR News",
-      "description": "More than 200 Minnesota State Fair vendors donated over 10,000 pounds of leftover food to hunger relief groups for distribution across the state.",
-      "url": "https://www.mprnews.org/story/2026/09/08/minnesota-state-fair-leftovers-donated",
-      "urlToImage": "https://img.apmcdn.org/4423e1e04e4831569a9ac6e4a2b3598ac0fc4943/widescreen/85964c-20260908-state-fair-food-donated-09-2000.jpg",
-      "publishedAt": "2026-09-09T09:00:00Z",
-      "content": "More than 200 Minnesota State Fair food vendors are donating leftover food to Minnesotas hunger relief network through Second Harvest Heartland and its partner food shelves.\r\nTuesdays donations excee… [+4026 chars]"
     }
   ]
 }

@@ -3,9 +3,48 @@
   "country": "us",
   "category": "technology",
   "mode": "country",
-  "fetched_at": "2026-09-12T06:33:35.311828+00:00",
-  "articles_count": 34,
+  "fetched_at": "2026-09-12T11:44:08.568206+00:00",
+  "articles_count": 38,
   "articles": [
+    {
+      "source": {
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "author": "Dan Goodin",
+      "title": "ClickFix attacks infecting PCs and Macs are going viral - Ars Technica",
+      "description": "Simplicity—combined with the difficulty of getting stuff done—makes ClickFix ideal.",
+      "url": "https://arstechnica.com/security/2026/09/clickfix-attacks-infecting-pcs-and-macs-are-going-viral/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/malware-infected-laptop-1152x648.jpg",
+      "publishedAt": "2026-09-11T11:30:58Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "9to5google.com"
+      },
+      "author": "Ben Schoon",
+      "title": "Samsung’s open-ear Galaxy Buds On leak with clip design, ‘Auto Volume,’ gestures [Gallery] - 9to5Google",
+      "description": "Word has been out on a new pair of open-ear Galaxy Buds from Samsung and, now, a detailed leak shows...",
+      "url": "http://9to5google.com/2026/09/10/samsung-galaxy-buds-on-open-ear-leak/",
+      "urlToImage": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/galaxy-buds-on-sg-leak-5.jpg?quality=82&strip=all&resize=1200,628",
+      "publishedAt": "2026-09-11T01:15:00Z",
+      "content": "Word has been out on a new pair of open-ear Galaxy Buds from Samsung and, now, a detailed leak shows off the design as well as some of the features of “Galaxy Buds On.”\r\nSammyGurutoday published offi… [+1439 chars]"
+    },
+    {
+      "source": {
+        "id": "mashable",
+        "name": "Mashable"
+      },
+      "author": "Haley Henschel",
+      "title": "Apple Watch Series 12 vs. 11: Every upgrade, including one Apple didn't mention - Mashable",
+      "description": "Welcome back, ceramic cases!",
+      "url": "https://mashable.com/tech/apple-watch-series-12-vs-11-price-specs",
+      "urlToImage": "https://helios-i.mashable.com/imagery/articles/01x0H7AdKnXe9mTOVdAHzgq/hero-image.fill.size_1200x675.v1789057814.png",
+      "publishedAt": "2026-09-11T00:37:05Z",
+      "content": null
+    },
     {
       "source": {
         "id": null,
@@ -22,28 +61,28 @@
     {
       "source": {
         "id": null,
-        "name": "GSMArena.com"
+        "name": "TheStreet"
       },
-      "author": "Vlad",
-      "title": "Here are the iPhone 18 Pro and iPhone 18 Pro Max Geekbench scores - GSMArena.com news - GSMArena.com",
-      "description": "The A20 Pro delivers solid performance improvements compared to its predecessor. Yesterday, Apple unveiled the iPhone 18 Pro and iPhone 18 Pro Max, which...",
-      "url": "https://www.gsmarena.com/here_are_the_iphone_18_pro_and_iphone_18_pro_max_geekbench_scores-news-74559.php",
-      "urlToImage": "https://fdn.gsmarena.com/imgroot/news/26/09/iphone-18-pro-iphone-18-pro-max-a20-pro-benchmarks/-952x498w6/gsmarena_000.jpg",
-      "publishedAt": "2026-09-11T00:01:02Z",
-      "content": "Yesterday, Apple unveiled the iPhone 18 Pro and iPhone 18 Pro Max, which are both powered by the new A20 Pro chip. As usual, the company has praised its latest and greatest SoC for being better than … [+1842 chars]"
+      "author": "thestreet.com",
+      "title": "Verizon scales back a perk that keeps prices low for customers - thestreet.com",
+      "description": null,
+      "url": "https://www.thestreet.com/retail/verizon-removes-price-lock-guarantee-from-myplan",
+      "urlToImage": null,
+      "publishedAt": "2026-09-10T23:47:00Z",
+      "content": null
     },
     {
       "source": {
         "id": null,
-        "name": "MacRumors"
+        "name": "9to5google.com"
       },
-      "author": "Juli Clover",
-      "title": "You Can't Use Apple Watch's Live Rewind Secretly, Apple Says - MacRumors",
-      "description": "With the Apple Watch Series 12 and Ultra 4, Apple is adding Live Rewind, which relies on an S11 processor and new continual listening features.  ...",
-      "url": "https://www.macrumors.com/2026/09/10/apple-watch-live-rewind/",
-      "urlToImage": "https://images.macrumors.com/t/Y-VS_5R-pjW-VTKI6_PCLhbvXJY=/1844x/article-new/2026/09/apple-watch-ultra-4-live-rewind.jpg",
-      "publishedAt": "2026-09-10T22:11:55Z",
-      "content": "With the Apple Watch Series 12 and Ultra 4, Apple is adding Live Rewind, which relies on an S11 processor and new continual listening features.\r\nLive Rewind listens to what's happening around the wea… [+2227 chars]"
+      "author": "Abner Li",
+      "title": "Possible Google device at FCC could be Wear OS-powered fitness tracker - 9to5Google",
+      "description": "A new piece of hardware passed through FCC certification today and the evidence points to it being a Wear OS-powered device made by Google.",
+      "url": "http://9to5google.com/2026/09/10/google-wear-os-tracker/",
+      "urlToImage": "https://9to5google.com/wp-content/uploads/sites/4/2026/05/google-fitbit-air-hands-on-10.jpg?quality=82&strip=all&resize=1200,628",
+      "publishedAt": "2026-09-10T21:41:00Z",
+      "content": "A new piece of hardware passed through FCC certification today, and the evidence points to it being a Wear OS-powered device made by Google.\r\nThis Wireless Device as its officially labeled comes from… [+1439 chars]"
     },
     {
       "source": {
@@ -57,6 +96,19 @@
       "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/09/getty_6aa1aae49b-1788979940.jpg?resize=1920%2C1440",
       "publishedAt": "2026-09-10T21:36:12Z",
       "content": "South Korean consumer-electronics company LG has denied allegations that its smart televisions record ambient conversations, listen while on standby and store recordings for later transmission.\r\nOn W… [+5028 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Emma Roth",
+      "title": "Slack can now vibe-code interactive charts and reports inside chats - theverge.com",
+      "description": "A new Slackforce Surfaces feature uses AI to build interactive polls, dashboards, presentations, and other tools directly inside Slack.",
+      "url": "https://www.theverge.com/tech/989853/slackforce-surfaces-launch",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/IMG_2464.png?quality=90&strip=all&crop=0%2C9.8234763765205%2C100%2C80.353047246959&w=1200",
+      "publishedAt": "2026-09-10T21:25:21Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nYou can ask Slackbot to build a tool for you by just describing it.\r\nYou can ask Slackbot to build a tool for you by just describing it.\r\nby\r\nEmma RothClose\r\nPos… [+2896 chars]"
     },
     {
       "source": {
@@ -86,6 +138,32 @@
     },
     {
       "source": {
+        "id": "politico",
+        "name": "Politico"
+      },
+      "author": "Kimberly Leonard",
+      "title": "Grand Theft Auto swerves into Florida’s political season - Politico",
+      "description": "GTA’s connection to Miami has become political — and the game won’t even be out until more than two weeks after the midterm election.",
+      "url": "https://www.politico.com/news/2026/09/10/grand-theft-auto-florida-desantis-uthmeier-miami-01071167",
+      "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2Fc8%2F06%2F233c46ee4077ae99752c3f7ee1a9%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F1825453193",
+      "publishedAt": "2026-09-10T19:24:00Z",
+      "content": "Now, GTAs connection to Miami has become political and the game wont even be out until more than two weeks after the midterm election. It all started when reporter Francisco Alvarado of the Miamian o… [+1929 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "MacRumors"
+      },
+      "author": "Juli Clover",
+      "title": "iOS 27 Apple Health App Redesign: Every New Feature Coming in 2026 - MacRumors",
+      "description": "Apple is planning a major redesign of the Health app on iPhone and iPad, with a long list of new features set to be added. Apple announced the Health...",
+      "url": "https://www.macrumors.com/guide/ios-27-health-app-new-features/",
+      "urlToImage": "https://images.macrumors.com/t/pm1Q5iRQ_96-X6Wko_mHKyl59UY=/2000x/article-new/2026/09/ios-27-health-app-longevity.jpg",
+      "publishedAt": "2026-09-10T18:46:45Z",
+      "content": "Apple is planning a major redesign of the Health app on iPhone and iPad, with a long list of new features set to be added. Apple announced the Health app changes at yesterday's iPhone event.\r\nThe Hea… [+5349 chars]"
+    },
+    {
+      "source": {
         "id": "ign",
         "name": "IGN"
       },
@@ -99,29 +177,29 @@
     },
     {
       "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
+        "id": null,
+        "name": "Ageofempires.com"
       },
-      "author": "Sarah Perez",
-      "title": "Amazon makes it easier to buy what you see on Prime Video - TechCrunch",
-      "description": "Amazon is expanding shopping integrations across Prime Video, letting viewers discover products tied to thousands of shows, movies, and live sports through X-Ray, its shopping app, and a new Lens-powered “Shop the Scene” feature.",
-      "url": "https://techcrunch.com/2026/09/10/amazon-makes-it-easier-to-buy-what-you-see-on-prime-video/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/09/3.-X-Ray-Shop-Tab.png?resize=1200,675",
-      "publishedAt": "2026-09-10T18:10:36Z",
-      "content": "Amazon is going to make it easier to shop when you’re watching TV. The retail giant on Thursday announced a series of new features that will allow customers to discover products across thousands of P… [+2964 chars]"
+      "author": null,
+      "title": "The Baltic Powers Available Now for Age of Empires III: Definitive Edition! - Age of Empires - World's Edge Studio - ageofempires.com",
+      "description": "Hello adventurers, a Shipment from the Home City has arrived! The Baltic Powers DLC for Age of Empires III: Definitive Edition is available now, and comes",
+      "url": "https://www.ageofempires.com/news/the-baltic-powers-available-now-for-age-of-empires-iii-definitive-edition/",
+      "urlToImage": "https://cdn.ageofempires.com/aoe/wp-content/uploads/2026/09/MULTI-The-Baltic-Powers-Available-Now-1920x1080-1.webp",
+      "publishedAt": "2026-09-10T17:10:52Z",
+      "content": "Hello adventurers, a Shipment from the Home City has arrived! The Baltic Powers DLC for Age of Empires III: Definitive Edition is available now, and comes alongside the largest game update we’ve ever… [+3049 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "CNET"
+        "name": "9to5google.com"
       },
-      "author": "Vanessa Hand Orellana",
-      "title": "Apple Watch Ultra 4 Hands-On: A Closer Look at Its Biggest Upgrades - cnet.com",
-      "description": "Finally a battery worthy of an ultramarathon, better health sensors and a powerful processor that keeps it running.",
-      "url": "https://www.cnet.com/tech/mobile/apple-watch-ultra-4-hands-on/",
-      "urlToImage": "https://www.cnet.com/wp-content/uploads/sites/2/IMG_9998.jpg",
-      "publishedAt": "2026-09-10T17:19:39Z",
-      "content": "The Apple Watch Ultra 4, which starts at $799, has a new processor and reengineered health sensors that unlock more frequent health measurements, new recovery insights and AI-powered audio tools.\r\nI … [+5235 chars]"
+      "author": "Abner Li",
+      "title": "Google brings Gemini for desktop app to Windows - 9to5Google",
+      "description": "Following the macOS launch in April, Google is bringing the Gemini for desktop app to Windows. Launched with Alt + Space...",
+      "url": "http://9to5google.com/2026/09/10/gemini-windows-app/",
+      "urlToImage": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/Gemini-desktop-app-Windows.jpg?quality=82&strip=all&resize=1200,628",
+      "publishedAt": "2026-09-10T16:33:00Z",
+      "content": "Following the macOS launch in April, Google is bringing the Gemini for desktop app to Windows. \r\nThe Gemini desktop app is launched with an Alt + Space keyboard shortcut on Windows. As of today’s deb… [+1172 chars]"
     },
     {
       "source": {
@@ -151,42 +229,42 @@
     },
     {
       "source": {
-        "id": "bloomberg",
-        "name": "Bloomberg"
-      },
-      "author": "Dinesh Nair, Cecilia D'Anastasio",
-      "title": "Saudis Weigh Merging EA With Savvy to Create Global Gaming Giant - Bloomberg.com",
-      "description": "Saudi Arabia’s wealth fund is considering combining Electronic Arts Inc. with Savvy Games, people familiar with the matter said, in a deal that would bring blockbuster titles like Madden NFL and Pokemon Go under one roof.",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-10/saudis-weigh-merging-ea-with-savvy-to-create-global-gaming-giant",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iq56wIkfzm3s/v1/1200x800.jpg",
-      "publishedAt": "2026-09-10T15:50:01Z",
-      "content": "Saudi Arabias wealth fund is considering combining Electronic Arts Inc. with Savvy Games, people familiar with the matter said, in a deal that would bring blockbuster titles like Madden NFL and Pokem… [+437 chars]"
-    },
-    {
-      "source": {
         "id": "ign",
         "name": "IGN"
       },
-      "author": "Tom Phillips",
-      "title": "Professor Layton and the Curious Village Remake Announced, Coming to Multiple Platforms in 2027 - IGN",
-      "description": "A Professor Layton and the Curious Village remake has been announced by series developer Level-5.",
-      "url": "https://www.ign.com/articles/professor-layton-and-the-curious-village-remake-announced-coming-to-multiple-platforms-in-2027",
-      "urlToImage": "https://assets-prd.ignimgs.com/2026/09/10/pv-professor-layton-and-the-curious-village-remake-teaser-pv-level5-vision-2026-ii-ver-00-00-31-1789051805505.png?width=1280&format=jpg&auto=webp&quality=80",
-      "publishedAt": "2026-09-10T14:57:11Z",
-      "content": "A Professor Layton and the Curious Village remake has been announced by series developer Level-5.\r\nRevealed today during the Level-5 Vision 2026 Showcase, this fresh version of the classic puzzle gam… [+1559 chars]"
+      "author": "Chris Reed",
+      "title": "GTA 6 PS5 Controller Preorders Are Live, But Stock Is Limited - ign.com",
+      "description": "Preorders are live for Grand Theft Auto VI Limited-Edition PS5 DualSense Controllers, but stock is limited. Hurry if you want one.",
+      "url": "https://www.ign.com/articles/grand-theft-auto-6-limited-edition-ps5-dualsense-controllers-where-to-buy",
+      "urlToImage": "https://assets-prd.ignimgs.com/2026/09/09/untitled-design-1788967060376.png?width=1280&format=jpg&auto=webp&quality=80",
+      "publishedAt": "2026-09-10T15:34:09Z",
+      "content": "Sony and Rockstar are partnering up to release two different limited-edition GTA 6-themed PS5 DualSense controllers. One is black and one is white. The designs are relatively subtle, but they both lo… [+2046 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Kotaku"
+        "name": "MacRumors"
       },
-      "author": "Zack Zwiezen",
-      "title": "GTA 6 PS5 Controller Pre-Orders Go Live On PlayStation Store And It Immediately Collapses, Meanwhile eBay Is Flooded With Scalpers - Kotaku",
-      "description": "Other players got stuck in hour long queues or couldn't check out at all",
-      "url": "https://kotaku.com/gta-6-ps5-controller-pre-orders-go-live-on-playstation-store-and-it-immediately-collapses-2000733219",
-      "urlToImage": "https://kotaku.com/app/uploads/2026/09/GTA-6-error-1200x675.jpg",
-      "publishedAt": "2026-09-10T14:27:54Z",
-      "content": "Pre-orders for the Grand Theft Auto 6-themed PS5 DualSense controllers went live earlier today. And the demand for these Vice City-themed gamepads was extremely high, as Sony’s PlayStation Direct sto… [+2704 chars]"
+      "author": "Mitchel Broussard",
+      "title": "Shop the Best Cases for Your New iPhone 18 Pro or iPhone Duo - MacRumors",
+      "description": "It's iPhone pre-order week, which means anyone looking to get the new iPhone 18 Pro or iPhone 18 Pro Max will likely be looking for new cases and...",
+      "url": "https://www.macrumors.com/2026/09/10/best-cases-iphone-18-pro-iphone-duo/",
+      "urlToImage": "https://images.macrumors.com/t/spU9ZPin6fQCkfTL46EFZ5M-jCo=/2500x/article-new/2026/09/iphone-18-duo-cases-new-blue.jpeg",
+      "publishedAt": "2026-09-10T15:11:54Z",
+      "content": "It's iPhone pre-order week, which means anyone looking to get the new iPhone 18 Pro or iPhone 18 Pro Max will likely be looking for new cases and protection for the smartphones. Below we're tracking … [+1499 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Quanta Magazine"
+      },
+      "author": null,
+      "title": "The Four-Color Theorem Gets a Rare New Proof - Quanta Magazine",
+      "description": "By revisiting the famous problem — which was controversially solved in the 1970s with the help of computers — mathematicians have gained important new insights into the nature of graphs.",
+      "url": "https://www.quantamagazine.org/the-four-color-theorem-gets-a-rare-new-proof-20260910/",
+      "urlToImage": "https://www.quantamagazine.org/wp-content/uploads/2026/09/4C-Theorem-cr-Vico-Santos-Social.jpg",
+      "publishedAt": "2026-09-10T14:29:41Z",
+      "content": "By showing that each unavoidable configuration is reducible in this way, youve demonstrated that your minimal graph is four-colorable after all your original assumption was wrong. The four-color theo… [+3796 chars]"
     },
     {
       "source": {
@@ -217,19 +295,6 @@
     {
       "source": {
         "id": null,
-        "name": "MacRumors"
-      },
-      "author": "Hartley Charlton",
-      "title": "iPhone Duo Has Similar Main Camera to iPhone 17e - MacRumors",
-      "description": "Apple's tech specs suggest the iPhone Duo's Main camera sensor is seemingly a match for the iPhone 17e's, not the standard iPhone...",
-      "url": "https://www.macrumors.com/2026/09/10/iphone-duo-has-similar-main-camera-to-iphone-17e/",
-      "urlToImage": "https://images.macrumors.com/t/3nsTa-zSg1lHkDGkE0L0uUl4KoE=/1600x/article-new/2026/09/iphone-duo-selfie.jpg",
-      "publishedAt": "2026-09-10T13:59:04Z",
-      "content": "Apple's tech specs suggest the iPhone Duo's Main camera sensor is seemingly a match for the iPhone 17e's, not the standard iPhone 17's.\r\nAccording to Apple's tech specs page for the iPhone Duo, the M… [+1420 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "Gameinformer.com"
       },
       "author": "Marcus Stewart",
@@ -243,15 +308,15 @@
     {
       "source": {
         "id": null,
-        "name": "GamesIndustry.biz"
+        "name": "Gematsu"
       },
-      "author": "Sophie McEvoy",
-      "title": "GTA 6 Netflix preview drove more than 100,000 sign-ups during its six-hour exclusivity window - GamesIndustry.biz",
-      "description": "Rockstar's extended look resulted in the third-largest subscriber spike on Netflix this year, according to Ampere Analysis",
-      "url": "https://www.gamesindustry.biz/gta-6-netflix-preview-drove-more-than-100000-sign-ups-during-its-six-hour-exclusivity-window",
-      "urlToImage": "https://assetsio.gnwcdn.com/ULTIMATE_EDITION_GOODTIME_GEAR_01.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "publishedAt": "2026-09-10T13:50:35Z",
-      "content": "Rockstar's preview of Grand Theft Auto 6 on Netflix generated over 100,000 sign-ups in the US during its six-hour exclusivity window on August 27, making it the platform's third-largest subscriber sp… [+1980 chars]"
+      "author": "Sal Romano",
+      "title": "Professor Layton and the Curious Village Remake announced for PS5, Switch 2, Switch, and PC - Gematsu",
+      "description": "LEVEL-5 has announced Professor Layton and the Curious Village Remake, a remake of the first game in the Professor Layton series, originally released for DS in February 2007. It will launch for Pla…",
+      "url": "https://www.gematsu.com/2026/09/professor-layton-and-the-curious-village-remake-announced-for-ps5-switch-2-switch-and-pc",
+      "urlToImage": "https://www.gematsu.com/wp-content/uploads/2026/09/Layton-Curious-Village-Remake_09-10-26.jpg",
+      "publishedAt": "2026-09-10T13:44:46Z",
+      "content": "LEVEL-5 has announced Professor Layton and the Curious Village Remake, a remake of the first game in the Professor Layton series, originally released for DS in February 2007. It will launch for PlayS… [+1915 chars]"
     },
     {
       "source": {
@@ -265,6 +330,19 @@
       "urlToImage": "https://substackcdn.com/image/fetch/$s_!U6Rh!,w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-video.s3.amazonaws.com%2Fvideo_upload%2Fpost%2F215029418%2Fe3a52592-f210-4ea4-92bb-2a0cd52e7ab6%2Ftranscoded-1789043326.png",
       "publishedAt": "2026-09-10T12:57:26Z",
       "content": "Listen now on Apple, Spotify or YouTube\r\nIn This Edition,\r\n<ul><li>Zelda vs GTA\r\n</li><li>Ubisofts new Player Council\r\n</li><li>Geoff launches a foundation\r\n</li><li>Sony ditches Kojima, Xbox swoops … [+15954 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "MacRumors"
+      },
+      "author": "Tim Hardwick",
+      "title": "iPhone 18 Pro and Pro Max Benchmarks Reveal Speed of A20 Pro Chip - MacRumors",
+      "description": "Early benchmark results for the A20 Pro chip in the iPhone 18 Pro and iPhone 18 Pro Max appeared early this morning in the Geekbench 7 database,...",
+      "url": "https://www.macrumors.com/2026/09/10/iphone-18-pro-max-benchmarks-reveal-a20-pro-speed/",
+      "urlToImage": "https://images.macrumors.com/t/ok4fMLRbjJtGVTZr1pnjevqSgVU=/2027x/article-new/2026/09/iphone-18-pro.jpg",
+      "publishedAt": "2026-09-10T11:06:15Z",
+      "content": "Early benchmarkresults for the A20 Pro chip in the iPhone 18 Pro and iPhone 18 Pro Max appeared early this morning in the Geekbench 7 database, offering us a first look at the new models' CPU and gra… [+1731 chars]"
     },
     {
       "source": {
@@ -294,6 +372,19 @@
     },
     {
       "source": {
+        "id": null,
+        "name": "Gadgethacks.com"
+      },
+      "author": "Gadget Hacks",
+      "title": "iOS 27 New Features: What Siri AI Does and Who Gets It - Gadget Hacks",
+      "description": null,
+      "url": "https://apple.gadgethacks.com/news/ios-27-new-features-what-siri-ai-does-and-who-gets-it/",
+      "urlToImage": null,
+      "publishedAt": "2026-09-10T09:02:35Z",
+      "content": null
+    },
+    {
+      "source": {
         "id": "business-insider",
         "name": "Business Insider"
       },
@@ -304,19 +395,6 @@
       "urlToImage": "https://i.insider.com/6aa17add9b8974787b1c9f12?width=1200&format=jpeg",
       "publishedAt": "2026-09-10T08:34:00Z",
       "content": "Pawel Szydlowski was spooked after he saw videos of people using smart glasses to record and identify unsuspecting strangers.\r\nSo the 30-year-old Polish software developer created an app that he says… [+4346 chars]"
-    },
-    {
-      "source": {
-        "id": "mashable",
-        "name": "Mashable"
-      },
-      "author": "Amanda Yeo",
-      "title": "Apple hikes price of older iPhones, now more expensive than at launch - mashable.com",
-      "description": "The iPhone 18 Pro's announcement was accompanied by quiet pricing increases on older models.",
-      "url": "https://mashable.com/tech/iphone-price-increase-apple-16-17-air",
-      "urlToImage": "https://helios-i.mashable.com/imagery/articles/03uksNtI7wRVlQxxRHuSDty/hero-image.fill.size_1200x675.v1789006059.png",
-      "publishedAt": "2026-09-10T02:18:38Z",
-      "content": null
     },
     {
       "source": {
@@ -337,64 +415,51 @@
         "name": "MacRumors"
       },
       "author": "Hartley Charlton",
-      "title": "Apple Adds AppleCare One Family Plan for Up to Six People - MacRumors",
-      "description": "Apple today announced AppleCare One Family, a new option for U.S. customers that extends AppleCare coverage to every eligible device across an Apple...",
-      "url": "https://www.macrumors.com/2026/09/09/applecare-one-family-plan/",
-      "urlToImage": "https://images.macrumors.com/t/EqkQsp3rRESKGu9emzZxS5enwAs=/1600x/article-new/2026/09/AppleCare-One-Family.jpg",
-      "publishedAt": "2026-09-09T20:23:05Z",
-      "content": "Apple today announced AppleCare One Family, a new option for U.S. customers that extends ‌AppleCare‌ coverage to every eligible device across an Apple Family Sharing group of up to six people for one… [+1617 chars]"
+      "title": "iPhone Duo Gets Its Own Case and Folio With Kickstand - MacRumors",
+      "description": "Apple today introduced two dedicated accessories for iPhone Duo, its Case and a Folio with Kickstand.    The iPhone Duo Case is a thin, two-part...",
+      "url": "https://www.macrumors.com/2026/09/09/iphone-duo-gets-its-own-case-and-folio/",
+      "urlToImage": "https://images.macrumors.com/t/tr_VS848STONXjdXk1fwDpJecuE=/1600x/article-new/2026/09/iphone-duo-kickstand.jpg",
+      "publishedAt": "2026-09-09T19:09:48Z",
+      "content": "Apple today introduced two dedicated accessories for iPhone Duo, its Case and a Folio with Kickstand.\r\nThe ‌iPhone Duo‌ Case is a thin, two-part design that wraps around both the front and back of th… [+1036 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "AppleInsider"
+        "name": "Notebookcheck.net"
       },
-      "author": "Amber Neely",
-      "title": "Apple launches new iPhone 18 Pro and iPhone Duo Cases - AppleInsider",
-      "description": "Apple's new iPhone lineup has been announced, and so has the annual crop of first party cases, wallets, and straps to go with it.",
-      "url": "https://appleinsider.com/articles/26/09/09/apples-new-iphone-cases-include-a-129-folio-for-iphone-duo",
-      "urlToImage": "https://media.appleinsider.com/gallery/68905-145158-casesheader-xl.jpg",
-      "publishedAt": "2026-09-09T19:50:00Z",
-      "content": "Apple launches new iPhone 18 Pro and iPhone Duo cases\r\nApple's new iPhone lineup has been announced, and so has the annual crop of first party cases, wallets, and straps to go with it.\r\nOn Wednesday,… [+6316 chars]"
+      "author": "Daniel Schmidt",
+      "title": "Shooting to the top with a new form factor? - Samsung Galaxy Z Fold8 review - notebookcheck.net",
+      "description": "Samsung Galaxy Z Fold8 review: How does Samsung’s new foldable smartphone perform in everyday life? We evaluate the display, performance, camera, battery, and usability, and reveal exactly who the Fold8 is for—as well as where this foldable flagship still has…",
+      "url": "https://www.notebookcheck.net/Shooting-to-the-top-with-a-new-form-factor-Samsung-Galaxy-Z-Fold8-review.1394389.0.html",
+      "urlToImage": "https://www.notebookcheck.net/fileadmin/Notebooks/Samsung/Galaxy_Z_Fold8/aPic_Samsung_Galaxy_Z_Fold8-3257.jpg",
+      "publishedAt": "2026-09-09T18:54:00Z",
+      "content": "The Samsung Galaxy Z Fold8 comes in Lavender, Graphite, and Cream color variants. Additionally, the Pistachio color is available exclusively through the Samsung Store. The standout feature of Samsung… [+828 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Chrome Unboxed"
+        "name": "MacRumors"
       },
-      "author": "Robby Payne",
-      "title": "Google is rolling out Gemini Daily Brief to free users, dropping the paid AI requirement - Chrome Unboxed",
-      "description": "When Google introduced the concept of the Daily Brief in Gemini, it offered one of the most compelling glimpses of how personal AI should actually function: a quick, proactive summary of your calendar, unread inbox priorities, and daily tasks before you even …",
-      "url": "https://chromeunboxed.com/google-is-rolling-out-gemini-daily-brief-to-free-users-dropping-the-paid-ai-requirement/",
-      "urlToImage": "https://chromeunboxed.com/wp-content/uploads/2026/09/GeminiDailyBriefNoPaywallAllUsers.webp",
-      "publishedAt": "2026-09-09T19:41:07Z",
-      "content": "Support our independent tech coverage. Chrome Unboxed is written by real people, for real peoplenot search algorithms. Join Chrome Unboxed Plus for just $2 a month to get an ad-free experience, acces… [+3720 chars]"
+      "author": "Hartley Charlton",
+      "title": "Apple Extends Free Satellite Access for iPhone 14, 15, and 16 Users - MacRumors",
+      "description": "Apple today announced it is extending free access to satellite features for an additional year for existing iPhone 14, iPhone 15, and iPhone 16...",
+      "url": "https://www.macrumors.com/2026/09/09/apple-extends-free-satellite-access/",
+      "urlToImage": "https://images.macrumors.com/t/NiqVm75fJdfBoWGMCBRbMJjPAU0=/3564x/article-new/2022/11/Emergency-SOS-via-Satellite-iPhone-YT.jpg",
+      "publishedAt": "2026-09-09T17:51:00Z",
+      "content": "Apple today announced it is extending free access to satellite features for an additional year for existing iPhone 14, iPhone 15, and iPhone 16 users.\r\nThe extension applies to devices activated in a… [+1349 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Droid Life"
+        "name": "GameSpot"
       },
-      "author": "Kellen",
-      "title": "iPhone Duo Launch Deals Include $300 Off Samsung's Galaxy Z Fold 8 - Droid Life",
-      "description": "It might be iPhone Duo day, but Samsung still has two excellent new foldables it doesn’t want you to forget about. Both the Galaxy Z Fold 8 Ultra and Galaxy Z Fold 8 are discounted heavily with no trade-in required. Instead of being an iPhone Duo beta tester,…",
-      "url": "https://www.droid-life.com/2026/09/09/skip-iphone-duo-and-slap-300-off-galaxy-z-fold-8/",
-      "urlToImage": "https://www.droid-life.com/wp-content/uploads/2026/09/iPhone-Duo-Launch-Deals.jpg",
-      "publishedAt": "2026-09-09T18:01:45Z",
-      "content": "It might be iPhone Duo day, but Samsung still has two excellent new foldables it doesn’t want you to forget about. Both the Galaxy Z Fold 8 Ultra and Galaxy Z Fold 8 are discounted heavily with no tr… [+1134 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Maria Diaz",
-      "title": "iOS 27 release date confirmed: 9 things your iPhone can do once you update - ZDNET",
-      "description": "The Apple event revealed much more than a new lineup of iPhones. iOS 27 has a release date now.",
-      "url": "https://www.zdnet.com/business/ios-27-release-date-new-iphone-features/",
-      "urlToImage": "https://www.zdnet.com/wp-content/uploads/sites/3/5_b557f5.jpg",
-      "publishedAt": "2026-09-09T18:00:00Z",
-      "content": "<ul><li>The iOS 27 general release is almost here.</li><li>It features many upgrades like recomposing photos.</li><li>It also optimizes app launches and improves performance.</li></ul>\r\nApple has ann… [+6303 chars]"
+      "author": "Darryn Bonthuys",
+      "title": "Blizzard Workers Win Historic Union Contract That Could Set A New Standard For Game Developers - GameSpot",
+      "description": "Blizzard workers have secured AI guardrails and new protections against layoffs.",
+      "url": "https://www.gamespot.com/articles/blizzard-workers-win-historic-union-contract-that-could-set-a-new-standard-for-game-developers/",
+      "urlToImage": "https://www.gamespot.com/wp-content/uploads/original/1601/16018044/3930508-blizzard2.jpg",
+      "publishedAt": "2026-09-09T17:46:02Z",
+      "content": "GameSpot may receive revenue from affiliate and advertising partnerships for sharing this content and from purchases through links.\r\nA group of 1,900 employees at Blizzard Entertainment has successfu… [+2692 chars]"
     },
     {
       "source": {
@@ -411,16 +476,16 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "Gamedeveloper.com"
+        "id": "ign",
+        "name": "IGN"
       },
-      "author": null,
-      "title": "Blizzard union workers ratify historic contract covering 1,900 employees - Game Developer",
-      "description": "Union members have secured guardrails around generative AI usage, layoff protections, remote and hybrid work benefits, and more.",
-      "url": "https://www.gamedeveloper.com/production/blizzard-union-workers-ratify-historic-contract-covering-1-900-employees",
-      "urlToImage": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/bltf5a01dc7ea0367b0/6aa151f531f0b7e274fa02b6/Blizzard_Header.png?disable=upscale&width=1200&height=630&fit=crop",
-      "publishedAt": "2026-09-09T13:00:25Z",
-      "content": "Employees at World of Warcraft and Overwatch developer Blizzard have ratified a historic union contract that includes guardrails around AI usage, layoff protections, and remote and hybrid work benefi… [+3109 chars]"
+      "author": "Tom Phillips",
+      "title": "PlayStation Plus Game Catalog for September 2026 Confirmed - IGN",
+      "description": "Sony has confirmed the PlayStation Plus Game Catalog for September 2026, which is headlined by RuneScape: Dragonwilds, WWE 2K26 and Ball x Pit.",
+      "url": "https://www.ign.com/articles/playstation-plus-game-catalog-for-september-2026-confirmed",
+      "urlToImage": "https://assets-prd.ignimgs.com/2023/12/12/playstation-plus-1702412896101.png?width=1280&format=jpg&auto=webp&quality=80",
+      "publishedAt": "2026-09-09T16:03:21Z",
+      "content": "Sony has confirmed the PlayStation Plus Game Catalog for September 2026, which is headlined by RuneScape: Dragonwilds, WWE 2K26 and Ball x Pit.\r\nIndie romance simulator Date Everything!, suspenseful … [+1856 chars]"
     },
     {
       "source": {
@@ -434,19 +499,6 @@
       "urlToImage": "https://assetsio.gnwcdn.com/nms-cosmos-update-header.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "publishedAt": "2026-09-09T13:00:00Z",
       "content": "After much teasing and speculation, No Man's Sky's 10th anniversary Cosmos update is here and, yup, it's a big 'un, bringing a \"complete overhaul of space\". Which mean, among other things, alliances,… [+3754 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "BleepingComputer"
-      },
-      "author": "Sergiu Gatlan",
-      "title": "Google warns of new Chrome zero-day bug exploited in attacks - BleepingComputer",
-      "description": "Google has patched 230 vulnerabilities on Tuesday, including another actively exploited Chrome zero-day bug, the seventh such vulnerability patched since the start of the year.",
-      "url": "https://www.bleepingcomputer.com/news/security/google-patches-seventh-chrome-zero-day-exploited-in-attacks-this-year/",
-      "urlToImage": "https://www.bleepstatic.com/content/hl-images/2026/09/09/Google_Chrome.jpg",
-      "publishedAt": "2026-09-09T06:25:48Z",
-      "content": "Google has patched 230 vulnerabilities on Tuesday, including another actively exploited Chrome zero-day bug, the seventh such vulnerability patched since the start of the year.\r\n\"Google is aware that… [+2789 chars]"
     }
   ]
 }

@@ -3,21 +3,138 @@
   "country": "us",
   "category": "science",
   "mode": "country",
-  "fetched_at": "2026-09-15T17:47:03.553520+00:00",
-  "articles_count": 62,
+  "fetched_at": "2026-09-15T20:29:22.760142+00:00",
+  "articles_count": 65,
   "articles": [
     {
       "source": {
         "id": null,
-        "name": "Nature.com"
+        "name": "Detroit Free Press"
+      },
+      "author": "Jalen Williams",
+      "title": "Bright fireball lights up the sky. May have fallen in Great Lakes - Detroit Free Press",
+      "description": "An unconfirmed meteor lit up the Michigan sky Sunday evening, with reports suggesting it fallen into Lake Huron.",
+      "url": "https://www.freep.com/story/news/local/michigan/2026/09/14/fireball-michigan-sky-sunday-night-video/91756186007/",
+      "urlToImage": "https://www.freep.com/gcdn/authoring/authoring-images/2025/11/13/PBRE/87245177007-1650286.jpg?crop=2999,1688,x0,y271&width=2999&height=1688&format=pjpg&auto=webp",
+      "publishedAt": "2026-09-14T19:22:00Z",
+      "content": "An unconfirmed meteor lit up the sky over Michigan Sunday evening, Sept. 13, according to the Michigan Storm Chasers, a group that tracks statewide weather and offers daily forecasts.\r\nThe meteor lit… [+2291 chars]"
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Jacopo Prisco",
+      "title": "Scientists searching for dark matter spot a signal that defies explanation - CNN",
+      "description": "Finding dark matter would help to understand what the universe is made of. The LZ experiment may have made a breakthrough in detecting the invisible substance.",
+      "url": "https://www.cnn.com/2026/09/14/science/dark-matter-lz-experiment-potential-signal",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/190726-lz-assembled-tpc-0098.jpeg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2026-09-14T17:23:38Z",
+      "content": "An international team of scientists says it has detected an intriguing signal that could hint at evidence of dark matter, offering a clue that might bring the mystery of the elusive substance one ste… [+8541 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Futurism"
+      },
+      "author": "Victor Tangermann",
+      "title": "The Planet Mercury Appears to Have Shrunken Drastically, \"Like a Balloon Left Out in the Cold\" - Futurism",
+      "description": "Scientists say that the planet Mercury has been actively shrinking over the billions of years that it's orbited the Sun.",
+      "url": "https://futurism.com/future-society/mercury-shrunken-drastically-faster",
+      "urlToImage": "https://futurism.com/wp-content/uploads/2026/09/mercury-shrunken-drastically-faster.jpg?w=1200",
+      "publishedAt": "2026-09-14T16:28:16Z",
+      "content": "Can’t-miss innovations from the bleeding edge of science and tech\r\nScientists say that the planet Mercury has been actively shrinking over the billions of years that it’s orbited the Sun, a process t… [+2615 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Quanta Magazine"
       },
       "author": null,
-      "title": "Drug firms’ secret data supercharge AI protein models - Nature",
-      "description": "An AI system trained on more than 20,000 protein structures from pharmaceutical companies outperforms AlphaFold-like models that use only public data.",
-      "url": "https://www.nature.com/articles/d41586-026-02882-x",
-      "urlToImage": "https://media.nature.com/lw1200/magazine-assets/d41586-026-02882-x/d41586-026-02882-x_53696718.jpg",
-      "publishedAt": "2026-09-14T15:02:57Z",
-      "content": "Artificial-intelligence-based models of protein structure could be improved by incorporating data from pharmaceutical companies.Credit: Miyako Nakamura/Getty\r\nFor drug discovery, protein-folding mode… [+4678 chars]"
+      "title": "Black Holes or Black Hole Stars? Astronomers Spar Over Webb Telescope’s ‘Little Red Dots.’ - Quanta Magazine",
+      "description": "The James Webb Space Telescope spots mysterious “little red dots” everywhere. A bold new theory suggests they’re suns dozens of times larger than our entire solar system.",
+      "url": "https://www.quantamagazine.org/black-holes-or-black-hole-stars-astronomers-spar-over-webb-telescopes-little-red-dots-20260914/",
+      "urlToImage": "https://www.quantamagazine.org/wp-content/uploads/2026/09/Black-Hole-Star-cr-Mark-Belan-Social-1.jpg",
+      "publishedAt": "2026-09-14T15:25:24Z",
+      "content": "Many astronomers concluded that big black holes dotted the universe, washing out the light of the stars in their host galaxies. As black holes, the little red dots would appear red because dust grain… [+12272 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Space.com"
+      },
+      "author": "Martin Elvis",
+      "title": "No cities on the moon — there isn't enough water, scientists say (op-ed) - Space",
+      "description": "Even a small city would run dry after just a decade or so.",
+      "url": "https://www.space.com/astronomy/moon/no-cities-on-the-moon-there-isnt-enough-water-scientists-say-op-ed",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/BHJ4WwrdL3DEGkJn9TwFtg-1920-80.jpg",
+      "publishedAt": "2026-09-14T15:00:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Phys.Org"
+      },
+      "author": null,
+      "title": "Physicists help uncover 'spooky' quantum effect in the Large Hadron Collider - phys.org",
+      "description": "Physicists at the University of Oxford have helped confirm that one of the strangest phenomena in physics—quantum entanglement—occurs even among some of the heaviest and most fleeting particles ever created. The discovery, made using the world's most powerful…",
+      "url": "https://phys.org/news/2026-09-physicists-uncover-spooky-quantum-effect.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/2026/oxford-physicists-help.jpg",
+      "publishedAt": "2026-09-14T14:12:41Z",
+      "content": "Physicists at the University of Oxford have helped confirm that one of the strangest phenomena in physicsquantum entanglementoccurs even among some of the heaviest and most fleeting particles ever cr… [+7465 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "WRAL.com"
+      },
+      "author": "Tony Rice, NASA Ambassador",
+      "title": "Look up Monday for the crescent Moon and brilliant Venus - WRAL",
+      "description": "Skywatchers can catch a thin crescent moon near exceptionally bright Venus on Monday evening as the planet approaches its greatest brilliance.",
+      "url": "https://www.wral.com/weather/moon-venus-sep-2026/",
+      "urlToImage": "https://images.wral.com/980b220f-f758-431d-be86-f716cb1dffc2?w=1200&h=630&height=630",
+      "publishedAt": "2026-09-14T13:47:21Z",
+      "content": "Look to the western horizon Monday shortly after sunset for the slender crescent moon pointing the way to brilliant Venus. The two objects will appear relatively close together in the sky, although t… [+2336 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Phys.Org"
+      },
+      "author": null,
+      "title": "Ultracold cesium atoms reveal Bethe strings predicted nearly a century ago - Phys.org",
+      "description": "In 1931, physicist Hans Bethe predicted that, in certain one-dimensional quantum systems, particles can bind together to form multi-particle states known as Bethe strings. Unlike ordinary molecules, which are held together by chemical bonds, Bethe strings ari…",
+      "url": "https://phys.org/news/2026-09-ultracold-cesium-atoms-reveal-bethe.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/2026/bethe-strings-observed-1.jpg",
+      "publishedAt": "2026-09-14T12:40:08Z",
+      "content": "In 1931, physicist Hans Bethe predicted that, in certain one-dimensional quantum systems, particles can bind together to form multi-particle states known as Bethe strings. Unlike ordinary molecules, … [+3815 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Space.com"
+      },
+      "author": "Micah Hanks",
+      "title": "Is there a hidden 'Planet 9' in our solar system? - Space",
+      "description": "For more than a century, astronomers have been captivated by the idea that an undiscovered planet could be lurking in the furthest reaches of our solar system.",
+      "url": "https://www.space.com/astronomy/solar-system/is-there-a-hidden-planet-9-in-our-solar-system",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/M8HaGEcGfuM65e4GzYUrXm-2000-80.jpg",
+      "publishedAt": "2026-09-14T12:00:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Thetimes.com"
+      },
+      "author": "Will Humphries",
+      "title": "Bumblebees covered in powder can help fight crop disease - The Times",
+      "description": "The insects have long been critical for food producers. Now scientists believe they can become an environmentally friendly killer of a bacterial scourge",
+      "url": "https://www.thetimes.com/uk/environment/article/bees-warwick-science-plant-environment-crops-tjx6xqdl5",
+      "urlToImage": "https://www.thetimes.com/imageserver/image/0f312a2f-1fea-4e18-bf5c-d7ce5e2bf647.jpg?strip=all&format=webp&crop=1684px%2C947px%2C565px%2C497px&resize=1200",
+      "publishedAt": "2026-09-14T11:30:56Z",
+      "content": null
     },
     {
       "source": {
@@ -61,6 +178,19 @@
     {
       "source": {
         "id": null,
+        "name": "Space Daily"
+      },
+      "author": null,
+      "title": "Scotland's Forth Road Bridge hangs from two main cables containing 11,618 steel wires apiece, but inspectors found corrosion running all the way into their centers and an estimated 8 to 10 percent loss of strength — engineers now pump dry air through the c - Space Daily",
+      "description": "A half-century-old Scottish bridge is slowly unraveling from the inside, one invisible wire at a time, forcing engineers into a desperate race to hear failure before it arrives.",
+      "url": "https://spacedaily.com/d-scotlands-forth-road-bridge-hangs-from-two-main-cables-containing-11618-steel-wires-apiece-but-inspectors-found-corrosion-running-all-the-way-into-their-centers-and-an-estimated-8-to-10-percent-los/",
+      "urlToImage": "https://spacedaily.com/wp-content/uploads/2026/09/Posts-1600840-2026-09-14T105745.023.png",
+      "publishedAt": "2026-09-14T09:15:33Z",
+      "content": "Somewhere inside a steel rope 60 centimetres thick, a wire no fatter than a pencil lead lets go. A microphone strapped to the outside hears it, software works out roughly where along the span it happ… [+5705 chars]"
+    },
+    {
+      "source": {
+        "id": null,
         "name": "BBC News"
       },
       "author": "Amanda Ruggeri",
@@ -83,6 +213,19 @@
       "urlToImage": "https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/7c05fcb0-7a79-4c64-9752-81b63d70add8/1457dd7b-dfc5-441e-b6a2-fde278f00c8d/thumbnails/fd44c159-342c-4b03-a2ee-2f260922ff22.jpg?appId=9867779f-bbeb-44ef-a0d0-ca4e39424e99&platform=WEB&w=1200",
       "publishedAt": "2026-09-14T08:49:14Z",
       "content": "One of the James Webb Space Telescope's superpowers is its ability to investigate the cosmic dawn, the first few hundred million years after the Big Bang.\r\nThe telescope has once again lived up to it… [+2382 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Space Daily"
+      },
+      "author": null,
+      "title": "University of Oklahoma paleontologists identified only the second crinoid fossil ever found with preserved soft tissue — the tube feet of Dendrocrinus simcoensis, dated to about 450 million years ago and spotted in a small museum collection in Montreal - Space Daily",
+      "description": "A student at the University of Oklahoma spotted pinhead-sized structures on a crinoid fossil sitting in a small Montreal museum. They turned out to be the tube feet of Dendrocrinus simcoensis — only the second crinoid ever found with preserved soft tissue, an…",
+      "url": "https://spacedaily.com/sd-university-of-oklahoma-paleontologists-identified-only-the-second-crinoid-fossil-ever-found-with-preserved-soft-tissue-the-tube-feet-of-dendrocrinus-simcoensis-dated-to-about-450-million-years-ago/",
+      "urlToImage": "https://spacedaily.com/wp-content/uploads/2026/09/university-of-oklahoma-paleontologists-i.jpg",
+      "publishedAt": "2026-09-14T08:26:28Z",
+      "content": "Somewhere in a small museum in Montreal, on a shelf funded entirely by community donations, a piece of rock had been holding onto the tube feet of a sea creature that died before dinosaurs, before tr… [+10911 chars]"
     },
     {
       "source": {
@@ -126,15 +269,15 @@
     {
       "source": {
         "id": null,
-        "name": "The Detroit News"
+        "name": "Science Daily"
       },
-      "author": "The Detroit News",
-      "title": "Fireball meteor spotted in night sky in Michigan - The Detroit News",
-      "description": "While common, many occur over oceans, unpopulated areas or in daytime, when they are difficult to see. A clear view in dark skies is a treat, experts say.",
-      "url": "https://www.detroitnews.com/story/news/local/michigan/2026/09/13/fireball-meteor-spotted-in-night-sky-in-2-places-in-michigan/91753477007/",
-      "urlToImage": "https://www.detroitnews.com/gcdn/authoring/authoring-images/2026/08/12/PDTN/91275048007-91080517007-locperseids.jpg?crop=5061,2849,x0,y440&width=3200&height=1802&format=pjpg&auto=webp",
-      "publishedAt": "2026-09-14T03:35:00Z",
-      "content": "A fireball meteor was spotted Sunday night over Michigan, with viewers responding from as far away as Toronto, according to several weather watcher sites and social media users.\r\n\"This camera from Sp… [+1501 chars]"
+      "author": null,
+      "title": "Popular sweetener byproduct damages DNA in human cells - Science Daily",
+      "description": "Sucralose, the artificial sweetener used in Splenda, came under scrutiny after a study found that a related chemical damaged DNA and weakened the gut barrier in laboratory experiments. But later findings have complicated that alarming picture.",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260912220107.htm",
+      "urlToImage": "https://www.sciencedaily.com/images/1920/dna-damage-genetic-mutation.webp",
+      "publishedAt": "2026-09-14T01:42:35Z",
+      "content": "A chemical associated with sucralose, the artificial sweetener sold as Splenda®, damaged DNA in laboratory experiments and disrupted a model of the intestinal lining. Those findings, published in 202… [+10880 chars]"
     },
     {
       "source": {
@@ -154,13 +297,13 @@
         "id": null,
         "name": "Thebrighterside.news"
       },
-      "author": "Joseph Shavit, Joshua Shavit",
-      "title": "Scientists find evidence for an ancient supercontinent that covered 80 percent of Earth's surface - The Brighter Side of News",
-      "description": "Ancient crust buried beneath modern mountains suggests Gondwana once contained about 80% of Earth's continental landmass.",
-      "url": "https://www.thebrighterside.news/post/scientists-find-evidence-for-an-ancient-supercontinent-that-covered-80-percent-of-earths-surface/#article",
-      "urlToImage": "https://www.thebrighterside.news/uploads/2026/09/Screenshot-2026-09-13-124638.png?auto=webp&width=2000&height=1362",
+      "author": "Joshua Shavit",
+      "title": "Scientists find evidence for an ancient supercontinent that covered 80 percent of Earth's surface - Yahoo",
+      "description": "A new global isotopic map has revealed vast fragments of ancient Gondwanan crust buried beneath younger mountain belts across Asia, Europe and North America,...",
+      "url": "https://www.thebrighterside.news/post/scientists-find-evidence-for-an-ancient-supercontinent-that-covered-80-percent-of-earths-surface/",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/5dcb50e7104e4b9296df759b0649758a355a12d06805f616652e91f4f205593c/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_brighter_side_of_news_articles_781%2F05367867841d7840038dd1ceabfc3098.png",
       "publishedAt": "2026-09-13T23:07:00Z",
-      "content": "<ul><li>A new global isotopic map has revealed vast fragments of ancient Gondwanan crust buried beneath younger mountain belts across Asia, Europe and North America, suggesting the ancient landmass w… [+10385 chars]"
+      "content": "<ul><li>A new global isotopic map has revealed vast fragments of ancient Gondwanan crust buried beneath younger mountain belts across Asia, Europe and North America, suggesting the ancient landmass w… [+10744 chars]"
     },
     {
       "source": {
@@ -200,19 +343,6 @@
       "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/luminescence-dating-pu-1.jpg",
       "publishedAt": "2026-09-13T16:40:02Z",
       "content": "Deep within an ancient sinkhole lie the remains of dozens of mammoths, prehistoric wanderers who waded into the warm springs to their deaths. These deaths had long been accepted as having occurred ro… [+6526 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "SciTechDaily"
-      },
-      "author": null,
-      "title": "Scientists Turn Common Plastic Waste Into Fuel Using Heated Salts - SciTechDaily",
-      "description": "Common plastic waste could become fuel using heated salts instead of extreme temperatures.",
-      "url": "https://scitechdaily.com/scientists-turn-common-plastic-waste-into-fuel-using-heated-salts/",
-      "urlToImage": null,
-      "publishedAt": "2026-09-13T15:43:47Z",
-      "content": "A molten-salt process could turn common polyethylene waste into fuel at unusually low temperatures. Credit: Stock\r\nCommon plastic waste could become fuel using heated salts instead of extreme tempera… [+7366 chars]"
     },
     {
       "source": {
@@ -376,64 +506,12 @@
         "name": "Phys.Org"
       },
       "author": null,
-      "title": "Japan's Hayabusa2 achieves first-ever laser ranging experiment with an asteroid - Phys.org",
-      "description": "The Japan Aerospace Exploration Agency's (JAXA) Hayabusa2 spacecraft reached another milestone this summer, a first for space agencies. On Sunday, July 5, the probe conducted the first successful laser-ranging experiment during a flyby of asteroid Torifune, t…",
-      "url": "https://phys.org/news/2026-09-japan-hayabusa2-laser-ranging-asteroid.html",
-      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/japans-hayabusa2-achie.jpg",
-      "publishedAt": "2026-09-12T21:00:02Z",
-      "content": "The Japan Aerospace Exploration Agency's (JAXA) Hayabusa2 spacecraft reached another milestone this summer, a first for space agencies. On Sunday, July 5, the probe conducted the first successful las… [+3133 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ScienceAlert"
-      },
-      "author": "Michael Irving",
-      "title": "Physicists Just Turned The Entire Planet Into a Dark Matter Detector – And Strange Signals Kept Turning Up - ScienceAlert",
-      "description": "Physicists have conducted a worldwide hunt for dark matter.",
-      "url": "https://www.sciencealert.com/physicists-just-turned-the-entire-planet-into-a-dark-matter-detector-and-strange-signals-kept-turning-up",
-      "urlToImage": "https://www.sciencealert.com/images/2026/09/Black-marble-Earth.jpg",
-      "publishedAt": "2026-09-12T20:00:53Z",
-      "content": "Physicists have conducted a worldwide hunt for dark matter. Literally they turned Earth itself into a giant detector.\r\nWeirder still, the experiment picked up dozens of candidate signals that fit pre… [+5044 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Phys.Org"
-      },
-      "author": null,
-      "title": "Human embryo base editing can reach all cells but causes unpredictable genetic changes - Phys.org",
-      "description": "A study by researchers at Columbia University Vagelos College of Physicians and Surgeons has found that new cutting-edge techniques can accurately edit genes in human embryos—giving scientists indispensable tools for understanding normal human development—but…",
-      "url": "https://phys.org/news/2026-09-human-embryo-base-cells-unpredictable.html",
-      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2021/embryo-1.jpg",
-      "publishedAt": "2026-09-12T16:00:01Z",
-      "content": "A study by researchers at Columbia University Vagelos College of Physicians and Surgeons has found that new cutting-edge techniques can accurately edit genes in human embryosgiving scientists indispe… [+7412 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Phys.Org"
-      },
-      "author": null,
       "title": "Physicists turn classical light into a quantum machine for information processing - Phys.org",
       "description": "Quantum computers promise to tackle problems that are extraordinarily difficult for today's computers. But there is a major obstacle: quantum systems are notoriously fragile. Noise, loss and even tiny disturbances can destroy the delicate behavior that gives …",
       "url": "https://phys.org/news/2026-09-physicists-classical-quantum-machine.html",
       "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/researchers-turn-light.jpg",
       "publishedAt": "2026-09-12T14:00:01Z",
       "content": "Quantum computers promise to tackle problems that are extraordinarily difficult for today's computers. But there is a major obstacle: quantum systems are notoriously fragile. Noise, loss and even tin… [+6962 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Phys.Org"
-      },
-      "author": "Shreejaya Karantha",
-      "title": "Why are the stars around our galaxy's black hole missing their companions? - Phys.org",
-      "description": "A new study suggests that the young stars orbiting the Milky Way's central black hole may have a surprisingly ordinary origin. But the black hole's influence may be what makes their origin look more exotic than it really is. Along with shaping their orbits, i…",
-      "url": "https://phys.org/news/2026-09-stars-galaxy-black-hole-companions.html",
-      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/why-are-the-stars-arou.jpg",
-      "publishedAt": "2026-09-12T12:40:01Z",
-      "content": "A new study suggests that the young stars orbiting the Milky Way's central black hole may have a surprisingly ordinary origin. But the black hole's influence may be what makes their origin look more … [+5155 chars]"
     },
     {
       "source": {
@@ -581,19 +659,6 @@
     {
       "source": {
         "id": null,
-        "name": "Gadgetreview.com"
-      },
-      "author": null,
-      "title": "A Physicist Ran The Math On Star Trek’s “Picard Maneuver” - Gadget Review",
-      "description": "Picard Maneuver physics: a new paper proves the Stargazer produced three simultaneous images, not two, making the tactic more effective than the show claimed.",
-      "url": "https://www.gadgetreview.com/a-physicist-ran-the-math-on-star-treks-picard-maneuver",
-      "urlToImage": "https://www.gadgetreview.com/wp-content/uploads/Star-Treks-Picard-Maneuver-Was-Even-More-Effective-Than-the-Show-Claimed-scaled.jpg",
-      "publishedAt": "2026-09-11T15:23:07Z",
-      "content": "Brazilian physicist’s arXiv paper finds the two-phase warp sequence generates three simultaneous enemy-visible images, not the two depicted in TNGShields failing, enemy closing fast, Jean-Luc Picard … [+3958 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "Quanta Magazine"
       },
       "author": null,
@@ -645,19 +710,6 @@
     },
     {
       "source": {
-        "id": "national-geographic",
-        "name": "National Geographic"
-      },
-      "author": null,
-      "title": "Can You Draw a T. Rex Correctly? - nationalgeographic.com",
-      "description": "Over the last 25 years, a pair of professors have collected thousands of students' drawings trying to accurately depict a T. rex, but few get it right. Whether Barney, cheap plastic toys, or dinosaur chicken nuggets are to blame, here’s what most people get w…",
-      "url": "https://www.nationalgeographic.com/newsletters/article/draw-t-rex-correctly-stones-bones",
-      "urlToImage": "https://i.natgeofe.com/n/36c76f01-fdf9-480f-98f4-717223aad9be/F0029057-Tyrannosaurus_rex_dinosaur_16x9.jpg?w=1200",
-      "publishedAt": "2026-09-11T00:10:18Z",
-      "content": "Miller: First, the age ofMandrasuchus is incredible. This species evolved in North America in the immediate aftermath of the asteroid impact and K-Pg mass extinction, the event that wiped out the non… [+1197 chars]"
-    },
-    {
-      "source": {
         "id": null,
         "name": "Aps.org"
       },
@@ -697,16 +749,16 @@
     },
     {
       "source": {
-        "id": "the-hill",
-        "name": "The Hill"
+        "id": null,
+        "name": "Nature.com"
       },
-      "author": "Alix Martichoux",
-      "title": "NASA wants to see your pictures of the sky. Here’s why - The Hill",
-      "description": "NASA wants you to point your phone to the sky and take a picture of the clouds. For science.",
-      "url": "https://thehill.com/policy/technology/6080059-nasa-wants-to-see-your-pictures-of-the-sky-heres-why/",
-      "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2026/09/AP24039252098206.jpg?w=1280",
-      "publishedAt": "2026-09-09T22:38:00Z",
-      "content": "Skip to content\r\n(NEXSTAR) – NASA wants you to point your phone to the sky and take a picture of the clouds. For science. \r\nStarting on Sept. 15, the space agency’s PACE satellite (which stands for t… [+2230 chars]"
+      "author": null,
+      "title": "AI researchers reckon with the $1.5 million ‘academia tax’ - Nature",
+      "description": "Academics explain that their research freedom beats the increased salary they would get in the corporate sector, but emerging hybrid models might allow them to get the best of both worlds.",
+      "url": "https://www.nature.com/articles/d41586-026-02026-1",
+      "urlToImage": "https://media.nature.com/lw1200/magazine-assets/d41586-026-02026-1/d41586-026-02026-1_53151868.jpg",
+      "publishedAt": "2026-09-10T13:56:14Z",
+      "content": "Artificial-intelligence researchers say that the idea of leaving academia is tempting, but some nevertheless resist the move.Credit: Jay Janner/The Austin American-Statesman via Getty\r\nIf youre looki… [+8980 chars]"
     },
     {
       "source": {
@@ -733,19 +785,6 @@
       "urlToImage": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-11005-5/MediaObjects/41586_2026_11005_Fig1_HTML.png",
       "publishedAt": "2026-09-09T16:07:20Z",
       "content": "<li>Benegas, G., Ye, C., Albors, C., Li, J. C. &amp; Song, Y. S. Genomic language models: opportunities and challenges. Trends Genet.41, 286302 (2025).\r\nArticle \r\n CAS \r\n PubMed \r\nGoogle Scholar \r\n</… [+13422 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Hackaday"
-      },
-      "author": "Elliot Williams",
-      "title": "Hunting The Wild Vibrotruck - Hackaday",
-      "description": "A few weeks ago, my wife was out walking the dog, and she sent me four or five photos of small orange boxes planted all around our neighborhood. (OK, I’ll bite!) They had little cards on them expla…",
-      "url": "https://hackaday.com/2026/09/09/hunting-the-wild-vibrotruck/",
-      "urlToImage": "https://hackaday.com/wp-content/uploads/2026/09/Vibrotruck.jpg",
-      "publishedAt": "2026-09-09T15:18:00Z",
-      "content": "A few weeks ago, my wife was out walking the dog, and she sent me four or five photos of small orange boxes planted all around our neighborhood. (OK, Ill bite!) They had little cards on them explaini… [+6273 chars]"
     },
     {
       "source": {

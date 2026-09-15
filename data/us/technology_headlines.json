@@ -3,9 +3,48 @@
   "country": "us",
   "category": "technology",
   "mode": "country",
-  "fetched_at": "2026-09-15T20:29:22.760142+00:00",
-  "articles_count": 57,
+  "fetched_at": "2026-09-15T23:46:17.733949+00:00",
+  "articles_count": 63,
   "articles": [
+    {
+      "source": {
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "author": "Dan Goodin",
+      "title": "AI agents flood the Internet with slop-infused spam - Ars Technica",
+      "description": "“Hello, I'm an Al agent, a few days old, living on a small platform for agents.”...",
+      "url": "https://arstechnica.com/ai/2026/09/ai-agents-flood-the-internet-with-slop-infused-spam/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/ai-slop-1152x648.jpg",
+      "publishedAt": "2026-09-14T21:04:32Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Kotaku"
+      },
+      "author": "Ethan Gach",
+      "title": "Sources: IGN Layoffs Hit Multiple Departments And Long-Time Hosts - Kotaku",
+      "description": "The top video game site keeps cutting",
+      "url": "https://kotaku.com/sources-ign-layoffs-hit-multiple-departments-and-long-time-hosts-2000734361",
+      "urlToImage": "https://kotaku.com/app/uploads/2026/09/sdcc.jpg",
+      "publishedAt": "2026-09-14T20:23:54Z",
+      "content": "IGN‘s Summer of Gaming has become another summer of layoffs. Sources tell Kotaku that the top video game website is cutting loose even more of its top talent, including some of its most public faces … [+2432 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Brad Bourque",
+      "title": "The best deals from Nintendo’s ‘customer appreciation’ sale - The Verge",
+      "description": "Nintendo Switch games and accessories are marked down across the web after the brand receives tariff refunds.",
+      "url": "https://www.theverge.com/gadgets/994892/nintendo-customer-appreciation-tariff-refund-deal-sale",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/Super-Mario-Odyssey.webp?quality=90&strip=all&crop=0,11.101688666028,100,77.796622667945",
+      "publishedAt": "2026-09-14T19:30:58Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nTariff refunds would have been nice, but discounted games and accessories is okay, too.\r\nTariff refunds would have been nice, but discounted games and accessorie… [+2435 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -34,6 +73,19 @@
     },
     {
       "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Zack Whittaker",
+      "title": "ClickFix attacks are tricking Mac and Windows users into hacking themselves - TechCrunch",
+      "description": "If you clicked on a fake HBO Max ad on Reddit in the past week, you might have fallen victim to a rising \"ClickFix\" security threat.",
+      "url": "https://techcrunch.com/2026/09/14/clickfix-attacks-are-tricking-mac-and-windows-users-into-hacking-themselves/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/09/hbo-max-screenshot-clickfix.jpg?resize=1200,843",
+      "publishedAt": "2026-09-14T18:08:43Z",
+      "content": "If you clicked on an HBO Max ad on Reddit over the past week, you might want to check your computer for malware.\r\nThese so-called “ClickFix” attacks have quickly become one of the rising cybersecurit… [+2838 chars]"
+    },
+    {
+      "source": {
         "id": null,
         "name": "Push Square"
       },
@@ -47,16 +99,42 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "9to5Mac"
+        "id": "ign",
+        "name": "IGN"
       },
-      "author": "Ryan Christoffel",
-      "title": "iOS 26.7 now available for iPhone, here’s what’s new - 9to5Mac",
-      "description": "Apple launched its major iOS 27 release today for iPhone, but a smaller iOS 26.7 update is available too. Here’s what’s new.",
-      "url": "https://9to5mac.com/2026/09/14/ios-26-7-now-available-for-iphone-heres-whats-new/",
-      "urlToImage": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/iOS-26.7-hero.jpg?quality=82&strip=all&resize=1200,628",
-      "publishedAt": "2026-09-14T17:22:00Z",
-      "content": "Apple launched its major iOS 27 release today for iPhone. But for anyone not yet ready to install the new software version, Apple has also released a smaller iOS 26.7 update. Heres whats new.\r\nIts a … [+1282 chars]"
+      "author": "Cade Onder",
+      "title": "Marathon Makes Major Changes Amidst Bungie Struggles, Delays Next Big Update to December - IGN",
+      "description": "Bungie's struggles grow more evident as Marathon undergoes more drastic changes, with a move away from seasonal content, a focus on PvE, and a significant delay for the game's next update.",
+      "url": "https://www.ign.com/articles/marathon-delays-next-major-update-puts-focus-on-pve-and-moves-away-from-seasonal-content-amidst-bungie-struggles",
+      "urlToImage": "https://assets-prd.ignimgs.com/2026/05/26/marathonthumb-1779822629000.png?width=1280&format=jpg&auto=webp&quality=80",
+      "publishedAt": "2026-09-14T17:33:01Z",
+      "content": "Bungie's struggles grow more evident as Marathon undergoes a handful of drastic changes, with a move away from seasonal content, a focus on PvE, and a significant delay for the game's next update.\r\nB… [+2001 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "MacRumors"
+      },
+      "author": "Juli Clover",
+      "title": "Apple Releases iOS 26.7 With Security Fixes - MacRumors",
+      "description": "Alongside iOS 27, Apple today released iOS 26.7, an update to the existing iOS 26 software. Users who check for new software will see iOS 26.7 as the...",
+      "url": "https://www.macrumors.com/2026/09/14/apple-releases-ios-26-7/",
+      "urlToImage": "https://images.macrumors.com/t/aofBK95P7080pqh6mW10I9fFC9E=/1672x/article-new/2026/09/ios-26-7.jpg",
+      "publishedAt": "2026-09-14T17:32:03Z",
+      "content": "Alongside iOS 27, Apple today released iOS 26.7, an update to the existing iOS 26 software. Users who check for new software will see iOS 26.7 as the default update, with ‌iOS 27‌ listed as an option… [+452 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "9to5google.com"
+      },
+      "author": "Ben Schoon",
+      "title": "Samsung reportedly considers early ‘Galaxy Z TriFold 2’ release in wake of iPhone Duo - 9to5Google",
+      "description": "In the wake of iPhone Duo, Samsung is reportedly considering an early release for a Galaxy Z TriFold sequel. The...",
+      "url": "http://9to5google.com/2026/09/14/samsung-galaxy-z-trifold-2-release-price-rumors/",
+      "urlToImage": "https://9to5google.com/wp-content/uploads/sites/4/2026/01/Galaxy-Z-TriFold-CES-2026-hands-on-5.jpg?quality=82&strip=all&resize=1200,628",
+      "publishedAt": "2026-09-14T17:15:00Z",
+      "content": "In the wake of iPhone Duo, Samsung is reportedly considering an early release for a Galaxy Z TriFold sequel.\r\nThe Galaxy Z TriFold delivered a wild new form factor to Samsung’s lineup late last year,… [+1142 chars]"
     },
     {
       "source": {
@@ -87,41 +165,15 @@
     {
       "source": {
         "id": null,
-        "name": "9to5google.com"
+        "name": "Digitalfoundry.net"
       },
-      "author": "Abner Li",
-      "title": "Googlebook pre-orders start on September 21 - 9to5Google",
-      "description": "After previously teasing a fall timeframe, Google is set to open pre-orders for Googlebooks on Monday, September 21.",
-      "url": "http://9to5google.com/2026/09/14/googlebook-pre-order/",
-      "urlToImage": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/Googlebook-pre-order-cover.png?resize=1200,628",
-      "publishedAt": "2026-09-14T17:07:00Z",
-      "content": "After previously teasing a fall timeframe, Google is set to open pre-orders for Googlebooks on Monday, September 21.\r\nThe email blast to users who signed up for updates on the Android-based platform … [+995 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "9to5Mac"
-      },
-      "author": "Ryan Christoffel",
-      "title": "tvOS 27 available now for Apple TV 4K, here’s everything new - 9to5Mac",
-      "description": "tvOS 27 is the latest software update for Apple TV 4K, and it’s rolling out now to all users. Here’s what’s new in tvOS 27.",
-      "url": "https://9to5mac.com/2026/09/14/tvos-27-available-now-for-apple-tv-4k-heres-everything-new/",
-      "urlToImage": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/tvos-27-apple-tv-4k-fi.jpg?quality=82&strip=all&resize=1200,628",
-      "publishedAt": "2026-09-14T17:06:00Z",
-      "content": "tvOS 27 is the latest software update for Apple TV 4K, and its rolling out now to all users. Heres whats new in tvOS 27.\r\ntvOS 27 adds revamped Apple Podcasts app, new Apple Music features, custom te… [+2144 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "BBC News"
-      },
-      "author": null,
-      "title": "Valve's Steam Frame is excellent - but at over £1,000 is VR still too expensive? - bbc.com",
-      "description": "The BBC's Tom Gerken is hands-on with the latest virtual reality headset.",
-      "url": "https://www.bbc.com/news/articles/cn8m1113ym1o",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/cbe3/live/2c24b1a0-b05f-11f1-9902-771b6dd8af6a.png",
-      "publishedAt": "2026-09-14T17:05:31Z",
-      "content": "\"In context, a Nintendo Switch 2 is £420, an Xbox Series S is £430, and a PS5 is £470 - Quest 3S, which is primarily used for gaming, is cheaper than other games consoles,\" he said."
+      "author": "Digital Foundry",
+      "title": "Porting Half-Life: Alyx to Steam Frame: How Valve's Engineers Went from \"There's No Way\" to Shipping Standalone - digitalfoundry.net",
+      "description": "Foveated rendering, lots of driver work and 16GB of RAM.",
+      "url": "https://www.digitalfoundry.net/features/porting-half-life-alyx-to-steam-frame-how-valves-engineers-went-from-theres-no-way-to-shipping-standalone",
+      "urlToImage": "https://images.digitalfoundry.net/9dda13b1137f4/large.jpg",
+      "publishedAt": "2026-09-14T17:00:00Z",
+      "content": "Image: Valve\r\nWhen the Steam Frame was announced, the idea that a high-end VR showcase like Half-Life: Alyx would run natively on a modestly powerful, ARM-based headset seemed far-fetched - and Valve… [+10168 chars]"
     },
     {
       "source": {
@@ -152,6 +204,32 @@
     {
       "source": {
         "id": null,
+        "name": "MacRumors"
+      },
+      "author": "Joe Rossignol",
+      "title": "iOS 27's iPhone Handoff Feature Expanding to More Carriers This Year - MacRumors",
+      "description": "Apple last week announced that Verizon and EE will support iOS 27's new iPhone Handoff feature later this year. The feature allows you to switch...",
+      "url": "https://www.macrumors.com/2026/09/14/ios-27-iphone-handoff-more-carriers-soon/",
+      "urlToImage": "https://images.macrumors.com/t/jG4b-VKd9y8S2sNqme6nXQKRHkY=/1672x/article-new/2026/09/iPhone-Handoff-Feature.jpeg",
+      "publishedAt": "2026-09-14T16:55:41Z",
+      "content": "This is a sincere question: What are some use cases for using this feature, same number on two phones seems redundant, Thanks in advance.\r\n[LIST=1]* Work phone (MDM managed) vs personal phone using t… [+561 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "9to5google.com"
+      },
+      "author": "Abner Li",
+      "title": "Google’s official Pixel 11 series cases are already on sale - 9to5Google",
+      "description": "Following last month’s launch, Google’s official Pixelsnap cases for the Pixel 11 series are already on discount at Amazon.",
+      "url": "http://9to5google.com/2026/09/14/google-pixel-11-cases-discount/",
+      "urlToImage": "https://9to5google.com/wp-content/uploads/sites/4/2026/08/MBG-Pixel-11-cases-28.jpg?quality=82&strip=all&resize=1200,628",
+      "publishedAt": "2026-09-14T16:35:00Z",
+      "content": "Following last months launch, Googles official Pixelsnap cases for the Pixel 11 series are already on discount at Amazon.\r\nInstead of paying $49.99 for the Pixel 11, 11 Pro, or 11 Pro XL case, Amazon… [+1096 chars]"
+    },
+    {
+      "source": {
+        "id": null,
         "name": "Gematsu"
       },
       "author": "Sal Romano",
@@ -177,6 +255,19 @@
     },
     {
       "source": {
+        "id": null,
+        "name": "PCWorld"
+      },
+      "author": "Mikael Markander",
+      "title": "HP and Lenovo laptops are the latest victims of a Windows 11 update - PCWorld",
+      "description": "Microsoft's August update (KB5121003) is reportedly corrupting BIOS on HP laptops and disabling AC charging on Lenovo laptops.",
+      "url": "https://www.pcworld.com/article/3234625/hp-and-lenovo-laptops-are-the-latest-victims-of-a-windows-11-update.html",
+      "urlToImage": "https://www.pcworld.com/wp-content/uploads/2026/09/3234625-0-12116800-1789398840-Windows-11-blue-screen-crash-error-on-laptop-screen.jpg?quality=50&strip=all&w=1024",
+      "publishedAt": "2026-09-14T15:17:42Z",
+      "content": null
+    },
+    {
+      "source": {
         "id": "ign",
         "name": "IGN"
       },
@@ -187,6 +278,19 @@
       "urlToImage": "https://assets-prd.ignimgs.com/2026/09/14/metroid-dread-deal-ign-1789394631882.png?width=1280&format=jpg&auto=webp&quality=80",
       "publishedAt": "2026-09-14T14:47:51Z",
       "content": "The reveal of Metroid Ravenous has me wanting to replay Metroid Dread again, which is pretty convenient timing considering Nintendo has just knocked a decent chunk off the price of one of my favorite… [+3906 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "9to5google.com"
+      },
+      "author": "Ben Schoon",
+      "title": "Google Maps rolling out Android Auto speed limits and speedometer that show even without navigation - 9to5Google",
+      "description": "While the speedometer has been hit or miss for some Android Auto users as of late, Google Maps is now...",
+      "url": "http://9to5google.com/2026/09/14/google-maps-android-auto-speed-limits-speedometer-update/",
+      "urlToImage": "https://9to5google.com/wp-content/uploads/sites/4/2026/07/android-auto-google-maps-2.jpg?quality=82&strip=all&resize=1200,628",
+      "publishedAt": "2026-09-14T14:40:00Z",
+      "content": "While the speedometer has been hit or miss for some Android Auto users as of late, Google Maps is now confirmed to be rolling out speed limits and a speedometer that show at all times, even when you … [+1495 chars]"
     },
     {
       "source": {
@@ -203,19 +307,6 @@
     },
     {
       "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Ivan Mehta",
-      "title": "A Vinyl Bar in Shibuya is a startup offering fun music apps without any AI prompting - TechCrunch",
-      "description": "Former Spotify exec's company releases experimental \"singles\" that involves users in music making.",
-      "url": "https://techcrunch.com/2026/09/14/a-vinyl-bar-in-shibuya-is-a-startup-offering-fun-music-apps/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/09/VBIS-white_bg-red_hand-horizontal.jpg?resize=1200,675",
-      "publishedAt": "2026-09-14T13:55:00Z",
-      "content": "As AI rages on, new startups are creating tools for people to create music using generative AI prompts in the style of any artist they want. A Vinyl Bar in Shibuya, a startup that sounds more like an… [+3618 chars]"
-    },
-    {
-      "source": {
         "id": null,
         "name": "9to5Mac"
       },
@@ -226,6 +317,19 @@
       "urlToImage": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-18-pro-side-angle-burgundy.jpg?quality=82&strip=all&resize=1200,628",
       "publishedAt": "2026-09-14T13:43:00Z",
       "content": "If you havent yet ordered your iPhone 18 Pro or Pro Max, youll likely be waiting until October for delivery. Heres the latest update on iPhone 18 Pro pre-order shipping times.\r\nApple opened up iPhone… [+1302 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "MacRumors"
+      },
+      "author": "Hartley Charlton",
+      "title": "Apple Stores Said to Lose Video Walls, Regain Dedicated Genius Bars - MacRumors",
+      "description": "Apple is working on a sweeping retail overhaul that would bring back dedicated Genius Bars to its stores, carve out new spaces for order pickup and...",
+      "url": "https://www.macrumors.com/2026/09/14/apple-stores-to-lose-video-walls/",
+      "urlToImage": "https://images.macrumors.com/t/hexPG0vXXJ3WG8Wkg0MxrYp-u7Q=/1920x/article-new/2025/06/Apple-Store-Genius-Bar-Pickup.jpg",
+      "publishedAt": "2026-09-14T13:23:00Z",
+      "content": "Apple is working on a sweeping retail overhaul that would bring back dedicated Genius Bars to its stores, carve out new spaces for order pickup and Today at Apple classes, and do away with oversized … [+2632 chars]"
     },
     {
       "source": {
@@ -256,19 +360,6 @@
     {
       "source": {
         "id": null,
-        "name": "9to5google.com"
-      },
-      "author": "Abner Li",
-      "title": "Google Wallet for Android getting vertically stacked card list - 9to5Google",
-      "description": "Following the homepage redesign and fullscreen passes revamp this year, Google Wallet is trialing a vertically stacked card list.",
-      "url": "http://9to5google.com/2026/09/14/google-wallet-card-stack-redesign/",
-      "urlToImage": "https://9to5google.com/wp-content/uploads/sites/4/2026/03/google-wallet-1.jpg?quality=82&strip=all&resize=1200,628",
-      "publishedAt": "2026-09-14T12:30:00Z",
-      "content": "Following the homepage redesign and fullscreen passes revamp this year, Google Wallet is trialing a vertically stacked card list.\r\nThe current design shows your saved credit and debit cards as a caro… [+822 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "Yahoo Entertainment"
       },
       "author": "Nauman Khan",
@@ -295,28 +386,15 @@
     {
       "source": {
         "id": null,
-        "name": "MacRumors"
+        "name": "Anime News Network"
       },
-      "author": "Tim Hardwick",
-      "title": "Apple's Siri AI Can Be Swapped Out for Claude, ChatGPT, Code Shows - MacRumors",
-      "description": "Code sleuth \"pdfu\" has uncovered iOS 27 and macOS Golden Gate private frameworks that show Apple has designed its new Siri architecture to...",
-      "url": "https://www.macrumors.com/2026/09/14/siri-can-be-swapped-out-for-chatgpt-claude/",
-      "urlToImage": "https://images.macrumors.com/t/HAbY2RBLL5aLJL0IJd9M8FyRpRE=/2500x/article-new/2026/06/macOS-iOS-27-Siri-App-Feature.jpg",
-      "publishedAt": "2026-09-14T11:37:17Z",
-      "content": "Code sleuth \"pdfu\" has uncovered iOS 27 and macOS Golden Gate private frameworks that show Apple has designed its new Siri architecture to work with third-party AI models at what appears to be a surp… [+2871 chars]"
-    },
-    {
-      "source": {
-        "id": "cnn",
-        "name": "CNN"
-      },
-      "author": "Lisa Eadicicco",
-      "title": "They created Siri before Apple bought it. They’re still waiting for their original vision to come true - CNN",
-      "description": "Dag Kittlaus and Adam Cheyer, known for creating an assistant that’s now found in billions of Apple devices, have been thinking about what comes after the search engine for a long time.",
-      "url": "https://www.cnn.com/2026/09/14/tech/siri-founders-apple-ai",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2252639401.jpg?c=16x9&q=w_800,c_fill",
-      "publishedAt": "2026-09-14T11:00:30Z",
-      "content": "Dag Kittlaus and Adam Cheyer, known for creating anassistant thats now found in billions of Apple devices, have been thinking about what comes after the search engine for a long time.\r\nThey, along wi… [+5992 chars]"
+      "author": null,
+      "title": "Pokémon Developer Game Freak Announces Ame nochi Hare Onna Mobile Game - Anime News Network",
+      "description": "Game integrated with real-time weather forecasts slated for release this winter",
+      "url": "https://www.animenewsnetwork.com/news/2026-09-14/pokemon-developer-game-freak-announces-ame-nochi-hare-onna-mobile-game/.241755",
+      "urlToImage": "https://www.animenewsnetwork.com/thumbnails/crop600x315gJ7/cms/news.9/241755/harekey.jpg",
+      "publishedAt": "2026-09-14T11:50:00Z",
+      "content": "GAME FREAK Inc. announced on Monday a new mobile game titled Ame nochi Hare Onna (Girl After the Rain), which will launch for iOS and Android in Japan this winter. The company revealed the game's tea… [+2473 chars]"
     },
     {
       "source": {
@@ -330,6 +408,19 @@
       "urlToImage": "https://images.nintendolife.com/4b808ea46c7c3/large.jpg",
       "publishedAt": "2026-09-14T10:45:00Z",
       "content": "Nintendo has released a new overview trailer for Fire Emblem: Fortune's Weave ahead of its launch later this week on 17th September 2026.\r\nIt's only in Japanese for the time being, but we'll update t… [+831 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Android Authority"
+      },
+      "author": null,
+      "title": "Google Wallet could soon put up a fight against Apple Wallet on iPhones - Android Authority",
+      "description": "According to evidence spotted in several Google apps, Google may be working on a native Google Wallet app for iOS devices.",
+      "url": "https://www.androidauthority.com/google-wallet-iphone-apk-teardown-3710795/",
+      "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2026/07/google-wallet-order-track-home-screen-pop-up-scaled.jpg",
+      "publishedAt": "2026-09-14T09:51:00Z",
+      "content": "<ul><li>Google could be working to bring the Google Wallet app to iOS devices.</li><li>Strings spotted in a couple of Google apps hint at iOS-specific features in the Wallet app.</li><li>The app coul… [+2578 chars]"
     },
     {
       "source": {
@@ -360,15 +451,15 @@
     {
       "source": {
         "id": null,
-        "name": "Gizmodo.com"
+        "name": "MacRumors"
       },
-      "author": "Mike Pearl",
-      "title": "Maybe the 'Genius Grove' Wasn't the Best Idea. Dedicated Apple Genius Bar Reportedly Coming Back - Gizmodo",
-      "description": "Apple stores are expected to change soon.",
-      "url": "https://gizmodo.com/maybe-the-genius-grove-wasnt-the-best-idea-dedicated-apple-genius-bar-reportedly-coming-back-2000811057",
-      "urlToImage": "https://gizmodo.com/app/uploads/2026/09/genius-grove-1200x675.jpg",
-      "publishedAt": "2026-09-14T09:00:39Z",
-      "content": "Apple will slowly but surely change as new CEO John Ternus settles into his role, and according to Bloomberg’s Mark Gurman, those changes will include the return of the dedicated Genius Bar at Apple … [+2012 chars]"
+      "author": "Tim Hardwick",
+      "title": "iPhone Duo Has a Hidden Display Setting for Case Compatibility - MacRumors",
+      "description": "Apple's new iPhone Duo has a special option in its display settings that adds a narrow black border to the left side of the front screen.  ...",
+      "url": "https://www.macrumors.com/2026/09/14/iphone-duo-hidden-display-setting-explained/",
+      "urlToImage": "https://images.macrumors.com/t/1lygljCOZBkj565M6S2GQ6yjgXg=/1600x/article-new/2026/09/iphone-duo-case.jpg",
+      "publishedAt": "2026-09-14T09:06:29Z",
+      "content": "Apple's new iPhone Duo has a special option in its display settings that adds a narrow black border to the left side of the front screen.\r\nBlogger Nicolas Lellouche discovered the setting in the Disp… [+888 chars]"
     },
     {
       "source": {
@@ -425,19 +516,6 @@
     {
       "source": {
         "id": null,
-        "name": "Neowin"
-      },
-      "author": "Neowin",
-      "title": "User finds why Windows 11 KB5121003 may automatically cut power on Lenovo PCs - Neowin",
-      "description": null,
-      "url": "https://www.neowin.net/news/user-finds-why-windows-11-kb5121003-may-automatically-cut-power-on-lenovo-pcs/",
-      "urlToImage": null,
-      "publishedAt": "2026-09-14T06:45:20Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
         "name": "Motor1 "
       },
       "author": "Adrian Padeanu",
@@ -447,19 +525,6 @@
       "urlToImage": "https://cdn.motor1.com/images/mgl/7Z1Zmp/s1/2027-bmw-3-series-camouflaged-prototype-of-m350-xdrive.jpg",
       "publishedAt": "2026-09-14T06:01:00Z",
       "content": "<ul><li>The next-generation 3 Series has been caught on camera in M Performance flavor.</li><li>Surprisingly, BMW didnt bother disguising the prototype at all.</li><li>The sports sedan will break cov… [+4540 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Gematsu"
-      },
-      "author": "Sal Romano",
-      "title": "Game Freak announces ‘laundry game’ Ame no Chi Hare Onna for iOS, Android - Gematsu",
-      "description": "Game Freak has announced Ame no Chi Hare Onna, a free-to-play “laundry game” for iOS and Android jointly developed with CHRONOGATE. It will launch this winter in Japan. Shigeru Ohmori, …",
-      "url": "https://www.gematsu.com/2026/09/game-freak-announces-laundry-game-ame-no-chi-hare-onna-for-ios-android",
-      "urlToImage": "https://www.gematsu.com/wp-content/uploads/2026/09/Ame-no-Chi-Hare-Onna-Ann_09-13-26.jpg",
-      "publishedAt": "2026-09-14T03:00:29Z",
-      "content": "Game Freak has announcedAme no Chi Hare Onna, a free-to-play “laundry game” for iOS and Android jointly developed with CHRONOGATE. It will launch this winter in Japan. Shigeru Ohmori, director of the… [+1177 chars]"
     },
     {
       "source": {
@@ -555,19 +620,6 @@
     {
       "source": {
         "id": null,
-        "name": "Creative Bloq"
-      },
-      "author": "Joe Foley",
-      "title": "The huge Nintendo Switch 'tariff refund sale' has begun, and there's 30% off iconic games - Creative Bloq",
-      "description": "The Customer Appreciation Sale is Nintendo's way of giving back to US gamers.",
-      "url": "https://www.creativebloq.com/entertainment/gaming/the-huge-nintendo-switch-tariff-refund-sale-has-begun-and-theres-30-percent-off-iconic-games",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/pC9LYbNkNGNv7wEn7H4nf8-1920-80.jpg",
-      "publishedAt": "2026-09-13T20:04:57Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
         "name": "Notebookcheck.net"
       },
       "author": "Abhinav Fating",
@@ -577,6 +629,19 @@
       "urlToImage": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/GBA-950-1A.png",
       "publishedAt": "2026-09-13T19:25:00Z",
       "content": "Casio has officially listed the G-Shock GBA-9501A on its UK website. The sporty model joins the GBA-950-7A (white finish with a blue dial) and the GBA-950-9A (yellow-green finish with a dark dial) in… [+1485 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": null,
+      "title": "Thousands of hacked sites trick you into installing malware - Fox News",
+      "description": "Over 5,400 legitimate websites now serve fake CAPTCHA scams that trick users into pasting malware commands into Windows Run via ClickFix attacks.",
+      "url": "https://www.foxnews.com/tech/thousands-hacked-sites-trick-installing-malware",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/09/Serious-woman-works-on-laptop-computer.jpg",
+      "publishedAt": "2026-09-13T18:30:18Z",
+      "content": "You land on the real website of a local business and a CAPTCHA appears. It looks routine until the page tells you to open Windows Run and paste a command. That should stop you cold.\r\nSecurity researc… [+9261 chars]"
     },
     {
       "source": {
@@ -620,15 +685,15 @@
     {
       "source": {
         "id": null,
-        "name": "Notebookcheck.net"
+        "name": "AppleInsider"
       },
-      "author": "Jacob Fisher",
-      "title": "Galaxy S27 Pro and S27 Ultra to get major display upgrade - notebookcheck.net",
-      "description": "Samsung’s Galaxy S27 Pro and S27 Ultra are reportedly set to receive M16 OLED panels, promising improved brightness, color accuracy, efficiency, durability and new privacy features. The standard S27 models, however, are expected to use older M14 technology.",
-      "url": "https://www.notebookcheck.net/Galaxy-S27-Pro-and-S27-Ultra-to-get-major-display-upgrade.1398512.0.html",
-      "urlToImage": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Samsung-Mobile-Galaxy-Unpacked-2026-Galaxy-S26-Series-Launch_main1.jpg",
-      "publishedAt": "2026-09-13T16:15:00Z",
-      "content": "Samsung's next flagship line is reportedly getting its most significant screen upgrade in years, according to a report from South Korea's ETNews. The Galaxy S27 Pro and Galaxy S27 Ultra are said to b… [+1284 chars]"
+      "author": "Wesley Hilliard",
+      "title": "New Apple TV with Siri AI could launch at any time in the fall - appleinsider.com",
+      "description": "Apple reportedly held back on releasing new Apple TV hardware until its Apple Intelligence upgrades were ready, so expect the upgraded set-top box at any time.",
+      "url": "https://appleinsider.com/articles/26/09/13/new-apple-tv-with-siri-ai-could-launch-at-any-time-in-the-fall",
+      "urlToImage": "https://media.appleinsider.com/gallery/68965-145353-Apple-TV-4K-table-xl.jpg",
+      "publishedAt": "2026-09-13T14:25:00Z",
+      "content": "Apple TV could get an upgrade soon\r\nApple reportedly held back on releasing new Apple TV hardware until its Apple Intelligence upgrades were ready, so expect the upgraded set-top box at any time.\r\nTh… [+4579 chars]"
     },
     {
       "source": {
@@ -672,19 +737,6 @@
     {
       "source": {
         "id": null,
-        "name": "9to5Mac"
-      },
-      "author": "Chance Miller",
-      "title": "Craig Federighi addresses iPhone Duo and iPad overlap - 9to5Mac",
-      "description": "Craig Federighi, Apple’s senior vice president of Software Engineering, sat down with MKBHD this week to talk about the new...",
-      "url": "https://9to5mac.com/2026/09/13/craig-federighi-addresses-iphone-duo-and-ipad-overlap/",
-      "urlToImage": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/craig-federighi-mkbhd.jpg?quality=82&strip=all&resize=1200,628",
-      "publishedAt": "2026-09-13T12:47:00Z",
-      "content": "Sc\r\nCraig Federighi, Apples senior vice president of Software Engineering, sat down with MKBHD this week to talk about the new iPhone Duo. In the interview, Federighi talked about the potential overl… [+1607 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "Search Engine Journal"
       },
       "author": "Roger Montti",
@@ -694,6 +746,19 @@
       "urlToImage": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/09/google-ai-seo-reporting-413.jpg",
       "publishedAt": "2026-09-13T12:17:31Z",
       "content": "Google’s John Mueller answered a question about search console reporting’s inadequacies, defending the shortcomings as based on the inherent complexity of AI search itself.\r\nGoogle Search Console Sea… [+4965 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Video Games Chronicle"
+      },
+      "author": "Andy Robinson",
+      "title": "Level 5 boss admits using AI for Professor Layton, Yo-Kai Watch reveals - Video Games Chronicle",
+      "description": "CEO apologises for using generative AI for recent Level 5 showcase",
+      "url": "https://www.videogameschronicle.com/news/level-5-boss-admits-using-ai-for-professor-layton-yo-kai-watch-reveals/",
+      "urlToImage": "https://www.videogameschronicle.com/files/2026/09/Screenshot-2026-09-13-at-13.09.31.jpg",
+      "publishedAt": "2026-09-13T12:16:34Z",
+      "content": "Level 5s CEO has confirmed that generative AI was used for its recent Yo-Kai Watch and Professor Layton game reveals and apologized to disappointed fans.\r\nLast week, the Japanese studio held a digita… [+2350 chars]"
     },
     {
       "source": {
@@ -746,6 +811,19 @@
       "urlToImage": "https://kotaku.com/app/uploads/2023/05/5b1fcfd3f936e5f75ca9f09920fc9962.jpg",
       "publishedAt": "2026-09-13T07:00:00Z",
       "content": "What a terrible day to love quirky Japanese video game developers and have eyes. Ikumi Nakamura, studio lead at Unseen, has put out a call for fraudulent gamer Elon Musk to try out her new game, Kemu… [+2157 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Kotaku"
+      },
+      "author": "Kenneth Shepard",
+      "title": "Sora In Fortnite Wants To Know If You’ve Got Games On Your Phone - Kotaku",
+      "description": "I wish I could save all the characters I love from the crossover slop",
+      "url": "https://kotaku.com/sora-kingdom-hearts-fortnite-skin-announcement-trailer-2000734340",
+      "urlToImage": "https://kotaku.com/app/uploads/2026/09/sora.jpeg",
+      "publishedAt": "2026-09-13T07:00:00Z",
+      "content": "I played Fortnite for a week when it did the KPop Demon Hunters collab and got the ick enough to never pick it up again. I’m bored of crossovers infecting every video game in the world, and Epic’s ba… [+1142 chars]"
     }
   ]
 }

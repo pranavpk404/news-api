@@ -3,21 +3,216 @@
   "country": "us",
   "category": "general",
   "mode": "country",
-  "fetched_at": "2026-09-15T12:54:43.382980+00:00",
-  "articles_count": 32,
+  "fetched_at": "2026-09-15T17:47:03.553520+00:00",
+  "articles_count": 26,
   "articles": [
+    {
+      "source": {
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
+      },
+      "author": "WSJ",
+      "title": "Stock Market Today: Dow Slip; Oil Prices Surge; Nvdia Stock Down — Live Updates - WSJ",
+      "description": null,
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-14-2026",
+      "urlToImage": null,
+      "publishedAt": "2026-09-14T16:12:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": null,
+      "title": "After tragedy, a Greek couple welcomes a daughter born from an embryo frozen for 22 years - CNN",
+      "description": "Out of their darkest moment, a Greek couple managed to make a new start with a baby born this week. Doing so meant using one of Cristina Rapti‑Tzelepi’s decades-old embryos and racing to beat a government deadline.",
+      "url": "https://www.cnn.com/2026/09/14/health/22-year-old-embryo-greek-couple",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/ap26254548409448.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2026-09-14T15:00:33Z",
+      "content": "Out of their darkest moment, a Greek couple managed to make a new start with a baby born this week. Doing so meant using one of Cristina RaptiTzelepis decades-old embryos and racing to beat a governm… [+2463 chars]"
+    },
+    {
+      "source": {
+        "id": "axios",
+        "name": "Axios"
+      },
+      "author": "Herb Scribner",
+      "title": "Sam Altman reveals the 2 AI threats that scare him most - Axios",
+      "description": "\"There are two ways AI progress could go very badly and that we must avoid.\"",
+      "url": "https://www.axios.com/2026/09/14/openai-sam-altman-ai-threat-doom-doomerism",
+      "urlToImage": "https://images.axios.com/SEmVurmwcXiaHwZCJ0sBrYju1eE=/0x141:5307x3127/1366x768/2026/09/14/1789393146908.jpeg",
+      "publishedAt": "2026-09-14T14:48:34Z",
+      "content": "What he's saying: \"There are two ways AI progress could go very badly and that we must avoid,\" Altman said in an X post.\r\nThe first: Humans lose control of AI.\r\n<ul><li>\"This is unacceptable; we are … [+679 chars]"
+    },
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": "Mariem Bah",
+      "title": "Why is Trump warning Zelenskyy not to hit Russian diesel refineries? - Al Jazeera",
+      "description": "Trump blames Ukraine’s attacks for global diesel shortage, linking the crisis to Russia’s war rather than US actions.",
+      "url": "https://www.aljazeera.com/economy/2026/9/14/why-is-trump-warning-zelenskyy-not-to-hit-russian-diesel-refineries",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/09/getty_6aa6fb7835-1789328248.jpg?resize=1920%2C1440",
+      "publishedAt": "2026-09-14T14:09:22Z",
+      "content": "US President Donald Trump on Sunday asked Ukraine to stop hitting Russian diesel refineries, blaming the attacks for creating a diesel shortage that he said was hurting the world.\r\nRussia and Ukraine… [+5791 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Kevin Breuninger, CJ Haddad",
+      "title": "Trump says no need for more AI regulation, slams Anthropic CEO Dario Amodei - CNBC",
+      "description": "The Trump administration has encouraged AI's rapid growth and the development of data centers as it seeks an insurmountable tech edge over China.",
+      "url": "https://www.cnbc.com/2026/09/14/trump-ai-data-centers-anthropic-dario-amodei.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108359813-1788880394571-gettyimages-2294157344-1r5_3494_rzefc1hv.jpeg?v=1788880421&w=1920&h=1080",
+      "publishedAt": "2026-09-14T14:09:03Z",
+      "content": "President Donald Trump on Monday pushed back against growing calls for greater regulation of artificial intelligence, and lashed out at Anthropic CEO Dario Amodei over his urgent plea for an AI slowd… [+3620 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNET"
+      },
+      "author": "https://www.facebook.com/1112224514",
+      "title": "Apple AirPods 5 Review: A Better Upgrade Than I Expected - CNET",
+      "description": "With better sound and noise cancellation, the AirPods 5 are great for Apple users who don’t like having eartips jammed in their ears.",
+      "url": "https://www.cnet.com/tech/mobile/apple-airpods-5-review/",
+      "urlToImage": "https://www.cnet.com/wp-content/uploads/sites/2/AirPods-5-in-hand_2.jpg",
+      "publishedAt": "2026-09-14T13:07:26Z",
+      "content": "Pros &amp; Cons\r\n<ul><li>\r\nLightweight and comfortable open earbuds with no silicone eartips</li><li>\r\nImproved sound from previous version that's top-notch for open buds</li><li>\r\nBoth the base and … [+11368 chars]"
+    },
+    {
+      "source": {
+        "id": "nbc-news",
+        "name": "NBC News"
+      },
+      "author": "Ethan Harp, NBC New York, Jen Maxfield, NBC New York",
+      "title": "Cooling towers at Yankee Stadium test positive for Legionnaires’ in new cluster - NBC News",
+      "description": "The New York City Health Department has ordered 10 cooling towers in the South Bronx to be cleaned and disinfected after preliminary testing found the presence of Legionella bacteria as officials investigate a cluster in ZIP codes 10451 and 10456.",
+      "url": "https://www.nbcnews.com/news/us-news/yankee-stadium-ny-hospital-cooling-towers-positive-legionnaires-new-cl-rcna597663",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-09/260914-yankees-rs-fbb11e.jpg",
+      "publishedAt": "2026-09-14T12:54:07Z",
+      "content": "The New York City Health Department has ordered 10 cooling towers in the South Bronx to be cleaned and disinfected after preliminary testing found the presence of Legionella bacteria as officials inv… [+2757 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BGR"
+      },
+      "author": "Jorge Luis",
+      "title": "Which Nvidia GPU Is Equivalent To The Xbox Series S? - bgr.com",
+      "description": "The 1650 SUPER from Nvidia's now discontinued GTX graphics card line comes closest to the GPU inside the Xbox Series S in terms of direct comparison.",
+      "url": "https://www.bgr.com/2254766/nvidia-gpu-equivalent-to-xbox-series-s/",
+      "urlToImage": "https://www.bgr.com/img/gallery/which-nvidia-gpu-is-equivalent-to-the-xbox-series-s/l-intro-1789051745.jpg",
+      "publishedAt": "2026-09-14T12:47:00Z",
+      "content": "The Xbox Series S was designed as a closed environment, meaning everything inside has been optimized to play games. When it comes to a computer, things are far more loose. You might have a great grap… [+1056 chars]"
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Jack Guy",
+      "title": "Sydney Sweeney under fire from athletes over nude sports-prediction ad - CNN",
+      "description": "Female athletes have reacted with anger and incredulity to a “hypersexualized” advertising campaign featuring a nude or minimally clad Sydney Sweeney posing with sports equipment.",
+      "url": "https://www.cnn.com/2026/09/14/sport/sydney-sweeney-ad-backlash-scli-intl",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/sydneyjpg.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2026-09-14T12:28:42Z",
+      "content": "Female athletes have reacted with anger and incredulity to a hypersexualized advertising campaign featuring a nude or minimally clad Sydney Sweeney posing with sports equipment.\r\nThe campaign, for US… [+3412 chars]"
+    },
     {
       "source": {
         "id": null,
         "name": "Yahoo Entertainment"
       },
-      "author": "Brian Sozzi",
-      "title": "AI stocks get drilled because of Anthropic CEO Dario Amodei's 3,800 word warning - Yahoo Finance",
-      "description": "AI stocks get hit as public debate erupts on the powerful technology.",
-      "url": "https://finance.yahoo.com/markets/stocks/article/ai-stocks-get-drilled-because-of-anthropic-ceo-dario-amodeis-3800-word-warning-093637548.html",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/c88cfb527606f4bf39f0ab307028872e3c1a33ee6234e20a1d960f618cc2b432/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-09%2F22a1da29-72aa-4f81-ae05-a8f9a0e82516",
-      "publishedAt": "2026-09-14T09:36:37Z",
-      "content": "The often-teflon AI trade has officially been rattled.\r\nAI stocks are getting absolutely crushed in pre-market trading on Monday after Anthropic (ANTH.PVT) CEO Dario Amodei dropped a gloomy 3,800-wor… [+3427 chars]"
+      "author": "Nauman Khan",
+      "title": "Apple Foldable iPhone Could Change Smartphones Forever - Yahoo Finance",
+      "description": "Apple Just Entered the Foldable War. Gurman Says Its New iPhone Could Transform the Market",
+      "url": "https://finance.yahoo.com/technology/articles/apple-foldable-iphone-could-change-121236187.html",
+      "urlToImage": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
+      "publishedAt": "2026-09-14T12:12:36Z",
+      "content": "This article first appeared on GuruFocus.\r\nApple (NASDAQ:AAPL) could turn foldable smartphones into a mainstream product category with the newly unveiled iPhone Duo, Bloomberg Strategist Mark Gurman … [+975 chars]"
+    },
+    {
+      "source": {
+        "id": "nbc-news",
+        "name": "NBC News"
+      },
+      "author": "The Associated Press",
+      "title": "Drenching rains bring flash flooding across coastal Connecticut, New York and New Jersey - NBC News",
+      "description": "WESTPORT, Conn. — Flash flooding from heavy rains prompted road closures, water rescues and commuter rail problems across the tristate area Sunday.",
+      "url": "https://www.nbcnews.com/news/us-news/drenching-rains-bring-flash-flooding-coastal-connecticut-new-york-new-rcna597650",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-09/260914-connecticut-rain-flooding-mb-1234-9c4bfa.jpg",
+      "publishedAt": "2026-09-14T11:39:30Z",
+      "content": "WESTPORT, Conn. Flash flooding from heavy rains prompted road closures, water rescues and commuter rail problems across the tristate area Sunday.\r\nThe National Weather Service said the hardest-hit ar… [+2602 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Passant Rabie",
+      "title": "Dangerously Hot Days Are Now Bleeding Into Spring and Fall - Gizmodo",
+      "description": "A new study finds that extreme heat has started spreading to spring and fall seasons.",
+      "url": "https://gizmodo.com/dangerous-heat-waves-are-now-bleeding-into-spring-and-fall-2000810784",
+      "urlToImage": "https://gizmodo.com/app/uploads/2026/05/extreme-heat-in-arizona-1200x675.jpg",
+      "publishedAt": "2026-09-14T11:30:42Z",
+      "content": "This summer brought record-breaking heat, but new research suggests the problem isnt confined to the hottest months of the year. A recent study found that extreme heat events have become increasingly… [+3161 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": null,
+      "title": "Woman loses best friend to ovarian cancer, then receives same devastating diagnosis months later - Fox News",
+      "description": "A Minnesota woman diagnosed with stage 3B ovarian cancer after her best friend died from the same disease urges women to advocate for themselves.",
+      "url": "https://www.foxnews.com/health/woman-loses-best-friend-ovarian-cancer-receives-same-devastating-diagnosis-months-later",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/09/best-friends-ovarian-cancer-split.jpg",
+      "publishedAt": "2026-09-14T11:00:31Z",
+      "content": "A Minnesota woman whose best friend died from ovarian cancer was stunned when she was diagnosed with the same disease less than a year later.\r\nBecky Drexler was there to support her best friend, Conn… [+7952 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "Tech stocks fall after calls for AI development to slow down - BBC",
+      "description": "Industry bosses warn safeguards are needed to protect humanity - our AI experts answer your questions on the technology and its future.",
+      "url": "https://www.bbc.com/news/live/cm70d91rg7l4t",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7707/live/46a14fb0-b038-11f1-a540-61c3f7fc4e6c.jpg",
+      "publishedAt": "2026-09-14T10:58:07Z",
+      "content": "Image caption, Stephanie Hare, co-host of AI Decoded\r\nOur experts are now asked what guardrails and laws are in place to protect people from the risks of AI.\r\nThere are none, says Stephanie Hare. \r\nS… [+1117 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "NPR"
+      },
+      "author": "Clare Lombardo",
+      "title": "The Emmys are Monday night. Here's how to watch - npr.org",
+      "description": "Noah Kahan will perform \"Bridge Over Troubled Water\" as part of the In Memoriam segment.",
+      "url": "https://www.npr.org/2026/09/14/nx-s1-5967571/emmys-2026-when-are-the-emmys-how-to-watch",
+      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5901x3319+0+0/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F24%2F6b%2F9d3b29b74e728b4fd93cc9aeefbb%2Fap26253606319486.jpg",
+      "publishedAt": "2026-09-14T10:00:00Z",
+      "content": "The 78th Emmy Awards air Monday night, hosted by Law &amp; Order: SVU star Mariska Hargitay.\r\nThe Television Academy already kicked things off earlier this month: what was once the Creative Arts Emmy… [+1542 chars]"
+    },
+    {
+      "source": {
+        "id": "associated-press",
+        "name": "Associated Press"
+      },
+      "author": "Rob Maaddi",
+      "title": "NFL offenses provide one of the highest-scoring opening weeks in history - AP News",
+      "description": "NFL offenses didn’t need any time to shake off the rust. They lit up the scoreboard in one of the highest-scoring opening weeks in NFL history. The Bears beat Carolina 59-37, falling three points shy of tying Atlanta’s 53-year-old record for the most in Week …",
+      "url": "https://apnews.com/article/nfl-offense-bears-williams-allen-bills-36d8624ba91df907e63cfe230171eff9",
+      "urlToImage": "https://dims.apnews.com/dims4/default/7026f0d/2147483647/strip/true/crop/5841x3892+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F69%2F70%2F018fe0bfed91ecafb5eeb8d156be%2F35a42c3cc44644fcb19d66ede66409ee",
+      "publishedAt": "2026-09-14T10:00:00Z",
+      "content": "Offenses didnt need any time to shake off the rust.\r\nThey lit up the scoreboard in one of the highest-scoring opening weeks in NFL history.\r\nThe Bears beat Carolina 59-37, falling three points shy of… [+4975 chars]"
     },
     {
       "source": {
@@ -47,198 +242,81 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "NBCSports.com"
+        "id": "nbc-news",
+        "name": "NBC News"
       },
-      "author": "Michael David Smith",
-      "title": "Brian Schottenheimer: As a football team, Cowboys were pretty poor - NBC Sports",
-      "description": "\"This is a humbling business and we got humbled tonight,\" Schottenheimer said after losing 28-20 to the Giants.",
-      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/brian-schottenheimer-as-a-football-team-cowboys-were-pretty-poor",
-      "urlToImage": "https://nbcsports.brightspotcdn.com/dims4/default/3459c8f/2147483647/strip/true/crop/4000x2250+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F41%2F24%2F6901391c454d8ff67a1d61d5e0ce%2F2294711479.jpg",
-      "publishedAt": "2026-09-14T08:55:21Z",
-      "content": "Cowboys head coach Brian Schottenheimer said after Sunday nights 28-20 loss to the Giants that his team simply wasnt good enough in Week 1.\r\nAs a football team, we were pretty poor, Schottenheimer sa… [+708 chars]"
+      "author": "Scott Wong, Frank Thorp V, Brennan Leach",
+      "title": "Dire warnings about AI shock Congress, but action is unlikely before the election - NBC News",
+      "description": "Democrats and Republicans are proposing new regulations for artificial intelligence. But there’s no consensus, and the House has only one more workweek before Election Day.",
+      "url": "https://www.nbcnews.com/politics/congress/warnings-ai-danger-congress-action-unlikely-election-rcna597230",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-09/260911-capitol-hill-ch-1055-92e78a.jpg",
+      "publishedAt": "2026-09-14T09:00:40Z",
+      "content": "WASHINGTON In September 2023, Elon Musk, Mark Zuckerberg, Sam Altman and other billionaire tech titans huddled with senators in the Capitol to discuss what Musk called the civilizational risk posed b… [+8192 chars]"
     },
     {
       "source": {
-        "id": "associated-press",
-        "name": "Associated Press"
+        "id": null,
+        "name": "Financial Times"
       },
       "author": null,
-      "title": "GOP congressman from Wisconsin tearfully recounts surviving emergency plane landing in lake - AP News",
-      "description": "U.S. Rep. Tom Tiffany, a candidate for Wisconsin governor, wiped away tears and laughed as he shared how thankful he is to survive following a harrowing late-night emergency landing into a lake of the small plane he was riding in. Tiffany, a Republican endors…",
-      "url": "https://apnews.com/article/congressman-tom-tiffany-emergency-landing-2bfa267b324b27688b9b66088f7ab7c8",
-      "urlToImage": "https://dims.apnews.com/dims4/default/b08db91/2147483647/strip/true/crop/2803x1868+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fa4%2F2c%2F91702fc0aa0fca732734f5ecf528%2F434d1c534b814440bb9213c184e77367",
-      "publishedAt": "2026-09-14T07:52:00Z",
-      "content": "WAUSAU, Wis. (AP) U.S. Rep. Tom Tiffany, a candidate for Wisconsin governor, wiped away tears and laughed while sharing how thankful he was Sunday to survive a harrowing late-night emergency landing … [+2182 chars]"
+      "title": "Warsh and Trump on collision course as investors expect Fed to raise rates - Financial Times",
+      "description": "Central bank chair under pressure to back warnings on inflation with action despite risking president’s ire",
+      "url": "https://www.ft.com/content/904c6d93-a6b3-47f4-8b12-3d418cc74fa2?syn-25a6b1a6\\\\u003d1",
+      "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Ff164b0d7-0fcc-496b-aa5a-5f00812d7552.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
+      "publishedAt": "2026-09-14T08:24:46Z",
+      "content": "Get 2 months free with an annual subscription at was $59.88now $49. Access to eight surprising articles a day, hand-picked by FT editors. For seamless reading, access content via the FT Edit page on … [+91 chars]"
     },
     {
       "source": {
-        "id": "associated-press",
-        "name": "Associated Press"
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
       },
-      "author": "Chan Ho-him",
-      "title": "Asian shares decline and OpenAI investor SoftBank shares plunge after calls to slow AI industry - AP News",
-      "description": "World shares have mostly declined, led by AI-related stocks, and U.S. futures have edged lower. Oil prices have gained more than 2% as worries grow over global oil supplies after Saudi Arabia shut down a major oil pipeline used to help bypass the Strait of Ho…",
-      "url": "https://apnews.com/article/stocks-markets-oil-ai-rates-0b44bfb43960c6ae850567c0c4e5003a",
-      "urlToImage": "https://dims.apnews.com/dims4/default/f36a85e/2147483647/strip/true/crop/4577x3050+211+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F59%2F5a%2Ff601fdc75ca7fd62e9f542852c3d%2Faad34d739039427f9f8956f7ad1554df",
-      "publishedAt": "2026-09-14T07:41:00Z",
-      "content": "HONG KONG (AP) Global shares were mostly lower Monday as AI-related stocks, including Open AI investor SoftBank, declined following calls from Anthropics CEO to slow AI development for safety.\r\nU.S. … [+3595 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "MacRumors"
-      },
-      "author": "Tim Hardwick",
-      "title": "Gurman: 'iPhone Duo Max' With Bigger Display Likely in Apple's Plans - MacRumors",
-      "description": "Bloomberg's Mark Gurman has suggested Apple will release an \"iPhone Duo Max\" in the coming years, highlighting why Apple chose the...",
-      "url": "https://www.macrumors.com/2026/09/14/iphone-duo-max-apple-product-roadmap/",
-      "urlToImage": "https://images.macrumors.com/t/bWRKDC8vO6QqM7Skt3UhISo-4I0=/1872x/article-new/2026/09/iphone-duo-positions.jpg",
-      "publishedAt": "2026-09-14T06:59:11Z",
-      "content": "Bloomberg's Mark Gurman has suggested Apple will release an \"iPhone Duo Max\" in the coming years, highlighting why Apple chose the \"Duo\" moniker over other names.\r\nIn the months leading up to Apple's… [+1026 chars]"
+      "author": null,
+      "title": "US Kennedy Center faces bankruptcy, Washington Post reports - Al Jazeera",
+      "description": "Board of trustees recommends that the main building be closed immediately due to costs, US newspaper reports.",
+      "url": "https://www.aljazeera.com/news/2026/9/14/us-kennedy-center-faces-bankruptcy-washington-post-reports",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/09/2026-08-29T193733Z_479264515_RC2J8NAE6QO0_RTRMADP_3_USA-TRUMP-KENNEDY-CENTER-1789366365.jpg?resize=1920%2C1440",
+      "publishedAt": "2026-09-14T06:53:08Z",
+      "content": "The John F Kennedy Center for the Performing Arts in Washington, DC, is on the brink of bankruptcy and could close as soon as Tuesday, The Washington Post has reported.\r\nAccording to the report in th… [+2026 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "NPR"
+        "name": "Hollywood Reporter"
       },
-      "author": "The Associated Press",
-      "title": "Russian drone hits train near Ukraine-Poland border soon after dignitaries passed through - NPR",
-      "description": "A Russian drone struck a train near the Ukraine-Poland border shortly after senior visiting officials, including the former prime ministers of the U.K. and Sweden, passed through.",
-      "url": "https://www.npr.org/2026/09/14/g-s1-143140/russian-drone-ukrainian-train",
-      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2000x1125+0+104/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fbd%2Fef%2F8d2005be4e1f8d6595a80fb2ddf9%2Fap26256648790763.jpg",
-      "publishedAt": "2026-09-14T05:46:26Z",
-      "content": "KYIV, Ukraine A Russian drone struck a train near the Ukraine- Poland border on Sunday shortly after senior visiting officials including the former prime ministers of the U.K. and Sweden -- passed th… [+1882 chars]"
-    },
-    {
-      "source": {
-        "id": "associated-press",
-        "name": "Associated Press"
-      },
-      "author": "Nicholas Riccardi",
-      "title": "Second federal judge freezes Trump mail ballot order with US Supreme Court poised to weigh in - AP News",
-      "description": "A federal judge in Washington, D.C. has issued a new order freezing President Donald Trump's attempt to limit mail voting for the midterm elections. A previous order from another judge is already before the U.S. Supreme Court. Election officials say they coul…",
-      "url": "https://apnews.com/article/trump-mail-voting-executive-order-midterms-906aa1247f096609e61a1bd2369a57e9",
-      "urlToImage": "https://dims.apnews.com/dims4/default/0ea80a0/2147483647/strip/true/crop/5616x3742+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fc1%2F73%2Faf0dd2f25cda01a3e3276e94d706%2F9efe04fbca934feeb49f02c8b9beb348",
-      "publishedAt": "2026-09-14T05:16:00Z",
-      "content": "A federal judge late Sunday ordered that the U.S. Postal Service not implement President Donald Trumps executive order limiting mail balloting, adding another obstacle to the administrations effort t… [+2494 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The Japan Times"
-      },
-      "author": "The Japan Times",
-      "title": "LDP-backed Genta Koja wins Okinawa governor poll - The Japan Times",
-      "description": "Koja will be Okinawa’s youngest governor and the first to have been born after 1972, when the prefecture was returned to Japan.",
-      "url": "https://www.japantimes.co.jp/news/2026/09/13/japan/politics/okinawa-governor-genta-koja-wins/",
-      "urlToImage": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/13/562722.jpg?v=3.1",
-      "publishedAt": "2026-09-14T03:59:46Z",
-      "content": "Naha Genta Koja won Sundays gubernatorial election in Japans southernmost prefecture of Okinawa, bringing a Liberal Democratic Party-backed governor back to the post for the first time in 12 years.\r\n… [+334 chars]"
-    },
-    {
-      "source": {
-        "id": "usa-today",
-        "name": "USA Today"
-      },
-      "author": "KiMi Robinson",
-      "title": "Hayden Panettiere's boyfriend Brian Hickerson detained, his brother arrested - USA Today",
-      "description": "Hayden Panettiere's boyfriend, Brian Hickerson, was briefly detained after an alleged altercation in South Carolina. His brother was also arrested.",
-      "url": "https://www.usatoday.com/story/entertainment/celebrities/2026/09/13/hayden-panettiere-boyfriend-brian-hickerson-detained/91750638007/",
-      "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/09/13/USAT/91751183007-getty-images-1247917222.jpg?crop=1892,1064,x201,y30&width=1892&height=1064&format=pjpg&auto=webp",
-      "publishedAt": "2026-09-14T02:25:00Z",
-      "content": "Hayden Panettiere's boyfriend, Brian Hickerson, was briefly detained by police after an alleged altercation at a South Carolina restaurant.\r\nBrian Hickerson and his brother, Zach Hickerson, were amon… [+4003 chars]"
+      "author": "Daniel Fienberg",
+      "title": "'60 Minutes' Season Premiere Suggests a Limited Bari Weiss Effect - The Hollywood Reporter",
+      "description": "Led by familiar faces Lesley Stahl, Jon Wertheim and Norah O'Donnell, Sunday night's episode was often mediocre, but not in any shocking or dramatically different ways.",
+      "url": "http://www.hollywoodreporter.com/tv/tv-reviews/60-minutes-season-premiere-review-bari-weiss-1236700346/",
+      "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2026/09/60M_S59_11_Horizontal-H-2026.jpg?w=1296&h=730&crop=1",
+      "publishedAt": "2026-09-14T06:31:55Z",
+      "content": "There have been months of controversy, outrage and general conversation regarding alterations to CBS’ 60 Minutes franchise under new CBS News editor-in-chief Bari Weiss. But the venerable newsmagazin… [+6876 chars]"
     },
     {
       "source": {
         "id": "espn",
         "name": "ESPN"
       },
-      "author": "Kris Rhim",
-      "title": "Harbaugh: Chargers 'sloppy' in loss to Cardinals - ESPN",
-      "description": "The Chargers fell apart Sunday after their opening drive, with coach Jim Harbaugh calling the performance \"uncharacteristic.\"",
-      "url": "https://www.espn.com/nfl/story/_/id/49936222/harbaugh-chargers-sloppy-loss-cardinals",
-      "urlToImage": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0913%2Fr1716241_1296x729_16%2D9.jpg",
-      "publishedAt": "2026-09-14T02:23:00Z",
-      "content": "INGLEWOOD, Calif. -- The blocking was stellar. Receivers ran open. The Chargers were humming. It was their opening drive of Sunday's game against the Arizona Cardinals, and the Mike McDaniel offense … [+4014 chars]"
-    },
-    {
-      "source": {
-        "id": "al-jazeera-english",
-        "name": "Al Jazeera English"
-      },
-      "author": "Al Jazeera Staff",
-      "title": "Philippines’ Muslim-majority Bangsamoro region votes for first parliament - Al Jazeera",
-      "description": "However, deadly violence marred the elections one day before the polls open in the southern Philippine region.",
-      "url": "https://www.aljazeera.com/news/2026/9/14/philippines-muslim-majority-bangsamoro-region-votes-for-first-parliament",
-      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/09/AP26256139332764-1789342518.jpg?resize=1920%2C1440",
-      "publishedAt": "2026-09-14T02:01:35Z",
-      "content": "Nearly 2.4 million voters in the Bangsamoro Autonomous Region in Muslim Mindanao (BARMM) in the southern Philippines are casting their ballots in the first parliamentary elections since the region wa… [+2555 chars]"
-    },
-    {
-      "source": {
-        "id": "nbc-news",
-        "name": "NBC News"
-      },
-      "author": "Daniel Arkin",
-      "title": "Air Force officer recalls ‘free-falling’ after jet was shot down over Iran - NBC News",
-      "description": "In an interview with CBS’ “60 Minutes,” one of the two U.S. Air Force officers whose fighter jet was shot down over Iran in April detailed his harrowing ordeal.",
-      "url": "https://www.nbcnews.com/news/us-news/air-force-officer-free-falling-jet-was-shot-down-iran-rcna597585",
-      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-09/260913-iran-f-15-jet-ww-1657-7b0bc2.jpg",
-      "publishedAt": "2026-09-14T01:51:00Z",
-      "content": "In an interview with CBS 60 Minutes that aired Sunday, one of the two U.S. Air Force officers whose fighter jet was shot down over Iran in April detailed his harrowing ordeal, including plummeting to… [+3535 chars]"
-    },
-    {
-      "source": {
-        "id": "al-jazeera-english",
-        "name": "Al Jazeera English"
-      },
-      "author": "Al Jazeera Staff",
-      "title": "Charlie Kirk statue vandalised outside Turning Point USA headquarters - Al Jazeera",
-      "description": "Vandals spray red paint on Charlie Kirk statue days after its unveiling to mark one year since his death.",
-      "url": "https://www.aljazeera.com/news/2026/9/14/charlie-kirk-statue-vandalised-outside-turning-point-usa-headquarters",
-      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/09/reuters_6aa73365-1789342565.jpg?resize=1920%2C1440",
-      "publishedAt": "2026-09-14T00:47:23Z",
-      "content": "A new memorial statue of the slain right-wing activist Charlie Kirk has been vandalised days after it was installed outside Turning Point USAs headquarters, the youth-focused organisation he co-found… [+1253 chars]"
-    },
-    {
-      "source": {
-        "id": "the-hill",
-        "name": "The Hill"
-      },
-      "author": "Ryan Mancini",
-      "title": "Trump says $5K dividend checks to Americans will ‘happen 100 percent’ - The Hill",
-      "description": "President Trump on Sunday said $5,000 dividend checks will “happen 100 percent” if the GOP maintains its majority in Congress after the midterm elections. The president compared the potential payouts to the $1,776 checks that went out to U.S. service members,…",
-      "url": "https://thehill.com/homenews/administration/6087307-trump-promises-5000-dividend-checks/",
-      "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2026/09/AP26254093259155-e1789094528287.jpg?w=1280",
-      "publishedAt": "2026-09-14T00:27:00Z",
-      "content": "Skip to content\r\nPresident Trump on Sunday said $5,000 dividend checks will “happen 100 percent” if the GOP maintains its majority in Congress after the midterm elections.\r\nThe president compared the… [+2961 chars]"
-    },
-    {
-      "source": {
-        "id": "usa-today",
-        "name": "USA Today"
-      },
-      "author": "James Powel, Jay Stahl",
-      "title": "House Speaker Johnson says Congress shouldn't lead AI safety efforts - USA Today",
-      "description": "House Speaker Mike Johnson told CNN's \"State of the Union\" that AI developers, not Congress, bear responsibility for ensuring their products are safe.",
-      "url": "https://www.usatoday.com/story/news/politics/2026/09/13/mike-johnson-ai-safety-developers-responsibility/91750965007/",
-      "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/09/13/USAT/91752089007-20260910-t-223804-z-1113759911-rc-2-hgnaikugm-rtrmadp-3-usaelectionrepublicans.JPG?crop=1678,944,x391,y391&width=1678&height=944&format=pjpg&auto=webp",
-      "publishedAt": "2026-09-14T00:16:00Z",
-      "content": "Speaker of the House Mike Johnson said that artificial intelligence developers, not Congress, bear responsibility for ensuring their products are safe and rejected a national moratorium on AI buildou… [+3762 chars]"
+      "author": "Jordan Raanan",
+      "title": "John Harbaugh: Giants' win over Cowboys in debut 'really special' - ESPN",
+      "description": "John Harbaugh came away pleased with his team's performance in his Big Apple debut.",
+      "url": "https://www.espn.com/nfl/story/_/id/49937489/john-harbaugh-giants-win-cowboys-debut-really-special",
+      "urlToImage": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0914%2Fr1716449_1296x729_16%2D9.jpg",
+      "publishedAt": "2026-09-14T05:54:00Z",
+      "content": "EAST RUTHERFORD, N.J. -- John Harbaugh's first game as New York Giants coach went as planned. His team played physical football during a 28-20 win over the rival Dallas Cowboys on Sunday night at Met… [+3498 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Milwaukee Journal Sentinel"
+        "name": "BBC News"
       },
-      "author": "Christopher Kuhagen",
-      "title": "Matt LaFleur shredded by Packers fans after team collapses vs Vikings - Milwaukee Journal Sentinel",
-      "description": "Matt LaFleur's decision to take points off the board in fourth quarter of eventual loss to Vikings is leaving Packers fans frustrated.",
-      "url": "https://www.jsonline.com/story/sports/nfl/packers/2026/09/13/packers-fans-sound-off-matt-lafleur-loss-vikings/91752032007/",
-      "urlToImage": "https://www.jsonline.com/gcdn/authoring/authoring-images/2026/08/29/PMJS/91526740007-packers-28-28.jpg?crop=6935,3902,x0,y318&width=3200&height=1801&format=pjpg&auto=webp",
-      "publishedAt": "2026-09-14T00:07:00Z",
-      "content": "It's a new season for the Green Bay Packers but you couldn't tell based on what happened at U.S. Bank Stadium.\r\nMatt LaFleur's Packers picked up right where they left off in blowing leads.\r\nThe Packe… [+1395 chars]"
+      "author": null,
+      "title": "Russia hits Ukrainian train shortly after Boris Johnson and top European officials leave station - BBC",
+      "description": "The former UK PM said: \"I don't know what warped logic drove Putin to blow up a stationary Ukrainian locomotive on the Polish border this morning\".",
+      "url": "https://www.bbc.com/news/articles/cy5zg41dkqwo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/715d/live/e93baec0-afff-11f1-9713-5de61387c384.png",
+      "publishedAt": "2026-09-14T03:38:13Z",
+      "content": "Professor Katarzyna Pisarska, chair of the Warsaw Security Forum, told the BBC she was in the same carriage as Johnson and Powell, and the attack had happened about 30 minutes after their train had c… [+29 chars]"
     },
     {
       "source": {
@@ -256,71 +334,6 @@
     {
       "source": {
         "id": null,
-        "name": "Entertainment Weekly"
-      },
-      "author": "https://www.facebook.com/entertainmentweekly",
-      "title": "‘Practical Magic 2’ bests ‘Spider-Man’ and ‘The Odyssey’ at the box office, but fails to conjure profit - Entertainment Weekly",
-      "description": "‘Practical Magic 2’ finally summoned the necessary magic to vanquish ‘Spider-Man: Brand New Day’ and ‘The Odyssey’ at the box office.",
-      "url": "https://ew.com/practical-magic-2-bests-spider-man-the-odyssey-at-box-office-12119824",
-      "urlToImage": "https://ew.com/thmb/i6eu7ORr5m7mC88voylV5f_vvz0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/sandra-bullock-nicole-kidman-practical-magic-2-090326-c26942f770af4f83a2f59c8b8568e54e.jpg",
-      "publishedAt": "2026-09-13T23:17:02Z",
-      "content": "After nine weeks of undisputed dominance, The Odysseyand Spider-Man: Brand New Dayhave fallen to a witchy new foe. But Practical Magic 2s spell over the box office may not have been cast to last.\r\nDi… [+3330 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": "Alex Harring",
-      "title": "Stock futures fall as investors weigh AI safety concerns, oil gains: Live updates - CNBC",
-      "description": "The three major averages are coming off a losing week.",
-      "url": "https://www.cnbc.com/2026/09/13/stock-futures-today-live-updates.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108359876-17888859102026-09-08t164114z_796718044_rc22fna0e8bt_rtrmadp_0_usa-stocks.jpeg?v=1788885962&w=1920&h=1080",
-      "publishedAt": "2026-09-13T22:25:00Z",
-      "content": "Stock futures fell Sunday night as investors monitored a major shakeup in the pipeline for artificial intelligence initial public offerings amid growing safety concerns, along with the latest oil mov… [+2071 chars]"
-    },
-    {
-      "source": {
-        "id": "axios",
-        "name": "Axios"
-      },
-      "author": "Rebecca Falconer",
-      "title": "Why Trump's united Ireland stance hit such a nerve - Axios",
-      "description": "He broke with a longstanding U.S. convention of not taking sides on whether Northern Ireland should be British or Irish.",
-      "url": "https://www.axios.com/2026/09/13/trump-united-ireland-north-south",
-      "urlToImage": "https://images.axios.com/-A1A0QOC5R7bPwXKjbg80bbYxR8=/0x95:3590x2115/1366x768/2026/09/13/1789320040910.jpeg",
-      "publishedAt": "2026-09-13T21:49:50Z",
-      "content": "<ul><li>The U.S. helped broker the 1998 Good Friday Agreement, built around consent and parity between British unionism and Irish nationalism.</li><li>Former President Clinton, whose administration p… [+3249 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "SlashGear"
-      },
-      "author": "Alan Bradley",
-      "title": "Xbox Is Bringing A Big Dose Of Nostalgia To Its Current-Gen Consoles - SlashGear",
-      "description": "Xbox is giving old-school gamers a dose of nostalgia by letting them choose older console startup animations when powering on the Xbox Series X or S.",
-      "url": "https://www.slashgear.com/2256911/xbox-nostalgic-startup-animations-series-x-s/",
-      "urlToImage": "https://www.slashgear.com/img/gallery/xbox-is-bringing-a-big-dose-of-nostalgia-to-its-current-gen-consoles/l-intro-1789311506.jpg",
-      "publishedAt": "2026-09-13T20:45:00Z",
-      "content": "Microsoft's Xbox division has been roiled with turmoil of late, with massive layoffs, studio closures, and the departure of the CEO of Microsoft Gaming, Phil Spencer. Under the leadership of new boss… [+1160 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CBS Sports"
-      },
-      "author": "Bryan DeArdo",
-      "title": "LOOK: Derrick Henry makes NFL history during Ravens' Week 1 showdown vs. Colts - CBS Sports",
-      "description": "Henry reached a major milestone after two first-half scores in Week 1",
-      "url": "https://www.cbssports.com/nfl/news/derrick-henry-makes-nfl-history-ravens-week-1-vs-colts/",
-      "urlToImage": "https://sportshub.cbsistatic.com/i/r/2026/09/13/7bf19c49-35ec-48b2-9461-fedb41f53615/thumbnail/1200x675/a59541370deef020ba82c710a5acd706/henry26.jpg",
-      "publishedAt": "2026-09-13T19:46:00Z",
-      "content": "Derrick Henry made NFL history during the first half of the Baltimore Ravens' season opener against the Indianapolis Colts, moving to No. 3 on the NFL's list of career rushing touchdowns. \r\nBaltimore… [+1946 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "New York Post"
       },
       "author": "Jorge Fitz-Gibbon",
@@ -330,97 +343,6 @@
       "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/09/140955347.jpg?quality=75&strip=all&w=1200",
       "publishedAt": "2026-09-13T19:20:00Z",
       "content": "Archaeologists in North Dakota have unearthed the first set of footprints of a running T-Rex after a schoolteacher led them to the incredibly rare find.\r\nThe four giant three-toed footprints of a mas… [+1603 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "NBC 10 Philadelphia"
-      },
-      "author": "Maria Chamberlain",
-      "title": "Sydney Sweeney's new sports trading ad draws backlash from female athletes - NBC10 Philadelphia",
-      "description": "Female athletes are pushing back on Sweeney’s provocative sports ad, saying it sends the wrong message about women in sports.",
-      "url": "https://www.nbcphiladelphia.com/news/national-international/sydney-sweeney-new-sports-trading-ad-draws-backlash-female-athletes/4462288/",
-      "urlToImage": "https://media.nbcphiladelphia.com/2026/09/260913-sydney-sweeney-novig.jpg?quality=85&strip=all&resize=1200%2C675",
-      "publishedAt": "2026-09-13T17:27:10Z",
-      "content": "Sydney Sweeney is putting her focus on Just Sports in her latest ad campaign, but female athletes are less than impressed.\r\nThe actress stars in Novigs new national campaign promoting the sports trad… [+2455 chars]"
-    },
-    {
-      "source": {
-        "id": "the-washington-post",
-        "name": "The Washington Post"
-      },
-      "author": "Cat Zakrzewski, Violet Jira",
-      "title": "Trump dismisses AI leaders’ calls to slow down, citing Chinese competition - The Washington Post",
-      "description": "Democrats are increasingly attacking the administration’s hands-off approach to artificial intelligence regulation as midterms approach.",
-      "url": "https://www.washingtonpost.com/politics/2026/09/13/trump-rejects-calls-so-slow-ai-development-citing-chinese-competition/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/TUWBFHURSIW2HII66QLT35CRUI_size-normalized.jpg&w=1440",
-      "publishedAt": "2026-09-13T17:03:03Z",
-      "content": "DUBLIN President Donald Trump on Sunday appeared to dismiss calls from top artificial intelligence leaders to slow the development of AI models,as Democrats seize on his administrations resistance to… [+47 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Notebookcheck.net"
-      },
-      "author": "Jacob Fisher",
-      "title": "Galaxy S27 Pro and S27 Ultra to get major display upgrade - Notebookcheck",
-      "description": "Samsung’s Galaxy S27 Pro and S27 Ultra are reportedly set to receive M16 OLED panels, promising improved brightness, color accuracy, efficiency, durability and new privacy features. The standard S27 models, however, are expected to use older M14 technology.",
-      "url": "https://www.notebookcheck.net/Galaxy-S27-Pro-and-S27-Ultra-to-get-major-display-upgrade.1398512.0.html",
-      "urlToImage": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Samsung-Mobile-Galaxy-Unpacked-2026-Galaxy-S26-Series-Launch_main1.jpg",
-      "publishedAt": "2026-09-13T16:15:00Z",
-      "content": "Samsung's next flagship line is reportedly getting its most significant screen upgrade in years, according to a report from South Korea's ETNews. The Galaxy S27 Pro and Galaxy S27 Ultra are said to b… [+1284 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNET"
-      },
-      "author": "Mike Sorrentino",
-      "title": "Apple’s iPhone 18 Pro vs. 14 Pro: The Four-Year Difference Between Apple’s Pro Phones - cnet.com",
-      "description": "If you're considering an upgrade from the iPhone 14 Pro to the iPhone 18 Pro, you'll see a lot of improvements.",
-      "url": "https://www.cnet.com/tech/mobile/apples-iphone-18-pro-vs-14-pro-the-four-year-difference-between-apples-pro-phones/",
-      "urlToImage": "https://www.cnet.com/wp-content/uploads/sites/2/Iphone-18-Pro-vs-Iphone-14-Pro.jpg",
-      "publishedAt": "2026-09-13T15:40:17Z",
-      "content": "Apple has just announced its latest premium flagship, the iPhone 18 Pro, at the companys recent Surprise and Shine event on Wednesday. With a starting price of $1,199, the iPhone 18 Pro has a few new… [+6371 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Space.com"
-      },
-      "author": "Robert Lea",
-      "title": "James Webb Space Telescope discovers the rings of tiny solar system body Chariklo are changing - Space",
-      "description": "\"The ability to detect these changes opens a new window for understanding the evolution of these systems and, possibly, that of other ring systems in the solar system.\"",
-      "url": "https://www.space.com/astronomy/james-webb-space-telescope/james-webb-space-telescope-discovers-the-rings-of-tiny-solar-system-body-chariklo-are-changing",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/NqJMLcyVWT96TRxRM8MenY-2000-80.png",
-      "publishedAt": "2026-09-13T13:00:00Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ScienceAlert"
-      },
-      "author": "Michael Irving",
-      "title": "Physicists Just Turned The Entire Planet Into a Dark Matter Detector – And Strange Signals Kept Turning Up - ScienceAlert",
-      "description": "Physicists have conducted a worldwide hunt for dark matter.",
-      "url": "https://www.sciencealert.com/physicists-just-turned-the-entire-planet-into-a-dark-matter-detector-and-strange-signals-kept-turning-up",
-      "urlToImage": "https://www.sciencealert.com/images/2026/09/Black-marble-Earth.jpg",
-      "publishedAt": "2026-09-12T20:00:53Z",
-      "content": "Physicists have conducted a worldwide hunt for dark matter. Literally they turned Earth itself into a giant detector.\r\nWeirder still, the experiment picked up dozens of candidate signals that fit pre… [+5044 chars]"
-    },
-    {
-      "source": {
-        "id": "mashable",
-        "name": "Mashable"
-      },
-      "author": "Elisha Sauers",
-      "title": "Mercury is shrinking much more than scientists realized - Mashable",
-      "description": "It shrinks?",
-      "url": "https://mashable.com/science/mercury-shrinking-planet-explanation",
-      "urlToImage": "https://helios-i.mashable.com/imagery/articles/06gWHkP2LYA1KqAHMgVJT5R/hero-image.fill.size_1200x675.v1789228123.jpg",
-      "publishedAt": "2026-09-12T16:23:21Z",
-      "content": null
     }
   ]
 }

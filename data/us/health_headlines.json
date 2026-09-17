@@ -3,9 +3,22 @@
   "country": "us",
   "category": "health",
   "mode": "country",
-  "fetched_at": "2026-09-17T06:48:12.751940+00:00",
+  "fetched_at": "2026-09-17T12:47:42.994163+00:00",
   "articles_count": 60,
   "articles": [
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Lex Harvey",
+      "title": "Fiji declares HIV emergency. One in 60 people now have the virus as drug crisis fuels outbreak - CNN",
+      "description": "The small Pacific nation of Fiji has declared a national HIV emergency as it grapples with surging case numbers, partly driven by a growing methamphetamine problem.",
+      "url": "https://www.cnn.com/2026/09/16/asia/fiji-hiv-emergency-methamphetamine-intl-hnk",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2274064955.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2026-09-16T08:29:25Z",
+      "content": "The small Pacific nation of Fiji has declared a national HIV emergency as it grapples with surging case numbers, partly driven by a growing methamphetamine problem.\r\nOne in every 60 adults in the arc… [+5273 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -24,13 +37,13 @@
         "id": "fox-news",
         "name": "Fox News"
       },
-      "author": null,
-      "title": "Fourth Florida resident dies after contracting flesh-eating bacteria linked to oysters - Fox News",
+      "author": "Bonny Chu",
+      "title": "Fourth Florida resident dies after contracting flesh-eating bacteria linked to oysters - Yahoo",
       "description": "Florida reports fourth Vibrio vulnificus death in 2026 as health officials warn about raw oysters, contaminated water and severe infections.",
       "url": "https://www.foxnews.com/us/fourth-florida-resident-dies-after-contracting-flesh-eating-bacteria-linked-oysters",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/08/flesh-eating-bacteria-louisiana.jpg",
-      "publishedAt": "2026-09-16T02:00:44Z",
-      "content": "A fourth person in Florida has died after contracting flesh-eating bacteria commonly linked to consuming raw or undercooked oysters, health officials said.\r\nThe death was included Thursday in the Flo… [+2850 chars]"
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/5466a1a13f21c8dd13ccd60bd24ffdc68b203d9e9cd13c0983861e7466f18eda/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ffox_news_text_979%2Fbe602594572f81da2907e822e725a2d6.jpg",
+      "publishedAt": "2026-09-16T02:00:00Z",
+      "content": "A fourth person in Florida has died after contracting flesh-eating bacteria commonly linked to consuming raw or undercooked oysters, health officials said.\r\nThe death was included Thursday in the Flo… [+3335 chars]"
     },
     {
       "source": {
@@ -100,19 +113,6 @@
     {
       "source": {
         "id": null,
-        "name": "ScienceAlert"
-      },
-      "author": "Peter Dockrill",
-      "title": "'Living Medication' May Have Restored Bone Strength in 10 Patients With Advanced Osteoporosis - ScienceAlert",
-      "description": "The true scale of osteoporosis is difficult to fathom.",
-      "url": "https://www.sciencealert.com/living-medication-may-have-restored-bone-strength-in-10-patients-with-advanced-osteoporosis",
-      "urlToImage": "https://www.sciencealert.com/images/2025/11/Illustration-of-osteoporotic-bone-2025-2.jpg",
-      "publishedAt": "2026-09-15T22:01:22Z",
-      "content": "The true scale of osteoporosis is difficult to fathom.\r\nThe progressive bone-weakening disease is estimated to affect as many as 500 million people worldwide, triggering up to 37 million fragility fr… [+5611 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "New York Post"
       },
       "author": "Rachel Sacks",
@@ -122,6 +122,32 @@
       "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/09/crop-40831470.jpg?quality=75&strip=all&w=1200",
       "publishedAt": "2026-09-15T21:18:00Z",
       "content": "Suicide is notoriously difficult to predict.\r\nWarning signs may be subtle, fleeting or easy to mistake for ordinary changes in mood or behavior.\r\nFor Americans aged 10 to 34, suicide is the second-le… [+4275 chars]"
+    },
+    {
+      "source": {
+        "id": "usa-today",
+        "name": "USA Today"
+      },
+      "author": "Saman Shafiq",
+      "title": "Feeling tired? You're not alone, new CDC report says - USA Today",
+      "description": "Fatigue is \"generally defined as physical or mental tiredness or exhaustion that does not improve with additional sleep or rest.\"",
+      "url": "https://www.usatoday.com/story/life/health-wellness/2026/09/15/new-cdc-report-fatigue-exhaustion-adults/91778647007/",
+      "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/09/15/USAT/91780039007-getty-images-1352919035.jpg?crop=5260,2959,x6,y0&width=3200&height=1801&format=pjpg&auto=webp",
+      "publishedAt": "2026-09-15T20:58:00Z",
+      "content": "If you've been feeling exhausted all the time, you're not alone.\r\nAbout 71.5% of adults in the U.S. say they experienced fatigue on multiple days over the past three months, a new report by the Cente… [+4873 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Milwaukee Journal Sentinel"
+      },
+      "author": "Madeline Heim",
+      "title": "Measles case reported in Marathon County, a new location for Wisconsin - Milwaukee Journal Sentinel",
+      "description": "According to data from the U.S. Centers for Disease Control and Prevention, Wisconsin's measles numbers are some of the highest in the country.",
+      "url": "https://www.jsonline.com/story/news/health/2026/09/15/measles-case-reported-in-marathon-county-a-new-location-for-wisconsin/91780577007/",
+      "urlToImage": "https://www.jsonline.com/gcdn/authoring/authoring-images/2026/09/15/USAT/91776263007-getty-images-2242752228-jpg-00-00-00-00-still-001.jpg?crop=1023,576,x0,y68&width=1023&height=576&format=pjpg&auto=webp",
+      "publishedAt": "2026-09-15T20:40:00Z",
+      "content": "A case of measles has been reported in Marathon County, state health officials announced Sept. 15.\r\nThe case is not linked to an outbreak in southwest Wisconsin that has produced more than 160 cases.… [+147 chars]"
     },
     {
       "source": {
@@ -139,28 +165,15 @@
     {
       "source": {
         "id": null,
-        "name": "Gizmodo.com"
+        "name": "Deseret News"
       },
-      "author": "Ed Cara",
-      "title": "This Bouncy Castle Spread a Dangerous Superbug to 47 Kids in a Single Afternoon - Gizmodo",
-      "description": "It's the largest outbreak of community-acquired MRSA ever reported in Ireland.",
-      "url": "https://gizmodo.com/this-bouncy-castle-spread-a-dangerous-superbug-to-47-kids-in-a-single-afternoon-2000811887",
-      "urlToImage": "https://gizmodo.com/app/uploads/2026/09/Kid-in-Bounce-House-1200x675.jpg",
-      "publishedAt": "2026-09-15T20:35:58Z",
-      "content": "As anyone who’s spent time inside one can tell you, bouncy castles are supposed to be a source of joy. Unfortunately, for one large party of kids in the Republic of Ireland, their bouncy experience l… [+3999 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "KOMO News"
-      },
-      "author": "KOMO News Staff",
-      "title": "Point Defiance Zoo puffins died from rare Chlamydia abortus, tests reveal - komonews.com",
-      "description": "Additional test results have clarified the cause of death for three tufted puffins that died earlier this summer at Point Defiance Zoo & Aquarium, and officials",
-      "url": "https://komonews.com/news/local/point-defiance-zoo-puffins-died-from-rare-chlamydia-abortus-tests-reveal",
-      "urlToImage": "https://komonews.com/resources/media2/16x9/2000/1320/0x104/90/8a8e1b05-9f63-4911-ba7b-d57189c0cd1a-2023POY06.jpg",
-      "publishedAt": "2026-09-15T20:08:04Z",
-      "content": "TACOMA, Wash. Additional test results have clarified the cause of death for three tufted puffins that died earlier this summer at Point Defiance Zoo &amp; Aquarium, and officials say there have been … [+3812 chars]"
+      "author": "Lois M. Collins",
+      "title": "Born later, aging faster? What major study says about cancer in younger adults - Deseret News",
+      "description": "Early-onset cancers rising among younger people. Do people under 55 get lung cancer? Are young people more at risk for cancer than they used to be?",
+      "url": "https://www.deseret.com/lifestyle/2026/09/15/cancer-striking-younger-people-biological-aging-faster-than-past-washington-university/",
+      "urlToImage": "https://www.deseret.com/resizer/v2/VVOYSRZBRJGYZB3WWK4N4DMPFM.jpg?focal=0%2C0&auth=518105b1cc751dfa1c02214374f5cea57442f11d320dc75657622c46bada53da&width=630&height=331",
+      "publishedAt": "2026-09-15T20:19:58Z",
+      "content": "<ul><li>New generations appear to be aging faster biologically than the one before, according to a study in the U.S. and UK.</li><li>Accelerated aging was linked to an 8% higher risk of lung, gastroi… [+7146 chars]"
     },
     {
       "source": {
@@ -217,15 +230,15 @@
     {
       "source": {
         "id": null,
-        "name": "New York Post"
+        "name": "Moneytalksnews.com"
       },
-      "author": "Rachel Sacks",
-      "title": "A special diet could help slow the growth of one of the deadliest brain tumors - New York Post",
-      "description": "New research from Northwell Health may have found a way to slow down the growth of deadly tumors, and it’s in a specific nutrient.",
-      "url": "https://nypost.com/2026/09/15/health/a-special-diet-could-help-slow-the-growth-of-one-of-the-deadliest-brain-tumors/",
-      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/09/newspress-collage-s17aw12oe-1789489826232.jpg?quality=75&strip=all&1789475483&w=1200",
-      "publishedAt": "2026-09-15T16:38:00Z",
-      "content": "The key to slowing deadly brain tumors could be right on our plates.\r\nGliomas are a group of tumors that develop in the brain or spinal cord and can range from slow-growing like the one Busy Philipps… [+3311 chars]"
+      "author": "Stacy Johnson CPA",
+      "title": "Forget 10,000 Steps. That Was Never True. These Two Easier Walking Habits Cut Your Death Risk by up to 43% - Money Talks News",
+      "description": "The famous step goal came from a 1960s marketing campaign. Here’s what the science says actually works.",
+      "url": "https://www.moneytalksnews.com/forget-steps-that-was-never-true-these-two-easier-walking-habits-cut-your-death-risk-by-up-to/",
+      "urlToImage": "https://www.moneytalksnews.com/workers/images/width=1920,height=1280,fit=crop,gravity=auto/wp-content/uploads/2026/07/16135231/Senior-Woman-walking-and-excercising-.png?s=1261e928802bb97cfdfde8e769a16e11dcaa921f1ddd75c51c1b88fd3e0beb49",
+      "publishedAt": "2026-09-15T15:45:37Z",
+      "content": "I’m a biker, not a walker. So I rarely hit 10,000 steps on purpose, and I’ve never felt guilty about it. My wife, on the other hand, has walked around our house at night, simply so she can hit that m… [+6246 chars]"
     },
     {
       "source": {
@@ -233,12 +246,25 @@
         "name": "Semafor.com"
       },
       "author": "Lauren Morganbesser",
-      "title": "Exclusive / Cassidy rips RFK Jr. on vaccines: ‘This is not making America healthy again’ - Semafor",
+      "title": "Cassidy rips RFK Jr. on vaccines: ‘This is not making America healthy again’ - Yahoo",
       "description": "The outgoing Senate chairman also declined to say whether he’d support Trump’s FDA nominee.",
       "url": "https://www.semafor.com/article/09/15/2026/cassidy-rips-rfk-on-vaccines-this-is-not-making-america-healthy-again",
-      "urlToImage": "https://img.semafor.com/bbfd9e82d951976042c399726aeff019db2b46b2-2500x1667.jpg?rect=0,178,2500,1313&w=1200&h=630&q=75&auto=format",
-      "publishedAt": "2026-09-15T15:26:00Z",
-      "content": "Sen. Bill Cassidy, R-La., sharply criticized the Trump administrations handling of vaccines on Tuesday, warning that the current approach is out of step with the administrations Make America Healthy … [+2067 chars]"
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/36ac496ae949349d92ca6eaffb91d7c88ec69de0eacaed65c33b3a7300f91c75/lightyear_networkapi/resizefill_w1160_h585%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsemafor_310%2Fd70f48ed2fd7dcf3c49e313940fb97fd.png",
+      "publishedAt": "2026-09-15T15:26:07Z",
+      "content": "The News\r\nSen. Bill Cassidy, R-La., sharply criticized the Trump administration's handling of vaccines on Tuesday, warning that the current approach is out of step with the administration's \"Make Ame… [+2439 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "MarketWatch"
+      },
+      "author": "Jaimy Lee",
+      "title": "Is the shingles vaccine the secret to living longer and delaying dementia? Here’s what the science says. - MarketWatch",
+      "description": "A growing body of research suggests Shingrix can delay dementia and reduce the risk of cardiovascular events. Doctors want more proof.",
+      "url": "https://www.marketwatch.com/story/is-the-shingles-vaccine-the-secret-to-living-longer-and-delaying-dementia-heres-what-the-science-says-1c108c26",
+      "urlToImage": "https://images.mktw.net/im-30495835/social",
+      "publishedAt": "2026-09-15T14:51:00Z",
+      "content": "Updated Sept. 15, 2026, 3:54p.m. ET\r\nBiohackers are turning to the shingles vaccine to ward off heart issues and delay dementia, but doctors want to see clinical evidence from rigorous medical studie… [+465 chars]"
     },
     {
       "source": {
@@ -256,6 +282,19 @@
     {
       "source": {
         "id": null,
+        "name": "Medscape"
+      },
+      "author": null,
+      "title": "Diabetes-Tailored DASH Diet Improves Glycemic Control in T2D - medscape.com",
+      "description": "A DASH-style diet tailored for diabetes can lead to significant improvements in key glycemic biomarker levels among adults with type 2 diabetes (T2D).",
+      "url": "https://www.medscape.com/viewarticle/diabetes-tailored-dash-diet-improves-glycemic-control-type-2-2026a1000y7a",
+      "urlToImage": "https://img.medscapestatic.com/vim/live/professional_assets/medscape/images/thumbnail_library/gty_231206_healthy_diet_diabetes_800x450.jpg",
+      "publishedAt": "2026-09-15T13:51:46Z",
+      "content": "TOPLINE\r\nA secondary analysis of a trial found that the Dietary Approaches to Stop Hypertension for Diabetes (DASH4D) diet — a DASH-style diet tailored for diabetes — led to significant reductions in… [+3925 chars]"
+    },
+    {
+      "source": {
+        "id": null,
         "name": "Realclearhealth.com"
       },
       "author": "Joe Grogan",
@@ -265,6 +304,19 @@
       "urlToImage": "https://assets.realclear.com/images/62/625070_6_.jpeg",
       "publishedAt": "2026-09-15T13:01:30Z",
       "content": "The Food and Drug Administration cleared two more Alzheimer’s blood tests last month, the latest sign of how quickly Alzheimer’s science is accelerating.\r\nBut my career in Washington has taught me th… [+4640 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Conversation Africa"
+      },
+      "author": "Andrés Henao",
+      "title": "Dengue-carrying mosquitoes expand their reach into new territories – including Florida - The Conversation",
+      "description": "As dengue spreads further outside its normal tropical zones, doctors and patients need to know what to watch for.",
+      "url": "https://theconversation.com/dengue-carrying-mosquitoes-expand-their-reach-into-new-territories-including-florida-291837",
+      "urlToImage": "https://images.theconversation.com/files/759694/original/file-20260914-60-frndz1.jpg?ixlib=rb-4.1.1&rect=0%2C867%2C5300%2C2650&q=45&auto=format&w=1356&h=668&fit=crop",
+      "publishedAt": "2026-09-15T12:35:42Z",
+      "content": "The Tampa Bay Times reported the death of an elderly woman on Sept. 8, 2026. Her family says local doctors attributed her death to dengue fever, although the Florida Department of Health has not yet … [+5815 chars]"
     },
     {
       "source": {
@@ -334,28 +386,15 @@
     {
       "source": {
         "id": null,
-        "name": "Cambridge.org"
-      },
-      "author": null,
-      "title": "Reading and associations with brain health, cognition, well-being, and mental health - Cambridge University Press & Assessment",
-      "description": "Reading and associations with brain health, cognition, well-being, and mental health - Volume 56",
-      "url": "https://www.cambridge.org/core/journals/psychological-medicine/article/reading-and-associations-with-brain-health-cognition-wellbeing-and-mental-health/1A3565FA61831A975813113DE1AB2B09",
-      "urlToImage": "https://static.cambridge.org/covers/PSM_0_0_0/psychological_medicine.jpg?send-full-size-image=true",
-      "publishedAt": "2026-09-15T09:47:29Z",
-      "content": "Introduction\r\n While people have long been aware of the importance of prevention and early detection of physical health problems, only recently are they becoming aware that the same principles apply … [+26425 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "New York Post"
       },
       "author": "Justin Choi",
-      "title": "Researchers descend on cancer cluster community to find cause of deadly disease - Yahoo",
-      "description": "Environmental testing officially went underway in a wealthy Southern California community on Sunday after six cases of a rare cancer disease sparked massive...",
+      "title": "Researchers descend on cancer cluster community to find cause of deadly disease - nypost.com",
+      "description": "Environmental testing officially went underway in a wealthy Southern California community on Sunday after six cases of a rare cancer disease sparked massive concerns.",
       "url": "https://nypost.com/2026/09/14/us-news/researchers-collect-samples-in-cancer-cluster-community-to-find-cause-of-deadly-disease/",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/eccb464777b9c9383b635cf3e6ae618a2b498c2b4c03c02da0955fb749863ec4/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcalifornia_post_772%2F820c02bc1d05141bb2daf4cb0dca437c.jpg",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/09/141154908.jpg?quality=75&strip=all&w=1200",
       "publishedAt": "2026-09-15T03:28:00Z",
-      "content": "Additional environmental testing officially started in a wealthy Southern California community on Sunday after six cases of a rare cancer disease sparked massive concerns.\r\nCal State Fullerton studen… [+3044 chars]"
+      "content": "Additional environmental testing officially started in a wealthy Southern California community on Sunday after six cases of a rare cancer disease sparked massive concerns.\r\nCal State Fullerton studen… [+3047 chars]"
     },
     {
       "source": {
@@ -398,19 +437,6 @@
     },
     {
       "source": {
-        "id": "fox-news",
-        "name": "Fox News"
-      },
-      "author": null,
-      "title": "Common bedroom mistake could be quietly taking a toll on your health, experts say - Fox News",
-      "description": "A Tulane University study links sleeping with light on to higher risks of heart failure, atrial fibrillation, stroke and cardiovascular death.",
-      "url": "https://www.foxnews.com/health/common-bedroom-mistake-quietly-taking-toll-your-health-experts-say",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/09/couple-sleeping-nightlight.jpg",
-      "publishedAt": "2026-09-14T23:33:08Z",
-      "content": "A new study from Tulane University is raising fresh concerns about sleeping with a light on, linking nighttime light exposure to a higher risk of cardiovascular disease.\r\nResearchers found that expos… [+5913 chars]"
-    },
-    {
-      "source": {
         "id": null,
         "name": "WGAL Susquehanna Valley Pa."
       },
@@ -421,6 +447,19 @@
       "urlToImage": "https://kubrick.htvapps.com/htv-prod/images/2ef9a925-9f98-4ab3-9fed-0d96e36d0d91.png?crop=1.00xw%3A1.00xh%3B0%2C0&resize=1200%3A*",
       "publishedAt": "2026-09-14T22:36:00Z",
       "content": "LANCASTER COUNTY, Pa.Giant pharmacies have begun offering measles vaccines for walk-ins and scheduled appointments as cases continue to climb among unvaccinated individuals. \r\nNow, four cases of meas… [+3571 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "KMBC Kansas City"
+      },
+      "author": "Nick Sloan",
+      "title": "Jackson County health officials confirm measles case, identifies possible exposure locations - KMBC",
+      "description": "Jackson County Public Health confirmed a measles case and identified possible exposure locations in Lee’s Summit and Overland Park.",
+      "url": "https://www.kmbc.com/article/jackson-county-measles-case-exposure-lees-summit-overland-park/73727882",
+      "urlToImage": "https://kubrick.htvapps.com/htv-prod/images/3f2b44ac-0086-470c-96e2-547144f26507.jpg?crop=1.00xw%3A0.846xh%3B0%2C0&resize=1200%3A*",
+      "publishedAt": "2026-09-14T22:30:00Z",
+      "content": "JACKSON COUNTY, Mo.Health officials in Jackson County have confirmed a case of measles in the eastern portion of the county and are warning about possible exposures in Lee's Summit and Overland Park.… [+1445 chars]"
     },
     {
       "source": {
@@ -503,28 +542,15 @@
     {
       "source": {
         "id": null,
-        "name": "Nature.com"
+        "name": "Men's Journal"
       },
-      "author": null,
-      "title": "‘Multifunctional’ brain implant translates speech and gestures in real time - Nature",
-      "description": "A neural device uses artificial intelligence to read brain activity for intended words and gestures simultaneously.",
-      "url": "https://www.nature.com/articles/d41586-026-02895-6",
-      "urlToImage": "https://media.nature.com/lw1200/magazine-assets/d41586-026-02895-6/d41586-026-02895-6_53713270.jpg",
-      "publishedAt": "2026-09-14T16:27:54Z",
-      "content": "Braincomputer interfaces decode users brain signals.Credit: Kevin Frayer/Getty\r\nHuman communication relies on more than just talking; we nod, shrug, move our hands and point with our fingers. For peo… [+2711 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Science Daily"
-      },
-      "author": null,
-      "title": "Cancer is rising in younger adults. Faster biological aging may help explain why - Science Daily",
-      "description": "Cancer rates are rising in adults under 55, and new research suggests accelerated biological aging may be one piece of the puzzle. Scientists found that people from more recent generations tended to have bodies that appeared biologically older than those of e…",
-      "url": "https://www.sciencedaily.com/releases/2026/09/260913082200.htm",
-      "urlToImage": "https://www.sciencedaily.com/images/1920/female-face-aging.webp",
-      "publishedAt": "2026-09-14T14:47:42Z",
-      "content": "Cancer is strongly associated with age. The longer people live, the more opportunities their cells have to accumulate damage that can contribute to tumor growth. But cancer is increasingly being diag… [+10770 chars]"
+      "author": "Joseph Arangio",
+      "title": "Popular Morning Drink Linked to More Muscle and Less Body Fat in New Study - AOL.com",
+      "description": "Coffee drinkers may have another reason to appreciate their morning cup—and this one wouldn’t necessarily show up on the scale. A new European Journal of Nutrition study of 2,264 middle-aged Finnish adults found that people who drank more coffee tended to hav…",
+      "url": "https://www.mensjournal.com/health/popular-morning-drink-linked-to-more-muscle-and-less-body-fat-in-new-study",
+      "urlToImage": "https://hermes.media.static.aol.com/media/2026/09/14/0622d9fc-104d-3f5c-b11e-421345d4bc05/bbd46c1d-d2ea-424b-baff-a5da30664ebd.jpg",
+      "publishedAt": "2026-09-14T18:07:21Z",
+      "content": "Coffee drinkers may have another reason to appreciate their morning cupand this one wouldnt necessarily show up on the scale.\r\nA new European Journal of Nutrition study of 2,264 middle-aged Finnish a… [+2674 chars]"
     },
     {
       "source": {
@@ -542,6 +568,19 @@
     {
       "source": {
         "id": null,
+        "name": "Science Daily"
+      },
+      "author": null,
+      "title": "Scientists discover strange link between low vitamin D and pain - ScienceDaily",
+      "description": "Low vitamin D levels may make recovery from breast cancer surgery more painful, according to a study of 184 women undergoing mastectomy. Patients with vitamin D deficiency were three times more likely to experience moderate to severe pain during the first 24 …",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260914042053.htm",
+      "urlToImage": "https://www.sciencedaily.com/images/1920/hand-holding-vitamin-d-pill-in-sunlight.webp",
+      "publishedAt": "2026-09-14T12:54:41Z",
+      "content": "Low vitamin D levels may make recovery from breast cancer surgery more painful and increase the need for opioid painkillers, according to research published in Regional Anesthesia &amp; Pain Medicine… [+5143 chars]"
+    },
+    {
+      "source": {
+        "id": null,
         "name": "The Conversation Africa"
       },
       "author": "Andrew Bubak",
@@ -554,55 +593,29 @@
     },
     {
       "source": {
-        "id": "the-washington-post",
-        "name": "The Washington Post"
-      },
-      "author": "Netana Markovitz, MD",
-      "title": "Column | I’m a doctor. Here’s why I wouldn’t get a full-body MRI scan. - The Washington Post",
-      "description": "Celebrities sing their praises, but I’m not convinced the average person needs or should spend their money on one.",
-      "url": "https://www.washingtonpost.com/wellness/2026/09/14/im-doctor-heres-why-i-wouldnt-get-full-body-mri-scan/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/22HEUQ6KH56LOZGVM7LG4XJHTY.jpg&w=1440",
-      "publishedAt": "2026-09-14T11:32:47Z",
-      "content": "I keep seeing people promoting elective full-body MRI scans on social media, and have been thinking of getting one for some peace of mind. I am average risk and have no symptoms. Is it a good idea?\r\n… [+476 chars]"
-    },
-    {
-      "source": {
-        "id": "the-hill",
-        "name": "The Hill"
+        "id": null,
+        "name": "Newsnationnow.com"
       },
       "author": "Alicia Sitz",
-      "title": "Compound in blueberries may help muscles burn fat, study finds - The Hill",
+      "title": "Compound in blueberries may help muscles burn fat, study finds - NewsNation",
       "description": "A natural compound found in blueberries and grapes helped muscle cells burn stored fat in lab tests, researchers found.",
-      "url": "https://thehill.com/policy/healthcare/6087330-blueberries-help-muscles-burn-fat-study/",
-      "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2026/09/GettyImages-528099924-e1789382951579.jpg?w=1280",
-      "publishedAt": "2026-09-14T10:54:00Z",
-      "content": "Skip to content\r\nby Alicia Sitz - 09/14/26 6:54 AM ET\r\nby Alicia Sitz - 09/14/26 6:54 AM ET\r\n(NewsNation) — A natural compound found in blueberries, grapes and other berries could help muscles burn e… [+1372 chars]"
+      "url": "https://www.newsnationnow.com/health/pterostilbene-blueberries-muscle-fat-burning-study/",
+      "urlToImage": "https://www.newsnationnow.com/wp-content/uploads/sites/108/2026/09/GettyImages-528099924.jpg?w=1280",
+      "publishedAt": "2026-09-14T00:14:13Z",
+      "content": "(NewsNation) A natural compound found in blueberries, grapes and other berries could help muscles burn excess fat instead of storing it\r\nResearchers in Japan identified the compound, called pterostil… [+1260 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Food & Wine"
+        "name": "SciTechDaily"
       },
-      "author": "https://www.facebook.com/foodandwine",
-      "title": "The Popular Morning Drink Linked to More Muscle and Less Body Fat, According to a New Study - Food & Wine",
-      "description": "Love your morning coffee? A recent study found that people who drank more coffee tended to have more muscle mass and less body fat, even with similar BMIs. Researchers have a few theories about why, but they caution that coffee may not be the cause — and drin…",
-      "url": "https://www.foodandwine.com/coffee-muscle-mass-body-fat-study-12114824",
-      "urlToImage": "https://www.foodandwine.com/thmb/YRdTp2a5YsnBb4KrUUZr2EeqXhg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Coffee-Drinkers-Less-Fat-More-Muscle-Hormone-Differences-FT-DGTL0926-8cf9e8ede9f545789fae639c807b48c4.jpg",
-      "publishedAt": "2026-09-14T09:01:00Z",
-      "content": "If you look forward to your morning coffee, join the club. New research suggests the daily habit may be linked to differences in body composition. A recent study published in the European Journal of … [+6014 chars]"
-    },
-    {
-      "source": {
-        "id": "fox-news",
-        "name": "Fox News"
-      },
-      "author": "FOX News Videos",
-      "title": "Oncologist shares hidden warning signs of deadly female cancer - Yahoo",
-      "description": "Brian M. Slomovitz, M.D., director of gynecologic oncology at Mount Sinai Medical Center in Miami Beach, Florida, says ovarian cancer was once known as the “...",
-      "url": "https://www.foxnews.com/video/6405019754112",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/35685481622843497dae12a0ec1dc3b559d6264f73c10e61aa55383105c92f12/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fvideo.fbc.news.com%2Ff2e3c3c4c2c9b5201aaab883c10d4696.jpg",
-      "publishedAt": "2026-09-14T01:26:25Z",
-      "content": "Brian M. Slomovitz, M.D., director of gynecologic oncology at Mount Sinai Medical Center in Miami Beach, Florida, says ovarian cancer was once known as the \"silent killer,\" meaning it was often undet… [+40 chars]"
+      "author": null,
+      "title": "Scientists Resurrect 160-Million-Year-Old Molecules With Surprising Power Against Superbugs - SciTechDaily",
+      "description": "Ancient mammalian antimicrobial peptides revealed stronger bacteria-killing activity in some cases, offering clues for designing future treatments against resistant infections.",
+      "url": "https://scitechdaily.com/scientists-resurrect-160-million-year-old-molecules-with-surprising-power-against-superbugs/",
+      "urlToImage": null,
+      "publishedAt": "2026-09-13T21:44:53Z",
+      "content": "Scientists reconstructed antimicrobial peptides from mammalian ancestors dating back up to 160 million years and found that some ancient forms killed bacteria more effectively than modern versions. C… [+6382 chars]"
     },
     {
       "source": {
@@ -622,32 +635,6 @@
         "id": null,
         "name": "HuffPost"
       },
-      "author": "Ashley Broadwater",
-      "title": "Dentists Say This Beloved \"Healthy\" Snack Is Quietly Destroying Your Teeth - buzzfeed.com",
-      "description": "Thankfully, there are ways to reverse and prevent the damage.",
-      "url": "https://www.huffpost.com/entry/yogurt-tooth-decay-cavities_l_6a9865b4e4b0f5af0411c390",
-      "urlToImage": "https://img.buzzfeed.com/buzzfeed-static/static/2026-09/11/22/thumb/wdHaSWXwW.jpg?crop=2999:1570;1,0%26downsize=1250:*",
-      "publishedAt": "2026-09-13T17:31:01Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ScienceAlert"
-      },
-      "author": "David Nield",
-      "title": "You Can Mix Up Your Daily Steps And Still Lower Risk of Death, Research Shows - ScienceAlert",
-      "description": "We know, broadly speaking, that staying active keeps us healthy, and getting in a certain amount of steps each day is a simple way to go about it.",
-      "url": "https://www.sciencealert.com/you-can-mix-up-your-daily-steps-and-still-lower-risk-of-death-research-shows",
-      "urlToImage": "https://www.sciencealert.com/images/2026/09/TwoJoggers.jpg",
-      "publishedAt": "2026-09-13T13:00:51Z",
-      "content": "We know, broadly speaking, that staying active keeps us healthy, and getting in a certain amount of steps each day is a simple way to go about it.\r\nWhat's not as clear are the combinations of time, d… [+4683 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "HuffPost"
-      },
       "author": null,
       "title": "The Newest COVID Shot Is Here — Doctors Suggest The Best Time To Get It For The Most Protection - HuffPost",
       "description": "Who should get the vaccine, when to get it and more.",
@@ -659,41 +646,41 @@
     {
       "source": {
         "id": null,
-        "name": "HuffPost"
+        "name": "KSL.com"
       },
-      "author": null,
-      "title": "A Startling Percentage Of Americans Have Fatty Liver Disease — Here’s How Your Diet Can Prevent It - huffpost.com",
-      "description": "Perhaps what’s even more surprising is that less than 5% of people who have it actually know they have it.",
-      "url": "https://www.huffpost.com/entry/a-startling-percentage-of-americans-have-fatty-liver-disease-heres-how-your-diet-can-prevent-it-goog_l_6aa2e667e4b0ed72dee3e14d",
-      "urlToImage": "https://img.huffingtonpost.com/asset/6a96e9f01700008bf0d442a3.jpeg?cache=0e8zMJZMni&ops=500_281%2Cscalefit_1200_630",
-      "publishedAt": "2026-09-13T11:00:19Z",
-      "content": "Heres an alarming statistic: An estimated 25% of U.S. adults have metabolic dysfunction-associated steatotic liver disease (MASLD, formally known as fatty liver disease), making it the most common ch… [+6054 chars]"
+      "author": "Emily Ashcraft, KSL",
+      "title": "St. George hospital expands services for cancer, seeks to reduce helicopter response times - KSL.com",
+      "description": "Intermountain Health celebrated two expansions at the St. George Regional Hospital this week — one to its flight and ambulance services and anther to its cancer center.",
+      "url": "https://www.ksl.com/article/51622896/st-george-hospital-expands-services-for-cancer-seeks-to-reduce-helicopter-response-times",
+      "urlToImage": "https://img.ksl.com/slc/3201/320150/32015078.jpeg?filter=kslv2/responsive_story_lg",
+      "publishedAt": "2026-09-12T19:59:24Z",
+      "content": "ST. GEORGE Intermountain Health celebrated two expansions at the St. George Regional Hospital this week one to its flight and ambulance services and anther to its cancer center.\r\nA new emergency base… [+2760 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Https"
+        "name": "Schafferfh.com"
       },
-      "author": "Fellows, Helfenbein & Newnam Funeral Home",
-      "title": "Colin Jacob Richards Obituary - Visitation & Funeral Information - Fellows, Helfenbein & Newnam Funeral Home",
-      "description": "Share Memories and Support the Family.",
-      "url": "https://https://fhnfuneralhome.com/obituaries/colin-richards-2/",
-      "urlToImage": "https://cdn.f1connect.net/photo/tributes/t/9/r/1200x630/8482443/colin-richards-1789489936.jpeg",
-      "publishedAt": "2026-09-13T07:00:00Z",
+      "author": "Schaffer Funeral Home, Inc.",
+      "title": "Michael \"Mac\" A. McCarthy Obituary Sep 11, 2026 - Schaffer Funeral Home, Inc.",
+      "description": "Michael Anthony \"Mac\" McCarthy, 69, of Defiance, passed away unexpectedly on September 11, 2026. Mac was born on October 30, 1956 to Philip and Barbra (Brokaw) McCarthy in Defia...",
+      "url": "https://www.schafferfh.com/obituaries/michael-mac-mccarthy",
+      "urlToImage": "https://cdn.tukioswebsites.com/social/facebook/fb_3/5f4cb7ea-4e26-4b5a-99b7-31fa83778191/f74419bc8d9d2d0ffaa21f67842e2a4a_video_206058ea73703579fe605ebc6ea1c036",
+      "publishedAt": "2026-09-11T07:00:00Z",
       "content": null
     },
     {
       "source": {
-        "id": null,
-        "name": "The Boston Globe"
+        "id": "nbc-news",
+        "name": "NBC News"
       },
-      "author": null,
-      "title": "These parents didn’t know why their daughter was sick. They turned to AI to help solve the mystery. - The Boston Globe",
-      "description": "First they sequenced the entire genomes of all four members of their family. Then they got down to work.",
-      "url": "https://www.bostonglobe.com/2026/09/12/metro/ai-chatgpt-health-rare-disease/",
-      "urlToImage": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/v2/A75XIMMPRW32SLJENMMZG5F3WM.JPG?auth=5676f17a84edca84f61472106d45b622dd07e81a947682f1ecf76a5b60b464da&width=1440",
-      "publishedAt": "2026-09-12T10:27:43Z",
-      "content": "Doctors said Olivias frequent bouts of illness were likely because she was isolated from other children during the coronavirus pandemic. But Eaton couldnt shake the feeling something else was going o… [+14761 chars]"
+      "author": "Barbara Mantel",
+      "title": "Too much light during nighttime sleep may damage the heart, new research finds - NBC News",
+      "description": "Too much light exposure during sleep may lead to potentially harmful changes in the structure and function of the heart, a new study suggests.",
+      "url": "https://www.nbcnews.com/health/heart-health/heart-damage-light-exposure-too-much-at-night-research-rcna596695",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-09/260909-night-light-vl-145p-bcbb7a.jpg",
+      "publishedAt": "2026-09-10T21:26:59Z",
+      "content": "Exposure to light during nighttime sleep may lead to potentially harmful changes in the structure and function of the heart, according to a study published Wednesday in the European Heart Journal.\r\nP… [+5218 chars]"
     },
     {
       "source": {
@@ -736,6 +723,19 @@
     },
     {
       "source": {
+        "id": "newsweek",
+        "name": "Newsweek"
+      },
+      "author": "Daniella Gray",
+      "title": "Scientists tracked girls exposed to Tylenol before birth. A pattern emerged - Yahoo",
+      "description": "The lead author told Newsweek the findings highlight the importance of paying closer attention to pregnancy exposures.",
+      "url": "https://www.newsweek.com/girls-exposed-to-tylenol-in-the-womb-showed-surprising-changes-study-finds-12415925",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/41a98730084d08bcb0583b1a50bc132fb17235c5d52c1540317c0e3212f6afce/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fnewsweek_sports_200%2F70ce301cedac5e78c66f9eca9b08df35.png",
+      "publishedAt": "2026-09-10T08:12:44Z",
+      "content": "Scientists tracking children's development from infancy into adolescence noticed a surprising trend among some girls in their study.\r\nThe clue pointed back to something their mothers had taken during… [+5421 chars]"
+    },
+    {
+      "source": {
         "id": "cbs-news",
         "name": "CBS News"
       },
@@ -750,15 +750,28 @@
     {
       "source": {
         "id": null,
+        "name": "Slate Magazine"
+      },
+      "author": "Amar Rewari",
+      "title": "A Famous Actress Just Put Her Face on an Expensive, Controversial Medical Test. You Know What? I Don’t Blame Her. - Slate Magazine",
+      "description": "There are a few things you need to know about whole-body MRIs.",
+      "url": "https://slate.com/technology/2026/09/busy-philipps-whole-body-mri-cancer-people-magazine.html",
+      "urlToImage": "https://compote.slate.com/images/23af7c64-ebbc-4969-9c13-6c3300c4a0c7.jpeg?crop=1560%2C1040%2Cx0%2Cy0&width=1560",
+      "publishedAt": "2026-09-09T18:06:00Z",
+      "content": "Sign up for the Slatest to get the most insightful analysis, criticism, and advice out there, delivered to your inbox daily.\r\nThese days, its not uncommon for a patient to ask me whether they should … [+9674 chars]"
+    },
+    {
+      "source": {
+        "id": null,
         "name": "Nature.com"
       },
       "author": null,
-      "title": "A serpin–myeloid axis in pancreatic cancer heterogeneity and immune evasion - Nature",
-      "description": "SERPINE1 and SERPINB2-driven fibrin-rich niches locally programme immunosuppressive macrophages and exclude T cells, enabling spatially organized immune evasion in pancreatic ductal carcinoma.",
-      "url": "https://www.nature.com/articles/s41586-026-11002-8",
-      "urlToImage": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-11002-8/MediaObjects/41586_2026_11002_Fig1_HTML.png",
-      "publishedAt": "2026-09-09T16:07:20Z",
-      "content": "Selection and prioritization of extracellular tumour-derived genes\r\nCandidate extracellular tumour-derived genes were identified using a stepwise filtering and prioritization strategy integrating sin… [+62132 chars]"
+      "title": "An operational perturbation proteomics-based virtual cell model - Nature",
+      "description": "Temporal protein-abundance measurements from systematically perturbed breast cancer cell lines were generated to develop ProteinTalks, a virtual cell model that functions as an operational tool for diverse drug discovery tasks.",
+      "url": "https://www.nature.com/articles/s41586-026-11001-9",
+      "urlToImage": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-11001-9/MediaObjects/41586_2026_11001_Fig1_HTML.png",
+      "publishedAt": "2026-09-09T16:31:12Z",
+      "content": "<li>Bunne, C. et al. How to build the virtual cell with artificial intelligence: priorities and opportunities. Cell187, 70457063 (2024).\r\nArticle \r\n CAS \r\n PubMed \r\n PubMed Central \r\nGoogle Scholar \r… [+12253 chars]"
     },
     {
       "source": {
@@ -772,19 +785,6 @@
       "urlToImage": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-10876-y/MediaObjects/41586_2026_10876_Fig1_HTML.png",
       "publishedAt": "2026-09-09T16:07:20Z",
       "content": "Mice\r\nAll mouse handling and maintenance was performed according to the regulations of the Institutional Animal Care and Use Committee of the Albert Einstein College of Medicine (protocol 00001393). … [+36554 chars]"
-    },
-    {
-      "source": {
-        "id": "cnn",
-        "name": "CNN"
-      },
-      "author": "Jacqueline Howard",
-      "title": "First on CNN: Routine blood testing may hold hidden clues to colorectal cancer before age 45 - CNN",
-      "description": "When you have your blood drawn in a routine doctor’s visit, some of the markers in your blood that get tested could hold unexpected clues to how likely you are to develop colorectal cancer at a young age, new research suggests.",
-      "url": "https://www.cnn.com/2026/09/09/health/colorectal-cancer-before-45-liver-enzymes-wellness",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1463489972.jpg?c=16x9&q=w_800,c_fill",
-      "publishedAt": "2026-09-09T10:30:29Z",
-      "content": "When you have blood drawn in a routine doctors visit, some of the markers that get tested could hold unexpected clues to how likely you are to develop colorectal cancer at a young age, new research s… [+12022 chars]"
     }
   ]
 }

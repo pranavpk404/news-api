@@ -3,9 +3,22 @@
   "country": "us",
   "category": "health",
   "mode": "country",
-  "fetched_at": "2026-09-19T12:04:27.618652+00:00",
-  "articles_count": 61,
+  "fetched_at": "2026-09-19T16:50:16.532654+00:00",
+  "articles_count": 64,
   "articles": [
+    {
+      "source": {
+        "id": "usa-today",
+        "name": "USA Today"
+      },
+      "author": "Daryl Austin",
+      "title": "Inside the myth of the ‘superfood’ – and what you should really be eating - USA Today",
+      "description": "If no food actually possesses nutritional superpowers, what should we be eating? Here's what to know.",
+      "url": "https://www.usatoday.com/story/life/health-wellness/2026/09/18/superfood-myth-explained/91768462007/",
+      "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/09/15/USAT/91768503007-getty-images-847484328.jpg?crop=2120,1193,x0,y0&width=2120&height=1193&format=pjpg&auto=webp",
+      "publishedAt": "2026-09-18T12:53:00Z",
+      "content": "Walk through a grocery store or scroll through social media and youll encounter plenty of foods described as super. Youll be told that blueberries protect the brain, turmeric fights inflammation, kal… [+4446 chars]"
+    },
     {
       "source": {
         "id": "the-washington-post",
@@ -18,6 +31,19 @@
       "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/CIX3ZHBILGBTTN7YIRPZ5NZIT4_size-normalized.jpg&w=1440",
       "publishedAt": "2026-09-18T10:32:40Z",
       "content": "The first time Varda Yoran, 97, saw a phantom landscape, she was in a hospital wheelchair, waiting to be taken back to her room.\r\nSuddenly, I saw myself physically moved, Yoran, a Brooklyn-based scul… [+160 chars]"
+    },
+    {
+      "source": {
+        "id": "the-washington-post",
+        "name": "The Washington Post"
+      },
+      "author": "Erica Sloan",
+      "title": "Some drugs can lead to additional prescriptions, putting older adults at risk - The Washington Post",
+      "description": "A drug side effect can be mistaken for a new issue, leading to a second prescription that may not be necessary — and could be harmful.",
+      "url": "https://www.washingtonpost.com/wellness/2026/09/18/some-drugs-can-lead-additional-prescriptions-putting-older-adults-risk/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/GG6GCB4C4CRWJDSSM5SH5LQY3I.jpg&w=1440",
+      "publishedAt": "2026-09-18T10:10:35Z",
+      "content": "If you take multiple medications, you might be unknowingly taking one drug to treat the side effects of another.\r\nIn a new study published in the BMJ that looked at the prescription data of older adu… [+447 chars]"
     },
     {
       "source": {
@@ -35,15 +61,41 @@
     {
       "source": {
         "id": null,
-        "name": "Financial Times"
+        "name": "The Philadelphia Inquirer"
       },
-      "author": null,
-      "title": "Medical AI has a proof problem - Financial Times",
-      "description": "The technology’s advances have not yet translated into big improvements in real-life care",
-      "url": "https://www.ft.com/content/34319b00-f874-4119-aa28-8376d81e7190?syn-25a6b1a6\\\\u003d1",
-      "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F0a6c5032-2cfb-41fc-8a8f-11ba26d90c1d.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
-      "publishedAt": "2026-09-18T04:00:10Z",
-      "content": "Get 2 months free with an annual subscription at was $59.88now $49. Access to eight surprising articles a day, hand-picked by FT editors. For seamless reading, access content via the FT Edit page on … [+91 chars]"
+      "author": "Gillian McGoldrick",
+      "title": "‘Babies are dying’: How Pennsylvania’s measles outbreak changed the vaccine mindset of this Amish country midwife - Inquirer.com",
+      "description": "While top officials publicly spar over whether Pennsylvanians are dying of measles, a midwife in Amish country believes the outbreak is so bad she wants to be able to carry the MMR vaccine herself.",
+      "url": "https://www.inquirer.com/news/pennsylvania/pennsylvania-measles-outbreak-vaccine-midwife-20260918.html",
+      "urlToImage": "https://www.inquirer.com/resizer/v2/EFSELUPKCBE2TCX6QQKZVLEB6I.jpg?auth=417c7901a700d2136d9feb27033a60db0c35569a7c2e2994a0bcf1fb59c51ad8&width=760&height=507&smart=true",
+      "publishedAt": "2026-09-18T09:01:01Z",
+      "content": "Listen to article 0:00 min\r\nLANCASTER Amish families peer into Roberta Devers Honda Passport as she drives between prenatal checkups along the rolling hills of Lancaster County. They ask her increasi… [+10568 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Kate Knibbs",
+      "title": "Why AI Isn’t Likely to Wipe Out Humanity With Bioweapons - WIRED",
+      "description": "Of all the threats presented by uncontrollable artificial intelligence, scientists say death by plague ranks low.",
+      "url": "https://www.wired.com/story/why-ai-bioweapons-wont-wipe-out-humanity/",
+      "urlToImage": "https://media.wired.com/photos/6aa943ce7410d0aed42be028/191:100/w_1280,c_limit/091526-Bioweapon%20AI.jpg",
+      "publishedAt": "2026-09-18T09:00:00Z",
+      "content": "It is impossible for AI to access a fully autonomous lab and autonomously build a virus today because fully autonomous labs do not exist yet, says Olivia Scharfman, a biotechnology fellow at the tech… [+3552 chars]"
+    },
+    {
+      "source": {
+        "id": "nbc-news",
+        "name": "NBC News"
+      },
+      "author": "The Associated Press",
+      "title": "Fiji declares an HIV emergency and expands testing as cases surge - NBC News",
+      "description": "Fiji has declared an HIV national emergency after data showed one in 60 people in the South Pacific island nation was estimated to be infected.",
+      "url": "https://www.nbcnews.com/world/asia/fiji-declares-hiv-emergency-expands-testing-cases-surge-rcna598488",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-09/260918-hiv-fiji-rs-3a5798.jpg",
+      "publishedAt": "2026-09-18T06:25:00Z",
+      "content": "WELLINGTON, New Zealand Fiji has declared an HIV national emergency after data showed one in 60 people in the South Pacific island nation was estimated to be infected.\r\nThe government says it is incr… [+2489 chars]"
     },
     {
       "source": {
@@ -61,15 +113,67 @@
     {
       "source": {
         "id": null,
-        "name": "WPVI-TV"
+        "name": "NBC 10 Philadelphia"
       },
-      "author": "6abc Digital Staff",
-      "title": "Philadelphia health department warns of possible measles exposure at CHOP - 6abc Philadelphia",
-      "description": "The Philadelphia Department of Public Health is warning patients and visitors about a possible measles exposure at Children's Hospital of Philadelphia.",
-      "url": "https://6abc.com/post/philadelphia-health-department-warns-possible-measles-exposure-chop/19845051/",
-      "urlToImage": "https://cdn.abcotvs.com/dip/images/19829439_091426-cc-adobe-measles-2-img.jpg?w=1600",
-      "publishedAt": "2026-09-17T23:43:37Z",
-      "content": "PHILADELPHIA (WPVI) -- The Philadelphia Department of Public Health is warning patients and visitors about a possible measles exposure at Children's Hospital of Philadelphia.\r\nHealth officials said t… [+1077 chars]"
+      "author": "Emily Rose Grassi",
+      "title": "Possible measles exposure reported at the NICU at CHOP, officials say - NBC10 Philadelphia",
+      "description": "Health officials say that a possible measles exposure was reported in the NICU at Children's Hospital of Philadelphia last week.",
+      "url": "https://www.nbcphiladelphia.com/news/local/measles-exposure-childrens-hospital-of-philadelphia-chop-nicu/4465182/",
+      "urlToImage": "https://media.nbcphiladelphia.com/2026/02/GettyImages-1328334873.jpg?quality=85&strip=all&resize=1200%2C675",
+      "publishedAt": "2026-09-17T23:48:35Z",
+      "content": "A possible measles exposure was reported at the Children's Hospital of Philadelphia last week, according to the city's Department of Public Health. \r\nOfficials said that the possible exposure happene… [+1154 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Prevention.com"
+      },
+      "author": "Arricca Elin SanSone, Madeleine Haase",
+      "title": "Experts Share How Many Steps You Really Need to Walk Each Day for Weight Loss - Prevention",
+      "description": "Wondering what your daily step count should be if you're looking to lose weight? Experts say there are multiple factors to consider.",
+      "url": "https://www.prevention.com/health/a73781018/daily-step-count-lose-weight/",
+      "urlToImage": "https://hips.hearstapps.com/hmg-prod/images/3706d9e3-30ec-48b5-83ca-91442ef0d898.jpeg?crop=0.888888888889xw:1xh;center,top&resize=1200:*",
+      "publishedAt": "2026-09-17T23:46:35Z",
+      "content": "Walking is often recommended as an approachable and enjoyable exercise for people looking to lose weight. But if youre wondering what your daily step count should be to support weight loss, the answe… [+8689 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Minnesota Public Radio News"
+      },
+      "author": "Hannah Yang",
+      "title": "Rabies confirmed in Brown County cow. MDH recommends shots for 9 people who were exposed - mprnews.org",
+      "description": "MDH recommended nine people obtain rabies post-exposure prophylaxis as they may have been exposed to saliva from the infected animal. The disease is extremely dangerous and life-threatening to both humans and animals.",
+      "url": "https://www.mprnews.org/story/2026/09/17/confirmed-case-of-rabies-in-brown-county-cow-nine-people-treated",
+      "urlToImage": "https://img.apmcdn.org/cfee733eb3da19a4e0859f5838ada57accdd3ef1/widescreen/6e91a8-20230724-annies-project-03-2000.jpg",
+      "publishedAt": "2026-09-17T23:05:00Z",
+      "content": "The Minnesota Board of Animal Health confirmed that a cow in Brown County tested positive for rabies last week after it was euthanized.\r\nThe board said the owner of the heifer noticed the animal beha… [+5289 chars]"
+    },
+    {
+      "source": {
+        "id": "the-hill",
+        "name": "The Hill"
+      },
+      "author": "Nathaniel Weixel",
+      "title": "Pennsylvania asks CDC for emergency assistance amid RFK Jr. clash over measles - The Hill",
+      "description": "Pennsylvania’s health department has started the process of requesting emergency assistance from the Centers for Disease Control and Prevention (CDC) to help control a deadly and rapidly spreading measles outbreak, according to a letter sent to the CDC from s…",
+      "url": "https://thehill.com/policy/healthcare/6096824-pennsylvania-measles-outbreak-cdc-emergency-request/",
+      "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2026/09/AP26202749960158-e1789680682988.jpg?w=1280",
+      "publishedAt": "2026-09-17T21:43:00Z",
+      "content": "Skip to content\r\nPennsylvania’s health department has started the process of requesting emergency assistance from the Centers for Disease Control and Prevention (CDC) to help control a deadly and rap… [+3259 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Parade"
+      },
+      "author": "Beth Ann Mayer",
+      "title": "Oncologist Warns: Check Food Labels for Sodium Nitrates to Lower Cancer Risk - aol.com",
+      "description": "Plus, delicious alternatives to try.",
+      "url": "https://parade.com/health/top-food-label-to-avoid-according-to-oncologist",
+      "urlToImage": "https://hermes.media.static.aol.com/media/2026/09/18/0c2ba865-e592-3206-9396-a617724c611e/92633f05-45a6-41c9-adf6-439c04a61923.jpg",
+      "publishedAt": "2026-09-17T21:25:00Z",
+      "content": "It can seem like the grocery store is full of healthy foods that can loweror at least not contribute toyour risk of developing cancer. Take a look at the front of a label, and youll see claims like n… [+5430 chars]"
     },
     {
       "source": {
@@ -95,6 +199,19 @@
       "url": "https://www.9news.com/article/news/nation-world/teen-died-brain-eating-amoeba-water-feature-community-center/507-c0169759-d15e-42b4-b04b-cc9436f516b2",
       "urlToImage": null,
       "publishedAt": "2026-09-17T21:03:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "RochesterFirst"
+      },
+      "author": "RochesterFirst",
+      "title": "Rochester airport travelers urged to monitor for measles following potential exposure - RochesterFirst",
+      "description": null,
+      "url": "https://www.rochesterfirst.com/news/health/rochester-airport-travelers-urged-to-monitor-for-measles-following-potential-exposure/",
+      "urlToImage": null,
+      "publishedAt": "2026-09-17T20:48:29Z",
       "content": null
     },
     {
@@ -135,19 +252,6 @@
       "urlToImage": "https://www.cidrap.umn.edu/themes/custom/cidrap_theme/images/cidrap-og-image.jpg",
       "publishedAt": "2026-09-17T19:20:00Z",
       "content": "Lya_Cattel / iStock\r\nAir sampling at four US airports in 2023 and 2024 detected SARS-CoV-2, the virus that causes COVID-19, in over 98% of samples and influenza A in over 17%, according to a study pu… [+2575 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "BBC News"
-      },
-      "author": null,
-      "title": "Andy Burnham urged to set dementia waiting-time target - BBC",
-      "description": "An 18‑week referral‑to‑treatment target has been backed by England's former national cancer director.",
-      "url": "https://www.bbc.com/news/articles/c50m3glzppgpo",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/fef0/live/bdc56440-b2b9-11f1-ad9d-efc12ace03e0.jpg",
-      "publishedAt": "2026-09-17T19:13:59Z",
-      "content": "She said: \"I think the National Health Service and more generally all of us have stuck our heads in the sand about it, and it's time we started saying, yes, we should have a similar mission, and we s… [+57 chars]"
     },
     {
       "source": {
@@ -216,19 +320,6 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "Wpsu.org"
-      },
-      "author": "Sydney Roach",
-      "title": "Gov. Josh Shapiro calls on CDC to recognize measles-associated deaths in Pa. outbreak - WPSU",
-      "description": "Two more people have died in Pennsylvania’s growing measles outbreak, bringing the total number of measles related deaths to four — but, a public federal dashboard still shows no measles deaths so far this year.",
-      "url": "https://radio.wpsu.org/2026-09-17/gov-josh-shapiro-calls-on-cdc-to-recognize-measles-associated-deaths-in-pa-outbreak",
-      "urlToImage": "https://npr.brightspotcdn.com/dims4/default/0a69900/2147483647/strip/true/crop/6000x3150+0+0/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F98%2F1f%2F9346f8c4414e87d5b3f2586b930b%2Fjosh-shapiro-penn-stater.png",
-      "publishedAt": "2026-09-17T17:18:00Z",
-      "content": "Two more people have died in Pennsylvanias growing measles outbreak, bringing the total number of measles-related deaths to four but, a public federal dashboard still shows no measles deaths so far t… [+2926 chars]"
-    },
-    {
-      "source": {
         "id": "fox-news",
         "name": "Fox News"
       },
@@ -252,6 +343,19 @@
       "urlToImage": "https://www.pressdemocrat.com/wp-content/uploads/2026/09/Be_Well-Fall_Vaccine_Advice_11722-1.jpg?w=2000&h=1337",
       "publishedAt": "2026-09-17T16:35:00Z",
       "content": "The new mRNA influenza vaccine, reportedly a more effective inoculation against seasonal flu, could become available this week at CVS and Walgreens, according to the healthcare retail giants.\r\nThe va… [+7084 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "TOI Science Desk",
+      "title": "Why don't we remember being babies? The science behind it - The Times of India",
+      "description": "Experiments & Discoveries News: Most people cannot remember their first birthday, their first steps or the days they spent learning to speak. Even though those years shaped the rest .",
+      "url": "https://timesofindia.indiatimes.com/science/discovery/why-dont-we-remember-being-babies-the-science-behind-it/articleshow/134316455.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-134316784,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-09-17T16:20:00Z",
+      "content": "Follow Us On Social Media\r\nBirdsong, pitch askewHardik cannot bowl 10 overs: Coach Gambhir explains Nitish Kumar Reddys ODI selectionMP shocker: Man attacks wife at hospital for birthing daughterTari… [+1389 chars]"
     },
     {
       "source": {
@@ -294,6 +398,19 @@
     },
     {
       "source": {
+        "id": null,
+        "name": "The Boston Globe"
+      },
+      "author": null,
+      "title": "What you need to know about this year’s fall vaccines - bostonglobe.com",
+      "description": "Rates of seasonal respiratory illnesses remain low but are creeping up.",
+      "url": "https://www.bostonglobe.com/2026/09/17/metro/covid-flu-rsv-vaccines-2026/",
+      "urlToImage": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/v2/OPT7ULWIQJH6X2YEK363OGYYIQ.jpg?auth=2a22ebc157327257d5352e826b11f2cc6ba7ef9e12f3f05eada152cfa5f6cc73&width=1440",
+      "publishedAt": "2026-09-17T13:10:00Z",
+      "content": "As fall approaches, so does the risk of seasonal illness, though infection rates in Massachusetts and across the country remain very low, according to Sept. 11 data from the US Centers for Disease Co… [+7184 chars]"
+    },
+    {
+      "source": {
         "id": "the-washington-post",
         "name": "The Washington Post"
       },
@@ -317,19 +434,6 @@
       "urlToImage": "https://www.eatingwell.com/thmb/PiIB6LLJYyes68dHaF8Y0r-f60E=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/The-5-Worst-Foods-for-Liver-Health-According-to-Dietitians-e587b4bdef4947bea1b248382a0689af.jpg",
       "publishedAt": "2026-09-17T12:00:00Z",
       "content": "Every second of every day, your liver works hard, supporting digestion, storing nutrients, fighting infections and filtering toxins. Some foods put extra strain on the liver and, over time, can incre… [+5874 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ScienceAlert"
-      },
-      "author": "Esra Öz",
-      "title": "Just Smelling Coffee May Change Your Mood And Brain Activity - ScienceAlert",
-      "description": "You stumble into the kitchen half awake and start brewing coffee.",
-      "url": "https://www.sciencealert.com/just-smelling-coffee-may-change-your-mood-and-brain-activity",
-      "urlToImage": "https://www.sciencealert.com/images/2026/01/diabetes_coffee_genes_header.jpg",
-      "publishedAt": "2026-09-17T11:01:08Z",
-      "content": "You stumble into the kitchen half awake and start brewing coffee.\r\nBefore you have taken a single sip, the aroma fills the room. The morning seems more manageable.\r\nBut what just happened?\r\nNo caffei… [+5417 chars]"
     },
     {
       "source": {
@@ -464,6 +568,19 @@
     {
       "source": {
         "id": null,
+        "name": "WKRC TV Cincinnati"
+      },
+      "author": "Rebecca Smith & Kevin Delaney, WKRC",
+      "title": "Local group raises awareness of brain aneurysm signs as survivor shares story - WKRC",
+      "description": "Brain aneurysms can be fatal, and in most cases there are not many ways to prevent them. A local group is raising awareness of signs and symptoms.",
+      "url": "https://local12.com/health/health-updates/local-group-raises-awareness-brain-aneurysm-signs-survivor-shares-story-carly-nunn-university-cincinnati-medical-center-warning-befast-mayfield-cincinnati-local-12-wkrc-health-news",
+      "urlToImage": "https://local12.com/resources/media2/16x9/1280/1320/center/90/ae43dfbe-2d98-42a3-8126-e4d0643f4dcd-videoframe_22566.png",
+      "publishedAt": "2026-09-17T01:06:24Z",
+      "content": "CINCINNATI (WKRC) Brain aneurysms can be fatal and sometimes debilitating, and, in most cases, there are not many ways to prevent them. But a local group is working to raise awareness about the warni… [+2192 chars]"
+    },
+    {
+      "source": {
+        "id": null,
         "name": "11Alive.com WXIA"
       },
       "author": "11alive.com",
@@ -489,16 +606,16 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "WRAL.com"
+        "id": "fox-news",
+        "name": "Fox News"
       },
-      "author": "WRAL staff, Avery Davis",
-      "title": "Tuberculosis case confirmed at high school in Cumberland Co., more than 260 others possibly exposed - WRAL",
-      "description": "Officials said a case of tuberculosis was confirmed in someone at Seventy-First High School. They have identified more than 260 people so far who may have had close contact with the person who was infected.",
-      "url": "https://www.wral.com/news/local/seventy-first-high-school-tuberculosis-case-september-2026/",
-      "urlToImage": "https://images.wral.com/02e3e411-f107-45da-b285-45b6aed85e74?w=1200&h=630&height=630",
-      "publishedAt": "2026-09-16T23:05:05Z",
-      "content": "Cumberland County confirmed a case of tuberculosis at\r\nSeventy-First High School and notified more than 250 people they were exposed\r\nto the disease. \r\nCounty health officials said they were notified… [+2597 chars]"
+      "author": "Melissa Rudy",
+      "title": "Popular drugs for bone health linked to significantly lower Alzheimer's risk - AOL.com",
+      "description": "A Hong Kong study of 121,492 older adults links nitrogen-containing bisphosphonates for osteoporosis to a 16% lower Alzheimer's disease risk.",
+      "url": "https://www.foxnews.com/health/popular-drugs-bone-health-linked-significantly-lower-alzheimers-risk",
+      "urlToImage": "https://hermes.media.static.aol.com/media/2026/09/16/1439eee0-b9c8-3db6-a9ad-cc993a2f22fd/8bde9ac8-942d-40dd-8db4-0deb91a0e7c3.jpg",
+      "publishedAt": "2026-09-16T21:13:24Z",
+      "content": "Commonly used osteoporosis drugs were linked to a lower risk of Alzheimers disease and other types of dementia in a large study of older adults.\r\nAmong a group of 121,492 adults age 60 or older, the … [+3672 chars]"
     },
     {
       "source": {
@@ -542,32 +659,6 @@
     {
       "source": {
         "id": null,
-        "name": "Men's Journal"
-      },
-      "author": "Joseph Arangio",
-      "title": "Study Reveals Higher-Carb Diet Improved Biological Age in Older Adults After 4 Weeks - aol.com",
-      "description": "A four-week diet experiment in older adults produced a result that cuts against one of longevity culture’s favorite assumptions: the diet with the clearest improvement in a calculated “biological age” score wasn’t low-carb. In a randomized controlled trial pu…",
-      "url": "https://www.mensjournal.com/health/older-adults-changed-their-diet-for-4-weeks-and-researchers-found-a-surprising-result",
-      "urlToImage": "https://hermes.media.static.aol.com/media/2026/09/16/b9278332-9c8d-3d3c-a8a9-027722a441db/6806b839-f484-4208-a47c-904cc5a13272.jpg",
-      "publishedAt": "2026-09-16T18:52:59Z",
-      "content": "A four-week diet experiment in older adults produced a result that cuts against one of longevity cultures favorite assumptions: the diet with the clearest improvement in a calculated biological age s… [+2715 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Nature.com"
-      },
-      "author": null,
-      "title": "Topographic structure and function of locus coeruleus noradrenaline neurons - Nature",
-      "description": "Dorsal and ventral noradrenergic neurons in the locus coeruleus form topographic subpopulations whose projection patterns and activity encode choice switching, reward-prediction errors and disregard of reward-predictive cues, supporting flexible learning beha…",
-      "url": "https://www.nature.com/articles/s41586-026-11026-0",
-      "urlToImage": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-11026-0/MediaObjects/41586_2026_11026_Fig1_HTML.png",
-      "publishedAt": "2026-09-16T18:44:22Z",
-      "content": "All surgical and experimental procedures were in accordance with the National Institutes of Health Guide for the Care and Use of Laboratory Animals and approved by the Animal Care and Use Committees … [+127195 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "News-Medical.Net"
       },
       "author": null,
@@ -594,6 +685,19 @@
     {
       "source": {
         "id": null,
+        "name": "CBS17.com"
+      },
+      "author": "CBS 17",
+      "title": "Tuberculosis case confirmed at Fayetteville high school; more than 260 possibly exposed: Officials - CBS 17",
+      "description": null,
+      "url": "https://www.cbs17.com/news/local-news/cumberland-county-news/tuberculosis-case-confirmed-at-fayetteville-high-school-more-than-260-possibly-exposed-officials/",
+      "urlToImage": null,
+      "publishedAt": "2026-09-16T16:55:25Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
         "name": "Newsnationnow.com"
       },
       "author": "Josie Fischels",
@@ -603,19 +707,6 @@
       "urlToImage": "https://s.yimg.com/lo/mysterio/api/bdcac7e958fd05334d1e837afda108582853d1ad8ce324709c7538a4671a294c/lightyear_networkapi/resizefill_w900_h474%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fnewsnation_articles_600%2F3037d7bcf3a212ecc91684b6d61cf1cf.jpg",
       "publishedAt": "2026-09-16T16:41:54Z",
       "content": "(NewsNation) A drug many hospitals rely on to treat serious infections could come with its own risks, a new study suggests.\r\nThe antibiotic, cefepime, is used to treat infections like pneumonia, urin… [+1284 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The Boston Globe"
-      },
-      "author": null,
-      "title": "Want to lower your risk of dementia? You don’t need to wait for a blood test. - The Boston Globe",
-      "description": "Doctors say blood tests that might predict Alzheimer's aren't ready yet, and there are other ways to lower your risk.",
-      "url": "https://www.bostonglobe.com/2026/09/16/metro/dementia-prevention-blood-test-alternatives/",
-      "urlToImage": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/v2/S2XZBI7XQVFUSSVN4LGZLX4UK4.jpg?auth=1e0c8a9912978dc0f138ed3703b2b71750f472791fd977da9f218bf459a1c892&width=1440",
-      "publishedAt": "2026-09-16T16:41:00Z",
-      "content": "For now, the worried well should not be getting those tests outside of a research study, stressed testing expert Nicholas Ashton, of Arizonas Banner Health.\r\nInstead, focus on addressing potentially … [+3669 chars]"
     },
     {
       "source": {
@@ -672,28 +763,15 @@
     {
       "source": {
         "id": null,
-        "name": "The Conversation Africa"
+        "name": "Umn.edu"
       },
-      "author": "Chloe Casey",
-      "title": "‘Ferritin face’ is trending – but can your skin really reveal low iron? - theconversation.com",
-      "description": "TikTok has turned a blood test into the latest beauty hack. Here’s what low iron can really do to your skin, and what it can’t.",
-      "url": "https://theconversation.com/ferritin-face-is-trending-but-can-your-skin-really-reveal-low-iron-289833",
-      "urlToImage": "https://images.theconversation.com/files/759453/original/file-20260913-50-o2n6f2.jpg?ixlib=rb-4.1.1&rect=0%2C358%2C4886%2C2443&q=45&auto=format&w=1356&h=668&fit=crop",
-      "publishedAt": "2026-09-16T14:46:48Z",
-      "content": "Forget jade rollers, LED masks and salmon sperm facials. The latest skincare trend taking over TikTok is a blood test.\r\nFerritin face is the social media term for the claim that low iron levels leave… [+3581 chars]"
-    },
-    {
-      "source": {
-        "id": "business-insider",
-        "name": "Business Insider"
-      },
-      "author": "Julia Pugachevsky",
-      "title": "A neuroscientist and psychiatrist shares 4 simple habits to protect brain aging - Business Insider",
-      "description": "Dr. Gary Small said walking every day, cutting back on ultraprocessed foods, and prioritizing sleep all help reduce Alzheimer's risk.",
-      "url": "https://www.businessinsider.com/neuroscientist-habits-reducing-alzheimers-risk-2026-9#article",
-      "urlToImage": "https://i.insider.com/6aaa9bd66794a2984cfc9590?width=1200&format=jpeg",
-      "publishedAt": "2026-09-16T14:30:00Z",
-      "content": "Throughout a long career in researching the brain and Alzheimer's disease, Dr. Gary Small picked up a few longevity habits of his own.\r\n\"When you're in this field for so many years, it's hard to resi… [+6049 chars]"
+      "author": null,
+      "title": "CIDRAP Op-Ed: HHS is asking what to call vaccine recommendations. You have 4 days to weigh in. - CIDRAP",
+      "description": null,
+      "url": "https://www.cidrap.umn.edu/childhood-vaccines/cidrap-op-ed-hhs-asking-what-call-vaccine-recommendations-you-have-4-days-weigh",
+      "urlToImage": "https://www.cidrap.umn.edu/sites/default/files/styles/layout_large/public/article/Filling%20out%20form%20on%20laptop.jpg?itok=ujxLXUx8",
+      "publishedAt": "2026-09-16T14:19:26Z",
+      "content": "On a Monday in late August, two weeks after the executive order on childhood vaccines, the Department of Health and Human Services (HHS) published a request for information in the Federal Register. I… [+11159 chars]"
     },
     {
       "source": {
@@ -737,19 +815,6 @@
     {
       "source": {
         "id": null,
-        "name": "Studyfinds.com"
-      },
-      "author": "StudyFinds Analysis",
-      "title": "Reading Linked To Lower Stress, Better Brain Health - StudyFinds",
-      "description": "A major research review finds reading for pleasure linked to lower stress, less loneliness, and slower brain aging.",
-      "url": "https://studyfinds.com/reading-linked-lower-stress-better-brain-health/",
-      "urlToImage": "https://studyfinds.com/wp-content/uploads/2025/01/Reading-book-scaled.jpg",
-      "publishedAt": "2026-09-15T15:40:01Z",
-      "content": "(Photo by PeopleImages.com - Yuri A on Shutterstock)\r\n<ul><li>A new editorial in Psychological Medicine links reading for pleasure to lower stress, more empathy, and less loneliness in adults.</li><l… [+7514 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "The Conversation Africa"
       },
       "author": "Andrés Henao",
@@ -765,19 +830,6 @@
         "id": "the-washington-post",
         "name": "The Washington Post"
       },
-      "author": "Leana S. Wen",
-      "title": "Opinion | This preventative surgery might just save women from deadly cancer - The Washington Post",
-      "description": "There is no effective screening for ovarian cancer, but this procedure can help prevent it.",
-      "url": "https://www.washingtonpost.com/opinions/2026/09/15/removing-fallopian-tubes-can-help-prevent-ovarian-cancer/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/SF7I7GMD7VA4HBS4OXNJ6NJ5D4.jpg&w=1440",
-      "publishedAt": "2026-09-15T10:07:58Z",
-      "content": "Heres a life-saving fact you may not know: Nearly all fatal ovarian cancers start not in the ovaries, but in the fallopian tubes the ducts that carry eggs from the ovaries to the uterus. Removing the… [+126 chars]"
-    },
-    {
-      "source": {
-        "id": "the-washington-post",
-        "name": "The Washington Post"
-      },
       "author": "Netana Markovitz, MD",
       "title": "Column | I’m a doctor. Here’s why I wouldn’t get a full-body MRI scan. - The Washington Post",
       "description": "Celebrities sing their praises, but I’m not convinced the average person needs or should spend their money on one.",
@@ -785,19 +837,6 @@
       "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/22HEUQ6KH56LOZGVM7LG4XJHTY.jpg&w=1440",
       "publishedAt": "2026-09-14T17:00:00Z",
       "content": "I keep seeing people promoting elective full-body MRI scans on social media, and have been thinking of getting one for some peace of mind. I am average risk and have no symptoms. Is it a good idea?\r\n… [+476 chars]"
-    },
-    {
-      "source": {
-        "id": "associated-press",
-        "name": "Associated Press"
-      },
-      "author": null,
-      "title": "Ebola outbreak in Congo spreads to a 7th province - AP News",
-      "description": "The Ebola outbreak in eastern Congo has now spread to seven provinces in the country, local authorities said. It’s the fastest-growing outbreak on record. The governor of the northwestern province of Sud-Ubangi, Jean-Rene Galekwa Vundawe, said in a statement …",
-      "url": "https://apnews.com/article/congo-ebola-africa-spread-ituri-58a2b25c752eaa8344ff16564a8e3547",
-      "urlToImage": "https://dims.apnews.com/dims4/default/f3a16b7/2147483647/strip/true/crop/6000x3998+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F27%2F93%2F00cb46e390bb818e2d541ed90d27%2Fb83559e02e4241269524a40824e9e439",
-      "publishedAt": "2026-09-11T22:02:00Z",
-      "content": "KINSHASA, Congo (AP) The Ebola outbreak in Congo, the worlds fastest-growing outbreak of the disease on record, has now spread to seven provinces in the African country, local authorities said. And i… [+4135 chars]"
     }
   ]
 }

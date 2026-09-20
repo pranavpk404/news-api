@@ -3,7 +3,7 @@
   "country": "us",
   "category": "health",
   "mode": "country",
-  "fetched_at": "2026-09-20T21:56:15.373176+00:00",
+  "fetched_at": "2026-09-20T23:41:09.815564+00:00",
   "articles_count": 62,
   "articles": [
     {
@@ -112,6 +112,19 @@
     },
     {
       "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": null,
+      "title": "Women turn to testosterone for low sex drive as doctors confront treatment ‘experimentation’ - Fox News",
+      "description": "Dr. Kudzai Dombo reveals the insurance denials and dosing guesswork women face seeking testosterone therapy as FDA regulators weigh new access.",
+      "url": "https://www.foxnews.com/health/women-turn-testosterone-low-sex-drive-doctors-confront-treatment-experimentation",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/09/older-woman-attractive.jpg",
+      "publishedAt": "2026-09-19T13:00:42Z",
+      "content": "When women ask their doctors about taking testosterone to help with menopause symptoms, they can run into insurance rejections, confusing workarounds and dosing guesswork since no testosterone produc… [+4042 chars]"
+    },
+    {
+      "source": {
         "id": "cbs-news",
         "name": "CBS News"
       },
@@ -139,28 +152,15 @@
     {
       "source": {
         "id": null,
-        "name": "Eatingwell.com"
+        "name": "PsyPost"
       },
-      "author": "https://www.facebook.com/EatingWell/",
-      "title": "The 5 Worst Breakfast Foods for Kidney Health, According to Dietitians - EatingWell",
-      "description": "Discover the worst breakfast foods for kidney health, including processed meats and sugary options, according to registered dietitians.",
-      "url": "https://www.eatingwell.com/worst-breakfast-foods-for-kidney-health-12122786",
-      "urlToImage": "https://www.eatingwell.com/thmb/h3CbCj68Uz58YWXBO6j1SYCTq24=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/The-TK-Worst-Breakfast-Foods-for-Kidney-Health-According-to-Dietitians-76a3978ae7894802b94af42d7cc95a15.jpg",
-      "publishedAt": "2026-09-19T12:00:00Z",
-      "content": "Your kidneys may be small, but they have a big job. These bean-shaped organs help to filter waste from your blood, balance fluids and essential minerals, regulate blood pressure and assist in red blo… [+7671 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "New York Post"
-      },
-      "author": "Rachel Sacks",
-      "title": "I’m a geriatrician — 8 things I never assume are ‘just getting older’ - New York Post",
-      "description": "Some telltale signs of aging deserve a closer look as they may not be directly caused by age.",
-      "url": "https://nypost.com/2026/09/19/health/im-a-geriatrician-8-things-i-never-assume-are-just-getting-older/",
-      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/09/newspress-collage-8d4ok094e-1789735235566.jpg?quality=75&strip=all&1789720856&w=1200",
-      "publishedAt": "2026-09-19T11:59:00Z",
-      "content": "Growing older comes with plenty of changes, from forgetting a name to moving a little slower but not every change should be chalked up to age.\r\nThat’s the message from geriatric specialist Dr. Anita … [+4125 chars]"
+      "author": "Karina Petrova",
+      "title": "What neuroscientists thought was a biological signature for IQ might actually be socioeconomic privilege - PsyPost",
+      "description": "A large analysis of children's brain scans reveals that socioeconomic status is the primary factor shaping brain organization. The findings suggest that brain patterns previously linked to intelligence actually reflect environmental factors like stress and sl…",
+      "url": "https://www.psypost.org/neighborhood-socioeconomics-shape-childhood-brain-development-more-than-any-othe/",
+      "urlToImage": "https://www.psypost.org/wp-content/uploads/2025/10/brain-scan.jpg",
+      "publishedAt": "2026-09-19T11:26:15Z",
+      "content": "A child’s neighborhood and socioeconomic background appear to shape the function and structure of their developing brain more powerfully than any other behavioral or environmental factor. Brain activ… [+7143 chars]"
     },
     {
       "source": {
@@ -321,6 +321,19 @@
     {
       "source": {
         "id": null,
+        "name": "NPR"
+      },
+      "author": "Regina G. Barber",
+      "title": "Why we should all be bookmaxxing : Short Wave - NPR",
+      "description": "Remember your mom, dad and teachers telling you to read because it’s good for you? Well, a compilation of the latest research shows they were right. “Reading is one of the simplest and most accessible activities for actually supporting cognitive performance, …",
+      "url": "https://www.npr.org/2026/09/18/nx-s1-5968677/why-we-should-all-be-bookmaxxing",
+      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3376x1899+1+0/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F0a%2Feb%2F7ffbdec04e7fb6d4579ea868b554%2Fbdb46504-83ac-402a-abb5-76a05a987ba4.jpg",
+      "publishedAt": "2026-09-19T00:01:05Z",
+      "content": "Remember your mom, dad and teachers telling you to read because its good for you? Well, a compilation of the latest research shows they were right. Reading is one of the simplest and most accessible … [+754 chars]"
+    },
+    {
+      "source": {
+        "id": null,
         "name": "Abcnews.com"
       },
       "author": "ERICK KAGLAN Associated Press",
@@ -347,14 +360,27 @@
     {
       "source": {
         "id": null,
-        "name": "Abcnews.com"
+        "name": "ScienceAlert"
       },
-      "author": "ABC News - Breaking News, Latest News and Videos",
-      "title": "FDA examines use of testosterone prescriptions for menopause - ABC News - Breaking News, Latest News and Videos",
-      "description": null,
-      "url": "https://abcnews.com/Health/fda-examines-testosterone-prescriptions-menopause/story?id\\\\u003d136570571",
-      "urlToImage": null,
-      "publishedAt": "2026-09-18T22:26:23Z",
+      "author": "Carly Cassella",
+      "title": "This One Habit at Night Could Silently Change The Shape of Your Heart - ScienceAlert",
+      "description": "A major study of more than 10,000 adults has found that exposure to light at night is associated with subtle yet measurable signs of cardiac damage.",
+      "url": "https://www.sciencealert.com/this-one-habit-at-night-could-silently-change-the-shape-of-your-heart",
+      "urlToImage": "https://www.sciencealert.com/images/2026/09/sleep-light.jpg",
+      "publishedAt": "2026-09-18T22:00:12Z",
+      "content": "A major study of more than 10,000 adults has found that exposure to light at night is associated with subtle yet measurable signs of cardiac damage.\r\nCompared to participants who slept in near darkne… [+5106 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Cureus.com"
+      },
+      "author": null,
+      "title": "Severe Hyponatremia as an Early Manifestation of Peritransplant Abscess After Living Donor Kidney Transplantation: A Case Report - Cureus",
+      "description": "Electrolyte abnormalities are common after kidney transplantation, but severe hyponatremia as an early sign of occult peritransplant infection is rare. A 68-year-old woman underwent living unrelated kidney transplantation and was discharged on postoperative d…",
+      "url": "https://www.cureus.com/articles/526081-severe-hyponatremia-as-an-early-manifestation-of-peritransplant-abscess-after-living-donor-kidney-transplantation-a-case-report",
+      "urlToImage": "https://assets.cureus.com/uploads/figure/file/2153253/article_river_beba0510ad3511f1b8eb4bfa26582ea6-Figure-1A---Resized_Revised.png",
+      "publishedAt": "2026-09-18T20:57:02Z",
       "content": null
     },
     {
@@ -375,13 +401,13 @@
         "id": "fox-news",
         "name": "Fox News"
       },
-      "author": "Louis Casiano",
-      "title": "Third person dies after mosquito is reportedly trapped on plane to Germany in 'airport malaria' phenomenon - yahoo.com",
-      "description": "Three people have died from so-called \"airport malaria\" after an infected mosquito was reportedly transported aboard a flight to Frankfurt Airport in Germany...",
+      "author": null,
+      "title": "Third person dies after mosquito is reportedly trapped on plane to Germany in 'airport malaria' phenomenon - Fox News",
+      "description": "Three people have died from so-called \"airport malaria\" after an infected mosquito was reportedly transported aboard a flight to Frankfurt Airport in Germany.",
       "url": "https://www.foxnews.com/world/third-person-dies-mosquito-trapped-plane-germany-airport-malaria-phenomenon",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/205f314387cc0602daae7d69a9d58693cfa86ad524faaf687689c9352ae4bc48/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ffox_news_text_979%2Feecb8c5bfe71d6cdec430c927b6064f0.jpg",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/08/mosquito-bite-arm.jpg",
       "publishedAt": "2026-09-18T20:21:55Z",
-      "content": "Three people have died from malaria after a mosquito was transported aboard a flight to Germany, according to reports.\r\nSeveral people were rushed to a hospital amid a rare outbreak of the tropical d… [+2291 chars]"
+      "content": "Three people have died from malaria after a mosquito was transported aboard a flight to Germany, according to reports.\r\nSeveral people were rushed to a hospital amid a rare outbreak of the tropical d… [+1771 chars]"
     },
     {
       "source": {
@@ -412,19 +438,6 @@
     {
       "source": {
         "id": null,
-        "name": "New York Post"
-      },
-      "author": "McKenzie Beard",
-      "title": "The childhood hobby that leads to lower stress, fewer mental health problems and better brain function as adults - New York Post",
-      "description": "It may be time to take this old-school pastime off the shelf.",
-      "url": "https://nypost.com/2026/09/18/health/childhood-hobby-tied-to-better-mental-health-brain-function-as-adults/",
-      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/09/newspress-collage-gc5gq9awe-1789754964064.jpg?quality=75&strip=all&1789740624&w=1200",
-      "publishedAt": "2026-09-18T18:41:00Z",
-      "content": "It may be time to take this old-school pastime off the shelf.\r\nA growing body of research suggests that a once-beloved childhood hobby, now increasingly falling by the wayside, is linked to better me… [+5035 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "Nature.com"
       },
       "author": null,
@@ -437,16 +450,16 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "New York Post"
+        "id": "ars-technica",
+        "name": "Ars Technica"
       },
-      "author": "Katie Jerkovich",
-      "title": "Stanford geniuses create lab rats with half-human brains - New York Post",
-      "description": "Scientists from Stanford University have successfully transplanted lab-grown human brain tissue into specially bred mice, opening up new research into brain disorders.",
-      "url": "https://nypost.com/2026/09/18/us-news/stanford-scientists-grow-human-brain-tissue-inside-lab-mice/",
-      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/09/newspress-collage-9jka2x8wa-1789753335979.jpg?quality=75&strip=all&1789738995&w=1200",
-      "publishedAt": "2026-09-18T17:44:00Z",
-      "content": "Scientists at Stanford University successfully transplanted lab-grown human brain tissue into mice, opening up new research into brain disorders.\r\nIn the study published in Nature, researchers said l… [+4048 chars]"
+      "author": "Jacek Krywko",
+      "title": "Finding the cells that put our brain to sleep - Ars Technica",
+      "description": "Rare cells with widespread connectivity seem to be able to trigger sleep.",
+      "url": "https://arstechnica.com/science/2026/09/finding-the-cells-that-put-our-brain-to-sleep/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-623682073-1152x648.jpg",
+      "publishedAt": "2026-09-18T17:49:50Z",
+      "content": null
     },
     {
       "source": {
@@ -499,19 +512,6 @@
       "urlToImage": "https://images.theconversation.com/files/760251/original/file-20260916-50-hdmc7y.jpg?ixlib=rb-4.1.1&rect=0%2C251%2C3770%2C1885&q=45&auto=format&w=1356&h=668&fit=crop",
       "publishedAt": "2026-09-18T12:37:06Z",
       "content": "Learning another language is a highly complex mental activity. It requires people to remember words, distinguish unfamiliar sounds, recognize patterns, work out grammatical rules and retrieve the rig… [+5676 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "menshealth.com"
-      },
-      "author": "Ben Court",
-      "title": "Andrew Huberman on Protocols, Peak Performance, and Why ’Longevity’ Is Pathetic - menshealth.com",
-      "description": "With his new book, 'Protocols,' the neuroscientist is expanding on the principles that made his podcast a global sensation. Just don’t call him an optimizer.",
-      "url": "https://www.menshealth.com/health/a73773211/andrew-huberman-protocols-interview/",
-      "urlToImage": "https://hips.hearstapps.com/hmg-prod/images/6f5a97c5-cb28-47a2-8225-b8cae48af708.jpg?crop=0.999333333333xw:1xh;center,top&resize=1200:*",
-      "publishedAt": "2026-09-18T12:00:00Z",
-      "content": "SPORTING BLACK TRACK pants, a black T-shirt, and Adidas Busenitz skate shoes, Andrew Huberman is prepping for his next set inside his airy and bright gym in Venice Beach, Los Angeles. The room has a … [+24149 chars]"
     },
     {
       "source": {
@@ -581,15 +581,15 @@
     {
       "source": {
         "id": null,
-        "name": "NBC 10 Philadelphia"
+        "name": "Phl17.com"
       },
-      "author": "Emily Rose Grassi",
-      "title": "Possible measles exposure reported at the NICU at CHOP, officials say - NBC10 Philadelphia",
-      "description": "Health officials say that a possible measles exposure was reported in the NICU at Children's Hospital of Philadelphia last week.",
-      "url": "https://www.nbcphiladelphia.com/news/local/measles-exposure-childrens-hospital-of-philadelphia-chop-nicu/4465182/",
-      "urlToImage": "https://media.nbcphiladelphia.com/2026/02/GettyImages-1328334873.jpg?quality=85&strip=all&resize=1200%2C675",
-      "publishedAt": "2026-09-17T23:48:35Z",
-      "content": "A possible measles exposure was reported at the Children's Hospital of Philadelphia last week, according to the city's Department of Public Health. \r\nOfficials said that the possible exposure happene… [+1154 chars]"
+      "author": "PHL17.com",
+      "title": "Possible measles exposure reported at Children’s Hospital of Philadelphia - PHL17.com",
+      "description": null,
+      "url": "https://phl17.com/phl17-news/health-officials-inform-of-possible-measles-exposure-at-childrens-hospital-of-philadelphia/",
+      "urlToImage": null,
+      "publishedAt": "2026-09-17T23:28:37Z",
+      "content": null
     },
     {
       "source": {
@@ -685,19 +685,6 @@
     {
       "source": {
         "id": null,
-        "name": "WKRC TV Cincinnati"
-      },
-      "author": "Rebecca Smith & Kevin Delaney, WKRC",
-      "title": "Local group raises awareness of brain aneurysm signs as survivor shares story - WKRC",
-      "description": "Brain aneurysms can be fatal, and in most cases there are not many ways to prevent them. A local group is raising awareness of signs and symptoms.",
-      "url": "https://local12.com/health/health-updates/local-group-raises-awareness-brain-aneurysm-signs-survivor-shares-story-carly-nunn-university-cincinnati-medical-center-warning-befast-mayfield-cincinnati-local-12-wkrc-health-news",
-      "urlToImage": "https://local12.com/resources/media2/16x9/1280/1320/center/90/ae43dfbe-2d98-42a3-8126-e4d0643f4dcd-videoframe_22566.png",
-      "publishedAt": "2026-09-16T21:00:51Z",
-      "content": "CINCINNATI (WKRC) Brain aneurysms can be fatal and sometimes debilitating, and, in most cases, there are not many ways to prevent them. But a local group is working to raise awareness about the warni… [+2192 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "News-Medical.Net"
       },
       "author": null,
@@ -707,6 +694,19 @@
       "urlToImage": "https://www.news-medical.net/image-handler/picture/2017/1/Digital_illustration_of_liver_in_colour_background-Liya_Graphics_0fff2ea2f60c4e71b4991068b748916f-620x480.jpg",
       "publishedAt": "2026-09-16T18:34:00Z",
       "content": "Researchers at University of California San Diego School of Medicine have published the first study to define early-onset cirrhosis caused by metabolic dysfunction-associated steatotic liver disease … [+4972 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Nature.com"
+      },
+      "author": null,
+      "title": "Developmental xenocortication using human-derived organoids in mice - Nature",
+      "description": "Xenocortication with human neurons enables circuit- and behaviour-level analysis of neurodevelopment in mice.",
+      "url": "https://www.nature.com/articles/s41586-026-11032-2",
+      "urlToImage": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-11032-2/MediaObjects/41586_2026_11032_Fig1_HTML.png",
+      "publishedAt": "2026-09-16T15:51:35Z",
+      "content": "Genetically encoded cortical depletion\r\nEmx1-cre (JAX, B6.129S2-Emx1tm1(cre)Krj/J), Esco2fl/fl (JAX, B6N.129S-Esco2tm1.1Ge/J) and C57BL SCID (JAX, B6.Cg-Prkdcscid/SzJ) mice were used to generate the … [+86834 chars]"
     },
     {
       "source": {

@@ -3,21 +3,73 @@
   "country": "us",
   "category": "business",
   "mode": "country",
-  "fetched_at": "2026-09-23T17:59:24.728664+00:00",
+  "fetched_at": "2026-09-23T21:05:04.393147+00:00",
   "articles_count": 60,
   "articles": [
     {
       "source": {
         "id": null,
-        "name": "Yahoo Entertainment"
+        "name": "MarketWatch"
       },
-      "author": "Grace O'Donnell",
-      "title": "Stock market today: Dow slips, Nasdaq drifts higher as oil falls, AI trade powers market - Yahoo Finance",
-      "description": "US stocks steadied on Tuesday after confidence in artificial intelligence and falling oil prices spurred a rally on Wall Street.",
-      "url": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-september-22-nasdaq-dow-sp-500-080625961.html",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/81a9c9ae907c8a0ac2dae97a319e158d40b777c7577e398992090233f64723eb/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-09%2F37f22e80-6f8b-4044-abe4-f5cd6fdce5b9",
-      "publishedAt": "2026-09-22T18:40:42Z",
-      "content": "The \"Magnificent Seven\" tech group consisting of Apple (AAPL), Alphabet (GOOGL, GOOG), Microsoft (MSFT), Amazon (AMZN), Meta (META), Tesla (TSLA), and Nvidia (NVDA) is back in the driver's seat.\r\nThe… [+1022 chars]"
+      "author": "Isabel Wang, Tomi Kilgore, Victor Reklaitis, Jamie Chisholm, Steve Goldstein, Nora Redmond",
+      "title": "Stock Market News, Sept. 22, 2026: Nasdaq logs fresh record as chip stocks extend rally, while Dow sheds 185 points as bank shares face pressure - MarketWatch",
+      "description": "Follow all the latest U.S. market action for Tuesday here.",
+      "url": "https://www.marketwatch.com/livecoverage/stock-market-today-dow-s-p-500-nasdaq-steady-start-oil-prices-rise-chipmakers-ease-rally",
+      "urlToImage": "https://images.mktw.net/im-51746529/social",
+      "publishedAt": "2026-09-22T20:22:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "cbs-news",
+        "name": "CBS News"
+      },
+      "author": "Mary  Cunningham",
+      "title": "Apple settlement offers eligible iPhone owners up to $95. Here is how to file a claim. - CBS News",
+      "description": "The claims window is open until Dec. 21, 2026. To file a claim, iPhone users must enter basic personal info and their iPhone's serial number.",
+      "url": "https://www.cbsnews.com/news/apple-settlement-iphone-siri-claim/",
+      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2023/10/13/5120f124-d3ff-4782-937b-ceb7c37279ba/thumbnail/1200x630/afc8984d330bb59914bd16bef4fe8f2c/iphone-15-pro-max-cameras.jpg",
+      "publishedAt": "2026-09-22T19:49:16Z",
+      "content": "The claim window is now open for an Apple settlement announced earlier this year, giving certain iPhone users the chance to get up to $95.\r\nApple agreed to pay $250 million to settle claims that it m… [+2792 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Contessa Brewer",
+      "title": "Royal Caribbean nears $3 billion deal to take 50% equity stake in Sandals - CNBC",
+      "description": "Royal Caribbean has been trying to diversify beyond cruises and become a leader overall in vacations.",
+      "url": "https://www.cnbc.com/2026/09/22/royal-caribbean-sandals.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108366440-1790105281800-gettyimages-2161029164-AFP_363W4FY.jpeg?v=1790105475&w=1920&h=1080",
+      "publishedAt": "2026-09-22T19:33:37Z",
+      "content": "Royal Caribbean is nearing a $3 billion deal to take a 50% equity stake in Sandals, according to a person familiar with the matter.\r\nThe person, who spoke on the condition of anonymity to discuss tal… [+1003 chars]"
+    },
+    {
+      "source": {
+        "id": "axios",
+        "name": "Axios"
+      },
+      "author": "Josephine Walker",
+      "title": "Trump backs ban on diesel exports - Axios",
+      "description": "Economists say the move could benefit America in the short term but would likely raise prices globally.",
+      "url": "https://www.axios.com/2026/09/22/trump-diesel-exports-ban",
+      "urlToImage": "https://images.axios.com/3a5EpbdFRD_NBOJnbStWBtPZPKA=/0x61:7358x4200/1366x768/2026/09/22/1790101354672.jpeg",
+      "publishedAt": "2026-09-22T18:26:35Z",
+      "content": "Thought bubble, via Axios' Ben Geman: The politics of $6.50 diesel are quickly overwhelming a broad consensus among oil market analysts that an export ban could ultimately backfire.\r\nZoom in: When as… [+2497 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Lucas Ropek",
+      "title": "OpenAI launches GPT-6 Sol and Luna, boasting lower cost and fewer mistakes - TechCrunch",
+      "description": "OpenAI is launching two new models, which it says are cut from the same cloth as Astra.",
+      "url": "https://techcrunch.com/2026/09/22/openai-launches-gpt-6-sol-and-luna/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/09/openai-getty.jpg?resize=1200,800",
+      "publishedAt": "2026-09-22T18:00:00Z",
+      "content": "Earlier this month, OpenAI launched GPT-6 Astra, which it heralded as its most powerful and capable model yet, and the “worlds best model” for a variety of activities, including computer work and cod… [+2294 chars]"
     },
     {
       "source": {
@@ -34,16 +86,16 @@
     },
     {
       "source": {
-        "id": "usa-today",
-        "name": "USA Today"
+        "id": null,
+        "name": "Yahoo Entertainment"
       },
-      "author": "Keith Laing",
-      "title": "Where the US EV market stands a year after Trump ended tax credits - USA Today",
-      "description": "President Donald Trump and Republicans in killed U.S. EV credits one year ago. Here's a look at what's happened in the industry since then.",
-      "url": "https://www.usatoday.com/story/cars/shopping/evs/2026/09/22/ev-sales-year-after-trump-ended-tax-credits/91887066007/",
-      "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/09/01/USAT/91564489007-20260831-160108.jpg?crop=2252,1267,x0,y1367&width=2252&height=1267&format=pjpg&auto=webp",
-      "publishedAt": "2026-09-22T17:41:00Z",
-      "content": "<ul><li>The federal government's $7,500 EV tax credit was eliminated on September 30, 2025.</li><li>U.S. EV sales were down nearly 24% in the first half of 2026 compared to the same period in 2025.</… [+6234 chars]"
+      "author": "Brian Sozzi",
+      "title": "McDonald's has 1 shot to turn around its dreadful year - Yahoo Finance",
+      "description": "McDonald's has one final shot this year to supersize its stock price at its investor day.",
+      "url": "https://finance.yahoo.com/markets/stocks/article/mcdonalds-has-1-shot-to-turn-around-its-dreadful-year-164554149.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/a66b9593a2047683908f5b0c3fb394a309724b2ad0ddd792d5f22952668f5b65/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-09%2F8e717893-d511-45a2-9bf3-e8c870602fdd",
+      "publishedAt": "2026-09-22T16:45:54Z",
+      "content": "McDonald's (MCD) has one final shot this year to supersize its stock price.\r\nAnd that Hail Mary toss will happen in Chicago on Wednesday at a closely watched investor day.\r\n\"We think the Sep 23 Inves… [+2681 chars]"
     },
     {
       "source": {
@@ -51,12 +103,25 @@
         "name": "The Verge"
       },
       "author": "Emma Roth",
-      "title": "Anthropic launches Claude Opus 5.5 with stricter safeguards for cybersecurity - The Verge",
-      "description": "Anthropic is launching Claude Opus 5.5 with improvements to behaviors that contribute to rogue AI hacks.",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/998868/anthropic-claude-opus-5-5-cybersecurity",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK269_ANTHROPIC_2_D.webp?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "publishedAt": "2026-09-22T16:30:00Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nClaude Opus 5.5 comes with improvements to certain behaviors, like attempting to escape testing environments.\r\nClaude Opus 5.5 comes with improvements to certain… [+2894 chars]"
+      "title": "Andreessen Horowitz is launching an ‘academy’ with no homework and partnerships with Palantir, Google, and Meta - theverge.com",
+      "description": "Venture capital firm Andreessen Horowitz is launching an “academy” designed to serve as a pipeline for students to build or start a Silicon Valley startup.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/998813/andreessen-horowitz-ai-academy",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STK483_EDUCATION_B.jpg?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200",
+      "publishedAt": "2026-09-22T16:34:08Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Horowitz Andreessen Academy trades degrees and homework for stints at tech companies.\r\nThe Horowitz Andreessen Academy trades degrees and homework for stints… [+2761 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Hollywood Reporter"
+      },
+      "author": "Ari Emanuel, Seija Rankin, Editor",
+      "title": "Inside Ari Emanuel's Earliest Days in Hollywood: Memoir Excerpt - The Hollywood Reporter",
+      "description": "In an exclusive excerpt from Emanuel's memoir 'Roll the Calls,' he details his time in the CAA mailroom, writing, \"Sometimes it feels as if the yeller is actually getting off, as if they’re a textbook sadist, and sometimes it feels like basic revenge, because…",
+      "url": "http://www.hollywoodreporter.com/lifestyle/arts/inside-ari-emanuels-earliest-days-hollywood-memoir-excerpt-1236707236/",
+      "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2026/09/BRIGITTE-LACOMBE-ARI-EMANUEL.jpg.jpeg?crop=0px%2C105px%2C5000px%2C2800px&resize=1440%2C810",
+      "publishedAt": "2026-09-22T16:31:43Z",
+      "content": "One of Ari Emanuel‘s first appearances in the pages of The Hollywood Reporter came in our venerated Next Gen feature. Emanuel, then a 33-year-old agent at ICM Partners, was a member of the class of 1… [+11744 chars]"
     },
     {
       "source": {
@@ -86,6 +151,71 @@
     },
     {
       "source": {
+        "id": "the-hill",
+        "name": "The Hill"
+      },
+      "author": "Kyler Swaim",
+      "title": "Pasta sold at Walmart locations nationwide recalled over listeria concerns - The Hill",
+      "description": "Pasta sold at Walmart locations nationwide is being recalled over possible listeria contamination, according to a notice posted by the Food and Drug Administration.",
+      "url": "https://thehill.com/homenews/state-watch/6104240-walmart-gias-foods-pasta-recall-listeria-fda/",
+      "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2026/05/6a0f496adc5d62.02216598.jpeg?w=1280",
+      "publishedAt": "2026-09-22T16:08:00Z",
+      "content": "Skip to content\r\nby Kyler Swaim - 09/22/26 12:08 PM ET\r\nby Kyler Swaim - 09/22/26 12:08 PM ET\r\nBENTONVILLE, Ark. (KNWA/KFTA) — Pasta sold at Walmart locations nationwide is being recalled over possib… [+1391 chars]"
+    },
+    {
+      "source": {
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
+      },
+      "author": "WSJ",
+      "title": "Gap Is Getting Into the Boy-Band Business - WSJ",
+      "description": null,
+      "url": "https://www.wsj.com/business/retail/gap-is-getting-into-the-boy-band-business-4ab0ac16",
+      "urlToImage": null,
+      "publishedAt": "2026-09-22T15:56:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Barron's"
+      },
+      "author": "Naomi Buchanan",
+      "title": "A Bad Day for Bank Stocks Is Killing the Dow - Barron's",
+      "description": "The Dow, S&P 500, and Nasdaq were mixed as the stock market reacted to falling oil prices as hopes rise for a reopening of the Strait of Hormuz. The Nasdaq hit a record.",
+      "url": "https://www.barrons.com/livecoverage/stock-market-news-today-092226",
+      "urlToImage": "https://images.barrons.com/im-56521966",
+      "publishedAt": "2026-09-22T15:45:00Z",
+      "content": "The Dow Jones Industrial Average was trading lower thanks to bank stock weakness.\r\nThe blue-chip index dropped 0.5%, or 232 points. Goldman Sachs and JPMorgan Chase were the two biggest stocks weighi… [+330 chars]"
+    },
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": "Al Jazeera Staff",
+      "title": "Dozens of people sue GLP-1 drug companies over alleged vision loss - Al Jazeera",
+      "description": "More than 90 lawsuits against GLP-1 companies claim rare eye condition resulted from diabetes and weight loss drugs.",
+      "url": "https://www.aljazeera.com/news/2026/9/22/dozens-sue-glp-1-drug-companies-over-vision-loss-allegations",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/09/ap_6ab27724983d1-1790080804.jpg?resize=1920%2C1440",
+      "publishedAt": "2026-09-22T15:35:43Z",
+      "content": "Dozens of people have filed lawsuits in the United States against GLP-1 companies, which make popular weight-loss drugs like Ozempic and Mounjaro, claiming their products caused a rare condition that… [+3377 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gadgetreview.com"
+      },
+      "author": null,
+      "title": "Amazon Drones Are Loud Enough to Hear Over Your TV: Why Suburbs Are Fighting Amazon’s Air-Corridor Expansion - Gadget Review",
+      "description": "Amazon Prime Air drones deliver in 30 minutes in Richardson, TX, but residents report persistent noise and privacy concerns under active flight corridors.",
+      "url": "https://www.gadgetreview.com/amazon-drones-are-loud-enough-to-hear-over-your-tv-why-suburbs-are-fighting-amazons-air-corridor-expansion",
+      "urlToImage": "https://www.gadgetreview.com/wp-content/uploads/Amazon-Drones-Are-Fast-scaled.jpg",
+      "publishedAt": "2026-09-22T15:34:43Z",
+      "content": "Residents in Richardson, Texas report near-constant drone noise indoors while the FAA blocks city control over flight pathsStep outside in the right Richardson neighborhood and you will hear it befor… [+3501 chars]"
+    },
+    {
+      "source": {
         "id": "business-insider",
         "name": "Business Insider"
       },
@@ -99,29 +229,16 @@
     },
     {
       "source": {
-        "id": "bloomberg",
-        "name": "Bloomberg"
+        "id": "cbs-news",
+        "name": "CBS News"
       },
-      "author": "Salma El Wardany, Anthony Di Paola, Fiona MacDonald",
-      "title": "Saudi Arabia Running Tests to Resume East-West Oil Pipeline - Bloomberg.com",
-      "description": "Saudi Arabia is in the early stages of starting up a key oil pipeline that has enabled Riyadh to bypass the Strait of Hormuz after the conduit was halted earlier this month, people familiar with the matter said.",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-22/saudi-arabia-running-tests-to-resume-east-west-oil-pipeline",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/if02ZX1k8g_A/v1/1200x816.jpg",
-      "publishedAt": "2026-09-22T14:46:44Z",
-      "content": "Saudi Arabia is in the early stages of starting up a key oil pipeline that has enabled Riyadh to bypass the Strait of Hormuz after the conduit was halted earlier this month, people familiar with the … [+419 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Deadline"
-      },
-      "author": "Dominic Patten",
-      "title": "Ari Emanuel On His New Memoir, Nikki Finke, Talking To Trump, AI’s Upside & The Hollywood Exec He Hates The Most - Deadline",
-      "description": "WME co-founder Ari Emanuel's memoir Roll the Calls is out --  it is in part confession and in part altercation, with a lot of big Hollywood names.",
-      "url": "http://deadline.com/2026/09/ari-emanuel-interview-nikki-finke-memoir-1237109218/",
-      "urlToImage": "https://deadline.com/wp-content/uploads/2026/09/ari-emanuel-donald-trump-nikki-finke.jpg?w=1024",
-      "publishedAt": "2026-09-22T14:34:00Z",
-      "content": "Don’t let the kinder gentler Ari Emanuel out there pitching his new memoirfool you. Despite what you may have read during his media tour for Roll the Calls, the WME Group and TKO boss hasn’t mellowed… [+12462 chars]"
+      "author": "Frederick Sutton Sinclair",
+      "title": "Dozens of Black Angus beef ribs stolen from truck in South Philadelphia, police say - CBS News",
+      "description": "Police are investigating an overnight meat heist after a group of thieves stole a shipment of beef from a tractor-trailer in South Philadelphia.",
+      "url": "https://www.cbsnews.com/philadelphia/news/beef-theft-truck-south-philadelphia/",
+      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/09/22/f023abe5-f281-4d56-b401-88977e7070b1/thumbnail/1200x630/30e1fb8841e5f482c5adfce558a3af54/promo-1.jpg",
+      "publishedAt": "2026-09-22T14:05:00Z",
+      "content": "Police are investigating an overnight meat heist after thieves stole a shipment of beef from a tractor-trailer in South Philadelphia early Tuesday morning, police said.\r\nAuthorities said four masked … [+1152 chars]"
     },
     {
       "source": {
@@ -135,6 +252,19 @@
       "urlToImage": "https://news-api.bloomberglaw.com/v1/resize-image?url=https%3A%2F%2Fbloomberg-bna-brightspot.s3.us-east-1.amazonaws.com%2F47%2F1d%2Fe1f41a894a849202ffc1ee0b7f76%2Ftruth-social-trump-message.jpg&width=1200&height=600&fit=cover&crop=8666x3328%2B0%2B1189",
       "publishedAt": "2026-09-22T13:56:00Z",
       "content": "San Franciscos city attorney is urging a state court to block Trumps social media platform Truth Social from offering customers who pay $100,000 per month priority access to the presidents and other … [+3861 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "FierceBiotech"
+      },
+      "author": "Nick Paul Taylor",
+      "title": "Otsuka heads to FDA as Ionis-partnered ALS drug hits primary phase 3 endpoint - Fierce Biotech",
+      "description": "A phase 3 study of Otsuka and Ionis Pharmaceuticals’ amyotrophic lateral sclerosis (ALS) drug candidate has",
+      "url": "https://www.fiercebiotech.com/biotech/otsuka-heads-fda-ionis-partnered-als-drug-hits-primary-phase-3-endpoint",
+      "urlToImage": "https://qtxasset.com/quartz/qcloud5/media/image/GettyImages-1326070271.jpg?VersionId=0KQ7zhMdqWmvl7BeTeqSc7h7wQh69HrF",
+      "publishedAt": "2026-09-22T13:22:17Z",
+      "content": null
     },
     {
       "source": {
@@ -165,19 +295,6 @@
     {
       "source": {
         "id": null,
-        "name": "CNBC"
-      },
-      "author": "Sean Conlon, Jenni Reid, Justina Lee, Darla Mercado, CFP®",
-      "title": "Stock futures are little changed after S&P 500 posts best day since early August: Live updates - CNBC",
-      "description": "U.S. equity futures were little changed early Tuesday following a rally driven by stocks tied to artificial intelligence.",
-      "url": "https://www.cnbc.com/2026/09/21/stock-market-today-live-updates.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108359876-17888859102026-09-08t164114z_796718044_rc22fna0e8bt_rtrmadp_0_usa-stocks.jpeg?v=1788885962&w=1920&h=1080",
-      "publishedAt": "2026-09-22T12:35:39Z",
-      "content": "The Nasdaq Composite and S&amp;P 500 rose on Tuesday, with the former hitting a fresh all-time intraday high, as oil prices eased for another day.\r\nThe tech-heavy Nasdaq was last up 0.4%, supported b… [+1706 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "Yahoo Entertainment"
       },
       "author": "Brian Sozzi",
@@ -190,16 +307,16 @@
     },
     {
       "source": {
-        "id": "cbs-news",
-        "name": "CBS News"
+        "id": "bloomberg",
+        "name": "Bloomberg"
       },
-      "author": "Megan  Cerullo",
-      "title": "What is an \"AI swarm,\" and why is it giving tech experts nightmares? - CBS News",
-      "description": "AI \"agents\" show a remarkable ability to share information and knowledge with other bots. That should worry us.",
-      "url": "https://www.cbsnews.com/news/ai-agent-swarm-hugging-face-openai-harm/",
-      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/09/17/8cf8ad8d-412e-494f-bdc6-94210b72f741/thumbnail/1200x630/69ace4b219fa2bb4a6e5187758618084/gettyimages-2224634463.jpg",
-      "publishedAt": "2026-09-22T11:57:27Z",
-      "content": "Central to the dire warnings about artificial intelligence's potential danger to humanity is the risk that a \"swarm\" of AI agents could collaborate in nefarious ways, like hordes of digital extras fr… [+6373 chars]"
+      "author": "Neil Callanan, Marilen Martin",
+      "title": "Ineos Idles Three UK Chemical Plants as Energy Costs Surge - Bloomberg.com",
+      "description": "Ineos, the industrials group founded by billionaire Jim Ratcliffe, is idling all three of its chemical plants in Hull in the north of England after energy prices surged.",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-22/ineos-idles-three-uk-chemical-plants-as-energy-costs-surge",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ihrqolmCBLB8/v1/1200x800.jpg",
+      "publishedAt": "2026-09-22T11:56:14Z",
+      "content": "Ineos, the industrials group founded by billionaire Jim Ratcliffe, is idling all three of its chemical plants in Hull in the north of England after energy prices surged.\r\nThe plants are Europes last … [+290 chars]"
     },
     {
       "source": {
@@ -230,19 +347,6 @@
     {
       "source": {
         "id": null,
-        "name": "Financial Times"
-      },
-      "author": null,
-      "title": "Warburg Pincus and CD&R near deal to buy Canaccord’s UK wealth division - Financial Times",
-      "description": "Private equity groups are in advanced buyout talks at £1bn-plus valuation as deals wave sweeps sector",
-      "url": "https://www.ft.com/content/2715d69d-15d1-42af-a5e5-cb2a251a1ff6?syn-25a6b1a6\\\\u003d1",
-      "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Ff365d550-24b8-4d24-814d-feb87424fcc2.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
-      "publishedAt": "2026-09-22T11:36:07Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
         "name": "Barchart.com"
       },
       "author": "Barchart.com",
@@ -252,6 +356,19 @@
       "urlToImage": null,
       "publishedAt": "2026-09-22T11:31:00Z",
       "content": null
+    },
+    {
+      "source": {
+        "id": "usa-today",
+        "name": "USA Today"
+      },
+      "author": "Eve Chen",
+      "title": "What losing Spirit Airlines changed for everyday travelers - USA Today",
+      "description": "Five months after Spirit Airlines shut down, former customers say travel is more expensive, less flexible and harder to navigate.",
+      "url": "https://www.usatoday.com/story/travel/airline-news/2026/09/22/spirits-closure-fallout-travel/91442366007/",
+      "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/05/03/USAT/89920366007-afp-2273629822.jpg?crop=4196,2361,x0,y229&width=3200&height=1801&format=pjpg&auto=webp",
+      "publishedAt": "2026-09-22T11:29:00Z",
+      "content": "<ul><li>The shutdown of Spirit Airlines has reduced options for budget-conscious travelers.</li><li>Airfares have risen for nine consecutive months, with holiday travel costs increasing over last yea… [+6734 chars]"
     },
     {
       "source": {
@@ -282,54 +399,15 @@
     {
       "source": {
         "id": null,
-        "name": "CNBC"
-      },
-      "author": "Amelia Lucas",
-      "title": "McDonald's is hosting an investor day as its U.S. business struggles. Here are 4 things to expect - CNBC",
-      "description": "The presentation comes as McDonald's U.S. business disappointed in its most recent quarter.",
-      "url": "https://www.cnbc.com/2026/09/22/mcdonalds-mcd-hosts-investor-day.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/106221630-15728709937422018-03-06t000000z_443573961_rc12ab178220_rtrmadp_3_mcdonald-s-beef.png?v=1723228840&w=1920&h=1080",
-      "publishedAt": "2026-09-22T11:00:01Z",
-      "content": "McDonald's Chris Kempczinski speaks about fresh beef expansion at a McDonald's event in Oak Brook, Illinois.\r\nMcDonald's is expected to share more details about its new strategy to win back diners at… [+5977 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "Motley Fool"
       },
-      "author": "Daniel Sparks, The Motley Fool",
-      "title": "I Think Sandisk Stock Will Be in the Low $2,000s in 2030. From About $1,790, That Wouldn't Beat the Market. - Yahoo Finance",
-      "description": "Management's latest model implies massive free cash flow by fiscal 2030 -- from a company that lost money in both fiscal 2024 and fiscal 2025.",
-      "url": "https://www.fool.com/investing/2026/09/22/i-think-sandisk-stock-will-be-in-the-low-usd2-000s-in-2030-from-about-usd1-790-that-wouldn-t-beat-the-market/",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/af53d9203fe652268e79fa1a33331eb140efebb3e3767b833086feca34578799/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmotleyfool.com%2F150b40bf3931a25678a629dbfa002142.jpg",
-      "publishedAt": "2026-09-22T10:43:01Z",
-      "content": "Shares of Sandisk (NASDAQ:SNDK) have risen about 650% in 2026 and trade close to $1,790 as I write this. A rally like that shifts the discussion to what the business could be worth years from now.\r\nM… [+6016 chars]"
-    },
-    {
-      "source": {
-        "id": "associated-press",
-        "name": "Associated Press"
-      },
-      "author": "Chan Ho-him",
-      "title": "China’s Alibaba unveils new powerful chip and ambitious AI model plans - AP News",
-      "description": "China's Alibaba has unveiled new plans for its AI model and new chip technologies, including what it claims is China's most powerful AI chip. This launch comes as U.S. AI leaders call for a slowdown in AI development over safety concerns. On Tuesday, at its a…",
-      "url": "https://apnews.com/article/alibaba-ai-chip-qwen-zhenwu-china-us-b29908e516faff9f5a82b201ba954aab",
-      "urlToImage": "https://dims.apnews.com/dims4/default/57513ec/2147483647/strip/true/crop/6000x3998+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F31%2Ff5%2Fb7ee4ab6243125aefe7f701aaf8f%2F200ce62db5f94c5186814c485835fe15",
-      "publishedAt": "2026-09-22T10:01:00Z",
-      "content": "HONG KONG (AP) Chinas Alibaba unveiled new artificial intelligence chip technologies and plans for more powerful models on Tuesday, including what it said was Chinas most powerful AI chip, days ahead… [+4007 chars]"
-    },
-    {
-      "source": {
-        "id": "the-hill",
-        "name": "The Hill"
-      },
-      "author": "Alexander Bolton",
-      "title": "Proposed diesel export ban pits GOP senators against each other - The Hill",
-      "description": "Senate Republicans are clashing over a proposal endorsed by Sen. Chuck Grassley (Iowa) and other farm-state Republicans to embargo the export of diesel to increase supply and lower prices at home, something U.S. leaders last implemented during the 1970s energ…",
-      "url": "https://thehill.com/homenews/senate/6102916-senate-gop-diesel-export-ban/",
-      "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2026/09/grassleychuck_091526gn01_w.jpg?w=1280",
-      "publishedAt": "2026-09-22T10:00:00Z",
-      "content": "Senate Republicans are clashing over a proposal endorsed by Sen. Chuck Grassley (Iowa) and other farm-state Republicans to embargo the export of diesel to increase supply and lower prices at home, so… [+6813 chars]"
+      "author": "Sean Williams",
+      "title": "IonQ, Rigetti Computing, D-Wave Quantum, and Quantum Computing Inc. Are Sending Shockwaves Through Wall Street With This $895 Million Warning - The Motley Fool",
+      "description": "The people who know Wall Street’s hottest quantum computing stocks best are sending all the wrong signals.",
+      "url": "https://www.fool.com/investing/2026/09/22/ionq-rigetti-dwave-quantum-computing-send-shockwaves-through-wall-street-with-895-million-warning/",
+      "urlToImage": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2Fcdca4f408124647cbd0ff15bd9ba984d823153a8-2000x1500.jpg%3Fw%3D800%26q%3D75%26fit%3Dmax%26auto%3Dformat&w=1200&op=resize",
+      "publishedAt": "2026-09-22T10:06:00Z",
+      "content": "Although the artificial intelligence infrastructure build-out is the stock market's hottest trend, it's not the only innovative trend driving up equity valuations.\r\nExcitement for the evolution and r… [+3985 chars]"
     },
     {
       "source": {
@@ -343,19 +421,6 @@
       "urlToImage": "https://cdn.abcotvs.com/dip/images/19857233_092226-wpvi-phl-travel-issues-5a-pkg-video-vid.jpg?w=1600",
       "publishedAt": "2026-09-22T09:50:11Z",
       "content": "PHILADELPHIA (WPVI) -- Damaged communications lines at a key air traffic control facility in Philadelphia had been repaired, allowing airports across the Northeast to resume operations after hours of… [+3764 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Motley Fool"
-      },
-      "author": "Sean Williams, The Motley Fool",
-      "title": "IonQ, Rigetti Computing, D-Wave Quantum, and Quantum Computing Inc. Are Sending Shockwaves Through Wall Street With This $895 Million Warning - Yahoo Finance",
-      "description": "The people who know Wall Street’s hottest quantum computing stocks best are sending all the wrong signals.",
-      "url": "https://www.fool.com/investing/2026/09/22/ionq-rigetti-dwave-quantum-computing-send-shockwaves-through-wall-street-with-895-million-warning/",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/dd488f1985839c8622b55227bd51321af488d48f4e63a81b58973f135f085874/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmotleyfool.com%2Fa055f477dbc30f84049d00e4121f29e0.jpg",
-      "publishedAt": "2026-09-22T09:26:01Z",
-      "content": "Although the artificial intelligence infrastructure build-out is the stock market's hottest trend, it's not the only innovative trend driving up equity valuations.\r\nExcitement for the evolution and r… [+5118 chars]"
     },
     {
       "source": {
@@ -424,6 +489,19 @@
     },
     {
       "source": {
+        "id": null,
+        "name": "Post Magazine"
+      },
+      "author": null,
+      "title": "Alibaba debuts ‘China’s most powerful’ AI chip, teases 10-trillion-parameter model - South China Morning Post",
+      "description": "The tech giant also aims to scale its Alibaba Cloud global data-centre capacity to more than 20 gigawatts by 2032.",
+      "url": "https://www.scmp.com/tech/big-tech/article/3368338/alibaba-teases-10-trillion-parameter-model-debuts-chinas-most-powerful-ai-chip",
+      "urlToImage": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/09/22/c16307a3-3557-4f36-8518-f07ce04631a9_049f1c1b.jpg?itok=ymWSQShS&v=1790055213",
+      "publishedAt": "2026-09-22T05:59:40Z",
+      "content": "Alibaba Group Holding has introduced what it called Chinas most powerful artificial intelligence chip and teased plans to train an AI model with up to 10 trillion parameters, as top executives reaffi… [+753 chars]"
+    },
+    {
+      "source": {
         "id": "the-washington-post",
         "name": "The Washington Post"
       },
@@ -434,19 +512,6 @@
       "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/YZG3UY7DCK6DTWEXXAB5DL5QQY_size-normalized.JPG&w=1440",
       "publishedAt": "2026-09-22T00:24:17Z",
       "content": "Federal aviation officials on Monday launched an artificial-intelligence-powered air traffic control tool at the three main airports serving the Washington area, the Transportation Department said. \r… [+195 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "WTHR"
-      },
-      "author": "WTHR",
-      "title": "Buc-ee's is coming! Greenwood council approves plans for Indiana's first location of popular travel center - WTHR",
-      "description": null,
-      "url": "https://www.wthr.com/article/money/business/buc-ees-greenwood-indiana-council-approves-plans-travel-center-convenience-store/531-dd472c02-8ab9-46c8-99eb-a84c179c9530",
-      "urlToImage": null,
-      "publishedAt": "2026-09-21T23:53:00Z",
-      "content": null
     },
     {
       "source": {
@@ -499,19 +564,6 @@
       "urlToImage": "https://dims.apnews.com/dims4/default/d93605b/2147483647/strip/true/crop/4056x2703+0+169/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F2f%2F4b%2Ff043cb9cea7b24b04c0a563ba626%2F22f869afe6394c23b2c46e4531b7e8a7",
       "publishedAt": "2026-09-21T21:57:00Z",
       "content": "WASHINGTON (AP) A top Federal Reserve official said Monday that stubbornly high inflation and the renewal of combat in the Middle East in August were key reasons she supported raising borrowing costs… [+4621 chars]"
-    },
-    {
-      "source": {
-        "id": "the-hill",
-        "name": "The Hill"
-      },
-      "author": "Ryan Mancini",
-      "title": "Rogers calls for end to war in Iran: ‘Michigan families can’t afford to wait’ - The Hill",
-      "description": "Former Rep. Mike Rogers (Mich.), the Republican Senate candidate in Michigan, on Monday said “Michigan families can’t afford to wait” for the Iran war to reach its conclusion, calling for an end to the conflict. Rogers released a campaign ad on the social pla…",
-      "url": "https://thehill.com/homenews/campaign/6102630-rogers-iran-war-gas-tax/",
-      "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2026/07/AP26208652028513-e1785182658552.jpg?w=1280",
-      "publishedAt": "2026-09-21T21:16:00Z",
-      "content": "Skip to content\r\nFormer Rep. Mike Rogers (Mich.), the Republican Senate candidate in Michigan, on Monday said “Michigan families can’t afford to wait” for the Iran war to reach its conclusion, callin… [+2556 chars]"
     },
     {
       "source": {
@@ -568,32 +620,6 @@
     {
       "source": {
         "id": null,
-        "name": "Newsnationnow.com"
-      },
-      "author": "Steph Whiteside",
-      "title": "GLP-1 makers Novo, Eli Lilly sued over sudden loss of vision in patients - NewsNation",
-      "description": "Patients say the pharmaceutical companies failed to warn them of a risk of a rare condition that causes vision loss.",
-      "url": "https://www.newsnationnow.com/health/patients-sue-glp-1-loss-vision/",
-      "urlToImage": "https://www.newsnationnow.com/wp-content/uploads/sites/108/2026/07/GettyImages-2279484867_693208-e1783009938301_80f485.jpg?w=1280",
-      "publishedAt": "2026-09-21T19:48:27Z",
-      "content": "(NewsNation) Patients are suing the makers of GLP-1 weight-loss drugs over a condition leading to sudden vision loss.\r\nThey say that the drug manufacturers failed to provide clear information about t… [+1065 chars]"
-    },
-    {
-      "source": {
-        "id": "business-insider",
-        "name": "Business Insider"
-      },
-      "author": "Katherine Li",
-      "title": "Would you bring iced coffee to a job interview? A TikTok debate is exposing a generational divide. - Business Insider",
-      "description": "Career experts are divided on whether bringing iced coffee to a job interview is a harmless habit or a professional misstep.",
-      "url": "https://www.businessinsider.com/iced-coffee-job-interview-gen-z-etiquette-career-experts-2026-9#article",
-      "urlToImage": "https://i.insider.com/6aaddd6e4a3706ac06f850fb?width=1200&format=jpeg",
-      "publishedAt": "2026-09-21T19:45:00Z",
-      "content": "Iced coffee has become the latest unlikely subject of workplace controversy.\r\nTikTok users are debating whether bringing iced coffee to a job interview is a harmless caffeine fix or a frosty professi… [+3563 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "Abcnews.com"
       },
       "author": "ABC News - Breaking News, Latest News and Videos",
@@ -633,6 +659,19 @@
     {
       "source": {
         "id": null,
+        "name": "newyorkupstate.com"
+      },
+      "author": "NewYorkUpstate.com",
+      "title": "This Upstate NY deli just sold a $50,000 winning Powerball ticket. Here’s where the lucky player bought it - NewYorkUpstate.com",
+      "description": null,
+      "url": "https://www.newyorkupstate.com/news/2026/09/this-upstate-ny-deli-just-sold-a-50000-winning-powerball-ticket-heres-where-the-lucky-player-bought-it.html",
+      "urlToImage": null,
+      "publishedAt": "2026-09-21T17:04:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
         "name": "Houston Chronicle"
       },
       "author": "Marissa Luck",
@@ -642,19 +681,6 @@
       "urlToImage": "https://s.hdnux.com/photos/01/54/50/02/28475576/7/rawImage.jpg",
       "publishedAt": "2026-09-21T16:54:17Z",
       "content": "A rendering of Eli Lilly's $6.5 billion project planned in northeast Houston.\r\nEli Lilly\r\nPharmaceutical giant Eli Lilly is breaking ground on its $6.5 billion campus in northeast Houston, a massive … [+4015 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "GoodHousekeeping.com"
-      },
-      "author": "Lisa Mulcahy",
-      "title": "FDA Announces Nationwide Recall of Popular Pasta Sold at Walmart - Yahoo",
-      "description": "Gias Foods recalled Bettergoods Authentic Italian Lemon Alfredo Fettuccine sold at Walmart nationwide due to possible Listeria contamination.",
-      "url": "https://www.goodhousekeeping.com/food-recipes/a73821575/walmart-pasta-recall/",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/f0d79f35854c8f6d4f6e78d0c7dfe32872b2be4cab7e31bd71f6c990aa499200/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fgood_housekeeping_561%2Fc3aa01a6c4f072ce546fa88a75af1926.png",
-      "publishedAt": "2026-09-21T16:05:45Z",
-      "content": "On September 15, the U.S. Food and Drug Administration (FDA) published a company announcement stating that Gias Foods of New York, NY, is recalling two lots of Authentic Italian Lemon Alfredo Fettucc… [+2600 chars]"
     },
     {
       "source": {
@@ -749,19 +775,6 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "Financial Times"
-      },
-      "author": null,
-      "title": "SoftBank launches one of biggest junk bond deals to fund OpenAI bet - Financial Times",
-      "description": "Japanese group seeks to raise more than $11bn in dollar and euro bonds as it invests in the AI boom",
-      "url": "https://www.ft.com/content/4e7004b7-d262-40c8-b979-fdf7f237adda?syn-25a6b1a6\\\\u003d1",
-      "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fd7a22581-dcef-4148-8b4d-2f8b8726c52c.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
-      "publishedAt": "2026-09-21T09:32:29Z",
-      "content": null
-    },
-    {
-      "source": {
         "id": "politico",
         "name": "Politico"
       },
@@ -771,19 +784,6 @@
       "url": "https://www.politico.com/live-updates/2026/09/21/congress/what-were-watching-01085964",
       "urlToImage": "https://www.politico.com/dims4/default/bb552b8/2147483647/resize/1200x/quality/90/?url=https%3A%2F%2Fstatic.politico.com%2Fac%2Ff2%2F18bbde7e4249a394c97f4cfa5d02%2Fsenate-artificial-intelligence-00413.jpg",
       "publishedAt": "2026-09-21T09:00:00Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Financial Times"
-      },
-      "author": null,
-      "title": "Chinese rare earth shipments to US drop ahead of Trump-Xi summit - Financial Times",
-      "description": "August exports down 20% from July as Washington presses Beijing over supplies of critical minerals",
-      "url": "https://www.ft.com/content/eeef7db4-b26d-426f-896b-f7b95bb84223?syn-25a6b1a6\\\\u003d1",
-      "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F47165785-50e4-402c-9e62-5670490b2d5a.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
-      "publishedAt": "2026-09-21T07:45:45Z",
       "content": null
     }
   ]

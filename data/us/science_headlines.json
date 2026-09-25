@@ -3,21 +3,47 @@
   "country": "us",
   "category": "science",
   "mode": "country",
-  "fetched_at": "2026-09-25T09:07:09.694543+00:00",
-  "articles_count": 65,
+  "fetched_at": "2026-09-25T14:47:47.831361+00:00",
+  "articles_count": 67,
   "articles": [
     {
       "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
+        "id": null,
+        "name": "Space.com"
       },
-      "author": "TOI Lifestyle Desk",
-      "title": "Can a volcano trigger the end of humanity? What would happen if Yellowstone supervolcano erupted now? - The Times of India",
-      "description": "What if Yellowstone suddenly went from bubbling geysers and spectacular landscapes to the site of one of the largest volcanic eruptions in human history?",
-      "url": "https://timesofindia.indiatimes.com/etimes/trending/can-a-volcano-trigger-the-end-of-humanity-what-would-happen-if-yellowstone-supervolcano-erupted-now/articleshow/134448852.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-134448868,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-09-24T01:02:00Z",
+      "author": "Samantha Mathewson",
+      "title": "'Mars constantly throws surprises at you': Perseverance rover finds evidence of ancient hot water in Red Planet crater - Space",
+      "description": "NASA's Perseverance rover uncovered evidence of water interacting with rocks in Mars' Jezero Crater multiple times, including a period of hot groundwater activity.",
+      "url": "https://www.space.com/astronomy/mars/mars-constantly-throws-surprises-at-you-perseverance-rover-finds-evidence-of-ancient-hot-water-in-red-planet-crater",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/7TUC2yeXuTJa3hfjHrdeSG-2000-80.jpg",
+      "publishedAt": "2026-09-24T10:00:00Z",
       "content": null
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Ritsuko Kawai",
+      "title": "Venus May Have Devoured Its Moon - WIRED",
+      "description": "One of the great mysteries in astronomy has been why Venus has no moon. Now a new theory provides a simple answer: It might have been eaten.",
+      "url": "https://www.wired.com/story/venus-may-have-devoured-its-moon/",
+      "urlToImage": "https://media.wired.com/photos/6ab40967bd39df2bc999c8fd/191:100/w_1280,c_limit/venus-from-parker-solar-probe.webp.jpeg",
+      "publishedAt": "2026-09-24T09:15:00Z",
+      "content": "Venus has nearly the same mass, size, and structure as Earth, which has led astronomers to believe it should have a moon, but it doesnt. It is technically possible that a moon never formed, but scien… [+3703 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Foxweather.com"
+      },
+      "author": null,
+      "title": "What if Yellowstone ‘blows’? A look at the worst-case scenario - FOX Weather",
+      "description": "What if Yellowstone erupted? Explore a hypothetical timeline of what could happen from the first warning signs to global climate impacts.",
+      "url": "https://www.foxweather.com/earth-space/what-yellowstone-blows-hypothetical-worst-case-scenario",
+      "urlToImage": "https://images.foxweather.com/static.foxweather.com/www.foxweather.com/content/uploads/2022/04/1024/512/GettyImages-607354090.jpeg?ve=1&tl=1",
+      "publishedAt": "2026-09-24T04:16:00Z",
+      "content": "THE TAKEAWAY\r\n<ul><li>A massive volcanic eruption rocked what is now northwestern Wyoming, sending ash across much of North America and altering the global climate.</li><li>If a similar eruption happ… [+9328 chars]"
     },
     {
       "source": {
@@ -35,15 +61,15 @@
     {
       "source": {
         "id": null,
-        "name": "Nature.com"
+        "name": "Sci.news"
       },
-      "author": null,
-      "title": "Lu+ optical frequency references with accuracy verified at the 19th digit - nature.com",
-      "description": "Two independent 176Lu+ single-ion optical clocks achieve fractional frequency uncertainties near 10−19 and agree at 5.7 × 10−19, advancing precision timekeeping.",
-      "url": "https://www.nature.com/articles/s41586-026-11072-8",
-      "urlToImage": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-11072-8/MediaObjects/41586_2026_11072_Fig1_HTML.png",
-      "publishedAt": "2026-09-23T23:32:12Z",
-      "content": "Experimental sequence\r\nEach interrogation beginsonly after both ions have been subjected to Doppler cooling and prepared in the |g state with &gt;99% probability using the conditional state preparati… [+34220 chars]"
+      "author": "Enrico de Lazaro",
+      "title": "Researchers Reconstruct Face of Oldest Known Homo sapiens - Sci.News",
+      "description": "Scientists have created a digital facial approximation of the Jebel Irhoud hominin, whose remains are dated to about 315,000 years ago.",
+      "url": "https://www.sci.news/othersciences/anthropology/oldest-known-homo-sapiens-face-15090.html",
+      "urlToImage": "https://cdn.sci.news/images/2026/09/image_15090f-Jebel-Irhoud-Hominin.jpg",
+      "publishedAt": "2026-09-23T23:57:19Z",
+      "content": "Scientists have created a digital facial approximation of the Jebel Irhoud hominin, whose remains are dated to about 315,000 years ago.\r\nFacial approximation of the Jebel Irhoud hominin. Image credit… [+3880 chars]"
     },
     {
       "source": {
@@ -70,6 +96,45 @@
       "urlToImage": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-11052-y/MediaObjects/41586_2026_11052_Fig1_HTML.png",
       "publishedAt": "2026-09-23T23:32:12Z",
       "content": "Material availability\r\nAll unique and newly generated materials (cell lines, plasmids) are available from the corresponding authors on request.\r\nCell culture, primary BMDM generation and treatments\r\n… [+58105 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Nature.com"
+      },
+      "author": null,
+      "title": "Sequence-encoded hexagonal lattices in multichannel peptide nanofibrils - Nature",
+      "description": "Nine-residue peptides can encode discrete interaction motifs that direct the formation of hexagonal pores, which hierarchically tile into laterally expandable multichannel nanofibrils with defined topology.",
+      "url": "https://www.nature.com/articles/s41586-026-11016-2",
+      "urlToImage": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-11016-2/MediaObjects/41586_2026_11016_Fig1_HTML.png",
+      "publishedAt": "2026-09-23T23:32:12Z",
+      "content": "Materials\r\nChemicals were purchased from commercial suppliers (Thermo Scientific, Merck KGaA, VWR and Honeywell). Solvents and reagents used for peptide synthesis were obtained in peptide grade. Solv… [+37626 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Nature.com"
+      },
+      "author": null,
+      "title": "Gravitational torque drives multidecadal variations in length of day - Nature",
+      "description": "Multidecadal fluctuations in Earth’s length of day are shown to be driven by gravitational torque and resisted by electromagnetic and topographic forces, improving our understanding of the material properties and dynamics of Earth’s deep interior.",
+      "url": "https://www.nature.com/articles/s41586-026-10999-2",
+      "urlToImage": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-10999-2/MediaObjects/41586_2026_10999_Fig1_HTML.png",
+      "publishedAt": "2026-09-23T23:26:14Z",
+      "content": "Torque and changes in the LOD\r\nAn axial torque z acting on the mantle causes a change in its rotation rate (m) according to \r\n$${C}_{{\\rm{m}}}\\frac{{\\rm{d}}\\Delta {\\varOmega }_{{\\rm{m}}}}{{\\rm{d}}t}=… [+20273 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Phys.Org"
+      },
+      "author": null,
+      "title": "Biologists battle over North America's largest crayfish - Phys.org",
+      "description": "When Caitlin Bloomer wrestled the massive Crawzilla crawdad—yes, that's its actual common name—out of the muck during a biological survey in Kentucky, she was convinced it was the largest crayfish ever recorded.",
+      "url": "https://phys.org/news/2026-09-biologists-north-america-largest-crayfish.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/biologists-battle-over.jpg",
+      "publishedAt": "2026-09-23T23:20:04Z",
+      "content": "When Caitlin Bloomer wrestled the massive Crawzilla crawdadyes, that's its actual common nameout of the muck during a biological survey in Kentucky, she was convinced it was the largest crayfish ever… [+4803 chars]"
     },
     {
       "source": {
@@ -139,28 +204,15 @@
     {
       "source": {
         "id": null,
-        "name": "Space.com"
-      },
-      "author": "Josh Dinner",
-      "title": "SpaceX stacks massive Starship rocket ahead of 1st orbital launch attempt (video) - Space",
-      "description": "A wet dress rehearsal is expected on Thursday (Sept. 24).",
-      "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-stacks-massive-starship-rocket-ahead-of-1st-orbital-launch-attempt-video",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/sPQUDHdaU3xDd2y97s6nKe-1822-80.png",
-      "publishedAt": "2026-09-23T19:27:03Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
         "name": "Nature.com"
       },
       "author": null,
-      "title": "Gravitational tug-of-war inside Earth is changing the length of our days - Nature",
-      "description": "A battle of forces, driven by the motion of Earth’s core, can explain small variations in the planet’s rotation, study finds.",
-      "url": "https://www.nature.com/articles/d41586-026-03018-x",
-      "urlToImage": "https://media.nature.com/lw1200/magazine-assets/d41586-026-03018-x/d41586-026-03018-x_53748512.jpg",
-      "publishedAt": "2026-09-23T19:18:45Z",
-      "content": "Interactions between Earths solid inner core, its molten outer core and its rocky mantle control how fast the planet rotates.Credit: Gregoire Cirade/SPL\r\nSmall fluctuations in the length of Earths 24… [+3221 chars]"
+      "title": "This weird form of boron is a million times more conductive than chemists expected - Nature",
+      "description": "A boron phase prepared under pressure is a million times more conductive than chemists expected, and can be stretched.",
+      "url": "https://www.nature.com/articles/d41586-026-03001-6",
+      "urlToImage": "https://media.nature.com/lw1200/magazine-assets/d41586-026-03001-6/d41586-026-03001-6_53753632.jpg",
+      "publishedAt": "2026-09-23T19:41:55Z",
+      "content": "Boron carbide, also known as black diamond, is one of the hardest synthetic substances known. Credit: Science Museum Group/SPL\r\nBoron has long intrigued scientists. Its atoms are amenable to many bon… [+2253 chars]"
     },
     {
       "source": {
@@ -177,16 +229,16 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "NASA"
+        "id": "ars-technica",
+        "name": "Ars Technica"
       },
-      "author": "James Riordon",
-      "title": "Arctic Sea Ice Reaches 2026 Annual Minimum Extent - NASA Science (.gov)",
-      "description": "Arctic sea ice reached its annual minimum extent on Sept. 12, according to NASA and the National Snow and Ice Data Center (NSIDC) at the University of",
-      "url": "https://science.nasa.gov/science-research/earth-science/climate-science/sea-ice/arctic-sea-ice-2026-min/",
-      "urlToImage": "https://assets.science.nasa.gov/content/dam/science/cds/svs/a000000/a005500/a005517/antarctic_max_to_min_2025_vert-3200_web.png/jcr:content/renditions/cq5dam.web.1280.1280.png",
-      "publishedAt": "2026-09-23T17:15:32Z",
-      "content": "Arctic sea ice reached its annual minimum extent on Sept. 12, according to NASA and the National Snow and Ice Data Center (NSIDC) at the University of Colorado Boulder. The ice covered an estimated 1… [+3080 chars]"
+      "author": "Eric Berger",
+      "title": "Former NASA chief sounds alarm on China’s lunar “exploration” plans - Ars Technica",
+      "description": "Beijing's intended strategy is to dominate the high ground of the twenty-first century.\"",
+      "url": "https://arstechnica.com/space/2026/09/former-nasa-chief-sounds-alarm-on-chinas-lunar-exploration-plans/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/03/BillNelsonHappy-CROPPED-1152x648.jpeg",
+      "publishedAt": "2026-09-23T17:10:58Z",
+      "content": null
     },
     {
       "source": {
@@ -243,6 +295,19 @@
     {
       "source": {
         "id": null,
+        "name": "fox5sandiego.com"
+      },
+      "author": "Sergio Robles",
+      "title": "Fossils found in Southern California could be prehistoric ‘thunder beast’ or ‘swamp rhino’ - fox5sandiego.com",
+      "description": "(FOX 5/KUSI) — City crews working on an infrastructure project in Oceanside found fossils of a prehistoric animal that could be more than 40 million years old. The city said on Tuesday that the fossils were found about 12 feet below the surface while excavati…",
+      "url": "https://fox5sandiego.com/news/local-news/san-diego-county/oceanside-fossils-thunder-beast-swamp-rhino/",
+      "urlToImage": "https://fox5sandiego.com/wp-content/uploads/sites/15/2026/09/Oceanside-fossils-5.jpg?w=1280",
+      "publishedAt": "2026-09-23T14:54:45Z",
+      "content": "(FOX 5/KUSI) City crews working on an infrastructure project in Oceanside found fossils of a prehistoric animal that could be more than 40 million years old. \r\nThe city said on Tuesday that the fossi… [+2937 chars]"
+    },
+    {
+      "source": {
+        "id": null,
         "name": "Quanta Magazine"
       },
       "author": null,
@@ -252,6 +317,19 @@
       "urlToImage": "https://www.quantamagazine.org/wp-content/uploads/2026/09/Quantum-like-complex-systems-cr.Xavi-Bou-Social.jpg",
       "publishedAt": "2026-09-23T14:18:32Z",
       "content": "Two decades ago, scientists seemed on the verge of understanding biology in a new, quantum way.\r\nLife unfolds over an incomprehensible span of scales, from our planet-enveloping biosphere at one end,… [+7055 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Thebrighterside.news"
+      },
+      "author": "Joshua Shavit",
+      "title": "CERN scientists find no evidence that the Large Hadron Collider created microscopic black holes - thebrighterside.news",
+      "description": "A CMS search found no microscopic black holes at CERN but excluded masses below about 9 to 11.4 TeV in models with extra dimensions.",
+      "url": "https://www.thebrighterside.news/post/cern-scientists-find-no-evidence-that-the-large-hadron-collider-created-microscopic-black-holes/#article",
+      "urlToImage": "https://www.thebrighterside.news/uploads/2026/09/LHC.webp?auto=webp",
+      "publishedAt": "2026-09-23T14:07:00Z",
+      "content": "<ul><li>A new CMS analysis found no evidence that the Large Hadron Collider produced microscopic black holes or electroweak sphalerons in proton collisions recorded from 2016 through 2018.</li><li>Th… [+11703 chars]"
     },
     {
       "source": {
@@ -295,19 +373,6 @@
     {
       "source": {
         "id": null,
-        "name": "Phys.Org"
-      },
-      "author": null,
-      "title": "Quantum device simulates matter popping into existence - Phys.org",
-      "description": "A research team led by faculty at the Duke Quantum Center (DQC) has observed string-breaking dynamics related to particle-antiparticle formation on a quantum simulator, among the first such observations in quantum physics.",
-      "url": "https://phys.org/news/2026-09-quantum-device-simulates.html",
-      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/quantum-device-simulat-2.jpg",
-      "publishedAt": "2026-09-23T13:40:01Z",
-      "content": "A research team led by faculty at the Duke Quantum Center (DQC) has observed string-breaking dynamics related to particle-antiparticle formation on a quantum simulator, among the first such observati… [+5323 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "Space.com"
       },
       "author": "Mike Wall",
@@ -317,19 +382,6 @@
       "urlToImage": "https://cdn.mos.cms.futurecdn.net/rq9eiJEFdWSFTSwzG5mWPS-1589-80.jpg",
       "publishedAt": "2026-09-23T13:00:00Z",
       "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Discoverwildlife.com"
-      },
-      "author": "Magda Patynska",
-      "title": "East Antarctica recently gained almost 700 billion tonnes of ice – and scientists know why - BBC Wildlife Magazine",
-      "description": "What happens in Antarctica can influence the whole planet, so scientists keep a close eye on environmental changes.",
-      "url": "https://www.discoverwildlife.com/environment/east-antarctica-ice-gain",
-      "urlToImage": "https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/9ac494a4-627d-4fea-a827-dcf588dd6f96/484a1efa-bed2-4319-99d2-85abbf304ee6/thumbnails/3acc1df0-cf53-4609-ab89-7d0a300611bd.jpg?appId=f347d34d-c1a6-4a00-b570-b78c2dcb3211&platform=WEB&w=1200",
-      "publishedAt": "2026-09-23T12:44:44Z",
-      "content": "Between 2021 and 2023, East Antarctica gained a whopping 695 billion tonnes of ice and scientists from the Institute of Oceanology of the Chinese Academy of Sciences (IOCAS) have now determined the c… [+3599 chars]"
     },
     {
       "source": {
@@ -382,6 +434,19 @@
       "urlToImage": "https://cdn.mos.cms.futurecdn.net/Y6rs35rUB8p2marYe8McdF-2000-80.jpg",
       "publishedAt": "2026-09-23T12:00:00Z",
       "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Ellyn Lapointe",
+      "title": "Artemis 2 Set Out to Prove Orion Could Handle Deep Space. Here’s How It Delivered - Gizmodo",
+      "description": "The Artemis 2 mission sent astronauts back to the Moon aboard a spacecraft that had never flown humans before.",
+      "url": "https://gizmodo.com/artemis-2-set-out-to-prove-orion-could-handle-deep-space-heres-how-it-delivered-2000806490",
+      "urlToImage": "https://gizmodo.com/app/uploads/2026/09/NASA-Artremis-2-Orion-Science-Fair-1200x675.jpg",
+      "publishedAt": "2026-09-23T11:20:35Z",
+      "content": "NASA is a 2026 Gizmodo Science Fair winner for the Orion spacecraft’s stellar performance during the Artemis 2 mission, the first to send humans back to the Moon since the Apollo era.\r\nThe question\r\n… [+8076 chars]"
     },
     {
       "source": {
@@ -438,6 +503,19 @@
     {
       "source": {
         "id": null,
+        "name": "Space.com"
+      },
+      "author": "Chelsea Gohd",
+      "title": "12.5 trillion tons of polar ice has disappeared since the 70s, longest satellite record shows - Space",
+      "description": "\"That puts another six to nine million people at risk of coastal flooding and erosion.\"",
+      "url": "https://www.space.com/science/climate-change/12-5-trillion-tons-of-polar-ice-has-disappeared-since-the-70s-longest-satellite-record-shows",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/windFig37RuF5bc4ttSvLU-1920-80.jpg",
+      "publishedAt": "2026-09-23T10:00:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
         "name": "EurekAlert"
       },
       "author": null,
@@ -464,19 +542,6 @@
     {
       "source": {
         "id": null,
-        "name": "Spaceweather.com"
-      },
-      "author": null,
-      "title": "Satellite Drag: We've Turned Starlink into a Planetary Barometer - SpaceWeather.com",
-      "description": "How Spaceweather.com measures the density of Earth's upper atmosphere every day using the drag on thousands of Starlink satellites, checked against Planet Labs, Amazon Kuiper and OneWeb.",
-      "url": "https://www.spaceweather.com/starlink/starlink_drag_explainer.html",
-      "urlToImage": null,
-      "publishedAt": "2026-09-23T05:53:25Z",
-      "content": "Starlink has many downsides. The megaconstellation interferes with astronomy, pollutes the atmosphere with metallic re-entry debris, and has pushed Low Earth Orbit to the brink of the Kessler Syndrom… [+9159 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "Yomiuri.co.jp"
       },
       "author": "The Japan News",
@@ -499,19 +564,6 @@
       "urlToImage": "https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/9ac494a4-627d-4fea-a827-dcf588dd6f96/866d983e-6da9-4096-95d4-72b2594adb74/thumbnails/1e5f9ee4-fc4e-4492-85e7-3bfb36452a05.jpg?appId=f347d34d-c1a6-4a00-b570-b78c2dcb3211&platform=WEB&w=1200",
       "publishedAt": "2026-09-23T02:18:40Z",
       "content": "Researchers have identified a fossilised capybara tooth dating back almost nine million years in northern Chiles Atacama Desert, providing the oldest record of capybaras in coastal Chile.\r\nThe findin… [+4540 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ScienceAlert"
-      },
-      "author": "Jess Cockerill",
-      "title": "We've Lost 12 Trillion Tons of Ice From Earth's Major Ice Sheets in Just 47 Years, Satellites Reveal - ScienceAlert",
-      "description": "Two of Earth's largest ice sheets have lost more than 12 trillion US tons of ice in just 47 years, according to a major report authored by 58 scientists from institutions around the world.",
-      "url": "https://www.sciencealert.com/weve-lost-12-trillion-tons-of-ice-from-earths-major-ice-sheets-in-just-47-years-satellites-reveal",
-      "urlToImage": "https://www.sciencealert.com/images/2026/09/Thwaites-Glacier-in-Antarctica-ESA.jpg",
-      "publishedAt": "2026-09-22T22:03:25Z",
-      "content": "Two of Earth's largest ice sheets have lost more than 12 trillion US tons of ice in just 47 years, according to a major report authored by 58 scientists from institutions around the world.\r\nThe data … [+3586 chars]"
     },
     {
       "source": {
@@ -633,19 +685,6 @@
     {
       "source": {
         "id": null,
-        "name": "Boing Boing"
-      },
-      "author": "Rob Beschizza",
-      "title": "Nancy Grace Roman Space Telescope test images - Boing Boing",
-      "description": "Nasa activated the 300-megapixel camera on the Nancy Grace Roman Space Telescope this weekend and the first test images are in. The results are out of focus—testing and calibration will…",
-      "url": "https://boingboing.net/2026/09/22/nancy-grace-roman-space-telescope-test-images.html",
-      "urlToImage": "https://boingboing.net/wp-content/uploads/2026/09/green-donuts.jpg",
-      "publishedAt": "2026-09-22T18:08:43Z",
-      "content": "Nasa activated the 300-megapixel camera on the Nancy Grace Roman Space Telescope this weekend and the first test images are in. The results are out of focustesting and calibration will take monthsbut… [+1983 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "Phys.Org"
       },
       "author": null,
@@ -675,12 +714,12 @@
         "name": "Live Science"
       },
       "author": "Chris Simms",
-      "title": "Caves beneath sinkhole reveal origin of mystery trenches that score Australian Plain - Live Science",
+      "title": "Caves beneath sinkhole reveal origin of mystery trenches that score Australian Plain - Yahoo",
       "description": "When giant systems of ancient caves far below the surface of Australia collapsed, it left distinctive clues at the surface.",
       "url": "https://www.livescience.com/planet-earth/geology/giant-caves-beneath-sinkhole-reveal-origin-of-mystery-trenches-that-score-australias-nullarbor-plain",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/VZkcGAP2SMX3aPpS9ycKyb-2000-80.jpg",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/0aaae6c4687ba6ab092d9e509aeeae9f2fca574b244df175cbd9e443cc86a796/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Flive_science_953%2F3850a0e912c6a5a9b838698387770317.jpg",
       "publishedAt": "2026-09-22T14:12:18Z",
-      "content": null
+      "content": "When you buy through links on our articles, Future and its syndication partners may earn a commission.\r\nA sinkhole is seen in Australia's Nullarbor Plain. | Credit: Matej Lipar\r\nMysterious trenches s… [+5100 chars]"
     },
     {
       "source": {
@@ -697,32 +736,6 @@
     },
     {
       "source": {
-        "id": "cnn",
-        "name": "CNN"
-      },
-      "author": "Taylor Nicioli",
-      "title": "How lead-based ink may reveal hidden text on scorched Herculaneum scrolls - CNN",
-      "description": "By re-creating carbonized scrolls, researchers found lead-based ink is easier to detect with X-rays, potentially helping AI reveal texts in Herculaneum scrolls.",
-      "url": "https://www.cnn.com/2026/09/22/science/herculaneum-scrolls-lead-ink-experiment",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/img-1928.jpg?c=16x9&q=w_800,c_fill",
-      "publishedAt": "2026-09-22T13:30:29Z",
-      "content": "Charred to a crisp during Mount Vesuvius eruption in AD 79, hundreds of papyrus scrolls lie tucked away unread in Italys National Library of Naples.\r\nThe majority of these carbonized artifacts, known… [+5300 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Skyatnightmagazine.com"
-      },
-      "author": "Iain Todd",
-      "title": "Spectacular image from the surface of Mars – and scientists get a big surprise while searching for signs of ancient life - skyatnightmagazine.com",
-      "description": "Perseverance rover makes a discovery at Margin Unit on Mars giving scientists clues about the planet's wet history and conditions for life.",
-      "url": "https://www.skyatnightmagazine.com/news/mars-perseverance-margin-unit",
-      "urlToImage": "https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/7c05fcb0-7a79-4c64-9752-81b63d70add8/5cd64687-f71a-48c5-9bbe-e6357f0392ee/thumbnails/5c2d25d2-b251-449b-bc9a-4d67d8a2db84.jpg?appId=9867779f-bbeb-44ef-a0d0-ca4e39424e99&platform=WEB&w=1200",
-      "publishedAt": "2026-09-22T13:27:42Z",
-      "content": "This image of Mars shows what it might be like to stand on the Red Planet and look across into the distance.\r\nBut it also shows the site of a key discovery made by scientists analysing data gathered … [+4805 chars]"
-    },
-    {
-      "source": {
         "id": null,
         "name": "Phys.Org"
       },
@@ -733,6 +746,19 @@
       "urlToImage": "https://scx2.b-cdn.net/gfx/news/2026/rope-twine-and-thread.jpg",
       "publishedAt": "2026-09-22T13:20:04Z",
       "content": "When an abstract-looking ivory artifact emerged from the Hohle Fels cave in southern Germany in 2015, archaeologists didn't know quite what to make of it. Previously, the same cave had yielded what m… [+10272 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Nature.com"
+      },
+      "author": null,
+      "title": "Watch scientists decipher burnt scrolls without unrolling them - Nature",
+      "description": "By making and burning their own papyrus, researchers have come up with a method that might help to read glowing text from unopened scrolls from Herculaneum.",
+      "url": "https://www.nature.com/articles/d41586-026-02920-8",
+      "urlToImage": "https://media.nature.com/lw1200/magazine-assets/d41586-026-02920-8/d41586-026-02920-8_53741662.jpg",
+      "publishedAt": "2026-09-22T10:51:55Z",
+      "content": "We might soon be able to read thousands of long-lost ancient scrolls charred by the eruption of Vesuvius. Researchers have made their own burned, rolled-up papyri and showed that they can decipher th… [+3144 chars]"
     },
     {
       "source": {
@@ -763,19 +789,6 @@
     {
       "source": {
         "id": null,
-        "name": "Phys.Org"
-      },
-      "author": null,
-      "title": "Circular mRNA helps cell factories make up to six times as much protein - Phys.org",
-      "description": "A synthetic biology technology has been developed that converts easily degraded messenger RNA (mRNA) into a ring-shaped form inside microbial cells, increasing protein production.",
-      "url": "https://phys.org/news/2026-09-circular-mrna-cell-factories-protein.html",
-      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/snu-professor-sang-woo.jpg",
-      "publishedAt": "2026-09-21T23:40:06Z",
-      "content": "A synthetic biology technology has been developed that converts easily degraded messenger RNA (mRNA) into a ring-shaped form inside microbial cells, increasing protein production.\r\nA research team le… [+8449 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "Earth.com"
       },
       "author": "Eric Ralls",
@@ -785,6 +798,32 @@
       "urlToImage": "https://hermes.media.transform.aol.com/95a5b44fa7ad81e956d41ee2af7c539910672a51/w_1200,c_scale,f_auto,q_auto/https://hermes.media.static.aol.com/media/2026/09/21/2aa76b73-d612-32a7-9fee-6ccc03d1e2a5/25182b1a-02cd-41af-b154-9b24b3a30965.jpg",
       "publishedAt": "2026-09-21T23:35:39Z",
       "content": "Every GPS position on the planet is calculated against one invisible point: Earths center of mass. Satellite navigation treats that point as fixed. It isnt.\r\nSnowmelt, ocean currents, and shifting ai… [+5388 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "SciTechDaily"
+      },
+      "author": null,
+      "title": "Biggest Supernova Dataset Yet Challenges Dark Energy Theory - SciTechDaily",
+      "description": "Nearly 3,000 exploding stars have revealed a startling possibility: the mysterious force accelerating the universe may be changing over time.",
+      "url": "https://scitechdaily.com/biggest-supernova-dataset-yet-challenges-dark-energy-theory/",
+      "urlToImage": null,
+      "publishedAt": "2026-09-21T19:21:58Z",
+      "content": "Type Ia supernovae are powerful stellar explosions that occur when a white dwarf is pushed into a thermonuclear runaway. Because their brightness can be standardized, astronomers use them as reliable… [+5407 chars]"
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Ashley Strickland",
+      "title": "Lunar orbiter spots ‘once-in-a-lifetime’ new crater on the moon - CNN",
+      "description": "The moon’s surface experienced a violent encounter with a comet or an asteroid — and has a massive battle scar to prove it.",
+      "url": "https://www.cnn.com/2026/09/21/science/mcgetchin-moon-crater-discovery",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/mcgetchin-discovery-reenactment.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2026-09-21T17:17:04Z",
+      "content": "The moons surface experienced a violent encounter with a comet or an asteroid and has a massive battle scar to prove it.\r\nThe space rock, estimated to be the size of a building three to six stories t… [+7365 chars]"
     },
     {
       "source": {
@@ -814,6 +853,19 @@
     },
     {
       "source": {
+        "id": null,
+        "name": "A-z-animals.com"
+      },
+      "author": "Ashley Driggs",
+      "title": "Which Came First, The Chicken Or The Egg? Scientists Finally Have The Answer - a-z-animals.com",
+      "description": "Philosophers have wrestled with this riddle for centuries, but evolutionary biology has quietly been building a case that rewrites the entire question. The answer turns out to hinge on a single, strange genetic moment that has almost nothing to do with chicke…",
+      "url": "https://a-z-animals.com/articles/which-came-first-the-chicken-or-the-egg-scientists-finally-have-the-answer-f2r3/",
+      "urlToImage": "https://a-z-animals.com/media/2026/09/Ajale-.jpg",
+      "publishedAt": "2026-09-21T13:00:00Z",
+      "content": "<ul><li>Aristotle called it an unanswerable paradox, but evolutionary biology just proved him wrong. See how biology answers it </li><li>The 'first chicken' never actually existed, and that missing m… [+3211 chars]"
+    },
+    {
+      "source": {
         "id": "buzzfeed",
         "name": "Buzzfeed"
       },
@@ -824,32 +876,6 @@
       "urlToImage": "https://img.buzzfeed.com/buzzfeed-static/static/2026-09/10/22/thumb/3u4wA3i6U.jpg?crop=1250:654;0,88%26downsize=1250:*",
       "publishedAt": "2026-09-21T01:31:04Z",
       "content": "\"I was a security dispatcher, and sometimes a voice tone plus an obviously incorrect/seemingly wrong number situation is worrying.\r\nThere was a sports store in the mall I used to work security at, an… [+929 chars]"
-    },
-    {
-      "source": {
-        "id": "cnn",
-        "name": "CNN"
-      },
-      "author": "Amarachi Orie",
-      "title": "Cities won’t survive on the moon as there isn’t enough water, scientists say - CNN",
-      "description": "If, like Elon Musk, you have been dreaming of a future in which large populations of humans can live on the moon, you’re likely to be disappointed.",
-      "url": "https://www.cnn.com/2026/09/17/science/moon-water-cities-study-intl-scli",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/art002e009283-large.jpg?c=16x9&q=w_800,c_fill",
-      "publishedAt": "2026-09-17T12:41:17Z",
-      "content": "If, like Elon Musk, you have been dreaming of a future in which large populations of humans can live on the moon, youre likely to be disappointed.\r\nEven though there could be trillions of pounds of w… [+6848 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ScienceAlert"
-      },
-      "author": "Michael Irving",
-      "title": "Africa Is Breaking Apart Faster Than We Thought, Forming a New Ocean - ScienceAlert",
-      "description": "Geologists have discovered that the African continent will split apart sooner than we thought.",
-      "url": "https://www.sciencealert.com/africa-is-breaking-apart-faster-than-we-thought-forming-a-new-ocean",
-      "urlToImage": "https://www.sciencealert.com/images/2026/04/Africa-split.jpg",
-      "publishedAt": "2026-09-17T11:51:02Z",
-      "content": "Geologists have discovered that the African continent will split apart sooner than we thought. An active rift has reached a \"critical threshold\" and will soon break apart, forming a new ocean.\r\nThat … [+4230 chars]"
     }
   ]
 }

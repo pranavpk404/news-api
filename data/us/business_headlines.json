@@ -3,9 +3,35 @@
   "country": "us",
   "category": "business",
   "mode": "country",
-  "fetched_at": "2026-09-25T19:35:07.145886+00:00",
-  "articles_count": 63,
+  "fetched_at": "2026-09-25T22:50:48.494337+00:00",
+  "articles_count": 57,
   "articles": [
+    {
+      "source": {
+        "id": "nbc-news",
+        "name": "NBC News"
+      },
+      "author": "Steve Kopack",
+      "title": "Bond yields surge to fresh two-decade highs but oil prices buffeted by Iran headlines - NBC News",
+      "description": "Key U.S. Treasury yields surged to fresh two-decade highs Thursday, as the price of oil returned to $105 per barrel.",
+      "url": "https://www.nbcnews.com/business/markets/bond-yields-oil-treasury-buyback-bessent-rcna599604",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-09/260903-truck-gas-station-ch-1644-79c704.jpg",
+      "publishedAt": "2026-09-24T20:13:38Z",
+      "content": "Key U.S. Treasury yields surged to fresh two-decade highs Thursday, as the price of oil jumped to as high as $108 per barrel.\r\nThe yield on the 30-year U.S. Treasury bond soared as high as 5.47%, a l… [+6216 chars]"
+    },
+    {
+      "source": {
+        "id": "cbs-news",
+        "name": "CBS News"
+      },
+      "author": "Frank  Andrews, Khaled  Wassef",
+      "title": "Iran War Updates: Oil prices back up as U.S. and Iran trade fresh threats to expand 7-month war - CBS News",
+      "description": "As Iran responds to Trump's threat of annihilation with its own warning of a possible \"new front\" in the war, global oil prices are rising again.",
+      "url": "https://www.cbsnews.com/live-updates/iran-war-trump-un-speech-annihilate-threat-talks-resume/",
+      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/09/24/7e337c61-643a-4be1-b6ea-7e44f9a6e1bf/thumbnail/1200x630/c7237f6ff0603616f9250860d32fa3e9/cape-dao-tanker-strait-of-hormuz.png",
+      "publishedAt": "2026-09-24T19:43:00Z",
+      "content": "The United Arab Emirates has suspended flights operated by Iran's airlines to comply with U.S. sanctions over the Iran war, Iran's semi-official ISNA news agency reported Thursday.\r\n\"All flights by I… [+1756 chars]"
+    },
     {
       "source": {
         "id": "the-washington-post",
@@ -21,29 +47,55 @@
     },
     {
       "source": {
-        "id": "nbc-news",
-        "name": "NBC News"
+        "id": null,
+        "name": "CNBC"
       },
-      "author": "Suzanne Gamboa, Erik Ortiz",
-      "title": "Elizabeth Holmes to be transferred to a halfway house - NBC News",
-      "description": "Holmes, 42, was sentenced to more than 11 years in prison for defrauding investors of millions of dollars through Theranos, the failed blood-testing company that she founded.",
-      "url": "https://www.nbcnews.com/news/us-news/elizabeth-holmes-transferred-halfway-house-rcna599597",
-      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2023-04/230411-elizabeth-holmes-jm-1009-e4c14e.jpg",
-      "publishedAt": "2026-09-24T18:14:47Z",
-      "content": "Elizabeth Holmes, who was convicted of fraud for siphoning hundreds of millions of dollars from several high-profile investors, is scheduled to be transferred from a low-security federal prison to a … [+5058 chars]"
+      "author": "Sean Conlon, Sarah Min, Chloe Taylor, Justina Lee, Ananya Chetia",
+      "title": "S&P 500 is little changed as traders weigh rising yields against optimism over Strait of Hormuz reopening: Live updates - CNBC",
+      "description": "Treasury yields kept marching higher, with traders anticipating further rate hikes from the Federal Reserve.",
+      "url": "https://www.cnbc.com/2026/09/23/stock-market-today-live-updates.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108362436-1789395218757-gettyimages-2295226903-mms19273_rfosksrw.jpeg?v=1789395248&w=1920&h=1080",
+      "publishedAt": "2026-09-24T18:33:10Z",
+      "content": "The Dow Jones Industrial Average fell for a third straight session on Thursday, as Treasury yields at multidecade highs continued to weigh on the most cyclical parts of the market. \r\nThe 30-stock ind… [+2797 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Investor's Business Daily"
+        "name": "MarketWatch"
+      },
+      "author": "Christine Idzelis, Jamie Chisholm, Steve Goldstein, Nora Redmond",
+      "title": "Stock Market Today: S&P 500, Nasdaq waver as Big Tech stocks provide support; Dow down as Treasury yields and oil prices rise; Trump meets with Xi - MarketWatch",
+      "description": "The S&P 500 and Nasdaq closed nearly flat, while the Dow fell as higher Treasury rates kept stocks under pressure. In the bond market, the 10-year Treasury yield rose to 5.163%, settling Thursday at its highest level since 2007.",
+      "url": "https://www.marketwatch.com/livecoverage/stock-market-today-dow-s-p-500-nasdaq-further-federal-reserve-interest-rate-hikes-treasury-yields",
+      "urlToImage": "https://images.mktw.net/im-51746529/social",
+      "publishedAt": "2026-09-24T17:57:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Financial Times"
       },
       "author": null,
-      "title": "Stock Market Today: Nasdaq Improves On U.S.-Iran News; MGM Resorts Plummets (Live Coverage) - Investor's Business Daily",
-      "description": "Stock Market Today: The Dow Jones index drops Thursday on rising Treasury yields. Nvidia stock sold off in morning trading.",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-treasury-yields-nvidia-stock-nvda-buy-point/",
-      "urlToImage": "https://www.investors.com/wp-content/uploads/2017/10/stock-WallStreet-03-adobe.jpg",
-      "publishedAt": "2026-09-24T17:45:00Z",
-      "content": "Information in Investors Business Daily is for informational and educational purposes only and should not be construed as an offer, recommendation, solicitation, or rating to buy or sell securities. … [+1064 chars]"
+      "title": "The AI agent revolution has moved a big step closer - Financial Times",
+      "description": "Launch of Muse by Meta has provided a glimpse of how the technology could be turned into a mass-market product",
+      "url": "https://www.ft.com/content/e60b40b6-dae5-4ccf-83cc-978269cbcaa5?syn-25a6b1a6\\\\u003d1",
+      "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fb644532a-ee92-463e-8bde-033da02f88ab.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
+      "publishedAt": "2026-09-24T17:33:10Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Annie Nova",
+      "title": "Student loan borrowers sue Trump administration over forgiven debts on credit reports - CNBC",
+      "description": "Student loan holders sued the Education Department on Thursday, claiming they suffered financial damages despite getting their debts forgiven years ago.",
+      "url": "https://www.cnbc.com/2026/09/24/student-loan-borrowers-sue-credit-reports-forgiven-loans.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108153887-1790272010605-108153887-17489621282025-06-03t142333z_350825513_rc22veaqww2u_rtrmadp_0_usa-education-mcmahon.jpg?v=1790272020&w=1920&h=1080",
+      "publishedAt": "2026-09-24T16:49:40Z",
+      "content": "A group of student loan borrowers sued the Trump administration on Thursday, alleging they suffered unexpected financial damages despite getting their debts forgiven years ago. \r\nThe borrowers said i… [+1816 chars]"
     },
     {
       "source": {
@@ -86,16 +138,42 @@
     },
     {
       "source": {
-        "id": "the-washington-post",
-        "name": "The Washington Post"
+        "id": null,
+        "name": "Yahoo Entertainment"
       },
-      "author": "Joshua Yang",
-      "title": "As Trump meets Xi, rare earths give China a powerful hand - The Washington Post",
-      "description": "China’s chokehold over rare earths has informed the White House’s less confrontational approach to Beijing, analysts say.",
-      "url": "https://www.washingtonpost.com/world/2026/09/24/donald-trump-meets-xi-jinping-rare-earths-give-china-powerful-hand/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/WIMGJLVXZQI7DFGL2PMPEKUMRM_size-normalized.jpg&w=1440",
-      "publishedAt": "2026-09-24T16:00:00Z",
-      "content": "Ahead of his sit-down with President Donald Trump in Washington on Thursday, Chinese leader Xi Jinping wields a source of leverage that has strengthened his hand in the tense rivalry between their co… [+7 chars]"
+      "author": "Brooke DiPalma",
+      "title": "Starbucks to close 250 stores this week - Yahoo Finance",
+      "description": "Starbucks plans to close more unprofitable locations as its turnaround under CEO Brian Niccol continues.",
+      "url": "https://finance.yahoo.com/markets/stocks/article/starbucks-to-close-250-stores-this-week-155846029.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/3a8d4759cab5ad4e7bb3bfa57d0f7352ffb31418ec5ebce264567b6b1101d4a2/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-09%2F44c113f1-ee05-4c5c-8c47-a9bb35591d2f",
+      "publishedAt": "2026-09-24T15:58:46Z",
+      "content": "Starbucks (SBUX) plans to close more unprofitable locations as its turnaround under CEO Brian Niccol continues.\r\nIn a letter posted to Starbucks' blog and sent to employees on Thursday, COO Mike Gram… [+1962 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Barron's"
+      },
+      "author": "Adam Clark, Angela Palumbo",
+      "title": "Oracle Seeks ‘Force Majeure’ on Data Center. Why It’s Sinking the Stock. - Barron's",
+      "description": "Oracle stock and Bloom Energy were falling on a report the company is seeking to protect itself against delays to construction of a data-center campus.",
+      "url": "https://www.barrons.com/articles/oracle-stock-price-data-center-delay-force-majeure-372fe7aa",
+      "urlToImage": "https://images.barrons.com/im-19299420/social",
+      "publishedAt": "2026-09-24T15:53:00Z",
+      "content": "Notable insiders at the company, including its chief financial officer, unloaded millions of dollars worth of Dell stock."
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Investor's Business Daily"
+      },
+      "author": null,
+      "title": "Why Everpure Stock Is Surging To Record Highs - Investor's Business Daily",
+      "description": "Everpure stock took a big leap Thursday morning, after the enterprise data storage provider gave an updated financial forecast.",
+      "url": "https://www.investors.com/news/technology/everpure-stock-p-analyst-day-fiscal-28-targets/",
+      "urlToImage": "https://www.investors.com/wp-content/uploads/2026/08/stock-Everpure-exhibit-Nutanix-company.jpg",
+      "publishedAt": "2026-09-24T15:18:00Z",
+      "content": "Information in Investors Business Daily is for informational and educational purposes only and should not be construed as an offer, recommendation, solicitation, or rating to buy or sell securities. … [+1064 chars]"
     },
     {
       "source": {
@@ -126,19 +204,6 @@
     {
       "source": {
         "id": null,
-        "name": "Barron's"
-      },
-      "author": "Kit Norton",
-      "title": "Why Everpure Is Today’s Best Stock in the S&P 500 - Barron's",
-      "description": "Everpure stock advances after the data-storage company says revenue growth will continue to accelerate in fiscal 2028.",
-      "url": "https://www.barrons.com/articles/everpure-earnings-stock-price-85ae0168",
-      "urlToImage": "https://images.barrons.com/im-58252917/social",
-      "publishedAt": "2026-09-24T15:07:00Z",
-      "content": "Everpurestock surged on Thursday after the data-storage solutions company said revenue growth would accelerate due to hyperscaler business opportunities and booming demand for artificial intelligence… [+100 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "CNBC"
       },
       "author": "Michael Wayland",
@@ -151,68 +216,81 @@
     },
     {
       "source": {
+        "id": "nbc-news",
+        "name": "NBC News"
+      },
+      "author": "Mithil Aggarwal",
+      "title": "As Trump mulls building Chinese EVs in U.S., automakers point to Germany as a cautionary tale - NBC News",
+      "description": "Could President Donald Trump open the United States to Chinese cars? The prospect is alarming for U.S. automakers, who warn that the consequences can already be seen in Europe.",
+      "url": "https://www.nbcnews.com/world/asia/trump-china-electric-vehicles-germany-volkswagen-rcna598072",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-09/260918-ev-germany-2-rs-204058.jpg",
+      "publishedAt": "2026-09-24T14:44:03Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Seeking Alpha"
+      },
+      "author": "Max Gottlich",
+      "title": "Surging bond yields mark end of decade-long TINA era (TLT:NASDAQ) - Seeking Alpha",
+      "description": "TINA is fading as bond yields surge: 84% of fixed income now yields 4%+.",
+      "url": "https://seekingalpha.com/news/4646707-surging-bond-yields-mark-end-of-decade-long-tina-era",
+      "urlToImage": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1280037176/image_1280037176.jpg?io=getty-c-w630",
+      "publishedAt": "2026-09-24T14:38:18Z",
+      "content": "Andrii Dodonov/iStock via Getty Images\r\nThe era of \"there is no alternative,\" or TINA, to stocks is seemingly dead as global bond yields surge back to historical norms.\r\nAccording to BlackRock Invest… [+100 chars]"
+    },
+    {
+      "source": {
         "id": null,
         "name": "CNBC"
       },
-      "author": "Spencer Kimball",
-      "title": "Big business warns Trump against diesel export ban in joint letter - CNBC",
-      "description": "The national average for a gallon of diesel reached $6.51 on Thursday, nearly $3 more than the same period a year ago, according to data from AAA.",
-      "url": "https://www.cnbc.com/2026/09/24/chamber-commerce-business-roundtable-trump-diesel-export-ban-iran-war.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108365806-1790275667593-108365806-1790015887555-gettyimages-2295314792-AFP_C8QM8WP.jpg?v=1790275678&w=1920&h=1080",
-      "publishedAt": "2026-09-24T14:22:46Z",
-      "content": "The biggest business groups in the U.S. warned President Trump against a diesel export ban this week, saying in a joint letter that such an action would prove counterproductive and raise fuel prices … [+2930 chars]"
+      "author": "Jeff Cox",
+      "title": "Philadelphia Fed's Anna Paulson says 'modest' rate moves likely ahead to tame inflation - CNBC",
+      "description": "The policymaker said she and her colleagues may need to raise interest rates further to bring inflation back to target.",
+      "url": "https://www.cnbc.com/2026/09/24/philadelphia-feds-anna-paulson-says-modest-rate-moves-likely-ahead-to-tame-inflation.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108344635-1785860747884-anna4.jpg?v=1785861012&w=1920&h=1080",
+      "publishedAt": "2026-09-24T14:10:59Z",
+      "content": "Philadelphia Federal Reserve President Anna Paulson said Thursday that she and her colleagues may need to raise interest rates further to bring inflation back to target.\r\nSpeaking a week after the Fe… [+1705 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Quartz India"
+        "name": "Barron's"
       },
-      "author": "Cris Tolomia",
-      "title": "Oracle stock sank after it invoked force majeure on its troubled New Mexico AI data center - qz.com",
-      "description": "Oracle stock fell 4% Thursday after the company sent a notice to its developer seeking protection from higher costs tied to the 2028 project",
-      "url": "https://qz.com/oracle-force-majeure-new-mexico-ai-data-center-092426",
-      "urlToImage": "https://qz.com/cdn-cgi/image/width=1200,quality=85,format=auto/https://assets.qz.com/media/GettyImages-2217725448-300x200.jpg",
-      "publishedAt": "2026-09-24T14:18:11Z",
-      "content": "Global business news for a smarter world\r\n© 2026 Quartz Media, Inc. All rights reserved.\r\nOracle stock fell 4% Thursday after the company sent a notice to its developer seeking protection from higher… [+2449 chars]"
-    },
-    {
-      "source": {
-        "id": "associated-press",
-        "name": "Associated Press"
-      },
-      "author": "Dee-Ann Durbin",
-      "title": "KFC opens a Texas restaurant to test ideas for reclaiming its fried chicken crown - apnews.com",
-      "description": "KFC has been taking a licking in its home market from fried chicken rivals like Raising Cane’s. But the global fast-food chain has a plan to return to the top of the U.S. pecking order. The Kentucky-born brand opened a restaurant in Texas on Thursday to serve…",
-      "url": "https://apnews.com/article/kfc-fried-chicken-6bb34d1783a17f7a651c929306e6752c",
-      "urlToImage": "https://dims.apnews.com/dims4/default/802b88b/2147483647/strip/true/crop/4980x3318+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F03%2F08%2F0e878e619d49e738265be762feea%2Fd0f5ac8c7ad1412db920e3e1fca22b28",
-      "publishedAt": "2026-09-24T14:00:00Z",
-      "content": "KFC has been taking a licking from fried chicken rivals like Raising Canes, but the global fast-food chain has a plan to return to the top of the U.S. pecking order.\r\nThe Kentucky-born brand opened a… [+5340 chars]"
-    },
-    {
-      "source": {
-        "id": "associated-press",
-        "name": "Associated Press"
-      },
-      "author": "Chan Ho-him",
-      "title": "Chinese auto companies race ahead on EV technology, achieving 5-minute ultrafast charging - apnews.com",
-      "description": "Major Chinese auto group Geely has unveiled new ultrafast EV charging technology that can recharge a battery from 10% to 70% in just 4.5 minutes. This development is seen as significant for the company, as it joins BYD and CATL in the race for EV charging spe…",
-      "url": "https://apnews.com/article/china-ev-charging-competition-us-8cba5f8e9580803bb3ca599d152d502b",
-      "urlToImage": "https://dims.apnews.com/dims4/default/2c58093/2147483647/strip/true/crop/6000x3998+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F13%2Fca%2F1429a61d3f8cdd7c7cf3a613df46%2F662218937a39460fae51e1b240578cd3",
+      "author": "Adam Clark",
+      "title": "Micron Stock Could Rise Another 50%. Here's How. - Barron's",
+      "description": "Micron stock could be pushed higher by rising earnings and stock buybacks, according to UBS.",
+      "url": "https://www.barrons.com/articles/micron-stock-price-rise-50-per-cent-39518b23",
+      "urlToImage": "https://images.barrons.com/im-63738/social",
       "publishedAt": "2026-09-24T13:52:00Z",
-      "content": "HONG KONG (AP) Chinese electric vehicles ultrafast charging is only getting faster.\r\nOn Wednesday, Geely Auto unveiled technology that can charge an electric vehicle battery from 10% to 70% in just 4… [+3843 chars]"
+      "content": "The current level of bond yields does not pose a threat to economic growth, says Sonal Desai, global chief investment officer for Franklin Templeton Fixed Income."
+    },
+    {
+      "source": {
+        "id": "usa-today",
+        "name": "USA Today"
+      },
+      "author": "Daniel de Visé",
+      "title": "Americans are taking Social Security early. Will the fund run dry? - USA Today",
+      "description": "Retirement experts say 70 is the best age to take Social Security. Few Americans plan to wait that long.",
+      "url": "https://www.usatoday.com/story/money/personal-finance/2026/09/24/social-security-claiming-early-retirement-cuts/91909457007/",
+      "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/04/10/USAT/89550487007-personal-finance-debt-02.jpg?crop=6714,3779,x0,y332&width=3200&height=1802&format=pjpg&auto=webp",
+      "publishedAt": "2026-09-24T13:48:00Z",
+      "content": "Retirement planners routinely urge Americans to wait until age 70 to claim Social Security.\r\nMost Americans have other plans.\r\nThe longer you wait to claim Social Security, the larger your monthly ch… [+6082 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "New York Post"
+        "name": "Forbes"
       },
-      "author": "Reda Wigle",
-      "title": "Dunkin’ is giving out free coffee today — here’s how to snag a cup - New York Post",
-      "description": "The iconic donut distributor will give away free hot or iced coffee to the first 1 million customers who claim the offer.",
-      "url": "https://nypost.com/2026/09/24/lifestyle/how-to-claim-a-free-dunkin-donuts-coffee-today/",
-      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/09/newspress-collage-11l2zqmqi-1790255199041.jpg?quality=75&strip=all&1790241127&w=1200",
-      "publishedAt": "2026-09-24T13:52:00Z",
-      "content": "Let them drink coffee.\r\nToday, Thursday, September 24, Dunkin’ Donuts is giving away 1 million free coffees to its loyal customers.\r\nThrough this limited-time promotion, the iconic donut distributor … [+2760 chars]"
+      "author": "Forbes",
+      "title": "Elizabeth Holmes Is Leaving Prison Early—What We Know - Forbes",
+      "description": null,
+      "url": "https://www.forbes.com/sites/maryroeloffs/2026/09/24/elizabeth-holmes-set-to-be-released-to-halfway-house-next-summer/",
+      "urlToImage": null,
+      "publishedAt": "2026-09-24T13:47:24Z",
+      "content": null
     },
     {
       "source": {
@@ -230,15 +308,28 @@
     {
       "source": {
         "id": null,
-        "name": "Investopedia"
+        "name": "KOMO News"
       },
-      "author": "Aaron Rennie",
-      "title": "Stock Market Today: Indexes Decline After Selloff as Treasury Yields Remain Elevated; Tech Stocks Weigh; Trump-Xi Summit on Tap - Investopedia",
-      "description": "Major U.S. stock indexes edged lower Thursday, a day after a market selloff, as oil prices rose and Treasury yields hit a fresh 19-year high.",
-      "url": "https://www.investopedia.com/stock-market-today-dow-jones-s-and-p-500-09242026-12138008",
-      "urlToImage": "https://www.investopedia.com/thmb/DcOv7XQNOoG8I0KFj_o-n4aSuPY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-2295046692-757629eef125448389712390d333411e.jpg",
-      "publishedAt": "2026-09-24T13:07:00Z",
-      "content": "September 24, 2026 01:47 PM EDT\r\nMeta, Disney Power S&amp;P 500 Communication Services Sector Gains\r\nWith just over two hours to go in the trading day, the S&amp;P 500 is slightly lower. One cannot a… [+11769 chars]"
+      "author": "KOMO News Staff",
+      "title": "Alaska Airlines expanding service at Paine Field in Everett - KOMO",
+      "description": "Travelers flying out of Paine Field will have more options as Alaska Airlines prepares to increase its seat capacity at the Everett airport by 50%.",
+      "url": "https://komonews.com/news/local/alaska-airlines-expands-service-paine-field-airport-everett-50-percent-more-seats-new-san-jose-flights-boeing-737-west-coast-travel-more-capacity",
+      "urlToImage": "https://komonews.com/resources/media2/16x9/1280/1320/center/90/e5ab0f25-4d6a-4efb-a9dc-1fda3be39a93-alaska_air_inaugural_paine_field_everett_flight.jpg",
+      "publishedAt": "2026-09-24T13:27:41Z",
+      "content": "EVERETT, Wash. Travelers flying out of Paine Field will have more options starting this fall as Alaska Airlines prepares to increase its seat capacity at the Everett airport by 50%.\r\nThe expansion wi… [+971 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "New York Post"
+      },
+      "author": "Aurielle Weiss",
+      "title": "McDonald’s takes on Starbucks, Chipotle with big new menu debuts - New York Post",
+      "description": "The Golden Arches revealed it would start experimenting with new, more protein-packed menu items.",
+      "url": "https://nypost.com/2026/09/24/lifestyle/mcds-takes-on-starbucks-chipotle-with-big-new-menu-debuts/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/09/142313960.jpg?quality=75&strip=all&w=1200",
+      "publishedAt": "2026-09-24T13:15:00Z",
+      "content": "McDonalds rivals are not lovin the competition.\r\nMcDonalds is going all in on GLP-1 users, and taking down the competition along the way. On Wednesdays Investor Day meeting where companies present lo… [+2770 chars]"
     },
     {
       "source": {
@@ -310,52 +401,39 @@
         "id": "usa-today",
         "name": "USA Today"
       },
-      "author": "Melina Khan",
-      "title": "Thyroid medicine recall receives FDA's highest risk level - USA Today",
+      "author": "Melina Khan, USA TODAY",
+      "title": "Thyroid medicine recall receives FDA's highest risk level - AOL.com",
       "description": "A recalled thyroid medicine has been classified under the FDA's most serious risk level, indicating it could potentially be deadly.",
       "url": "https://www.usatoday.com/story/money/consumer-protection/recalls-alerts/2026/09/24/thyroid-tablet-medicine-recall-fda/91916444007/",
-      "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/09/24/USAT/91916631007-getty-images-185235418.jpg?crop=2121,1193,x0,y109&width=2121&height=1193&format=pjpg&auto=webp",
-      "publishedAt": "2026-09-24T12:18:00Z",
-      "content": "Officials have classified the risk level of a thyroid medicine recall initiated last month to its most serious category.\r\nOn Sept. 22, the U.S. Food and Drug Administration categorized the recall whi… [+2146 chars]"
+      "urlToImage": "https://hermes.media.static.aol.com/media/2026/09/24/f76ac874-57b1-3b0a-b6be-bb72c5700b31/aaba45b8-d7ab-4c91-b492-8a1415601db3.jpg",
+      "publishedAt": "2026-09-24T12:18:08Z",
+      "content": "Officials have classified the risk level of a thyroid medicine recall initiated last month to its most serious category.\r\nOn Sept. 22, the U.S. Food and Drug Administration categorized the recall whi… [+2031 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Fox Business"
+        "name": "CNBC"
       },
-      "author": "Anders Hagstrom",
-      "title": "Starbucks to close 250 stores: 'Difficult decision' - Fox Business",
-      "description": "Starbucks COO Mike Grams revealed plans to shutter about 250 coffeehouses across North America, citing struggles with financial performance.",
-      "url": "https://www.foxbusiness.com/fox-news-food-drink/starbucks-close-250-stores-difficult-decision",
-      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2025/01/0/0/starbucks-.jpg?ve=1&tl=1",
-      "publishedAt": "2026-09-24T12:11:00Z",
-      "content": "Starbucks announced plans to close roughly 250 stores across North America this week, company COO Mike Grams revealed Thursday.\r\nGrams announced the closure in a public statement, saying that while m… [+3472 chars]"
+      "author": "Amelia Lucas",
+      "title": "Darden Restaurants stock falls as Olive Garden reports slower growth - CNBC",
+      "description": "Olive Garden's same-store sales growth has slowed in recent quarters.",
+      "url": "https://www.cnbc.com/2026/09/24/darden-restaurants-dri-q1-2027-earnings.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108200271-1758137796033-gettyimages-2221200086-l1055995_tzxi2bdn.jpeg?v=1758137825&w=1920&h=1080",
+      "publishedAt": "2026-09-24T12:14:24Z",
+      "content": "Darden Restaurants on Thursday reported quarterly earnings and revenue that narrowly missed analysts' expectations as same-store sales growth at Olive Garden slows.\r\nShares of the company fell as muc… [+4034 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "nj.com"
+        "name": "InsideEVs "
       },
-      "author": "NJ.com",
-      "title": "N.J. hit data center with record $1M fine — but angry activists say it’s nowhere near enough - NJ.com",
-      "description": null,
-      "url": "https://www.nj.com/business/2026/09/njs-largest-ai-data-center-should-shut-down-after-record-1m-fine-activists-say.html",
-      "urlToImage": null,
-      "publishedAt": "2026-09-24T11:31:00Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "business-insider",
-        "name": "Business Insider"
-      },
-      "author": "Thibault Spirlet",
-      "title": "The Personal AI Agent Horror Stories Are Rolling in - Business Insider",
-      "description": "Early users say personal AI agents have not been forthright about account access, fabricated personal details, and raised cybersecurity concerns.",
-      "url": "https://www.businessinsider.com/ai-agents-gone-wrong-horror-stories-instinct-muse-privacy-security-2026-9#article",
-      "urlToImage": "https://i.insider.com/6ab3a5de265e3f8e338f5ed2?width=1200&format=jpeg",
-      "publishedAt": "2026-09-24T10:27:21Z",
-      "content": "The dream of a personal AI assistant that runs your digital life has, for some, turned into a nightmare.\r\nMany early users say their personal AI agents, which can autonomously take actions on the int… [+5942 chars]"
+      "author": "Suvrat Kothari",
+      "title": "Bentley’s First EV Charges Faster Than You Can Finish Lunch - insideevs.com",
+      "description": "Bentley enters the electric era with an opulent midsize SUV called the Torcal.",
+      "url": "https://insideevs.com/news/809318/bentley-torcal-midsize-suv-fast-charging/",
+      "urlToImage": "https://cdn.motor1.com/images/mgl/KbZBe1/s1/2028-bentley-torcal-electric-suv-first-edition.jpg",
+      "publishedAt": "2026-09-24T11:04:54Z",
+      "content": "Luxury and electrification are a natural pairing, and a string of high-end British automakers are now fully embracing it. After Rolls-Royce and Jaguar Land Rover, Bentley is the latest automaker from… [+3478 chars]"
     },
     {
       "source": {
@@ -372,55 +450,16 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
+        "id": "cnn",
+        "name": "CNN"
       },
-      "author": "Kerry Hannon",
-      "title": "Why so many Americans leave Social Security money on the table - Yahoo Finance",
-      "description": "Many pre-retirees plan to start Social Security before full retirement age and accept lower lifetime benefits.",
-      "url": "https://finance.yahoo.com/markets/article/why-so-many-americans-leave-social-security-money-on-the-table-100000407.html",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/a4f5697ca3195ce9595809c6e8d790eb380053e7cca6b7b26f633d10b78f5349/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-09%2F1906dfbd-4859-4365-9da4-60c47560581a",
-      "publishedAt": "2026-09-24T10:00:00Z",
-      "content": "More than half of working Americans worry about outliving their money in retirement, yet many of those same people plan to begin collecting Social Security benefits early leaving money on the table. … [+3869 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "New York Post"
-      },
-      "author": "Michael Kaplan",
-      "title": "US military spending $500M on ‘war-ready’ laser weapons — and zapping drones in Iran, along US border: experts - New York Post",
-      "description": "The US project to harness laser power has been 50 years in the making and outstrips the capabilities of any other military on Earth.",
-      "url": "https://nypost.com/2026/09/24/us-news/us-military-spending-500m-on-war-ready-laser-weapons-experts/",
-      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/09/newspress-collage-iueggl93b-1790207385676.jpg?quality=75&strip=all&1790193015&w=1200",
-      "publishedAt": "2026-09-24T10:00:00Z",
-      "content": "Iranian citizens have witnessed some dazzling laser shows recently but theyre not the kind youd see at a Metallica concert.\r\nThe US military has been deploying lasers in the Strait of Hormuz to knock… [+6111 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "NPR"
-      },
-      "author": "Willa Rubin",
-      "title": "eBay bans airbag sales as concerns about faulty or counterfeit parts rise - NPR",
-      "description": "eBay became the latest online retailer to ban the sale of airbags and many of their components. Aftermarket parts can be risky if they turn out to be fake or defective.",
-      "url": "https://www.npr.org/2026/09/24/nx-s1-5978124/ebay-bans-airbags-faulty-counterfeit-auto-parts",
-      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4928x2772+0+254/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F23%2F29%2Fb7766e8b43ebb0a552f660716356%2Fgettyimages-875342536.jpg",
-      "publishedAt": "2026-09-24T09:00:00Z",
-      "content": "Stay up to date with our \r\nUp First\r\n newsletter, sent every weekday morning.\r\nThe online retailer eBay is joining a pack of its competitors in banning sales of airbags and many kinds of airbag parts… [+5980 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": "Jenni Reid",
-      "title": "New York Fed’s Williams says it's 'reasonable' to expect another rate hike by year-end - CNBC",
-      "description": "John Williams was speaking at the London Macro Policy Forum on Thursday.",
-      "url": "https://www.cnbc.com/2026/09/24/feds-williams-another-rate-hike-by-year-end.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108287977-1775572555121-gettyimages-2269656389-WILLIAMS_INTERVIEW.jpeg?v=1775572583&w=1920&h=1080",
-      "publishedAt": "2026-09-24T08:29:26Z",
-      "content": "It would be \"reasonable\" to expect another interest rate hike from the Federal Reserve by the end of the year, New York Federal Reserve President John Williams said on Thursday. \r\nWilliams said inves… [+1462 chars]"
+      "author": "Jordan Valinsky",
+      "title": "McDonald’s is spending billions to make major changes - CNN",
+      "description": "McDonald’s is spending billions of dollars to boost its franchises, an effort to cement its title as the leader in fast food amid growing competition.",
+      "url": "https://www.cnn.com/2026/09/24/food/mcdonalds-franchises-billions-spending",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/shutterstock-editorial-15696942p.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2026-09-24T09:00:30Z",
+      "content": "McDonalds is spending billions of dollars to boost its franchises, an effort to cement its title as the leader in fast food amid growing competition.\r\nThe chain announced Wednesday thatit will invest… [+3235 chars]"
     },
     {
       "source": {
@@ -437,6 +476,19 @@
     },
     {
       "source": {
+        "id": null,
+        "name": "Motley Fool"
+      },
+      "author": "Geoffrey Seiler",
+      "title": "Here's What a $1,000 Investment in SpaceX Stock Could Be Worth in 5 Years - The Motley Fool",
+      "description": "There is reason to believe that SpaceX shares could climb meaningfully higher in the next few years.",
+      "url": "https://www.fool.com/investing/2026/09/24/heres-what-a-1000-investment-in-spacex-stock-could/",
+      "urlToImage": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F888567%2Fspcx.png&w=1200&op=resize",
+      "publishedAt": "2026-09-24T07:05:00Z",
+      "content": "SpaceX(SPCX-0.22%) is one of the most intriguing companies to ever go public, and its upside potential could be big. Led by Elon Musk, the company is looking to disrupt industries and create entirely… [+3942 chars]"
+    },
+    {
+      "source": {
         "id": "fortune",
         "name": "Fortune"
       },
@@ -447,19 +499,6 @@
       "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/09/GettyImages-2275743988.jpg?resize=1200,600",
       "publishedAt": "2026-09-24T07:05:00Z",
       "content": "China keeps growing its share of global cargo sales, indicating the Trump administrations tariffs meant to punish the country are instead an obstacle that China has successfully navigated.China now a… [+5177 chars]"
-    },
-    {
-      "source": {
-        "id": "associated-press",
-        "name": "Associated Press"
-      },
-      "author": "Dee-Ann Durbin",
-      "title": "McDonald’s bets $8.5 billion on a sweeping restaurant makeover and new protein-focused menu - apnews.com",
-      "description": "McDonald’s said Wednesday it will spend $8.5 billion over the next decade to modernize its restaurants globally. The Chicago burger chain also said it plans to introduce grilled chicken sandwiches and wraps and experiment with products like egg bites and bowl…",
-      "url": "https://apnews.com/article/mcdonalds-ai-chicken-sales-8fe82992d02ee0c7bc6eb62d978cbfec",
-      "urlToImage": "https://dims.apnews.com/dims4/default/50b7206/2147483647/strip/true/crop/3000x1999+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fe5%2F08%2F932d1bb5f9af5dbe2ffeb443f180%2F0d27ab1bee0040c29f2fc28a73ad296e",
-      "publishedAt": "2026-09-24T01:20:00Z",
-      "content": "McDonalds said Wednesday it will spend $8.5 billion over the next decade to modernize its restaurants globally.\r\nFast-food traffic in many markets, including the U.S., is flat, so for McDonalds to co… [+4589 chars]"
     },
     {
       "source": {
@@ -503,6 +542,19 @@
     {
       "source": {
         "id": null,
+        "name": "WCVB Boston"
+      },
+      "author": "Livia Daggett",
+      "title": "Some GLP-1 companies facing lawsuits over vision loss. What to know - wcvb.com",
+      "description": "Some of the companies that produce GLP-1 drugs like Ozempic and Zepbound are facing lawsuits alleging that the drugs caused vision loss. Here's what to know.",
+      "url": "https://www.wcvb.com/article/glp-1-ozempic-companies-lawsuits-vision-loss-naion/73855434",
+      "urlToImage": "https://kubrick.htvapps.com/htv-prod/images/e24c496e-71a0-4186-8708-f392ea76ca59.jpg?crop=1.00xw%3A0.847xh%3B0%2C0&resize=1200%3A*",
+      "publishedAt": "2026-09-23T22:16:00Z",
+      "content": "Some of the companies that produce GLP-1 drugs like Ozempic and Zepbound are facing lawsuits as patients allege that the drugs caused permanent eye damage.\r\nThey claim that makers of the drugs should… [+2520 chars]"
+    },
+    {
+      "source": {
+        "id": null,
         "name": "Gizmodo.com"
       },
       "author": "AJ Dellinger",
@@ -512,19 +564,6 @@
       "urlToImage": "https://gizmodo.com/app/uploads/2026/09/GettyImages-2292612804-1200x675.jpg",
       "publishedAt": "2026-09-23T21:08:00Z",
       "content": "Nvidia CEO Jensen Huang does not believe that artificial intelligence poses an existential threat to humanity, no matter how many former AI lab employees sound the alarm. But, if the people working b… [+2912 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": "Jonathan Vanian, Ari Levy",
-      "title": "Meta's standoff with Amazon over Muse could be a sign of things to come - CNBC",
-      "description": "Meta's new Muse AI personal agent is garnering excitement and shows signs of becoming a hit, but Amazon has blocked the app from its site.",
-      "url": "https://www.cnbc.com/2026/09/23/metas-standoff-with-amazon-over-muse-comes-ahead-of-meta-connect.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108367194-1790203487519-gettyimages-2296202855-20090101260924-99-740118.jpeg?v=1790203638&w=1920&h=1080",
-      "publishedAt": "2026-09-23T21:04:47Z",
-      "content": "Meta's rollout of its Muse AI personal agent has been a big hit with consumers and investors. The stock has jumped more than 20% in the two weeks since its introduction, and the app has shot up to th… [+6926 chars]"
     },
     {
       "source": {
@@ -538,45 +577,6 @@
       "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/09/23/f92310e5-5e76-421f-b030-abc1ae0f500d/thumbnail/1200x630/aba00de1027d952071f1632053a34568/frugal-fannies.jpg",
       "publishedAt": "2026-09-23T21:00:00Z",
       "content": "Frugal Fannie's, a warehouse women's clothing store known for its bargains, is closing its Westwood, Massachusetts, location after 43 years.\r\nA going-out-of-business liquidation sale will start Thurs… [+1492 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Financial Times"
-      },
-      "author": null,
-      "title": "Rosneft billions fed Kremlin-backed money laundering network - Financial Times",
-      "description": "FT investigation shows the state oil group’s hard currency was at heart of Russia’s efforts to circumvent sanctions",
-      "url": "https://www.ft.com/content/fb42c5dd-1550-402c-8881-49a3902710a0?syn-25a6b1a6\\\\u003d1",
-      "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F629d31b2-b668-456a-bb4b-b8cf1e6788de.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
-      "publishedAt": "2026-09-23T20:00:08Z",
-      "content": "Get 2 months free with an annual subscription at was $59.88now $49. Access to eight surprising articles a day, hand-picked by FT editors. For seamless reading, access content via the FT Edit page on … [+91 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Electrek"
-      },
-      "author": "Fred Lambert",
-      "title": "Bentley unveils Torcal, its first EV: 888 PS, 375 miles of range - Electrek",
-      "description": "Bentley unveils the Torcal, its first all-electric model: an SUV with up to 888 PS, a 113 kWh battery, 375 miles of range and 400 kW charging.",
-      "url": "http://electrek.co/2026/09/23/bentley-torcal-first-electric-bentley-unveiled/",
-      "urlToImage": "https://electrek.co/wp-content/uploads/sites/3/2026/09/bentley-torcal-02.jpg?quality=82&strip=all&resize=1200,628",
-      "publishedAt": "2026-09-23T19:33:00Z",
-      "content": "Image: Bentley\r\nBentley has unveiled the Torcal, its first all-electric vehicle, at a global debut in London today. Its an SUV with up to 888 PS (876 hp), a 113 kWh battery, and up to 375 miles (600 … [+4639 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "TheStreet"
-      },
-      "author": "thestreet.com",
-      "title": "Classic diner chain operator files Chapter 11 bankruptcy - thestreet.com",
-      "description": null,
-      "url": "https://www.thestreet.com/restaurants/dennys-rival-dining-franchisee-files-chapter-11-bankruptcy",
-      "urlToImage": null,
-      "publishedAt": "2026-09-23T19:09:04Z",
-      "content": null
     },
     {
       "source": {
@@ -607,19 +607,6 @@
     {
       "source": {
         "id": null,
-        "name": "Abcnews.com"
-      },
-      "author": "JESSICA HILL Associated Press",
-      "title": "Caesars stockholders approve $6 billion merger with Fertitta - ABC News - Breaking News, Latest News and Videos",
-      "description": "Caesars Entertainment shareholders have voted to approve a multibillion-dollar merger with Fertitta Gaming that once complete would create one of the largest gaming empires",
-      "url": "https://abcnews.com/Business/wireStory/caesars-stockholders-approve-6-billion-merger-fertitta-136694293",
-      "urlToImage": "https://i.abcnewsfe.com/a/daf1c040-a156-4b8e-8143-d5a6e0819f40/wirestory_937d694e2fb95c7535afe7c800dcf13c_16x9.jpg?w=1600",
-      "publishedAt": "2026-09-23T18:43:59Z",
-      "content": "LAS VEGAS -- Caesars Entertainment shareholders have approved a multibillion-dollar merger with Fertitta Gaming that would create one of the largest gaming empires.\r\nCaesars has a dominant presence o… [+1131 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "Investinglive.com"
       },
       "author": "Greg Michalowski",
@@ -629,6 +616,19 @@
       "urlToImage": "https://investinglive.com/cms/media/Processed/Categories/featured/Bond%20Auction-featured-1790183159.jpg?width=960&format=webp",
       "publishedAt": "2026-09-23T17:07:38Z",
       "content": "High risk warning: Foreign exchange trading carries a high level of risk that may not be suitable for all investors. Leverage creates additional risk and loss exposure. Before you decide to trade for… [+2119 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Variety"
+      },
+      "author": "Todd Spangler",
+      "title": "David Ellison Mulls Tapping Elon Musk for Paramount Investment While Closing in on Warner Bros. Takeover: Report - Variety",
+      "description": "David Ellison, seeking fresh capital for a merged Paramount-Warner Bros., is considering reaching out to tech mogul Elon Musk -- the world's richest person -- to \"become part of a syndicate of equity investors into Paramount,\" according to a report by Semafor.",
+      "url": "https://variety.com/2026/film/news/david-ellison-considering-elon-musk-paramount-investment-1236873471/",
+      "urlToImage": "https://variety.com/wp-content/uploads/2026/09/David-Ellison-Elon-Musk.jpg?w=1000&h=563&crop=1",
+      "publishedAt": "2026-09-23T16:38:00Z",
+      "content": "David Ellison, seeking fresh capital for a merged Paramount-Warner Bros., is considering reaching out to Elon Musk — the controversial tech mogul who is the world’s richest person — to “become part o… [+2834 chars]"
     },
     {
       "source": {
@@ -684,68 +684,16 @@
     },
     {
       "source": {
-        "id": "axios",
-        "name": "Axios"
-      },
-      "author": "Nathan Bomey",
-      "title": "McDonald's is exploring ways to attract GLP-1 users - Axios",
-      "description": "The chain is considering new protein-based products to win over GLP-1 drug users.",
-      "url": "https://www.axios.com/2026/09/23/mcdonalds-glp-1-bowls-grilled-chicken",
-      "urlToImage": "https://images.axios.com/VuTOYnGKy95LnzGxfJJuP4MPz68=/0x71:7460x4267/1366x768/2026/09/23/1790173145724.jpeg",
-      "publishedAt": "2026-09-23T15:24:58Z",
-      "content": "Driving the news: McDonald's USA president Skye Anderson on Wednesday outlined the chain's plan to shore up its business among GLP-1 users.\r\n<ul><li>Those customers \"want more protein, greater portio… [+747 chars]"
-    },
-    {
-      "source": {
         "id": null,
-        "name": "Futurism"
+        "name": "News3LV"
       },
-      "author": "Frank Landymore",
-      "title": "Mathematicians Can't Make Sense of How OpenAI's Agents Solved One of the Toughest Math Problems Because the AI's \"Proof\" Is Borderline Incomprehensible - Futurism",
-      "description": "Mathematicians say they're still unpacking OpenAI's solution for the Navier-Stokes problems because the AI's proof is nearly incomrehensible.",
-      "url": "https://futurism.com/artificial-intelligence/mathematicians-openai-agents-proof-borderline-incomprehensible",
-      "urlToImage": "https://futurism.com/wp-content/uploads/2026/09/mathematicians-openai-agents-proof-borderline-incomprehensible.jpg?w=1200",
-      "publishedAt": "2026-09-23T14:17:31Z",
-      "content": "Can’t-miss innovations from the bleeding edge of science and tech\r\nEarlier this month, OpenAI announced that it had found a solution for one of the biggest unsolved problems in math, the Navier-Stoke… [+3802 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Cruise Hive"
-      },
-      "author": "Melissa Mayntz",
-      "title": "Royal Caribbean Just Bought Half of Sandals Resorts, Here’s What Changes for Guests - Cruise Hive",
-      "description": "Royal Caribbean Group and Sandals and Beaches Resorts have confirmed a $3 billion parternership deal to begin in early 2027.",
-      "url": "https://www.cruisehive.com/royal-caribbean-just-bought-half-of-sandals-resorts-heres-what-changes-for-guests/218629",
-      "urlToImage": "https://www.cruisehive.com/wp-content/uploads/2026/09/Royal-Caribbean-Sandals-Agreement.jpg",
-      "publishedAt": "2026-09-23T14:16:58Z",
-      "content": "Key Aspects:\r\n<ul><li>Royal Caribbean Group and Sandals and Beaches Resorts have confirmed the signing of a partnership agreement expected to close in early 2027.</li><li>The $3 billion investment fr… [+4948 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "AlterNet"
-      },
-      "author": "Alex Henderson",
-      "title": "Tennessee school busses grind to a halt as Trump policy takes hold - AlterNet",
-      "description": "Economists are warning that rising fuel costs resulting from President Donald Trump's war against Iran will affect everything from grocery prices to public transportation.",
-      "url": "https://www.alternet.org/trump-tennessee-diesel-prices/",
-      "urlToImage": "https://www.alternet.org/media-library/image-via-shutterstock.png?id=67818494&width=1200&height=600&coordinates=0%2C60%2C0%2C60",
-      "publishedAt": "2026-09-23T13:32:00Z",
-      "content": "Economists are warning that rising fuel costs resulting from President Donald Trump's war against Iran will affect everything from grocery prices to public transportation. And according to contractor… [+2335 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Post Magazine"
-      },
-      "author": null,
-      "title": "Trump sells tens of millions in AI, tech shares, led by Microsoft - South China Morning Post",
-      "description": "US president made over 1,100 trades in July, selling up to US$31 million of Microsoft and US$26 million of Amazon, disclosures show.",
-      "url": "https://www.scmp.com/tech/article/3368525/trump-offloads-tens-millions-ai-tech-shares-led-microsoft-amazon-meta",
-      "urlToImage": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/09/23/bdac5d7f-e5af-446f-b4de-5f0f53b783fa_81a54739.jpg?itok=RxAR58Z2&v=1790158038",
-      "publishedAt": "2026-09-23T12:30:07Z",
-      "content": "US President Donald Trump has sold shares worth tens of millions of US dollars in major tech companies, including Microsoft, Amazon and Meta Platforms in July, a move that may reveal some of his view… [+774 chars]"
+      "author": "Sara Sullivan",
+      "title": "Caesars shareholders approve $17.6B Fertitta buyout - KSNV",
+      "description": "Caesars Entertainment shareholders have approved Fertitta Entertainment’s $17.6 billion buyout of the Nevada-based casino company.The vote took place Tuesday du",
+      "url": "https://news3lv.com/news/local/caesars-shareholders-approve-176b-fertitta-buyout",
+      "urlToImage": "https://news3lv.com/resources/media2/16x9/3000/1320/0x157/90/b31d43fe-cd5b-48f7-ba55-ee3adef05cdf-240916_LasVegasStripTouristStock_Final118.jpg",
+      "publishedAt": "2026-09-23T14:11:54Z",
+      "content": "LAS VEGAS (KSNV) Caesars Entertainment shareholders have approved Fertitta Entertainments $17.6 billion buyout of the Nevada-based casino company.\r\nThe vote took place Tuesday during a special shareh… [+1032 chars]"
     },
     {
       "source": {
@@ -758,19 +706,6 @@
       "url": "https://www.forbes.com/sites/michaeltnietzel/2026/09/23/phil-and-penny-knight-donate-1-billion-to-the-university-of-oregon/",
       "urlToImage": null,
       "publishedAt": "2026-09-23T12:14:18Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Business Wire"
-      },
-      "author": "Business Wire",
-      "title": "Enveda Raises $311 Million From Leading AI and Biotech Investors to Bring Pharma Into the 21st Century - Business Wire",
-      "description": null,
-      "url": "https://www.businesswire.com/news/home/20260923027166/en/Enveda-Raises-%24311-Million-From-Leading-AI-and-Biotech-Investors-to-Bring-Pharma-Into-the-21st-Century",
-      "urlToImage": null,
-      "publishedAt": "2026-09-23T12:00:00Z",
       "content": null
     },
     {
@@ -811,19 +746,6 @@
       "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/09/GettyImages-160973005-e1790098733943.jpg?resize=1200,600",
       "publishedAt": "2026-09-23T07:01:00Z",
       "content": "With the skyrocketing cost of higher education and a questionable return on investment, many Gen Zers are considering alternative career pathswhether as full-time content creators, in the trades, or … [+3416 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ConsumerReports.org"
-      },
-      "author": null,
-      "title": "Seattle City Council votes to ban surveillance pricing in sale of groceries - advocacy.consumerreports.org",
-      "description": "If signed, Seattle will become the first city in the nation to prohibit the pricing tactic Seattle, Washington – The Seattle City Council today passed…",
-      "url": "https://advocacy.consumerreports.org/press_release/seattle-city-council-votes-to-ban-surveillance-pricing-in-sale-of-groceries/",
-      "urlToImage": "https://article.images.consumerreports.org/f_auto/prod/content/dam/special-graphics/CR-generic-lowres",
-      "publishedAt": "2026-09-23T00:43:27Z",
-      "content": "If signed, Seattle will become the first city in the nation to prohibit the pricing tactic\r\nSeattle, Washington The Seattle City Council today passed the Fair Pricing and Transparency Act (CB 121267)… [+3450 chars]"
     }
   ]
 }

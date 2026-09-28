@@ -3,34 +3,86 @@
   "country": "us",
   "category": "business",
   "mode": "country",
-  "fetched_at": "2026-09-27T22:36:11.224572+00:00",
-  "articles_count": 64,
+  "fetched_at": "2026-09-28T02:03:39.893669+00:00",
+  "articles_count": 62,
   "articles": [
     {
       "source": {
         "id": null,
-        "name": "CNBC"
+        "name": "Fox Business"
       },
-      "author": "Amelia Lucas",
-      "title": "Trump says he approved new fuel economy standards rolling back Biden-era rules - CNBC",
-      "description": "The new fuel economy standards will reverse the Biden administration's stricter policies meant to spur electric vehicle adoption.",
-      "url": "https://www.cnbc.com/2026/09/26/trump-fuel-economy-cafe-standards.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108236093-1764784788711-gettyimages-2249777843-_m0a1995_il9os5ws.jpeg?v=1764784809&w=1920&h=1080",
-      "publishedAt": "2026-09-26T20:50:06Z",
-      "content": "President Donald Trump on Saturday said he approved new fuel economy standards, reversing former President Joe Biden's stricter policies meant to fuel electric vehicle adoption.\r\nSince the Corporate … [+1618 chars]"
+      "author": "Brie Stimson",
+      "title": "E. coli outbreak linked to raw milk cheese leads to 13 illnesses and eight hospitalizations across the US: FDA - Fox Business",
+      "description": "Eight people have been hospitalized as the FDA investigates contamination in Sierra Nevada Graziers cheddar and jack cheese varieties.",
+      "url": "https://www.foxbusiness.com/retail/e-coli-outbreak-linked-raw-milk-cheese-leads-13-illnesses-eight-hospitalizations-across-us-fda",
+      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/09/0/0/graziers-raw-cheese.jpg?ve=1&tl=1",
+      "publishedAt": "2026-09-27T00:14:00Z",
+      "content": "A recall has been issued for raw milk cheese after more than a dozen people were sickened with E. coli across several states.\r\nThe recalled products include Sierra Nevada Graziers grass-fed raw milk … [+2720 chars]"
+    },
+    {
+      "source": {
+        "id": "the-hill",
+        "name": "The Hill"
+      },
+      "author": "Sarah Davis",
+      "title": "Trump says he ended Biden electric vehicle rule, updated fuel economy standards - thehill.com",
+      "description": "President Trump announced Saturday he approved new fuel economy standards that eliminate an electric vehicle (EV) mandate introduced under the Biden administration. The 2024 EV mandate aimed to facilitate the transition from gas-powered to EVs by setting new …",
+      "url": "https://thehill.com/homenews/administration/6113324-trump-eliminates-biden-ev-mandate/",
+      "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2026/09/trumpdonald_UN_092226_AP-e1790103355885.jpg?w=1280",
+      "publishedAt": "2026-09-26T22:52:00Z",
+      "content": "Skip to content\r\nPresident Trump announced Saturday he approved new fuel economy standards that eliminate an electric vehicle (EV) mandate introduced under the Biden administration.\r\n The 2024 EV man… [+2321 chars]"
+    },
+    {
+      "source": {
+        "id": "axios",
+        "name": "Axios"
+      },
+      "author": "Madison Mills",
+      "title": "Scoop: Top AI companies probing tens of thousands of security incidents - Axios",
+      "description": "The massive scale of security incidents points to control problems for AI companies.",
+      "url": "https://www.axios.com/2026/09/26/openai-anthropic-thousands-ai-security-incidents",
+      "urlToImage": "https://images.axios.com/b9BbuwrPG6fO9BSYyOLqAcMyUZM=/0x0:1920x1080/1366x768/2026/02/04/1770232055847.jpeg",
+      "publishedAt": "2026-09-26T22:39:13Z",
+      "content": "<ul><li>The findings, which are surfacing as part of internal work to assess models and in investigations at both companies into model behavior, raise questions about whether either company or any to… [+5844 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": null,
+      "title": "Costco membership offers hidden savings beyond groceries: 5 perks to know - Fox News",
+      "description": "Costco executive membership perks extend far beyond bulk groceries, with hidden savings on gas, travel packages, gift cards and tire maintenance.",
+      "url": "https://www.foxnews.com/food-drink/costco-membership-offers-hidden-savings-beyond-groceries-5-perks-know",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/07/costco-checkout.jpg",
+      "publishedAt": "2026-09-26T21:45:44Z",
+      "content": "A Costco membership is best known for bulk groceries, the $1.50 hot dog combo and towering packs of paper goods, but some of the biggest savings can happen well beyond the winding checkout lines.\r\nFr… [+3386 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Anthony Ha",
+      "title": "Insurers claim AI is already increasing healthcare costs - TechCrunch",
+      "description": "Blue Cross Blue Shield says hospital use of AI tools led to an additional $942M in healthcare spending over a two-year period.",
+      "url": "https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2021/11/GettyImages-1214954967.jpg?resize=1200,612",
+      "publishedAt": "2026-09-26T21:02:06Z",
+      "content": "Hospitals use of artificial intelligence tools as they submit insurance claims led to an additional $942 million in healthcare spending over a two-year period, according to an analysis by the Blue Cr… [+1010 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "CNBC"
+        "name": "New York Post"
       },
-      "author": "Leslie Josephs",
-      "title": "Boeing flags 737 Max software glitch affecting some automated approach functions - CNBC",
-      "description": "Boeing identified a software issue on some 737 Max aircraft that can affect automated vertical navigation functions after a missed approach.",
-      "url": "https://www.cnbc.com/2026/09/26/boeing-737-max-navigation-software-glitch.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108250215-1767906239901-gettyimages-2249102626-BOEING_737_MAX.jpeg?v=1768321273&w=1920&h=1080",
-      "publishedAt": "2026-09-26T20:30:40Z",
-      "content": "Boeing said it flagged a software glitch last month on some 737 Max aircraft that could affect certain landing procedures, as the manufacturer seeks federal approval for the fourth and final model in… [+2501 chars]"
+      "author": "Justin Choi",
+      "title": "Heartbreaking update for teen football star shot while working at California Five Guys - nypost.com",
+      "description": "Nearly one month after a stray bullet tore through a teen Five Guys employee in Southern California, his heartbroken mother has revealed a devastating update.",
+      "url": "https://nypost.com/2026/09/26/us-news/tragic-update-for-teen-shot-while-working-at-five-guys-in-oxnard/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/09/142660349.jpg?quality=75&strip=all&w=1200",
+      "publishedAt": "2026-09-26T20:57:00Z",
+      "content": "The heartbroken mother of a teen football player struck by stray bullet while working at Five Guys in Oxnard gave a devastating update on her son’s injuries nearly a month after the shooting.\r\nJonath… [+2223 chars]"
     },
     {
       "source": {
@@ -73,6 +125,19 @@
     },
     {
       "source": {
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "author": "Davide Barbuscia, Ronan Martin",
+      "title": "Rate Market Fear Gauge Is Warning for Corporate Bonds - Bloomberg.com",
+      "description": "Corporate bonds have been relatively resilient amid a global government bond selloff, but the strength may not last.",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-26/rate-market-fear-gauge-is-warning-for-corporates-credit-weekly",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iyIbG__1CeYo/v1/1200x800.jpg",
+      "publishedAt": "2026-09-26T19:00:00Z",
+      "content": "Corporate bonds have been relatively resilient amid a global government bond selloff, but the strength may not last.\r\nBond market volatility, a measure of uncertainty about the direction of bond yiel… [+145 chars]"
+    },
+    {
+      "source": {
         "id": null,
         "name": "New York Post"
       },
@@ -96,6 +161,32 @@
       "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/03/nostalgic-snacks-fans-demand-back-chips.jpg",
       "publishedAt": "2026-09-26T17:43:27Z",
       "content": "Shoppers are mourning several grocery store products this year from a nostalgic juice staple to cult-favorite snack flavors reportedly being cleared from shelves.\r\nSome 2026 grocery exits are confirm… [+3408 chars]"
+    },
+    {
+      "source": {
+        "id": "the-hill",
+        "name": "The Hill"
+      },
+      "author": "John Mac Ghlionn, opinion contributor",
+      "title": "United in debt: America has become a nation of fake rich people - thehill.com",
+      "description": "An essay by John Mac Ghlionn examines the growing divide between Americans' physical financial realities and the performative wealth displayed through social media and consumer credit.",
+      "url": "https://thehill.com/opinion/finance/6112015-us-split-digital-physical-economies/",
+      "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2026/09/AP26226632878152.jpg?w=1280",
+      "publishedAt": "2026-09-26T17:00:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "newsweek",
+        "name": "Newsweek"
+      },
+      "author": "Amanda Castro",
+      "title": "Map Shows States Hit by 1.7M-Pound Sugar Recall as FDA Sets Risk Level - Newsweek",
+      "description": "The FDA said that consumers should return the recalled products to where they bought them for a refund.",
+      "url": "https://www.newsweek.com/fda-class-ii-risk-level-1-7-million-pound-sugar-recall-wheat-allergen-12492685",
+      "urlToImage": "https://assets.newsweek.com/wp-content/uploads/2026/09/Screenshot-2026-09-26-105924.png?w=1200&crop=1",
+      "publishedAt": "2026-09-26T16:22:00Z",
+      "content": "The U.S. Food and Drug Administration (FDA) this week assigned a Class II risk classification to a recent recall involving nearly 1.7 million pounds of sugar products that may contain undeclared whea… [+5092 chars]"
     },
     {
       "source": {
@@ -125,29 +216,16 @@
     },
     {
       "source": {
-        "id": "cnn",
-        "name": "CNN"
-      },
-      "author": "Auzinea Bacon",
-      "title": "Rogue OpenAI agents targeted three separate US government websites - CNN",
-      "description": "OpenAI said Friday that some of its AI agents went rogue and probed US government websites this summer — the latest revelation of the artificial intelligence company’s technology.",
-      "url": "https://www.cnn.com/2026/09/26/tech/openai-agents-rogue-government-websites",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2288600936.jpg?c=16x9&q=w_800,c_fill",
-      "publishedAt": "2026-09-26T14:54:41Z",
-      "content": "OpenAI said Friday that some of its AI agents went rogue and probed US government websites this summer the latest revelation of the artificial intelligence companys technology.\r\nThe New York Times fi… [+3643 chars]"
-    },
-    {
-      "source": {
         "id": null,
-        "name": "Newsnationnow.com"
+        "name": "CNBC"
       },
-      "author": "Rob Taub",
-      "title": "GLP-1 lawsuit: Patient’s attorney describes life-changing effects from taking drug - NewsNation",
-      "description": "Engel's attorney, Grace Chandler, said her client has a hard time having a positive outlook due to being permanently blind.",
-      "url": "https://www.newsnationnow.com/health/glp-1-lawsuit-todd-engel-blind/",
-      "urlToImage": "https://www.newsnationnow.com/wp-content/uploads/sites/108/2026/09/snapshot-2026-09-25T233806.121.jpg?w=1280",
-      "publishedAt": "2026-09-26T13:13:27Z",
-      "content": "(NewsNation) Lawsuits against GLP-1 drugmakers continue to increase, and the attorney for one patient says his life has changed dramatically as a result of taking the medication.\r\nRecent complaints a… [+2211 chars]"
+      "author": "Deena Zaidi",
+      "title": "The 10-year Treasury yield is at its highest in nearly two decades. How we got here - CNBC",
+      "description": "The benchmark yield has climbed to a 19-year high, fueled by sticky inflation, heavy bond issuance and an AI-fueled investment boom.",
+      "url": "https://www.cnbc.com/2026/09/26/10-year-treasury-yield-is-at-its-highest-in-19-years-how-we-got-here.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108364036-17895893572026-09-16t200737z_126985946_rc2iknasv7pe_rtrmadp_0_usa-fed-stocks.jpeg?v=1789589422&w=1920&h=1080",
+      "publishedAt": "2026-09-26T13:30:06Z",
+      "content": "Investors were rattled this week as the benchmark 10-year Treasury yield soared to its highest level since 2007, but sticky inflation is just one of the factors behind this latest surge.\r\nThe key 10-… [+2622 chars]"
     },
     {
       "source": {
@@ -161,32 +239,6 @@
       "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/07/GettyImages-2266868397-e1784818861311.jpg?resize=1200,600",
       "publishedAt": "2026-09-26T13:03:00Z",
       "content": "Statistics dont always tell the full story, and the U.S. national debt is evidence as to why. Despite its $40 trillion national debt, the U.S. barely cracks the top 10 in countries for debt relative … [+4749 chars]"
-    },
-    {
-      "source": {
-        "id": "bloomberg",
-        "name": "Bloomberg"
-      },
-      "author": "Peyton Forte",
-      "title": "McDonald’s Sell-Off Hits 30% as Big Mac Inflation Spurs Pushback - Bloomberg.com",
-      "description": "McDonald’s Corp. faces a key challenge as it fights to reinvigorate a sagging stock price: Winning back the cost-conscious diners who believe its menu has become too expensive.",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-26/mcdonald-s-sell-off-hits-30-as-big-mac-inflation-spurs-pushback",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iytttAWiBIVU/v0/1200x800.jpg",
-      "publishedAt": "2026-09-26T13:00:00Z",
-      "content": "McDonalds Corp. faces a key challenge as it fights to reinvigorate a sagging stock price: Winning back the cost-conscious diners who believe its menu has become too expensive.\r\nShares of the Big Mac … [+312 chars]"
-    },
-    {
-      "source": {
-        "id": "the-wall-street-journal",
-        "name": "The Wall Street Journal"
-      },
-      "author": "WSJ",
-      "title": "Exclusive | Historic Homes: A Michigan Cow Farm Built by a GM Exec - WSJ",
-      "description": null,
-      "url": "https://www.wsj.com/real-estate/luxury-homes/ann-arbor-general-motors-home-6ddb00de",
-      "urlToImage": null,
-      "publishedAt": "2026-09-26T13:00:00Z",
-      "content": null
     },
     {
       "source": {
@@ -217,15 +269,15 @@
     {
       "source": {
         "id": null,
-        "name": "Yahoo Entertainment"
+        "name": "Forbes"
       },
-      "author": "Jennifer Schonberger",
-      "title": "Defying higher bond yields: Consumers keep spending and the economy keeps booming - Yahoo Finance",
-      "description": "While analysts and economists have pointed to sticky inflation juiced by higher oil prices, demand for AI companies' bonds, and a record $40 trillion federal...",
-      "url": "https://finance.yahoo.com/economy/article/defying-higher-bond-yields-consumers-keep-spending-and-the-economy-keeps-booming-114059027.html",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/3792658db1885e56e6f58f1423814c9ae746fcd10a8e2d14e42095e955396db9/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-09%2F16753465-b35f-4367-8a52-d6086dae48b9",
-      "publishedAt": "2026-09-26T11:40:59Z",
-      "content": "Higher bond yields, tariffs, and a spike in energy prices haven't been enough to slow the economy down.\r\nThis week, the yield on the 10-year Treasury bond which influences mortgage rates and other bo… [+7672 chars]"
+      "author": "Billy Bambrough",
+      "title": "It’s ‘Time’—The Real $365 Trillion ‘Critical’ Reason The Bitcoin Price Is Suddenly Soaring - Forbes",
+      "description": "The bitcoin price came within touching distance of $90,000 per bitcoin earlier this month amid a $365 trillion panic...",
+      "url": "https://www.forbes.com/sites/digital-assets/2026/09/26/its-time-the-real-365-trillion-critical-reason-the-bitcoin-price-is-suddenly-soaring/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6ab54598b8d01b873c84473a/0x0.jpg?format=jpg&crop=2784,1629,x241,y565,safe&height=900&width=1600&fit=bounds",
+      "publishedAt": "2026-09-26T11:30:20Z",
+      "content": "Bitcoin and crypto prices have rocketed higher since their summer slump, with some small coins leave bitcoin in the dustand huge gains still being predicted.\r\nSign up now for \r\nCryptoCodex\r\nA free cr… [+4456 chars]"
     },
     {
       "source": {
@@ -255,42 +307,16 @@
     },
     {
       "source": {
-        "id": "wired",
-        "name": "Wired"
-      },
-      "author": "Reece Rogers",
-      "title": "Meta’s Muse Is Adults-Only. Why Does It Look Like a Kids’ Toy? - wired.com",
-      "description": "Meta says Muse is just for adults, though its cuddly, Labubu-like mascot—and upcoming Tamagotchi-style AI device—may be disarming for users of all ages.",
-      "url": "https://www.wired.com/story/meta-muse-is-adults-only-why-does-it-look-like-a-cute-kids-toy/",
-      "urlToImage": "https://media.wired.com/photos/6ab6a33ebc7793cf754905a1/191:100/w_1280,c_limit/GettyImages-2296209094.jpg",
-      "publishedAt": "2026-09-26T10:30:00Z",
-      "content": "Metas Muse mascot is named Jolly. It's an adorable, cuddly representation of Metas AI agent that you can dress however you wantlike a doll. At the companys recent Meta Connect event, CEO Mark Zuckerb… [+3296 chars]"
-    },
-    {
-      "source": {
         "id": null,
-        "name": "Motley Fool"
+        "name": "AL.com"
       },
-      "author": "Matt DiLallo",
-      "title": "SCHD Is Brilliant. Here's Why I Think This Dividend ETF Is Even Better. - fool.com",
-      "description": "These funds have different approaches for investing in dividend stocks.",
-      "url": "https://www.fool.com/investing/2026/09/26/schd-is-brilliant-heres-why-i-think-this-dividend/",
-      "urlToImage": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F886459%2Fhand-and-etf-spelled-out-1200x800-5b2df79.jpg&w=1200&op=resize",
-      "publishedAt": "2026-09-26T10:20:00Z",
-      "content": "The Schwab U.S. Dividend Equity ETF(SCHD+0.33%) is one of my favorite exchange-traded funds. It offers a high dividend yield and has delivered strong total returns. However, I think the First Trust R… [+2894 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Gizmodo.com"
-      },
-      "author": "Ed Cara",
-      "title": "Living Drugs Transformed Blood Cancer Treatment—and That’s Just the Beginning - gizmodo.com",
-      "description": "Renier Brentjen, an early pioneer of CAR T cell therapy, is working on the next generation of these living drugs that can hopefully treat solid tumors, too.",
-      "url": "https://gizmodo.com/car-t-cell-therapy-future-cancer-treatment-2000817111",
-      "urlToImage": "https://gizmodo.com/app/uploads/2026/09/CAR-T-Blood-bag-1200x675.jpg",
-      "publishedAt": "2026-09-26T10:00:52Z",
-      "content": "Given all the understandable pessimism there is about the world, you might not realize that we’re living in a golden era of cancer treatment.\r\nIn January, the American Cancer Society reported that th… [+13863 chars]"
+      "author": "AL.com",
+      "title": "21K charging devices sold on Amazon recalled after explosions, $2M+ in damages - AL.com",
+      "description": null,
+      "url": "https://www.al.com/news/2026/09/21k-charging-devices-sold-on-amazon-recalled-after-explosions-2m-in-damages.html",
+      "urlToImage": null,
+      "publishedAt": "2026-09-26T11:00:00Z",
+      "content": null
     },
     {
       "source": {
@@ -308,6 +334,19 @@
     {
       "source": {
         "id": null,
+        "name": "Financial Times"
+      },
+      "author": null,
+      "title": "Foreign capital flows into US stocks hit record as appetite for debt fades - Financial Times",
+      "description": "Overseas purchases of US equities topped $940bn in the year to July, coinciding with strong gains in the S&P 500",
+      "url": "https://www.ft.com/content/a1a1318b-8051-4539-a485-5a4e1d021578?syn-25a6b1a6\\\\u003d1",
+      "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fe0d918f1-a6bb-4b27-8f28-2f1c7f37f9c0.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
+      "publishedAt": "2026-09-26T10:00:04Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
         "name": "Slate Magazine"
       },
       "author": "Jim Newell",
@@ -317,6 +356,19 @@
       "urlToImage": "https://compote.slate.com/images/dc94f933-fbbf-4f1e-93e0-1fd7209c8421.jpeg?crop=1080%2C720%2Cx0%2Cy0&width=1560",
       "publishedAt": "2026-09-26T09:45:00Z",
       "content": "The Surge is your weekly political sanity check: What matters, what might, and whats just political theater.Sign up here to get it in your inbox.\r\nWelcome to this weekends edition of the Surge, Slate… [+7519 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Forbes"
+      },
+      "author": "Forbes",
+      "title": "Student Loan Borrowers Sue Education Department For Botching Loan Discharges - Forbes",
+      "description": null,
+      "url": "https://www.forbes.com/sites/adamminsky/2026/09/26/student-loan-borrowers-sue-education-department-for-botching-loan-discharges/",
+      "urlToImage": null,
+      "publishedAt": "2026-09-26T09:45:00Z",
+      "content": null
     },
     {
       "source": {
@@ -395,19 +447,6 @@
       "urlToImage": "https://ewscripps.brightspotcdn.com/dims4/default/637330c/2147483647/strip/true/crop/1280x672+0+24/resize/1200x630!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2F6f%2Ffa%2Febf123a24b7a9d530afc6f198c43%2Fmicrosoftteams-image-9.png",
       "publishedAt": "2026-09-26T03:04:51Z",
       "content": "COLORADO The Colorado Department of Public Health and Environment (CDPHE) has issued a health and safety advisory after contaminated \"Regulated Marijuana Vaporizer Delivery Devices,\" commonly known a… [+1693 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Abcnews.com"
-      },
-      "author": "ABC News - Breaking News, Latest News and Videos",
-      "title": "E. coli outbreak linked to raw milk cheese brand: CDC, FDA - ABC News - Breaking News, Latest News and Videos",
-      "description": null,
-      "url": "https://abcnews.com/GMA/News/coli-outbreak-linked-raw-milk-cheese-brand-cdc/story?id\\\\u003d136766868",
-      "urlToImage": null,
-      "publishedAt": "2026-09-26T02:05:46Z",
-      "content": null
     },
     {
       "source": {
@@ -515,19 +554,6 @@
     },
     {
       "source": {
-        "id": "the-wall-street-journal",
-        "name": "The Wall Street Journal"
-      },
-      "author": "Amira McKee",
-      "title": "Pentagon-Backed Venezuelan Oil Company Poised to Challenge Chevron - WSJ",
-      "description": "Plus, SCOTUS decides the White House can use a database to check voters’ citizenship and a federal court upheld the Pentagon labeling Anthropic a security risk",
-      "url": "https://www.wsj.com/us-news/law/pentagon-backed-venezuelan-oil-company-poised-to-challenge-chevron-abf18109",
-      "urlToImage": "https://images.wsj.net/im-32355495/social",
-      "publishedAt": "2026-09-25T21:16:00Z",
-      "content": "This is an edition of the Whats News newsletter, which helps you catch up on the headlines and understand the news, free in your inbox daily. If youre not subscribed, sign up here.\r\n1. The rise of th… [+518 chars]"
-    },
-    {
-      "source": {
         "id": null,
         "name": "CNBC"
       },
@@ -544,11 +570,11 @@
         "id": "the-wall-street-journal",
         "name": "The Wall Street Journal"
       },
-      "author": "Vicky Ge Huang, Dean Seal",
+      "author": "WSJ",
       "title": "Stocks Rise to Cap Week of Increasing Yields, Volatile Oil Prices - WSJ",
-      "description": "Dow snaps three-session losing streak, finishes the week higher",
+      "description": null,
       "url": "https://www.wsj.com/finance/stocks/stocks-rise-to-cap-week-of-increasing-yields-volatile-oil-prices-de1cba89",
-      "urlToImage": "https://images.wsj.net/im-15026372/social",
+      "urlToImage": null,
       "publishedAt": "2026-09-25T21:06:00Z",
       "content": null
     },
@@ -568,6 +594,19 @@
     {
       "source": {
         "id": null,
+        "name": "Investor's Business Daily"
+      },
+      "author": null,
+      "title": "Stock Market Today: Dow Surges 450 Points On U.S.-Iran Peace Hopes; Micron Rises - Investor's Business Daily",
+      "description": "Stock Market Today: The Dow Jones index rises Friday on U.S.-Iran peace hopes. Major indexes find support from falling oil prices.",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-us-iran-peace-hopes-micron-sandisk/",
+      "urlToImage": "https://www.investors.com/wp-content/uploads/2017/03/stock-wallstreet-031317-shutter.jpg",
+      "publishedAt": "2026-09-25T20:21:00Z",
+      "content": "Information in Investors Business Daily is for informational and educational purposes only and should not be construed as an offer, recommendation, solicitation, or rating to buy or sell securities. … [+1064 chars]"
+    },
+    {
+      "source": {
+        "id": null,
         "name": "Seeking Alpha"
       },
       "author": "Chris Ciaccia",
@@ -577,19 +616,6 @@
       "urlToImage": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2286840949/image_2286840949.jpg?io=getty-c-w630",
       "publishedAt": "2026-09-25T20:10:28Z",
       "content": "John M. Chase/iStock Unreleased via Getty Images\r\nAmid increased concern about artificial intelligence and its implications on humanity, Microsoft (MSFT) co-founder Bill Gates is set to throw his hat… [+123 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Mental Floss"
-      },
-      "author": "Nitya Rao",
-      "title": "The Most Popular Halloween Candy in Every State for 2026, Mapped - Mental Floss",
-      "description": "Discover the most popular Halloween candy in every state for 2026. From Reese’s dominance to unexpected regional faves, here’s what’s in your bowl.",
-      "url": "https://www.mentalfloss.com/geography/maps/most-popular-halloween-candy-in-each-state-2026-map",
-      "urlToImage": "https://images2.minutemediacdn.com/image/upload/c_crop,x_0,y_0,w_1399,h_786/c_fill,w_1440,ar_1440:810,f_auto,q_auto,g_auto/images/voltaxMediaLibrary/mmsport/mentalfloss/01m37w6s6nzqzz07tz6k.jpg",
-      "publishedAt": "2026-09-25T20:00:01Z",
-      "content": "Picking favorites is never easy, especially when it comes to something as high-stakes as Halloween candy. From pumpkin-shaped chocolate peanut butter cups to the ever-controversial candy corn, there'… [+4658 chars]"
     },
     {
       "source": {
@@ -646,19 +672,6 @@
     {
       "source": {
         "id": null,
-        "name": "Investor's Business Daily"
-      },
-      "author": null,
-      "title": "Stock Market Today: Dow Leads Charge Amid U.S.-Iran Peace Talks; Arista Networks Eyes Buy Point (Live Coverage) - Investor's Business Daily",
-      "description": "Stock Market Today: The Dow Jones index rises Friday on U.S.-Iran peace hopes. Micron stock and Sandisk rally Friday.",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-us-iran-peace-hopes-micron-sandisk/",
-      "urlToImage": "https://www.investors.com/wp-content/uploads/2017/03/stock-wallstreet-031317-shutter.jpg",
-      "publishedAt": "2026-09-25T18:12:00Z",
-      "content": "Information in Investors Business Daily is for informational and educational purposes only and should not be construed as an offer, recommendation, solicitation, or rating to buy or sell securities. … [+1064 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "Futurism"
       },
       "author": "Frank Landymore",
@@ -694,19 +707,6 @@
       "urlToImage": "https://ktla.com/wp-content/uploads/sites/4/2024/05/BLW-Hero_081122.jpg?w=1280",
       "publishedAt": "2026-09-25T16:30:41Z",
       "content": "Brightline, the company behind an ambitious high-speed rail line in Florida, has filed for Chapter 11 bankruptcy protection due to lower-than-anticipated ridership levels that left it heavily in debt… [+3528 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Medianewsgroup.com"
-      },
-      "author": "City News Service",
-      "title": "Pacific Palisades CEO convicted of millions in fraud in smart ring case - Los Angeles Daily News",
-      "description": "Michelle Bisnoff was convicted of a wide range of fraud charges in a 22-count indictment at a trial in a Santa Ana federal courtroom on Thursday.",
-      "url": "https://wpdash.medianewsgroup.com/2026/09/25/pacific-palisades-ceo-convicted-of-millions-in-fraud-in-smart-ring-case/",
-      "urlToImage": "https://www.dailynews.com/wp-content/uploads/2026/06/court-gavel.jpg?w=600&h=391",
-      "publishedAt": "2026-09-25T16:03:44Z",
-      "content": "The CEO of a “smart ring” allowing for financial transactions was convicted Thursday, Sept. 24 of a Ponzi and fraud scheme.\r\nMichelle Bisnoff was convicted of a wide range of fraud charges in a 22-co… [+2164 chars]"
     },
     {
       "source": {
@@ -801,19 +801,6 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "NPR"
-      },
-      "author": "Scott Horsley",
-      "title": "American farmers are hurting — and worried about their futures - NPR",
-      "description": "Farmers who grow soybeans, corn, cotton and other crops are facing another year of losses as soaring fuel and fertilizer costs offset higher revenues.",
-      "url": "https://www.npr.org/2026/09/25/nx-s1-5979886/farmers-crops-economy-diesel-fertilizer",
-      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4500x2531+0+234/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F30%2Ff7%2F456d68d6440aa14fe70ee5e689b2%2Ftelesz-1.jpg",
-      "publishedAt": "2026-09-25T09:00:00Z",
-      "content": "Rick Telesz raises soybeans, corn and dairy cows on about 700 acres in western Pennsylvania. He's expecting a promising soybean crop this fall but Telesz will be lucky to just break even. \r\n\"Am I goi… [+3616 chars]"
-    },
-    {
-      "source": {
         "id": "newsweek",
         "name": "Newsweek"
       },
@@ -824,19 +811,6 @@
       "urlToImage": "https://assets.newsweek.com/wp-content/uploads/2026/09/GettyImages-1504443442.jpg?w=1200&crop=1",
       "publishedAt": "2026-09-25T07:00:00Z",
       "content": "The U.S. Food and Drug Administration (FDA) has given a nationwide recall of frozen pasta sold at Walmart its most serious risk classification over concerns the product may be contaminated with Liste… [+4802 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Variety"
-      },
-      "author": "Todd Spangler",
-      "title": "12 Takeaways From Ousted Disney CEO Bob Chapek’s New Book - Variety",
-      "description": "Variety obtained a copy of former Disney CEO Bob Chapek's new book, in which he talks about his ouster, Bob Iger and more.",
-      "url": "https://variety.com/2026/film/news/takeaways-bob-chapek-book-ousted-disney-ceo-1236875084/",
-      "urlToImage": "https://variety.com/wp-content/uploads/2026/09/Bob-Chapek.jpg?w=1000&h=563&crop=1",
-      "publishedAt": "2026-09-25T00:42:00Z",
-      "content": "Bob Chapek expounds at length about his termination from Disney and his belief that ex-CEO Bob Iger stabbed him in the back in his forthcoming book, “Behind the Castle Walls.”\r\nChapek, in recounting … [+13634 chars]"
     }
   ]
 }

@@ -3,86 +3,294 @@
   "country": "us",
   "category": "general",
   "mode": "country",
-  "fetched_at": "2026-09-30T00:47:46.314579+00:00",
-  "articles_count": 32,
+  "fetched_at": "2026-09-30T07:32:22.281636+00:00",
+  "articles_count": 31,
   "articles": [
     {
       "source": {
-        "id": "the-wall-street-journal",
-        "name": "The Wall Street Journal"
+        "id": null,
+        "name": "NPR"
       },
-      "author": "WSJ",
-      "title": "Stock Market Today: Treasury Yields Climb to Fresh Highs; Tech Stocks Drop - WSJ",
-      "description": null,
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-28-2026",
-      "urlToImage": null,
-      "publishedAt": "2026-09-28T22:31:00Z",
+      "author": "The Associated Press",
+      "title": "Tennessee is set to execute a woman for the first time in 200 years - NPR",
+      "description": "One of the youngest women sent to death row is set to be executed in Tennessee. If carried out as scheduled Wednesday, it would be Tennessee's first execution of a woman in 200 years.",
+      "url": "https://www.npr.org/2026/09/29/g-s1-145408/tennessee-woman-execution",
+      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5666x3187+0+295/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F95%2Fea%2Fe04a2cef4c16b86029fb26b49d81%2Fap26271028154861.jpg",
+      "publishedAt": "2026-09-29T05:59:18Z",
+      "content": "NASHVILLE, Tenn. Christa Pike was 18 when she killed a classmate in a jealous rage and became one of the youngest women to be sent to death row. Now 50, she is scheduled to be put to death Wednesday … [+5334 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Variety"
+      },
+      "author": "Marlow Stern",
+      "title": "Mayor Zohran Mamdani Refuses Jimmy Kimmel’s Request to Text Trump a Selfie of Them - Variety",
+      "description": "The popular mayor of New York City helped kick off a week of “Jimmy Kimmel Live” shows in Brooklyn.",
+      "url": "https://variety.com/2026/tv/news/zohran-mamdani-jimmy-kimmel-live-donald-trump-selfie-text-1236877861/",
+      "urlToImage": "https://variety.com/wp-content/uploads/2026/09/ucla-jonsson-cancer-center-foundation-s-28th-annual-taste-fo-1000x667-1.jpg?crop=0px%2C3px%2C1000px%2C562px&resize=1000%2C563",
+      "publishedAt": "2026-09-29T05:01:00Z",
+      "content": "“Jimmy Kimmel Live” is back in Brooklyn.\r\nThe late-night show has returned to the New York City borough for a week of shows at the Brooklyn Academy of Music. It’s Kimmel’s eighth time filming “Live” … [+3380 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "New York Times executive fatally shot allegedly by elderly in-laws - bbc.com",
+      "description": "Jonathan McKinsey's in-laws, who are both 77 years old, face multiple charges including first-degree murder.",
+      "url": "https://www.bbc.com/news/articles/cred737qdv2no",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/530d/live/9d8b6460-bb72-11f1-8200-bffada0fd8de.png",
+      "publishedAt": "2026-09-29T04:06:43Z",
+      "content": "Jonathan McKinsey, 40, the newspaper's director of engineering for games player experience, was found with multiple gunshot wounds in a car park in Dublin - 35 miles (56km) east of San Francisco - on… [+32 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Hawaii News Now"
+      },
+      "author": "Lynn Kawano",
+      "title": "New potent street drug prompts Hawaii health alert - Hawaii News Now",
+      "description": "Cychlorphine, a synthetic opioid up to 10 times stronger than fentanyl, has caused deaths across the U.S., prompting local officials to prepare for its arrival.",
+      "url": "https://www.hawaiinewsnow.com/2026/09/29/new-potent-street-drug-prompts-hawaii-health-alert/",
+      "urlToImage": "https://gray-khnl-prod.gtv-cdn.com/resizer/v2/VI6SQ2AH5JFH7J2B463TJ72JUA.jpg?auth=9e239a1d94467503f63615e381fb5d6fae768839ca21898ea51696215220b04e&width=1200&height=600&smart=true",
+      "publishedAt": "2026-09-29T03:59:00Z",
+      "content": "HONOLULU (HawaiiNewsNow) - An extremely potent illegal drug called cychlorphine is killing people in multiple states, including a teenager in California. Hawaii health officials say it is a matter of… [+2627 chars]"
+    },
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": "Al Jazeera Staff",
+      "title": "Russia pounds Ukraine’s Kyiv after deadly strike on Academy of Sciences - Al Jazeera",
+      "description": "Footage of attack on Academy shows people leaning out of windows as bright flames engulf part of the historic building.",
+      "url": "https://www.aljazeera.com/news/2026/9/29/russian-strike-hits-ukraines-academy-of-sciences-in-kyiv-killing-2",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/09/AP26271426330457-1790613089_918b58-1790653138.jpg?resize=1200%2C630&quality=80",
+      "publishedAt": "2026-09-29T03:43:37Z",
+      "content": "Russian forces have again struck the Ukrainian capital, Kyiv, hours after a drone hit the National Academy of Sciences in the historic centre of the city, killing at least two people.\r\nExplosions wer… [+3930 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "KCCI Des Moines"
+      },
+      "author": "Amanda Rooker",
+      "title": "Trump announces $15 billion steel plant planned for southeast Iowa - KCCI",
+      "description": "The White House said President Trump will announce a new steel plant in eastern Iowa that would be one of the largest in the United States.",
+      "url": "https://www.kcci.com/article/trump-to-announce-15-billion-steel-mill-planned-for-iowa/73925657",
+      "urlToImage": "https://kubrick.htvapps.com/htv-prod/images/cd60cdb0-50a6-4796-a29d-7fc428460ec5.jpg?crop=1.00xw%3A0.848xh%3B0%2C0.152xh&resize=1200%3A*",
+      "publishedAt": "2026-09-29T03:32:00Z",
+      "content": "WASHINGTONPresident Donald Trump on Monday announced a new steel plant in southeast Iowa that he says will be the largest in the United States. The president hosted steel executives and several Iowa … [+7628 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "NBCSports.com"
+      },
+      "author": "Charean Williams",
+      "title": "Monday Night Football: Case Keenum, Bears beat Eagles 27-7 - NBC Sports",
+      "description": "The Bears third-string quarterback hadn't played since 2023.",
+      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/monday-night-football-case-keenum-bears-beat-eagles-27-7",
+      "urlToImage": "https://nbcsports.brightspotcdn.com/dims4/default/57d10fc/2147483647/strip/true/crop/3953x2224+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F4d%2F92%2F0629f20449c7924b86d88d3b2a3c%2F2297636771.jpg",
+      "publishedAt": "2026-09-29T03:17:52Z",
+      "content": "Case Keenum, playing his first game since 2023, ran for a touchdown and threw two touchdowns in leading the Bears to a 27-7 blowout of the Eagles. Both teams are 2-1.\r\nDespite playing without startin… [+1601 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Usni.org"
+      },
+      "author": "Sam LaGrone",
+      "title": "Four Injured After Landing Mishap Aboard USS Dwight D. Eisenhower, Crew Safely Recovered - news.usni.org",
+      "description": "This post will be updated as new information becomes available. Four personnel were injured in a landing mishap aboard USS Dwight D. Eisenhower (CVN-69) on Monday, USNI News has learned. The crew of the unspecified two-seat aircraft assigned to Carrier Air Wi…",
+      "url": "https://news.usni.org/2026/09/28/four-injured-after-landing-mishap-aboard-uss-dwight-d-eisenhower-crew-safely-recovered",
+      "urlToImage": "https://news.usni.org/wp-content/uploads/2026/05/9667243-scaled.jpg",
+      "publishedAt": "2026-09-29T03:08:00Z",
+      "content": "An F/A-18F Super Hornet, attached to the ‘Fighting Swordsmen’ of Strike Fighter Squadron (VFA) 32, lands on the flight deck of Nimitz-class aircraft carrier USS Dwight D. Eisenhower (CVN-69) May 6, 2… [+1365 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Variety"
+      },
+      "author": "Payton Turkeltaub",
+      "title": "Dennis Haskins, ‘Saved by the Bell’ Star, Dies at 75 - Variety",
+      "description": "Dennis Haskins, the actor best known for portraying Principal Richard Belding on “Saved by the Bell,” has died.",
+      "url": "https://variety.com/2026/tv/obituaries-people-news/dennis-haskins-dead-saved-by-the-bell-principal-1236877845/",
+      "urlToImage": "https://variety.com/wp-content/uploads/2026/09/GettyImages-1076207336.jpg?w=1000&h=563&crop=1",
+      "publishedAt": "2026-09-29T03:00:00Z",
+      "content": "Dennis Haskins, the actor best known for portraying Principal Richard Belding on “Saved by the Bell,” has died. He was 75.\r\nHaskins’ longtime agent, Jay Schachter, confirmed the news to Variety on Mo… [+2123 chars]"
+    },
+    {
+      "source": {
+        "id": "associated-press",
+        "name": "Associated Press"
+      },
+      "author": "Dave Collins, John Seewer",
+      "title": "Prosecutor reopens probe into Cornell gang rape allegations after accuser files lawsuit - AP News",
+      "description": "A New York prosecutor has reopened an investigation into gang rape allegations at a Cornell University fraternity in response to a lawsuit. The complaint was filed by a woman who says she was sexually assaulted in 2024 by seven students after being plied with…",
+      "url": "https://apnews.com/article/cornell-rape-allegations-investigation-16f59e89ce97e3a40a8e672f7b3f374b",
+      "urlToImage": "https://dims.apnews.com/dims4/default/e87975a/2147483647/strip/true/crop/4500x2998+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fba%2Fb8%2F0f236f7dbe4aa1637b217ed7f181%2Fb1181d3c613740f79a51a97d60d019b2",
+      "publishedAt": "2026-09-29T02:58:00Z",
+      "content": "A New York prosecutor has reopened an investigation into gang rape allegations at a Cornell University fraternity in response to a lawsuit filed by a woman who says she was sexually assaulted in 2024… [+6016 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": null,
+      "title": "Lindsay Clancy holdout juror asks for one thing in new video after mistrial drama - Fox News",
+      "description": "Michael Desronvil, the holdout juror in the Lindsay Clancy mistrial, speaks publicly for the first time as allegations from fellow jurors intensify.",
+      "url": "https://www.foxnews.com/us/lindsay-clancy-holdout-juror-asks-one-thing-new-video-mistrial-drama",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/09/Clancy-lone-juror.gif",
+      "publishedAt": "2026-09-29T01:50:03Z",
+      "content": "PLYMOUTH, Mass. The lone holdout juror who defied 11 others by maintaining his belief that former Massachusetts nurse Lindsay Clancy was guilty of murder before a mistrial was declared earlier this m… [+2868 chars]"
+    },
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": "John Power",
+      "title": "OpenAI scraps release of latest AI model over safety concerns - Al Jazeera",
+      "description": "AI giant says latest model failed to meet alignment standards during internal testing.",
+      "url": "https://www.aljazeera.com/economy/2026/9/29/openai-scraps-release-of-latest-ai-model-over-safety-concerns",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/09/2026-09-28T223038Z_1656552687_RC29LNAECGOF_RTRMADP_3_AI-SAFETY-OPENAI-1790641403_cd656d-1790642721.jpg?resize=1200%2C630&quality=80",
+      "publishedAt": "2026-09-29T01:41:15Z",
+      "content": "OpenAI has announced it will not release its latest AI model after flagging safety risks during in-house testing, industrys latest move to slow the rollout of the controversial frontier technology.\r\n… [+3390 chars]"
+    },
+    {
+      "source": {
+        "id": "politico",
+        "name": "Politico"
+      },
+      "author": "Jordain Carney",
+      "title": "Taxpayer-funded ads are the latest Trump headache for beleaguered GOP senators - Politico",
+      "description": "Voters “don’t want to be worried about how their taxpayer dollars are being spent,” Utah Sen. John Curtis said.",
+      "url": "https://www.politico.com/news/2026/09/28/trump-taxpayer-ads-senate-gop-01096502",
+      "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2F4d%2F92%2F7ba30c394510b2a7f1cc20202b01%2Fu-s-congress-1-57.jpg",
+      "publishedAt": "2026-09-29T01:30:00Z",
+      "content": "Senate Republicans want to spend this week insulating themselves from a deteriorating political environment before getting back on the campaign trail. Instead, theyre fending off some final curveball… [+631 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Reuters",
+      "title": "Anthropic warns AI may pose 'existential risks to humanity' in IPO filing: Reuters - CNBC",
+      "description": "Anthropic plans to warn IPO investors that advanced AI could pose “catastrophic or existential risks to humanity.”",
+      "url": "https://www.cnbc.com/2026/09/29/anthropic-warns-ai-existential-risks-ipo-filing-reuters.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108368277-1790360556847-108368277-17903603812026-09-25t180005z_1304128046_rc29lnaagwzx_rtrmadp_0_usa-pentagon-anthropic-lawsuit.jpg?v=1790360568&w=1920&h=1080",
+      "publishedAt": "2026-09-29T01:23:00Z",
+      "content": "Anthropic plans to caution potential investors in its IPO that advanced AI could pose \"catastrophic or existential risks to humanity,\" an extraordinary warning by a company seeking to profit from the… [+3781 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Hollywood Reporter"
+      },
+      "author": "Chris Gardner",
+      "title": "BTS Superstar V Named Global Brand Ambassador for Nothing as He Models New Headphones - The Hollywood Reporter",
+      "description": "Praised Nothing co-founder and CEO Carl Pei: \"V has an instinct for fearless experimentation. He's always pushing into different sounds and styles.\"",
+      "url": "http://www.hollywoodreporter.com/lifestyle/style/bts-superstar-v-global-brand-ambassador-nothing-headphones-1236714058/",
+      "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2026/09/Headphone-1.jpg?crop=0px%2C16px%2C8000px%2C4476px&resize=1440%2C810",
+      "publishedAt": "2026-09-29T01:22:59Z",
+      "content": "V is everything to Nothing. \r\nThe BTS superstar has joined the tech-forward accessories company as its latest global ambassador, and he debuts by starring in a new campaign modeling Nothing’s new Hea… [+2300 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "MacRumors"
+      },
+      "author": "Juli Clover",
+      "title": "iPhone Duo StandBy Leak Reveals Five Unannounced Faces - MacRumors",
+      "description": "We've seen previews of iOS 27 running on the iPhone Duo, including a new StandBy mode that activates even when the iPhone isn't charging....",
+      "url": "https://www.macrumors.com/2026/09/28/iphone-duo-standby-leak/",
+      "urlToImage": "https://images.macrumors.com/t/NuDa84z4PV4wgt5FllkUNv14Guw=/1600x/article-new/2026/09/iphone-duo-weather.jpg",
+      "publishedAt": "2026-09-29T00:04:00Z",
+      "content": "We've seen previews of iOS 27 running on the iPhone Duo, including a new StandBy mode that activates even when the iPhone isn't charging. Apple showed the mode in press materials, but leaker pdfu tod… [+1481 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "MLB.com"
+      },
+      "author": "Brian McTaggart",
+      "title": "Blubaugh to open Wild Card Game 1 for Astros; Brown expected to start Game 2 - MLB.com",
+      "description": "HOUSTON -- The Astros will turn to rookie right-hander AJ Blubaugh to start Tuesday’s Game 1 of the American League Wild Card Series against the White Sox at Daikin Park. Blubaugh -- who threw 15 pitches in relief Friday against the A’s, allowing one run in t…",
+      "url": "https://www.mlb.com/news/astros-will-have-bullpen-game-in-al-wild-card-game-1-vs-white-sox",
+      "urlToImage": "https://img.mlbstatic.com/mlb-images/image/upload/t_2x1/t_w1536/v1790636314/mlb/uczxmziiq9lvvmkwvfqt.jpg",
+      "publishedAt": "2026-09-28T23:48:34Z",
+      "content": "HOUSTON -- The Astros will turn to rookie right-hander AJ Blubaugh to start Tuesdays Game 1 of the American League Wild Card Series against the White Sox at Daikin Park. Blubaugh -- who threw 15 pitc… [+2000 chars]"
+    },
+    {
+      "source": {
+        "id": "usa-today",
+        "name": "USA Today"
+      },
+      "author": "Michael Middlehurst-Schwartz",
+      "title": "J.J. McCarthy trade grades as Giants, Vikings swing QB deal - usatoday.com",
+      "description": "The Giants took bold action after Jaxson Dart's season-ending injury, landing J.J. McCarthy from the Vikings. But who won the deal?",
+      "url": "https://www.usatoday.com/story/sports/nfl/giants/2026/09/28/jj-mccarthy-trade-grades-giants-vikings/91987536007/",
+      "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/09/28/USAT/91989573007-20260927-t-231904-z-1478745795-mt-1-usatoday-29934063-rtrmadp-3-nflminnesotavikingsattampabaybuccaneers.JPG?crop=4992,2808,x4,y105&width=3200&height=1801&format=pjpg&auto=webp",
+      "publishedAt": "2026-09-28T22:30:00Z",
+      "content": "After the New York Giantslost starting quarterback Jaxson Dart to a season-ending knee injury, new coach John Harbaugh declared that the team was weighing \"all options\" at the position.\r\nLess than a … [+4757 chars]"
+    },
+    {
+      "source": {
+        "id": "the-hill",
+        "name": "The Hill"
+      },
+      "author": "Joseph Choi",
+      "title": "Pennsylvania surpasses 900 measles cases - The Hill",
+      "description": "Pennsylvania on Monday surpassed 900 measles cases, after adding more than 100 additional cases in the past week. The Pennsylvania Department of Health updated its measles dashboard Monday, putting the total number of cases in the state at 903, after 115 new …",
+      "url": "https://thehill.com/homenews/state-watch/6116174-pennsylvania-surpasses-900-measles-cases/",
+      "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2026/09/AP26202749960158-e1789680682988.jpg?w=1280",
+      "publishedAt": "2026-09-28T22:19:00Z",
+      "content": "Skip to content\r\nPennsylvania on Monday surpassed 900 measles cases, after adding more than 100 additional cases in the past week.\r\nThe Pennsylvania Department of Health updated its measles dashboard… [+1447 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Space.com"
+      },
+      "author": "Mike Wall",
+      "title": "Boeing's Starliner won't launch astronauts until 2028 (and may need a new rocket), NASA says - Space",
+      "description": "\"NASA is uncertain as to when … human-rating certification for the Starliner will be obtained.\"",
+      "url": "https://www.space.com/space-exploration/human-spaceflight/boeing-starliner-wont-launch-astronauts-until-2028-and-may-need-a-new-rocket-nasa-says",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/8TDZ6GXLETDnvSQAEUhBrU-2560-80.jpg",
+      "publishedAt": "2026-09-28T22:09:55Z",
       "content": null
     },
     {
       "source": {
-        "id": "the-washington-post",
-        "name": "The Washington Post"
+        "id": null,
+        "name": "Hollywood Reporter"
       },
-      "author": "Perry Stein, Jeremy Roebuck",
-      "title": "Andrew Bailey, No. 2 at FBI, resigns in latest shake-up at bureau - The Washington Post",
-      "description": "Bailey, the former Missouri attorney general, was hired for the leadership role about a year ago.",
-      "url": "https://www.washingtonpost.com/national-security/2026/09/28/andrew-bailey-no-2-fbi-resigns-latest-shake-up-bureau/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/OVJRIAQAVMI7DLM7N5UJ5RVQMA.jpg&w=1440",
-      "publishedAt": "2026-09-28T22:15:16Z",
-      "content": "The conservative firebrand whom the Trump administration installed as a No. 2 at the FBI announced Monday that he is resigning from the bureau. \r\nAndrew Bailey, the former Missouri attorney general w… [+317 chars]"
+      "author": "Rick Porter",
+      "title": "TV Ratings: VMAs Hit 11-Year High With Madonna, Taylor Swift Front and Center - The Hollywood Reporter",
+      "description": "A big NFL lead-in probably helped as well.",
+      "url": "http://www.hollywoodreporter.com/tv/tv-news/mtv-vmas-2026-tv-ratings-1236713901/",
+      "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2026/09/3142377_VMAS_2026_0873b-H-2026.jpg?w=1296&h=730&crop=1",
+      "publishedAt": "2026-09-28T22:03:29Z",
+      "content": "The MTV Video Music Awards scored their largest audience in more than a decade on Sunday night.\r\nThe awards averaged 8.43 million viewers on CBS and MTV (including an encore on the latter), up by 51 … [+1620 chars]"
     },
     {
       "source": {
-        "id": "associated-press",
-        "name": "Associated Press"
+        "id": "espn",
+        "name": "ESPN"
       },
-      "author": "Collin Binkley",
-      "title": "Trump announces a new $15B Iowa steel plant and claims it will be the nation’s biggest - AP News",
-      "description": "President Donald Trump has announced a new $15 billion steel plant will be built in Iowa with backing from an Indian conglomerate. The Republican president says the project will create the largest steel plant in U.S. history. Trump made the announcement Monda…",
-      "url": "https://apnews.com/article/steel-plant-trump-mesabi-essar-be31b94688c769a4a5c1098e1b85f3af",
-      "urlToImage": "https://dims.apnews.com/dims4/default/9c262ea/2147483647/strip/true/crop/4438x2957+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F30%2F9b%2Ff1e2867a77465049825ce399175a%2F8619f0f156b24b69ac3824b1c5bfe1c8",
-      "publishedAt": "2026-09-28T22:03:00Z",
-      "content": "WASHINGTON (AP) President Donald Trump on Monday announced a new $15 billion steel plant being built in Iowa, highlighting an economic victory in a key battleground state where Republicans face compe… [+3507 chars]"
-    },
-    {
-      "source": {
-        "id": "cnn",
-        "name": "CNN"
-      },
-      "author": "Ashley Strickland, Jackie Wattles, Tal Yellin, Jacopo Prisco",
-      "title": "Live updates: SpaceX reaches orbit in unprecedented Starship test flight - CNN",
-      "description": "SpaceX’s Starship rocket, the most powerful rocket ever made, made it to orbit for the first time despite engine trouble.",
-      "url": "https://www.cnn.com/2026/09/28/science/live-news/spacex-starship-flight-14-launch",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/2026-09-28t125953z-2009112740-rc2csnabzaqm-rtrmadp-3-space-spacex-starship.jpg?c=16x9&q=w_800,c_fill",
-      "publishedAt": "2026-09-28T21:50:00Z",
-      "content": "Todays mission notched some big wins and a few moments of concern.\r\nSpaceX is still, for example, having issues with engine reliability. The Super Heavy rocket booster performed well on the way up, b… [+2136 chars]"
-    },
-    {
-      "source": {
-        "id": "associated-press",
-        "name": "Associated Press"
-      },
-      "author": "The Associated Press",
-      "title": "Netanyahu meets Emirati leader in a secret weekend trip to Abu Dhabi, and other Mideast developments - AP News",
-      "description": "Israeli Prime Minister Benjamin Netanyahu has held an hourlong meeting with the leader of the United Arab Emirates, Sheikh Mohamed bin Zayed Al Nahyan, during a secret weekend visit to the UAE capital of Abu Dhabi. The meeting was confirmed on Monday by two p…",
-      "url": "https://apnews.com/article/israel-iran-uae-netayahu-yemen-september-28-2026-854377716258982535c7b2cd3a7d0fe0",
-      "urlToImage": "https://dims.apnews.com/dims4/default/2fb5d4e/2147483647/strip/true/crop/6000x3998+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F37%2F74%2F33125084ae04316a48d084359031%2F6de839140bd242d090c84faafbde23fc",
-      "publishedAt": "2026-09-28T21:43:00Z",
-      "content": "Benjamin Netanyahu traveled secretly to the United Arab Emirates over the weekend to ask its leader to deny reports hed warned the Israeli prime minister about a looming Hamas threat ahead of the Pal… [+6744 chars]"
-    },
-    {
-      "source": {
-        "id": "nbc-news",
-        "name": "NBC News"
-      },
-      "author": "Erik Ortiz, Abigail Brooks",
-      "title": "Ahead of rare execution, lone woman on Tennessee death row says ‘I am at peace’ - NBC News",
-      "description": "With her execution days away, the lone woman on Tennessee’s death row says she is prepared to die but “nervous” about how the state intends to carry it out.",
-      "url": "https://www.nbcnews.com/news/us-news/ahead-rare-execution-lone-woman-tennessee-death-row-says-peace-rcna600279",
-      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-10/2501002-christa-pike-death-row-mn-1200-1400aa.jpg",
-      "publishedAt": "2026-09-28T21:30:00Z",
-      "content": "Pike doesnt dispute her role in the grisly killing. But details about her upbringing, marked by years of sexual and physical abuse and neglect, were not shared with the jury that sentenced her to dea… [+5901 chars]"
+      "author": "Tisha Thompson",
+      "title": "ASU hockey players dispute school review of teammate's collapse - ESPN",
+      "description": "Seven Arizona State hockey players disputed the university's review of a teammate's collapse and called for the school to put athletic staff on leave pending an independent investigation, according to a letter sent to the university president Monday.",
+      "url": "https://www.espn.com/college-sports/story/_/id/50054697/arizona-state-matthew-mayich-seven-hockey-players-dispute-school-review",
+      "urlToImage": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0928%2Fr1723204_1296x729_16%2D9.jpg",
+      "publishedAt": "2026-09-28T21:54:00Z",
+      "content": "Seven Arizona State hockey players disputed the university's review of a teammate's collapse and called for the school to put athletic staff on leave pending an independent investigation, according t… [+6934 chars]"
     },
     {
       "source": {
@@ -100,15 +308,15 @@
     {
       "source": {
         "id": null,
-        "name": "BBC News"
+        "name": "MacRumors"
       },
-      "author": null,
-      "title": "New York Times executive fatally shot allegedly by elderly in-laws - BBC",
-      "description": "Jonathan McKinsey's in-laws, who are both 77 years old, face multiple charges including first-degree murder.",
-      "url": "https://www.bbc.com/news/articles/cred737qdv2no",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/530d/live/9d8b6460-bb72-11f1-8200-bffada0fd8de.png",
-      "publishedAt": "2026-09-28T20:50:03Z",
-      "content": "Jonathan McKinsey, 40, the newspaper's director of engineering for games player experience, was found with multiple gunshot wounds in a car park in Dublin - 35 miles (56km) west of San Francisco - on… [+32 chars]"
+      "author": "Eric Slivka",
+      "title": "Apple Releases watchOS 27.0.1 for Additional Models - MacRumors",
+      "description": "After releasing watchOS 27.0.1 for the Apple Watch Series 12 and Apple Watch Ultra 4 last week to address a bug that was causing devices to restart...",
+      "url": "https://www.macrumors.com/2026/09/28/watchos-27-0-1-additional-models/",
+      "urlToImage": "https://images.macrumors.com/t/NIcNaQpWpjJf34InyyrlQHbkafI=/1600x/article-new/2026/06/watchos-27.jpg",
+      "publishedAt": "2026-09-28T21:08:51Z",
+      "content": "After releasing watchOS 27.0.1 for the Apple Watch Series 12 and Apple Watch Ultra 4 last week to address a bug that was causing devices to restart unexpectedly, Apple has now released the update for… [+255 chars]"
     },
     {
       "source": {
@@ -125,198 +333,29 @@
     },
     {
       "source": {
-        "id": "cnn",
-        "name": "CNN"
+        "id": "axios",
+        "name": "Axios"
       },
-      "author": "Jackie Wattles",
-      "title": "NASA reveals new plan for Boeing’s troubled Starliner spacecraft and commander of future mission - CNN",
-      "description": "Months after NASA’s leadership issued a scathing indictment of Boeing’s Starliner capsule, the space agency has laid out a new road map to get the vehicle on track.",
-      "url": "https://www.cnn.com/2026/09/28/science/nasa-boeing-starliner-iss-update",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/starliner.jpg?c=16x9&q=w_800,c_fill",
-      "publishedAt": "2026-09-28T20:14:43Z",
-      "content": "Months after NASAs leadership issued a scathing indictment of Boeings Starliner capsule saying the botched 2024 test flight that left two astronauts in space months longer than expected was a disaste… [+5552 chars]"
-    },
-    {
-      "source": {
-        "id": "cbs-news",
-        "name": "CBS News"
-      },
-      "author": "Lucia I Suarez Sang",
-      "title": "Details emerge in case of former Cornell student alleging gang rape by fraternity members - CBS News",
-      "description": "A woman, identified only as Jane Doe, alleges she was gang-raped by seven fraternity members in 2024 and accuses Cornell University of failing to protect her.",
-      "url": "https://www.cbsnews.com/news/cornell-university-rape-allegations-chi-phi-fraternity-details/",
-      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/09/28/80d7344b-c74c-432c-8b0f-c12c164712ab/thumbnail/1200x630/b773baf2e79ebd22d61618255d2ae812/ap26271556664976.jpg",
-      "publishedAt": "2026-09-28T19:42:46Z",
-      "content": "New details are emerging in the case of a former Cornell University student who claims she was allegedly drugged and gang-raped for multiple hours inside a fraternity house in October 2024.\r\nThe woma… [+9684 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Deadline"
-      },
-      "author": "Nellie Andreeva",
-      "title": "‘Reacher’ Gets Early Season 6 Renewal Shortly After Season 4 Wraps With 66M Viewers In 28 Days - Deadline",
-      "description": "Prime Video has renewed 'Reacher', starring Alan Ritchson, for Season 6 just 12 days after Season 4 wrapped with 66M viewers in the first 28 days.",
-      "url": "http://deadline.com/2026/09/reacher-renewed-season-6-alan-ritchson-season-4-viewership-1237115444/",
-      "urlToImage": "https://deadline.com/wp-content/uploads/2026/09/Reacher-.jpg?w=1024",
-      "publishedAt": "2026-09-28T19:15:00Z",
-      "content": "Prime Video is picking up the pace on its Reacher renewals, handing its flagship drama starring Alan Ritchson a Season 6 pickup just 12 days after the Season 4 finale and four months after the early … [+3277 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Justine Calma",
-      "title": "Trump finalizes rule to make cars less fuel efficient - The Verge",
-      "description": "The Trump administration rolled back fuel efficiency standards, a move expected to lower the price of a new vehicle while raising fuel costs.",
-      "url": "https://www.theverge.com/news/1001610/trump-weakens-fuel-efficiency-standards",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2250207971.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "publishedAt": "2026-09-28T18:39:50Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nCritics say the move will raise fuel costs for Americans.\r\nCritics say the move will raise fuel costs for Americans.\r\nby\r\nJustine CalmaClose\r\nPosts from this aut… [+2910 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Abcnews.com"
-      },
-      "author": "ABC News - Breaking News, Latest News and Videos",
-      "title": "Pennsylvania surpasses 900 measles cases with 13 new confirmed infections: Officials - ABC News - Breaking News, Latest News and Videos",
-      "description": null,
-      "url": "https://abcnews.com/Health/pennsylvania-surpasses-900-measles-cases-13-new-confirmed/story?id\\\\u003d136818575",
-      "urlToImage": null,
-      "publishedAt": "2026-09-28T18:39:47Z",
-      "content": null
+      "author": "Rebecca Falconer",
+      "title": "What to know about RAF terror plot arrests and possible Iran link - Axios",
+      "description": "U.K. police are considering whether the suspected RAF Fairford plot involved people working on behalf of a foreign state.",
+      "url": "https://www.axios.com/2026/09/28/uk-fairford-bomb-plot-arrests-iran-link-investigation",
+      "urlToImage": "https://images.axios.com/j-ua24O_O9bw-ivvYiMVM6Yklv0=/0x311:4032x2579/1366x768/2026/09/28/1790602806601.jpeg",
+      "publishedAt": "2026-09-28T18:41:50Z",
+      "content": "What happened\r\nDriving the news: A resident of the nearby village of Whelford, Gloucestershire, told the Press Association she saw three white vans \"blocking the road\" and a \"large group of hooded\" m… [+3033 chars]"
     },
     {
       "source": {
         "id": null,
         "name": "9to5Mac"
       },
-      "author": "Chance Miller",
-      "title": "AirPods Pro 3 vs AirPods 5: Three reasons to go Pro - 9to5Mac",
-      "description": "Apple debuted AirPods 5 in September. Here's how to decide between AirPods 5 vs AirPods Pro 3, including all the new features.",
-      "url": "https://9to5mac.com/2026/09/28/airpods-pro-3-vs-airpods-5/",
-      "urlToImage": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/airpods.jpg?quality=82&strip=all&resize=1200,628",
-      "publishedAt": "2026-09-28T18:05:00Z",
-      "content": "Apple debuted the all-new AirPods 5 this month, and they bring ANC to lower prices than ever before. If youre shopping for AirPods, however, there are still several reasons you might want to opt for … [+2403 chars]"
-    },
-    {
-      "source": {
-        "id": "espn",
-        "name": "ESPN"
-      },
-      "author": "Seth Walder",
-      "title": "NFL trade deadline grades: J.J. McCarthy to the Giants - espn.com",
-      "description": "Can J.J. McCarthy improve the Giants' QB situation? Did the Vikings get enough back? We're grading NFL trades ahead of November's deadline.",
-      "url": "https://www.espn.com/nfl/story/_/id/50043542/2026-trade-deadline-grades-latest-best-worst-deals",
-      "urlToImage": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0928%2Fr1723045_1296x729_16%2D9.jpg",
-      "publishedAt": "2026-09-28T17:32:17Z",
-      "content": "Let's grade deals ahead of the 2026 NFL trade deadline, which will pass on Tuesday, Nov. 10, at 4 p.m. ET.\r\nWhen grading trades, I evaluate them for each team based on on-field impact, cap implicatio… [+4293 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CBS Sports"
-      },
-      "author": "John Breech",
-      "title": "NFL Week 3 winners and losers, plus J.J. McCarthy dealt to Giants and Eagles-Bears picks for Monday night - CBS Sports",
-      "description": "Here's everything you need to know about the NFL for Sept. 28",
-      "url": "https://www.cbssports.com/nfl/news/nfl-week-3-winners-and-losers-plus-j-j-mccarthy-dealt-to-giants-and-eagles-bears-picks-for-monday-night/",
-      "urlToImage": "https://sportshub.cbsistatic.com/i/r/2025/09/08/307bb2c8-8b70-4e68-8a4b-d06e6e2ef0c1/thumbnail/1200x675/262de0dc6b57af0cb321d1eed4362206/j-j-mccarthy.jpg",
-      "publishedAt": "2026-09-28T16:53:56Z",
-      "content": "Hello football friends, and welcome to the Monday edition of the Pick Six newsletter!\r\nIf you're still trying to recover from Sunday's NFL action, welcome to the club. Every time I thought Week 3 cou… [+20656 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "TMZ"
-      },
-      "author": null,
-      "title": "Teresa Giudice Claims Daughter Milania Had Fentanyl in Her System - Yahoo",
-      "description": "Teresa Giudice told cops her daughter Milania had fentanyl in her system during a recent incident before she was Baker Acted ... and Milania claimed she was \"laced\" ... TMZ has learned.",
-      "url": "https://www.tmz.com/watch/teresa-giudice-claims-daughter-melania-had-fentanyl-in-her-system-09-28-2026/",
-      "urlToImage": "https://imagez.tmz.com/image/f3/16by9/2026/09/28/f351b553cb2745258b744ccb38cc4d6f_xl.png",
-      "publishedAt": "2026-09-28T16:19:51Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Nokiamob"
-      },
-      "author": "Kreso",
-      "title": "Next entry-level Kindle may get rounded screen corners and new colors - Nokiamob",
-      "description": "Leaked images show a possible new entry-level Kindle with flatter edges, rounded display corners and a side power button. Amazon has not announced it yet.",
-      "url": "https://nokiamob.net/2026/09/28/new-entry-level-kindle-leaks-with-redesigned-screen-and-power-button/",
-      "urlToImage": "https://nokiamob.net/wp-content/uploads/2026/09/thumb7_PHOTO-2026-01-08-21-29-58.jpg",
-      "publishedAt": "2026-09-28T15:47:58Z",
-      "content": "Amazon may be preparing a new version of its entry-level Kindle. Leaked marketing images show an e-reader that resembles the 2024 model but has flatter edges, rounded display corners and a power butt… [+1050 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "MMA Fighting"
-      },
-      "author": "Guilherme Cruz",
-      "title": "Raoni Barcelos releases first statement since scary UFC Vegas 121 loss to Raul Rosas Jr. - MMA Fighting",
-      "description": "Raoni Barcelos lost in the final round of his UFC fight with Raul Rosas Jr.",
-      "url": "https://www.mmafighting.com/ufc/513048/raoni-barcelos-releases-first-statement-since-scary-ufc-vegas-121-loss-to-raul-rosas-jr",
-      "urlToImage": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/09/gettyimages-2297324490.jpg?quality=90&strip=all&crop=0%2C5.6329046044486%2C100%2C78.534031413613&w=1200",
-      "publishedAt": "2026-09-28T15:46:04Z",
-      "content": "Raoni Barcelos is doing great despite the frightening scenes in his UFC Vegas 121 main event loss to Raul Rosas Jr. this past weekend at the Meta APEX.\r\nThe 39-year-old bantamweight was ahead in the … [+2174 chars]"
-    },
-    {
-      "source": {
-        "id": "usa-today",
-        "name": "USA Today"
-      },
-      "author": "Gabe Lacques",
-      "title": "MLB playoff power rankings: All 12 teams by chances to win World Series - USA Today",
-      "description": "Can the 103-win Brewers down the Dodgers? Who's the team to beat in the AL?",
-      "url": "https://www.usatoday.com/story/sports/mlb/playoffs/2026/09/28/mlb-playoff-power-rankings-2026/91981739007/",
-      "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/09/28/USAT/91981803007-20260927-t-003712-z-180199151-mt-1-usatoday-29926672-rtrmadp-3-mlbtampabayraysatphiladelphiaphillies.JPG?crop=2714,1527,x519,y207&width=2714&height=1527&format=pjpg&auto=webp",
-      "publishedAt": "2026-09-28T15:41:00Z",
-      "content": "October is near. Do you know which Major League Baseball team you trust?\r\nWelcome to a postseason where virtually every participant is looking over their shoulder, wondering if their two-man rotation… [+10173 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Gothamist"
-      },
-      "author": "https://gothamist.com/staff/ramsey-khalifeh",
-      "title": "NYC nor’easter dries up after weather service reports minor flooding - Gothamist",
-      "description": "Some lingering showers still pose a risk of coastal flooding.",
-      "url": "https://gothamist.com/news/nyc-noreaster-dries-up-after-weather-service-reports-minor-flooding",
-      "urlToImage": "https://api-prod.gothamist.com/images/359398/fill-1200x650|format-webp|webpquality-85/",
-      "publishedAt": "2026-09-28T15:36:00Z",
-      "content": "As the weekend noreaster comes to a close, the National Weather Service said lingering rain and wind could cause minor flooding into Monday evening.\r\nAccording to NWS Meteorologist Bryan Ramsey, New … [+1397 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Financial Times"
-      },
-      "author": null,
-      "title": "Russian drones hit Kyiv science academy and hospital - Financial Times",
-      "description": "One person killed and six injured in attack on capital, as Volodymyr Zelenskyy urges countries to do more to protect Ukraine",
-      "url": "https://www.ft.com/content/e423eb7f-ec97-43ed-9b75-cad8e81ac86b?syn-25a6b1a6\\\\u003d1",
-      "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F1fec3d97-467f-4e07-ac59-e560a2025f6f.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
-      "publishedAt": "2026-09-28T15:03:53Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Gizmodo.com"
-      },
-      "author": "Ed Cara",
-      "title": "Scientists Uncover Worrying Link Between Frequent Cannabis Use and Seizures - Gizmodo",
-      "description": "Today's high THC products might be raising people's risk of severe epilepsy, the researchers of a new study argue.",
-      "url": "https://gizmodo.com/scientists-uncover-worrying-link-between-frequent-cannabis-use-and-seizures-2000817869",
-      "urlToImage": "https://gizmodo.com/app/uploads/2026/09/Cannabis-close-up-1200x675.jpg",
-      "publishedAt": "2026-09-28T15:00:33Z",
-      "content": "Cannabis has arguably become the most popular recreational drug in the U.S. in recent yearswith more Americans now consuming it daily than cigarette smoking and even alcohol. Research out today highl… [+5540 chars]"
+      "author": "Ryan Christoffel",
+      "title": "Apple releases iOS 27.0.1 for iPhone, here’s what’s new - 9to5Mac",
+      "description": "Apple has just released iOS 27.0.1, a new iPhone software update with key bug fixes for issues introduced in iOS 27. Here’s what’s new.",
+      "url": "https://9to5mac.com/2026/09/28/apple-releases-ios-27-0-1-for-iphone-heres-whats-new/",
+      "urlToImage": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/iOS-27-200-changes-and-features.jpg?quality=82&strip=all&resize=1200,628",
+      "publishedAt": "2026-09-28T17:08:00Z",
+      "content": "Apple has just released iOS 27.0.1, a new iPhone software update with key bug fixes for issues introduced in iOS 27. Heres whats new.\r\niPhone users, Apple has just launched its latest software update… [+1715 chars]"
     },
     {
       "source": {
@@ -333,55 +372,16 @@
     },
     {
       "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Andrew Liszewski",
-      "title": "Bose’s first wired earbuds in 11 years add noise canceling - The Verge",
-      "description": "Bose’s new $99 noise canceling earbuds resurrect the cord so you don’t need to worry about keeping them charged.",
-      "url": "https://www.theverge.com/tech/1001326/bose-wired-earbuds-noise-canceling-headphones-preorder",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/bosebud1.jpg?quality=90&strip=all&crop=0,10.715127532981,100,78.569744934037",
-      "publishedAt": "2026-09-28T14:09:44Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nThe $99 headphones eliminate battery anxiety and come with a USB-C connector to accommodate modern phones.\r\nThe $99 headphones eliminate battery anxiety and come… [+3017 chars]"
-    },
-    {
-      "source": {
         "id": null,
-        "name": "Variety"
+        "name": "WANE"
       },
-      "author": "Rebecca Rubin",
-      "title": "Robert Pattinson’s Star Power and Gen Z: 5 Reasons ‘Primetime’ Became a Breakout Box Office Hit - Variety",
-      "description": "Here are five reasons Robert Pattinson's \"Primetime\" connected at the box office.",
-      "url": "https://variety.com/2026/film/box-office/primetime-box-office-robert-pattinson-star-power-1236876947/",
-      "urlToImage": "https://variety.com/wp-content/uploads/2026/08/Primetime.png?crop=0px%2C0px%2C2510px%2C1412px&resize=1000%2C563",
-      "publishedAt": "2026-09-28T13:50:00Z",
-      "content": "Plenty of moviegoers had a seat for “Primetime,” a true-crime thriller starring Robert Pattinson as Dateline NBC journalist and “To Catch a Predator” host Chris Hansen.\r\nThe A24 movie landed on the h… [+5964 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Droid Life"
-      },
-      "author": "Kellen",
-      "title": "T-Mobile Fees Increasing on Your Bill for 2nd Time This Year - Droid Life",
-      "description": "Your T-Mobile bill is about to become more expensive even if your plan isn’t changing and you think you are a part of some sort of price lock. T-Mobile, once it stopped including fees within its plan prices, opened itself up to a world where they can increase…",
-      "url": "https://www.droid-life.com/2026/09/28/t-mobile-fees-increasing-on-your-bill-for-2nd-time-this-year/",
-      "urlToImage": "https://www.droid-life.com/wp-content/uploads/2026/01/T-Mobile-1.jpg",
-      "publishedAt": "2026-09-28T13:39:39Z",
-      "content": "Your T-Mobile bill is about to become more expensive even if your plan isn’t changing and you think you are a part of some sort of price lock. T-Mobile, once it stopped including fees within its plan… [+1589 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Rolling Stone"
-      },
-      "author": "Rob Sheffield",
-      "title": "Madonna’s ‘Danceteria’ Was One of the Great Moments in VMAs History - Rolling Stone",
-      "description": "Madonna opened the 2026 MTV VMAs with a performance of \"Danceteria\" and \"“Bring Your Love,\" and it was one of the greatest moments in VMAs history.",
-      "url": "http://www.rollingstone.com/music/music-news/madonna-danceteria-vmas-2026-charli-xcx-sabrina-carpenter-1235632854/",
-      "urlToImage": "https://www.rollingstone.com/wp-content/uploads/2026/09/vmas-madonna-sheffield-recap.jpg?w=1600&h=900&crop=1",
-      "publishedAt": "2026-09-28T11:52:22Z",
-      "content": "Madonna made her big return to the MTV Video Music Awards, her first time at the annual event in 23 years. She practically invented this show the first time it aired in 1984, making her infamous debu… [+7038 chars]"
+      "author": "Josie Fischels",
+      "title": "Elon Musk’s SpaceX Starship ends flight early after first-ever orbit of Earth - WANE 15",
+      "description": "Elon Musk’s SpaceX Starship rocket has completed its first orbit of Earth, despite losing one of its engines after the flight began. It is now beginning its journey back to Earth much earlier than originally planned.",
+      "url": "https://www.wane.com/news/national-world/elon-musks-spacex-starship-set-for-first-orbit-of-earth/",
+      "urlToImage": "https://www.wane.com/wp-content/uploads/sites/21/2026/09/AP26271032681278-e1790596847401.jpg?w=1280",
+      "publishedAt": "2026-09-28T12:49:35Z",
+      "content": "(NewsNation)   Elon Musks SpaceX Starship rocket has completed its first orbit of Earth, despite losing one of its engines after the flight began. It is now beginning its journey back to Earth much e… [+2074 chars]"
     },
     {
       "source": {
@@ -399,28 +399,15 @@
     {
       "source": {
         "id": null,
-        "name": "NPR"
+        "name": "Yahoo Entertainment"
       },
-      "author": "The Associated Press",
-      "title": "Mexico's Baja California braces for Hurricane Polo as Hurricane Nolo threatens Hawaii - NPR",
-      "description": "Hurricane Nolo edged further away from the Hawaiian Islands on Sunday as major Hurricane Polo bore down on Mexico's Baja California peninsula with a threat of storm surge, high winds and heavy rains.",
-      "url": "https://www.npr.org/2026/09/28/nx-s1-5983317/hurricane-polo-hurricane-nolo",
-      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6000x3375+0+313/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fb5%2F23%2Fa2552e2f4bf09e128985610d1eaf%2Fap26270111311662.jpg",
-      "publishedAt": "2026-09-28T07:54:01Z",
-      "content": "HILO, Hawaii Hurricane Nolo edged further away from the Hawaiian Islands on Sunday as major Hurricane Polo bore down on Mexico's Baja California peninsula with a threat of storm surge, high winds and… [+3565 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Nature.com"
-      },
-      "author": null,
-      "title": "Reference genomes and fossils revise bat family phylogeny and biogeography - Nature",
-      "description": "An updated phylogeny of bats&nbsp;is presented,&nbsp;based on new genome assemblies and&nbsp;many ancient fossils&nbsp;and including all known bat families.",
-      "url": "https://www.nature.com/articles/s41586-026-11007-3",
-      "urlToImage": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-11007-3/MediaObjects/41586_2026_11007_Fig1_HTML.png",
-      "publishedAt": "2026-09-23T23:32:12Z",
-      "content": "<li>Senckenberg-Leibniz Institution for Biodiversity and Earth System Research, Senckenberganlage, Frankfurt, Germany\r\nAriadna E. Morales, Evgeny V. Leushkin, Alexander Ben Hamadou, Alejandro Gonzale… [+16309 chars]"
+      "author": "Kim LaCapria",
+      "title": "Canadian study says Earth's core is quietly changing the length of a day - Yahoo",
+      "description": "The middle-range shifts that unfold over several decades have been harder to explain.",
+      "url": "https://www.yahoo.com/news/science/articles/canadian-study-says-earths-core-123900524.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/e8553b3d69357f801b824257a751d5d4694c9e09ec4c851d817734f580e0038d/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cool_down_737%2Fc195fdd1ba1695a0b1646fd88df6f452.jpg",
+      "publishedAt": "2026-09-27T12:39:00Z",
+      "content": "A day is supposed to last 24 hours, but Earth does not keep time quite that neatly.\r\nA new study found that forces deep inside the planet are subtly speeding up and slowing down Earth's rotation, cha… [+3756 chars]"
     }
   ]
 }

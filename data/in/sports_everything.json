@@ -1,6 +1,13 @@
 {
-  "status": "ok",
-  "totalResults": 60,
+  "source": "rss_fallback",
+  "country": "in",
+  "category": "sports",
+  "providers": [
+    "newsapi",
+    "rss"
+  ],
+  "fetched_at": "2026-10-04T07:28:46.324117+00:00",
+  "articles_count": 60,
   "articles": [
     {
       "source": {
@@ -782,5 +789,6 @@
       "publishedAt": "2026-10-02T12:57:05Z",
       "content": "The 250-run stand between Madhava Prasad and Athish deflated the hopes of the Rest of India bowlers"
     }
-  ]
+  ],
+  "query": "sports match score tournament cricket football"
 }

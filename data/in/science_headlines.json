@@ -1,13 +1,12 @@
 {
-  "source": "everything",
+  "source": "top_headlines",
   "country": "in",
   "category": "science",
   "providers": [
-    "newsapi",
     "rss"
   ],
   "fetched_at": "2026-10-04T07:28:46.324117+00:00",
-  "articles_count": 78,
+  "articles_count": 60,
   "articles": [
     {
       "source": {
@@ -60,32 +59,6 @@
       "urlToImage": "https://th-i.thgim.com/public/news/national/karnataka/3nq3la/article71536016.ece/alternates/LANDSCAPE_1200/Falcon%209.jpg",
       "publishedAt": "2026-10-02T06:17:45Z",
       "content": "Dhruva Space’s LEAP-2, hosting multiple In-Orbit Demonstration (IOD) missions, which includes a star tracker by France-based Sodern ArianeGroup, and TAPAS-1 by India-based Satleo Labs, was part of the Transporter-18 mission"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "Vikas Dandekar and Sruthijith KK",
-      "title": "‘India’s biotech ecosystem holds tremendous promise’: Eli Lilly CEO",
-      "description": "Eli Lilly has experienced significant growth, reaching a market capitalization over $1 trillion. The company aims to maintain its leadership in anti-obesity drugs through ongoing innovation and development. With successful trials for drugs like retatrutide an…",
-      "url": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/indias-biotech-ecosystem-holds-tremendous-promise-eli-lilly-ceo/articleshow/134626584.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-134626717,width-1200,height-900,imgsize-73622,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-10-01T19:35:55Z",
-      "content": "On the back of a global boom in anti-obesity drugs and its blockbuster formulations such as Mounjaro, Eli Lilly has seen its market capitalisation surge five times in six years, and is now the only p… [+10700 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "ET Science Desk",
-      "title": "NASA is preparing the Moon for humans: Three new missions will search for underground shelter, water ice and hidden hazards",
-      "description": "NASA is planning three investigations on the Moon to gather essential information for a future lunar outpost. These investigations will monitor environmental conditions, explore for underground lava tubes, and search for lunar ice resources. The data collecte…",
-      "url": "https://economictimes.indiatimes.com/news/international/global-trends/nasa-is-preparing-the-moon-for-humans-three-new-missions-will-search-for-underground-shelter-water-ice-and-hidden-hazards/articleshow/134623118.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-134623289,width-1200,height-900,imgsize-46730,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-10-01T16:26:52Z",
-      "content": "Before astronauts can spend long periods on the Moon, NASA needs to answer some very basic questions: Where can they find useful resources? What could protect them from the lunar environment? And wha… [+9498 chars]"
     },
     {
       "source": {
@@ -203,19 +176,6 @@
       "urlToImage": "https://th-i.thgim.com/public/incoming/e6736t/article71525477.ece/alternates/LANDSCAPE_1200/IMG_iStock-2207141986_2_1_00GJ4R81.jpg",
       "publishedAt": "2026-10-01T01:48:53Z",
       "content": "A major milestone accompanying the launch is the announcement of CAIK’s first cohort of 15 start-ups."
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "ET Online",
-      "title": "Miami set to get a new CMU campus, thanks to $3 billion donation by Citadel founder Ken Griffin — the largest-ever gift in US higher education history",
-      "description": "CMU is set to transform Wynwood, Miami, with a stunning $2 billion investment dedicated to establishing a new university campus. Anticipated to open in 2028, the CMU Miami will focus on solving social challenges and elevating research in crucial domains, cate…",
-      "url": "https://economictimes.indiatimes.com/news/international/global-trends/miami-set-to-get-a-new-cmu-campus-thanks-to-3-billion-donation-by-citadel-founder-ken-griffin-the-largest-ever-gift-in-us-higher-education-history/articleshow/134595560.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-134595657,width-1200,height-900,imgsize-5648560,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-09-30T13:23:43Z",
-      "content": "Miami is set to get a new Carnegie Mellon University (CMU) campus, thanks to a $2 billion donation from Citadel founder and CEO Ken Griffin. The donation also includes another $1 billion for CMU's Pi… [+2752 chars]"
     },
     {
       "source": {
@@ -544,19 +504,6 @@
     },
     {
       "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "ANI",
-      "title": "\"One small step for TPUs\": Google CEO Sundar Pichai announces Project Suncatcher to test AI compute in Space",
-      "description": "According to Google, Project Suncatcher is a long-term, research moonshot exploring whether space could one day host scalable machine learning infrastructure.",
-      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/one-small-step-for-tpus-google-ceo-sundar-pichai-announces-project-suncatcher-to-test-ai-compute-in-space/articleshow/134474714.cms",
-      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-57668,resizemode-75,msid-134474714/tech/artificial-intelligence/one-small-step-for-tpus-google-ceo-sundar-pichai-announces-project-suncatcher-to-test-ai-compute-in-space.jpg",
-      "publishedAt": "2026-09-25T04:05:38Z",
-      "content": "Google on Thursday announced that its Project Suncatcher is scheduled to embark on its first test in orbit, launching a prototype satellite to evaluate how Google Tensor Processing Units (TPUs) perfo… [+2384 chars]"
-    },
-    {
-      "source": {
         "id": "the-hindu",
         "name": "The Hindu"
       },
@@ -567,19 +514,6 @@
       "urlToImage": "https://th-i.thgim.com/public/incoming/xlxvlm/article71506964.ece/alternates/LANDSCAPE_1200/2026-09-22T075838Z_2029302470_RC2TRLAFOW15_RTRMADP_3_AUSTRALIA-AI-OPENAI.JPG",
       "publishedAt": "2026-09-25T03:36:45Z",
       "content": "The White House ‌wants to take steps ‌to ⁠make sure US systems are ⁠secure, according to the report."
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "Team Global",
-      "title": "In 2018, NASA satellite images of penguin guano sent researchers to Antarctica's Danger Islands, where they found more than 1.5 million Adélie penguins",
-      "description": "In December 2015, scientists found a massive colony of over 1.5 million Adélie penguins on the Danger Islands. This discovery was made possible through analysis of satellite images showing penguin droppings as large pink stains. They verified the count by con…",
-      "url": "https://economictimes.indiatimes.com/news/international/us/in-2018-nasa-satellite-images-of-penguin-guano-sent-researchers-to-antarcticas-danger-islands-where-they-found-more-than-1-5-million-adlie-penguins/articleshow/134429402.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-134429438,width-1200,height-630,imgsize-920643,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-09-24T08:20:00Z",
-      "content": "In December 2015, a small team of scientists arrived on a cluster of icy islands near the tip of the Antarctic Peninsula. They were not chasing headlines; they were just following a pink stain they h… [+4918 chars]"
     },
     {
       "source": {
@@ -671,19 +605,6 @@
       "urlToImage": "https://th-i.thgim.com/public/incoming/v6owog/article71423023.ece/alternates/LANDSCAPE_1200/2026-04-08T190025Z_878018676_RC2YJKAM5T39_RTRMADP_3_SPACE-MOON-ARTEMIS-AMERICANS.JPG",
       "publishedAt": "2026-09-23T01:59:02Z",
       "content": "On September 14, 1959, an object touched by humans struck the surface of the moon. That object, retroactively renamed Luna 2, was the first-ever human-made object from Earth that had reached another cosmic body. A.S.Ganesh takes stock of the mission that made it happen and how the news of its success was received world over…"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "ET Science Desk",
-      "title": "A satellite map revealed a mysterious giant circle that was hiding in Canada for 390 million years. One amateur astronomer finally noticed it",
-      "description": "Researchers have identified the Uhackatik impact crater in Quebec, which is about 25 kilometers wide. The crater was discovered by amateur astronomer Joël Lapointe using satellite imagery while looking for camping spots. Geological confirmation came through t…",
-      "url": "https://economictimes.indiatimes.com/news/international/global-trends/a-satellite-map-revealed-a-mysterious-giant-circle-that-was-hiding-in-canada-for-390-million-years-one-amateur-astronomer-finally-noticed-it/articleshow/134419751.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-134419901,width-1200,height-630,imgsize-300206,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-09-22T19:37:42Z",
-      "content": "While trying to find a suitable place for camping in an unknown part of Quebec, Canada, scientists came across something far more ancient than expected a 25-km-wide impact crater that is estimated to… [+7578 chars]"
     },
     {
       "source": {
@@ -866,163 +787,6 @@
       "urlToImage": "https://th-i.thgim.com/public/society/u9axmz/article71480042.ece/alternates/LANDSCAPE_1200/Untitled%20design%20-%202026-09-18T142626.520.jpg",
       "publishedAt": "2026-09-19T16:48:11Z",
       "content": "The Australia-based food-safety research scientist on why India must track risks across the food supply chain, rather than relying mainly on checks at shops and markets"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "ET Science Desk",
-      "title": "Scientists find DNA in human blood can fold into strange four-stranded shapes — a hidden layer of genetic information that ordinary sequencing may miss",
-      "description": "Scientists have found unusual four-stranded DNA shapes in human blood plasma. These G-quadruplex structures suggest hidden genetic information may exist. Ordinary sequencing methods might miss this folded genetic material. This discovery could potentially off…",
-      "url": "https://economictimes.indiatimes.com/news/international/global-trends/scientists-find-dna-in-human-blood-can-fold-into-strange-four-stranded-shapes-a-hidden-layer-of-genetic-information-that-ordinary-sequencing-may-miss/articleshow/134291394.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-134292287,width-1200,height-630,imgsize-14422,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-09-16T16:23:43Z",
-      "content": "Scientists have detected unusual four-stranded genetic structures in human blood plasma, suggesting that DNA fragments circulating through the body may contain information that standard sequencing ca… [+4421 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "ET Science Desk",
-      "title": "Three robots worked together like an independent science team in NASA’s latest test — it could change space exploration forever by making decisions without waiting for Earth",
-      "description": "NASA tested three robots capable of independent scientific decision-making.  These autonomous systems can assess risks and adjust plans without human input.  The ASTRA project aims to enhance robotic missions in challenging environments.  This technology coul…",
-      "url": "https://economictimes.indiatimes.com/news/international/global-trends/three-robots-worked-together-like-an-independent-science-team-in-nasas-latest-test-it-could-change-space-exploration-forever-by-making-decisions-without-waiting-for-earth/articleshow/134290752.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-134290837,width-1200,height-630,imgsize-255212,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-09-16T15:27:08Z",
-      "content": "NASA has tested a fleet of three robots that can choose scientific targets, assess risks and adjust their plans without waiting for fresh instructions from human researchers.The experiment took place… [+7861 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "Team Global",
-      "title": "In 2022, Mattel sent two Barbie dolls to the ISS for Mission DreamStar, and their filmed trip became part of a STEM video series",
-      "description": "In 2022, two Barbie dolls took a stellar trip to the International Space Station as part of the exciting Mission DreamStar. These dolls, beloved by many, orbited Earth for weeks and starred in a captivating video with NASA astronauts. The mission's goal was t…",
-      "url": "https://economictimes.indiatimes.com/news/international/us/in-2022-mattel-sent-two-barbie-dolls-to-the-iss-for-mission-dreamstar-and-their-filmed-trip-became-part-of-a-stem-video-series/articleshow/134255514.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-134255585,width-1200,height-630,imgsize-318526,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-09-16T07:30:00Z",
-      "content": "Barbie has been an astronaut since 1965, decades before anyone actually let her near a rocket. That changed in 2022 when Mattel sent two real Barbie dolls to the International Space Station. The doll… [+4389 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "Gandharv Walia",
-      "title": "In 2009, NASA started conducting the largest airborne survey of Earth's polar ice under Operation IceBridge to bridge the observational gap between ICESat and ICESat-2",
-      "description": "In 2009, NASA started conducting the largest airborne survey of Earth's polar ice under Operation IceBridge to bridge the observational gap between the ICESat and ICESat-2 satellite missions. The campaign used research aircraft, laser altimeters, radar and im…",
-      "url": "https://economictimes.indiatimes.com/news/international/us/science-in-2009-nasa-started-conducting-the-largest-airborne-survey-of-earths-polar-ice-under-operation-icebridge-to-bridge-the-observational-gap-between-icesat-and-icesat-2/articleshow/134150789.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-134151480,width-1200,height-630,imgsize-335010,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-09-12T18:44:21Z",
-      "content": "In 2009, NASA started conducting the largest airborne survey of Earth's polar ice under the mission Operation IceBridgeto bridge the observational gap between the ICESat and ICESat-2 satellite missio… [+8946 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "Team Global",
-      "title": "In 2019, 11,482 Hubble Asteroid Hunter volunteers helped train an AI that scanned 37,000 Hubble images; the combined effort uncovered 1,701 asteroid trails, including 1,031 unknown objects",
-      "description": "Citizen scientists helped astronomers find over one thousand new asteroids. These faint objects were previously missed by earlier surveys and computers. The Hubble Asteroid Hunter project utilized over eleven thousand volunteers worldwide. Their contributions…",
-      "url": "https://economictimes.indiatimes.com/news/international/us/in-2019-11482-hubble-asteroid-hunter-volunteers-helped-train-an-ai-that-scanned-37000-hubble-images-the-combined-effort-uncovered-1701-asteroid-trails-including-1031-unknown-objects/articleshow/134059599.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-134060000,width-1200,height-630,imgsize-1937994,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-09-12T08:30:00Z",
-      "content": "Major discoveries often begin with an accident. In 2019, a group of astronomers turned to ordinary citizens to help sort through old Hubble Space Telescope images, looking for asteroids that photobom… [+4591 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "ET Online",
-      "title": "Mercury may have shrunk 30% more than previously believed, new study says; planet’s radius may have decreased by 7.2 miles",
-      "description": "Recent studies indicate that Mercury has shrunk more than scientists previously realized. The presence of impact debris has hindered the visibility of this contraction, shedding light on Mercury's interior features and its metallic core. This discovery offers…",
-      "url": "https://economictimes.indiatimes.com/news/international/global-trends/mercury-may-have-shrunk-30-more-than-previously-believed-new-study-says-planets-radius-may-have-decreased-by-7-2-miles/articleshow/134021539.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-134023552,width-1200,height-630,imgsize-373964,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-09-10T17:50:27Z",
-      "content": "Mercury, the closest planet to the Sun, may have contracted 10% to 30% more than previously estimated, according to a report of CNN which cited a new study. Researchers estimate that the planets radi… [+4839 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "Team Global",
-      "title": "In 2006, NASA launched 75 fruit flies on STS-121 for 13 days; Discovery returned with about 3,000, including a new generation that developed in space",
-      "description": "NASA's experiments with fruit flies in zero gravity unveiled significant weaknesses in their immune systems. Observations indicated these flies produced fewer specialized immune cells and exhibited a diminished ability to combat bacteria. Further investigatio…",
-      "url": "https://economictimes.indiatimes.com/news/international/us/in-2006-nasa-launched-75-fruit-flies-on-sts-121-for-13-days-discovery-returned-with-about-3000-after-a-new-generation-had-been-raised-entirely-in-space/articleshow/133967655.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-133967773,width-1200,height-630,imgsize-163114,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-09-10T09:00:00Z",
-      "content": "In 2006, NASA placed 75 normal fruit flies aboard the space shuttle Discovery and launched them into space as part of the STS-121 mission, a routine, crewed shuttle flight to the International Space … [+4452 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "Team Global",
-      "title": "In 1971, Apollo 14 brought back the 20-pound rock Big Bertha; in 2019, scientists found a fragment that likely came from Earth, excavated about 4 billion years ago",
-      "description": "A lunar rock collected by Apollo 14 astronauts may contain a fragment of Earth. This tiny piece of rock is approximately four billion years old. Scientists suggest an asteroid impact blasted it from Earth into space. The Moon was much closer to Earth during t…",
-      "url": "https://economictimes.indiatimes.com/news/international/us/in-1971-apollo-14-brought-back-the-20-pound-rock-big-bertha-in-2019-scientists-found-a-fragment-that-likely-came-from-earth-excavated-about-4-billion-years-ago/articleshow/133918949.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-133919018,width-1200,height-630,imgsize-1216918,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-09-09T08:50:00Z",
-      "content": "When Apollo 14 astronauts Alan Shepard and Edgar Mitchell picked up a hefty, football-sized rock near the rim of Cone Crater in February 1971, they had no idea it might be carrying a secret piece of … [+4882 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "Govind Vijaykumar",
-      "title": "Half a million 4k tv's to view one photo: Why NASA's new space telescope is special",
-      "description": "NASA has successfully launched the Nancy Grace Roman telescope, a cutting-edge space observatory equipped with mirrors provided by the National Reconnaissance Office. Unlike Hubble, which observed a limited portion of the sky for three decades, Roman will cov…",
-      "url": "https://timesofindia.indiatimes.com/science/half-a-million-4k-tvs-to-view-one-photo-why-nasas-new-space-telescope-is-special/articleshow/133865609.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-133866116,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-09-07T05:55:35Z",
-      "content": "<ul><li>News</li>\r\n<li>Science News</li>\r\n<li>Half a million 4k tv's to view one photo: Why NASA's new space telescope is special</li></ul>\r\nFollow Us On Social Media\r\nNBA star Dwight Howard relists … [+2273 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "Team Global",
-      "title": "In 1957, Vanguard TV3 rose about 4 feet before its rocket exploded; the 3-pound satellite was thrown clear, recovered, and now sits in the Smithsonian's Air and Space Museum",
-      "description": "In 1957, an American satellite launch ended in disaster when the rocket exploded on the launchpad. The salvaged satellite ultimately became a museum exhibit. This setback propelled the establishment of NASA, leading to a successful subsequent launch. Vanguard…",
-      "url": "https://economictimes.indiatimes.com/news/international/us/in-1957-vanguard-tv3-rose-about-4-feet-before-its-rocket-exploded-the-3-pound-satellite-was-thrown-clear-recovered-and-now-sits-in-the-smithsonians-air-and-space-museum/articleshow/133755701.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-133755755,width-1200,height-630,imgsize-44914,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-09-05T08:00:00Z",
-      "content": "Some failures become footnotes; this one ended up becoming a museum exhibit. NASA's official history archives note that on December 6, 1957, a tiny American satellite barely made it off the ground be… [+4219 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "Trending Desk",
-      "title": "Saturn south pole decagon: NASA Hubble detects mysterious 10-sided pattern forming around planet",
-      "description": "NASA’s Hubble Space Telescope has revealed a giant 10-sided atmospheric wave developing around Saturn’s south pole. Unlike the planet’s long-lived northern hexagon, the newly identified structure appears to be strengthening and was traced in Hubble observatio…",
-      "url": "https://economictimes.indiatimes.com/news/new-updates/saturn-south-pole-decagon-nasa-hubble-detects-mysterious-10-sided-pattern-forming-around-planet/articleshow/133762592.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-133763228,width-1200,height-630,imgsize-22604,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-09-04T12:35:49Z",
-      "content": "Saturns south pole has revealed an atmospheric feature unlike anything previously observed there. Recent observations from NASAs Hubble Space Telescope have identified a huge, evolving 10-sided wave … [+6396 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "Trending Desk",
-      "title": "15-year-old builds flashlight powered by body heat: How her hollow aluminium tube generated electricity to keep an LED lit for more than 20 minutes",
-      "description": "A 15-year-old Canadian student built a battery-free flashlight that uses the temperature difference between a warm human palm and cooler air to generate electricity. Her Hollow Flashlight used thermoelectric tiles to power an LED for more than 20 minutes.",
-      "url": "https://economictimes.indiatimes.com/news/new-updates/15-year-old-builds-flashlight-powered-by-body-heat-how-her-hollow-aluminium-tube-generated-electricity-to-keep-an-led-lit-for-more-than-20-minutes/articleshow/133729146.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-133729405,width-1200,height-630,imgsize-88086,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-09-03T07:46:43Z",
-      "content": "There's no switch on it. No crank, no shake, no solar cell soaking up sun. You just wrap your fingers around it, and it lights up. That's the whole instruction manual. The device belongs to Ann Makos… [+6379 chars]"
     }
-  ],
-  "query": "science research discovery space"
+  ]
 }

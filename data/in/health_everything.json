@@ -2,10 +2,767 @@
   "source": "everything",
   "country": "in",
   "category": "health",
-  "query": "medical health research wellness",
-  "fetched_at": "2026-10-04T00:09:45.466547+00:00",
-  "articles_count": 6,
+  "providers": [
+    "newsapi",
+    "rss"
+  ],
+  "fetched_at": "2026-10-04T07:28:46.324117+00:00",
+  "articles_count": 66,
   "articles": [
+    {
+      "source": {
+        "id": "the-hindu",
+        "name": "The Hindu"
+      },
+      "author": null,
+      "title": "Health Wrap Episode 53 discuss cancer drug pricing, medicine misuse and dengue",
+      "description": "The episode looks at medicine pricing, the risks of inappropriate painkiller and antibiotic use, and a new dengue early warning system being developed in Keralam",
+      "url": "https://www.thehindu.com/sci-tech/health/health-wrap-episode-53-on-cancer-drug-pricing-medicine-misuse-and-dengue/article71543147.ece",
+      "urlToImage": "https://th-i.thgim.com/public/incoming/u9zxsl/article71543157.ece/alternates/LANDSCAPE_1200/2026-09-19T000543Z_295008079_RC20MNA627GK_RTRMADP_3_USA-IPO-BIOTECH.JPG",
+      "publishedAt": "2026-10-04T07:13:23Z",
+      "content": "The episode looks at medicine pricing, the risks of inappropriate painkiller and antibiotic use, and a new dengue early warning system being developed in Keralam"
+    },
+    {
+      "source": {
+        "id": "the-hindu",
+        "name": "The Hindu"
+      },
+      "author": null,
+      "title": "Eradicating H. pylori can prevent gastric cancer, says Nobel laureate Barry Marshall",
+      "description": "H. pylori is much more than an ulcer organism. If the infection persists for many years, it can cause chronic inflammation in the stomach and increase the risk of gastric cancer, says Dr. Marshall",
+      "url": "https://www.thehindu.com/sci-tech/health/eradicating-h-pylori-can-prevent-gastric-cancer-says-nobel-laureate-barry-marshall/article71543089.ece",
+      "urlToImage": "https://th-i.thgim.com/public/news/national/7721xl/article71543100.ece/alternates/LANDSCAPE_1200/iStock-496159007.jpg",
+      "publishedAt": "2026-10-04T06:44:49Z",
+      "content": "H. pylori is much more than an ulcer organism. If the infection persists for many years, it can cause chronic inflammation in the stomach and increase the risk of gastric cancer, says Dr. Marshall"
+    },
+    {
+      "source": {
+        "id": "the-hindu",
+        "name": "The Hindu"
+      },
+      "author": null,
+      "title": "‘Wall of Hope’, mental health initiative led by youth, unveiled in city",
+      "description": null,
+      "url": "https://www.thehindu.com/news/cities/chennai/wall-of-hope-mental-health-initiative-led-by-youth-unveiled-in-city/article71540374.ece",
+      "urlToImage": "https://th-i.thgim.com/public/news/national/tamil-nadu/5bqf4v/article71540581.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-10-03%20at%2017.30.16.jpeg",
+      "publishedAt": "2026-10-03T19:22:42Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "the-hindu",
+        "name": "The Hindu"
+      },
+      "author": null,
+      "title": "Nestle India’s ‘low-fat dairy whitener’ found ‘unsafe, substandard’ at Hotel Lalit: FSSAI",
+      "description": "The Food Safety and Standards Authority of India said the sample, collected from Bharat Hotels Ltd (The Lalit) in Connaught Place, has been declared non-compliant under the FSS Act, 2006",
+      "url": "https://www.thehindu.com/news/national/nestle-indias-low-fat-dairy-whitener-found-unsafe-substandard-at-hotel-lalit-fssai/article71540419.ece",
+      "urlToImage": "https://th-i.thgim.com/public/incoming/p2lp0n/article71540442.ece/alternates/LANDSCAPE_1200/2026-09-18T063815Z_1003651879_RC2097AKID30_RTRMADP_3_RUSSIA-NESTLE.JPG",
+      "publishedAt": "2026-10-03T11:19:05Z",
+      "content": "The Food Safety and Standards Authority of India said the sample, collected from Bharat Hotels Ltd (The Lalit) in Connaught Place, has been declared non-compliant under the FSS Act, 2006"
+    },
+    {
+      "source": {
+        "id": "the-hindu",
+        "name": "The Hindu"
+      },
+      "author": null,
+      "title": "3,832 children diagnosed with leprosy as India targets interruption of transmission by 2027",
+      "description": "Thirty-seven had already developed Grade-2 disability at diagnosis, raising questions over delayed detection and continuing transmission",
+      "url": "https://www.thehindu.com/news/national/3832-children-diagnosed-with-leprosy-as-india-targets-interruption-of-transmission-by-2027/article71540064.ece",
+      "urlToImage": "https://th-i.thgim.com/public/incoming/k8is45/article71540235.ece/alternates/LANDSCAPE_1200/leprosy-iStock-1752238075.jpg",
+      "publishedAt": "2026-10-03T09:57:01Z",
+      "content": "Thirty-seven had already developed Grade-2 disability at diagnosis, raising questions over delayed detection and continuing transmission"
+    },
+    {
+      "source": {
+        "id": "the-hindu",
+        "name": "The Hindu"
+      },
+      "author": null,
+      "title": "T.N. recording around 200 dengue cases a day, numbers remain steady: DPH",
+      "description": "The Director of Public Health and Preventive Medicine says the caseload remains steady and is not of outbreak proportions; cases are being reported across cities including the Chennai belt (Tiruvallur and Kancheepuram), Coimbatore, and Madurai",
+      "url": "https://www.thehindu.com/news/cities/chennai/tn-recoding-around-200-dengue-cases-a-day-numbers-remain-steady-dph/article71537135.ece",
+      "urlToImage": "https://th-i.thgim.com/public/incoming/bigq8v/article71538206.ece/alternates/LANDSCAPE_1200/IMG_IMG_Aedes_aegypti_Mo_2_1_M9ER3J15.jpg",
+      "publishedAt": "2026-10-03T08:57:53Z",
+      "content": "The Director of Public Health and Preventive Medicine says the caseload remains steady and is not of outbreak proportions; cases are being reported across cities including the Chennai belt (Tiruvallur and Kancheepuram), Coimbatore, and Madurai"
+    },
+    {
+      "source": {
+        "id": "the-hindu",
+        "name": "The Hindu"
+      },
+      "author": null,
+      "title": "Watch: Cancer drug pricing, painkiller misuse, dengue alerts and more | Health Wrap | Episode 53",
+      "description": null,
+      "url": "https://www.thehindu.com/videos/shows/watch-cancer-drug-pricing-painkiller-misuse-dengue-alerts-and-more-health-wrap-episode-53/article71540108.ece",
+      "urlToImage": "https://th-i.thgim.com/public/incoming/ptytqq/article71540105.ece/alternates/LANDSCAPE_1200/health%20wrap-%20ebola-11.jpg",
+      "publishedAt": "2026-10-03T08:35:30Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "the-hindu",
+        "name": "The Hindu"
+      },
+      "author": null,
+      "title": "Pakistani cosmetics seized in Hyderabad traced to Mumbai’s Crawford Market",
+      "description": "Central Drugs Standard Control Organisation (CDSCO) had warned against two of the seized whitening creams over excessive heavy metals, while samples are now undergoing forensic tests to determine their composition.",
+      "url": "https://www.thehindu.com/news/national/telangana/pakistani-cosmetics-seized-in-hyderabad-traced-to-mumbais-crawford-market/article71537544.ece",
+      "urlToImage": "https://th-i.thgim.com/public/incoming/77dn0x/article71537559.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-10-01%20at%2017.21.06%201.jpeg",
+      "publishedAt": "2026-10-03T07:46:22Z",
+      "content": "Central Drugs Standard Control Organisation (CDSCO) had warned against two of the seized whitening creams over excessive heavy metals, while samples are now undergoing forensic tests to determine their composition."
+    },
+    {
+      "source": {
+        "id": "the-hindu",
+        "name": "The Hindu"
+      },
+      "author": null,
+      "title": "Rapunzel syndrome: 1 kg hair mass removed from girl’s stomach, small intestine at hospital in Keralam",
+      "description": "9-year-old was admitted to a private hospital with persistent abdominal pain and vomiting. Scans revealed severe intestinal obstruction, and a subsequent endoscopy confirmed a large mass of hair accumulated in stomach and small intestine",
+      "url": "https://www.thehindu.com/news/national/kerala/rapunzel-syndrome-1-kg-hair-mass-removed-from-girls-stomach-small-intestine-at-hospital-in-keralam/article71539777.ece",
+      "urlToImage": "https://th-i.thgim.com/public/incoming/yw05k3/article71539799.ece/alternates/LANDSCAPE_1200/IMG_mariia-horobets-RWd4_2_1_CKFK1JPA.jpg",
+      "publishedAt": "2026-10-03T07:13:28Z",
+      "content": "9-year-old was admitted to a private hospital with persistent abdominal pain and vomiting. Scans revealed severe intestinal obstruction, and a subsequent endoscopy confirmed a large mass of hair accumulated in stomach and small intestine"
+    },
+    {
+      "source": {
+        "id": "the-hindu",
+        "name": "The Hindu"
+      },
+      "author": null,
+      "title": "Keralam Health Minister denies medicine shortages in govt hospitals, alleges pharma companies behind such claims",
+      "description": "He describes such reports as ‘media creation’ and maintains that adequate stocks are available in government hospitals",
+      "url": "https://www.thehindu.com/news/national/kerala/keralam-health-minister-denies-medicine-shortages-in-govt-hospitals-alleges-pharma-companies-behind-such-claims/article71539895.ece",
+      "urlToImage": "https://th-i.thgim.com/public/news/national/kerala/cz034k/article71539913.ece/alternates/LANDSCAPE_1200/80692_21_2_2024_12_27_33_1_KMURALEEDHARAN.jpg",
+      "publishedAt": "2026-10-03T07:06:38Z",
+      "content": "He describes such reports as ‘media creation’ and maintains that adequate stocks are available in government hospitals"
+    },
+    {
+      "source": {
+        "id": "the-hindu",
+        "name": "The Hindu"
+      },
+      "author": null,
+      "title": "Uproar over Dalit woman’s roadside delivery amid untouchability allegations",
+      "description": "Rani Vanvasi, a 20-year-old pregnant woman gave birth on the roadside outside government district hospital in Bhadohi on September 29, after she was allegedly denied admission for delivery; the victim’s family also alleged that hospital staff failed to provide timely treatment and did not admit her.",
+      "url": "https://www.thehindu.com/news/national/uttar-pradesh/uproar-over-dalit-womans-roadside-delivery-amid-untouchability-allegations/article71537672.ece",
+      "urlToImage": "https://th-i.thgim.com/public/incoming/yywwxj/article71539768.ece/alternates/LANDSCAPE_1200/iStock-1539178884.jpg",
+      "publishedAt": "2026-10-03T05:37:23Z",
+      "content": "Rani Vanvasi, a 20-year-old pregnant woman gave birth on the roadside outside government district hospital in Bhadohi on September 29, after she was allegedly denied admission for delivery; the victim’s family also alleged that hospital staff failed to provide timely treatment and did not admit her."
+    },
+    {
+      "source": {
+        "id": "the-hindu",
+        "name": "The Hindu"
+      },
+      "author": null,
+      "title": "Tennessee execution survivor Christa Pike on ventilator, attorneys say",
+      "description": "Pike remains in critical condition, her ⁠lawyers said, two days after the state administered two doses of pentobarbital but failed to kill her.",
+      "url": "https://www.thehindu.com/news/international/tennessee-execution-survivor-christa-pike-on-ventilator-attorneys-say/article71538490.ece",
+      "urlToImage": "https://th-i.thgim.com/public/incoming/m0kg7/article71538496.ece/alternates/LANDSCAPE_1200/Tennessee_Execution__57_.jpg",
+      "publishedAt": "2026-10-03T04:54:24Z",
+      "content": "Pike remains in critical condition, her ⁠lawyers said, two days after the state administered two doses of pentobarbital but failed to kill her."
+    },
+    {
+      "source": {
+        "id": "the-hindu",
+        "name": "The Hindu"
+      },
+      "author": null,
+      "title": "Allahabad HC to hear suo motu PIL on noise pollution after student’s death",
+      "description": "Seven-year-old Class 2 student died at Balrampur school while a procession carrying loudspeakers and a music system was passing nearby; court clarifies no link has been established between noise and death",
+      "url": "https://www.thehindu.com/news/national/allahabad-hc-to-hear-suo-motu-pil-on-noise-pollution-after-students-death/article71536862.ece",
+      "urlToImage": "https://th-i.thgim.com/public/incoming/hptoyb/article71537239.ece/alternates/LANDSCAPE_1200/vjkvg-mike%203.JPG",
+      "publishedAt": "2026-10-03T04:54:01Z",
+      "content": "Seven-year-old Class 2 student died at Balrampur school while a procession carrying loudspeakers and a music system was passing nearby; court clarifies no link has been established between noise and death"
+    },
+    {
+      "source": {
+        "id": "the-hindu",
+        "name": "The Hindu"
+      },
+      "author": null,
+      "title": "Rethinking suicide prevention in Adivasi communities",
+      "description": "When people are uprooted from their language, culture and communities, distress can deepen in ways clinical care alone may not address. Suicide prevention must therefore draw on the collective strengths and knowledge of Adivasi communities themselves",
+      "url": "https://www.thehindu.com/sci-tech/health/rethinking-suicide-prevention-in-adivasi-communities/article71532378.ece",
+      "urlToImage": "https://th-i.thgim.com/public/incoming/uygd91/article71539681.ece/alternates/LANDSCAPE_1200/10GNRAO-TRIBAL%20DANCE-01%203.JPG",
+      "publishedAt": "2026-10-03T04:43:39Z",
+      "content": "When people are uprooted from their language, culture and communities, distress can deepen in ways clinical care alone may not address. Suicide prevention must therefore draw on the collective strengths and knowledge of Adivasi communities themselves"
+    },
+    {
+      "source": {
+        "id": "the-hindu",
+        "name": "The Hindu"
+      },
+      "author": null,
+      "title": "Massive markup on high-cost drugs: Raids to continue, Karnataka writes to Centre",
+      "description": "The next phase of raids will focus on antiretroviral drugs, higher-generation and critical antibiotics, medical devices, and hospital consumables with significant financial implications for patients",
+      "url": "https://www.thehindu.com/news/cities/bangalore/massive-markup-on-high-cost-drugs-raids-to-continue-karnataka-writes-to-centre/article71532516.ece",
+      "urlToImage": "https://th-i.thgim.com/public/incoming/3egh80/article71533130.ece/alternates/LANDSCAPE_1200/Del6361864.jpg",
+      "publishedAt": "2026-10-02T12:54:54Z",
+      "content": "The next phase of raids will focus on antiretroviral drugs, higher-generation and critical antibiotics, medical devices, and hospital consumables with significant financial implications for patients"
+    },
+    {
+      "source": {
+        "id": "the-hindu",
+        "name": "The Hindu"
+      },
+      "author": null,
+      "title": "The last act of dignity: Sumira Roy on National Award-winning documentary Bhangaar",
+      "description": "72nd National Film Awards: As India’s elderly population grows, Sumira Roy’s National Award-winning Bhangaar, on the Lavates’ demand for euthanasia, explores lost autonomy",
+      "url": "https://www.thehindu.com/society/sumira-roy-interview-national-award-winning-bhangaar/article71531963.ece",
+      "urlToImage": "https://th-i.thgim.com/public/society/vqfak7/article71531935.ece/alternates/LANDSCAPE_1200/Film%20still%20-couple%20_balcony.png",
+      "publishedAt": "2026-10-02T12:36:51Z",
+      "content": "72nd National Film Awards: As India’s elderly population grows, Sumira Roy’s National Award-winning Bhangaar, on the Lavates’ demand for euthanasia, explores lost autonomy"
+    },
+    {
+      "source": {
+        "id": "the-hindu",
+        "name": "The Hindu"
+      },
+      "author": null,
+      "title": "International organisations form alliance for diabetic foot survival and limb preservation",
+      "description": "The alliance aims to address gaps in prevention, early detection, timely referral, multidisciplinary care and post-amputation rehabilitation",
+      "url": "https://www.thehindu.com/news/national/karnataka/international-organisations-form-alliance-for-diabetic-foot-survival-and-limb-preservation/article71536578.ece",
+      "urlToImage": "https://th-i.thgim.com/public/sci-tech/health/289s29/article71536583.ece/alternates/LANDSCAPE_1200/Declaration%20main%20photo.jpeg",
+      "publishedAt": "2026-10-02T10:50:54Z",
+      "content": "The alliance aims to address gaps in prevention, early detection, timely referral, multidisciplinary care and post-amputation rehabilitation"
+    },
+    {
+      "source": {
+        "id": "the-hindu",
+        "name": "The Hindu"
+      },
+      "author": null,
+      "title": "Congo’s Ebola outbreak records more than 4,000 deaths",
+      "description": "The World Health Organization has recently raised the alarm regarding the rapid geographical spread of the virus into new health zones, stretching limited resources.",
+      "url": "https://www.thehindu.com/news/international/congos-ebola-outbreak-records-more-than-4000-deaths/article71536483.ece",
+      "urlToImage": "https://th-i.thgim.com/public/incoming/5hlqet/article71536491.ece/alternates/LANDSCAPE_1200/APTOPIX_Congo_Ebola_682_5.jpg",
+      "publishedAt": "2026-10-02T09:27:16Z",
+      "content": "The World Health Organization has recently raised the alarm regarding the rapid geographical spread of the virus into new health zones, stretching limited resources."
+    },
+    {
+      "source": {
+        "id": "the-hindu",
+        "name": "The Hindu"
+      },
+      "author": null,
+      "title": "Menopause is a major health milestone, yet health records barely track it - new research",
+      "description": "Many aspects of menopause, and the diversity in women’s experiences with it, remain poorly understood.",
+      "url": "https://www.thehindu.com/sci-tech/health/menopause-is-a-major-health-milestone-yet-health-records-barely-track-it-new-research/article71532181.ece",
+      "urlToImage": "https://th-i.thgim.com/public/incoming/il15e8/article71533155.ece/alternates/LANDSCAPE_1200/IMG_BL2310_Corp_buzz_men_2_1_NSBTFNNR.jpg",
+      "publishedAt": "2026-10-02T09:04:39Z",
+      "content": "Many aspects of menopause, and the diversity in women’s experiences with it, remain poorly understood."
+    },
+    {
+      "source": {
+        "id": "the-hindu",
+        "name": "The Hindu"
+      },
+      "author": null,
+      "title": "G.P. Talwar at 100: scientist, institution builder, lifelong researcher",
+      "description": "Since joining the founding faculty of AIIMS New Delhi, he has never stopped working at the bench. Along the way, he developed the world’s first leprosy vaccine, a hormonal birth control vaccine, founded India’s first immunology institution, mentored hundreds of students, and continues his research as he begins his second century",
+      "url": "https://www.thehindu.com/sci-tech/health/gp-talwar-centenary-institution-builder-nii-leprosy-vaccine-birth-control/article71535826.ece",
+      "urlToImage": "https://th-i.thgim.com/public/sci-tech/science/bv6ij/article71535821.ece/alternates/LANDSCAPE_1200/IMG_20240918_171952962.jpg",
+      "publishedAt": "2026-10-02T07:28:27Z",
+      "content": "Since joining the founding faculty of AIIMS New Delhi, he has never stopped working at the bench. Along the way, he developed the world’s first leprosy vaccine, a hormonal birth control vaccine, founded India’s first immunology institution, mentored hundreds of students, and continues his research as he begins his second century"
+    },
+    {
+      "source": {
+        "id": "the-hindu",
+        "name": "The Hindu"
+      },
+      "author": null,
+      "title": "Shortage of drugs to treat NCDs in govt. hospitals in Keralam",
+      "description": "Kerala Medical Services Corporation Limited released only the drug supplies of the first quarter and that the second quarter release of June did not happen at all which led to the shortage of some drugs, including NCD drugs",
+      "url": "https://www.thehindu.com/news/national/kerala/shortage-of-drugs-to-treat-ncds-in-govt-hospitals-in-keralam/article71533215.ece",
+      "urlToImage": "https://th-i.thgim.com/public/incoming/8a0kum/article71534033.ece/alternates/LANDSCAPE_1200/AFP_36K8479.jpg",
+      "publishedAt": "2026-10-02T04:58:31Z",
+      "content": "Kerala Medical Services Corporation Limited released only the drug supplies of the first quarter and that the second quarter release of June did not happen at all which led to the shortage of some drugs, including NCD drugs"
+    },
+    {
+      "source": {
+        "id": "the-hindu",
+        "name": "The Hindu"
+      },
+      "author": null,
+      "title": "World's 90% health burden of chewing tobacco concentrated in 10 countries, including India: Study",
+      "description": "The researchers said the figures reflect total deaths and disability, meaning countries with larger populations may account for a greater share of the burden even if their rates are not the highest",
+      "url": "https://www.thehindu.com/sci-tech/health/worlds-90-health-burden-of-chewing-tobacco-concentrated-in-10-countries-including-india-study/article71533281.ece",
+      "urlToImage": "https://th-i.thgim.com/public/incoming/md33ht/article71533325.ece/alternates/LANDSCAPE_1200/15_Tobacco_Banned_in_Delhi_15_04_Delhi.jpg",
+      "publishedAt": "2026-10-01T13:53:52Z",
+      "content": "The researchers said the figures reflect total deaths and disability, meaning countries with larger populations may account for a greater share of the burden even if their rates are not the highest"
+    },
+    {
+      "source": {
+        "id": "the-hindu",
+        "name": "The Hindu"
+      },
+      "author": null,
+      "title": "Why Kerala’s groundwater is increasingly at risk of contamination | Explained",
+      "description": "Kerala’s dependence on groundwater, combined with dense settlement, inadequate sewerage and changing rainfall patterns, is increasing the risk of contamination. How is contamination reaching groundwater? What are the health impacts? And what is being done to improve the State’s sewerage infrastructure?",
+      "url": "https://www.thehindu.com/sci-tech/health/why-keralas-groundwater-is-increasingly-at-risk-of-contamination-explained/article71531774.ece",
+      "urlToImage": "https://th-i.thgim.com/public/incoming/v4sch9/article71531901.ece/alternates/LANDSCAPE_1200/20tvpd_water2",
+      "publishedAt": "2026-10-01T13:08:20Z",
+      "content": "Kerala’s dependence on groundwater, combined with dense settlement, inadequate sewerage and changing rainfall patterns, is increasing the risk of contamination. How is contamination reaching groundwater? What are the health impacts? And what is being done to improve the State’s sewerage infrastructure?"
+    },
+    {
+      "source": {
+        "id": "the-hindu",
+        "name": "The Hindu"
+      },
+      "author": null,
+      "title": "Temperament, childhood adversity may offer clues to psychiatric vulnerability: NIMHANS study",
+      "description": "The researchers examined four broad dimensions of adult temperament - negative affectivity, extraversion/surgency, effortful control and orienting sensitivity - along with adverse childhood experiences",
+      "url": "https://www.thehindu.com/sci-tech/health/temperament-childhood-adversity-may-offer-clues-to-psychiatric-vulnerability-nimhans-study/article71532420.ece",
+      "urlToImage": "https://th-i.thgim.com/public/incoming/49vn54/article71532424.ece/alternates/LANDSCAPE_1200/AFP_C9LX9G9.jpg",
+      "publishedAt": "2026-10-01T10:28:30Z",
+      "content": "The researchers examined four broad dimensions of adult temperament - negative affectivity, extraversion/surgency, effortful control and orienting sensitivity - along with adverse childhood experiences"
+    },
+    {
+      "source": {
+        "id": "the-hindu",
+        "name": "The Hindu"
+      },
+      "author": null,
+      "title": "What human brain tissue transplanted into mice showed us",
+      "description": "A Stanford University experiment called ‘xenocortication’ lets human brain tissue develop inside a living mouse, offering a novel way to study the developing human brain and, potentially, how disease develops. It also raises new ethical questions about how far such experiments should go",
+      "url": "https://www.thehindu.com/sci-tech/health/what-human-brain-tissue-transplanted-into-mice-showed-us/article71503023.ece",
+      "urlToImage": "https://th-i.thgim.com/public/incoming/ala72l/article71532404.ece/alternates/LANDSCAPE_1200/IMG_iStock-1206174114_2_1_L7B9HIQI.jpg",
+      "publishedAt": "2026-10-01T10:23:15Z",
+      "content": "A Stanford University experiment called ‘xenocortication’ lets human brain tissue develop inside a living mouse, offering a novel way to study the developing human brain and, potentially, how disease develops. It also raises new ethical questions about how far such experiments should go"
+    },
+    {
+      "source": {
+        "id": "the-hindu",
+        "name": "The Hindu"
+      },
+      "author": null,
+      "title": "All you need to know about: Swyer Syndrome",
+      "description": "The condition often goes unnoticed during childhood and comes to light during adolescence, when puberty does not progress normally or menstruation does not begin",
+      "url": "https://www.thehindu.com/sci-tech/health/all-you-need-to-know-about-swyer-syndrome/article71524779.ece",
+      "urlToImage": "https://th-i.thgim.com/public/incoming/v2vo5l/article71527744.ece/alternates/LANDSCAPE_1200/Autoimmune_Diseases-Women_58761.jpg",
+      "publishedAt": "2026-09-30T10:08:40Z",
+      "content": "The condition often goes unnoticed during childhood and comes to light during adolescence, when puberty does not progress normally or menstruation does not begin"
+    },
+    {
+      "source": {
+        "id": "the-hindu",
+        "name": "The Hindu"
+      },
+      "author": null,
+      "title": "India to have more elderly people later this century as fertility falls, age structure shifts: Moody’s",
+      "description": "Moody’s Ratings says India’s fertility has already fallen below replacement level, as the global fertility rate has declined from 4.9 to about 2.2 children per woman since 1950",
+      "url": "https://www.thehindu.com/news/national/india-to-have-more-elderly-people-later-this-century-as-fertility-falls-age-structure-shifts-moodys/article71526967.ece",
+      "urlToImage": "https://th-i.thgim.com/public/incoming/bwkih0/article71527015.ece/alternates/LANDSCAPE_1200/IMG_iStock-2234446045_2_1_KTGIOIHT.jpg",
+      "publishedAt": "2026-09-30T06:17:06Z",
+      "content": "Moody’s Ratings says India’s fertility has already fallen below replacement level, as the global fertility rate has declined from 4.9 to about 2.2 children per woman since 1950"
+    },
+    {
+      "source": {
+        "id": "the-hindu",
+        "name": "The Hindu"
+      },
+      "author": null,
+      "title": "Understanding vitiligo",
+      "description": "Affecting up to around 2% of people around the world, vitiligo can begin at any point in your life, even though mostly seen in childhood and early adulthood.",
+      "url": "https://www.thehindu.com/children/understanding-vitiligo/article71414093.ece",
+      "urlToImage": "https://th-i.thgim.com/public/incoming/4rxpru/article71414138.ece/alternates/LANDSCAPE_1200/young-woman-showing-her-vitiligo-skin-parts.jpg",
+      "publishedAt": "2026-09-30T06:16:27Z",
+      "content": "Affecting up to around 2% of people around the world, vitiligo can begin at any point in your life, even though mostly seen in childhood and early adulthood."
+    },
+    {
+      "source": {
+        "id": "the-hindu",
+        "name": "The Hindu"
+      },
+      "author": null,
+      "title": "Painkillers, antibiotics, and kidney disease: Why has drug regulator issued a fresh warning?",
+      "description": "The regulator has asked the public not to take non-steroidal anti-inflammatory drugs (NSAIDs) or antibiotics indiscriminately, repeatedly or for prolonged periods without medical advice.",
+      "url": "https://www.thehindu.com/sci-tech/health/painkillers-antibiotics-and-kidney-disease-why-has-drug-regulator-issued-a-fresh-warning/article71523918.ece",
+      "urlToImage": "https://th-i.thgim.com/public/incoming/v3nc6a/article71524859.ece/alternates/LANDSCAPE_1200/iStock-1314471030.jpg",
+      "publishedAt": "2026-09-30T06:08:44Z",
+      "content": "The regulator has asked the public not to take non-steroidal anti-inflammatory drugs (NSAIDs) or antibiotics indiscriminately, repeatedly or for prolonged periods without medical advice."
+    },
+    {
+      "source": {
+        "id": "the-hindu",
+        "name": "The Hindu"
+      },
+      "author": null,
+      "title": "What is brain fog and when does it need investigation",
+      "description": "Neurologists explain the difference between everyday forgetfulness and persistent cognitive difficulties; what can contribute to brain fog the conditions and medicines that can contribute, and when tests or specialist assessment are needed",
+      "url": "https://www.thehindu.com/sci-tech/health/what-is-brain-fog-and-when-does-it-needs-investigation/article71509569.ece",
+      "urlToImage": "https://th-i.thgim.com/public/incoming/h8z5mc/article71509560.ece/alternates/LANDSCAPE_1200/Snapshots_ShapeGOEGE93C3.3.jpg.jpg",
+      "publishedAt": "2026-09-30T05:14:45Z",
+      "content": "Neurologists explain the difference between everyday forgetfulness and persistent cognitive difficulties; what can contribute to brain fog the conditions and medicines that can contribute, and when tests or specialist assessment are needed"
+    },
+    {
+      "source": {
+        "id": "the-hindu",
+        "name": "The Hindu"
+      },
+      "author": null,
+      "title": "Why rare-disease drugs could become India’s next pharma frontier",
+      "description": "Since India has already shown the world how to make drugs affordable, the next challenge is to show the world how to make rare-disease drugs accessible; with a streamlined regulatory pathway, appropriate financial incentives, and government procurement, India could build a globally competitive rare-disease pharmaceutical sector",
+      "url": "https://www.thehindu.com/sci-tech/science/rare-disease-drugs-could-become-indias-next-pharma-frontier/article71518560.ece",
+      "urlToImage": "https://th-i.thgim.com/public/incoming/jfprot/article71409869.ece/alternates/LANDSCAPE_1200/IMG_FILE_PHOTO__Tablets__2_1_RVCS5VKF.jpg",
+      "publishedAt": "2026-09-30T05:00:32Z",
+      "content": "Since India has already shown the world how to make drugs affordable, the next challenge is to show the world how to make rare-disease drugs accessible; with a streamlined regulatory pathway, appropriate financial incentives, and government procurement, India could build a globally competitive rare-disease pharmaceutical sector"
+    },
+    {
+      "source": {
+        "id": "the-hindu",
+        "name": "The Hindu"
+      },
+      "author": null,
+      "title": "The question of access",
+      "description": "On the price and safety of medicines, changing vaccination needs, AI in medicine, prevention and new research",
+      "url": "https://www.thehindu.com/sci-tech/health/health-matters-newsletter-the-question-of-access-to-healthcare/article71522890.ece",
+      "urlToImage": "https://th-i.thgim.com/public/incoming/tmr21t/article71523211.ece/alternates/LANDSCAPE_1200/AFP_C8TG29Y.jpg",
+      "publishedAt": "2026-09-30T03:13:35Z",
+      "content": "On the price and safety of medicines, changing vaccination needs, AI in medicine, prevention and new research"
+    },
+    {
+      "source": {
+        "id": "the-hindu",
+        "name": "The Hindu"
+      },
+      "author": null,
+      "title": "Poor diet, sedentary habits contribute to rising metabolic disorders among young people, says expert",
+      "description": "Sri Ramachandra Institute of Higher Education and Research organises Prof. S.P. Thyagarajan Endowment Oration",
+      "url": "https://www.thehindu.com/news/cities/chennai/poor-diet-sedentary-habits-contribute-to-rising-metabolic-disorders-among-young-people-says-expert/article71524033.ece",
+      "urlToImage": "https://th-i.thgim.com/public/incoming/xzm5v9/article71524025.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-09-29%20at%2018.02.42.jpeg",
+      "publishedAt": "2026-09-29T19:26:36Z",
+      "content": "Sri Ramachandra Institute of Higher Education and Research organises Prof. S.P. Thyagarajan Endowment Oration"
+    },
+    {
+      "source": {
+        "id": "the-hindu",
+        "name": "The Hindu"
+      },
+      "author": null,
+      "title": "Fever cases see spurt in Kozhikode, alert issued against measles",
+      "description": "Hundreds of patients seeking outpatient treatment every day in government hospitals and health centres in the district",
+      "url": "https://www.thehindu.com/news/national/kerala/fever-cases-see-spurt-in-kozhikode-alert-issued-against-measles/article71524307.ece",
+      "urlToImage": null,
+      "publishedAt": "2026-09-29T14:08:44Z",
+      "content": "Hundreds of patients seeking outpatient treatment every day in government hospitals and health centres in the district"
+    },
+    {
+      "source": {
+        "id": "the-hindu",
+        "name": "The Hindu"
+      },
+      "author": null,
+      "title": "TAVI has ushered in a new age in treating aortic valve diseases: how it works and who it is for",
+      "description": "For several decades, severe aortic valve diseases were treated only with open heart surgery. TAVI has revolutionised the entire process for eligible patients. For several decades, severe aortic valve diseases were treated only with open heart surgery. TAVI has revolutionised the entire process for eligible patients.",
+      "url": "https://www.thehindu.com/sci-tech/health/tavi-has-ushered-in-new-age-in-treating-aortic-valve-diseases-how-it-works-and-who-it-is-for/article71472008.ece",
+      "urlToImage": "https://th-i.thgim.com/public/incoming/lszeza/article71518527.ece/alternates/LANDSCAPE_1200/IMG_iStock-2150323686_2_1_ERDLCJK7.jpg",
+      "publishedAt": "2026-09-29T13:20:35Z",
+      "content": "For several decades, severe aortic valve diseases were treated only with open heart surgery. TAVI has revolutionised the entire process for eligible patients. For several decades, severe aortic valve diseases were treated only with open heart surgery. TAVI has revolutionised the entire process for eligible patients."
+    },
+    {
+      "source": {
+        "id": "the-hindu",
+        "name": "The Hindu"
+      },
+      "author": null,
+      "title": "Why does male contraception still lag so far behind?",
+      "description": "Contraceptive choice forms part of one’s reproductive agency. A safe male pill or long-acting reversible method would add, not subtract, choices. Giving both partners independent preventive options could reduce unintended pregnancies and spread responsibility more evenly",
+      "url": "https://www.thehindu.com/sci-tech/health/why-does-male-contraception-still-lag-so-far-behind/article71507351.ece",
+      "urlToImage": "https://th-i.thgim.com/public/incoming/fodtkw/article71511599.ece/alternates/LANDSCAPE_1200/CCI_UDHindu_KSL_UNR4GI9E5_R1533808035_3_2e7eeef4-fe91-4f2d-8cf5-17388c6b3880.jpg",
+      "publishedAt": "2026-09-29T13:08:40Z",
+      "content": "Contraceptive choice forms part of one’s reproductive agency. A safe male pill or long-acting reversible method would add, not subtract, choices. Giving both partners independent preventive options could reduce unintended pregnancies and spread responsibility more evenly"
+    },
+    {
+      "source": {
+        "id": "the-hindu",
+        "name": "The Hindu"
+      },
+      "author": null,
+      "title": "Supreme Court questions steep mark-ups on cancer drugs, calls pricing disparity ‘carnage’",
+      "description": "Petitioners seek the apex court’s intervention in regulating the prices of drugs, medical equipment, and generic medicines, making them more affordable",
+      "url": "https://www.thehindu.com/news/national/supreme-court-questions-steep-mark-ups-on-cancer-drugs-calls-pricing-disparity-carnage/article71523314.ece",
+      "urlToImage": "https://th-i.thgim.com/public/news/national/96l63j/article69741792.ece/alternates/LANDSCAPE_1200/iStock-1393837248.jpg",
+      "publishedAt": "2026-09-29T12:22:42Z",
+      "content": "Petitioners seek the apex court’s intervention in regulating the prices of drugs, medical equipment, and generic medicines, making them more affordable"
+    },
+    {
+      "source": {
+        "id": "the-hindu",
+        "name": "The Hindu"
+      },
+      "author": null,
+      "title": "Diabetic Foot Society of India calls for global alliance",
+      "description": "The DFSI has proposed that institutions come together to form a Global Alliance for Diabetic Foot Survival and Limb Preservation, to create a sustained, scientific, and policy platform for prevention, limb preservation, improved survival, and rehabilitation",
+      "url": "https://www.thehindu.com/sci-tech/health/diabetic-foot-society-of-india-calls-for-global-alliance/article71523180.ece",
+      "urlToImage": "https://th-i.thgim.com/public/incoming/m4u483/article71523753.ece/alternates/LANDSCAPE_1200/CCI_UDHindu_KSL_UIG6CKRG0_R1567245489_2_08c5d21b-2c82-4104-9503-d32419eadb34.jpg",
+      "publishedAt": "2026-09-29T12:19:54Z",
+      "content": "The DFSI has proposed that institutions come together to form a Global Alliance for Diabetic Foot Survival and Limb Preservation, to create a sustained, scientific, and policy platform for prevention, limb preservation, improved survival, and rehabilitation"
+    },
+    {
+      "source": {
+        "id": "the-hindu",
+        "name": "The Hindu"
+      },
+      "author": null,
+      "title": "Seasonal infections are doing the rounds: what you should know",
+      "description": "Hand and water hygiene remain crucial to preventing infections; do not self-medicate beyond paracetamol and see a doctor in case a fever lasts beyond five days or if there is any other organ involvement",
+      "url": "https://www.thehindu.com/sci-tech/health/seasonal-infections-are-doing-the-rounds-what-you-should-know/article71495083.ece",
+      "urlToImage": "https://th-i.thgim.com/public/incoming/ftd4ew/article71503389.ece/alternates/LANDSCAPE_1200/290824_wearing%20masks%20%2003.jpg",
+      "publishedAt": "2026-09-29T10:07:14Z",
+      "content": "Hand and water hygiene remain crucial to preventing infections; do not self-medicate beyond paracetamol and see a doctor in case a fever lasts beyond five days or if there is any other organ involvement"
+    },
+    {
+      "source": {
+        "id": "the-hindu",
+        "name": "The Hindu"
+      },
+      "author": null,
+      "title": "Cancer, kidney, AIDS drugs sold at up to 70 times procurement cost: Karnataka Health Minister",
+      "description": "He sought a national study comparing the printed MRP, manufacturer/importer price, hospital’s net acquisition price, and the price ultimately billed to patients for selected high-value medicines, medical devices, and consumables",
+      "url": "https://www.thehindu.com/news/cities/bangalore/cancer-kidney-aids-drugs-sold-at-up-to-70-times-procurement-cost-karnataka-health-minister/article71516820.ece",
+      "urlToImage": "https://th-i.thgim.com/public/incoming/g3h946/article71516965.ece/alternates/LANDSCAPE_1200/DSC_7734.JPG",
+      "publishedAt": "2026-09-29T05:28:38Z",
+      "content": "He sought a national study comparing the printed MRP, manufacturer/importer price, hospital’s net acquisition price, and the price ultimately billed to patients for selected high-value medicines, medical devices, and consumables"
+    },
+    {
+      "source": {
+        "id": "the-hindu",
+        "name": "The Hindu"
+      },
+      "author": null,
+      "title": "Supreme Court questions FSSAI for delay in roll-out of warning labels on packaged foods",
+      "description": "‘You started in 2022. What did you do in the last four years,’ the Bench asks the food safety regulator as it seeks nearly two years to roll out front-of-pack warning labels on packaged foods",
+      "url": "https://www.thehindu.com/news/national/sc-questions-fssai-over-its-proposed-timeline-for-implementation-of-front-of-package-labelling/article71518996.ece",
+      "urlToImage": "https://th-i.thgim.com/public/incoming/3vjvf6/article71518998.ece/alternates/LANDSCAPE_1200/FSSAI-takes-actG13GC8OKQ.4.jpg.jpg",
+      "publishedAt": "2026-09-29T04:31:13Z",
+      "content": "‘You started in 2022. What did you do in the last four years,’ the Bench asks the food safety regulator as it seeks nearly two years to roll out front-of-pack warning labels on packaged foods"
+    },
+    {
+      "source": {
+        "id": "the-hindu",
+        "name": "The Hindu"
+      },
+      "author": null,
+      "title": "Epidemic prevention to be strengthened through coordination committees in Keralam",
+      "description": null,
+      "url": "https://www.thehindu.com/news/national/kerala/epidemic-prevention-to-be-strengthened-through-coordination-committees-in-keralam/article71520902.ece",
+      "urlToImage": null,
+      "publishedAt": "2026-09-29T04:29:22Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "the-hindu",
+        "name": "The Hindu"
+      },
+      "author": null,
+      "title": "Five crore Indian children still lack access to sanitation service in their schools, says UN report",
+      "description": "India is among the 28 out of 62 countries that are on track to achieve universal coverage of basic drinking water in schools by 2030",
+      "url": "https://www.thehindu.com/news/national/five-crore-indian-children-still-lack-access-to-sanitation-service-in-their-schools-says-un-report/article71498219.ece",
+      "urlToImage": "https://th-i.thgim.com/public/incoming/1o855c/article71498772.ece/alternates/LANDSCAPE_1200/IMG_6702HI-W02604RGDT57K_4_1_QEC6JKM0.jpg",
+      "publishedAt": "2026-09-28T14:47:24Z",
+      "content": "India is among the 28 out of 62 countries that are on track to achieve universal coverage of basic drinking water in schools by 2030"
+    },
+    {
+      "source": {
+        "id": "the-hindu",
+        "name": "The Hindu"
+      },
+      "author": null,
+      "title": "Beyond borders and difficult roads, government hospitals in Telangana’s Bhadradri Kothagudem keep specialised care going",
+      "description": null,
+      "url": "https://www.thehindu.com/news/national/telangana/beyond-borders-and-difficult-roads-government-hospitals-in-telanganas-bhadradri-kothagudem-keep-specialised-care-going/article71515963.ece",
+      "urlToImage": "https://th-i.thgim.com/public/incoming/7ycq95/article71515965.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-09-22%20at%208.26.03%20PM.jpeg",
+      "publishedAt": "2026-09-28T11:20:56Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "the-hindu",
+        "name": "The Hindu"
+      },
+      "author": null,
+      "title": "OpenAI, Anthropic CEOs called to appear at Australian AI probe over health database breach",
+      "description": "The Medicare breach, condemned by Prime Minister Anthony Albanese, is one of the highest-profile incidents of AI agents accessing ‌external systems outside the U.S.",
+      "url": "https://www.thehindu.com/sci-tech/technology/openai-anthropic-ceos-called-to-appear-at-australian-ai-probe-over-health-database-breach/article71515354.ece",
+      "urlToImage": "https://th-i.thgim.com/public/incoming/9tbmjm/article71515370.ece/alternates/LANDSCAPE_1200/OpenAI-says-itsG6RGJ7M18.3.jpg.jpg",
+      "publishedAt": "2026-09-28T10:39:56Z",
+      "content": "The Medicare breach, condemned by Prime Minister Anthony Albanese, is one of the highest-profile incidents of AI agents accessing ‌external systems outside the U.S."
+    },
+    {
+      "source": {
+        "id": "the-hindu",
+        "name": "The Hindu"
+      },
+      "author": null,
+      "title": "Access to cancer genetic testing unequal worldwide: New Lancet Commission",
+      "description": "The team estimated that seven to eight million (70-80 lakh) people with cancer worldwide need standard-of-care molecular testing every year",
+      "url": "https://www.thehindu.com/sci-tech/health/access-to-cancer-genetic-testing-unequal-worldwide-new-lancet-commission/article71519150.ece",
+      "urlToImage": "https://th-i.thgim.com/public/incoming/6qho0/article71519182.ece/alternates/LANDSCAPE_1200/Snapshots_ShapeGJDFMCRQU.3.jpg.jpg",
+      "publishedAt": "2026-09-28T10:03:11Z",
+      "content": "The team estimated that seven to eight million (70-80 lakh) people with cancer worldwide need standard-of-care molecular testing every year"
+    },
+    {
+      "source": {
+        "id": "the-hindu",
+        "name": "The Hindu"
+      },
+      "author": null,
+      "title": "Protection from TB preventive treatment could wane after one year in high-burden countries: Study",
+      "description": "The results showed that high-burden countries should consider combining TPT with other interventions to achieve the long-term benefits these medications are capable of providing",
+      "url": "https://www.thehindu.com/sci-tech/health/protection-from-tb-preventive-treatment-could-wane-after-one-year-in-high-burden-countries-study/article71519126.ece",
+      "urlToImage": "https://th-i.thgim.com/public/incoming/cduhoc/article71519144.ece/alternates/LANDSCAPE_1200/IMG_BL1008_Quantum_Ancho_2_1_5IGC7B70.jpg",
+      "publishedAt": "2026-09-28T09:36:23Z",
+      "content": "The results showed that high-burden countries should consider combining TPT with other interventions to achieve the long-term benefits these medications are capable of providing"
+    },
+    {
+      "source": {
+        "id": "the-hindu",
+        "name": "The Hindu"
+      },
+      "author": null,
+      "title": "What does the Centre’s latest decision on NEET-SS seats entail? | Explained",
+      "description": "What is the NEET-SS examination? Why are NEET-SS seats going vacant? What was the demand of doctors from Tamil Nadu?",
+      "url": "https://www.thehindu.com/education/what-does-the-centres-latest-decision-on-neet-ss-seats-entail-explained/article71518276.ece",
+      "urlToImage": "https://th-i.thgim.com/public/incoming/jq69xq/article71518279.ece/alternates/LANDSCAPE_1200/20260621622L.jpg",
+      "publishedAt": "2026-09-28T08:33:13Z",
+      "content": "What is the NEET-SS examination? Why are NEET-SS seats going vacant? What was the demand of doctors from Tamil Nadu?"
+    },
+    {
+      "source": {
+        "id": "the-hindu",
+        "name": "The Hindu"
+      },
+      "author": null,
+      "title": "Why is everything linked to inflammation now?",
+      "description": "Inflammation has become the universal language through which the Internet talks about modern life, ageing, food and the body",
+      "url": "https://www.thehindu.com/sci-tech/health/inflammation-internet-social-media-modern-life-ageing-food-the-body-autoimmnune-disease-diabetes-cancer-heart-failure-alzheimers/article71498144.ece",
+      "urlToImage": "https://th-i.thgim.com/public/life-and-style/pfwr9v/article71498417.ece/alternates/LANDSCAPE_1200/Inflammation.png",
+      "publishedAt": "2026-09-28T05:45:46Z",
+      "content": "Inflammation has become the universal language through which the Internet talks about modern life, ageing, food and the body"
+    },
+    {
+      "source": {
+        "id": "the-hindu",
+        "name": "The Hindu"
+      },
+      "author": null,
+      "title": "Scientists at IAV, Keralam develop dengue early warning system to forecast trends",
+      "description": "The aim is to help public health managers plan resource allocation and preventive measures proactively, rather than responding only after outbreaks occur",
+      "url": "https://www.thehindu.com/news/national/kerala/iav-develops-dengue-early-warning-system-to-forecast-dengue-trends/article71512981.ece",
+      "urlToImage": "https://th-i.thgim.com/public/incoming/ml4uj/article71516336.ece/alternates/LANDSCAPE_1200/IMG_CCI_UDHindu_KSL_U1P5_2_1_OKGIEKVC.jpg",
+      "publishedAt": "2026-09-28T05:45:07Z",
+      "content": "The aim is to help public health managers plan resource allocation and preventive measures proactively, rather than responding only after outbreaks occur"
+    },
+    {
+      "source": {
+        "id": "the-hindu",
+        "name": "The Hindu"
+      },
+      "author": null,
+      "title": "Dental trauma affects over a billion globally, remains overlooked health concern: AIIMS experts",
+      "description": "Researchers highlighted that traumatic dental injury represents a neglected condition of substantial global burden, noting that, if included among the world’s most frequent acute and chronic diseases and injuries, it could rank fifth in terms of prevalence",
+      "url": "https://www.thehindu.com/sci-tech/health/dental-trauma-affects-over-a-billion-globally-remains-overlooked-health-concern-aiims-experts/article71518410.ece",
+      "urlToImage": "https://th-i.thgim.com/public/incoming/qw1hpz/article71518430.ece/alternates/LANDSCAPE_1200/Greenfield-4.jpg",
+      "publishedAt": "2026-09-28T05:04:16Z",
+      "content": "Researchers highlighted that traumatic dental injury represents a neglected condition of substantial global burden, noting that, if included among the world’s most frequent acute and chronic diseases and injuries, it could rank fifth in terms of prevalence"
+    },
+    {
+      "source": {
+        "id": "the-hindu",
+        "name": "The Hindu"
+      },
+      "author": null,
+      "title": "Study flags E. coli in 67% of water samples in Keralam’s Pala region",
+      "description": null,
+      "url": "https://www.thehindu.com/news/national/kerala/study-flags-e-coli-in-67-of-water-samples-in-keralams-pala-region/article71516096.ece",
+      "urlToImage": null,
+      "publishedAt": "2026-09-28T04:24:54Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "the-hindu",
+        "name": "The Hindu"
+      },
+      "author": null,
+      "title": "Walkathon held to raise awareness of heart health",
+      "description": null,
+      "url": "https://www.thehindu.com/sci-tech/health/walkathon-held-to-raise-awareness-of-heart-health/article71515527.ece",
+      "urlToImage": "https://th-i.thgim.com/public/incoming/aa8972/article71515531.ece/alternates/LANDSCAPE_1200/walkathonnnn.jpeg",
+      "publishedAt": "2026-09-27T18:51:23Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "the-hindu",
+        "name": "The Hindu"
+      },
+      "author": null,
+      "title": "How Haryana’s village health centres are screening heart patients and helping save lives",
+      "description": "A tele-ECG project implemented by the government in partnership with a startup has made ECGs available at primary and community health centres across Haryana. Patients can now get an ECG done, take emergency medication where required, and then be referred to tertiary care centres for procedures",
+      "url": "https://www.thehindu.com/sci-tech/health/how-haryanas-village-health-centres-are-screening-heart-patients-and-helping-save-lives/article71490263.ece",
+      "urlToImage": "https://th-i.thgim.com/public/sci-tech/health/ck6mh4/article71490578.ece/alternates/LANDSCAPE_1200/Heart-1.jpg",
+      "publishedAt": "2026-09-27T16:07:18Z",
+      "content": "A tele-ECG project implemented by the government in partnership with a startup has made ECGs available at primary and community health centres across Haryana. Patients can now get an ECG done, take emergency medication where required, and then be referred to tertiary care centres for procedures"
+    },
+    {
+      "source": {
+        "id": "the-hindu",
+        "name": "The Hindu"
+      },
+      "author": null,
+      "title": "Ahead of winter, why Delhi needs to vaccinate its grandparents alongside their grandchildren",
+      "description": "The city provides free protection to infants against pneumococcal disease, while their grandparents, who are much more likely to die from it, are left to rely on a private market many of them cannot afford. The polluted winter air carries risks, some of which adult vaccination can help mitigate",
+      "url": "https://www.thehindu.com/sci-tech/health/ahead-of-winter-why-delhi-needs-to-vaccinate-its-grandparents-alongside-their-grandchildren/article71494264.ece",
+      "urlToImage": "https://th-i.thgim.com/public/incoming/gj5k0j/article71498614.ece/alternates/LANDSCAPE_1200/6678_7_10_2021_16_27_36_3_VACCINE_3.JPG",
+      "publishedAt": "2026-09-27T15:41:09Z",
+      "content": "The city provides free protection to infants against pneumococcal disease, while their grandparents, who are much more likely to die from it, are left to rely on a private market many of them cannot afford. The polluted winter air carries risks, some of which adult vaccination can help mitigate"
+    },
+    {
+      "source": {
+        "id": "the-hindu",
+        "name": "The Hindu"
+      },
+      "author": null,
+      "title": "Experts discuss vaccine schedules, missed doses, and common misconceptions",
+      "description": "The webinar covered childhood and adult immunisation, catch-up vaccination, travel vaccines and questions around vaccine safety",
+      "url": "https://www.thehindu.com/sci-tech/health/experts-discuss-vaccine-schedules-missed-doses-and-common-misconceptions/article71515542.ece",
+      "urlToImage": "https://th-i.thgim.com/public/incoming/pdka8e/article71515552.ece/alternates/LANDSCAPE_1200/Several_vaccines_2021.jpg",
+      "publishedAt": "2026-09-27T13:34:38Z",
+      "content": "The webinar covered childhood and adult immunisation, catch-up vaccination, travel vaccines and questions around vaccine safety"
+    },
+    {
+      "source": {
+        "id": "the-hindu",
+        "name": "The Hindu"
+      },
+      "author": null,
+      "title": "Health Wrap Episode 52 examines AI in healthcare, its potential and patient safety risks",
+      "description": "The episode discusses how artificial intelligence could support drug development, medical research and clinical care, while examining concerns around inaccurate information, data and patient safety",
+      "url": "https://www.thehindu.com/sci-tech/health/health-wrap-episode-52-examines-ai-in-healthcare-its-potential-and-patient-safety-risks/article71515586.ece",
+      "urlToImage": "https://th-i.thgim.com/public/incoming/tbwbdq/article71515614.ece/alternates/LANDSCAPE_1200/iStock-1129809759.jpg",
+      "publishedAt": "2026-09-27T08:42:27Z",
+      "content": "The episode discusses how artificial intelligence could support drug development, medical research and clinical care, while examining concerns around inaccurate information, data and patient safety"
+    },
+    {
+      "source": {
+        "id": "the-hindu",
+        "name": "The Hindu"
+      },
+      "author": null,
+      "title": "Watch: AI in healthcare: promise, risks and patient safety | Health Wrap | Episode 52",
+      "description": "AI is increasingly being used in healthcare, including drug and vaccine development, medical imaging and clinical decision-making. While these applications may support research and clinical care, they also raise concerns about patient safety, inaccurate or misleading information, data privacy and the potential misuse of AI in biological research. In Episode 53 of Health Wrap, Ramya Kannan, Health Editor, The Hindu, speaks to Dr. Abdul Ghafur, infectious diseases expert, Apollo Hospitals, Chennai, about the opportunities and risks of artificial intelligence in healthcare. They discuss how AI could accelerate medical research, support doctors in clinical care, and why its limitations and potential risks need careful attention.",
+      "url": "https://www.thehindu.com/videos/shows/ai-in-healthcare-promise-risks-and-patient-safety-episode-53/article71513875.ece",
+      "urlToImage": "https://th-i.thgim.com/public/videos/4l42ty/article71513874.ece/alternates/LANDSCAPE_1200/health%20wrap-%20AI%20.png",
+      "publishedAt": "2026-09-27T08:20:02Z",
+      "content": "AI is increasingly being used in healthcare, including drug and vaccine development, medical imaging and clinical decision-making. While these applications may support research and clinical care, they also raise concerns about patient safety, inaccurate or misleading information, data privacy and the potential misuse of AI in biological research. In Episode 53 of Health Wrap, Ramya Kannan, Health Editor, The Hindu, speaks to Dr. Abdul Ghafur, infectious diseases expert, Apollo Hospitals, Chennai, about the opportunities and risks of artificial intelligence in healthcare. They discuss how AI could accelerate medical research, support doctors in clinical care, and why its limitations and potential risks need careful attention."
+    },
     {
       "source": {
         "id": "the-times-of-india",
@@ -18,6 +775,32 @@
       "urlToImage": "https://img.etimg.com/thumb/msid-134515792,width-1200,height-630,imgsize-54624,overlay-economictimes/articleshow.jpg",
       "publishedAt": "2026-09-27T06:19:42Z",
       "content": "New Delhi: The Ayush services sector has emerged as one of India's fastest-growing service segments, with its economic contribution estimated at USD 36.92 billion in 2024-25 and the sector projected … [+4088 chars]"
+    },
+    {
+      "source": {
+        "id": "the-hindu",
+        "name": "The Hindu"
+      },
+      "author": null,
+      "title": "India stresses resilient health systems, pandemic preparedness at UN",
+      "description": "Addressing the meeting at the United Nations Headquarters on Friday, September 25, 2026, Ms. Srivastava outlined India's coordinated approach to pandemic prevention and response across government and society, which covers a wide range of potential health emergencies",
+      "url": "https://www.thehindu.com/sci-tech/health/india-stresses-resilient-health-systems-pandemic-preparedness-at-un/article71515374.ece",
+      "urlToImage": "https://th-i.thgim.com/public/incoming/qixamv/article71515386.ece/alternates/LANDSCAPE_1200/20260926196L.jpg",
+      "publishedAt": "2026-09-27T06:17:41Z",
+      "content": "Addressing the meeting at the United Nations Headquarters on Friday, September 25, 2026, Ms. Srivastava outlined India's coordinated approach to pandemic prevention and response across government and society, which covers a wide range of potential health emergencies"
+    },
+    {
+      "source": {
+        "id": "the-hindu",
+        "name": "The Hindu"
+      },
+      "author": null,
+      "title": "Mpox case confirmed in northeastern Congolese city at center of Ebola outbreak",
+      "description": "Congo declared an end to mpox as a national public health emergency in April after ​a three-year outbreak that ‌resulted in more than 34,000 confirmed cases nationwide. Authorities cautioned at the time that the virus had not been eradicated and could resurge",
+      "url": "https://www.thehindu.com/sci-tech/health/mpox-case-confirmed-in-northeastern-congolese-city-at-center-of-ebola-outbreak/article71515372.ece",
+      "urlToImage": "https://th-i.thgim.com/public/incoming/xnu5ff/article71515380.ece/alternates/LANDSCAPE_1200/Congo_Mpox_75579.jpg",
+      "publishedAt": "2026-09-27T06:10:43Z",
+      "content": "Congo declared an end to mpox as a national public health emergency in April after ​a three-year outbreak that ‌resulted in more than 34,000 confirmed cases nationwide. Authorities cautioned at the time that the virus had not been eradicated and could resurge"
     },
     {
       "source": {
@@ -84,5 +867,6 @@
       "publishedAt": "2026-09-06T12:21:34Z",
       "content": "New Delhi: Doctors have raised concerns over the growing popularity of injectable peptides for weight loss, muscle recovery, anti-ageing and longevity, warning that the success of a few scientificall… [+5382 chars]"
     }
-  ]
+  ],
+  "query": "medical health research wellness"
 }

@@ -1,23 +1,391 @@
 {
-  "source": "everything",
+  "source": "rss_fallback",
   "country": "us",
   "category": "science",
-  "query": "science research discovery space",
-  "fetched_at": "2026-10-01T14:50:35.413638+00:00",
-  "articles_count": 1,
+  "providers": [
+    "newsapi",
+    "rss"
+  ],
+  "fetched_at": "2026-10-04T07:28:46.324117+00:00",
+  "articles_count": 29,
   "articles": [
     {
       "source": {
-        "id": "cnn",
-        "name": "CNN"
+        "id": "the-new-york-times",
+        "name": "The New York Times"
       },
-      "author": "Ashley Strickland, CNN",
-      "title": "NASA’s new ‘discovery machine’ is launching to unravel the invisible universe",
-      "description": "NASA’s new observatory, the Nancy Grace Roman Space Telescope, is ready to launch and solve the universe’s enduring mysteries.",
-      "url": "https://www.cnn.com/2026/08/30/science/nancy-grace-roman-space-telescope-launch",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/e46e556f5f624d9401f910ca7243b9f05cfedccc5432582aa063b5beee4b494c/lightyear_networkapi/resizefill_w960_h540%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcnn_articles_875%2F6180ef5bb158a8382da54be13b5a4108.jpg",
-      "publishedAt": "2026-08-30T05:57:14Z",
-      "content": "A massive observatory that scientists have called a \"discovery machine\" is set to launch toward the cosmos, beginning a journey that could mark a significant shift in our understanding of the univers… [+10817 chars]"
+      "author": "Carolyn Y. Johnson",
+      "title": "Scientists Untangle the Biology of an ‘Undruggable’ Cancer Gene",
+      "description": "Found in 70 percent of cancers, the gene is seen as a grand orchestrator, but has been surprisingly difficult to stop.",
+      "url": "https://www.nytimes.com/2026/10/02/science/scientists-untangle-the-biology-of-an-undruggable-cancer-gene.html",
+      "urlToImage": null,
+      "publishedAt": "2026-10-03T19:09:42Z",
+      "content": "Found in 70 percent of cancers, the gene is seen as a grand orchestrator, but has been surprisingly difficult to stop."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Taylor Mitchell Brown",
+      "title": "These Birds Are Louder Than Elephants, Jackhammers and Chain Saws",
+      "description": "A new study has identified two species of Brazilian birds, the bare-throated bellbird and the red-legged seriema, as the loudest in nature.",
+      "url": "https://www.nytimes.com/2026/10/03/science/loudest-birds.html",
+      "urlToImage": null,
+      "publishedAt": "2026-10-03T09:02:06Z",
+      "content": "A new study has identified two species of Brazilian birds, the bare-throated bellbird and the red-legged seriema, as the loudest in nature."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Brad Plumer",
+      "title": "California Sues to Block Trump From Weakening Fuel Economy Rules",
+      "description": "The lawsuit is the 97th the state has filed against the Trump administration over the past year and a half.",
+      "url": "https://www.nytimes.com/2026/10/02/climate/california-trump-administration-fuel-economy.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/10/02/multimedia/02cli-autoemissions-wklq/02cli-autoemissions-wklq-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-10-02T23:35:31Z",
+      "content": "The lawsuit is the 97th the state has filed against the Trump administration over the past year and a half."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Christina Jewett, Alice Callahan and Caroline Hopkins Legaspi",
+      "title": "F.D.A. Found Cyclospora During Taylor Farms Inspection in Mexico",
+      "description": "The discovery adds strong evidence that the outbreak that sickened thousands over the summer originated in a grower’s field or processing facility.",
+      "url": "https://www.nytimes.com/2026/10/02/health/cyclospora-taylor-farms-mexico.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/10/02/multimedia/02dc-cyclospora-vphc/02dc-cyclospora-vphc-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-10-02T22:25:24Z",
+      "content": "The discovery adds strong evidence that the outbreak that sickened thousands over the summer originated in a grower’s field or processing facility."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Brad Plumer",
+      "title": "States Sue Over Trump’s Repeal of Climate Rules for Power Plants",
+      "description": "The mostly Democratic-led states say that the E.P.A. acted unlawfully when it erased Biden-era limits on carbon dioxide from coal- and gas-fired plants.",
+      "url": "https://www.nytimes.com/2026/10/01/climate/states-sue-epa-power-plant-trump.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/10/01/multimedia/01cli-epa-lawsuit-kqvc/01cli-epa-lawsuit-kqvc-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-10-02T19:22:49Z",
+      "content": "The mostly Democratic-led states say that the E.P.A. acted unlawfully when it erased Biden-era limits on carbon dioxide from coal- and gas-fired plants."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Adam Sella, Christopher Flavelle and Irena Hwang",
+      "title": "National Science Foundation Diverted $1.4 Billion in Science Funds Mandated by Congress",
+      "description": "The move, affecting about one-fifth of the National Science Foundation’s primary research budget, is the latest sign of how the White House is asserting more control over grants.",
+      "url": "https://www.nytimes.com/2026/10/02/us/politics/national-science-foundation-research-funds.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/10/01/multimedia/00dc-nsf-funding-qlvb/00dc-nsf-funding-qlvb-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-10-02T18:41:42Z",
+      "content": "The move, affecting about one-fifth of the National Science Foundation’s primary research budget, is the latest sign of how the White House is asserting more control over grants."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Danny Hakim",
+      "title": "What Is Out There? The Findings So Far of a Trump-Backed U.F.O. Panel.",
+      "description": "Uncovering evidence of alien life would be “the biggest discovery ever made by humanity,” one expert said. But so far, there’s a lot of blurry photos and unconfirmed reports.",
+      "url": "https://www.nytimes.com/2026/10/02/us/trump-ufo-files-uap-council.html",
+      "urlToImage": null,
+      "publishedAt": "2026-10-02T14:40:54Z",
+      "content": "Uncovering evidence of alien life would be “the biggest discovery ever made by humanity,” one expert said. But so far, there’s a lot of blurry photos and unconfirmed reports."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Benjamin Mueller and Shaila Dewan",
+      "title": "How Did Christa Pike Survive Two Lethal Injections of Pentobarbital?",
+      "description": "A catheter carrying the drug may not have delivered the doses to Ms. Pike’s bloodstream, experts said. The drug itself may have been degraded.",
+      "url": "https://www.nytimes.com/2026/10/01/science/pike-execution-pentobarbital.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/10/01/multimedia/01sci-pentobarbital-vckq/01sci-pentobarbital-vckq-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-10-01T22:30:28Z",
+      "content": "A catheter carrying the drug may not have delivered the doses to Ms. Pike’s bloodstream, experts said. The drug itself may have been degraded."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Andrew Jacobs",
+      "title": "Cornell’s Jane Doe Said She Was Given Ketamine. Here’s How the Drug Works.",
+      "description": "Ketamine is a short-acting anesthetic that can have hallucinogenic effects. It is becoming more easily available, and some experts fear misuse is increasing.",
+      "url": "https://www.nytimes.com/2026/09/30/science/cornell-rape-ketamine.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/09/30/multimedia/30sci-ketamine-01-vjzf/30sci-ketamine-01-vjzf-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-10-01T21:08:47Z",
+      "content": "Ketamine is a short-acting anesthetic that can have hallucinogenic effects. It is becoming more easily available, and some experts fear misuse is increasing."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Claire Brown",
+      "title": "The MacArthur ‘Genius’ Studying Sea Ice Secrets",
+      "description": "A climate scientist was one of 20 recipients of a “no-strings-attached” $800,000 stipend.",
+      "url": "https://www.nytimes.com/2026/10/01/climate/climate-science-macarthur.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/10/01/multimedia/01cli-newsletter-macarthur-pbzm/01cli-newsletter-macarthur-pbzm-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-10-01T20:06:37Z",
+      "content": "A climate scientist was one of 20 recipients of a “no-strings-attached” $800,000 stipend."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Clarence Williams",
+      "title": "Prosecutors Cannot Revive Reflecting Pool Case Against Ex-Olympian, Judge Rules",
+      "description": "A charge against David Hearn was dismissed “with prejudice” because of President Trump’s attempts to influence the case.",
+      "url": "https://www.nytimes.com/2026/10/01/climate/david-hearn-reflecting-pool-charges-dropped.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/10/01/multimedia/01cli-hearn-01-mglj/01cli-hearn-01-mglj-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-10-01T19:51:40Z",
+      "content": "A charge against David Hearn was dismissed “with prejudice” because of President Trump’s attempts to influence the case."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Raymond Zhong",
+      "title": "See How El Niño Is Washing Ashore in California",
+      "description": "An enormous pulse of wave energy will soon reach Southern California and continue north, raising sea levels by half a foot and increasing threats from swells and tides.",
+      "url": "https://www.nytimes.com/2026/09/30/climate/el-nino-storm-flooding-kelvin-waves.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/09/30/multimedia/30cli-elnino-wave-fzkw/30cli-elnino-wave-fzkw-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-10-01T17:38:20Z",
+      "content": "An enormous pulse of wave energy will soon reach Southern California and continue north, raising sea levels by half a foot and increasing threats from swells and tides."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Cade Metz",
+      "title": "A Hacking Competition Shows the Power of China’s Approach to A.I.",
+      "description": "The winner of a cybersecurity contest prevailed by relying on an ‘open weight’ Chinese model — another sign that available A.I. systems could already be too powerful to easily regulate.",
+      "url": "https://www.nytimes.com/2026/10/01/science/hackerone-tenzai-china-open-weights.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/10/01/multimedia/01sci-open-hacking-mcvp/01sci-open-hacking-mcvp-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-10-01T13:43:23Z",
+      "content": "The winner of a cybersecurity contest prevailed by relying on an ‘open weight’ Chinese model — another sign that available A.I. systems could already be too powerful to easily regulate."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Gina Kolata",
+      "title": "Clues to Why a Breakthrough Pancreatic Cancer Drug Eventually Stops Working",
+      "description": "Researchers are asking why patients, like former Senator Ben Sasse, inevitably develop resistance to the drug daraxonrasib.",
+      "url": "https://www.nytimes.com/2026/09/30/science/pancreatic-cancer-drug-daraxonrasib-ben-sasse-resistance.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/09/30/multimedia/30sci-sasse-cancer-ljfm/30sci-sasse-cancer-ljfm-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-09-30T17:48:56Z",
+      "content": "Researchers are asking why patients, like former Senator Ben Sasse, inevitably develop resistance to the drug daraxonrasib."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Victor Mather",
+      "title": "Viper Image That Caused Alarm in California Was A.I.-Generated",
+      "description": "A Gaboon viper, a venomous snake native to equatorial regions of Africa, was supposedly photographed in a tree in Santa Ana, Calif. How could that be? Well, it turns out it wasn’t.",
+      "url": "https://www.nytimes.com/2026/09/30/us/santa-ana-viper-snake-ai-fake.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/09/30/multimedia/30xp-viper-swap-tmlk/30xp-viper-swap-tmlk-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-09-30T17:28:15Z",
+      "content": "A Gaboon viper, a venomous snake native to equatorial regions of Africa, was supposedly photographed in a tree in Santa Ana, Calif. How could that be? Well, it turns out it wasn’t."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Gina Kolata",
+      "title": "New Cancer Drugs Are Revolutionary. Why Don’t More Patients Get Them?",
+      "description": "Targeted gene therapies are highly effective at stopping cancers, but the very abundance of the treatments, plus cost and sluggish change, are hindering access.",
+      "url": "https://www.nytimes.com/2026/09/30/science/new-cancer-drugs-are-revolutionary-why-dont-more-patients-get-them.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/09/16/multimedia/00Sci-cancer-shortfall-01-fjwh/00Sci-cancer-shortfall-01-fjwh-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-09-30T14:02:22Z",
+      "content": "Targeted gene therapies are highly effective at stopping cancers, but the very abundance of the treatments, plus cost and sluggish change, are hindering access."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Robin George Andrews and Nataliia Novosolova",
+      "title": "Ukrainian Science Academy, Struck by Drone, Played Key Role in Research",
+      "description": "Over 90 percent of Ukraine’s scientific discoveries have been attributed to Ukraine’s National Academy of Sciences, including advancements in astronomy and military technology.",
+      "url": "https://www.nytimes.com/2026/09/29/science/ukraine-science-academy-russia-attack.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/09/29/multimedia/29sci-ukraine-science-wgmp/29sci-ukraine-science-wgmp-mediumSquareAt3X-v2.jpg",
+      "publishedAt": "2026-09-29T19:55:21Z",
+      "content": "Over 90 percent of Ukraine’s scientific discoveries have been attributed to Ukraine’s National Academy of Sciences, including advancements in astronomy and military technology."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Brad Plumer",
+      "title": "Tennessee Valley Authority Gets Approval to Build Small Nuclear Reactor",
+      "description": "It’s only the second time that American regulators have approved a next-generation commercial reactor for construction. Big hurdles remain.",
+      "url": "https://www.nytimes.com/2026/09/29/climate/nuclear-reactor-tennessee-valley-authority.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/09/29/multimedia/29cli-tva-nuclear-fmhk/29cli-tva-nuclear-fmhk-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-09-29T18:09:37Z",
+      "content": "It’s only the second time that American regulators have approved a next-generation commercial reactor for construction. Big hurdles remain."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Carl Zimmer",
+      "title": "This Virus Stole a Human Gene and Won’t Let Go of It",
+      "description": "Scientists have found a human gene lurking in a virus that causes skin infections. It may be using our own DNA to infect us.",
+      "url": "https://www.nytimes.com/2026/09/28/science/virus-molluscum-human-gene.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/09/25/science/00SCI-VIRUS/00SCI-VIRUS-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-09-29T16:34:35Z",
+      "content": "Scientists have found a human gene lurking in a virus that causes skin infections. It may be using our own DNA to infect us."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Brad Plumer and Maxine Joselow",
+      "title": "Trump Sharply Scales Back Fuel Economy Rules for New Cars",
+      "description": "The move marked the final step in the administration’s efforts to dismantle policies aimed at speeding the shift to electric vehicles.",
+      "url": "https://www.nytimes.com/2026/09/28/climate/trump-gas-cars-mileage-standards.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/09/28/multimedia/28cli-auto-mileage-mpkw/28cli-auto-mileage-mpkw-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-09-29T16:32:26Z",
+      "content": "The move marked the final step in the administration’s efforts to dismantle policies aimed at speeding the shift to electric vehicles."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Azeen Ghorayshi and Andrew Jacobs",
+      "title": "V.A. Institutes New Consent Requirements for Some Psychiatric Drugs",
+      "description": "Veterans under 30 will have to sign forms before being given antidepressants. Medical groups fear the moves may stigmatize mental health treatment.",
+      "url": "https://www.nytimes.com/2026/09/28/science/veterans-psychiatric-drugs-consent.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/09/28/science/00sci-veterans-consent/00sci-veterans-consent-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-09-29T12:39:22Z",
+      "content": "Veterans under 30 will have to sign forms before being given antidepressants. Medical groups fear the moves may stigmatize mental health treatment."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Awais Aftab",
+      "title": "What If A.D.H.D. Isn’t About Attention at All?",
+      "description": "Evidence suggests that it really affects what psychiatrists like me call sustained engagement — an important difference in understanding how to think about the condition.",
+      "url": "https://www.nytimes.com/2026/09/29/science/adhd-attention-motivation.html",
+      "urlToImage": null,
+      "publishedAt": "2026-09-29T09:20:40Z",
+      "content": "Evidence suggests that it really affects what psychiatrists like me call sustained engagement — an important difference in understanding how to think about the condition."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Jonathan O’Callaghan",
+      "title": "Radio Waves Coming From an Alien Planet May Be a Cosmic First",
+      "description": "Beta Pictoris b appears to have an aurora caused by a powerful magnetic field. If confirmed, it would be the first such field known outside our solar system.",
+      "url": "https://www.nytimes.com/2026/09/29/science/space/exoplanet-magnetic-field.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/09/25/multimedia/25SCI-MAGFIELDS-01-twlc/25SCI-MAGFIELDS-01-twlc-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-09-29T09:01:22Z",
+      "content": "Beta Pictoris b appears to have an aurora caused by a powerful magnetic field. If confirmed, it would be the first such field known outside our solar system."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Kenneth Chang",
+      "title": "Despite Setbacks, NASA Gives Boeing’s Starliner Spacecraft a Boost",
+      "description": "A previous mission left two astronauts stuck in space for months. Still, the space agency is investing $359 million to keep the craft flying.",
+      "url": "https://www.nytimes.com/2026/09/28/science/space/nasa-starliner-investment.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/09/28/multimedia/28sci-nasa-starliner-kjvt/28sci-nasa-starliner-kjvt-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-09-29T00:15:21Z",
+      "content": "A previous mission left two astronauts stuck in space for months. Still, the space agency is investing $359 million to keep the craft flying."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Brad Plumer and Claire Brown",
+      "title": "The Coal Industry Asked for a Rescue. Trump Obliged.",
+      "description": "In a previously unreported letter, a top lobbyist floated the idea of using emergency powers to keep aging coal plants open.",
+      "url": "https://www.nytimes.com/2026/09/28/climate/coal-industry-power-plants-trump.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/09/28/multimedia/28cli-coal-letter-01-hjkf/28cli-coal-letter-01-hjkf-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-09-28T21:41:57Z",
+      "content": "In a previously unreported letter, a top lobbyist floated the idea of using emergency powers to keep aging coal plants open."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Kenneth Chang",
+      "title": "SpaceX’s Starship Makes It to Orbit for the First Time, but Returns to Earth Early",
+      "description": "The 14th test flight marks a crucial milestone toward the company’s ambitions of sending people to the moon and Mars, but it was not a complete success.",
+      "url": "https://www.nytimes.com/2026/09/28/science/space/spacex-starship-first-orbital-flight.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/09/28/science/space/spacex-thumb/spacex-thumb-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-09-28T21:29:08Z",
+      "content": "The 14th test flight marks a crucial milestone toward the company’s ambitions of sending people to the moon and Mars, but it was not a complete success."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Scott Dance",
+      "title": "Judge Blocks FEMA From Tying Antiterrorism Grants to Election Changes",
+      "description": "The Trump administration had threatened to withhold some Homeland Security money unless states explored paper balloting and citizenship verification.",
+      "url": "https://www.nytimes.com/2026/09/28/climate/fema-grants-election-changes-ruling.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/09/28/multimedia/28cli-grants-ruling-whvb/28cli-grants-ruling-whvb-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-09-28T19:47:29Z",
+      "content": "The Trump administration had threatened to withhold some Homeland Security money unless states explored paper balloting and citizenship verification."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Carl Zimmer",
+      "title": "Did Anthropic’s A.I. Really Make a Scientific Discovery on Its Own?",
+      "description": "An expert at the University of Copenhagen said his team had been sharing its research with the company’s A.I. model, Claude, and that its new finding matched their work.",
+      "url": "https://www.nytimes.com/2026/09/27/science/anthropic-biology-enzyme-mestre.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/09/27/multimedia/27SCI-ANTHROPIC-MESTRE-bmgv/27SCI-ANTHROPIC-MESTRE-bmgv-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-09-28T18:15:24Z",
+      "content": "An expert at the University of Copenhagen said his team had been sharing its research with the company’s A.I. model, Claude, and that its new finding matched their work."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Alexander Nazaryan",
+      "title": "Dogs Will Fight Bears. But Not Because of the Reason You Might Think.",
+      "description": "Scientists analyzed hundreds of encounters between bears and canines. The results raise the suggestion that dogs may not always protect people in the wild.",
+      "url": "https://www.nytimes.com/2026/09/27/science/dogs-chasing-bears.html",
+      "urlToImage": null,
+      "publishedAt": "2026-09-28T16:40:37Z",
+      "content": "Scientists analyzed hundreds of encounters between bears and canines. The results raise the suggestion that dogs may not always protect people in the wild."
     }
-  ]
+  ],
+  "query": "science research discovery space"
 }

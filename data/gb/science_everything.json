@@ -1,6 +1,13 @@
 {
-  "status": "ok",
-  "totalResults": 38,
+  "source": "rss_fallback",
+  "country": "gb",
+  "category": "science",
+  "providers": [
+    "newsapi",
+    "rss"
+  ],
+  "fetched_at": "2026-10-04T07:28:46.324117+00:00",
+  "articles_count": 38,
   "articles": [
     {
       "source": {
@@ -496,5 +503,6 @@
       "publishedAt": "2026-04-11T23:17:07Z",
       "content": "BBC Science Editor Rebecca Morelle reflects on how it felt to watch history being made."
     }
-  ]
+  ],
+  "query": "science research discovery space"
 }

@@ -2,22 +2,220 @@
   "source": "top_headlines",
   "country": "us",
   "category": "business",
-  "mode": "country",
-  "fetched_at": "2026-10-04T00:09:45.466547+00:00",
-  "articles_count": 64,
+  "providers": [
+    "newsapi",
+    "rss"
+  ],
+  "fetched_at": "2026-10-04T07:28:46.324117+00:00",
+  "articles_count": 100,
   "articles": [
     {
       "source": {
-        "id": "google-news",
-        "name": "Google News"
+        "id": "the-new-york-times",
+        "name": "The New York Times"
       },
-      "author": "WSJ",
-      "title": "Stock Market Today: Dow Opens Higher, Yields Fall as Hiring Softens — Live Updates - WSJ",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOYklfWV9YNlgtMEEtRFBhOGZraFRydkdFNXM0ckxSTXR1dDdCbGVqSE1RWUVxYk1oRURPM2hfeHJqajZpcGMzdXhFY3RYTEFtX2ZfNkZfaEx6ZHM3YzUtQXBkOVBiMks1LTBYbFZtSGlvUmNvd1VXNWE0ZTYzYlRZekdjOXc?oc=5",
+      "author": "Nicole Sperling",
+      "title": "‘Digger,’ Warner Bros.’ Last Release Before Merger, Is a Major Flop",
+      "description": "The film, starring Tom Cruise, grossed an estimated $8 million in its opening weekend. That could put the movie on track to lose at least $125 million.",
+      "url": "https://www.nytimes.com/2026/10/03/business/media/digger-tom-cruise-box-office.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/10/04/multimedia/04biz-boxoffice-diggers-1-gvcm/04biz-boxoffice-diggers-1-gvcm-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-10-03T23:44:35Z",
+      "content": "The film, starring Tom Cruise, grossed an estimated $8 million in its opening weekend. That could put the movie on track to lose at least $125 million."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Alena Cerro",
+      "title": "F.D.A. Classifies Salad Dressing Recall to Highest Health Risk",
+      "description": "Salata Dressings initiated the recall of its Jalapeño Avocado Dressing in August over concerns about possible salmonella contamination.",
+      "url": "https://www.nytimes.com/2026/10/03/health/fda-recall-salata-salad-dressing-salmonella.html",
       "urlToImage": null,
-      "publishedAt": "2026-10-02T21:17:00Z",
-      "content": null
+      "publishedAt": "2026-10-03T21:01:02Z",
+      "content": "Salata Dressings initiated the recall of its Jalapeño Avocado Dressing in August over concerns about possible salmonella contamination."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Brent Crane",
+      "title": "As A.I. Agents Begin Shopping, Brands Are Changing Their Sales Pitch",
+      "description": "Faced with bots immune to traditional marketing tactics, marketers are racing to win them over with logic and data.",
+      "url": "https://www.nytimes.com/2026/10/03/business/dealbook/ai-agent-marketing.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/10/03/multimedia/03DB-AI-ADS-kjzc/03DB-AI-ADS-kjzc-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-10-03T20:10:04Z",
+      "content": "Faced with bots immune to traditional marketing tactics, marketers are racing to win them over with logic and data."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Keith Bradsher and Alexandra Stevenson",
+      "title": "China Resumes Curbs on Fuel Exports, Tightening Global Energy Markets",
+      "description": "China has started limiting exports of refined products again as its own inventories of crude oil and refined products have dwindled.",
+      "url": "https://www.nytimes.com/2026/10/02/business/china-exports-diesel-energy.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/10/02/multimedia/00Biz-China-Energy-bzlj/00Biz-China-Energy-bzlj-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-10-03T12:47:42Z",
+      "content": "China has started limiting exports of refined products again as its own inventories of crude oil and refined products have dwindled."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Julie Creswell",
+      "title": "Weight Loss Drugs Give Restaurants a New Hurdle: Diners Who Eat Less",
+      "description": "Fewer orders and higher costs are squeezing restaurants big and small as people on the weight-loss drugs eat and drink less when dining out.",
+      "url": "https://www.nytimes.com/2026/10/03/business/restaurants-glp1-weight-loss.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/10/02/multimedia/00biz-restaurants-glp1s-01-tlph/00biz-restaurants-glp1s-01-tlph-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-10-03T12:44:43Z",
+      "content": "Fewer orders and higher costs are squeezing restaurants big and small as people on the weight-loss drugs eat and drink less when dining out."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Tony Romm",
+      "title": "Trump Says Economy Has ‘Public Relations’ Problem Amid High Prices and Slow Hiring",
+      "description": "The president, who had hoped to tout a growing economy on the campaign trail, has found it hard to break through as workers’ wages fail to keep up.",
+      "url": "https://www.nytimes.com/2026/10/03/business/trump-economy-inflation-midterms.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/10/03/multimedia/03dc-trump-econ-fztq/03dc-trump-econ-fztq-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-10-03T09:03:53Z",
+      "content": "The president, who had hoped to tout a growing economy on the campaign trail, has found it hard to break through as workers’ wages fail to keep up."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Alex Travelli",
+      "title": "America Wants to Make More Generic Drugs. India Shows Why That’s Hard.",
+      "description": "Cheap labor and global supply chains are among the obstacles to President Trump’s plan to bring generic drug manufacturing back home.",
+      "url": "https://www.nytimes.com/2026/10/02/business/india-generic-drugs-tariffs.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/10/01/multimedia/Biz-India-Pharma-Video-Still-hlwj/Biz-India-Pharma-Video-Still-hlwj-mediumSquareAt3X-v2.jpg",
+      "publishedAt": "2026-10-03T08:04:10Z",
+      "content": "Cheap labor and global supply chains are among the obstacles to President Trump’s plan to bring generic drug manufacturing back home."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Erik Wemple",
+      "title": "White House Filing Claims President Has Authority to Bar News Outlets",
+      "description": "The Trump administration again defended the decision to bar CNN, MS NOW and Politico from the White House and to exclude journalists from the pool that covers the president in small spaces.",
+      "url": "https://www.nytimes.com/2026/10/02/business/trump-white-house-ban-cnn-politico-ms-now.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/10/02/multimedia/02biz-trump-media-1-lkmp/02biz-trump-media-1-lkmp-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-10-03T02:29:40Z",
+      "content": "The Trump administration again defended the decision to bar CNN, MS NOW and Politico from the White House and to exclude journalists from the pool that covers the president in small spaces."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Sharon LaFraniere",
+      "title": "Federal Watchdog Investigates Adam Kinzinger for Kalshi Bets on His Pardon",
+      "description": "The inquiry by the Commodity Futures Trading Commission centers on bets the former congressman made on Kalshi in the weeks before he was pardoned in January 2025.",
+      "url": "https://www.nytimes.com/2026/10/01/us/politics/cftc-investigating-kinzinger-pardon-bet.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/10/02/multimedia/02dc-ftc-kinzinger-vlmw/02dc-ftc-kinzinger-vlmw-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-10-03T00:37:31Z",
+      "content": "The inquiry by the Commodity Futures Trading Commission centers on bets the former congressman made on Kalshi in the weeks before he was pardoned in January 2025."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Aaron Krolik",
+      "title": "US Sanctions A7, a Russia Firm That Helps Sidestep Economic Restrictions",
+      "description": "The move followed reports detailing how A7, a Moscow firm, uses shell companies around the world to move funds for clients who are themselves subject to sanctions.",
+      "url": "https://www.nytimes.com/2026/10/01/business/a7-russia-us-sanctions.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/10/01/multimedia/01biz-a7-sanctions-ktfz/01biz-a7-sanctions-ktfz-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-10-03T00:34:29Z",
+      "content": "The move followed reports detailing how A7, a Moscow firm, uses shell companies around the world to move funds for clients who are themselves subject to sanctions."
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "WPVI-TV"
+      },
+      "author": "6abc Digital Staff",
+      "title": "Philadelphia City Council becomes 1st city to officially back the Starbucks Workers United boycott - 6abc Philadelphia",
+      "description": "The union says it is no longer possible to be both a Starbucks customer and support workers.",
+      "url": "https://6abc.com/post/philadelphia-city-council-becomes-1st-officially-back-starbucks-workers-united-boycott/19900326/",
+      "urlToImage": "https://cdn.abcotvs.com/dip/images/19900331_100226-wpvi-phila-starbucks-5avo-video-vid.jpg?w=1600",
+      "publishedAt": "2026-10-03T00:22:30Z",
+      "content": "PHILADELPHIA (WPVI) -- Philadelphia City Council is calling for a boycott of Starbucks until the company reaches a contract with its unionized baristas.\r\nA resolution passed on Thursday makes Philade… [+727 chars]"
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "Stephen Council",
+      "title": "OpenAI safety leader David Robinson resigns as the team's upheaval mounts - Business Insider",
+      "description": "David Robinson, a leader on OpenAI's Safety Systems team, has resigned from the company, a spokesperson told Business Insider.",
+      "url": "https://www.businessinsider.com/safety-leader-david-robinson-resigns-from-openai-2026-10#article",
+      "urlToImage": "https://i.insider.com/6ac0352ad15f8a572974de1d?width=1200&format=jpeg",
+      "publishedAt": "2026-10-02T23:15:00Z",
+      "content": "David Robinson, a leader on OpenAI's Safety Systems team, has resigned from the company.\r\nAn OpenAI spokesperson told Business Insider on Friday that Robinson left last week, marking yet another mome… [+1647 chars]"
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Christina Jewett, Alice Callahan and Caroline Hopkins Legaspi",
+      "title": "F.D.A. Found Cyclospora During Taylor Farms Inspection in Mexico",
+      "description": "The discovery adds strong evidence that the outbreak that sickened thousands over the summer originated in a grower’s field or processing facility.",
+      "url": "https://www.nytimes.com/2026/10/02/health/cyclospora-taylor-farms-mexico.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/10/02/multimedia/02dc-cyclospora-vphc/02dc-cyclospora-vphc-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-10-02T22:25:24Z",
+      "content": "The discovery adds strong evidence that the outbreak that sickened thousands over the summer originated in a grower’s field or processing facility."
+    },
+    {
+      "source": {
+        "id": "usa-today",
+        "name": "USA Today"
+      },
+      "author": "Amaris Encinas",
+      "title": "Shivon Zilis says she was 'let go' from relationship with Elon Musk - USA Today",
+      "description": "Shivon Zilis, the mother of four of Elon Musk's children, said in an Oct. 2 X post that the tech mogul ended their relationship 'with no warning.'",
+      "url": "https://www.usatoday.com/story/entertainment/celebrities/2026/10/02/elon-musk-shivon-zilis-break-up/92058785007/",
+      "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/10/02/USAT/92061069007-getty-images-2258846110.jpg?crop=1023,576,x0,y53&width=1023&height=576&format=pjpg&auto=webp",
+      "publishedAt": "2026-10-02T22:15:00Z",
+      "content": "Elon Musk and his partner Shivon Zilis have called it quits.\r\nZilis, 40, announced the split Oct. 2, in an X post after a big-tech-focused X account shared that Musk was no longer following Zilis, wh… [+2870 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Barron's"
+      },
+      "author": "Nate Wolf",
+      "title": "Seagate Stock and Western Digital Tumble as Investors Worry AI Shortage Will Ease - Barron's",
+      "description": "Western Digital and Seagate’s Japanese rival Toshiba plans to double its production capacity for drives used in AI data centers in fiscal 2027, Nikkei reports.",
+      "url": "https://www.barrons.com/articles/seagate-stock-western-digital-ai-data-centers-ab47e2a8",
+      "urlToImage": "https://images.barrons.com/im-74354122/social",
+      "publishedAt": "2026-10-02T22:11:00Z",
+      "content": "Two of the biggest beneficiaries of the artificial-intelligence boom got a reality check on Friday. It may present an opportunity for patient investors.\r\nCopyright ©2026Dow Jones &amp; Company, Inc. … [+52 chars]"
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Jeff Sommer",
+      "title": "The Powerful Yet Fragile Force Propping Up Stocks and the Economy",
+      "description": "The artificial intelligence boom has pushed up the stock market, even as interest rates have pulled it down, our columnist says.",
+      "url": "https://www.nytimes.com/2026/10/02/business/ai-stocks-bonds-economy.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/10/04/business/02bizsun-strategies-illo/02bizsun-strategies-illo-mediumSquareAt3X.png",
+      "publishedAt": "2026-10-02T20:36:55Z",
+      "content": "The artificial intelligence boom has pushed up the stock market, even as interest rates have pulled it down, our columnist says."
     },
     {
       "source": {
@@ -34,6 +232,19 @@
     },
     {
       "source": {
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "author": "Ashley Belanger",
+      "title": "Amazon’s $1B plan to combat data center backlash draws more backlash - Ars Technica",
+      "description": "Amazon praised for ending NDAs but slammed for downplaying data center pollution.",
+      "url": "https://arstechnica.com/tech-policy/2026/10/amazons-1b-plan-to-combat-data-center-backlash-draws-more-backlash/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2292181016.jpg",
+      "publishedAt": "2026-10-02T20:30:27Z",
+      "content": null
+    },
+    {
+      "source": {
         "id": "politico",
         "name": "Politico"
       },
@@ -47,15 +258,67 @@
     },
     {
       "source": {
-        "id": "the-wall-street-journal",
-        "name": "The Wall Street Journal"
+        "id": "bloomberg",
+        "name": "Bloomberg"
       },
-      "author": "WSJ",
-      "title": "FAA Says 737 MAX Software Glitch Doesn’t Pose Safety Issue - WSJ",
-      "description": null,
-      "url": "https://www.wsj.com/business/airlines/faa-determines-737-max-software-glitch-doesnt-pose-safety-issue-2fed3394",
-      "urlToImage": null,
-      "publishedAt": "2026-10-02T19:15:00Z",
+      "author": "Joel Leon",
+      "title": "US Stock Futures Advance Ahead of September Payrolls Data - bloomberg.com",
+      "description": "US stocks rose on Friday as key jobs data came in below expectations, taking pressure off the Federal Reserve to raise interest rates later this month.",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-02/us-stock-futures-advance-ahead-of-september-payrolls-data",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iqxDsUUjYbfg/v0/1200x800.jpg",
+      "publishedAt": "2026-10-02T20:15:51Z",
+      "content": "US stocks rose on Friday as key jobs data came in below expectations, taking pressure off the Federal Reserve to raise interest rates later this month.\r\nThe S&amp;P 500 Index finished 0.7% higher in … [+201 chars]"
+    },
+    {
+      "source": {
+        "id": "nbc-news",
+        "name": "NBC News"
+      },
+      "author": "Steve Kopack",
+      "title": "U.S. labor market slows with midterms on the horizon - NBC News",
+      "description": "The U.S. labor market slowed during the month of September, according to new data Friday from the Bureau of Labor Statistics.",
+      "url": "https://www.nbcnews.com/business/economy/labor-market-slowed-september-final-monthly-jobs-report-midterms-shows-rcna600497",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/261002-job-fair-mn-0840-72d053.jpg",
+      "publishedAt": "2026-10-02T20:05:49Z",
+      "content": "The U.S. labor market slowed during the month of September, according to new data Friday from the Bureau of Labor Statistics.\r\nThe economy added only 29,000 jobs, fewer than expected by economists. T… [+3324 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Newser"
+      },
+      "author": "John Johnson",
+      "title": "He Found $128K in Cash at ATM, Turned It In - Newser",
+      "description": "A Brinks worker in Texas apparently left it there by accident",
+      "url": "https://www.newser.com/story/397511/he-found-128k-in-cash-at-atm-turned-it-in.html",
+      "urlToImage": "https://cdn.newser.com/image/1715592-12-20261002152218.jpeg",
+      "publishedAt": "2026-10-02T20:05:00Z",
+      "content": "A man in Lewisville, Texas, stopped at an ATM to withdraw some money and instead found a bag stuffed with more than $128,000 in cash sitting atop the machine, reports USA Today. He ended up turning e… [+342 chars]"
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Benjamin Mullin and Nicole Sperling",
+      "title": "Mash-Up of Paramount and Warner Bros. Will Be Called Skydance",
+      "description": "David Ellison, the tech scion who will run the combined company, borrowed the name of his original entertainment company that reflects his love of aviation. On Friday, the C.E.O.s of Warner Bros. were told they would not stay on once the companies merged.",
+      "url": "https://www.nytimes.com/2026/10/02/business/media/skydance-paramount-warner-bros.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/10/02/multimedia/Biz-Paramount-Skydance-1-vqhb/Biz-Paramount-Skydance-1-vqhb-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-10-02T19:56:28Z",
+      "content": "David Ellison, the tech scion who will run the combined company, borrowed the name of his original entertainment company that reflects his love of aviation. On Friday, the C.E.O.s of Warner Bros. were told they would not stay on once the companies merged."
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "NEWS10 ABC"
+      },
+      "author": "Sara Rizzo",
+      "title": "Stewart’s recalls two half-gallon ice cream flavors - NEWS10 ABC",
+      "description": "Stewart's Shops is recalling two half-gallon ice cream flavors that were sold at all Stewart's locations between July 17 and October 2. Stewart's said the Heavenly Medley and Vanilla-Chocolate-Strawberry half-gallons could potentially have metal in them.",
+      "url": "https://www.news10.com/news/local-news/stewarts-recalls-two-half-gallon-ice-cream-flavors/",
+      "urlToImage": "https://www.news10.com/wp-content/uploads/sites/64/2026/10/Untitled-design.png?w=1280",
+      "publishedAt": "2026-10-02T18:53:18Z",
       "content": null
     },
     {
@@ -70,6 +333,45 @@
       "urlToImage": "http://static1.squarespace.com/static/5b9ffe0f1137a680c2c08250/5ba02661cd8366eb6ec50772/6abffa88e5c6ba784955dbc2/1790971119876/Screenshot+2026-10-02+at+2.39.57%E2%80%AFPM.png?format=1500w",
       "publishedAt": "2026-10-02T18:45:11Z",
       "content": "By Jacob Kaye\r\nHow sweet it aint. \r\nChip City, a cookie company founded in Astoria, suddenly shuttered all of its storefronts nationwide this week amid a messy legal dispute between the company and i… [+5055 chars]"
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Lisa Friedman and Rebecca F. Elliott",
+      "title": "U.S. and Allies Agree to Release Diesel Reserves as Prices Soar",
+      "description": "The Group of 7, which includes Britain, France and Japan, announced the release of 100 million barrels over four months, effective immediately.",
+      "url": "https://www.nytimes.com/2026/10/02/business/diesel-reserves-g7.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/10/02/multimedia/02Biz-Diesel-03-kthc/02Biz-Diesel-03-kthc-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-10-02T18:28:16Z",
+      "content": "The Group of 7, which includes Britain, France and Japan, announced the release of 100 million barrels over four months, effective immediately."
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "fox5sandiego.com"
+      },
+      "author": "Amber Coakley",
+      "title": "SDG&E begins power shutoffs amid extreme heat, Santa Ana winds - fox5sandiego.com",
+      "description": "SAN DIEGO (FOX 5/KUSI) — San Diego Gas & Electric has begun shutting off power in some communities as extreme heat and Santa Ana winds create dangerous wildfire conditions across the region. In an announcement Friday morning, the utility company said it has i…",
+      "url": "https://fox5sandiego.com/news/local-news/sdge-began-power-shutoffs/",
+      "urlToImage": "https://fox5sandiego.com/wp-content/uploads/sites/15/2018/04/useruploadedimage7.jpg?w=1280",
+      "publishedAt": "2026-10-02T18:22:05Z",
+      "content": "SAN DIEGO (FOX 5/KUSI)  San Diego Gas &amp; Electric has begun shutting off power in some communities as extreme heat and Santa Ana winds create dangerous wildfire conditions across the region.\r\n<ul>… [+1630 chars]"
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Jack Ewing",
+      "title": "Sales of Hulking Pickups and S.U.V.s Sag as Fuel Prices Soar",
+      "description": "Sales of big pickup trucks and sport utility vehicles have dipped as more Americans buy hybrids and smaller cars.",
+      "url": "https://www.nytimes.com/2026/10/02/business/auto-sales-pickup-trucks-suvs.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/10/02/multimedia/02biz-auto-sales-tqpb/02biz-auto-sales-tqpb-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-10-02T18:07:45Z",
+      "content": "Sales of big pickup trucks and sport utility vehicles have dipped as more Americans buy hybrids and smaller cars."
     },
     {
       "source": {
@@ -99,16 +401,16 @@
     },
     {
       "source": {
-        "id": "bloomberg",
-        "name": "Bloomberg"
+        "id": null,
+        "name": "Quartz India"
       },
-      "author": "Enda Curran, Maria Eloisa Capurro",
-      "title": "Warsh’s Top Fed Deputies Step in to Give Markets a Clear Message - Bloomberg.com",
-      "description": "Federal Reserve Chairman Kevin Warsh has vowed to avoid sending clear signals to investors on where interest rates are headed. His top deputies made clear this week they’re willing to oblige — and investors showed they’re still listening.",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-02/warsh-s-top-fed-deputies-step-in-to-give-markets-a-clear-message",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i.ZpRFZ7l2GE/v2/1200x800.jpg",
-      "publishedAt": "2026-10-02T17:49:23Z",
-      "content": "Federal Reserve Chairman Kevin Warsh has vowed to avoid sending clear signals to investors on where interest rates are headed. His top deputies made clear this week theyre willing to oblige and inves… [+311 chars]"
+      "author": "Cris Tolomia",
+      "title": "UnitedHealth and Humana cutting Medicare Advantage plans in 2027 - qz.com",
+      "description": "CVS Health's Aetna and Centene are also shrinking their Medicare Advantage offerings as insurers pull back from less profitable markets",
+      "url": "https://qz.com/unitedhealth-humana-medicare-advantage-plans-dropped-100226",
+      "urlToImage": "https://qz.com/cdn-cgi/image/width=1200,quality=85,format=auto/https://assets.qz.com/media/GettyImages-516917440-300x200.jpg",
+      "publishedAt": "2026-10-02T17:26:25Z",
+      "content": "Global business news for a smarter world\r\n© 2026 Quartz Media, Inc. All rights reserved.\r\nCVS Health's Aetna and Centene are also shrinking their Medicare Advantage offerings as insurers pull back fr… [+3150 chars]"
     },
     {
       "source": {
@@ -125,29 +427,16 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "Seeking Alpha"
+        "id": "the-new-york-times",
+        "name": "The New York Times"
       },
-      "author": "Steven Cress",
-      "title": "AI-Fueled Earnings Keep Climbing: 3 Top Stocks With Bullish EPS Revisions - Seeking Alpha",
-      "description": "AI-fueled profits are rising while demand forecasts accelerate. Investors should consider 3 AI stocks with strong growth and bullish earnings revisions.",
-      "url": "https://seekingalpha.com/article/4951645-ai-fueled-earnings-keep-climbing-3-top-stocks-with-bullish-eps-revisions",
-      "urlToImage": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/900767938/image_900767938.jpg?io=getty-c-w1536",
-      "publishedAt": "2026-10-02T16:56:12Z",
-      "content": "Analysts Disclosure: I/we have no stock, option or similar derivative position in any of the companies mentioned, and no plans to initiate any such positions within the next 72 hours. I wrote this ar… [+1047 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "OilPrice.com"
-      },
-      "author": "Tom Kool",
-      "title": "Dated Brent Above $120 Signals a Serious Oil Squeeze - Crude Oil Prices Today | OilPrice.com",
-      "description": "Physical oil markets tighten sharply as Dated Brent surges above $120 despite ICE Brent slipping toward $101.",
-      "url": "https://oilprice.com/Energy/Crude-Oil/Dated-Brent-Above-120-Signals-a-Serious-Oil-Squeeze.html",
-      "urlToImage": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-10-02_dg01sjqhdy.jpg",
-      "publishedAt": "2026-10-02T16:50:45Z",
-      "content": "New Delhi says energy security…\r\nSome of the worlds largest…\r\nVenezuela certainly has the resource,…\r\nSet us as your preferred Google source\r\nBy Tom Kool - Oct 02, 2026, 11:50 AM CDTPhysical oil mark… [+5433 chars]"
+      "author": "Talmon Joseph Smith",
+      "title": "Hiring Slows as U.S. Jobs Report Shows Labor Market Shifting Into Lower Gear",
+      "description": "The economy added fewer jobs in September and unemployment ticked up, while inflation has maintained pressure on markets and raised costs.",
+      "url": "https://www.nytimes.com/2026/10/02/business/economy/jobs-report-unemployment.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/10/02/multimedia/2026-biz-sept-promos-oct-jobs-day/2026-biz-sept-promos-oct-jobs-day-mediumSquareAt3X.png",
+      "publishedAt": "2026-10-02T17:09:45Z",
+      "content": "The economy added fewer jobs in September and unemployment ticked up, while inflation has maintained pressure on markets and raised costs."
     },
     {
       "source": {
@@ -177,6 +466,19 @@
     },
     {
       "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Ben Casselman and Talmon Joseph Smith",
+      "title": "Black Unemployment Rose Sharply in September, Jobs Report Shows",
+      "description": "Economists had taken a recent drop in Black unemployment as a hopeful sign that job gains were lifting a broad share of workers.",
+      "url": "https://www.nytimes.com/2026/10/02/business/economy/jobs-report-black-unemployment.html",
+      "urlToImage": null,
+      "publishedAt": "2026-10-02T16:41:45Z",
+      "content": "Economists had taken a recent drop in Black unemployment as a hopeful sign that job gains were lifting a broad share of workers."
+    },
+    {
+      "source": {
         "id": null,
         "name": "Barron's"
       },
@@ -190,16 +492,29 @@
     },
     {
       "source": {
-        "id": "business-insider",
-        "name": "Business Insider"
+        "id": "fortune",
+        "name": "Fortune"
       },
-      "author": "Ben Shimkus",
-      "title": "Neuralink exec Shivon Zilis posts that her relationship with Elon Musk ended 'with no warning' - Business Insider",
-      "description": "Neuralink executive Shivon Zilis wrote on X that she went \"from in love to let go in a week.\"",
-      "url": "https://www.businessinsider.com/shivon-zilis-elon-musk-relationship-update-post-2026-10#article",
-      "urlToImage": "https://i.insider.com/6abfc731eb7225411267d81e?width=1200&format=jpeg",
-      "publishedAt": "2026-10-02T16:15:13Z",
-      "content": "Shivon Zilis, the Neuralink executive who is the mother of four of Elon Musk's children, went public Friday with a relationship update. And she did it on X after he unfollowed her on the social platf… [+2074 chars]"
+      "author": "Jason Ma",
+      "title": "France debt crisis: Investors render a ‘guilty’ verdict and are pricing in growing odds of default - Fortune",
+      "description": "The cost of insurance against a French default is now the highest among the major EU countries and the U.K.",
+      "url": "https://fortune.com/2026/10/02/france-debt-crisis-bond-investors-odds-sovereign-default-cds-yield-spread-deficit-presidential-race/",
+      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/10/GettyImages-2294554597-e1790945129951.jpg?resize=1200,600",
+      "publishedAt": "2026-10-02T16:31:00Z",
+      "content": "Faced with the prospect of a far-right or a far-left president, the bond market doesnt see France curbing its rapidly growing pile of debt anytime soon and has started weighing the possibility that t… [+4121 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "24/7 Wall St."
+      },
+      "author": "Vilma Rios",
+      "title": "The IRS Just Changed the Rules for Trump Accounts. Here's What 60 Million Parents Need to Know - 24/7 Wall St.",
+      "description": "The government just opened a retirement account for your child without asking, but a single missed step means the $1,000 seed deposit stays locked away forever. Here is what parents need to do before the rules change again.",
+      "url": "https://247wallst.com/personal-finance/2026/10/02/the-irs-just-changed-the-rules-for-trump-accounts-heres-what-60-million-parents-need-to-know/",
+      "urlToImage": "https://247wallst.com/wp-content/uploads/2024/03/shutterstock-1917912344-huge-licensed-scaled.jpg",
+      "publishedAt": "2026-10-02T16:23:00Z",
+      "content": "The government just opened a retirement account for your child without asking, but a single missed step means the $1,000 seed deposit stays locked away forever. Here is what parents need to do before… [+4943 chars]"
     },
     {
       "source": {
@@ -242,16 +557,94 @@
     },
     {
       "source": {
-        "id": "nbc-news",
-        "name": "NBC News"
+        "id": "the-washington-post",
+        "name": "The Washington Post"
       },
-      "author": "Steve Kopack",
-      "title": "G7 countries to release up to 100 million barrels of diesel and crude oil reserves - NBC News",
-      "description": "Group of Seven countries agreed to release tens of millions of barrels of diesel fuel and crude to cap soaring gas prices.",
-      "url": "https://www.nbcnews.com/business/energy/g-7-diesel-crude-release-trump-macron-rcna601132",
-      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/261002-diesel-truck-mn-1015-2f7c75.jpg",
-      "publishedAt": "2026-10-02T15:21:45Z",
-      "content": "Member countries in the Group of Seven agreed Friday to release tens of millions of barrels of diesel fuel and crude oil, the latest move by industrial economies around the world to cap soaring gas p… [+3786 chars]"
+      "author": "Gerrit De Vynck, Miriam Waldvogel",
+      "title": "The volunteer internet sleuths hunting down rogue AI agents - The Washington Post",
+      "description": "An informal network of hackers and researchers is exposing new details about misbehaving AI that meddled with corporate and government websites.",
+      "url": "https://www.washingtonpost.com/technology/2026/10/02/independent-researchers-are-revealing-new-details-about-rogue-ai-agents/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/BH56WJ7TUQ3OHJDQM6HDKPG3JY_size-normalized.JPG&w=1440",
+      "publishedAt": "2026-10-02T16:00:00Z",
+      "content": "SAN FRANCISCO Selena Zhang had a hunch.\r\nOpenAI, the maker of ChatGPT, had recently disclosed astonishing details about how its artificial intelligence agents had broken out of their systems, hacked … [+154 chars]"
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Talmon Joseph Smith",
+      "title": "Here’s the latest.",
+      "description": null,
+      "url": "https://www.nytimes.com/live/2026/10/02/business/jobs-report-economy/heres-the-latest",
+      "urlToImage": null,
+      "publishedAt": "2026-10-02T15:59:17Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Colby Smith",
+      "title": "Soft Jobs Report Boosts Market Bets Fed Will Skip October Rate Increase",
+      "description": "The odds of an interest rate change at the Federal Reserve’s meeting in late October have dropped following a softer jobs report and strong signaling from bank officials.",
+      "url": "https://www.nytimes.com/2026/10/02/business/economy/jobs-report-fed-interest-rates.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/10/02/multimedia/02biz-jobs-report-fed-markets-lwht/02biz-jobs-report-fed-markets-lwht-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-10-02T15:50:14Z",
+      "content": "The odds of an interest rate change at the Federal Reserve’s meeting in late October have dropped following a softer jobs report and strong signaling from bank officials."
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Financial Times"
+      },
+      "author": null,
+      "title": "The Ellison credit complex gets a bit more complex - Financial Times",
+      "description": "If it wasn’t for the PSKY kid . . .",
+      "url": "https://www.ft.com/content/2c56ac58-87b2-4159-aa83-55567368149a",
+      "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F3d00bee4-b976-4103-b79d-290f866ce9fe.png?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
+      "publishedAt": "2026-10-02T15:44:29Z",
+      "content": "Digital access for organisations. Includes exclusive features and content."
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "코리아타임스"
+      },
+      "author": "Yonhap",
+      "title": "Trump threatens to 'charge' Korea 'more' if it rejects Alaska LNG project - The Korea Times",
+      "description": "WASHINGTON — U.S. President Donald Trump on Friday threatened to \"charge\" Korea \"more\" if it does not agree to invest in a liquefied natural gas (L...",
+      "url": "https://www.koreatimes.co.kr/world/20261003/trump-threatens-to-charge-korea-more-if-it-rejects-alaska-lng-project",
+      "urlToImage": "https://newsimg.koreatimes.co.kr/2026/10/03/dd371e07-56cf-4fed-975d-9e42dc041d47.jpg",
+      "publishedAt": "2026-10-02T15:31:00Z",
+      "content": "President Donald Trump speaks in the Oval Office of the White House, Wednesday, in Washington. AP-Yonhap\r\nWASHINGTON U.S. President Donald Trump on Friday threatened to \"charge\" Korea \"more\" if it do… [+1367 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "AL.com"
+      },
+      "author": "AL.com",
+      "title": "Dead roaches, spoiled chicken: Jefferson County’s worst September 2026 health inspections - AL.com",
+      "description": null,
+      "url": "https://www.al.com/news/birmingham/2026/10/dead-roaches-spoiled-chicken-jefferson-countys-worst-september-2026-health-inspections.html",
+      "urlToImage": null,
+      "publishedAt": "2026-10-02T15:30:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "Three reasons Middle East oil is nearly back to pre-Iran war levels - BBC",
+      "description": "Experts say US military assistance, using shuttle tankers and pipelines bypassing the Strait of Hormuz mean exports have rebounded.",
+      "url": "https://www.bbc.com/news/articles/cwp8gn13lmygo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/203c/live/19116ee0-be75-11f1-bc2e-018d645d8d21.png",
+      "publishedAt": "2026-10-02T15:29:28Z",
+      "content": "Martin Kelly, senior intelligence analyst at security firm EOS Risk Group, told BBC Verify that US support is primarily in the form of \"air support to ships\", including through issuing warnings and i… [+59 chars]"
     },
     {
       "source": {
@@ -268,29 +661,42 @@
     },
     {
       "source": {
-        "id": "fox-news",
-        "name": "Fox News"
+        "id": "the-new-york-times",
+        "name": "The New York Times"
       },
-      "author": null,
-      "title": "Supermarket voted best grocery store in America as customers praise meal kits, variety of offerings - Fox News",
-      "description": "Headquartered in North Carolina, The Fresh Market swept five categories including best grocery store, produce, deli, prepared foods and bakery in the USA Today Readers' Choice Awards.",
-      "url": "https://www.foxnews.com/food-drink/supermarket-voted-best-grocery-store-america-customers-praise-meal-kits-variety-offerings",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/10/fresh-market-edens-plaza-wilmette.jpg",
-      "publishedAt": "2026-10-02T14:55:55Z",
-      "content": "The Fresh Market, headquartered in Greensboro, North Carolina, recently took home a coveted award in the supermarket space and its CEO revealed to Fox News Digital exactly why he feels the company wo… [+2902 chars]"
+      "author": "Andrew Duehren",
+      "title": "The Rich People Democrats Aren’t Talking About",
+      "description": "As billionaires become a popular political target, a new book urges Washington not to lose sight of a much larger, and quieter, group of wealthy business owners.",
+      "url": "https://www.nytimes.com/2026/10/02/business/democrats-wealthy-taxes.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/10/01/business/00dc-ideas-taxtherich/00dc-ideas-taxtherich-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-10-02T15:08:10Z",
+      "content": "As billionaires become a popular political target, a new book urges Washington not to lose sight of a much larger, and quieter, group of wealthy business owners."
     },
     {
       "source": {
-        "id": "bloomberg",
-        "name": "Bloomberg"
+        "id": null,
+        "name": "Barron's"
       },
-      "author": "Katherine Doherty, Tasos Vossos, Caleb Mutua",
-      "title": "Global Credit Market Starts to Sputter as Jumbo Deals Drag - Bloomberg.com",
-      "description": "Credit markets are showing signs of caution, as surging bond yields, growing inflation fears, and record borrowings make high-grade company debt seem like less of a bastion of safety.",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-02/global-credit-market-starts-to-sputter-as-jumbo-deals-drag",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iep_SB1Ywp80/v0/1200x799.jpg",
-      "publishedAt": "2026-10-02T14:53:31Z",
-      "content": "Credit markets are showing signs of caution, as surging bond yields, growing inflation fears, and record borrowings make high-grade company debt seem like less of a bastion of safety. \r\nSpreads on gl… [+313 chars]"
+      "author": "Al Root",
+      "title": "Musk’s Remarks Don’t Mean SpaceX Cut Its Starship Launch Guidance - Barron's",
+      "description": "CEO Elon Musk makes aspirational comments. His comments at the White House this week were that. And there are plenty more examples.",
+      "url": "https://www.barrons.com/articles/elon-musk-spacex-stock-price-68a00b4e",
+      "urlToImage": "https://images.barrons.com/im-21360206/social",
+      "publishedAt": "2026-10-02T14:51:00Z",
+      "content": "SpaceXCEOElon Muskcreated a kerfuffle earlier this week at aWhite House luncheonwhen he talked about Starship, his rocket companys giant rocket.\r\nCopyright ©2026Dow Jones &amp; Company, Inc. All Righ… [+44 chars]"
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Steven Lee Myers",
+      "title": "Russia’s Latest Propaganda? A.I.-Generated War Songs.",
+      "description": "Russians are creating and spreading music glorifying the invasion of Ukraine, using platforms built in the United States.",
+      "url": "https://www.nytimes.com/2026/10/02/technology/russian-propaganda-ai-war-songs.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/10/01/multimedia/01biz-Russia-AI-Songs-1-fmbg/01biz-Russia-AI-Songs-1-fmbg-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-10-02T14:40:25Z",
+      "content": "Russians are creating and spreading music glorifying the invasion of Ukraine, using platforms built in the United States."
     },
     {
       "source": {
@@ -333,32 +739,6 @@
     },
     {
       "source": {
-        "id": "ars-technica",
-        "name": "Ars Technica"
-      },
-      "author": "Stephen Clark",
-      "title": "Rocket Report: SpaceX completes launch triple-header; Rocket Lab nets big contract - Ars Technica",
-      "description": "Blue Origin seeks FAA approval for up to 50 New Glenn launches and 50 booster landings per year.",
-      "url": "https://arstechnica.com/space/2026/10/rocket-report-spacex-completes-launch-triple-header-rocket-lab-nets-big-contract/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/falcon9_falconheavy-1152x648-1790915768.jpg",
-      "publishedAt": "2026-10-02T13:54:34Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "associated-press",
-        "name": "Associated Press"
-      },
-      "author": "Anne D'Innocenzio",
-      "title": "Amazon to invest $1B into data center communities amid backlash against data center rollouts - AP News",
-      "description": "Amazon is investing more than $1 billion over the next five years into communities where it operates data centers for education, job training, water preservation projects and other local priorities as it reacts to a growing backlash from politicians and consu…",
-      "url": "https://apnews.com/article/amazon-data-centers-1-billion-investment-91b65ba1729540c1c0d92e35deef35d8",
-      "urlToImage": "https://dims.apnews.com/dims4/default/07475fb/2147483647/strip/true/crop/8176x5448+232+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fb2%2F91%2F48cb7432550492bf9dd6a0a73190%2F2d88e47858044b379674cc7852d122b2",
-      "publishedAt": "2026-10-02T13:50:00Z",
-      "content": "NEW YORK (AP) Amazon is investing more than $1 billion over the next five years into communities where it operates data centers for education, job training, water and energy preservation projects and… [+2705 chars]"
-    },
-    {
-      "source": {
         "id": null,
         "name": "CNBC"
       },
@@ -369,6 +749,32 @@
       "urlToImage": "https://image.cnbcfm.com/api/v1/image/108366941-17901794762026-09-23t160042z_1309580215_rc24pnadya0l_rtrmadp_0_usa-china-bessent-he.jpeg?v=1790182158&w=1920&h=1080",
       "publishedAt": "2026-10-02T13:45:02Z",
       "content": "One of the selling points of ETFs is that they can be highly tax-efficient for managing capital gains and losses, but wealthy investors may have to rethink certain ETF tax-deferral strategies followi… [+8277 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Brian Sozzi",
+      "title": "Nike stock misery continues after another dreadful quarter and outlook: Wall Street reacts - Yahoo Finance",
+      "description": "Nike is far from just doing it.",
+      "url": "https://finance.yahoo.com/markets/stocks/article/nike-stock-misery-continues-after-another-dreadful-quarter-and-outlook-wall-street-reacts-090254429.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/0f71ed540f8c2421cc3462e91c2ac9aeb2904ab747b2d0e3744c2abb000cbe3e/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-10%2F3ea64233-a986-48aa-a449-146977a330a3",
+      "publishedAt": "2026-10-02T13:35:45Z",
+      "content": "Nike (NKE) reminded investors why the stock is trading at record lows on its earnings day.\r\nShares of the fallen sportswear giant dropped 6% in early trading on Friday, extending the plunge in a stoc… [+2486 chars]"
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Susannah Skiver Barton",
+      "title": "English Whisky Gets a Boost from the U.K., and Scots Are Not Amused",
+      "description": "A growing cadre of English distillers have won protected status for their liquor. But Scotch producers fear that they’ll lose prestige.",
+      "url": "https://www.nytimes.com/2026/10/02/dining/drinks/english-whisky-uk.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/10/07/multimedia/07FD-english-whiskey-cover1-qfkj/02FD-english-whiskey-cover1-qfkj-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-10-02T13:33:15Z",
+      "content": "A growing cadre of English distillers have won protected status for their liquor. But Scotch producers fear that they’ll lose prestige."
     },
     {
       "source": {
@@ -398,16 +804,29 @@
     },
     {
       "source": {
-        "id": "the-washington-post",
-        "name": "The Washington Post"
+        "id": "the-new-york-times",
+        "name": "The New York Times"
       },
-      "author": "Gerrit De Vynck, Miriam Waldvogel",
-      "title": "The volunteer internet sleuths hunting down rogue AI agents - The Washington Post",
-      "description": "An informal network of hackers and researchers is exposing new details about misbehaving AI that meddled with corporate and government websites.",
-      "url": "https://www.washingtonpost.com/technology/2026/10/02/independent-researchers-are-revealing-new-details-about-rogue-ai-agents/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/BH56WJ7TUQ3OHJDQM6HDKPG3JY_size-normalized.JPG&w=1440",
-      "publishedAt": "2026-10-02T12:36:12Z",
-      "content": "SAN FRANCISCO Selena Zhang had a hunch.\r\nOpenAI, the maker of ChatGPT, had recently disclosed astonishing details about how its artificial intelligence agents had broken out of their systems, hacked … [+154 chars]"
+      "author": "Ann Carrns",
+      "title": "Pay Advance Apps May Be Costlier Than Workers Think",
+      "description": "The loans tide borrowers over until their next paycheck. The apps offer no-cost options, but most users end up paying high fees, a report finds.",
+      "url": "https://www.nytimes.com/2026/10/02/your-money/pay-advance-apps-fees.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/10/02/business/02adviser/02adviser-mediumSquareAt3X.png",
+      "publishedAt": "2026-10-02T13:00:08Z",
+      "content": "The loans tide borrowers over until their next paycheck. The apps offer no-cost options, but most users end up paying high fees, a report finds."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Lisa Friedman and River Akira Davis",
+      "title": "Trump’s Threat to Ban Diesel Exports Sets Off Global Alarms",
+      "description": "A reduction in refineries has already driven the price of diesel to record highs, threatening economies. An U.S. export ban would be “tremendous shock and blow.”",
+      "url": "https://www.nytimes.com/2026/10/01/business/diesel-prices-us-exports.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/10/01/multimedia/01Biz-Diesel-Global-Vulnerability-01-mvkt/01Biz-Diesel-Global-Vulnerability-01-mvkt-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-10-02T12:36:10Z",
+      "content": "A reduction in refineries has already driven the price of diesel to record highs, threatening economies. An U.S. export ban would be “tremendous shock and blow.”"
     },
     {
       "source": {
@@ -424,42 +843,16 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Louis Juricic",
-      "title": "Seagate and Western Digital shares fall on Toshiba HDD expansion - Yahoo Finance",
-      "description": "Investing.com -- Seagate Technology (NASDAQ) shares fell 11% on Friday, while Western Digital (NASDAQ) dropped 7%, after a report that Toshiba plans to signi...",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/seagate-western-digital-shares-fall-121819634.html",
-      "urlToImage": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
-      "publishedAt": "2026-10-02T12:18:19Z",
-      "content": "Investing.com -- Seagate Technology (NASDAQ) shares fell 11% on Friday, while Western Digital (NASDAQ) dropped 7%, after a report that Toshiba plans to significantly expand its hard disk drive produc… [+2125 chars]"
-    },
-    {
-      "source": {
         "id": "the-wall-street-journal",
         "name": "The Wall Street Journal"
       },
-      "author": "WSJ",
+      "author": "Adrià Calatayud",
       "title": "Novartis to License Drug From China’s Abogen in Up to $7.8 Billion Deal - WSJ",
-      "description": null,
+      "description": "Under the deal, Novartis will acquire worldwide rights over Abogen’s lead drug candidate",
       "url": "https://www.wsj.com/health/pharma/novartis-to-license-drug-from-chinas-abogen-in-up-to-7-8-billion-deal-4ad8509c",
-      "urlToImage": null,
+      "urlToImage": "https://images.wsj.net/im-74823840/social",
       "publishedAt": "2026-10-02T12:08:00Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Benzinga"
-      },
-      "author": "Anusuya Lahiri",
-      "title": "AppLovin Stock Sinks To 52-Week Low - Here's Why - Benzinga",
-      "description": "AppLovin (APP) shares hit a new 52-week low near $266 amid legal disputes with Unity, revenue misses, and analyst downgrades.",
-      "url": "https://www.benzinga.com/markets/tech/26/10/62130241/applovin-stock-sinks-to-52-week-low-heres-why",
-      "urlToImage": "https://cdn.benzinga.com/cdn-cgi/image/width=1200,height=800,fit=crop/files/images/story/2026/10/02/Jakarta---August-15-2024-Applovin-Corpor.jpg",
-      "publishedAt": "2026-10-02T12:00:27Z",
-      "content": "AppLovin Corp.(NASDAQ:APP) stock has come under pressure as investors question its e-commerce expansion while the company also faces litigation involving Unity Software Inc.(NYSE:U).\r\nJP Morgan ident… [+1972 chars]"
+      "content": "NovartisNOVN-1.46%decrease; down pointing triangle\r\nstruck a deal valued at up to $7.8 billion to license a messenger RNA drug candidate from Abogen Biosciences and gain options over future therapies… [+418 chars]"
     },
     {
       "source": {
@@ -476,16 +869,42 @@
     },
     {
       "source": {
-        "id": "bloomberg",
-        "name": "Bloomberg"
+        "id": null,
+        "name": "TechSpot"
       },
-      "author": "Salma El Wardany",
-      "title": "Saudi Arabia Hikes Oil Flow on Key Pipeline to Over 80% Capacity - Bloomberg.com",
-      "description": "Saudi Arabia has raised oil flows through its key cross-country pipeline to more than 80% of capacity, with volumes available for exports from the kingdom’s west coast reaching wartime highs as it sends less to domestic refineries.",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-02/saudi-arabia-hikes-oil-flow-on-key-pipeline-to-over-80-capacity",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iKgu7cg72AZg/v0/1200x800.jpg",
-      "publishedAt": "2026-10-02T11:33:51Z",
-      "content": "Saudi Arabia has raised oil flows through its key cross-country pipeline to more than 80% of capacity, with volumes available for exports from the kingdoms west coast reaching wartime highs as it sen… [+408 chars]"
+      "author": "Rob Thubron",
+      "title": "New York City's click-to-cancel rule takes effect, making subscription cancellations as easy as sign-ups - TechSpot",
+      "description": "Mayor Zohran Mamdani and the Department of Consumer and Worker Protection (DCWP) originally announced the city's final Click-to-Cancel Rule in July. It took effect on October 1,...",
+      "url": "https://www.techspot.com/news/114074-new-york-city-click-cancel-rule-takes-effect.html",
+      "urlToImage": "https://www.techspot.com/images2/news/bigimage/2026/07/2026-07-13-image-4.jpg",
+      "publishedAt": "2026-10-02T11:58:00Z",
+      "content": "What just happened? New York City's click-to-cancel policy has taken effect, meaning Big Apple consumers won't be forced to endure arduous subscription cancellation processes that encourage people to… [+3083 chars]"
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Andrew Ross Sorkin, Bernhard Warner, Sarah Kessler, Michael J. de la Merced, Niko Gallogly, Brian O’Keefe, Sri Muppidi and Ian Mount",
+      "title": "The Latest Challenge to Data Centers? Restive Investors.",
+      "description": "Rising government bond yields are beginning to upend the economics around the artificial intelligence build-out.",
+      "url": "https://www.nytimes.com/2026/10/02/business/dealbook/data-center-ai-bonds.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/10/02/multimedia/02db-data-center-qpvf/02db-data-center-qpvf-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-10-02T11:48:10Z",
+      "content": "Rising government bond yields are beginning to upend the economics around the artificial intelligence build-out."
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Supercarblondie.com"
+      },
+      "author": "Alessandro Renesis",
+      "title": "Tesla and SpaceX are starting work on the biggest building in the world in December in huge 100 million square feet, $16.8 billion 'Terafab' project - supercarblondie.com",
+      "description": "Tesla and SpaceX are working on Terafab, a massive 100-million-square-foot facility and it'll cost a fortune",
+      "url": "https://supercarblondie.com/tesla-spacex-chip-plant-terafab/",
+      "urlToImage": "https://supercarblondie.com/cdn-cgi/image/width=1200,height=675,quality=80,format=webp,fit=cover/wp-content/uploads/Tesla-and-SpaceX-are-working-on-what-will-be-the-largest-corporate-building-in-the-world-called-Terafab-3.webp",
+      "publishedAt": "2026-10-02T11:45:00Z",
+      "content": "Tesla and SpaceX are working on what will be the largest corporate building in the world, called Terafab.\r\nStretching out over 100 million square feet in Texas, Terafab will be the result of a joint … [+2994 chars]"
     },
     {
       "source": {
@@ -515,120 +934,146 @@
     },
     {
       "source": {
-        "id": "bloomberg",
-        "name": "Bloomberg"
+        "id": null,
+        "name": "Forbes"
       },
-      "author": "Alice Gledhill, William Horobin",
-      "title": "France’s Troubles Are Deepening as Investors Head for the Exit - bloomberg.com",
-      "description": "10-year yield premium over Germany is now at widest in 15 years.",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-02/france-s-crisis-is-deepening-as-investors-head-for-the-exit",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iU1eG4KzbYxY/v0/1200x800.jpg",
-      "publishedAt": "2026-10-02T10:25:42Z",
-      "content": "For most of the euros history, investors took the view that France would muddle through its political and economic challenges and remain a relatively safe bet. That idea isnt holding any more.\r\nA sel… [+362 chars]"
-    },
-    {
-      "source": {
-        "id": "cnn",
-        "name": "CNN"
-      },
-      "author": "Sandee LaMotte",
-      "title": "What’s in your cat’s food? New investigation finds lead and other toxins - CNN",
-      "description": "Most types of cat foods contain lead, arsenic, cadmium and mercury as well as toxic chemicals from plastics and fertilizers, a new investigation found.",
-      "url": "https://www.cnn.com/2026/10/02/health/cat-food-toxins-wellness",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2207597899.jpg?c=16x9&q=w_800,c_fill",
-      "publishedAt": "2026-10-02T09:00:44Z",
-      "content": "Nearly all tested cat foods contain toxic plastic contaminants, the herbicide glyphosate and heavy metals such as lead, mercury and arsenic, according to a new investigation provided exclusively to C… [+9402 chars]"
+      "author": "Forbes",
+      "title": "Inside The Trillions Being Spent On The AI Data Center Buildout - Forbes",
+      "description": null,
+      "url": "https://www.forbes.com/sites/giacomotognini/2026/10/02/inside-the-trillions-being-spent-on-the-ai-data-center-buildout/",
+      "urlToImage": null,
+      "publishedAt": "2026-10-02T10:30:00Z",
+      "content": null
     },
     {
       "source": {
         "id": null,
-        "name": "BBC News"
+        "name": "Common Dreams"
       },
-      "author": null,
-      "title": "OpenAI fires workers for 'mishandling sensitive information' - BBC",
-      "description": "The former employees were investigated for sharing data with an outside AI evaluation group.",
-      "url": "https://www.bbc.com/news/articles/c6y9z9r4ejzwo",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/136d/live/561b92b0-bdf9-11f1-a76b-bdcdab65a1b7.jpg",
-      "publishedAt": "2026-10-02T08:20:32Z",
-      "content": "On Tuesday, US President Donald Trump hosted a meeting of top technology bosses - including leaders from OpenAI, Anthropic, Nvidia, SpaceX, Meta and Google - to discuss AI."
+      "author": "https://www.facebook.com/32109457015",
+      "title": "'Brazenly Corrupt': Firm Behind Trump Meme Coin Plans 'Most Exclusive Dinner' for Top Buyers - Common Dreams",
+      "description": "\"The most exclusive dinner in the world with the most corrupt president in American history,\" said one congressional Democrat.",
+      "url": "https://www.commondreams.org/news/trump-meme-coin-dinner",
+      "urlToImage": "https://www.commondreams.org/media-library/image.jpg?id=68003917&width=1200&height=600&coordinates=0%2C416%2C0%2C417",
+      "publishedAt": "2026-10-02T10:10:19Z",
+      "content": "Dear Common Dreams reader,Its been nearly 30 years since I co-founded Common Dreams with my late wife, Lina Newhouser. We had the radical notion that journalism should serve the public good, not corp… [+1620 chars]"
     },
     {
       "source": {
-        "id": null,
-        "name": "CNBC"
+        "id": "the-new-york-times",
+        "name": "The New York Times"
       },
-      "author": "Sarah Min, Sawdah Bhaimiya",
-      "title": "Treasury yields hold flat as investors await key jobs report - CNBC",
-      "description": "U.S. Treasury yields fell after the September jobs report came in much weaker than expected.",
-      "url": "https://www.cnbc.com/2026/10/02/treasury-yields-bonds-nonfarm-payrolls.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108363665-1789568651170-gettyimages-2295586459-mms19512_dnx4op25.jpeg?v=1789568741&w=1920&h=1080",
-      "publishedAt": "2026-10-02T07:47:49Z",
-      "content": "Treasury yields tumbled Friday after an unexpectedly weak September jobs report likely put the brakes on a Federal Reserve rate hike in October. \r\nThe benchmark 10-year Treasury yield fell nearly 6 b… [+1549 chars]"
+      "author": "Isabella Kwai",
+      "title": "Swedish Company Uses A.I. Likeness of Greta Garbo in Ad",
+      "description": "The Swedish American actress, who died in 1990, was brought back in a A.I.-generated ad for a manufacturing company.",
+      "url": "https://www.nytimes.com/2026/10/01/world/europe/ai-garbo-ad-sweden-skf.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/10/01/multimedia/01xp-garbo-wvbp-promo/01xp-garbo-wvbp-promo-mediumSquareAt3X-v2.jpg",
+      "publishedAt": "2026-10-02T09:35:43Z",
+      "content": "The Swedish American actress, who died in 1990, was brought back in a A.I.-generated ad for a manufacturing company."
     },
     {
       "source": {
-        "id": null,
-        "name": "NBC 7 San Diego"
+        "id": "the-new-york-times",
+        "name": "The New York Times"
       },
-      "author": "Renee Schmiedeberg, Jeanette Quezada",
-      "title": "Heat wave brings possible power shutoffs to parts of San Diego County. Here's where - NBC 7 San Diego",
-      "description": "As extreme heat boosts energy demand and wildfire risk, SDG&E says public safety power shutoffs may occur Oct. 2-5 in San Diego County.",
-      "url": "https://www.nbcsandiego.com/news/local/heat-wave-brings-possible-power-shutoffs-parts-of-san-diego-county-heres-where/4081619/",
-      "urlToImage": "https://media.nbcsandiego.com/2020/08/PowerLines.jpg?quality=85&strip=all&resize=1200%2C675",
-      "publishedAt": "2026-10-02T06:18:44Z",
-      "content": "Just as a heat wave is expected to hit San Diego County starting Friday through to Oct. 8, San Diego Gas &amp; Electric this week began notifying customers throughout the county of possible public sa… [+3702 chars]"
+      "author": "Sydney Ember and Maddie McGarvey",
+      "title": "Tariffs Are Making Instruments So Expensive, School Music Programs Are at Risk",
+      "description": "When a single cello can cost $1,000 and a tuba $9,000, tariffs are straining meager band and orchestra budgets.",
+      "url": "https://www.nytimes.com/2026/10/02/business/economy/tariffs-instruments-school-music-programs.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/09/28/multimedia/00biz-sad-bands-kbjq/00biz-sad-bands-kbjq-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-10-02T09:03:00Z",
+      "content": "When a single cello can cost $1,000 and a tuba $9,000, tariffs are straining meager band and orchestra budgets."
     },
     {
       "source": {
-        "id": null,
-        "name": "WWD"
+        "id": "the-new-york-times",
+        "name": "The New York Times"
       },
-      "author": "Stephen Garner",
-      "title": "Nike CEO Warns of New Layoffs Next Year Amid Changing Operating Model - WWD",
-      "description": "Nike CEO Elliott Hill hoped to qualm fears amongst employees of another round of layoffs in a new memo published online on Thursday.",
-      "url": "http://wwd.com/footwear-news/shoe-industry-news/nike-layoffs-2027-ceo-elliott-hill-pace-job-cuts-1239303020/",
-      "urlToImage": "https://wwd.com/wp-content/uploads/2026/10/GettyImages-2269702622.jpg?w=1000&h=563&crop=1",
-      "publishedAt": "2026-10-01T22:13:28Z",
-      "content": "Nike president and chief executive officer Elliott Hill hoped to qualm fears among employees bracing for more layoffs in a new memo published online on Thursday.\r\nIn the letter to employees, Hill ann… [+4700 chars]"
+      "author": "Stephanie Rosenbloom",
+      "title": "5 Hotels For Savoring the Fall",
+      "description": "These new or renovated getaways offer opportunities to bask in the season’s pastoral and cultural delights in comfort.",
+      "url": "https://www.nytimes.com/2026/10/02/travel/autumn-hotels.html",
+      "urlToImage": null,
+      "publishedAt": "2026-10-02T09:02:49Z",
+      "content": "These new or renovated getaways offer opportunities to bask in the season’s pastoral and cultural delights in comfort."
     },
     {
       "source": {
-        "id": null,
-        "name": "NEWS10 ABC"
+        "id": "the-new-york-times",
+        "name": "The New York Times"
       },
-      "author": "Sarah Willson",
-      "title": "Heating oil prices in New York State jump nearly 70% ahead of winter - NEWS10 ABC",
-      "description": "The price New Yorkers will pay for heat this winter is expected to rise dramatically, climbing from $3.72 per gallon of heating oil to $6.27 per gallon, according to the New York State Energy Research and Development Authority.",
-      "url": "https://www.news10.com/news/ny-news/heating-oil-prices-in-new-york-state-jump-nearly-70-ahead-of-winter/",
-      "urlToImage": "https://www.news10.com/wp-content/uploads/sites/64/2025/11/snapshot-35.jpg?w=1280",
-      "publishedAt": "2026-10-01T21:58:30Z",
-      "content": "ALBANY, N.Y. (NEWS10) — The price New Yorkers will pay for heat this winter is expected to rise dramatically, climbing from $3.72 per gallon of heating oil to $6.27 per gallon, according to the New Y… [+1103 chars]"
+      "author": "Asmaa Elkeurti and Claire Cain Miller",
+      "title": "Is a Trump Account the Best Way to Invest for Your Child? Try Our Calculator.",
+      "description": "Families also have options like 529 college plans and custodial brokerage accounts. Find out which one works best for you.",
+      "url": "https://www.nytimes.com/2026/10/02/upshot/trump-account-kids-529-utma-calculator.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/09/22/multimedia/2026-07-21-trump-account-scenarios-index/2026-07-21-trump-account-scenarios-index-mediumSquareAt3X-v15.png",
+      "publishedAt": "2026-10-02T09:00:51Z",
+      "content": "Families also have options like 529 college plans and custodial brokerage accounts. Find out which one works best for you."
     },
     {
       "source": {
-        "id": "usa-today",
-        "name": "USA Today"
+        "id": "the-new-york-times",
+        "name": "The New York Times"
       },
-      "author": "Anthony Thompson",
-      "title": "A man found $128K on top of a Bank of America ATM. Here's what he did next - USA Today",
-      "description": "A Texas man found a bag containing $128,514 on top of a Bank of America ATM on Aug. 3. Here's what he did next.",
-      "url": "https://www.usatoday.com/story/money/2026/10/01/man-returns-bag-money-found-atop-bank-of-america-atm/92042721007/",
-      "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/10/01/USAT/92042919007-getty-images-1409532651.jpg?crop=1023,576,x0,y106&width=1023&height=576&format=pjpg&auto=webp",
-      "publishedAt": "2026-10-01T21:58:00Z",
-      "content": "A bag of cash sitting on top of a Bank of America ATM put a Texas man in a peculiar situation. While many would have kept the money, he searched for the rightful owner.\r\nThe 37-year-old Lewisville ma… [+2800 chars]"
+      "author": "Sarah Bahr",
+      "title": "After 17 Years, a TV Critic Lets the Credits Roll",
+      "description": "In thousands of reviews, Mike Hale developed a reputation for being thoughtful yet brutally honest.",
+      "url": "https://www.nytimes.com/2026/10/02/arts/television/mike-hale-new-york-times.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/10/02/multimedia/02a2_insider-hale-tlzv/02a2_insider-hale-tlzv-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-10-02T07:00:08Z",
+      "content": "In thousands of reviews, Mike Hale developed a reputation for being thoughtful yet brutally honest."
     },
     {
       "source": {
-        "id": null,
-        "name": "STAT"
+        "id": "the-washington-post",
+        "name": "The Washington Post"
       },
-      "author": "Bob Herman",
-      "title": "Medicare Advantage plans shift more costs onto seniors in 2027 - STAT",
-      "description": "Premiums are stable, but Medicare Advantage plans are making big changes that could make care more expensive for patients.",
-      "url": "https://www.statnews.com/2026/10/01/medicare-advantage-plans-have-higher-deductibles-fewer-benefits-in-2027/",
-      "urlToImage": "https://www.statnews.com/wp-content/uploads/2026/10/AdobeStock_378253117-1024x576.jpeg",
-      "publishedAt": "2026-10-01T21:16:31Z",
-      "content": "People who have a Medicare Advantage plan and wind up needing care and prescriptions next year are in for a rude awakening.\r\nMedicare Advantage insurers are raising out-of-pocket costs for enrollees,… [+1021 chars]"
+      "author": "Liam Bowman",
+      "title": "Maryland becomes first state to ban dynamic pricing in grocery stores - The Washington Post",
+      "description": "The measure comes as households are struggling with rising costs.",
+      "url": "https://www.washingtonpost.com/dc-md-va/2026/10/01/maryland-becomes-first-state-ban-dynamic-pricing-grocery-stores/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/T2YGIYXYUBELVG726ZAPMLX6VI_size-normalized.jpeg&w=1440",
+      "publishedAt": "2026-10-02T03:08:00Z",
+      "content": "Maryland on Thursday became the first state to bar grocery stores from using electronic pricing tools to adjust the cost of food items throughout the day, which critics say could enable retailers to … [+89 chars]"
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Tara Siegel Bernard and Claire Cain Miller",
+      "title": "What to Know About Trump Accounts as More Than 60 Million Children Are Auto-Enrolled",
+      "description": "The Trump administration may have just signed up your child — and more than 60 million others — for a 530A savings account (if you haven’t already done so).",
+      "url": "https://www.nytimes.com/2026/10/01/business/trump-accounts-auto-enrollment.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/10/01/multimedia/01Biz-Trump-Accounts-ghmj/01Biz-Trump-Accounts-ghmj-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-10-01T22:51:55Z",
+      "content": "The Trump administration may have just signed up your child — and more than 60 million others — for a 530A savings account (if you haven’t already done so)."
+    },
+    {
+      "source": {
+        "id": "axios",
+        "name": "Axios"
+      },
+      "author": "Nathan Bomey",
+      "title": "Mortgage rates approach 3-year high as new applications plunge - Axios",
+      "description": "Mortgage rates spiked to their highest level in nearly 3 years, continuing their climb above the 7% threshold.",
+      "url": "https://www.axios.com/2026/10/01/mortgage-rates-housing-sales",
+      "urlToImage": "https://images.axios.com/ZSiHGIT0-9PJcO0LMmq2HgLjuww=/1366x768/smart/2024/08/28/192440-1724873080470.jpg",
+      "publishedAt": "2026-10-01T21:37:13Z",
+      "content": "Zoom in: The weekly average 30-year fixed mortgage rate was 7.28% as of Thursday, Freddie Mac reported. \r\n<ul><li>That's up 0.94 points from a year ago, and up 0.25 points from last week.</li><li>Mor… [+1791 chars]"
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Benjamin Mullin and Michael M. Grynbaum",
+      "title": "David Ellison’s Vision for CNN: Same C.E.O and No Bari Weiss, for Now.",
+      "description": "David Ellison is negotiating to keep CNN’s chief executive, Mark Thompson, in place without oversight from Bari Weiss, the CBS editor in chief, when the networks’ parent companies merge.",
+      "url": "https://www.nytimes.com/2026/10/01/business/media/cnn-paramount-david-ellison.html",
+      "urlToImage": null,
+      "publishedAt": "2026-10-01T21:21:44Z",
+      "content": "David Ellison is negotiating to keep CNN’s chief executive, Mark Thompson, in place without oversight from Bari Weiss, the CBS editor in chief, when the networks’ parent companies merge."
     },
     {
       "source": {
@@ -645,19 +1090,6 @@
     },
     {
       "source": {
-        "id": "the-wall-street-journal",
-        "name": "The Wall Street Journal"
-      },
-      "author": "wsj.com",
-      "title": "Boeing Engineers Bless New Contract After Summer Showdown - wsj.com",
-      "description": null,
-      "url": "https://www.wsj.com/business/airlines/boeings-engineers-hold-leverage-in-contract-showdown-0de44742",
-      "urlToImage": null,
-      "publishedAt": "2026-10-01T21:08:00Z",
-      "content": null
-    },
-    {
-      "source": {
         "id": null,
         "name": "Electrek"
       },
@@ -671,55 +1103,42 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "Investor's Business Daily"
+        "id": "the-new-york-times",
+        "name": "The New York Times"
       },
-      "author": null,
-      "title": "Stock Market Today: S&P Climbs To Start October, Micron Gains; Barbie Maker Soars On Deal News - Investor's Business Daily",
-      "description": "Stock Market Today: The Dow Jones index turns higher Thursday as Treasury yields pull back. Micron stock reverses course.",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-treasury-yields-micron-stock-mu-earnings/",
-      "urlToImage": "https://www.investors.com/wp-content/uploads/2017/02/stock-wallStreet-1-shutter.jpg",
-      "publishedAt": "2026-10-01T20:42:00Z",
-      "content": "Information in Investors Business Daily is for informational and educational purposes only and should not be construed as an offer, recommendation, solicitation, or rating to buy or sell securities. … [+1064 chars]"
-    },
-    {
-      "source": {
-        "id": "nbc-news",
-        "name": "NBC News"
-      },
-      "author": "Steve Kopack",
-      "title": "Mortgage rates hit highest point since 2023 as Treasury yields rise - NBC News",
-      "description": "Inflation concerns, driven by high fuel prices, are prompting investors to sell bonds. That drives up interest rates for consumers.",
-      "url": "https://www.nbcnews.com/business/economy/mortgage-rates-treasury-yields-markets-rcna600894",
-      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/261001-housing-california-mn-1015-c06c55.jpg",
-      "publishedAt": "2026-10-01T20:41:13Z",
-      "content": "Mortgage rates are at their highest point in nearly three years as turmoil in the bond market continues.\r\nU.S. Treasury bonds continued selling off Thursday, driving yields on the most closely watche… [+4281 chars]"
+      "author": "Eshe Nelson and Joe Rennison",
+      "title": "U.S. Bond Yields Hit Highest Level Since 2002",
+      "description": "The higher yields, which are pressuring consumer and corporate borrowers and increasingly weighing on certain corners of the stock market, are unlikely to dissipate soon.",
+      "url": "https://www.nytimes.com/2026/10/01/business/bond-yields-10-year-treasury.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/10/01/multimedia/01biz-bonds-promo-pic-bphz/01biz-bonds-promo-pic-bphz-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-10-01T20:23:38Z",
+      "content": "The higher yields, which are pressuring consumer and corporate borrowers and increasingly weighing on certain corners of the stock market, are unlikely to dissipate soon."
     },
     {
       "source": {
         "id": null,
-        "name": "Daily Beast"
+        "name": "Yahoo Entertainment"
       },
-      "author": "Erkki Forster",
-      "title": "Trump Debuts Bizarre AI Look to Hawk New Grifty Scheme - The Daily Beast",
-      "description": "A bizarre AI incarnation of Trump has been deployed to hawk the president’s latest self-dealing scheme.",
-      "url": "https://www.thedailybeast.com/trump-debuts-bizarre-ai-look-to-hawk-new-grifty-scheme/",
-      "urlToImage": "https://www.thedailybeast.com/resizer/v2/DQGADPT4N5HMLOZQQX5BMWR5HA.JPG?smart=true&auth=b4dcb91f92722d49524775013d434730b6dea28554836d84b1e5a813d086056e&width=1200&height=630",
-      "publishedAt": "2026-10-01T20:23:00Z",
-      "content": "President Donald Trump has been digitally transformed into a creepy AI version of himself to sell his latest ethically dubious money-making scheme. \r\nThe billionaire president has once again found a … [+3004 chars]"
+      "author": "Jennifer Schonberger",
+      "title": "Fed's vice chair warns inflation remains high, but Fed needs time to assess rates - Yahoo Finance",
+      "description": "Federal Reserve vice chairman Philip Jefferson acknowledged that inflation has remained too high for too long, but said the central bank should watch and ass...",
+      "url": "https://finance.yahoo.com/economy/policy/article/feds-vice-chair-warns-inflation-remains-high-but-fed-needs-time-to-assess-rates-181738105.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/64e41310b14b897a29e798080160c873d4ed47a7b2bf16df27a17a8e76243700/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-10%2F472c8993-5cb7-4489-98b6-a33509a0863f",
+      "publishedAt": "2026-10-01T19:33:41Z",
+      "content": "Federal Reserve Vice Chairman Philip Jefferson struck a more cautious tone than several of his colleagues this week, acknowledging that inflation has remained too high, but urging that as bond market… [+3998 chars]"
     },
     {
       "source": {
-        "id": null,
-        "name": "Barron's"
+        "id": "techcrunch",
+        "name": "TechCrunch"
       },
-      "author": "Al Root",
-      "title": "Corteva Stock Isn’t Really Down 80%. It Spun Off Vylor. - Barron's",
-      "description": "Corteva is now two companies, Corteva and Vylor. Corteva sells crop protection chemicals. Vylor sells seeds to farmers.",
-      "url": "https://www.barrons.com/articles/corteva-stock-price-vylor-spinoff-81e019e7",
-      "urlToImage": "https://images.barrons.com/im-62301253/social",
-      "publishedAt": "2026-10-01T20:16:00Z",
-      "content": "The lack of pay increases are a tough pill to swallow for many Americans, especially lower- and middle-income households struggling with higher energy and living costs."
+      "author": "Tim Fernholz",
+      "title": "Google thinks SpaceX's Starship has to launch 1,800 times before space data centers get off the ground - TechCrunch",
+      "description": "Google launched its first advanced chip into orbit to pave the way for space data centers.",
+      "url": "https://techcrunch.com/2026/10/01/google-thinks-spacexs-starship-has-to-launch-1600-times-before-space-data-centers-get-off-the-ground/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/10/DSC_0298.jpg?resize=1200,800",
+      "publishedAt": "2026-10-01T19:18:03Z",
+      "content": "Google’s prototype of its orbital compute satellite took off today onboard a SpaceX rocket launched from California — the first time the tech giant has sent one of its advanced chips into space.\r\nBui… [+4575 chars]"
     },
     {
       "source": {
@@ -727,51 +1146,25 @@
         "name": "One Mile at a Time"
       },
       "author": "Ben Schlappig",
-      "title": "Huge IHG & Chase Credit Card Changes: Higher Fees, New Perks, & More - One Mile at a Time",
-      "description": "IHG and Chase just overhauled their credit card portfolio, with higher annual fees, new travel and dining credits, and changes to free nights and elite status.",
-      "url": "https://onemileatatime.com/news/ihg-chase-credit-card-changes/",
-      "urlToImage": "https://cdn.onemileatatime.com/wp-content/uploads/2025/01/InterContinental-Minneapolis-Airport-MSP-15.jpeg",
-      "publishedAt": "2026-10-01T20:12:36Z",
+      "title": "New $350 IHG One Rewards Premier Select Card: 200K Bonus Points, Strong Perks - One Mile at a Time",
+      "description": "Chase and IHG have launched the $350 IHG One Rewards Premier Select Card, with airline credits, dining perks, Platinum status, and a big welcome offer.",
+      "url": "https://onemileatatime.com/news/new-ihg-one-rewards-premier-select-card/",
+      "urlToImage": "https://cdn.onemileatatime.com/wp-content/uploads/2025/01/InterContinental-Minneapolis-Airport-MSP-21.jpeg",
+      "publishedAt": "2026-10-01T18:52:41Z",
       "content": null
     },
     {
       "source": {
-        "id": null,
-        "name": "New York Post"
+        "id": "the-new-york-times",
+        "name": "The New York Times"
       },
-      "author": "Ariel Zilber",
-      "title": "Treasury Dept. automatically enrolls more than 60 million kids in Trump Accounts - New York Post",
-      "description": "Parents, guardians have to claim the accounts and separately opt in to receive the federal government’s $1,000 seed contribution for eligible kids.",
-      "url": "https://nypost.com/2026/10/01/business/treasury-automatically-enrolls-more-than-60-million-kids-in-trump-accounts/",
-      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/10/143326968.jpg?quality=75&strip=all&w=1200",
-      "publishedAt": "2026-10-01T19:26:00Z",
-      "content": "More than 60 million American children have been automatically enrolled in Trump Accounts as the Treasury Department moves to dramatically expand participation in the new investment program, official… [+3202 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Upgradedpoints.com"
-      },
-      "author": "Chris Hassan",
-      "title": "Delta CEO Rejects Starlink; American and United Offer Status Matches to Unhappy Flyers - Upgraded Points",
-      "description": "Delta chose to skip Starlink for inflight Wi-Fi, and American and United were quick to jump on an opportunity to poach its elite flyers.",
-      "url": "https://upgradedpoints.com/news/aa-united-status-matches-for-delta-flyers/",
-      "urlToImage": "https://upgradedpoints.com/wp-content/uploads/2024/12/United-Airlines-American-Airlines-LAX.jpg",
-      "publishedAt": "2026-10-01T18:51:37Z",
-      "content": "Delta Air Lines CEO Ed Bastian has reportedly said he rejected SpaceXs Starlink for high-speed inflight Wi-Fi because he didnt want to work with Elon Musk, instead opting to work with Amazons Leo for… [+2797 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The Philadelphia Inquirer"
-      },
-      "author": "Michael Klein",
-      "title": "Suspect in Pat’s cheesesteak-throwing incident has turned himself in, reports say - Inquirer.com",
-      "description": "Pat’s owner Frank Olivieri said he feared that a cheesesteak-throwing stunt could become a social-media trend.",
-      "url": "https://www.inquirer.com/food/restaurants/cheesesteak-thrown-pats-philadelphia-video-stunt-20261001.html",
-      "urlToImage": "https://www.inquirer.com/resizer/v2/NUS52D4VQRALPK7EOOZFTV2WWY.jpg?auth=1b32611e11b1c39d09aaf711c50fea317f91959cba24fe28202de28fb2d5f300&width=760&height=507&smart=true",
-      "publishedAt": "2026-10-01T17:45:52Z",
-      "content": "Listen to article 0:00 min\r\nA suspect in the cheesesteak-throwing incident at Pats King of Steaks has turned himself in to police, according to reports by Fox29 and 6abc.\r\nCharges were pending Thursd… [+2732 chars]"
+      "author": "Gregory Schmidt",
+      "title": "As Mortgage Rates Hit Highest Level Since 2023, Buyers Look at ARMs",
+      "description": "The average 30-year, fixed-rate home loan rose to 7.28 percent, up from 6.34 percent a year ago. More buyers are now turning to adjustable-rate mortgages.",
+      "url": "https://www.nytimes.com/2026/10/01/business/adjustable-mortgage-rates.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/10/01/multimedia/2026-biz-sept-promos-oct1-mortgate/2026-biz-sept-promos-oct1-mortgate-mediumSquareAt3X-v3.png",
+      "publishedAt": "2026-10-01T18:18:37Z",
+      "content": "The average 30-year, fixed-rate home loan rose to 7.28 percent, up from 6.34 percent a year ago. More buyers are now turning to adjustable-rate mortgages."
     },
     {
       "source": {
@@ -788,55 +1181,133 @@
     },
     {
       "source": {
-        "id": "the-verge",
-        "name": "The Verge"
+        "id": "the-new-york-times",
+        "name": "The New York Times"
       },
-      "author": "Lauren Feiner",
-      "title": "NYC is now the first city in America that bans sketchy subscriptions - The Verge",
-      "description": "New York City’s click-to-cancel rule takes effect Oct. 1st, letting consumers submit complaints about deceptive subscription practices.",
-      "url": "https://www.theverge.com/policy/1003426/nyc-click-to-cancel-subscriptions-rule",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2294777879.jpg?quality=90&strip=all&crop=0%2C10.735424905768%2C100%2C78.529150188464&w=1200",
-      "publishedAt": "2026-10-01T14:49:25Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nA new consumer portal promises not to send complaints into a chatbot doom loop.\r\nA new consumer portal promises not to send complaints into a chatbot doom loop.\r… [+5151 chars]"
+      "author": "Seth Kugel",
+      "title": "Help! Air Canada Got Me to Europe, Then Stranded Me There.",
+      "description": "The airline helpfully rebooked a delayed traveler from Toronto, but failed to mention it had also canceled her return trip. She spent $800 to get home.",
+      "url": "https://www.nytimes.com/2026/10/01/travel/air-canada-canceled-flight.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/10/01/travel/01trippedup-aircanada-illo/01trippedup-aircanada-illo-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-10-01T17:20:06Z",
+      "content": "The airline helpfully rebooked a delayed traveler from Toronto, but failed to mention it had also canceled her return trip. She spent $800 to get home."
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "KTVI Fox 2 St. Louis"
+      },
+      "author": "FOX 2",
+      "title": "Starbucks closes 3 Missouri locations, including 2 in St. Louis area - FOX 2",
+      "description": null,
+      "url": "https://fox2now.com/news/missouri/starbucks-closes-3-missouri-locations-including-2-in-st-louis-area/",
+      "urlToImage": null,
+      "publishedAt": "2026-10-01T16:55:10Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Ana Swanson and Rebecca F. Elliott",
+      "title": "Trump Dangles Alaska Gas Project as Part of Korean Investment Package",
+      "description": "The long-delayed project, which the developer has not yet formally greenlit, would deliver Alaskan gas to Asian markets but take several years to construct.",
+      "url": "https://www.nytimes.com/2026/09/30/business/economy/alaska-lng-south-korea-trump.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/09/30/multimedia/30dc-trump-lng-pmfw/30dc-trump-lng-pmfw-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-10-01T13:49:51Z",
+      "content": "The long-delayed project, which the developer has not yet formally greenlit, would deliver Alaskan gas to Asian markets but take several years to construct."
     },
     {
       "source": {
         "id": null,
         "name": "Yahoo Entertainment"
       },
-      "author": "Michael B. Kelley",
-      "title": "Broadcom to lend Anthropic up to $42 billion to lease chips, in latest circular investing deal - Yahoo Finance",
-      "description": "Reuters, which got its hands on Anthropic's IPO prospectus, reports that the AI juggernaut's most notable partnership with big tech firms is with Broadcom.",
-      "url": "https://finance.yahoo.com/technology/article/broadcom-to-lend-anthropic-up-to-42-billion-to-lease-chips-in-latest-circular-investing-deal-121617505.html",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/878725f250718468d9a52001ce65bf646d8a917e973c88ca303b2273bd45f7e9/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fcd6d153b-ae9f-4d29-a697-a59b1c7093d2_f84368ace62bf60ff4f0a4816ed75864419a6808a2a8938a30f6c6b41a94a6cb.jpg",
-      "publishedAt": "2026-10-01T14:37:32Z",
-      "content": "Anthropic (ANTH.PVT) has inked a series of deals with tech heavyweights ranging from Amazon to Microsoft to both finance and provide computing capacity for the company's AI models.\r\nAll three have ra… [+2153 chars]"
+      "author": "Ines Ferré",
+      "title": "10-year Treasury yield posts biggest monthly gain since 2022: Chart of the Day - Yahoo Finance",
+      "description": "The bond market entered what is typically a historically weak month after the 10-year Treasury yield saw its biggest monthly move in four years.",
+      "url": "https://finance.yahoo.com/markets/article/10-year-treasury-yield-posts-biggest-monthly-gain-since-2022-chart-of-the-day-120201162.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/5ecf0732da4e8f35bdcf11d6678fb37192064dcd3b314f0920604879619ce5a2/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-10%2F1c97a5c0-6ef0-4513-be46-aa02d242a10b",
+      "publishedAt": "2026-10-01T13:34:03Z",
+      "content": "The bond market is entering a historically weak month, as the 10-year Treasury yield (^TNX) hovered near a 2002 high on Thursday after posting a seven-month streak of monthly increases.\r\nThe 10-year … [+2159 chars]"
     },
     {
       "source": {
-        "id": null,
-        "name": "FierceBiotech"
+        "id": "the-new-york-times",
+        "name": "The New York Times"
       },
-      "author": "James Waldron",
-      "title": "Foghorn lays off 40% of employees as Lilly cancer collab collapses over poor data - Fierce Biotech",
-      "description": "Foghorn Therapeutics is laying off 40% | Foghorn Therapeutics is laying off 40% of its workforce after a long-running collaboration with Eli Lilly collapsed over disappointing phase 1 data.",
-      "url": "https://www.fiercebiotech.com/ai-and-machine-learning/foghorn-lays-40-employees-lilly-collab-collapses-over-poor-data",
-      "urlToImage": "https://qtxasset.com/quartz/qcloud5/media/image/GettyImages-1254969290.jpg?VersionId=bfaxPI3Mbo1nV1ts4n..m5iTeynph2PP",
-      "publishedAt": "2026-10-01T12:36:03Z",
-      "content": null
+      "author": "Henry Leutwyler",
+      "title": "New York Times Reporting Through a Front Page That Never Published and More",
+      "description": "Times reporters and editors discuss items that have shaped our coverage, including Dean Baquet on the “Madam President” front page that never was.",
+      "url": "https://www.nytimes.com/2026/10/01/business/new-york-times-journalism-reporting-objects.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/08/10/multimedia/00-175-objects-lmfg/00-175-objects-lmfg-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-10-01T12:15:48Z",
+      "content": "Times reporters and editors discuss items that have shaped our coverage, including Dean Baquet on the “Madam President” front page that never was."
     },
     {
       "source": {
-        "id": "the-wall-street-journal",
-        "name": "The Wall Street Journal"
+        "id": "the-new-york-times",
+        "name": "The New York Times"
       },
-      "author": "Nick Timiraos",
-      "title": "Trump Says Inflation Could Pay Down the Debt ‘Very Rapidly’ - WSJ",
-      "description": "President Trump said “certain levels of inflation could help pay down the national debt “very rapidly” in an interview with Time magazine where he also said the Federal Reserve’s interest-rate policy is hurting the economy more than inflation is.Trump accused…",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-01-2026/card/trump-says-inflation-could-pay-down-the-debt-very-rapidly--S6mygMl76dzCeRzAm3vp",
-      "urlToImage": "https://images.wsj.net/im-07542536/social",
-      "publishedAt": "2026-10-01T09:06:00Z",
-      "content": "President Trump said certain levels of inflation\" could help pay down the national debt very rapidly in an interview with Time magazine where he also said the Federal Reserves interest-rate policy is… [+496 chars]"
+      "author": "David Yaffe-Bellany",
+      "title": "Inside Binance Founder Changpeng Zhao’s Life After Prison",
+      "description": "Changpeng Zhao, jailed in the United States for a financial crime and pardoned by President Trump, is now living a gilded life in the United Arab Emirates.",
+      "url": "https://www.nytimes.com/2026/10/01/business/changpeng-zhao-binance.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/10/01/multimedia/01biz-sun-cz-promo-fvwz/01biz-sun-cz-promo-fvwz-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-10-01T11:55:56Z",
+      "content": "Changpeng Zhao, jailed in the United States for a financial crime and pardoned by President Trump, is now living a gilded life in the United Arab Emirates."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Andrew Ross Sorkin, Bernhard Warner, Sarah Kessler, Michael J. de la Merced, Niko Gallogly, Brian O’Keefe, Sri Muppidi and Ian Mount",
+      "title": "The Global Bond Rout Reaches Worrying New Levels",
+      "description": "Investors are on alert as the yield on the 10-year Treasury note hit a new multi-decade high. The sell-off is also broadening in Europe, too.",
+      "url": "https://www.nytimes.com/2026/10/01/business/dealbook/bond-rout-trump-powell.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/10/01/multimedia/01db-trump-ztqc/01db-trump-ztqc-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-10-01T11:51:29Z",
+      "content": "Investors are on alert as the yield on the 10-year Treasury note hit a new multi-decade high. The sell-off is also broadening in Europe, too."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Peter Eavis, Gilad Thaler, Nikolay Nikolov, Rafaela Balster, Edward Vega and Jon Miller",
+      "title": "How Middle East Oil Exports Started Recovering",
+      "description": "Our business reporter Peter Eavis describes how oil exports from the Middle East have rebounded this month, getting closer to the levels seen before the Iran war.",
+      "url": "https://www.nytimes.com/video/business/100000011182407/how-middle-east-oil-exports-started-recovering.html",
+      "urlToImage": null,
+      "publishedAt": "2026-10-01T10:21:56Z",
+      "content": "Our business reporter Peter Eavis describes how oil exports from the Middle East have rebounded this month, getting closer to the levels seen before the Iran war."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Rebecca F. Elliott",
+      "title": "Oil Is Flowing From the Persian Gulf, but Prices Remain High. Why?",
+      "description": "Crude oil costs close to $100 a barrel because traders are worried hostilities could soon restart and the world is burning through its emergency stockpiles.",
+      "url": "https://www.nytimes.com/2026/10/01/business/energy-environment/oil-prices-iran-war-trump.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/10/01/multimedia/01biz-oil-price-zlhp/01biz-oil-price-zlhp-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-10-01T09:06:44Z",
+      "content": "Crude oil costs close to $100 a barrel because traders are worried hostilities could soon restart and the world is burning through its emergency stockpiles."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Quinn Glabicki",
+      "title": "When Data Centers Cluster Together, How Dirty Are They? One County Wants Answers.",
+      "description": "An unusual study aims to estimate the pollution and health costs from a cluster of proposed data centers, instead of considering each one separately.",
+      "url": "https://www.nytimes.com/2026/10/01/climate/data-center-pollution-study-pennsylvania.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/09/30/multimedia/30cli-data-center-pollution-vwgb/30cli-data-center-pollution-vwgb-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-10-01T09:02:57Z",
+      "content": "An unusual study aims to estimate the pollution and health costs from a cluster of proposed data centers, instead of considering each one separately."
     }
   ]
 }

@@ -1,6 +1,13 @@
 {
-  "status": "ok",
-  "totalResults": 68,
+  "source": "rss_fallback",
+  "country": "gb",
+  "category": "sports",
+  "providers": [
+    "newsapi",
+    "rss"
+  ],
+  "fetched_at": "2026-10-04T07:28:46.324117+00:00",
+  "articles_count": 68,
   "articles": [
     {
       "source": {
@@ -886,5 +893,6 @@
       "publishedAt": "2026-05-11T05:00:00Z",
       "content": "Why did the England football team not fulfill their potential at the World Cup?"
     }
-  ]
+  ],
+  "query": "sports match score tournament cricket football"
 }

@@ -2,10 +2,78 @@
   "source": "top_headlines",
   "country": "us",
   "category": "science",
-  "mode": "country",
-  "fetched_at": "2026-10-04T00:09:45.466547+00:00",
-  "articles_count": 62,
+  "providers": [
+    "newsapi",
+    "rss"
+  ],
+  "fetched_at": "2026-10-04T07:28:46.324117+00:00",
+  "articles_count": 94,
   "articles": [
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Carolyn Y. Johnson",
+      "title": "Scientists Untangle the Biology of an ‘Undruggable’ Cancer Gene",
+      "description": "Found in 70 percent of cancers, the gene is seen as a grand orchestrator, but has been surprisingly difficult to stop.",
+      "url": "https://www.nytimes.com/2026/10/02/science/scientists-untangle-the-biology-of-an-undruggable-cancer-gene.html",
+      "urlToImage": null,
+      "publishedAt": "2026-10-03T19:09:42Z",
+      "content": "Found in 70 percent of cancers, the gene is seen as a grand orchestrator, but has been surprisingly difficult to stop."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Taylor Mitchell Brown",
+      "title": "These Birds Are Louder Than Elephants, Jackhammers and Chain Saws",
+      "description": "A new study has identified two species of Brazilian birds, the bare-throated bellbird and the red-legged seriema, as the loudest in nature.",
+      "url": "https://www.nytimes.com/2026/10/03/science/loudest-birds.html",
+      "urlToImage": null,
+      "publishedAt": "2026-10-03T09:02:06Z",
+      "content": "A new study has identified two species of Brazilian birds, the bare-throated bellbird and the red-legged seriema, as the loudest in nature."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Brad Plumer",
+      "title": "California Sues to Block Trump From Weakening Fuel Economy Rules",
+      "description": "The lawsuit is the 97th the state has filed against the Trump administration over the past year and a half.",
+      "url": "https://www.nytimes.com/2026/10/02/climate/california-trump-administration-fuel-economy.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/10/02/multimedia/02cli-autoemissions-wklq/02cli-autoemissions-wklq-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-10-02T23:35:31Z",
+      "content": "The lawsuit is the 97th the state has filed against the Trump administration over the past year and a half."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Christina Jewett, Alice Callahan and Caroline Hopkins Legaspi",
+      "title": "F.D.A. Found Cyclospora During Taylor Farms Inspection in Mexico",
+      "description": "The discovery adds strong evidence that the outbreak that sickened thousands over the summer originated in a grower’s field or processing facility.",
+      "url": "https://www.nytimes.com/2026/10/02/health/cyclospora-taylor-farms-mexico.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/10/02/multimedia/02dc-cyclospora-vphc/02dc-cyclospora-vphc-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-10-02T22:25:24Z",
+      "content": "The discovery adds strong evidence that the outbreak that sickened thousands over the summer originated in a grower’s field or processing facility."
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Phys.Org"
+      },
+      "author": "Paul Arnold",
+      "title": "Scientists discover first type I superconductor that breaks time-reversal symmetry - phys.org",
+      "description": "Superconductors are materials that conduct electricity with no resistance and expel magnetic fields when cooled to ultralow temperatures. And depending on their quantum structure, they can also showcase strange properties like magnetic levitation. But now thi…",
+      "url": "https://phys.org/news/2026-10-scientists-superconductor-reversal-symmetry.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/scientists-discover-a-19.jpg",
+      "publishedAt": "2026-10-02T21:00:01Z",
+      "content": "Superconductors are materials that conduct electricity with no resistance and expel magnetic fields when cooled to ultralow temperatures. And depending on their quantum structure, they can also showc… [+3631 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -31,6 +99,71 @@
       "urlToImage": "https://www.gbnews.com/media-library/the-exomars-rosalind-franklin-rover.jpg?id=68036692&width=1200&height=600&coordinates=0%2C1475%2C0%2C1858",
       "publishedAt": "2026-10-02T19:40:48Z",
       "content": "A British-constructed Mars rover is poised to become the first spacecraft to bore two metres beneath the Martian surface in search of ancient biological traces.\r\nThe ExoMars \"Rosalind Franklin\" rover… [+3779 chars]"
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Brad Plumer",
+      "title": "States Sue Over Trump’s Repeal of Climate Rules for Power Plants",
+      "description": "The mostly Democratic-led states say that the E.P.A. acted unlawfully when it erased Biden-era limits on carbon dioxide from coal- and gas-fired plants.",
+      "url": "https://www.nytimes.com/2026/10/01/climate/states-sue-epa-power-plant-trump.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/10/01/multimedia/01cli-epa-lawsuit-kqvc/01cli-epa-lawsuit-kqvc-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-10-02T19:22:49Z",
+      "content": "The mostly Democratic-led states say that the E.P.A. acted unlawfully when it erased Biden-era limits on carbon dioxide from coal- and gas-fired plants."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Adam Sella, Christopher Flavelle and Irena Hwang",
+      "title": "National Science Foundation Diverted $1.4 Billion in Science Funds Mandated by Congress",
+      "description": "The move, affecting about one-fifth of the National Science Foundation’s primary research budget, is the latest sign of how the White House is asserting more control over grants.",
+      "url": "https://www.nytimes.com/2026/10/02/us/politics/national-science-foundation-research-funds.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/10/01/multimedia/00dc-nsf-funding-qlvb/00dc-nsf-funding-qlvb-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-10-02T18:41:42Z",
+      "content": "The move, affecting about one-fifth of the National Science Foundation’s primary research budget, is the latest sign of how the White House is asserting more control over grants."
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Teslarati"
+      },
+      "author": "Gene",
+      "title": "SpaceX’s midnight spy satellite launch quietly set a new record - Teslarati",
+      "description": "Falcon Heavy launched its first NRO mission while SpaceX landed four boosters in one day.",
+      "url": "https://www.teslarati.com/spacexs-spy-satellite-launch-quietly-set-a-new-record/",
+      "urlToImage": "https://www.teslarati.com/wp-content/uploads/2026/10/spacex-falcon-heavy-nrol-mission-1000x600.jpg",
+      "publishedAt": "2026-10-02T18:11:35Z",
+      "content": "Tesla Full Self-Driving is set to receive improvements to address its two biggest issues, according to a company engineer.\r\nDirector of Engineering at Tesla AI, Phil Duan, revealed in a post on X tha… [+3199 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Phys.Org"
+      },
+      "author": null,
+      "title": "Animals may have evolved vastly earlier than fossil evidence suggests - Phys.org",
+      "description": "The earliest animals may have evolved hundreds of millions of years before their first unmistakable fossils appear in the fossil record, according to a new study led by the University of Oxford. The findings, published in Science Advances, suggest animals may…",
+      "url": "https://phys.org/news/2026-10-animals-evolved-vastly-earlier-fossil.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/new-study-suggests-ani.jpg",
+      "publishedAt": "2026-10-02T18:00:13Z",
+      "content": "The earliest animals may have evolved hundreds of millions of years before their first unmistakable fossils appear in the fossil record, according to a new study led by the University of Oxford. The … [+7021 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Phys.Org"
+      },
+      "author": "Paul Arnold",
+      "title": "Ancient sea levels reveal when the Earth's poles went wandering - Phys.org",
+      "description": "Earth's poles do not always stay in the same place. For example, a region once near the North Pole can end up near the equator, and an area near the equator can shift up toward the pole. This is known as true polar wander (TPW), and it's when Earth's crust an…",
+      "url": "https://phys.org/news/2026-10-ancient-sea-reveal-earth-poles.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/ancient-sea-levels-rev.jpg",
+      "publishedAt": "2026-10-02T17:20:03Z",
+      "content": "Earth's poles do not always stay in the same place. For example, a region once near the North Pole can end up near the equator, and an area near the equator can shift up toward the pole. This is know… [+3561 chars]"
     },
     {
       "source": {
@@ -60,6 +193,32 @@
     },
     {
       "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Danny Hakim",
+      "title": "What Is Out There? The Findings So Far of a Trump-Backed U.F.O. Panel.",
+      "description": "Uncovering evidence of alien life would be “the biggest discovery ever made by humanity,” one expert said. But so far, there’s a lot of blurry photos and unconfirmed reports.",
+      "url": "https://www.nytimes.com/2026/10/02/us/trump-ufo-files-uap-council.html",
+      "urlToImage": null,
+      "publishedAt": "2026-10-02T14:40:54Z",
+      "content": "Uncovering evidence of alien life would be “the biggest discovery ever made by humanity,” one expert said. But so far, there’s a lot of blurry photos and unconfirmed reports."
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Nautil.us"
+      },
+      "author": "Devin Reese",
+      "title": "There’s a New Sea Spider in Town - Nautilus | Science Connected",
+      "description": "Just when you think sea spiders couldn’t get any more unique…",
+      "url": "https://nautil.us/theres-a-new-sea-spider-in-town-1285470",
+      "urlToImage": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/10/callipallene-pilosuspedes-credit_-cormac-toler-scott.jpg",
+      "publishedAt": "2026-10-02T14:00:00Z",
+      "content": "What has hairy feet, legs dotted with eggs, and a mouth loaded with tentacles like a Sarlacc from Star Wars? \r\nThats how researchers from the University of British Columbia describe seven such creatu… [+2437 chars]"
+    },
+    {
+      "source": {
         "id": null,
         "name": "Space.com"
       },
@@ -70,6 +229,19 @@
       "urlToImage": "https://cdn.mos.cms.futurecdn.net/VVRr5TewwxfnzDwyauRuLU.gif",
       "publishedAt": "2026-10-02T14:00:00Z",
       "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Boredpanda.com"
+      },
+      "author": "Linas Jokubaitis",
+      "title": "Galaxy Rotation Brings Scientists To The Conclusion That Our Entire Universe Is Inside A Black Hole - Bored Panda",
+      "description": "The universe may be 13.8 billion years old, but there’s still plenty we don’t understand about the cosmos. A researcher analyzing observations from the James Webb Space Telescope has spotted a puzzling pattern in how distant galaxies rotate. The finding has r…",
+      "url": "https://www.boredpanda.com/universe-black-hole-discovery/",
+      "urlToImage": "https://static.boredpanda.com/blog/wp-content/uploads/2026/10/universe-black-hole-discovery-fb20.jpg",
+      "publishedAt": "2026-10-02T13:14:02Z",
+      "content": "At roughly 13.8 billion years old, the universe has never exactly been short on mysteries. Countless generations had little means of understanding what lay beyond our world, relying instead on myths … [+7167 chars]"
     },
     {
       "source": {
@@ -217,6 +389,19 @@
     {
       "source": {
         "id": null,
+        "name": "Post Magazine"
+      },
+      "author": null,
+      "title": "Singapore builds world’s most accurate atomic clock, leaves US and China in dust - South China Morning Post",
+      "description": "The decade-long project could help to pave the way for a redefinition of the second, researchers claim in a new paper.",
+      "url": "https://www.scmp.com/news/china/science/article/3369532/david-vs-goliaths-singapore-builds-most-accurate-clock-ever-leaves-us-and-china-dust",
+      "urlToImage": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/10/02/216a3dbd-8fa1-4163-8287-1b65a8cba7a8_9fdd02b7.jpg?itok=dli5Ssmu&v=1790921653",
+      "publishedAt": "2026-10-02T08:00:11Z",
+      "content": "A small Singaporean research team has beaten scientists in China and the United States to build the worlds most accurate atomic clock.\r\nThe clock, built with a single ion of a rare earth metal elemen… [+392 chars]"
+    },
+    {
+      "source": {
+        "id": null,
         "name": "Gizmodo.com"
       },
       "author": "Ellyn Lapointe",
@@ -230,15 +415,28 @@
     {
       "source": {
         "id": null,
-        "name": "ScienceAlert"
+        "name": "collectSPACE.com"
       },
-      "author": "Ivan Farkas",
-      "title": "Physicists Find a Superconductor That 'Breaks' The Symmetry of Time – A First For Its Kind - ScienceAlert",
-      "description": "Under certain conditions – such as bone-brittling temperatures lower than that of deep space – superconductors can conduct electricity without resistance and resultant energy loss.  Though they vary in their chemical composition, operational temperature range…",
-      "url": "https://www.sciencealert.com/physicists-find-a-superconductor-that-breaks-the-symmetry-of-time-a-first-for-its-kind",
-      "urlToImage": "https://www.sciencealert.com/images/2026/10/TimeSymmetry.jpg",
-      "publishedAt": "2026-10-02T00:27:09Z",
-      "content": "Under certain conditions such as bone-brittling temperatures lower than that of deep space superconductors can conduct electricity without resistance and resultant energy loss. \r\nThough they vary in … [+5539 chars]"
+      "author": null,
+      "title": "Houston, we have a golden dragon: Crew-13's 'Lucky' zero-g indicator - collectSPACE.com",
+      "description": "Joshua Kutryk could not quite fathom he had left the planet. And yet all he needed to do to verify that he was in orbit for himself was to locate \"Lucky,\" his and his Crew-13 crewmates' Apollo 13-inspired, crocheted golden dragon zero-g indicator.",
+      "url": "https://www.collectspace.com/news/news-100126a-spacex-crew-13-lucky-dragon-zero-g-indicator.html",
+      "urlToImage": "https://www.collectspace.com/images/news-100126a-fb.jpg",
+      "publishedAt": "2026-10-02T01:55:31Z",
+      "content": "October 1, 2026\r\n — Joshua Kutryk could not quite fathom he had left the planet.\r\nA mission specialist on SpaceX's Crew-13 flight to the International Space Station, Kutryk stated his disbelief just … [+3841 chars]"
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Benjamin Mueller and Shaila Dewan",
+      "title": "How Did Christa Pike Survive Two Lethal Injections of Pentobarbital?",
+      "description": "A catheter carrying the drug may not have delivered the doses to Ms. Pike’s bloodstream, experts said. The drug itself may have been degraded.",
+      "url": "https://www.nytimes.com/2026/10/01/science/pike-execution-pentobarbital.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/10/01/multimedia/01sci-pentobarbital-vckq/01sci-pentobarbital-vckq-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-10-01T22:30:28Z",
+      "content": "A catheter carrying the drug may not have delivered the doses to Ms. Pike’s bloodstream, experts said. The drug itself may have been degraded."
     },
     {
       "source": {
@@ -252,6 +450,58 @@
       "urlToImage": "https://cdn.sci.news/images/2026/10/image_15104f-Dongoconodon-platycauda.jpg",
       "publishedAt": "2026-10-01T22:29:50Z",
       "content": "Dongoconodon platycauda, a small eutriconodontan mammal that lived alongside dinosaurs in what is now northeastern China paddled through the water with webbed, platypus-like hands and feet, and repla… [+4102 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ScienceAlert"
+      },
+      "author": "Jess Cockerill",
+      "title": "Revolutionary Feathered Dinosaur Discovery in China Suggests Flight Evolved Multiple Times - ScienceAlert",
+      "description": "An exquisitely preserved feathered raptor just discovered in north-eastern China could probably fly.",
+      "url": "https://www.sciencealert.com/discovery-of-exquisite-feathered-dinosaur-in-china-could-rewrite-the-evolution-of-flight",
+      "urlToImage": "https://www.sciencealert.com/images/2026/09/41467_2026_77804_Fig5_HTML-2560x1440-1.jpg",
+      "publishedAt": "2026-10-01T22:02:09Z",
+      "content": "An exquisitely preserved feathered raptor just discovered in north-eastern China could probably fly. \r\nIt's also somewhat disrupted the evolutionary path we thought birds took to get into the air.\r\nN… [+3327 chars]"
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Andrew Jacobs",
+      "title": "Cornell’s Jane Doe Said She Was Given Ketamine. Here’s How the Drug Works.",
+      "description": "Ketamine is a short-acting anesthetic that can have hallucinogenic effects. It is becoming more easily available, and some experts fear misuse is increasing.",
+      "url": "https://www.nytimes.com/2026/09/30/science/cornell-rape-ketamine.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/09/30/multimedia/30sci-ketamine-01-vjzf/30sci-ketamine-01-vjzf-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-10-01T21:08:47Z",
+      "content": "Ketamine is a short-acting anesthetic that can have hallucinogenic effects. It is becoming more easily available, and some experts fear misuse is increasing."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Claire Brown",
+      "title": "The MacArthur ‘Genius’ Studying Sea Ice Secrets",
+      "description": "A climate scientist was one of 20 recipients of a “no-strings-attached” $800,000 stipend.",
+      "url": "https://www.nytimes.com/2026/10/01/climate/climate-science-macarthur.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/10/01/multimedia/01cli-newsletter-macarthur-pbzm/01cli-newsletter-macarthur-pbzm-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-10-01T20:06:37Z",
+      "content": "A climate scientist was one of 20 recipients of a “no-strings-attached” $800,000 stipend."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Clarence Williams",
+      "title": "Prosecutors Cannot Revive Reflecting Pool Case Against Ex-Olympian, Judge Rules",
+      "description": "A charge against David Hearn was dismissed “with prejudice” because of President Trump’s attempts to influence the case.",
+      "url": "https://www.nytimes.com/2026/10/01/climate/david-hearn-reflecting-pool-charges-dropped.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/10/01/multimedia/01cli-hearn-01-mglj/01cli-hearn-01-mglj-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-10-01T19:51:40Z",
+      "content": "A charge against David Hearn was dismissed “with prejudice” because of President Trump’s attempts to influence the case."
     },
     {
       "source": {
@@ -295,15 +545,28 @@
     {
       "source": {
         "id": null,
-        "name": "Gizmodo.com"
+        "name": "Medical Xpress"
       },
-      "author": "Gayoung Lee",
-      "title": "Earth Tipped on Its Side During the Age of Dinosaurs—and Not Just Once - Gizmodo",
-      "description": "When Earth tips over to restore its rotational balance, sea levels shift around the globe—episodes scientists have now traced to the age of dinosaurs.",
-      "url": "https://gizmodo.com/earth-tipped-on-its-side-during-the-age-of-dinosaurs-and-not-just-once-2000820281",
-      "urlToImage": "https://gizmodo.com/app/uploads/2026/10/earth-from-space-wide-beauty-shot-1200x675.jpg",
-      "publishedAt": "2026-10-01T18:00:25Z",
-      "content": "Earth is definitely not flat, but its not perfectly spherical, either. Due to its constant rotation, our Earth is closer to a squashed elliptoid. What this also means is that occasionally, the geogra… [+4725 chars]"
+      "author": null,
+      "title": "How loss of the critical tumor suppressor p53 enables mutant cells to expand through normal tissue - Medical Xpress",
+      "description": "A protein known as p53 is, of all tumor suppressors in human cancer, the most frequently altered by gene mutations. When mutations cause it to be absent or nonfunctional, its loss can allow populations of mutant cells to expand through normal tissue. Research…",
+      "url": "https://medicalxpress.com/news/2026-10-loss-critical-tumor-suppressor-p53.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2022/gene-mutation.jpg",
+      "publishedAt": "2026-10-01T18:00:24Z",
+      "content": "A protein known as p53 is, of all tumor suppressors in human cancer, the most frequently altered by gene mutations. When mutations cause it to be absent or nonfunctional, its loss can allow populatio… [+4749 chars]"
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Raymond Zhong",
+      "title": "See How El Niño Is Washing Ashore in California",
+      "description": "An enormous pulse of wave energy will soon reach Southern California and continue north, raising sea levels by half a foot and increasing threats from swells and tides.",
+      "url": "https://www.nytimes.com/2026/09/30/climate/el-nino-storm-flooding-kelvin-waves.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/09/30/multimedia/30cli-elnino-wave-fzkw/30cli-elnino-wave-fzkw-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-10-01T17:38:20Z",
+      "content": "An enormous pulse of wave energy will soon reach Southern California and continue north, raising sea levels by half a foot and increasing threats from swells and tides."
     },
     {
       "source": {
@@ -321,32 +584,6 @@
     {
       "source": {
         "id": null,
-        "name": "ZME Science"
-      },
-      "author": "Tudor Tarita",
-      "title": "Out-of-Body Experiment: Researchers Asked People to See Remotely Into Another Room. Things Got Weird - ZME Science",
-      "description": "The controlled test failed, but two participants made strange, unplanned observations.",
-      "url": "https://www.zmescience.com/science/news-science/out-of-body-experiment-remote-viewing/",
-      "urlToImage": "https://cdn.zmescience.com/wp-content/uploads/2026/10/pexels-mediocrememories-4486675.jpg",
-      "publishedAt": "2026-10-01T17:11:53Z",
-      "content": "Credit: Pexels\r\nLook with your minds eye and you may start visualizing different environments and perspectives.\r\nBut most probably, youll see what your brain expects you to see.\r\nThat, at least, is t… [+5893 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Futurism"
-      },
-      "author": "Victor Tangermann",
-      "title": "NASA Telescope Careening Down to Earth After Failed Rescue Mission - Futurism",
-      "description": "NASA's Swift observatory's recent \"return to science\" has caused it to \"resume its rapid sinking,\" bringing it closer to its demise.",
-      "url": "https://futurism.com/space/nasa-telescope-careening-earth-failed-rescue-mission",
-      "urlToImage": "https://futurism.com/wp-content/uploads/2026/10/nasa-telescope-careening-earth-failed-rescue-mission.jpg?w=1200",
-      "publishedAt": "2026-10-01T17:06:03Z",
-      "content": "Can’t-miss innovations from the bleeding edge of science and tech\r\nIt was an extremely ambitious mission with the best of intentions.\r\nWith the help of contractor Katalyst Space Technologies, NASA la… [+2821 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "Live Science"
       },
       "author": "Benjamin Skuse",
@@ -359,16 +596,16 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "Space.com"
+        "id": "the-new-york-times",
+        "name": "The New York Times"
       },
-      "author": "Chelsea Gohd",
-      "title": "Mars rover explores 'Wild West' on the Red Planet photo of the day for Oct. 1, 2026 - Space",
-      "description": "\"Lac de Charmes\" is charming (and full of scientific intrigue).",
-      "url": "https://www.space.com/astronomy/mars/mars-rover-explores-wild-west-on-the-red-planet-space-photo-of-the-day-for-oct-1-2026",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/ffUWTe4NiZSMRh7Bn3ppWD-1920-80.png",
-      "publishedAt": "2026-10-01T14:00:00Z",
-      "content": null
+      "author": "Cade Metz",
+      "title": "A Hacking Competition Shows the Power of China’s Approach to A.I.",
+      "description": "The winner of a cybersecurity contest prevailed by relying on an ‘open weight’ Chinese model — another sign that available A.I. systems could already be too powerful to easily regulate.",
+      "url": "https://www.nytimes.com/2026/10/01/science/hackerone-tenzai-china-open-weights.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/10/01/multimedia/01sci-open-hacking-mcvp/01sci-open-hacking-mcvp-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-10-01T13:43:23Z",
+      "content": "The winner of a cybersecurity contest prevailed by relying on an ‘open weight’ Chinese model — another sign that available A.I. systems could already be too powerful to easily regulate."
     },
     {
       "source": {
@@ -399,19 +636,6 @@
     {
       "source": {
         "id": null,
-        "name": "Space.com"
-      },
-      "author": "Mike Wall",
-      "title": "SpaceX's powerful Falcon Heavy rocket launching secret US spy mission tonight: Watch it live - Space",
-      "description": "NROL-97 was the third SpaceX launch in less than 13 hours.",
-      "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-falcon-heavy-nro-97-spy-satellite-launch",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/Q6kzPVRKYZuBozKJNc9AXe-2560-80.jpg",
-      "publishedAt": "2026-10-01T12:00:00Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
         "name": "Gizmodo.com"
       },
       "author": "Gayoung Lee",
@@ -421,6 +645,19 @@
       "urlToImage": "https://gizmodo.com/app/uploads/2026/09/DESI-Map-3D-Universe-Complete-laurel-added-450-1200x675.jpg",
       "publishedAt": "2026-10-01T11:30:17Z",
       "content": "The DESI Collaboration is a winner of the 2026 Gizmodo Science Fair for greatly advancing our understanding of how the universe began, evolved, and will continue to grow in the future.\r\nThe question\r… [+8444 chars]"
+    },
+    {
+      "source": {
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "author": "Stephen Clark",
+      "title": "NASA squeezed Treasury, vibe coded, and broke the mold in bid to save Swift - Ars Technica",
+      "description": "We did some really, really cool stuff. I'm absolutely gutted we weren't able to get further.\"",
+      "url": "https://arstechnica.com/space/2026/10/heres-why-nasa-is-celebrating-the-failed-mission-to-save-the-swift-observatory/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/Testing-Link-Thermal-Vacuum-Testing-2._3382x1892-1152x648.jpg",
+      "publishedAt": "2026-10-01T11:15:15Z",
+      "content": null
     },
     {
       "source": {
@@ -460,19 +697,6 @@
       "urlToImage": "https://assets.iflscience.com/assets/articleNo/84740/aImg/92877/var-1-meta.png",
       "publishedAt": "2026-10-01T09:50:24Z",
       "content": "Humanity has been on a long journey of discovering that the universe we find ourselves in is far bigger than we could possibly imagine. From discovering that Earth is not the only planet, to working … [+5492 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "BBC News"
-      },
-      "author": null,
-      "title": "Nasa heads to Scottish Highlands in its search for life on Mars - BBC",
-      "description": "The US space agency says ancient rocks at Clachtoll have similarities to those on the Red Planet.",
-      "url": "https://www.bbc.com/news/articles/c5gmr3309p7jo",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/4fcc/live/1f400b70-bd6a-11f1-9513-05ca1cec8073.jpg",
-      "publishedAt": "2026-10-01T08:57:33Z",
-      "content": "Several of the names were taken from Scotland and, as well as Torridon, there is a Siccar Point, Muck, Wick, Sandwick and Holyrood on Mars."
     },
     {
       "source": {
@@ -519,12 +743,12 @@
         "name": "Nature.com"
       },
       "author": null,
-      "title": "Butterfly wing patterns in flight create powerful illusory motion cues - Nature",
-      "description": "Butterfly wing patterns and flight dynamics work in tandem to create powerful visual illusions that confuse predators, potentially representing one of the most successful visual defence strategies in moving animals.",
-      "url": "https://www.nature.com/articles/s41586-026-11062-w",
-      "urlToImage": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-11062-w/MediaObjects/41586_2026_11062_Fig1_HTML.png",
+      "title": "Evolution of terrestrial anatomy revealed by a derived stem tetrapod - Nature",
+      "description": "New anatomical evidence reclassifies Westlothiana as an aquatic stem tetrapod, showing that terrestrial limb adaptations evolved mosaically in transitional amphibious environments before crown tetrapods emerged.",
+      "url": "https://www.nature.com/articles/s41586-026-11090-6",
+      "urlToImage": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-11090-6/MediaObjects/41586_2026_11090_Fig1_HTML.png",
       "publishedAt": "2026-09-30T23:17:28Z",
-      "content": "Temporally fluid motion measures\r\nTo quantify the influence of butterfly wings and their patterns on motion detection, we used a custom-written biologically informed EMD28,45, using ImageJ. The model… [+38473 chars]"
+      "content": "<li>Ahlberg, P. E. Elginerpeton pancheni and the earliest tetrapod clade. Nature373, 420425 (1995).\r\nArticle \r\n ADS \r\n CAS \r\nGoogle Scholar \r\n</li><li>Ahlberg, P. E. Postcranial stem tetrapod remains… [+15810 chars]"
     },
     {
       "source": {
@@ -567,6 +791,19 @@
     },
     {
       "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Gina Kolata",
+      "title": "Clues to Why a Breakthrough Pancreatic Cancer Drug Eventually Stops Working",
+      "description": "Researchers are asking why patients, like former Senator Ben Sasse, inevitably develop resistance to the drug daraxonrasib.",
+      "url": "https://www.nytimes.com/2026/09/30/science/pancreatic-cancer-drug-daraxonrasib-ben-sasse-resistance.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/09/30/multimedia/30sci-sasse-cancer-ljfm/30sci-sasse-cancer-ljfm-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-09-30T17:48:56Z",
+      "content": "Researchers are asking why patients, like former Senator Ben Sasse, inevitably develop resistance to the drug daraxonrasib."
+    },
+    {
+      "source": {
         "id": null,
         "name": "Phys.Org"
       },
@@ -577,6 +814,19 @@
       "urlToImage": "https://scx2.b-cdn.net/gfx/news/2026/using-three-dimensiona.jpg",
       "publishedAt": "2026-09-30T17:40:26Z",
       "content": "By superimposing two ultrashort laser pulses that converge from different directions, a team of physicists at the University of Oldenburg has succeeded in generating three-dimensional light fields.\r\n… [+4336 chars]"
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Victor Mather",
+      "title": "Viper Image That Caused Alarm in California Was A.I.-Generated",
+      "description": "A Gaboon viper, a venomous snake native to equatorial regions of Africa, was supposedly photographed in a tree in Santa Ana, Calif. How could that be? Well, it turns out it wasn’t.",
+      "url": "https://www.nytimes.com/2026/09/30/us/santa-ana-viper-snake-ai-fake.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/09/30/multimedia/30xp-viper-swap-tmlk/30xp-viper-swap-tmlk-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-09-30T17:28:15Z",
+      "content": "A Gaboon viper, a venomous snake native to equatorial regions of Africa, was supposedly photographed in a tree in Santa Ana, Calif. How could that be? Well, it turns out it wasn’t."
     },
     {
       "source": {
@@ -616,6 +866,19 @@
       "urlToImage": "https://www.quantamagazine.org/wp-content/uploads/2026/09/Thought-Geometry-cr.Mark-Belan-Social.jpg",
       "publishedAt": "2026-09-30T14:53:28Z",
       "content": "I get out of bed. I walk through the dimly lit hallway, thinking of whats in my fridge and what I should have for breakfast. With no real effort, Ive navigated my environment, accessed my memory, and… [+12334 chars]"
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Gina Kolata",
+      "title": "New Cancer Drugs Are Revolutionary. Why Don’t More Patients Get Them?",
+      "description": "Targeted gene therapies are highly effective at stopping cancers, but the very abundance of the treatments, plus cost and sluggish change, are hindering access.",
+      "url": "https://www.nytimes.com/2026/09/30/science/new-cancer-drugs-are-revolutionary-why-dont-more-patients-get-them.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/09/16/multimedia/00Sci-cancer-shortfall-01-fjwh/00Sci-cancer-shortfall-01-fjwh-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-09-30T14:02:22Z",
+      "content": "Targeted gene therapies are highly effective at stopping cancers, but the very abundance of the treatments, plus cost and sluggish change, are hindering access."
     },
     {
       "source": {
@@ -659,19 +922,6 @@
     {
       "source": {
         "id": null,
-        "name": "Thedebrief.org"
-      },
-      "author": "Christopher Plain, Christopher Plain",
-      "title": "Forget Solar Panels: There’s a Whole New Way to Convert Sunlight into Energy - The Debrief",
-      "description": "Scientists exploring methods for converting sunlight to useable electricity have found a hydrogen-based alternative to solar panels.",
-      "url": "https://thedebrief.org/forget-solar-panels-theres-a-whole-new-way-to-convert-sunlight-into-energy/",
-      "urlToImage": "https://thedebrief.b-cdn.net/wp-content/uploads/2026/09/COVER-RESIZE-kanenori-mount-fuji-2297961.jpg",
-      "publishedAt": "2026-09-30T12:47:00Z",
-      "content": "Oregon State University researchers have developed a new family of advanced materials that convert water into energy-producing hydrogen using only sunlight, offering a potential clean-energy alternat… [+4134 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "Thebrighterside.news"
       },
       "author": "Joseph Shavit, Shy Cohen",
@@ -685,6 +935,19 @@
     {
       "source": {
         "id": null,
+        "name": "Science Daily"
+      },
+      "author": null,
+      "title": "NASA's Perseverance Mars rover finds groundwater, lakes, and hot fluids in one place - ScienceDaily",
+      "description": "NASA’s Perseverance rover has uncovered a surprisingly complicated history of water in Jezero Crater. Scientists expected the crater’s Margin Unit to contain lake sediments, but instead found ancient igneous rocks that were altered by water on at least three …",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260928100537.htm",
+      "urlToImage": "https://www.sciencedaily.com/images/1920/jezero-crater-mars.webp",
+      "publishedAt": "2026-09-30T11:48:20Z",
+      "content": "A new study suggests that Jezero Crater's mysterious \"Margin Unit\" records a far more complicated history of water than scientists expected, involving ancient lakes, groundwater, and later hydrotherm… [+5988 chars]"
+    },
+    {
+      "source": {
+        "id": null,
         "name": "Nature.com"
       },
       "author": null,
@@ -694,6 +957,45 @@
       "urlToImage": "https://media.nature.com/lw1200/magazine-assets/d41586-026-02965-9/d41586-026-02965-9_53758248.jpg",
       "publishedAt": "2026-09-30T11:33:56Z",
       "content": "Its peak spawning time for coral in the Caribbean Sea and theres something new in the water this year. Underwater speakers at several locations are serenading clouds of floating larvae as they search… [+8298 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Space.com"
+      },
+      "author": "Daisy Dobrijevic",
+      "title": "Draconid meteor shower 2026 — When, where and how to see it - Space",
+      "description": "Good news! The Draconid meteor shower peaks under almost moonless skies on Oct. 8-9.",
+      "url": "https://www.space.com/draconid-meteor-shower-2026-guide-where-when-how-to-see-draconids",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/wzwyhWnK5weUqCEDfsKzAm-2115-80.jpg",
+      "publishedAt": "2026-09-30T08:26:16Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Robin George Andrews and Nataliia Novosolova",
+      "title": "Ukrainian Science Academy, Struck by Drone, Played Key Role in Research",
+      "description": "Over 90 percent of Ukraine’s scientific discoveries have been attributed to Ukraine’s National Academy of Sciences, including advancements in astronomy and military technology.",
+      "url": "https://www.nytimes.com/2026/09/29/science/ukraine-science-academy-russia-attack.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/09/29/multimedia/29sci-ukraine-science-wgmp/29sci-ukraine-science-wgmp-mediumSquareAt3X-v2.jpg",
+      "publishedAt": "2026-09-29T19:55:21Z",
+      "content": "Over 90 percent of Ukraine’s scientific discoveries have been attributed to Ukraine’s National Academy of Sciences, including advancements in astronomy and military technology."
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Phys.Org"
+      },
+      "author": null,
+      "title": "A new family of materials for efficiently converting sunlight into clean energy - Phys.org",
+      "description": "Researchers at Oregon State University have developed a new family of materials that use light to produce hydrogen from water, opening the door to new ways of converting the sun's rays into clean energy.",
+      "url": "https://phys.org/news/2026-09-family-materials-efficiently-sunlight-energy.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/sunlight.jpg",
+      "publishedAt": "2026-09-29T19:40:01Z",
+      "content": "Researchers at Oregon State University have developed a new family of materials that use light to produce hydrogen from water, opening the door to new ways of converting the sun's rays into clean ene… [+4122 chars]"
     },
     {
       "source": {
@@ -736,16 +1038,42 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "ScienceAlert"
+        "id": "the-new-york-times",
+        "name": "The New York Times"
       },
-      "author": "Michelle Starr",
-      "title": "A Black Hole Could Spit Itself Out of Its Own Hair, Leaving a Boson Star in Its Wake - ScienceAlert",
-      "description": "If anything is forever in this Universe, it's black holes – or so their physics suggests.",
-      "url": "https://www.sciencealert.com/a-black-hole-could-spit-itself-out-of-its-own-hair-leaving-a-boson-star-in-its-wake",
-      "urlToImage": "https://www.sciencealert.com/images/2026/09/BlackHoleHair.jpg",
-      "publishedAt": "2026-09-29T15:04:43Z",
-      "content": "If anything is forever in this Universe, it's black holes or so their physics suggests.\r\nThese ultra-dense objects are possessed of inexorable gravitational fields. Matter goes in. Very little ever c… [+7649 chars]"
+      "author": "Brad Plumer",
+      "title": "Tennessee Valley Authority Gets Approval to Build Small Nuclear Reactor",
+      "description": "It’s only the second time that American regulators have approved a next-generation commercial reactor for construction. Big hurdles remain.",
+      "url": "https://www.nytimes.com/2026/09/29/climate/nuclear-reactor-tennessee-valley-authority.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/09/29/multimedia/29cli-tva-nuclear-fmhk/29cli-tva-nuclear-fmhk-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-09-29T18:09:37Z",
+      "content": "It’s only the second time that American regulators have approved a next-generation commercial reactor for construction. Big hurdles remain."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Carl Zimmer",
+      "title": "This Virus Stole a Human Gene and Won’t Let Go of It",
+      "description": "Scientists have found a human gene lurking in a virus that causes skin infections. It may be using our own DNA to infect us.",
+      "url": "https://www.nytimes.com/2026/09/28/science/virus-molluscum-human-gene.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/09/25/science/00SCI-VIRUS/00SCI-VIRUS-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-09-29T16:34:35Z",
+      "content": "Scientists have found a human gene lurking in a virus that causes skin infections. It may be using our own DNA to infect us."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Brad Plumer and Maxine Joselow",
+      "title": "Trump Sharply Scales Back Fuel Economy Rules for New Cars",
+      "description": "The move marked the final step in the administration’s efforts to dismantle policies aimed at speeding the shift to electric vehicles.",
+      "url": "https://www.nytimes.com/2026/09/28/climate/trump-gas-cars-mileage-standards.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/09/28/multimedia/28cli-auto-mileage-mpkw/28cli-auto-mileage-mpkw-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-09-29T16:32:26Z",
+      "content": "The move marked the final step in the administration’s efforts to dismantle policies aimed at speeding the shift to electric vehicles."
     },
     {
       "source": {
@@ -762,6 +1090,45 @@
     },
     {
       "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Azeen Ghorayshi and Andrew Jacobs",
+      "title": "V.A. Institutes New Consent Requirements for Some Psychiatric Drugs",
+      "description": "Veterans under 30 will have to sign forms before being given antidepressants. Medical groups fear the moves may stigmatize mental health treatment.",
+      "url": "https://www.nytimes.com/2026/09/28/science/veterans-psychiatric-drugs-consent.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/09/28/science/00sci-veterans-consent/00sci-veterans-consent-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-09-29T12:39:22Z",
+      "content": "Veterans under 30 will have to sign forms before being given antidepressants. Medical groups fear the moves may stigmatize mental health treatment."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Awais Aftab",
+      "title": "What If A.D.H.D. Isn’t About Attention at All?",
+      "description": "Evidence suggests that it really affects what psychiatrists like me call sustained engagement — an important difference in understanding how to think about the condition.",
+      "url": "https://www.nytimes.com/2026/09/29/science/adhd-attention-motivation.html",
+      "urlToImage": null,
+      "publishedAt": "2026-09-29T09:20:40Z",
+      "content": "Evidence suggests that it really affects what psychiatrists like me call sustained engagement — an important difference in understanding how to think about the condition."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Jonathan O’Callaghan",
+      "title": "Radio Waves Coming From an Alien Planet May Be a Cosmic First",
+      "description": "Beta Pictoris b appears to have an aurora caused by a powerful magnetic field. If confirmed, it would be the first such field known outside our solar system.",
+      "url": "https://www.nytimes.com/2026/09/29/science/space/exoplanet-magnetic-field.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/09/25/multimedia/25SCI-MAGFIELDS-01-twlc/25SCI-MAGFIELDS-01-twlc-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-09-29T09:01:22Z",
+      "content": "Beta Pictoris b appears to have an aurora caused by a powerful magnetic field. If confirmed, it would be the first such field known outside our solar system."
+    },
+    {
+      "source": {
         "id": null,
         "name": "Post Magazine"
       },
@@ -775,6 +1142,84 @@
     },
     {
       "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Kenneth Chang",
+      "title": "Despite Setbacks, NASA Gives Boeing’s Starliner Spacecraft a Boost",
+      "description": "A previous mission left two astronauts stuck in space for months. Still, the space agency is investing $359 million to keep the craft flying.",
+      "url": "https://www.nytimes.com/2026/09/28/science/space/nasa-starliner-investment.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/09/28/multimedia/28sci-nasa-starliner-kjvt/28sci-nasa-starliner-kjvt-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-09-29T00:15:21Z",
+      "content": "A previous mission left two astronauts stuck in space for months. Still, the space agency is investing $359 million to keep the craft flying."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Brad Plumer and Claire Brown",
+      "title": "The Coal Industry Asked for a Rescue. Trump Obliged.",
+      "description": "In a previously unreported letter, a top lobbyist floated the idea of using emergency powers to keep aging coal plants open.",
+      "url": "https://www.nytimes.com/2026/09/28/climate/coal-industry-power-plants-trump.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/09/28/multimedia/28cli-coal-letter-01-hjkf/28cli-coal-letter-01-hjkf-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-09-28T21:41:57Z",
+      "content": "In a previously unreported letter, a top lobbyist floated the idea of using emergency powers to keep aging coal plants open."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Kenneth Chang",
+      "title": "SpaceX’s Starship Makes It to Orbit for the First Time, but Returns to Earth Early",
+      "description": "The 14th test flight marks a crucial milestone toward the company’s ambitions of sending people to the moon and Mars, but it was not a complete success.",
+      "url": "https://www.nytimes.com/2026/09/28/science/space/spacex-starship-first-orbital-flight.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/09/28/science/space/spacex-thumb/spacex-thumb-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-09-28T21:29:08Z",
+      "content": "The 14th test flight marks a crucial milestone toward the company’s ambitions of sending people to the moon and Mars, but it was not a complete success."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Scott Dance",
+      "title": "Judge Blocks FEMA From Tying Antiterrorism Grants to Election Changes",
+      "description": "The Trump administration had threatened to withhold some Homeland Security money unless states explored paper balloting and citizenship verification.",
+      "url": "https://www.nytimes.com/2026/09/28/climate/fema-grants-election-changes-ruling.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/09/28/multimedia/28cli-grants-ruling-whvb/28cli-grants-ruling-whvb-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-09-28T19:47:29Z",
+      "content": "The Trump administration had threatened to withhold some Homeland Security money unless states explored paper balloting and citizenship verification."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Carl Zimmer",
+      "title": "Did Anthropic’s A.I. Really Make a Scientific Discovery on Its Own?",
+      "description": "An expert at the University of Copenhagen said his team had been sharing its research with the company’s A.I. model, Claude, and that its new finding matched their work.",
+      "url": "https://www.nytimes.com/2026/09/27/science/anthropic-biology-enzyme-mestre.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/09/27/multimedia/27SCI-ANTHROPIC-MESTRE-bmgv/27SCI-ANTHROPIC-MESTRE-bmgv-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-09-28T18:15:24Z",
+      "content": "An expert at the University of Copenhagen said his team had been sharing its research with the company’s A.I. model, Claude, and that its new finding matched their work."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Alexander Nazaryan",
+      "title": "Dogs Will Fight Bears. But Not Because of the Reason You Might Think.",
+      "description": "Scientists analyzed hundreds of encounters between bears and canines. The results raise the suggestion that dogs may not always protect people in the wild.",
+      "url": "https://www.nytimes.com/2026/09/27/science/dogs-chasing-bears.html",
+      "urlToImage": null,
+      "publishedAt": "2026-09-28T16:40:37Z",
+      "content": "Scientists analyzed hundreds of encounters between bears and canines. The results raise the suggestion that dogs may not always protect people in the wild."
+    },
+    {
+      "source": {
         "id": "ars-technica",
         "name": "Ars Technica"
       },
@@ -785,32 +1230,6 @@
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2016/06/26523207085_7558984d60_k-1152x648.jpg",
       "publishedAt": "2026-09-28T16:03:50Z",
       "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "DOGOnews"
-      },
-      "author": "Sarah  Uebersax",
-      "title": "Ancient \"Shark Graveyard\" Discovered In Egyptian Desert - DOGO News",
-      "description": "Ancient \"Shark Graveyard\" Discovered In Egyptian Desert has 6 comments.",
-      "url": "https://www.dogonews.com/2026/9/28/ancient-shark-graveyard-discovered-in-egyptian-desert",
-      "urlToImage": "https://cdn4.dogonews.com/images/1193e3a0-2404-4274-bb19-904acd808fa2/41_2026-639237744134710229-471.jpeg",
-      "publishedAt": "2026-09-28T14:26:50Z",
-      "content": "Egypt's Western Desert was once home to several shark species (Credit: Cairo University)\r\nA team of paleontologists led by Cairo Universitys Dr. Tarek Yassin have unearthed an ancient \"shark graveyar… [+2097 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Science Daily"
-      },
-      "author": null,
-      "title": "Blood tests reveal why astronauts get constipated in space - ScienceDaily",
-      "description": "Spaceflight may dramatically change the gut within weeks, causing bacteria to break down more protein as food moves more slowly through the intestines. The shift could help explain astronaut constipation and may have wider effects on health, making it an impo…",
-      "url": "https://www.sciencedaily.com/releases/2026/09/260927225030.htm",
-      "urlToImage": "https://www.sciencedaily.com/images/1920/astronaut-in-space-constipation.webp",
-      "publishedAt": "2026-09-28T12:51:37Z",
-      "content": "Constipation is a familiar problem for astronauts, but scientists have not fully understood why spending time in space can disrupt normal digestion.New research from the University of Copenhagen, con… [+6801 chars]"
     }
   ]
 }

@@ -2,10 +2,663 @@
   "source": "everything",
   "country": "us",
   "category": "business",
-  "query": "market economy finance stock",
-  "fetched_at": "2026-10-04T00:09:45.466547+00:00",
-  "articles_count": 1,
+  "providers": [
+    "newsapi",
+    "rss"
+  ],
+  "fetched_at": "2026-10-04T07:28:46.324117+00:00",
+  "articles_count": 51,
   "articles": [
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Nicole Sperling",
+      "title": "‘Digger,’ Warner Bros.’ Last Release Before Merger, Is a Major Flop",
+      "description": "The film, starring Tom Cruise, grossed an estimated $8 million in its opening weekend. That could put the movie on track to lose at least $125 million.",
+      "url": "https://www.nytimes.com/2026/10/03/business/media/digger-tom-cruise-box-office.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/10/04/multimedia/04biz-boxoffice-diggers-1-gvcm/04biz-boxoffice-diggers-1-gvcm-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-10-03T23:44:35Z",
+      "content": "The film, starring Tom Cruise, grossed an estimated $8 million in its opening weekend. That could put the movie on track to lose at least $125 million."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Alena Cerro",
+      "title": "F.D.A. Classifies Salad Dressing Recall to Highest Health Risk",
+      "description": "Salata Dressings initiated the recall of its Jalapeño Avocado Dressing in August over concerns about possible salmonella contamination.",
+      "url": "https://www.nytimes.com/2026/10/03/health/fda-recall-salata-salad-dressing-salmonella.html",
+      "urlToImage": null,
+      "publishedAt": "2026-10-03T21:01:02Z",
+      "content": "Salata Dressings initiated the recall of its Jalapeño Avocado Dressing in August over concerns about possible salmonella contamination."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Brent Crane",
+      "title": "As A.I. Agents Begin Shopping, Brands Are Changing Their Sales Pitch",
+      "description": "Faced with bots immune to traditional marketing tactics, marketers are racing to win them over with logic and data.",
+      "url": "https://www.nytimes.com/2026/10/03/business/dealbook/ai-agent-marketing.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/10/03/multimedia/03DB-AI-ADS-kjzc/03DB-AI-ADS-kjzc-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-10-03T20:10:04Z",
+      "content": "Faced with bots immune to traditional marketing tactics, marketers are racing to win them over with logic and data."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Keith Bradsher and Alexandra Stevenson",
+      "title": "China Resumes Curbs on Fuel Exports, Tightening Global Energy Markets",
+      "description": "China has started limiting exports of refined products again as its own inventories of crude oil and refined products have dwindled.",
+      "url": "https://www.nytimes.com/2026/10/02/business/china-exports-diesel-energy.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/10/02/multimedia/00Biz-China-Energy-bzlj/00Biz-China-Energy-bzlj-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-10-03T12:47:42Z",
+      "content": "China has started limiting exports of refined products again as its own inventories of crude oil and refined products have dwindled."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Julie Creswell",
+      "title": "Weight Loss Drugs Give Restaurants a New Hurdle: Diners Who Eat Less",
+      "description": "Fewer orders and higher costs are squeezing restaurants big and small as people on the weight-loss drugs eat and drink less when dining out.",
+      "url": "https://www.nytimes.com/2026/10/03/business/restaurants-glp1-weight-loss.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/10/02/multimedia/00biz-restaurants-glp1s-01-tlph/00biz-restaurants-glp1s-01-tlph-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-10-03T12:44:43Z",
+      "content": "Fewer orders and higher costs are squeezing restaurants big and small as people on the weight-loss drugs eat and drink less when dining out."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Tony Romm",
+      "title": "Trump Says Economy Has ‘Public Relations’ Problem Amid High Prices and Slow Hiring",
+      "description": "The president, who had hoped to tout a growing economy on the campaign trail, has found it hard to break through as workers’ wages fail to keep up.",
+      "url": "https://www.nytimes.com/2026/10/03/business/trump-economy-inflation-midterms.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/10/03/multimedia/03dc-trump-econ-fztq/03dc-trump-econ-fztq-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-10-03T09:03:53Z",
+      "content": "The president, who had hoped to tout a growing economy on the campaign trail, has found it hard to break through as workers’ wages fail to keep up."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Alex Travelli",
+      "title": "America Wants to Make More Generic Drugs. India Shows Why That’s Hard.",
+      "description": "Cheap labor and global supply chains are among the obstacles to President Trump’s plan to bring generic drug manufacturing back home.",
+      "url": "https://www.nytimes.com/2026/10/02/business/india-generic-drugs-tariffs.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/10/01/multimedia/Biz-India-Pharma-Video-Still-hlwj/Biz-India-Pharma-Video-Still-hlwj-mediumSquareAt3X-v2.jpg",
+      "publishedAt": "2026-10-03T08:04:10Z",
+      "content": "Cheap labor and global supply chains are among the obstacles to President Trump’s plan to bring generic drug manufacturing back home."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Erik Wemple",
+      "title": "White House Filing Claims President Has Authority to Bar News Outlets",
+      "description": "The Trump administration again defended the decision to bar CNN, MS NOW and Politico from the White House and to exclude journalists from the pool that covers the president in small spaces.",
+      "url": "https://www.nytimes.com/2026/10/02/business/trump-white-house-ban-cnn-politico-ms-now.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/10/02/multimedia/02biz-trump-media-1-lkmp/02biz-trump-media-1-lkmp-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-10-03T02:29:40Z",
+      "content": "The Trump administration again defended the decision to bar CNN, MS NOW and Politico from the White House and to exclude journalists from the pool that covers the president in small spaces."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Sharon LaFraniere",
+      "title": "Federal Watchdog Investigates Adam Kinzinger for Kalshi Bets on His Pardon",
+      "description": "The inquiry by the Commodity Futures Trading Commission centers on bets the former congressman made on Kalshi in the weeks before he was pardoned in January 2025.",
+      "url": "https://www.nytimes.com/2026/10/01/us/politics/cftc-investigating-kinzinger-pardon-bet.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/10/02/multimedia/02dc-ftc-kinzinger-vlmw/02dc-ftc-kinzinger-vlmw-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-10-03T00:37:31Z",
+      "content": "The inquiry by the Commodity Futures Trading Commission centers on bets the former congressman made on Kalshi in the weeks before he was pardoned in January 2025."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Aaron Krolik",
+      "title": "US Sanctions A7, a Russia Firm That Helps Sidestep Economic Restrictions",
+      "description": "The move followed reports detailing how A7, a Moscow firm, uses shell companies around the world to move funds for clients who are themselves subject to sanctions.",
+      "url": "https://www.nytimes.com/2026/10/01/business/a7-russia-us-sanctions.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/10/01/multimedia/01biz-a7-sanctions-ktfz/01biz-a7-sanctions-ktfz-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-10-03T00:34:29Z",
+      "content": "The move followed reports detailing how A7, a Moscow firm, uses shell companies around the world to move funds for clients who are themselves subject to sanctions."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Christina Jewett, Alice Callahan and Caroline Hopkins Legaspi",
+      "title": "F.D.A. Found Cyclospora During Taylor Farms Inspection in Mexico",
+      "description": "The discovery adds strong evidence that the outbreak that sickened thousands over the summer originated in a grower’s field or processing facility.",
+      "url": "https://www.nytimes.com/2026/10/02/health/cyclospora-taylor-farms-mexico.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/10/02/multimedia/02dc-cyclospora-vphc/02dc-cyclospora-vphc-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-10-02T22:25:24Z",
+      "content": "The discovery adds strong evidence that the outbreak that sickened thousands over the summer originated in a grower’s field or processing facility."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Jeff Sommer",
+      "title": "The Powerful Yet Fragile Force Propping Up Stocks and the Economy",
+      "description": "The artificial intelligence boom has pushed up the stock market, even as interest rates have pulled it down, our columnist says.",
+      "url": "https://www.nytimes.com/2026/10/02/business/ai-stocks-bonds-economy.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/10/04/business/02bizsun-strategies-illo/02bizsun-strategies-illo-mediumSquareAt3X.png",
+      "publishedAt": "2026-10-02T20:36:55Z",
+      "content": "The artificial intelligence boom has pushed up the stock market, even as interest rates have pulled it down, our columnist says."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Benjamin Mullin and Nicole Sperling",
+      "title": "Mash-Up of Paramount and Warner Bros. Will Be Called Skydance",
+      "description": "David Ellison, the tech scion who will run the combined company, borrowed the name of his original entertainment company that reflects his love of aviation. On Friday, the C.E.O.s of Warner Bros. were told they would not stay on once the companies merged.",
+      "url": "https://www.nytimes.com/2026/10/02/business/media/skydance-paramount-warner-bros.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/10/02/multimedia/Biz-Paramount-Skydance-1-vqhb/Biz-Paramount-Skydance-1-vqhb-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-10-02T19:56:28Z",
+      "content": "David Ellison, the tech scion who will run the combined company, borrowed the name of his original entertainment company that reflects his love of aviation. On Friday, the C.E.O.s of Warner Bros. were told they would not stay on once the companies merged."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Lisa Friedman and Rebecca F. Elliott",
+      "title": "U.S. and Allies Agree to Release Diesel Reserves as Prices Soar",
+      "description": "The Group of 7, which includes Britain, France and Japan, announced the release of 100 million barrels over four months, effective immediately.",
+      "url": "https://www.nytimes.com/2026/10/02/business/diesel-reserves-g7.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/10/02/multimedia/02Biz-Diesel-03-kthc/02Biz-Diesel-03-kthc-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-10-02T18:28:16Z",
+      "content": "The Group of 7, which includes Britain, France and Japan, announced the release of 100 million barrels over four months, effective immediately."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Jack Ewing",
+      "title": "Sales of Hulking Pickups and S.U.V.s Sag as Fuel Prices Soar",
+      "description": "Sales of big pickup trucks and sport utility vehicles have dipped as more Americans buy hybrids and smaller cars.",
+      "url": "https://www.nytimes.com/2026/10/02/business/auto-sales-pickup-trucks-suvs.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/10/02/multimedia/02biz-auto-sales-tqpb/02biz-auto-sales-tqpb-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-10-02T18:07:45Z",
+      "content": "Sales of big pickup trucks and sport utility vehicles have dipped as more Americans buy hybrids and smaller cars."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Talmon Joseph Smith",
+      "title": "Hiring Slows as U.S. Jobs Report Shows Labor Market Shifting Into Lower Gear",
+      "description": "The economy added fewer jobs in September and unemployment ticked up, while inflation has maintained pressure on markets and raised costs.",
+      "url": "https://www.nytimes.com/2026/10/02/business/economy/jobs-report-unemployment.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/10/02/multimedia/2026-biz-sept-promos-oct-jobs-day/2026-biz-sept-promos-oct-jobs-day-mediumSquareAt3X.png",
+      "publishedAt": "2026-10-02T17:09:45Z",
+      "content": "The economy added fewer jobs in September and unemployment ticked up, while inflation has maintained pressure on markets and raised costs."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Ben Casselman and Talmon Joseph Smith",
+      "title": "Black Unemployment Rose Sharply in September, Jobs Report Shows",
+      "description": "Economists had taken a recent drop in Black unemployment as a hopeful sign that job gains were lifting a broad share of workers.",
+      "url": "https://www.nytimes.com/2026/10/02/business/economy/jobs-report-black-unemployment.html",
+      "urlToImage": null,
+      "publishedAt": "2026-10-02T16:41:45Z",
+      "content": "Economists had taken a recent drop in Black unemployment as a hopeful sign that job gains were lifting a broad share of workers."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Talmon Joseph Smith",
+      "title": "Here’s the latest.",
+      "description": null,
+      "url": "https://www.nytimes.com/live/2026/10/02/business/jobs-report-economy/heres-the-latest",
+      "urlToImage": null,
+      "publishedAt": "2026-10-02T15:59:17Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Colby Smith",
+      "title": "Soft Jobs Report Boosts Market Bets Fed Will Skip October Rate Increase",
+      "description": "The odds of an interest rate change at the Federal Reserve’s meeting in late October have dropped following a softer jobs report and strong signaling from bank officials.",
+      "url": "https://www.nytimes.com/2026/10/02/business/economy/jobs-report-fed-interest-rates.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/10/02/multimedia/02biz-jobs-report-fed-markets-lwht/02biz-jobs-report-fed-markets-lwht-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-10-02T15:50:14Z",
+      "content": "The odds of an interest rate change at the Federal Reserve’s meeting in late October have dropped following a softer jobs report and strong signaling from bank officials."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Andrew Duehren",
+      "title": "The Rich People Democrats Aren’t Talking About",
+      "description": "As billionaires become a popular political target, a new book urges Washington not to lose sight of a much larger, and quieter, group of wealthy business owners.",
+      "url": "https://www.nytimes.com/2026/10/02/business/democrats-wealthy-taxes.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/10/01/business/00dc-ideas-taxtherich/00dc-ideas-taxtherich-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-10-02T15:08:10Z",
+      "content": "As billionaires become a popular political target, a new book urges Washington not to lose sight of a much larger, and quieter, group of wealthy business owners."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Steven Lee Myers",
+      "title": "Russia’s Latest Propaganda? A.I.-Generated War Songs.",
+      "description": "Russians are creating and spreading music glorifying the invasion of Ukraine, using platforms built in the United States.",
+      "url": "https://www.nytimes.com/2026/10/02/technology/russian-propaganda-ai-war-songs.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/10/01/multimedia/01biz-Russia-AI-Songs-1-fmbg/01biz-Russia-AI-Songs-1-fmbg-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-10-02T14:40:25Z",
+      "content": "Russians are creating and spreading music glorifying the invasion of Ukraine, using platforms built in the United States."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Susannah Skiver Barton",
+      "title": "English Whisky Gets a Boost from the U.K., and Scots Are Not Amused",
+      "description": "A growing cadre of English distillers have won protected status for their liquor. But Scotch producers fear that they’ll lose prestige.",
+      "url": "https://www.nytimes.com/2026/10/02/dining/drinks/english-whisky-uk.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/10/07/multimedia/07FD-english-whiskey-cover1-qfkj/02FD-english-whiskey-cover1-qfkj-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-10-02T13:33:15Z",
+      "content": "A growing cadre of English distillers have won protected status for their liquor. But Scotch producers fear that they’ll lose prestige."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Ann Carrns",
+      "title": "Pay Advance Apps May Be Costlier Than Workers Think",
+      "description": "The loans tide borrowers over until their next paycheck. The apps offer no-cost options, but most users end up paying high fees, a report finds.",
+      "url": "https://www.nytimes.com/2026/10/02/your-money/pay-advance-apps-fees.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/10/02/business/02adviser/02adviser-mediumSquareAt3X.png",
+      "publishedAt": "2026-10-02T13:00:08Z",
+      "content": "The loans tide borrowers over until their next paycheck. The apps offer no-cost options, but most users end up paying high fees, a report finds."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Lisa Friedman and River Akira Davis",
+      "title": "Trump’s Threat to Ban Diesel Exports Sets Off Global Alarms",
+      "description": "A reduction in refineries has already driven the price of diesel to record highs, threatening economies. An U.S. export ban would be “tremendous shock and blow.”",
+      "url": "https://www.nytimes.com/2026/10/01/business/diesel-prices-us-exports.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/10/01/multimedia/01Biz-Diesel-Global-Vulnerability-01-mvkt/01Biz-Diesel-Global-Vulnerability-01-mvkt-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-10-02T12:36:10Z",
+      "content": "A reduction in refineries has already driven the price of diesel to record highs, threatening economies. An U.S. export ban would be “tremendous shock and blow.”"
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Andrew Ross Sorkin, Bernhard Warner, Sarah Kessler, Michael J. de la Merced, Niko Gallogly, Brian O’Keefe, Sri Muppidi and Ian Mount",
+      "title": "The Latest Challenge to Data Centers? Restive Investors.",
+      "description": "Rising government bond yields are beginning to upend the economics around the artificial intelligence build-out.",
+      "url": "https://www.nytimes.com/2026/10/02/business/dealbook/data-center-ai-bonds.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/10/02/multimedia/02db-data-center-qpvf/02db-data-center-qpvf-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-10-02T11:48:10Z",
+      "content": "Rising government bond yields are beginning to upend the economics around the artificial intelligence build-out."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Isabella Kwai",
+      "title": "Swedish Company Uses A.I. Likeness of Greta Garbo in Ad",
+      "description": "The Swedish American actress, who died in 1990, was brought back in a A.I.-generated ad for a manufacturing company.",
+      "url": "https://www.nytimes.com/2026/10/01/world/europe/ai-garbo-ad-sweden-skf.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/10/01/multimedia/01xp-garbo-wvbp-promo/01xp-garbo-wvbp-promo-mediumSquareAt3X-v2.jpg",
+      "publishedAt": "2026-10-02T09:35:43Z",
+      "content": "The Swedish American actress, who died in 1990, was brought back in a A.I.-generated ad for a manufacturing company."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Sydney Ember and Maddie McGarvey",
+      "title": "Tariffs Are Making Instruments So Expensive, School Music Programs Are at Risk",
+      "description": "When a single cello can cost $1,000 and a tuba $9,000, tariffs are straining meager band and orchestra budgets.",
+      "url": "https://www.nytimes.com/2026/10/02/business/economy/tariffs-instruments-school-music-programs.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/09/28/multimedia/00biz-sad-bands-kbjq/00biz-sad-bands-kbjq-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-10-02T09:03:00Z",
+      "content": "When a single cello can cost $1,000 and a tuba $9,000, tariffs are straining meager band and orchestra budgets."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Stephanie Rosenbloom",
+      "title": "5 Hotels For Savoring the Fall",
+      "description": "These new or renovated getaways offer opportunities to bask in the season’s pastoral and cultural delights in comfort.",
+      "url": "https://www.nytimes.com/2026/10/02/travel/autumn-hotels.html",
+      "urlToImage": null,
+      "publishedAt": "2026-10-02T09:02:49Z",
+      "content": "These new or renovated getaways offer opportunities to bask in the season’s pastoral and cultural delights in comfort."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Asmaa Elkeurti and Claire Cain Miller",
+      "title": "Is a Trump Account the Best Way to Invest for Your Child? Try Our Calculator.",
+      "description": "Families also have options like 529 college plans and custodial brokerage accounts. Find out which one works best for you.",
+      "url": "https://www.nytimes.com/2026/10/02/upshot/trump-account-kids-529-utma-calculator.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/09/22/multimedia/2026-07-21-trump-account-scenarios-index/2026-07-21-trump-account-scenarios-index-mediumSquareAt3X-v15.png",
+      "publishedAt": "2026-10-02T09:00:51Z",
+      "content": "Families also have options like 529 college plans and custodial brokerage accounts. Find out which one works best for you."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Sarah Bahr",
+      "title": "After 17 Years, a TV Critic Lets the Credits Roll",
+      "description": "In thousands of reviews, Mike Hale developed a reputation for being thoughtful yet brutally honest.",
+      "url": "https://www.nytimes.com/2026/10/02/arts/television/mike-hale-new-york-times.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/10/02/multimedia/02a2_insider-hale-tlzv/02a2_insider-hale-tlzv-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-10-02T07:00:08Z",
+      "content": "In thousands of reviews, Mike Hale developed a reputation for being thoughtful yet brutally honest."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Tara Siegel Bernard and Claire Cain Miller",
+      "title": "What to Know About Trump Accounts as More Than 60 Million Children Are Auto-Enrolled",
+      "description": "The Trump administration may have just signed up your child — and more than 60 million others — for a 530A savings account (if you haven’t already done so).",
+      "url": "https://www.nytimes.com/2026/10/01/business/trump-accounts-auto-enrollment.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/10/01/multimedia/01Biz-Trump-Accounts-ghmj/01Biz-Trump-Accounts-ghmj-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-10-01T22:51:55Z",
+      "content": "The Trump administration may have just signed up your child — and more than 60 million others — for a 530A savings account (if you haven’t already done so)."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Benjamin Mullin and Michael M. Grynbaum",
+      "title": "David Ellison’s Vision for CNN: Same C.E.O and No Bari Weiss, for Now.",
+      "description": "David Ellison is negotiating to keep CNN’s chief executive, Mark Thompson, in place without oversight from Bari Weiss, the CBS editor in chief, when the networks’ parent companies merge.",
+      "url": "https://www.nytimes.com/2026/10/01/business/media/cnn-paramount-david-ellison.html",
+      "urlToImage": null,
+      "publishedAt": "2026-10-01T21:21:44Z",
+      "content": "David Ellison is negotiating to keep CNN’s chief executive, Mark Thompson, in place without oversight from Bari Weiss, the CBS editor in chief, when the networks’ parent companies merge."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Eshe Nelson and Joe Rennison",
+      "title": "U.S. Bond Yields Hit Highest Level Since 2002",
+      "description": "The higher yields, which are pressuring consumer and corporate borrowers and increasingly weighing on certain corners of the stock market, are unlikely to dissipate soon.",
+      "url": "https://www.nytimes.com/2026/10/01/business/bond-yields-10-year-treasury.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/10/01/multimedia/01biz-bonds-promo-pic-bphz/01biz-bonds-promo-pic-bphz-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-10-01T20:23:38Z",
+      "content": "The higher yields, which are pressuring consumer and corporate borrowers and increasingly weighing on certain corners of the stock market, are unlikely to dissipate soon."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Gregory Schmidt",
+      "title": "As Mortgage Rates Hit Highest Level Since 2023, Buyers Look at ARMs",
+      "description": "The average 30-year, fixed-rate home loan rose to 7.28 percent, up from 6.34 percent a year ago. More buyers are now turning to adjustable-rate mortgages.",
+      "url": "https://www.nytimes.com/2026/10/01/business/adjustable-mortgage-rates.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/10/01/multimedia/2026-biz-sept-promos-oct1-mortgate/2026-biz-sept-promos-oct1-mortgate-mediumSquareAt3X-v3.png",
+      "publishedAt": "2026-10-01T18:18:37Z",
+      "content": "The average 30-year, fixed-rate home loan rose to 7.28 percent, up from 6.34 percent a year ago. More buyers are now turning to adjustable-rate mortgages."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Seth Kugel",
+      "title": "Help! Air Canada Got Me to Europe, Then Stranded Me There.",
+      "description": "The airline helpfully rebooked a delayed traveler from Toronto, but failed to mention it had also canceled her return trip. She spent $800 to get home.",
+      "url": "https://www.nytimes.com/2026/10/01/travel/air-canada-canceled-flight.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/10/01/travel/01trippedup-aircanada-illo/01trippedup-aircanada-illo-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-10-01T17:20:06Z",
+      "content": "The airline helpfully rebooked a delayed traveler from Toronto, but failed to mention it had also canceled her return trip. She spent $800 to get home."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Ana Swanson and Rebecca F. Elliott",
+      "title": "Trump Dangles Alaska Gas Project as Part of Korean Investment Package",
+      "description": "The long-delayed project, which the developer has not yet formally greenlit, would deliver Alaskan gas to Asian markets but take several years to construct.",
+      "url": "https://www.nytimes.com/2026/09/30/business/economy/alaska-lng-south-korea-trump.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/09/30/multimedia/30dc-trump-lng-pmfw/30dc-trump-lng-pmfw-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-10-01T13:49:51Z",
+      "content": "The long-delayed project, which the developer has not yet formally greenlit, would deliver Alaskan gas to Asian markets but take several years to construct."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Henry Leutwyler",
+      "title": "New York Times Reporting Through a Front Page That Never Published and More",
+      "description": "Times reporters and editors discuss items that have shaped our coverage, including Dean Baquet on the “Madam President” front page that never was.",
+      "url": "https://www.nytimes.com/2026/10/01/business/new-york-times-journalism-reporting-objects.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/08/10/multimedia/00-175-objects-lmfg/00-175-objects-lmfg-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-10-01T12:15:48Z",
+      "content": "Times reporters and editors discuss items that have shaped our coverage, including Dean Baquet on the “Madam President” front page that never was."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "David Yaffe-Bellany",
+      "title": "Inside Binance Founder Changpeng Zhao’s Life After Prison",
+      "description": "Changpeng Zhao, jailed in the United States for a financial crime and pardoned by President Trump, is now living a gilded life in the United Arab Emirates.",
+      "url": "https://www.nytimes.com/2026/10/01/business/changpeng-zhao-binance.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/10/01/multimedia/01biz-sun-cz-promo-fvwz/01biz-sun-cz-promo-fvwz-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-10-01T11:55:56Z",
+      "content": "Changpeng Zhao, jailed in the United States for a financial crime and pardoned by President Trump, is now living a gilded life in the United Arab Emirates."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Andrew Ross Sorkin, Bernhard Warner, Sarah Kessler, Michael J. de la Merced, Niko Gallogly, Brian O’Keefe, Sri Muppidi and Ian Mount",
+      "title": "The Global Bond Rout Reaches Worrying New Levels",
+      "description": "Investors are on alert as the yield on the 10-year Treasury note hit a new multi-decade high. The sell-off is also broadening in Europe, too.",
+      "url": "https://www.nytimes.com/2026/10/01/business/dealbook/bond-rout-trump-powell.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/10/01/multimedia/01db-trump-ztqc/01db-trump-ztqc-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-10-01T11:51:29Z",
+      "content": "Investors are on alert as the yield on the 10-year Treasury note hit a new multi-decade high. The sell-off is also broadening in Europe, too."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Peter Eavis, Gilad Thaler, Nikolay Nikolov, Rafaela Balster, Edward Vega and Jon Miller",
+      "title": "How Middle East Oil Exports Started Recovering",
+      "description": "Our business reporter Peter Eavis describes how oil exports from the Middle East have rebounded this month, getting closer to the levels seen before the Iran war.",
+      "url": "https://www.nytimes.com/video/business/100000011182407/how-middle-east-oil-exports-started-recovering.html",
+      "urlToImage": null,
+      "publishedAt": "2026-10-01T10:21:56Z",
+      "content": "Our business reporter Peter Eavis describes how oil exports from the Middle East have rebounded this month, getting closer to the levels seen before the Iran war."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Rebecca F. Elliott",
+      "title": "Oil Is Flowing From the Persian Gulf, but Prices Remain High. Why?",
+      "description": "Crude oil costs close to $100 a barrel because traders are worried hostilities could soon restart and the world is burning through its emergency stockpiles.",
+      "url": "https://www.nytimes.com/2026/10/01/business/energy-environment/oil-prices-iran-war-trump.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/10/01/multimedia/01biz-oil-price-zlhp/01biz-oil-price-zlhp-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-10-01T09:06:44Z",
+      "content": "Crude oil costs close to $100 a barrel because traders are worried hostilities could soon restart and the world is burning through its emergency stockpiles."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Quinn Glabicki",
+      "title": "When Data Centers Cluster Together, How Dirty Are They? One County Wants Answers.",
+      "description": "An unusual study aims to estimate the pollution and health costs from a cluster of proposed data centers, instead of considering each one separately.",
+      "url": "https://www.nytimes.com/2026/10/01/climate/data-center-pollution-study-pennsylvania.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/09/30/multimedia/30cli-data-center-pollution-vwgb/30cli-data-center-pollution-vwgb-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-10-01T09:02:57Z",
+      "content": "An unusual study aims to estimate the pollution and health costs from a cluster of proposed data centers, instead of considering each one separately."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Andrew Duehren",
+      "title": "Bessent Settled Tax Issue That Had Put Him at Odds With I.R.S.",
+      "description": "The Treasury Secretary had previously taken a position on his taxes that contradicted the views of the tax agency that he now oversees.",
+      "url": "https://www.nytimes.com/2026/09/30/business/bessent-settled-tax-issue-that-had-put-him-at-odds-with-irs.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/09/30/multimedia/OakArticle-6abd79c0-kgpq/OakArticle-6abd79c0-kgpq-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-09-30T23:21:19Z",
+      "content": "The Treasury Secretary had previously taken a position on his taxes that contradicted the views of the tax agency that he now oversees."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Benjamin Mullin",
+      "title": "Mattel Chief Named Co-C.E.O. of Combined Paramount and Warner Bros.",
+      "description": "Ynon Kreiz, who will work alongside David Ellison at the merged company, helped turn Barbie into a blockbuster movie.",
+      "url": "https://www.nytimes.com/2026/09/30/business/paramount-ellison-kreiz-mattel.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/09/30/multimedia/30BIZ-PARAMOUNT-pfgq/30BIZ-PARAMOUNT-pfgq-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-09-30T22:40:55Z",
+      "content": "Ynon Kreiz, who will work alongside David Ellison at the merged company, helped turn Barbie into a blockbuster movie."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Joe Rennison",
+      "title": "While Surging to Records, Stocks Experience Some ‘Wobbles’",
+      "description": "Beneath the S&P 500’s 2 percent gain in the third quarter, the rise in oil prices and bond yields led some investors to become more cautious about the outlook for A.I. profits.",
+      "url": "https://www.nytimes.com/2026/09/30/business/stocks-sp500-oil-bonds.html",
+      "urlToImage": null,
+      "publishedAt": "2026-09-30T22:12:51Z",
+      "content": "Beneath the S&P 500’s 2 percent gain in the third quarter, the rise in oil prices and bond yields led some investors to become more cautious about the outlook for A.I. profits."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Brooks Barnes",
+      "title": "Google Wants Hollywood to Stop Being So Afraid of Technology",
+      "description": "100 Zeros, a collaboration between Google and Range Media Partners, aims to give the tech giant a foothold in movies, TV and emerging forms of entertainment.",
+      "url": "https://www.nytimes.com/2026/09/30/business/media/google-hollywood-krya-sedgwick.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/09/28/business/28biz-google-hollywood-02/28biz-google-hollywood-02-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-09-30T21:18:56Z",
+      "content": "100 Zeros, a collaboration between Google and Range Media Partners, aims to give the tech giant a foothold in movies, TV and emerging forms of entertainment."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Matthew Goldstein",
+      "title": "Trump Media’s Merger With Nuclear Fusion Company Moves Closer to Completion",
+      "description": "A securities filing laid out the terms of the deal between Truth Social’s parent company and TAE Technologies, which was formally announced in December.",
+      "url": "https://www.nytimes.com/2026/09/30/business/trump-media-tae-technologies-merger.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/09/30/multimedia/30Biz-TrumpMedia-Merger-mhgk/30Biz-TrumpMedia-Merger-mhgk-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-09-30T20:17:20Z",
+      "content": "A securities filing laid out the terms of the deal between Truth Social’s parent company and TAE Technologies, which was formally announced in December."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Colby Smith",
+      "title": "Fed’s Watchdog Finds No Misconduct or Illegal Activity in Costly Renovations",
+      "description": "A new report by the Federal Reserve’s independent inspector general concluded that a nearly $2.5 billion construction project was poorly managed but made no referrals to the U.S. attorney general.",
+      "url": "https://www.nytimes.com/2026/09/30/business/fed-renovations-trump-powell-report.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/09/22/multimedia/00dc-powell-fed-hwtb/00dc-powell-fed-hwtb-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-09-30T20:16:46Z",
+      "content": "A new report by the Federal Reserve’s independent inspector general concluded that a nearly $2.5 billion construction project was poorly managed but made no referrals to the U.S. attorney general."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Christopher Rowland",
+      "title": "Medical Records Firm Uses AI Tool to Expose Flaws that Threaten Patient Privacy",
+      "description": "Epic’s engineers deployed an Anthropic tool that exposed security risks that could allow undetected access to millions of patient records.",
+      "url": "https://www.nytimes.com/2026/09/30/business/ai-epic-health-records-privacy.html",
+      "urlToImage": null,
+      "publishedAt": "2026-09-30T19:25:06Z",
+      "content": "Epic’s engineers deployed an Anthropic tool that exposed security risks that could allow undetected access to millions of patient records."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Rebecca Davis O’Brien and Michael C. Bender",
+      "title": "E.E.O.C. Sues Harvard for Data on Diversity in Hiring Practices",
+      "description": "The Equal Employment Opportunity Commission filed a lawsuit asking a judge to compel the university to provide information on hiring practices that the agency said discriminated against white men.",
+      "url": "https://www.nytimes.com/2026/09/30/business/economy/harvard-eeoc-diversity-hiring.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/09/30/multimedia/30biz-harvard-eeoc-mpgv/30biz-harvard-eeoc-mpgv-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-09-30T18:17:41Z",
+      "content": "The Equal Employment Opportunity Commission filed a lawsuit asking a judge to compel the university to provide information on hiring practices that the agency said discriminated against white men."
+    },
     {
       "source": {
         "id": "cnn",
@@ -19,5 +672,6 @@
       "publishedAt": "2026-09-14T14:21:05Z",
       "content": "The rise in bond yields hit a critical threshold on Monday, with the 10-year Treasury yield rising to 5%, a level briefly touched in 2023 and otherwise not seen since 2007. The move in the key benchm… [+5052 chars]"
     }
-  ]
+  ],
+  "query": "market economy finance stock"
 }

@@ -2,10 +2,130 @@
   "source": "top_headlines",
   "country": "us",
   "category": "technology",
-  "mode": "country",
-  "fetched_at": "2026-10-04T00:09:45.466547+00:00",
-  "articles_count": 64,
+  "providers": [
+    "newsapi",
+    "rss"
+  ],
+  "fetched_at": "2026-10-04T07:28:46.324117+00:00",
+  "articles_count": 90,
   "articles": [
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "David McCabe",
+      "title": "Who’s to Blame When A.I. Goes Rogue?",
+      "description": "Many think artificial intelligence companies should be held liable for their runaway technology. But legal scholars say applying existing law could be messy.",
+      "url": "https://www.nytimes.com/2026/10/01/technology/ai-rogue-agents-liability.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/09/30/business/00ai-liability/00ai-liability-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-10-03T14:51:40Z",
+      "content": "Many think artificial intelligence companies should be held liable for their runaway technology. But legal scholars say applying existing law could be messy."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Matt Richtel",
+      "title": "An A.I. Songwriting Experiment: Humans Against the Machine",
+      "description": "Five humans convened for a weekend to create new music from scratch. Could they do better than A.I.? Could you even tell the difference?",
+      "url": "https://www.nytimes.com/2026/10/03/arts/music/human-songwriting-ai-songwriting.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/09/30/multimedia/30cul-man-v-machine-lftv/30cul-man-v-machine-lftv-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-10-03T12:46:44Z",
+      "content": "Five humans convened for a weekend to create new music from scratch. Could they do better than A.I.? Could you even tell the difference?"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Nintendo Life"
+      },
+      "author": "Liam Doolan",
+      "title": "Nintendo Has Renewed Multiple Game Trademarks - nintendolife.com",
+      "description": "Blasting back",
+      "url": "https://www.nintendolife.com/news/2026/10/nintendo-has-renewed-multiple-game-trademarks",
+      "urlToImage": "https://images.nintendolife.com/8e330870aa2ed/1280x720.jpg",
+      "publishedAt": "2026-10-03T01:55:00Z",
+      "content": "Image: Nintendo\r\nNintendo has recently renewed some more video game trademarks, this time for multiple titles on 3DS and Wii U.\r\nThe first game on the list is Next Level's 2016 Metroid Prime multipla… [+872 chars]"
+    },
+    {
+      "source": {
+        "id": "ign",
+        "name": "IGN"
+      },
+      "author": "Virginia Glaze",
+      "title": "‘A Future Where We Create Games Together With AI’ — Capcom Announces Plans to Transform the RE Engine Into an AI-Generation Game Engine - IGN",
+      "description": "Resident Evil and Street Fighter developer Capcom revealed some big changes coming to its RE Engine, which they plan to gradually improve and transform into an \"AI-generation game engine.\"",
+      "url": "https://www.ign.com/articles/capcom-announces-plans-to-transform-the-re-engine-into-an-ai-generation-game-engine-our-goal-is-a-future-where-we-create-games-together-with-ai",
+      "urlToImage": "https://assets-prd.ignimgs.com/2026/10/03/capcom-re-engine-ai-game-development-1790991062381.jpg?width=1280&format=jpg&auto=webp&quality=80",
+      "publishedAt": "2026-10-03T01:33:00Z",
+      "content": "Resident Evil and Street Fighter developer Capcom revealed some big changes coming to its RE Engine, which they plan to incrementally improve and transform into an \"AI-generation game engine.\"\r\nOn Oc… [+3526 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Kirsten Korosec",
+      "title": "Meta wants your next gadget to be Muse-infused - TechCrunch",
+      "description": "Meta wants Muse in your TV and your toaster, so it's giving the code away for free.",
+      "url": "https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/09/mark-zuckerberg-muse-charm-getty.jpg?resize=1200,800",
+      "publishedAt": "2026-10-03T00:45:39Z",
+      "content": "Meta’s Muse, a personal AI agent that books travel, fills out forms, and shops on a user’s behalf, has already proven popular with the masses, but a new side project could be particularly alluring to… [+2144 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "PCMag.com"
+      },
+      "author": "Jibin Joseph",
+      "title": "Apple Confirms AT&T iPhone 18 Pro Max Problems. You Might Need a New Phone - PCMag",
+      "description": "This week's iOS update is intended to prevent this from happening to other phones. If your iPhone 18 Max Pro has already lost service, you'll need to return it for a new one.",
+      "url": "https://www.pcmag.com/news/apple-confirms-att-iphone-18-pro-max-problems-you-might-need-new-phone",
+      "urlToImage": "https://i.pcmag.com/imagery/articles/06h6NJK0d4qbfsrUHWcCPVN-1.fit_lim.size_1200x630.v1790931853.jpg",
+      "publishedAt": "2026-10-02T23:59:18Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "author": "Dan Goodin",
+      "title": "Apple changes full-disk access permissions to curb abuse from AI agents - Ars Technica",
+      "description": "Meta says FDA isn't sufficient to Muse reading messages. Apple begs to differ.",
+      "url": "https://arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/gatekeeping-ai-agents-1152x648.jpg",
+      "publishedAt": "2026-10-02T23:03:16Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Tom McKay",
+      "title": "Contest-Winning Microscope Video Is Full of AI Confabulations, Scientists Say - Gizmodo",
+      "description": "The winner of Nikon's 2026 Small World In Motion contest said he used AI to post-process real video.",
+      "url": "https://gizmodo.com/contest-winning-microscope-video-is-full-of-ai-confabulations-scientists-say-2000820652",
+      "urlToImage": "https://gizmodo.com/app/uploads/2026/10/nikon-1200x675.jpg",
+      "publishedAt": "2026-10-02T23:00:33Z",
+      "content": "Japanese optics company Nikon has stated it is “carefully re-reviewing” information submitted by National University of Singapore optical engineer Ning Xu after commenters accused him of using AI in … [+3850 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": null,
+      "title": "Miami Heat tease release of new 'Vice City' jerseys on the night before 'Grand Theft Auto VI' release - Fox News",
+      "description": "\"Grand Theft Auto VI\" gets an unprecedented sports tie-in as the Miami Heat debut reimagined \"Vice City\" jerseys against the Milwaukee Bucks.",
+      "url": "https://www.foxnews.com/outkick-sports/miami-heat-tease-release-new-vice-city-jerseys-night-before-grand-theft-auto-vi-release",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/10/heat-gta.png",
+      "publishedAt": "2026-10-02T22:10:17Z",
+      "content": "November will see the launch of what is easily the biggest video game release of all time, and maybe the biggest entertainment release full stop, when \"Grand Theft Auto VI\" hits shelves.\r\nOr hits the… [+1711 chars]"
+    },
     {
       "source": {
         "id": "ars-technica",
@@ -18,6 +138,32 @@
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/doomsql-1152x648-1790974550.png",
       "publishedAt": "2026-10-02T21:19:05Z",
       "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gameinformer.com"
+      },
+      "author": "Charles Harte",
+      "title": "End of Abyss Review: Samus-Inspired Survival Success - Game Informer",
+      "description": "End of Abyss (PlayStation 5) Review – 8/10: Despite the glitches, I loved snooping through the cold, industrial hallways of End of Abyss. - Game Informer",
+      "url": "https://gameinformer.com/review/end-of-abyss/samus-inspired-survival-success",
+      "urlToImage": "https://gameinformer.com/sites/default/files/styles/og_image/public/2026/05/05/ef760bfa/378_endofabyss03.jpg.webp",
+      "publishedAt": "2026-10-02T21:13:00Z",
+      "content": "I first played End of Abyss at a Summer Game Fest demo in 2024, and I haven't stopped thinking about it since. The full release is about as good as I hoped it would be, blending Metroid's familiar fo… [+3540 chars]"
+    },
+    {
+      "source": {
+        "id": "the-washington-post",
+        "name": "The Washington Post"
+      },
+      "author": "Rob Pegoraro",
+      "title": "Only one browser has this really helpful search tool - The Washington Post",
+      "description": "This is great for experimentation with a different search site, keeping a particular search out of your history at your usual site, or giving yourself a break from AI-first answers.",
+      "url": "https://www.washingtonpost.com/technology/2026/10/02/search-without-ai-or-your-browser-history-with-mozilla-firefox/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/Q6C3RGY6E6EMA3MRLAOQEMRPQU_size-normalized.jpg&w=1440",
+      "publishedAt": "2026-10-02T21:00:00Z",
+      "content": "Changing your default search engine takes almost no time unless you count the time sunk into deciding which site to appoint to that role. Mozilla Firefox, however, provides a crafty feature that lets… [+191 chars]"
     },
     {
       "source": {
@@ -37,26 +183,13 @@
         "id": null,
         "name": "9to5Mac"
       },
-      "author": "Chance Miller",
-      "title": "Apple confirms iPhone 18 Pro Max AT&T cellular issues, affected devices require hardware replacement - 9to5Mac",
-      "description": "Apple has confirmed an issue causing a “small number” of iPhone 18 Pro Max devices on AT&T to lose cellular...",
-      "url": "https://9to5mac.com/2026/10/02/apple-confirms-iphone-18-pro-max-att-cellular-issues-affected-devices-require-hardware-replacement/",
-      "urlToImage": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-18-photos-21.jpg?quality=82&strip=all&resize=1200,628",
-      "publishedAt": "2026-10-02T20:47:00Z",
-      "content": "Apple has confirmed an issue causing a “small number” of iPhone 18 Pro Max devices on AT&amp;T to lose cellular service. \r\nApple released software and carrier updates to prevent the issue from affect… [+1761 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Emma Roth",
-      "title": "Apple will limit Mac disk access as AI agents ‘substantially’ increase risk - The Verge",
-      "description": "Apple is introducing new safeguards for its full disk access permission on Mac in response to the risks associated with AI-powered agents.",
-      "url": "https://www.theverge.com/tech/1004295/apple-limit-mac-disk-access-ai-agents",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268759_Mac_Mini_AKrales_0079.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "publishedAt": "2026-10-02T20:08:40Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nMac apps will soon need very explicit user action to gain full disk access, according to Apple.\r\nMac apps will soon need very explicit user action to gain full d… [+2755 chars]"
+      "author": "Ryan Christoffel",
+      "title": "iOS 27’s Siri gets one thing very right that other AI assistants get wrong - 9to5mac.com",
+      "description": "Siri AI is now available in iOS 27 as a major upgrade to Apple’s assistant, and it differs greatly from other AI assistants in one key area.",
+      "url": "https://9to5mac.com/2026/10/02/ios-27s-siri-gets-one-thing-very-right-that-other-ai-assistants-get-wrong/",
+      "urlToImage": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/siri-ai.jpg?quality=82&strip=all&resize=1200,628",
+      "publishedAt": "2026-10-02T19:26:00Z",
+      "content": "Siri AI is a major upgrade to Apples assistant thats now available in iOS 27. And theres one standout area Ive noticed where it differs greatly from other AI assistantsfor the better.\r\nIve been using… [+1568 chars]"
     },
     {
       "source": {
@@ -73,16 +206,29 @@
     },
     {
       "source": {
-        "id": "espn",
-        "name": "ESPN"
+        "id": "the-new-york-times",
+        "name": "The New York Times"
       },
-      "author": "ESPN staff",
-      "title": "Miami Heat announce 'A Night in Vice City' theme ahead of GTA VI release - ESPN",
-      "description": "With Grand Theft Auto VI's long-awaited release date set for Nov. 19, the Heat are partnering with Rockstar Games to offer a topical lead-up event the night before.",
-      "url": "https://www.espn.com/nba/story/_/id/50085674/miami-heat-night-vice-city-game",
-      "urlToImage": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1002%2Fr1725012_1296x729_16%2D9.jpg",
-      "publishedAt": "2026-10-02T18:38:00Z",
-      "content": "The Miami Heat have been carefully leaning into \"Vice City\" branding for years now, but 2026 will bring the team's most ambitious effort yet: Nov. 18 will be \"A Night in Vice City\" at the Kaseya Cent… [+1361 chars]"
+      "author": "Jack Ewing",
+      "title": "Sales of Hulking Pickups and S.U.V.s Sag as Fuel Prices Soar",
+      "description": "Sales of big pickup trucks and sport utility vehicles have dipped as more Americans buy hybrids and smaller cars.",
+      "url": "https://www.nytimes.com/2026/10/02/business/auto-sales-pickup-trucks-suvs.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/10/02/multimedia/02biz-auto-sales-tqpb/02biz-auto-sales-tqpb-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-10-02T18:07:45Z",
+      "content": "Sales of big pickup trucks and sport utility vehicles have dipped as more Americans buy hybrids and smaller cars."
+    },
+    {
+      "source": {
+        "id": "ign",
+        "name": "IGN"
+      },
+      "author": "Michael Cripe",
+      "title": "GTA 6 PEGI Age Rating Reveals Mentions of 'Decapitation' and Cocaine That Can Be 'Snorted' at 'Any Time' - IGN",
+      "description": "GTA 6 has received a rating of PEGI 18, revealing mentions of \"decapitation,\" the ability for players to snort cocaine at any time, \"scenes of sexual fetishes,\" and much more.",
+      "url": "https://www.ign.com/articles/gta-6-age-rating-confirms-new-details-on-sex-drug-use-decapitation-and-more",
+      "urlToImage": "https://assets-prd.ignimgs.com/2026/08/31/hrdxhdzwwaax1k-1788198129736.jpg?width=1280&format=jpg&auto=webp&quality=80",
+      "publishedAt": "2026-10-02T17:37:35Z",
+      "content": "UPDATE October 2, 2026, 11:39 a.m. PT: PEGI has seemingly updated its website to remove the age rating for GTA 6.\r\nThe PEGI 18 page which, as viewed by IGN, included what appeared to be new details a… [+4661 chars]"
     },
     {
       "source": {
@@ -99,6 +245,19 @@
     },
     {
       "source": {
+        "id": null,
+        "name": "DC Rainmaker"
+      },
+      "author": "Ray Maker",
+      "title": "Apple Watch Series 12 In-Depth Review: Worth Upgrading? - DC Rainmaker",
+      "description": "Is the Apple Watch Ultra 12 worth the ugprade from an existing Apple Watch model? I dive into see where it makes the most sense.",
+      "url": "https://www.dcrainmaker.com/2026/10/apple-watch-series12-in-depth-review-worth-upgrade.html",
+      "urlToImage": "https://media.dcrainmaker.com/images/2026/10/AppleWatchSeries12YT.jpg",
+      "publishedAt": "2026-10-02T17:13:16Z",
+      "content": "The Apple Watch Series 12 arguably draws one of the biggest lines in the sand weve seen yet from Apple, within the core Apple Watch evolution. Not because it looks different from the outside (it does… [+43456 chars]"
+    },
+    {
+      "source": {
         "id": "the-verge",
         "name": "The Verge"
       },
@@ -109,6 +268,19 @@
       "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/nacon1.jpg?quality=90&strip=all&crop=0%2C10.741589819318%2C100%2C78.516820361363&w=1200",
       "publishedAt": "2026-10-02T16:35:13Z",
       "content": "<ul><li></li><li></li><li></li></ul>\r\nThe customizable Revolution 5 Unlimited gamepad features asymmetrical TMR thumbsticks and a built-in settings screen.\r\nThe customizable Revolution 5 Unlimited ga… [+3324 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Kotaku"
+      },
+      "author": "Tauriq Moosa",
+      "title": "Control Resonant Made The Right Choice Leaving The Oldest House Behind - Kotaku",
+      "description": "Some players wish Remedy's new action sequel had retained its predecessor's famous setting, but that would have been the wrong choice for this story",
+      "url": "https://kotaku.com/why-control-resonant-had-to-take-our-new-hero-outside-2000739330",
+      "urlToImage": "https://kotaku.com/app/uploads/2026/10/control-1200x675.jpg",
+      "publishedAt": "2026-10-02T16:30:23Z",
+      "content": "There seems to be some sentiment from players of Control Resonant that taking the action beyond the confines of the brutalist interior halls of the first game, Control (2019), is less than ideal. But… [+6812 chars]"
     },
     {
       "source": {
@@ -139,28 +311,41 @@
     {
       "source": {
         "id": null,
+        "name": "Cricinfo.com"
+      },
+      "author": "Hemant Brar",
+      "title": "Gurnoor Brar has been expensive, but India are happy to pay the price for now - Cricinfo",
+      "description": "Ahead of the 2027 ODI World Cup, the team management wants the fast bowler tested, not protected",
+      "url": "https://www.cricinfo.com/story/ind-vs-wi-3rd-odi-gurnoor-brar-has-been-expensive-but-india-happy-to-pay-the-price-for-now-1556930",
+      "urlToImage": "https://img1.hscicdn.com/image/upload/f_auto/lsci/db/PICTURES/CMS/419700/419785.6.jpg",
+      "publishedAt": "2026-10-02T15:52:41Z",
+      "content": "FeatureAhead of the 2027 ODI World Cup, the team management wants the fast bowler tested, not protected"
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Max Read, Whitney Jones, Vjeran Pavic, Chris Wood, Dan Powell, Marion Lozano, Rowan Niemisto and Alyssa Moxley",
+      "title": "A.I. Agents: Cute, Cuddly and Maybe Catastrophically Dangerous?",
+      "description": "“It’s going to be gnarly for a little while.”",
+      "url": "https://www.nytimes.com/2026/10/02/podcasts/hardfork-regulation-agents-muse.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/10/02/podcasts/02hardfork-self-regulate-muse/02hardfork-self-regulate-muse-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-10-02T15:26:39Z",
+      "content": "“It’s going to be gnarly for a little while.”"
+    },
+    {
+      "source": {
+        "id": null,
         "name": "Aftermath.site"
       },
       "author": "Nathan Grayson",
-      "title": "Every Animal Confirmed For Grand Theft Auto VI So Far, Ranked - aftermath.site",
+      "title": "Every Animal Confirmed For Grand Theft Auto VI So Far, Ranked - Aftermath",
       "description": "Nature's majesty, unfairly scrutinized",
       "url": "https://aftermath.site/gta-6-every-animal/",
       "urlToImage": "https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/2026/10/animals3.jpg",
       "publishedAt": "2026-10-02T15:03:24Z",
       "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Kotaku"
-      },
-      "author": "Ash Parrish",
-      "title": "8 Things Final Fantasy VII Revelation Is Changing From The Original On PS1 - kotaku.com",
-      "description": "The finale of the ambitious FF7 remake project arrives just in time for the game's 30th anniversary",
-      "url": "https://kotaku.com/8-things-final-fantasy-vii-revelation-is-changing-from-the-original-on-ps1-2000739078",
-      "urlToImage": "https://kotaku.com/app/uploads/2026/09/FFVII_Revelation_June_Screenshots_8.jpg",
-      "publishedAt": "2026-10-02T15:00:07Z",
-      "content": "Final Fantasy VII Revelation is the culmination of the Final Fantasy VII remake project. Square Enix, somehow, miraculously, in the face of ever-ballooning development cycles, will manage to release … [+5382 chars]"
     },
     {
       "source": {
@@ -177,42 +362,16 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "PCWorld"
+        "id": "the-new-york-times",
+        "name": "The New York Times"
       },
-      "author": "Michael Crider",
-      "title": "Your used CPU might come with someone else’s Valorant ban - PCWorld",
-      "description": "Anti-cheat systems for online multiplayer games can flag individual PC parts, which can be a problem if you're trying to find a deal on secondhand hardware.",
-      "url": "https://www.pcworld.com/article/3250222/your-used-cpu-might-come-with-someone-elses-valorant-ban.html",
-      "urlToImage": "https://www.pcworld.com/wp-content/uploads/2026/10/3250222-0-51475700-1790951998-image_3e8e58.png?w=1024",
-      "publishedAt": "2026-10-02T14:41:48Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "9to5google.com"
-      },
-      "author": "Ben Schoon",
-      "title": "Pixel 10a gets a $100 price hike, now starting at $599 - 9to5Google",
-      "description": "Google has quietly raised the price of its mid-range Pixel 10a by $100, giving the device a starting price of...",
-      "url": "http://9to5google.com/2026/10/02/google-pixel-10a-price-hike/",
-      "urlToImage": "https://9to5google.com/wp-content/uploads/sites/4/2026/03/google-pixel-10a-berry-1.jpg?quality=82&strip=all&resize=1200,628",
-      "publishedAt": "2026-10-02T14:25:00Z",
-      "content": "Google has quietly raised the price of its mid-range Pixel 10a by $100, giving the device a starting price of $599.\r\nEffective as of today at the Google Store, Pixel 10a has jumped from $499 to $599.… [+1341 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "SamMobile"
-      },
-      "author": "Asif Iqbal Shaik",
-      "title": "Major SmartThings app redesign finally hits Galaxy phones - SamMobile",
-      "description": "Samsung's SmartThings app redesign is rolling out to Android devices. Discover the new UI, floating tab bar, and 3D map views in it.",
-      "url": "https://www.sammobile.com/news/major-smartthings-app-redesign-finally-hits-galaxy-phones/",
-      "urlToImage": "https://www.sammobile.com/wp-content/uploads/2026/07/Samsung-SmartThings.jpg",
-      "publishedAt": "2026-10-02T14:25:00Z",
-      "content": "Earlier this week, Samsung's SmartThings app received a major UI redesign, but it was initially limited to iPhones. Now, the update has started reaching Galaxy and other Android phones as well. It gi… [+1734 chars]"
+      "author": "Steven Lee Myers",
+      "title": "Russia’s Latest Propaganda? A.I.-Generated War Songs.",
+      "description": "Russians are creating and spreading music glorifying the invasion of Ukraine, using platforms built in the United States.",
+      "url": "https://www.nytimes.com/2026/10/02/technology/russian-propaganda-ai-war-songs.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/10/01/multimedia/01biz-Russia-AI-Songs-1-fmbg/01biz-Russia-AI-Songs-1-fmbg-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-10-02T14:40:25Z",
+      "content": "Russians are creating and spreading music glorifying the invasion of Ukraine, using platforms built in the United States."
     },
     {
       "source": {
@@ -229,29 +388,29 @@
     },
     {
       "source": {
-        "id": "the-washington-post",
-        "name": "The Washington Post"
+        "id": null,
+        "name": "Xbox.com"
       },
-      "author": "Rob Pegoraro",
-      "title": "Only one browser has this really helpful search tool - The Washington Post",
-      "description": "This is great for experimentation with a different search site, keeping a particular search out of your history at your usual site, or giving yourself a break from AI-first answers.",
-      "url": "https://www.washingtonpost.com/technology/2026/10/02/search-without-ai-or-your-browser-history-with-mozilla-firefox/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/Q6C3RGY6E6EMA3MRLAOQEMRPQU_size-normalized.jpg&w=1440",
-      "publishedAt": "2026-10-02T14:18:43Z",
-      "content": "Changing your default search engine takes almost no time unless you count the time sunk into deciding which site to appoint to that role. Mozilla Firefox, however, provides a crafty feature that lets… [+191 chars]"
+      "author": "Mike Nelson, XBOX Wire Editor",
+      "title": "Next Week on XBOX: New Games for October 5 to 9 - news.xbox.com",
+      "description": "Welcome to Next Week on XBOX! In this weekly feature we cover all the games coming soon to XBOX Series X|S, XBOX One, XBOX on PC, and Game Pass! Get more details on these upcoming games below and click their profiles for further info (release dates subject to…",
+      "url": "https://news.xbox.com/en-us/2026/10/02/next-week-on-xbox-new-games-for-october-5-to-9/",
+      "urlToImage": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/10/nwox-hero-c449dc344c9f6b77b8f9-scaled.jpg",
+      "publishedAt": "2026-10-02T14:03:25Z",
+      "content": "Welcome to Next Week on XBOX! In this weekly feature we cover all the games coming soon to XBOX Series X|S, XBOX One, XBOX on PC, and Game Pass! Get more details on these upcoming games below and cli… [+8614 chars]"
     },
     {
       "source": {
-        "id": "ign",
-        "name": "IGN"
+        "id": null,
+        "name": "Kotaku"
       },
-      "author": "Ryan McCaffrey",
-      "title": "8 Big October Games We've Already Played if You Want to Know What We Think of Them So Far - IGN",
-      "description": "October is here, which means the Fall is in full swing, which means some of the biggest games of the year drop this month. We've already played some of the biggest ones, so check out our previews of Phantom Blade Zero, Castlevania: Belmont's Curse, Final Fant…",
-      "url": "https://www.ign.com/articles/8-big-october-games-weve-already-played-if-you-want-to-know-what-we-think-of-them-so-far",
-      "urlToImage": "https://assets-prd.ignimgs.com/2026/10/01/pbz-1790892289703.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "publishedAt": "2026-10-02T14:03:00Z",
-      "content": "October is here, which means the Fall is in full swing, which means some of the biggest games of the year drop this month ahead of You Know Who. We've already played some of the biggest ones, so chec… [+5078 chars]"
+      "author": "Ash Parrish",
+      "title": "30 Hours With Fire Emblem: Fortune's Weave And My Patience Is Wearing Thin - Kotaku",
+      "description": "Part one is an unrewarding slog, saved only by incredible characters",
+      "url": "https://kotaku.com/fire-emblem-fortunes-weave-early-impressions-2000738979",
+      "urlToImage": "https://kotaku.com/app/uploads/2026/10/anatolia.jpg",
+      "publishedAt": "2026-10-02T14:00:40Z",
+      "content": "I’ve been playing Fire Emblem: Fortune’s Weave for two weeks now and the experience has started to take its toll. The world-building is entertaining and intriguing, representing a bold new direction … [+7106 chars]"
     },
     {
       "source": {
@@ -265,6 +424,19 @@
       "urlToImage": "https://gizmodo.com/app/uploads/2026/09/Claude-1200x675.jpg",
       "publishedAt": "2026-10-02T13:45:32Z",
       "content": "Much ado has been made of “AI tells” in writingso much so that an entire micro-economy of so-called AI detectors has cropped up and is somehow worth millions of dollars. A new study from Graphite (a … [+2119 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Pokemon.com"
+      },
+      "author": null,
+      "title": "Join the Pokémon Night Out Livestream to Party from Home - Pokemon.com",
+      "description": "Check out the full merch collection and find out how you can join the party from home.",
+      "url": "https://www.pokemon.com/us/news/join-the-pokemon-night-out-livestream-to-party-from-home",
+      "urlToImage": "https://mcdn.pokemon.com/pokemon-prod/image/upload/c_limit,w_1920/f_auto/v1/live/pcom-cms/static-assets/cms3/us/img/misc/tiles/2026/pokemon-30/night-out/09/24/pokemon-30-169-en.jpg",
+      "publishedAt": "2026-10-02T13:20:35Z",
+      "content": "Its nearly time for Pokémon Night Out! This unforgettable experience will be held at the Intuit Dome in Los Angeles on October 24, 2026, and The O2 in London on November 10, 2026, uniting the vast wo… [+771 chars]"
     },
     {
       "source": {
@@ -294,16 +466,16 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "9to5Mac"
+        "id": "the-new-york-times",
+        "name": "The New York Times"
       },
-      "author": "Chance Miller",
-      "title": "iOS 27 adds four new ways to customize your iPhone’s Lock Screen - 9to5Mac",
-      "description": "iOS 27 adds four new Lock Screen customization options, including AI wallpapers and a movable clock. Here's how they work.",
-      "url": "https://9to5mac.com/2026/10/02/ios-27-lock-screen-customization/",
-      "urlToImage": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/extend-lock-screen.jpg?quality=82&strip=all&resize=1200,628",
-      "publishedAt": "2026-10-02T13:00:00Z",
-      "content": "iOS 27 continues Apples trend of giving you more control over the design of your iPhones Lock Screen. This year, there are new customization options, wallpaper settings, and more.\r\niOS 27 brings new … [+2354 chars]"
+      "author": "Karen Weise",
+      "title": "Amazon Promises More Local Funding and Less Secrecy Around Data Centers",
+      "description": "The internet giant is the latest technology company trying to address increasingly hostile local sentiment toward data center projects.",
+      "url": "https://www.nytimes.com/2026/10/02/technology/amazon-data-centers-funding.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/10/02/multimedia/02biz-amazon-datacenters-1-zkmh/02biz-amazon-datacenters-1-zkmh-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-10-02T12:56:28Z",
+      "content": "The internet giant is the latest technology company trying to address increasingly hostile local sentiment toward data center projects."
     },
     {
       "source": {
@@ -317,6 +489,19 @@
       "urlToImage": "https://assets-prd.ignimgs.com/2024/06/06/halospeedrunblogroll-1533336736758-1717694718988.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "publishedAt": "2026-10-02T12:07:42Z",
       "content": "The original Xbox version of Halo: Combat Evolved has been made available to play in a web browser.\r\nThis is not a port of Bungies seminal 2001 first-person shooter, rather the original Xbox game run… [+2211 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "9to5Toys"
+      },
+      "author": "Justin Kahn",
+      "title": "Land the 45mm Pixel Watch 5 at one of the best prices ever, now $138 off (Best Buy open-box) - 9to5Toys",
+      "description": "Deals on the new Pixel Watch 5 have been relatively light thus far. We have seen some price drops but...",
+      "url": "http://9to5toys.com/2026/10/02/45mm-pixel-watch-5-best-price/",
+      "urlToImage": "https://9to5toys.com/wp-content/uploads/sites/5/2026/09/Pixel-Watch-5.jpg?quality=82&strip=all&resize=1200,628",
+      "publishedAt": "2026-10-02T11:49:00Z",
+      "content": "Deals on the new Pixel Watch 5 have been relatively light thus far. We have seen some price drops but nothing nearly as good as this 45mm Pixel Watch 5 in Matte Black at $138 off the list price in ex… [+1038 chars]"
     },
     {
       "source": {
@@ -334,32 +519,6 @@
     {
       "source": {
         "id": null,
-        "name": "Eurogamer.net"
-      },
-      "author": "Robert Purchese",
-      "title": "CD Projekt Red addresses divisive lighting changes in a new Witcher 3 Remastered PC patch - Eurogamer.net",
-      "description": "The Witcher 3 has been patched to address lighting issues in the Remastered edition. This has been a hotly debated topic since the overhaul was released.",
-      "url": "https://www.eurogamer.net/witcher-3-remastered-lighting-patch-pc",
-      "urlToImage": "https://assetsio.gnwcdn.com/geralt-horse-witcher-3.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "publishedAt": "2026-10-02T11:09:05Z",
-      "content": "A second hotfix has been released for The Witcher 3 Remastered edition that directly addresses lighting concerns on PC, as well as a couple of other notable issues.\r\nSpecifically, The Witcher 3 patch… [+1917 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "BGR"
-      },
-      "author": "Andrew Morrisey",
-      "title": "5 Reasons To Buy 4K Blu-Rays Instead Of Another Streaming Subscription - bgr.com",
-      "description": "Reasons to own 4K Blu-Rays include no internet connection needed, requires only a one-time cost, no advertisements, and better audio and visuals",
-      "url": "https://www.bgr.com/2273296/reasons-buy-4k-blu-rays-instead-of-streaming-subscription/",
-      "urlToImage": "https://www.bgr.com/img/gallery/5-reasons-to-buy-4k-blu-rays-instead-of-another-streaming-subscription/l-intro-1790781590.jpg",
-      "publishedAt": "2026-10-02T10:47:00Z",
-      "content": "Physical products tend to cost what they cost, with only some sales tax added at checkout. In a general sense, prices do increase over time, but 4K Blu-rays actually cost less than HD Blu-rays did wh… [+1227 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "Android Authority"
       },
       "author": null,
@@ -372,29 +531,55 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "Android Authority"
+        "id": "wired",
+        "name": "Wired"
       },
-      "author": null,
-      "title": "New flagship hands the Pixel 11 Pro a huge defeat in reader poll - Android Authority",
-      "description": "The Motorola Signature 27 looks great on paper, but how does it compare to the Pixel 11 Pro? Our readers pick their winner in our latest poll.",
-      "url": "https://www.androidauthority.com/motorola-signature-27-vs-google-pixel-11-pro-poll-results-3718305/",
-      "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2026/09/google-pixel-11-pro-review-hero-photo-4-scaled.jpg",
-      "publishedAt": "2026-10-02T09:54:00Z",
-      "content": "When pitting a Motorola against a Google Pixel, you might believe that the latter should rack up several comfortable wins across the various weight classes. However, a new reader poll suggests that i… [+2610 chars]"
+      "author": "Lily Hay Newman, Matt Burgess",
+      "title": "A Flaw in ChatGPT’s Mac App Could Have Let Hackers Grab Sensitive Data - WIRED",
+      "description": "While the focus has been on AI agents’ hacking capabilities, a recently patched vulnerability in a ChatGPT app shows that AI software is itself an inviting—and vulnerable—target.",
+      "url": "https://www.wired.com/story/a-flaw-in-chatgpts-mac-app-could-have-let-hackers-grab-sensitive-data/",
+      "urlToImage": "https://media.wired.com/photos/6abc2c32f3865c0127252ad0/191:100/w_1280,c_limit/GettyImages-2278945913.jpg",
+      "publishedAt": "2026-10-02T09:45:00Z",
+      "content": "Hardly a day goes by lately without news of AI agents autonomously hackingwebsites or AI tools being used by cybercriminals and scammers. But a recently patched vulnerability in the macOS version of … [+2699 chars]"
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Isabella Kwai",
+      "title": "Swedish Company Uses A.I. Likeness of Greta Garbo in Ad",
+      "description": "The Swedish American actress, who died in 1990, was brought back in a A.I.-generated ad for a manufacturing company.",
+      "url": "https://www.nytimes.com/2026/10/01/world/europe/ai-garbo-ad-sweden-skf.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/10/01/multimedia/01xp-garbo-wvbp-promo/01xp-garbo-wvbp-promo-mediumSquareAt3X-v2.jpg",
+      "publishedAt": "2026-10-02T09:35:43Z",
+      "content": "The Swedish American actress, who died in 1990, was brought back in a A.I.-generated ad for a manufacturing company."
     },
     {
       "source": {
         "id": null,
-        "name": "TrueAchievements"
+        "name": "Traxion.gg"
       },
-      "author": null,
-      "title": "Xbox Game Pass loses nine games in October 2026 - TrueAchievements",
-      "description": "A total of nine games, including Clair Obscur: Expedition 33 and Crime Scene Cleaner, will leave Xbox Game Pass in the first half of October.",
-      "url": "https://www.trueachievements.com/news/xbox-game-pass-leaving-soon-october-2026",
-      "urlToImage": "https://www.trueachievements.com/imgs/178875/xbox-game-pass-loses-nine-games-in-october-2026.jpg",
-      "publishedAt": "2026-10-02T09:05:07Z",
-      "content": "We can now reveal the first wave of games leaving Xbox Game Pass in October 2026, and sadly, some heavy hitters are among them. Clair Obscur: Expedition 33, A Plague Tale: Requiem, Crime Scene Cleane… [+2915 chars]"
+      "author": "Thomas Harrison-Lord",
+      "title": "What to expect from sim racing and driving games in October - Traxion.GG",
+      "description": "All-new releases, platform conversions and possibly the most important sim racing update of the year are all in store for October 2026.",
+      "url": "https://traxion.gg/what-to-expect-from-sim-racing-and-driving-games-in-october/",
+      "urlToImage": "https://traxion.gg/wp-content/uploads/2026/10/Montage_FI.jpg",
+      "publishedAt": "2026-10-02T09:30:11Z",
+      "content": "In case youve been living on the moon, Grand Theft Auto VI will be released in November. As its set to be the biggest entertainment release of the decade, many other video game releases are either cr… [+7810 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Push Square"
+      },
+      "author": "Liam Croft",
+      "title": "New PS5 Firmware Update 26.06-14.10.00 Available to Download Now - pushsquare.com",
+      "description": "What does version 26.06-14.10.00 do?",
+      "url": "https://www.pushsquare.com/news/2026/10/new-ps5-firmware-update-26-06-14-10-00-available-to-download-now",
+      "urlToImage": "https://images.pushsquare.com/bd2e6ffc76cb5/1280x720.jpg",
+      "publishedAt": "2026-10-02T09:30:00Z",
+      "content": "Sony is pushing out a new PS5 firmware patch that updates the console to version 26.06-14.10.00. This will be another phased release, so you might not get it straight away, but the prompt to update t… [+863 chars]"
     },
     {
       "source": {
@@ -424,16 +609,16 @@
     },
     {
       "source": {
-        "id": "ign",
-        "name": "IGN"
+        "id": null,
+        "name": "Nintendo Life"
       },
-      "author": "Cade Onder",
-      "title": "GTA 6 Will Have Sex Scenes, According to New Zealand Ratings Board - IGN",
-      "description": "GTA 6 will have sex scenes, according to a new listing from international ratings boards.",
-      "url": "https://www.ign.com/articles/new-gta-6-age-rating-confirms-game-will-feature-sex-scenes",
-      "urlToImage": "https://assets-prd.ignimgs.com/2026/08/27/gta6-romance-feature-blog-1787862386845.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "publishedAt": "2026-10-02T01:52:00Z",
-      "content": "GTA 6 will have sex scenes, according to a new listing from international ratings boards.\r\nIn New Zealand and Australia, GTA 6's store page on PlayStation was updated to include the game's official a… [+2597 chars]"
+      "author": "Liam Doolan",
+      "title": "CD Projekt Red Says It's Working On Fixes For Witcher 3 Remastered - nintendolife.com",
+      "description": "But Switch 2 owners might have to wait a little longer",
+      "url": "https://www.nintendolife.com/news/2026/10/cd-projekt-red-says-its-working-on-fixes-for-witcher-3-remastered",
+      "urlToImage": "https://images.nintendolife.com/27d45a82d575d/1280x720.jpg",
+      "publishedAt": "2026-10-02T01:55:00Z",
+      "content": "Image: Nintendo / CD Projekt Red\r\nGeralt returned in The Witcher 3 Remastered earlier this week, and while the remaster is in a playable state, various issues have been identified across all platform… [+2536 chars]"
     },
     {
       "source": {
@@ -450,19 +635,6 @@
     },
     {
       "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Stevie Bonifield",
-      "title": "Apple’s reportedly developing a smart home camera that doesn’t record video - The Verge",
-      "description": "A smart home camera Apple’s working on would give users text descriptions of events instead of recordings, according to Bloomberg’s Mark Gurman.",
-      "url": "https://www.theverge.com/tech/1003877/apple-security-camera-no-video",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK071_APPLE_I.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "publishedAt": "2026-10-01T22:51:36Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nWith Apple rumored to launch a smart home hub next month, it could come with a privacy-protecting security camera too.\r\nWith Apple rumored to launch a smart home… [+3352 chars]"
-    },
-    {
-      "source": {
         "id": null,
         "name": "MacRumors"
       },
@@ -476,19 +648,6 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "AppleInsider"
-      },
-      "author": "Wesley Hilliard",
-      "title": "iPhone Duo inner display has a replaceable $19 top layer - AppleInsider",
-      "description": "AppleCare coverage for the iPhone Duo will mean inexpensive repairs for Apple's first foldable, including $99 full inner display replacement or $19 \"cover layer\" swaps.",
-      "url": "https://appleinsider.com/articles/26/10/01/iphone-duo-inner-display-has-a-replaceable-29-top-layer",
-      "urlToImage": "https://media.appleinsider.com/gallery/69185-145951-iPhone-Duo-open-xl.jpg",
-      "publishedAt": "2026-10-01T19:48:00Z",
-      "content": "iPhone Duo's cover layer will be easily replaced for just $19 with AppleCare\r\nAppleCare coverage for the iPhone Duo will mean inexpensive repairs for Apple's first foldable, including $99 full inner … [+4830 chars]"
-    },
-    {
-      "source": {
         "id": "techcrunch",
         "name": "TechCrunch"
       },
@@ -499,6 +658,19 @@
       "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/10/Virtual-Try-On.jpg?resize=1200,675",
       "publishedAt": "2026-10-01T19:21:53Z",
       "content": "OpenAI is again experimenting with how its conversational AI assistant, ChatGPT, can help users as they shop online. On Thursday, the company announced the global launch of two new shopping features,… [+2256 chars]"
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "David McCabe",
+      "title": "Amazon Settles Lawsuit Over Claims of Slow Deliveries to Low-Income Areas",
+      "description": "The tech giant will refund $7.25 million in Prime membership fees to affected customers and pay an additional $1 million to settle the suit brought by the District of Columbia.",
+      "url": "https://www.nytimes.com/2026/10/01/technology/amazon-slow-deliveries-dc.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/10/01/multimedia/01biz-amazon-settlement-ktpc/01biz-amazon-settlement-ktpc-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-10-01T19:17:52Z",
+      "content": "The tech giant will refund $7.25 million in Prime membership fees to affected customers and pay an additional $1 million to settle the suit brought by the District of Columbia."
     },
     {
       "source": {
@@ -516,6 +688,19 @@
     {
       "source": {
         "id": null,
+        "name": "9to5Mac"
+      },
+      "author": "Ryan Christoffel",
+      "title": "Apple says iPhone Duo has ‘replaceable’ folding display layer to minimize crease - 9to5Mac",
+      "description": "Foldables tend to show more crease over time, but Apple says iPhone Duo has a replaceable layer on its folding screen to mitigate that issue.",
+      "url": "https://9to5mac.com/2026/10/01/apple-says-iphone-duo-has-replaceable-folding-display-layer-to-minimize-crease/",
+      "urlToImage": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-duo-siri-app.jpg?quality=82&strip=all&resize=1200,628",
+      "publishedAt": "2026-10-01T18:44:00Z",
+      "content": "Foldable displays tend to show a more visible crease over time, but Apples Kate Bergeron says iPhone Duo has a replaceable cover layer on its folding screen to help mitigate that issue.\r\nAfter the iP… [+1467 chars]"
+    },
+    {
+      "source": {
+        "id": null,
         "name": "Pokemon.com"
       },
       "author": null,
@@ -529,28 +714,15 @@
     {
       "source": {
         "id": null,
-        "name": "Pokemon GO Hub"
-      },
-      "author": "kittypokemonsalot",
-      "title": "Minior Showers in Pokémon GO: Dates, Cores & Bonuses - Pokémon GO Hub",
-      "description": "Minior debuts in Pokémon GO on October 19! Explore Minior Showers dates, core colours, hemisphere exclusives, bonuses and its form-changing mechanic.",
-      "url": "https://pokemongohub.net/post/guide/minior-showers/",
-      "urlToImage": "https://pokemongohub.net/wp-content/uploads/2026/10/minior-showers.jpg",
-      "publishedAt": "2026-10-01T17:13:16Z",
-      "content": "MiniorMinior is making its Pokémon GO debut through Minior Showers, a series of events timed to coincide with real-world meteor showers. The first event runs from October 19 to 24, 2026, with Miniors… [+2553 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Videocardz.com"
+        "name": "Android Authority"
       },
       "author": null,
-      "title": "NVIDIA and Microsoft tease RTX Spark announcements for October 7 Windows event - VideoCardz.com",
-      "description": "RTX Spark will be a key focus of Microsoft’s October 7 Windows event with Jensen Huang in attendance. The first systems appear aimed at premium laptops and workstations rather than gaming PCs.",
-      "url": "https://videocardz.com/newz/nvidia-and-microsoft-tease-rtx-spark-announcements-for-october-7-windows-event",
-      "urlToImage": "https://cdn.videocardz.com/1/2026/10/MICROSOFT-RTX-SPARK.webp",
-      "publishedAt": "2026-10-01T16:52:13Z",
-      "content": "Yes, I was confused for a second too –  it’s American date style, so October 7th. Microsoft and NVIDIA are dropping more hints about next week’s Windows and Surface event.\r\nMicrosoft now says the Oct… [+1512 chars]"
+      "title": "Google’s new Android sideloading rules are coming — and here are all the ways to bypass them - Android Authority",
+      "description": "Google’s developer verification rules are now live, but users can bypass new APK sideloading blocks using ADB, Shizuku, and Advanced Flow.",
+      "url": "https://www.androidauthority.com/how-to-bypass-android-developer-verification-sideloading-rules-3718002/",
+      "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2026/03/install-app-popup-when-sideloading-an-app-scaled.jpg",
+      "publishedAt": "2026-10-01T16:42:00Z",
+      "content": "<ul><li>Certified Android devices running Google Play Services in Brazil, Indonesia, Singapore, and Thailand now actively block apps from unverified developers, with a global rollout set for 2027.</l… [+8546 chars]"
     },
     {
       "source": {
@@ -594,32 +766,6 @@
     {
       "source": {
         "id": null,
-        "name": "Digitalfoundry.net"
-      },
-      "author": "William Judd",
-      "title": "Sony announces QSSR AI upscaling tech for base PS5 in Marvel's Wolverine and Ghost of Yōtei - digitalfoundry.net",
-      "description": "The PS5 Pro is no longer the sole domain of AI upscaling tech on console.",
-      "url": "https://www.digitalfoundry.net/news/2026/10/sony-announces-qssr-ai-upscaling-tech-for-base-ps5-in-marvels-wolverine-and-ghost-of-ytei",
-      "urlToImage": "https://images.digitalfoundry.net/b9119de05990a/1280x720.jpg",
-      "publishedAt": "2026-10-01T16:03:00Z",
-      "content": "Sony has announced QSSR - Quick Spectral Super Resolution - bringing PSSR-style AI upscaling to the base PS5 in a huge coup for existing console owners. Games need to be updated to add support for QS… [+2969 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Push Square"
-      },
-      "author": "Robert Ramsey",
-      "title": "Review: Ghost of Yotei: Complete Edition (PS5) - Atsu Shines in Story DLC, But Most Wanted Mode Steals the Show - Push Square",
-      "description": "Wanted dead",
-      "url": "https://www.pushsquare.com/reviews/ps5/ghost-of-yotei-complete-edition",
-      "urlToImage": "https://images.pushsquare.com/8b9cd557e453f/1280x720.jpg",
-      "publishedAt": "2026-10-01T16:00:00Z",
-      "content": "A fairly robust re-release that has an upgrade path for existing owners, Ghost of Yotei: Complete Edition features both an additional chapter in Atsu's quest for revenge, titled Echoes of Sekigahara,… [+4346 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "9to5google.com"
       },
       "author": "Damien Wilde",
@@ -642,19 +788,6 @@
       "urlToImage": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/10/FY26-Social-FPD_10.1.2026_1920x1080-29cec7cbe2a1b4e6d6dc.jpg",
       "publishedAt": "2026-10-01T15:33:25Z",
       "content": "Your weekend plans are officially set with Ubisoft’s Free Play Days takeover!\r\nFARCRY 6, Assassin’s Creed Odyssey, Avatar: Frontiers of Pandora, Skull and Bones, and The Crew Motorfest are free for a… [+2988 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Forbes"
-      },
-      "author": "Paul Tassi",
-      "title": "Control Resonant’s New Patch Misses A Much-Needed Addition - forbes.com",
-      "description": "'Control Resonant' has new patch notes out, but the game is still missing a key element that would improve combat.",
-      "url": "https://www.forbes.com/sites/paultassi/2026/10/01/control-resonants-new-patch-misses-a-much-needed-addition/",
-      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6ab7c29994461bb73a374073/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-      "publishedAt": "2026-10-01T15:15:34Z",
-      "content": "'Control Resonant' has new patch notes out, but the game is still missing a key element that would improve combat.\r\nRemedy\r\nControl Resonant launched a week ago today, and now Remedy has just release… [+3666 chars]"
     },
     {
       "source": {
@@ -685,32 +818,6 @@
     {
       "source": {
         "id": null,
-        "name": "Consequence.net"
-      },
-      "author": "Eddie Fu",
-      "title": "Best October Prime Day AirPods Deals Available Now - Consequence of Sound",
-      "description": "Amazon is already running AirPods deals ahead of its October Prime Day event, with discounts on AirPods Pro 3, AirPods Max 2, and more.",
-      "url": "https://consequence.net/2026/10/best-october-prime-day-airpods-deals-2026/",
-      "urlToImage": "https://consequence.net/wp-content/uploads/2026/09/october-prime-day-2026-airpods-deals.jpg",
-      "publishedAt": "2026-10-01T14:43:31Z",
-      "content": "Amazon’s major fall sale, Prime Big Deal Days, runs on October 6th and 7th. It’s one of the last times of the year AirPods will be available at a nice discount before Black Friday, when inventory can… [+1750 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Timeandtidewatches.com"
-      },
-      "author": "Nina Scally",
-      "title": "Christopher Ward C1 Jump Hour XV | INTRODUCING - Time+Tide Watches",
-      "description": "Christopher Ward celebrates 15 years of its first in-house complication with the 39mm C1 Jump Hour XV, limited to just 300 pieces.",
-      "url": "https://timeandtidewatches.com/christopher-ward-c1-jump-hour-xv-introducing/",
-      "urlToImage": "https://timeandtidewatches.com/wp-content/uploads/2026/09/Christopher-Ward-C1-Jump-Hour-Header.jpg",
-      "publishedAt": "2026-10-01T14:02:26Z",
-      "content": "Nina Scally The new Christopher Ward C1 Jump Hour XV is a 300-piece limited edition, paying homage to the 15th anniversary of the brand’s very first in-house complication. Scaled down, it features a … [+5672 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "Eurogamer.net"
       },
       "author": "Sherif Saed",
@@ -724,41 +831,80 @@
     {
       "source": {
         "id": null,
-        "name": "Videocardz.com"
+        "name": "PetaPixel"
       },
-      "author": null,
-      "title": "Modders are now merging entire games, from Minecraft in Elden Ring to Mario Kart in COD Zombies - VideoCardz.com",
-      "description": "Modders are moving beyond model swaps by combining gameplay systems from entirely different titles. AI agents, recompilation and matching decompilation projects are speeding up the work.",
-      "url": "https://videocardz.com/newz/modders-are-now-merging-entire-games-from-minecraft-in-elden-ring-to-mario-kart-in-cod-zombies",
-      "urlToImage": "https://cdn.videocardz.com/1/2026/10/MARIO-CODZOMBIE-SKATE-COD-MINECRAFT-GTA.webp",
-      "publishedAt": "2026-10-01T13:32:11Z",
-      "content": "Modding is no longer just about replacing character models or dropping a new map into a game. Over the past few days, creators have shown Minecraft running inside Elden Ring, Escape from Tarkov mecha… [+2696 chars]"
+      "author": "Jeremy Gray",
+      "title": "Huawei Launches an Entire Camera You Put On a Phone - PetaPixel",
+      "description": "A camera that goes on your phone.",
+      "url": "https://petapixel.com/2026/10/01/huawei-launches-an-entire-camera-you-put-on-a-phone/",
+      "urlToImage": "https://petapixel.com/assets/uploads/2026/10/kv.jpg",
+      "publishedAt": "2026-10-01T13:55:31Z",
+      "content": "Alongside a slate of new smartphones, Huawei today unveiled an add-on camera module. While companies like Vivo have Zeiss-made add-on teleconverter lenses, Huawei’s new Ruiying Z10 is an entire camer… [+2291 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Antonio G. Di Benedetto",
+      "title": "HP’s answer to the MacBook Neo is thinner, lighter, and comes with OLED - The Verge",
+      "description": "The HP OmniBook 5 14 looks like a Neo wannabe right down to its 8GB of RAM and colors, but it seems a compelling competitor thanks in part to its OLED display.",
+      "url": "https://www.theverge.com/gadgets/1003107/hp-omnibook-5-14-intel-wildcat-lake-8gb-macbook-neo-price-specs",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/HP-OmniBook-5-14_AllColorsTop.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+      "publishedAt": "2026-10-01T13:00:00Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nThe HP OmniBook 5 14 looks like a Neo wannabe right down to its 8GB of RAM and colors, but it seems a compelling competitor.\r\nThe HP OmniBook 5 14 looks like a N… [+3534 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Android Authority"
+        "name": "9to5google.com"
       },
-      "author": null,
-      "title": "Android's controversial new developer verification rules are officially here - Android Authority",
-      "description": "Google’s controversial Android developer verification rules are now in effect in four countries.",
-      "url": "https://www.androidauthority.com/android-sideloading-developer-verification-first-wave-rollout-3717921/",
-      "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2025/11/Sideloading-an-Android-app-hero-image-scaled.jpg",
-      "publishedAt": "2026-10-01T12:21:00Z",
-      "content": "<ul><li>Googles new Android developer verification rules took effect on September 30 in Brazil, Indonesia, Singapore, and Thailand.</li><li>Apps from participating stores must now come from verified … [+2318 chars]"
+      "author": "Ben Schoon",
+      "title": "Samsung has updated these Galaxy devices to Android 17 - 9to5Google",
+      "description": "Samsung is now rolling out its Android 17-based update, One UI 9, to its collection of supported Galaxy smartphones and...",
+      "url": "http://9to5google.com/2026/10/01/samsung-galaxy-android-17-update-list/",
+      "urlToImage": "https://9to5google.com/wp-content/uploads/sites/4/2026/07/Welcome-to-One-UI-9.0-on-Galaxy-S26-device-1.jpg?quality=82&strip=all&resize=1200,628",
+      "publishedAt": "2026-10-01T12:00:00Z",
+      "content": "Samsung is now rolling out its Android 17-based update, One UI 9, to its collection of supported Galaxy smartphones and tablets. Here’s the full list of devices that have been updated so far, and wha… [+8672 chars]"
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "David Yaffe-Bellany",
+      "title": "Inside Binance Founder Changpeng Zhao’s Life After Prison",
+      "description": "Changpeng Zhao, jailed in the United States for a financial crime and pardoned by President Trump, is now living a gilded life in the United Arab Emirates.",
+      "url": "https://www.nytimes.com/2026/10/01/business/changpeng-zhao-binance.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/10/01/multimedia/01biz-sun-cz-promo-fvwz/01biz-sun-cz-promo-fvwz-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-10-01T11:55:56Z",
+      "content": "Changpeng Zhao, jailed in the United States for a financial crime and pardoned by President Trump, is now living a gilded life in the United Arab Emirates."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Max Read, Whitney Jones, Eddie Costas, Vjeran Pavic, Chris Wood, Marion Lozano and Rowan Niemisto",
+      "title": "What’s Next for ‘Hard Fork’?",
+      "description": "The podcast’s next chapter begins this week.",
+      "url": "https://www.nytimes.com/2026/10/01/podcasts/hard-fork-whats-next.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/10/01/podcasts/01hardfork-trailer/01hardfork-trailer-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-10-01T11:00:22Z",
+      "content": "The podcast’s next chapter begins this week."
     },
     {
       "source": {
         "id": null,
-        "name": "BikeRadar.com"
+        "name": "Warhammer-community.com"
       },
-      "author": "Warren Rossiter",
-      "title": "I never thought I’d say this, but Firefly’s new All Road makes me want a rim-brake bike again - BikeRadar",
-      "description": "Firefly's new full-custom titanium go-anywhere All Road bike comes with rim brakes and clearance for 40mm tyres.",
-      "url": "https://www.bikeradar.com/news/firefly-all-road",
-      "urlToImage": "https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/049bfbab-1534-41ac-9377-8960ec146e4a/16598105-7e93-4032-82ca-338096b915e2/thumbnails/7791a71e-fe72-4c5c-8402-e664957fab38.jpeg?appId=32337f2f-7841-4ef6-a233-d1f001580530&platform=WEB&w=1200",
-      "publishedAt": "2026-10-01T11:00:00Z",
-      "content": "Around this time last year, I asked if we could stop talking about rim brakes finally. The dated tech cant match disc brakes in the important business of braking in all weather. \r\nToday, however, I c… [+4269 chars]"
+      "author": null,
+      "title": "Warhammer 40,000 – Balance Update: Chaos, the Imperium and Xenos Fight Back - Warhammer Community",
+      "description": "Learn what yesterday’s big changes mean for the non-Space Marines factions.",
+      "url": "https://www.warhammer-community.com/articles/vzqu6tzw/warhammer-40000-balance-update-chaos-the-imperium-and-xenos-fight-back",
+      "urlToImage": "https://assets.warhammer-community.com/articles/0-2026/september/wc28-09/40k_slatefollowup-sep01-2-share-hqow5sdukb.jpg",
+      "publishedAt": "2026-10-01T10:59:32Z",
+      "content": "© Copyright Games Workshop Limited 2026. GW, Games Workshop, Citadel, White Dwarf, Space Marine, 40K, Warhammer, Warhammer 40,000, the Aquila Double-headed Eagle logo, Warhammer Age of Sigmar, Battle… [+1391 chars]"
     },
     {
       "source": {
@@ -788,6 +934,19 @@
     },
     {
       "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Quinn Glabicki",
+      "title": "When Data Centers Cluster Together, How Dirty Are They? One County Wants Answers.",
+      "description": "An unusual study aims to estimate the pollution and health costs from a cluster of proposed data centers, instead of considering each one separately.",
+      "url": "https://www.nytimes.com/2026/10/01/climate/data-center-pollution-study-pennsylvania.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/09/30/multimedia/30cli-data-center-pollution-vwgb/30cli-data-center-pollution-vwgb-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-10-01T09:02:57Z",
+      "content": "An unusual study aims to estimate the pollution and health costs from a cluster of proposed data centers, instead of considering each one separately."
+    },
+    {
+      "source": {
         "id": null,
         "name": "Android Authority"
       },
@@ -801,29 +960,146 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "PetaPixel"
+        "id": "the-new-york-times",
+        "name": "The New York Times"
       },
-      "author": "Matt Growcoot",
-      "title": "Nikon ‘Re-Reviewing’ Winner of Small World in Motion Contest After AI Accusation - PetaPixel",
-      "description": "The winner is under intense scrutiny.",
-      "url": "https://petapixel.com/2026/10/01/nikon-re-reviewing-winner-of-small-world-in-motion-contest-after-ai-accusation/",
-      "urlToImage": "https://petapixel.com/assets/uploads/2026/10/Dr-Ning-Xu-AI-Investigation.jpg",
-      "publishedAt": "2026-10-01T08:45:25Z",
-      "content": "The scientific community has spotted continuity errors in Dr Ning Xu’s winning video.\r\nThe winner of the Nikon Small World in Motion competition is under investigation after scientists accused Dr Nin… [+2954 chars]"
+      "author": "Theodore Schleifer and Mike Isaac",
+      "title": "OpenAI’s Greg Brockman Backs Out of Second $25 Million Donation to A.I. Super PAC",
+      "description": "Greg Brockman, OpenAI’s president and co-founder, said internally that the super PAC, Leading the Future, had become a “distraction” for the A.I. company.",
+      "url": "https://www.nytimes.com/2026/09/30/technology/openai-brockman-super-pac-leading-the-future.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/09/30/multimedia/30biz-openai-pac-mclh/30biz-openai-pac-mclh-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-09-30T22:27:26Z",
+      "content": "Greg Brockman, OpenAI’s president and co-founder, said internally that the super PAC, Leading the Future, had become a “distraction” for the A.I. company."
     },
     {
       "source": {
-        "id": null,
-        "name": "GSMArena.com"
+        "id": "the-new-york-times",
+        "name": "The New York Times"
       },
-      "author": "Siddharth",
-      "title": "Huawei Mate 90 Pro Max debuts with a 1-inch modular camera, 12,000-nit display and 6,800mAh battery - GSMArena.com news - GSMArena.com",
-      "description": "It’s powered by the Kirin 9050 Pro chipset. Huawei has unveiled its latest Mate 90 series phones in China, with the Mate 90 Pro Max sitting at the top. The...",
-      "url": "https://www.gsmarena.com/huawei_mate_90_pro_max_debuts_with_a_1inch_modular_camera_12000nit_display_and_6800mah_battery-news-74850.php",
-      "urlToImage": "https://fdn.gsmarena.com/imgroot/news/26/09/huawei-mate-90-pro-max-ofic/-952x498w6/gsmarena_00.jpg",
-      "publishedAt": "2026-10-01T06:55:02Z",
-      "content": "Huawei has unveiled its latest Mate 90 series phones in China, with the Mate 90 Pro Max sitting at the top. The phone offers a large 6.9-inch display, a triple-rear camera setup, and supports a uniqu… [+1840 chars]"
+      "author": "Kate Conger",
+      "title": "Google Releases New Gemini Model With Guardrails Amid A.I. Safety Debate",
+      "description": "For safety reasons, Gemini 4 Argon will initially be available only to some companies and organizations focused on cybersecurity defense before it is more widely released, Google said.",
+      "url": "https://www.nytimes.com/2026/09/30/technology/google-gemini-4-argon-ai-safety.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/09/30/multimedia/30BIZ-GEMINI-1-cqhb/30BIZ-GEMINI-1-cqhb-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-09-30T20:24:33Z",
+      "content": "For safety reasons, Gemini 4 Argon will initially be available only to some companies and organizations focused on cybersecurity defense before it is more widely released, Google said."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "J. D. Biersdorfer",
+      "title": "How to Listen to Your Favorite Music, Online or Off the Grid",
+      "description": "Streaming services can introduce you to a wonderland of nearly unlimited audio, but downloading your digital collection has advantages.",
+      "url": "https://www.nytimes.com/2026/09/30/technology/personaltech/how-to-listen-to-your-favorite-music-online-or-off-the-grid.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/09/30/technology/personaltech/30BIZ-TECHTIP-TOP/30BIZ-TECHTIP-01-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-09-30T20:18:09Z",
+      "content": "Streaming services can introduce you to a wonderland of nearly unlimited audio, but downloading your digital collection has advantages."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "David McCabe",
+      "title": "F.T.C. Investigates OpenAI and Anthropic Over Potential Consumer Harms",
+      "description": "The agency will examine whether A.I. labs have broken federal laws prohibiting companies from unfair and deceptive practices.",
+      "url": "https://www.nytimes.com/2026/09/30/technology/ftc-openai-anthropic-investigation.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/09/30/multimedia/30biz-ftc-ai-investigation-tkwg/30biz-ftc-ai-investigation-tkwg-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-09-30T19:26:02Z",
+      "content": "The agency will examine whether A.I. labs have broken federal laws prohibiting companies from unfair and deceptive practices."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Alex Williams",
+      "title": "He Was a Tech Investor Before There Was a Silicon Valley",
+      "description": "Bill Draper began funding start-ups in the early 1960s, when the Santa Clara Valley was better known for apricot orchards than microchips. He has died at 98.",
+      "url": "https://www.nytimes.com/2026/09/30/technology/william-draper-dead.html",
+      "urlToImage": null,
+      "publishedAt": "2026-09-30T18:52:25Z",
+      "content": "Bill Draper began funding start-ups in the early 1960s, when the Santa Clara Valley was better known for apricot orchards than microchips. He has died at 98."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Kashmir Hill, Jesse Drucker, Eli Tan and Mike Isaac",
+      "title": "How Meta Uses A.I. Data Centers to Avoid Billions in Federal Taxes",
+      "description": "Meta is exploiting a lucrative tax break intended to support research and experimentation. Its own accountants say the gambit is risky.",
+      "url": "https://www.nytimes.com/2026/09/30/technology/meta-ai-data-centers-taxes.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/09/23/business/00rd-tax/00rd-tax-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-09-30T09:00:48Z",
+      "content": "Meta is exploiting a lucrative tax break intended to support research and experimentation. Its own accountants say the gambit is risky."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Elizabeth Dias",
+      "title": "Is Claude Conscious? Inside Anthropic’s Quest to Instill Morality Into Its A.I. Models",
+      "description": "In a series of private meetings, the company consulted religious scholars to help instill morality into its A.I. models — and make the case that Claude could be conscious.",
+      "url": "https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/06/30/multimedia/30nat-pope-anthropic-wfkz/30nat-pope-anthropic-wfkz-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-09-30T00:09:48Z",
+      "content": "In a series of private meetings, the company consulted religious scholars to help instill morality into its A.I. models — and make the case that Claude could be conscious."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Katie Rogers and Cecilia Kang",
+      "title": "At A.I. Event, Trump Asks Meta, OpenAI and Microsoft to Make Safety Decisions Themselves",
+      "description": "President Trump’s meetings with tech leaders produced some voluntary safeguards and a commitment to rebrand artificial intelligence as “super intelligence,” the term that Mr. Trump prefers.",
+      "url": "https://www.nytimes.com/2026/09/29/us/politics/ai-trump-meta-microsoft-openai.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/09/29/multimedia/29dc-trump-tech1-jqmw/29dc-trump-tech1-jqmw-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-09-29T23:20:44Z",
+      "content": "President Trump’s meetings with tech leaders produced some voluntary safeguards and a commitment to rebrand artificial intelligence as “super intelligence,” the term that Mr. Trump prefers."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Sheera Frenkel, Dustin Volz and Dylan Freedman",
+      "title": "OpenAI Ignored Employees’ Warnings About Safely Testing A.I. Models",
+      "description": "Employees and security researchers said that they had cautioned the company on safely testing its A.I. models and strengthening its corporate infrastructure, but that OpenAI did not listen.",
+      "url": "https://www.nytimes.com/2026/09/29/technology/openai-warnings-security.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/09/29/multimedia/29biz-openai-security-sam-promo-hpcz/29biz-openai-security-sam-promo-hpcz-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-09-29T22:53:40Z",
+      "content": "Employees and security researchers said that they had cautioned the company on safely testing its A.I. models and strengthening its corporate infrastructure, but that OpenAI did not listen."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Robin George Andrews and Nataliia Novosolova",
+      "title": "Ukrainian Science Academy, Struck by Drone, Played Key Role in Research",
+      "description": "Over 90 percent of Ukraine’s scientific discoveries have been attributed to Ukraine’s National Academy of Sciences, including advancements in astronomy and military technology.",
+      "url": "https://www.nytimes.com/2026/09/29/science/ukraine-science-academy-russia-attack.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/09/29/multimedia/29sci-ukraine-science-wgmp/29sci-ukraine-science-wgmp-mediumSquareAt3X-v2.jpg",
+      "publishedAt": "2026-09-29T19:55:21Z",
+      "content": "Over 90 percent of Ukraine’s scientific discoveries have been attributed to Ukraine’s National Academy of Sciences, including advancements in astronomy and military technology."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Emmy Martin",
+      "title": "OpenAI Unveils Dots, New A.I. Agents to Rival Meta’s Muse",
+      "description": "The ChatGPT maker unveiled agents that act as assistants, just weeks after Meta released Muse, as it faces scrutiny over incidents involving its technology.",
+      "url": "https://www.nytimes.com/2026/09/29/technology/openai-dots-ai-agents.html",
+      "urlToImage": null,
+      "publishedAt": "2026-09-29T18:29:40Z",
+      "content": "The ChatGPT maker unveiled agents that act as assistants, just weeks after Meta released Muse, as it faces scrutiny over incidents involving its technology."
     },
     {
       "source": {
@@ -837,6 +1113,71 @@
       "urlToImage": "https://s.yimg.com/lo/mysterio/api/9722555f79f77b18fa0b88f206dee8c03b7a62446a074da8e74cfa4650957332/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthestreet_881%2Ff3fadc688ccf17d11b95e306e05f2915.jpg",
       "publishedAt": "2026-09-29T17:12:20Z",
       "content": "Apple (Nasdaq: AAPL) released an emergency-grade security update on Sept. 28, and this one is not routine, the company says the flaw it fixes may already have been used in real attacks, and a blockch… [+2362 chars]"
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Erin Griffith",
+      "title": "College Students Flex Their Power in A.I. Investment Frenzy",
+      "description": "Dorm Room Fund, a program that lets college students invest in their peers, raised a new $50 million fund as the competition for young founders ramps up.",
+      "url": "https://www.nytimes.com/2026/09/29/technology/dorm-room-fund-ai-investment.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/09/29/multimedia/29biz-college-investors-zfcb/29biz-college-investors-zfcb-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-09-29T15:31:45Z",
+      "content": "Dorm Room Fund, a program that lets college students invest in their peers, raised a new $50 million fund as the competition for young founders ramps up."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Sheera Frenkel",
+      "title": "OpenAI Says It Will Not Release Newest Astra A.I. Model Over Safety Concerns",
+      "description": "The company’s researchers raised questions about the security of the model, known as GPT-6.1 Astra.",
+      "url": "https://www.nytimes.com/2026/09/28/technology/openai-astra-safety.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/09/28/multimedia/28biz-openai-astra-vbgk/28biz-openai-astra-vbgk-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-09-29T00:32:19Z",
+      "content": "The company’s researchers raised questions about the security of the model, known as GPT-6.1 Astra."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Lauren McCarthy and Kalley Huang",
+      "title": "Nvidia Adds $150 Billion to Massive Stock Buyback, the Largest Ever",
+      "description": "The increase comes four months after the chip giant added $80 billion to its buyback program, bringing the total remaining authorized amount to $235 billion.",
+      "url": "https://www.nytimes.com/2026/09/28/business/nvidia-stock-buyback.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/09/28/multimedia/28biz-nvidia-buyback-qlwm/28biz-nvidia-buyback-qlwm-mediumSquareAt3X-v2.jpg",
+      "publishedAt": "2026-09-28T20:11:51Z",
+      "content": "The increase comes four months after the chip giant added $80 billion to its buyback program, bringing the total remaining authorized amount to $235 billion."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Zolan Kanno-Youngs",
+      "title": "Dario Amodei of Anthropic to Dine With Trump at White House",
+      "description": "Dario Amodei, who is also the company’s chief executive, will join the president at the White House for a private dinner. Mr. Trump has dismissed his cautions.",
+      "url": "https://www.nytimes.com/2026/09/27/us/politics/trump-amodei-anthropic-artificial-intelligence.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/09/27/multimedia/00dc-trump-anthropic-flht/00dc-trump-anthropic-flht-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-09-27T22:12:24Z",
+      "content": "Dario Amodei, who is also the company’s chief executive, will join the president at the White House for a private dinner. Mr. Trump has dismissed his cautions."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Adam Satariano and Cecilia Kang",
+      "title": "As A.I. Accelerates, Governments Are Increasingly Being Left Behind",
+      "description": "The gap between technology and policymaking has gotten wider than ever with artificial intelligence, leaving a global policy vacuum as A.I. models rapidly advance.",
+      "url": "https://www.nytimes.com/2026/09/27/technology/ai-government-regulation.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/09/26/business/ai-governance-illo/ai-governance-illo-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-09-27T11:22:48Z",
+      "content": "The gap between technology and policymaking has gotten wider than ever with artificial intelligence, leaving a global policy vacuum as A.I. models rapidly advance."
     }
   ]
 }

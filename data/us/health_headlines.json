@@ -2,10 +2,130 @@
   "source": "top_headlines",
   "country": "us",
   "category": "health",
-  "mode": "country",
-  "fetched_at": "2026-10-04T00:09:45.466547+00:00",
-  "articles_count": 62,
+  "providers": [
+    "newsapi",
+    "rss"
+  ],
+  "fetched_at": "2026-10-04T07:28:46.324117+00:00",
+  "articles_count": 81,
   "articles": [
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Alena Cerro",
+      "title": "F.D.A. Classifies Salad Dressing Recall to Highest Health Risk",
+      "description": "Salata Dressings initiated the recall of its Jalapeño Avocado Dressing in August over concerns about possible salmonella contamination.",
+      "url": "https://www.nytimes.com/2026/10/03/health/fda-recall-salata-salad-dressing-salmonella.html",
+      "urlToImage": null,
+      "publishedAt": "2026-10-03T21:01:02Z",
+      "content": "Salata Dressings initiated the recall of its Jalapeño Avocado Dressing in August over concerns about possible salmonella contamination."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Carolyn Y. Johnson",
+      "title": "Scientists Untangle the Biology of an ‘Undruggable’ Cancer Gene",
+      "description": "Found in 70 percent of cancers, the gene is seen as a grand orchestrator, but has been surprisingly difficult to stop.",
+      "url": "https://www.nytimes.com/2026/10/02/science/scientists-untangle-the-biology-of-an-undruggable-cancer-gene.html",
+      "urlToImage": null,
+      "publishedAt": "2026-10-03T19:09:42Z",
+      "content": "Found in 70 percent of cancers, the gene is seen as a grand orchestrator, but has been surprisingly difficult to stop."
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Eatingwell.com"
+      },
+      "author": "https://www.facebook.com/EatingWell/",
+      "title": "The Best Late-Night Drink to Support Healthy Aging, According to Dietitians - EatingWell",
+      "description": "Dietitians explain how a cup of milk before bed can provide nutrients that support muscle, bone, brain and overall health as you age.",
+      "url": "https://www.eatingwell.com/late-night-drink-for-healthy-aging-12147207",
+      "urlToImage": "https://www.eatingwell.com/thmb/_00Tlv_4MBRx_aaPIWGnHsineKU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/The-Best-Late-Night-Drink-to-Support-Healthy-Aging-According-to-Dietitians-10419749136046d8a026cc88a61003aa.jpg",
+      "publishedAt": "2026-10-03T02:00:00Z",
+      "content": "If youve reached a certain age, the days of late-night drinking might largely be behind youat least, a certain type of late-night drinking. But if youre looking to support healthy aging, theres one b… [+4493 chars]"
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Christina Jewett, Alice Callahan and Caroline Hopkins Legaspi",
+      "title": "F.D.A. Found Cyclospora During Taylor Farms Inspection in Mexico",
+      "description": "The discovery adds strong evidence that the outbreak that sickened thousands over the summer originated in a grower’s field or processing facility.",
+      "url": "https://www.nytimes.com/2026/10/02/health/cyclospora-taylor-farms-mexico.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/10/02/multimedia/02dc-cyclospora-vphc/02dc-cyclospora-vphc-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-10-02T22:25:24Z",
+      "content": "The discovery adds strong evidence that the outbreak that sickened thousands over the summer originated in a grower’s field or processing facility."
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Eatingwell.com"
+      },
+      "author": "https://www.facebook.com/EatingWell/",
+      "title": "This Mealtime Habit May Help Reduce Blood Sugar Spikes, New Study Says - EatingWell",
+      "description": "Eating with someone you love may support healthier blood sugar levels, new research suggests. Social connection could also promote overall well-being.",
+      "url": "https://www.eatingwell.com/eating-with-others-health-benefits-study-12155217",
+      "urlToImage": "https://www.eatingwell.com/thmb/G7meD7yyPRGcV04PEPKOVnIGH2U=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/This-Mealtime-Habit-May-Help-Reduce-Blood-Sugar-Spikes-New-Study-Says-8482f4cc848d4b179cadfc4180a4b99e.jpg",
+      "publishedAt": "2026-10-02T22:02:36Z",
+      "content": "It often feels like were missing out on human connectionweve replaced so many in-person meetings with video calls and spent so many meals glued to our phones rather than enjoying the moment with love… [+7000 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Philadelphia Inquirer"
+      },
+      "author": "Wendy Ruderman",
+      "title": "A 20-year-old Amish woman with leukemia got measles and died in Pa.’s largest outbreak in three decades - Inquirer.com",
+      "description": "After measles swept through her household, the young woman wanted to get vaccinated. Her doctor said she couldn't because she had leukemia and the treatments had weakened her immune system.",
+      "url": "https://www.inquirer.com/health/measles-death-pennsylvania-outbreak-lancaster-county-20261002.html",
+      "urlToImage": "https://www.inquirer.com/resizer/v2/42MT43DCAJCIDPMKJPENWJSS64.jpg?auth=22203c58525ea3f0fbf2e94c7b2bcea57ba51af0af8b88ea1cb18b3d53ba2273&width=760&height=507&smart=true",
+      "publishedAt": "2026-10-02T21:44:56Z",
+      "content": "Listen to article 0:00 min\r\nThe headstone had not yet been placed Thursday on the freshly dug grave where a 20-year-old Amish woman was buried this weekamid the rolling clover fields and dairy farms … [+8607 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Matthew Phelan",
+      "title": "Childhood Chickenpox Shots May Be Slashing Shingles Cases Decades Later—by Quite a Bit - Gizmodo",
+      "description": "A massive study of over 85 million U.S. medical records has confirmed that childhood vaccinations against chickenpox lowers your risk of shingles. Who could have known this?",
+      "url": "https://gizmodo.com/childhood-chickenpox-shots-may-be-slashing-shingles-cases-decades-later-by-quite-a-bit-2000821061",
+      "urlToImage": "https://gizmodo.com/app/uploads/2026/10/child-chickenpox-vaccinations-shingles-1200x675.jpeg",
+      "publishedAt": "2026-10-02T21:20:51Z",
+      "content": "Millennials across America (at least in our own minds) have a lot to grouse over: graduating into a labor market ravaged by the 2008 financial crisis, hamstrung by arcane systems of predatory student… [+4123 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "KTLA Los Angeles"
+      },
+      "author": "Lily Dallow",
+      "title": "Rabies-positive bat found in Long Beach, first since 2014 - ktla.com",
+      "description": "A bat found in Long Beach has tested positive for rabies, marking the city’s first confirmed detection in more than a decade, health officials announced Friday. The bat was submitted to the Long Beach Public Health Laboratory and tested positive on Sept. 30, …",
+      "url": "https://ktla.com/news/local-news/rabies-positive-bat-found-in-long-beach-first-since-2014/",
+      "urlToImage": "https://ktla.com/wp-content/uploads/sites/4/2026/05/bats-e1780080249732.jpg?w=1280",
+      "publishedAt": "2026-10-02T21:12:46Z",
+      "content": "A bat found in Long Beach has tested positive for rabies, marking the citys first confirmed detection in more than a decade, health officials announced Friday.\r\nThe bat was submitted to the Long Beac… [+2161 chars]"
+    },
+    {
+      "source": {
+        "id": "associated-press",
+        "name": "Associated Press"
+      },
+      "author": "Dieudonne Dirole, Ope Adetayo",
+      "title": "An Ebola treatment center was burned down as the death toll in Congo passes 4,000 - AP News",
+      "description": "Congo's Ebola outbreak has resulted in over 4,000 deaths, with authorities struggling to contain the virus. The Health Ministry reported Thursday that 4,018 people have died, nearly half of the 8,300 confirmed cases. The outbreak, caused by the Bundibugyo vir…",
+      "url": "https://apnews.com/article/congo-ebola-outbreak-virus-4c79b59ec81a08675d2506c9e176d125",
+      "urlToImage": "https://dims.apnews.com/dims4/default/87ee8f5/2147483647/strip/true/crop/4140x2759+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F78%2F23%2F250579dc69d0fdaef457f3e37831%2Fe49d654073e74b8591bf5035304407b0",
+      "publishedAt": "2026-10-02T20:18:00Z",
+      "content": "BUNIA, Congo (AP) Congos Ebola outbreak has killed more than 4,000 people, authorities said, as they struggle to contain what has become the fastest-growing Ebola outbreak in history.\r\nThe latest fig… [+5163 chars]"
+    },
     {
       "source": {
         "id": "ars-technica",
@@ -48,6 +168,19 @@
     {
       "source": {
         "id": null,
+        "name": "East Idaho News"
+      },
+      "author": "Kaitlyn Hart",
+      "title": "‘He loved fiercely.’ Local father dies from blood clot after fighting flesh-eating bacteria - East Idaho News",
+      "description": "NEWDALE — Following his tragic death, the family of this local ‘girl dad’ says they will always remember his fierce love and his mischievous, prank-loving personality. Jon McCoy died on Monday at 38-years-old from complications due to a massive blood clot. Ea…",
+      "url": "https://www.eastidahonews.com/2026/10/he-loved-fiercely-local-father-dies-from-blood-clot-after-fighting-flesh-eating-bacteria/",
+      "urlToImage": "https://s3.us-west-2.amazonaws.com/assets.eastidahonews.com/wp-content/uploads/2026/10/McCoyfeatured.jpg",
+      "publishedAt": "2026-10-02T19:15:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
         "name": "COLlive - Chabad News"
       },
       "author": "COLlive News",
@@ -57,6 +190,19 @@
       "urlToImage": "https://collive.com/wp-content/uploads/2026/10/pexels-shvetsa-3844581-1.jpg",
       "publishedAt": "2026-10-02T19:03:50Z",
       "content": "A message from Hatzalah of Crown Heights: Yesterday a young man was taken to the hospital with meningitis, which can be a very serious infection for anyone who contracts it. \r\nFull StoryA message fro… [+671 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Medical Xpress"
+      },
+      "author": null,
+      "title": "New weight-loss injection targets fat cells: CBL-514 selectively induces apoptosis of fat cells - Medical Xpress",
+      "description": "Details of a new injection that targets fat cells will be released at the annual meeting of the European Association for the Study of Diabetes (EASD) in Milan, Italy (Sept. 28–Oct. 2). Studies show that the new drug, CBL-514, reduces levels of subcutaneous an…",
+      "url": "https://medicalxpress.com/news/2026-10-weight-loss-fat-cells-cbl.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/weight-loss-injection.jpg",
+      "publishedAt": "2026-10-02T19:00:05Z",
+      "content": "Details of a new injection that targets fat cells will be released at the annual meeting of the European Association for the Study of Diabetes (EASD) in Milan, Italy (Sept. 28Oct. 2). Studies show th… [+5221 chars]"
     },
     {
       "source": {
@@ -87,39 +233,39 @@
     {
       "source": {
         "id": null,
-        "name": "NBC Connecticut"
+        "name": "Skeptic.com"
       },
-      "author": "Lauran Neergaard | The Associated Press",
-      "title": "When should I get the flu shot? What experts say is the ideal time to protect yourself - NBC Connecticut",
-      "description": "Medical experts urge getting a flu shot soon, before influenza starts spreading widely — just remember it can take two weeks for protection to kick in.",
-      "url": "https://www.nbcconnecticut.com/news/health/when-to-get-flu-shot-what-experts-say-ideal-time-protect-yourself/3781069/",
-      "urlToImage": "https://media.nbcconnecticut.com/2026/09/GettyImages-2290459839.jpg?quality=85&strip=all&resize=1200%2C675",
-      "publishedAt": "2026-10-02T17:23:44Z",
-      "content": "Its October and time for flu shots.\r\nMedical experts urge getting a flu vaccination soon, before influenza starts spreading widely and to get up to date on protection against other fall respiratory v… [+6248 chars]"
+      "author": "Skeptic",
+      "title": "The Truth About Vaccine Schedules: An Injection of Politics? - Skeptic",
+      "description": "A fraudulent 12-child study. An expert committee purged over conflicts of interest that had nearly vanished. A citation that never existed. Dr. William Meller explains how a century of vaccine victories is now being unwound, and why measles is roaring back. T…",
+      "url": "https://www.skeptic.com/article/truth-about-vaccine-schedules-an-injection-of-politics/",
+      "urlToImage": "https://storage.ghost.io/c/36/db/36db2d53-b96a-4b7f-9ea6-1e48a1d7715e/content/images/size/w1200/2026/10/measles-vaccine-1966-plus-retracted-Wakefield-Lancet-1.webp",
+      "publishedAt": "2026-10-02T17:18:28Z",
+      "content": "We spent the twentieth century beating measles, polio, and newborn hepatitis B into statistical irrelevance. In 2025, the man who fought hardest against that victory was put in charge of federal vacc… [+25079 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Abcnews.com"
+        "name": "GMA"
       },
-      "author": "DIEUDONNE DIROLE Associated Press, OPE ADETAYO Associated Press",
-      "title": "An Ebola treatment center was burned down as the death toll in Congo passes 4,000 - ABC News - Breaking News, Latest News and Videos",
-      "description": "Congo's Ebola outbreak has resulted in over 4,000 deaths, with authorities struggling to contain the virus",
-      "url": "https://abcnews.com/Health/wireStory/congos-ebola-outbreak-recorded-4000-deaths-authorities-struggle-136943057",
-      "urlToImage": "https://i.abcnewsfe.com/a/96fc0211-99f7-4fd4-af3a-b03fbf01c594/wirestory_4c79b59ec81a08675d2506c9e176d125_16x9.jpg?w=1600",
-      "publishedAt": "2026-10-02T16:50:58Z",
-      "content": "BUNIA, Congo -- Congo's Ebola outbreak has killed more than 4,000 people, authorities said, as they struggle to contain what has become the fastest-growing Ebola outbreak in history.\r\nThe latest figu… [+4541 chars]"
+      "author": "Yi-Jin Yu",
+      "title": "New report says only 6% of adults are eating enough fiber: How to eat more - Good Morning America",
+      "description": "A new report published in the Journal of the American College of Cardiology finds most Americans are not getting enough fiber to maintain a healthy heart.",
+      "url": "https://www.goodmorningamerica.com/news/story/new-report-6-adults-eating-fiber-eat-136945841",
+      "urlToImage": "https://i.abcnewsfe.com/a/11a8eb23-072b-474e-afd8-270e2c581738/fiber-1-abc-er-261002_1790954124071_hpMain_16x9.jpg?w=992",
+      "publishedAt": "2026-10-02T16:49:28Z",
+      "content": "A new report published in the Journal of the American College of Cardiology finds most Americans are not getting enough fiber to maintain a healthy heart.\r\nThe report, published Sept. 30, reviewed lo… [+2729 chars]"
     },
     {
       "source": {
         "id": "the-wall-street-journal",
         "name": "The Wall Street Journal"
       },
-      "author": "WSJ",
+      "author": "Sumathi Reddy",
       "title": "What Grip Strength Can Tell You About Your Health - WSJ",
-      "description": null,
+      "description": "A simple squeeze can give you information about your muscle strength and future health risks",
       "url": "https://www.wsj.com/health/wellness/what-grip-strength-can-tell-you-about-your-health-abed3d8f",
-      "urlToImage": null,
+      "urlToImage": "https://images.wsj.net/im-41174258/social",
       "publishedAt": "2026-10-02T16:31:06Z",
       "content": null
     },
@@ -135,19 +281,6 @@
       "urlToImage": "https://www.eatingwell.com/thmb/1RbmAH8Z43pClxcJsuaG1osj3Co=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Gut-Healthy-Foods-with-More-Protein-Than-an-Egg-e13da96209fe4cd997330f3abcdb0cfe.jpg",
       "publishedAt": "2026-10-02T16:30:00Z",
       "content": "Multitasking doesnt have to just apply to work or chores, it can also come in handy when trying to meet your healthy eating goals. There are plenty of ways to prioritize foods that are rich in many d… [+4413 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "TODAY"
-      },
-      "author": "Sarah Jacoby",
-      "title": "Med Student Recalls ‘Concerning’ First Signs of Leukemia Before Her Diagnosis at 22 - TODAY.com",
-      "description": "Just a month after starting her first job out of college, she experienced scary symptoms that led to a cancer diagnosis and rare relapses.",
-      "url": "https://www.today.com/health/disease/chicago-med-student-cancer-diagnosis-first-symptoms-leukemia-rcna600683",
-      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_social_share_1200x630_center,f_auto,q_auto:best/rockcms/2026-10/med-student-leukemia-07-mh-10022026-6fdbb6.jpg",
-      "publishedAt": "2026-10-02T15:34:59Z",
-      "content": "Ananya Bashyam had just started her first job out of college when her vision went completely black one morning.\r\nIt was September of 2021 and shed been in the job, a high school biology teacher in Ho… [+8997 chars]"
     },
     {
       "source": {
@@ -191,15 +324,28 @@
     {
       "source": {
         "id": null,
+        "name": "KSL.com"
+      },
+      "author": "Jacqueline Howard, CNN",
+      "title": "Respiratory virus season has arrived. Flu, COVID-19 and RSV vaccines are available - KSL.com",
+      "description": "There's a bit of a chill in the air, pumpkin spice in your coffee, and children back to school — which means the threat of respiratory viruses like COVID-19, influenza and RSV is looming.",
+      "url": "https://www.ksl.com/article/51631560/respiratory-virus-season-has-arrived-lu-covid-19-and-rsv-vaccines",
+      "urlToImage": "https://img.ksl.com/slc/3204/320410/32041084.jpg?filter=kslv2/responsive_story_lg",
+      "publishedAt": "2026-10-02T13:28:49Z",
+      "content": "SEATTLE There's a bit of a chill in the air, pumpkin spice in your coffee, and children back to school which means the threat of respiratory viruses like COVID-19, influenza and RSV is looming.\r\nSome… [+6885 chars]"
+    },
+    {
+      "source": {
+        "id": null,
         "name": "Prevention.com"
       },
       "author": "Korin Miller",
-      "title": "A Common Sleep Problem Might Boost Your Stroke Risk by 26%, New Study Finds - Prevention",
+      "title": "A Common Sleep Problem Might Boost Your Stroke Risk by 26%, New Study Finds - AOL.com",
       "description": "New research suggests that insomnia may raise the risk of stroke, as well as hospitalizations in general. Doctors explain the link.",
       "url": "https://www.prevention.com/health/sleep-energy/a73962222/insomnia-stroke-study/",
-      "urlToImage": "https://hips.hearstapps.com/hmg-prod/images/76888a13-60ba-4b98-9075-0a32491f6672.jpeg?crop=1xw:0.75xh;0xw,0.157xh&resize=1200:*",
-      "publishedAt": "2026-10-02T12:22:55Z",
-      "content": "Anyone who lives with insomnia knows it can make it difficult to get through your day. But trouble sleeping can do more than leave you groggyit may also raise your risk of experiencing a stroke, as n… [+5124 chars]"
+      "urlToImage": "https://hermes.media.static.aol.com/media/2026/10/02/d00ed81f-0def-3100-bb7f-ad976165d4b8/acbf5880-c9f9-4018-b336-7b4feb306664.jpeg",
+      "publishedAt": "2026-10-02T12:15:00Z",
+      "content": "Anyone who lives with insomnia knows it can make it difficult to get through your day. But trouble sleeping can do more than leave you groggyit may also raise your risk of experiencing a stroke, as n… [+5022 chars]"
     },
     {
       "source": {
@@ -230,19 +376,6 @@
     {
       "source": {
         "id": null,
-        "name": "The Conversation Africa"
-      },
-      "author": "Walid Omara",
-      "title": "Lab-grown ‘mini-bladder’ helps explain why urinary tract infections keep coming back - theconversation.com",
-      "description": "New research suggests some UTI-causing bacteria can survive antibiotics deep in bladder tissue, helping explain why infections sometimes return.",
-      "url": "https://theconversation.com/lab-grown-mini-bladder-helps-explain-why-urinary-tract-infections-keep-coming-back-292397",
-      "urlToImage": "https://images.theconversation.com/files/762768/original/file-20260929-50-7o7c9i.jpg?ixlib=rb-4.1.1&rect=0%2C1002%2C6003%2C3001&q=45&auto=format&w=1356&h=668&fit=crop",
-      "publishedAt": "2026-10-02T09:18:34Z",
-      "content": "For many people, a urinary tract infection (UTI) doesnt really end when the antibiotics run out. The burning and constant trips to the toilet fade, then return weeks or months later.\r\nUTIs affect mor… [+6314 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "Kffhealthnews.org"
       },
       "author": "Lauren Sausser",
@@ -268,19 +401,6 @@
     },
     {
       "source": {
-        "id": "nbc-news",
-        "name": "NBC News"
-      },
-      "author": "Kaitlin Sullivan",
-      "title": "Shingles cases dropping among people who got chickenpox vaccine, data shows - NBC News",
-      "description": "Shingles is dropping among people who got chickenpox shots but mysteriously rising in people 35 and older, new research shows.",
-      "url": "https://www.nbcnews.com/health/health-news/young-adults-shingles-cases-down-chickenpox-vaccine-rcna600577",
-      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-09/260930-shingles-ww-1509-0b96b2.jpg",
-      "publishedAt": "2026-10-02T09:00:00Z",
-      "content": "The chickenpox vaccine appears to protect against shingles, according to a large new analysis. \r\nAnyone who got infected with chickenpox as a child is at risk of later developing shingles, a painful,… [+4489 chars]"
-    },
-    {
-      "source": {
         "id": null,
         "name": "Harvard School of Engineering and Applied Sciences"
       },
@@ -291,19 +411,6 @@
       "urlToImage": "https://domf5oio6qrcr.cloudfront.net/medialibrary/19040/conversions/gettyimages-979555784-thumb.jpg",
       "publishedAt": "2026-10-02T07:11:22Z",
       "content": "Walking is an easy, accessible way to meet your exercise goals. To reap longevity benefits from a daily walk, you can walk either farther or faster, a new study suggests.\r\nThe study relied on data fr… [+1512 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "WGAL Susquehanna Valley Pa."
-      },
-      "author": "Nicole Beltran",
-      "title": "Lancaster County Coroner urges vaccination after third measles-associated death - WGAL",
-      "description": "The Lancaster County Coroner is calling for vaccinations after the Department of Health reported a third measles-associated death.",
-      "url": "https://www.wgal.com/article/third-measles-associated-death-lancaster-county-causes-concern/73985143",
-      "urlToImage": "https://kubrick.htvapps.com/htv-prod/images/c8d11a30-d8a1-4aff-841b-e2f754dec778.jpg?crop=1.00xw%3A1.00xh%3B0%2C0&resize=1200%3A*",
-      "publishedAt": "2026-10-02T01:54:00Z",
-      "content": "LANCASTER, Pa.Lancaster County Coroner Stephen Diamantoni is urging residents to get vaccinated as the states Department of Health reports a third measles-associated death, citing concerns about incr… [+1835 chars]"
     },
     {
       "source": {
@@ -333,16 +440,16 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "Medscape"
+        "id": "the-new-york-times",
+        "name": "The New York Times"
       },
-      "author": null,
-      "title": "Novel Injectable Drug Cuts Visceral Fat in Phase 2 Trial - Medscape",
-      "description": "CBL-514, an injectable drug that triggers fat cell death, significantly reduces visceral fat volume within just 4 weeks in a phase 2 trial, as assessed using MRI scans.",
-      "url": "https://www.medscape.com/viewarticle/novel-injectable-drug-cuts-visceral-fat-phase-2-trial-2026a10010q4",
-      "urlToImage": "https://img.medscapestatic.com/vim/live/professional_assets/medscape/images/thumbnail_library/gty-250424-semaglutide-pen-injection-800x450.jpg",
-      "publishedAt": "2026-10-01T22:14:38Z",
-      "content": "TOPLINE\r\nCBL-514, a first-in-class injection that triggers fat cell death, reduced visceral fat volume by nearly 12% at just week 4 and by roughly 10% at weeks 8-12, even as the visceral fat volume c… [+3280 chars]"
+      "author": "Benjamin Mueller and Shaila Dewan",
+      "title": "How Did Christa Pike Survive Two Lethal Injections of Pentobarbital?",
+      "description": "A catheter carrying the drug may not have delivered the doses to Ms. Pike’s bloodstream, experts said. The drug itself may have been degraded.",
+      "url": "https://www.nytimes.com/2026/10/01/science/pike-execution-pentobarbital.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/10/01/multimedia/01sci-pentobarbital-vckq/01sci-pentobarbital-vckq-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-10-01T22:30:28Z",
+      "content": "A catheter carrying the drug may not have delivered the doses to Ms. Pike’s bloodstream, experts said. The drug itself may have been degraded."
     },
     {
       "source": {
@@ -369,6 +476,19 @@
       "urlToImage": "https://media.nature.com/lw1200/magazine-assets/d41586-026-03119-7/d41586-026-03119-7_53785232.jpg",
       "publishedAt": "2026-10-01T21:28:24Z",
       "content": "Early detection of pancreatic cancer (red; artificially coloured) could help to improve the survival rates of a highly lethal disease.Credit: PDC/SPL\r\nArmed with new tools and fresh optimism, researc… [+4335 chars]"
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Andrew Jacobs",
+      "title": "Cornell’s Jane Doe Said She Was Given Ketamine. Here’s How the Drug Works.",
+      "description": "Ketamine is a short-acting anesthetic that can have hallucinogenic effects. It is becoming more easily available, and some experts fear misuse is increasing.",
+      "url": "https://www.nytimes.com/2026/09/30/science/cornell-rape-ketamine.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/09/30/multimedia/30sci-ketamine-01-vjzf/30sci-ketamine-01-vjzf-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-10-01T21:08:47Z",
+      "content": "Ketamine is a short-acting anesthetic that can have hallucinogenic effects. It is becoming more easily available, and some experts fear misuse is increasing."
     },
     {
       "source": {
@@ -438,19 +558,6 @@
     {
       "source": {
         "id": null,
-        "name": "Longevity.technology"
-      },
-      "author": "Phil Newman",
-      "title": "FDA puts aging on its regulatory science agenda - Longevity.Technology",
-      "description": "At ARDD 2026, senior FDA officials sketch how a therapy targeting aging might one day reach approval, revealing that longevity is a priority.",
-      "url": "https://longevity.technology/news/fda-puts-aging-on-its-regulatory-science-agenda/",
-      "urlToImage": "https://longevity.technology/wp-content/uploads/2026/10/ARDD-2026-FDA-panel.jpg",
-      "publishedAt": "2026-10-01T16:59:36Z",
-      "content": "The longevity field has spent years asking what the FDA thinks of aging as an indication. On the first morning of ARDD 2026 at Harvard, it got the closest thing yet to an answer not a pathway, exactl… [+9776 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "SFGate"
       },
       "author": "Gillian Mohney",
@@ -476,19 +583,6 @@
     },
     {
       "source": {
-        "id": "al-jazeera-english",
-        "name": "Al Jazeera English"
-      },
-      "author": "Mikail Malik",
-      "title": "HIV prevention drug hailed as breakthrough, but who gets access? - aljazeera.com",
-      "description": "Lenacapavir, a twice-a-year injection could transform HIV prevention, but it will not be available to all.",
-      "url": "https://www.aljazeera.com/news/2026/10/1/hiv-prevention-drug-hailed-as-breakthrough-but-who-gets-access",
-      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/10/2026-02-19T132728Z_48495823_RC2WOJAK4G8U_RTRMADP_3_ZIMBABWE-AIDS-1790858715.jpg?resize=1920%2C1440",
-      "publishedAt": "2026-10-01T13:56:46Z",
-      "content": "A medicine injected just twice a year could transform the fight against HIV.\r\nIn a 2024 clinical trial involving more than 2,000 young women in South Africa and Uganda, no participants who received l… [+6912 chars]"
-    },
-    {
-      "source": {
         "id": null,
         "name": "PEOPLE"
       },
@@ -499,32 +593,6 @@
       "urlToImage": "https://s.yimg.com/lo/mysterio/api/3577e20f029c6fdf50862bd0d462269fbe90233384644ebb800cfe898d470e3c/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2F9b51dc00065471335cc937f2de77d700.jpg",
       "publishedAt": "2026-10-01T13:54:11Z",
       "content": "NEED TO KNOW\r\n<ul><li>One Ohio-based mom couldn't imagine how \"intense\" her son's life would be during his first few years\r\n</li><li>Jen McGowan's son Trey, now 13, was diagnosed with glycogen storag… [+4913 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Abcnews.com"
-      },
-      "author": "ABC News - Breaking News, Latest News and Videos",
-      "title": "What to know about your breast cancer risk as Breast Cancer Awareness Month kicks off - ABC News - Breaking News, Latest News and Videos",
-      "description": null,
-      "url": "https://abcnews.com/Health/breast-cancer-risk-breast-cancer-awareness-month-kicks/story?id\\\\u003d136848151",
-      "urlToImage": null,
-      "publishedAt": "2026-10-01T12:31:53Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "HuffPost"
-      },
-      "author": "Jillian Wilson",
-      "title": "Norovirus Cases Are Climbing. These Are The Most Common Symptoms Doctors Are Seeing Right Now. - AOL.com",
-      "description": "It’s the start of sick season throughout the United States.",
-      "url": "https://www.huffpost.com/entry/norovirus-illness-risk_l_6ab6c4b5e4b075a3d285e4b3",
-      "urlToImage": "https://hermes.media.static.aol.com/media/2026/10/02/c06adfc4-5531-37ce-af7e-3d56f0349834/54b75400-421e-4b8e-8149-edae9243515a.jpeg",
-      "publishedAt": "2026-10-01T12:29:09Z",
-      "content": "Its that time of year.\r\nAccording to data from the Centers for Disease Control and Prevention, rates of norovirus, a nasty illness that causes gastrointestinal upset, are increasing throughout the Un… [+4982 chars]"
     },
     {
       "source": {
@@ -554,19 +622,6 @@
     },
     {
       "source": {
-        "id": "wired",
-        "name": "Wired"
-      },
-      "author": "Emily Mullin",
-      "title": "Measles Is Forcing Hospitals to Adapt to a New Normal - WIRED",
-      "description": "The US resurgence of measles is forcing hospitals and health systems to adopt new protocols and procedures to deal with a disease they thought was in the past.",
-      "url": "https://www.wired.com/story/measles-is-forcing-hospitals-to-adapt-to-a-new-normal/",
-      "urlToImage": "https://media.wired.com/photos/6ab3c2152004e68475746c7e/191:100/w_1280,c_limit/092326-Measles%20Hospital%2002.jpg",
-      "publishedAt": "2026-10-01T12:00:00Z",
-      "content": "John Goldman had not seen a case of measles in 30 years. But since April, the infectious disease specialist with the University of Pittsburgh Medical Center in central Pennsylvania has had dozens of … [+2482 chars]"
-    },
-    {
-      "source": {
         "id": null,
         "name": "Thetimes.com"
       },
@@ -593,19 +648,6 @@
     },
     {
       "source": {
-        "id": "the-wall-street-journal",
-        "name": "The Wall Street Journal"
-      },
-      "author": "David Wainer",
-      "title": "A Cancer Test Has Investors Betting Big. But Will Insurers Pay? - WSJ",
-      "description": "An FDA panel backed Grail’s Galleri test. But the Medicare money the business depends on is far from guaranteed.",
-      "url": "https://www.wsj.com/health/healthcare/a-cancer-test-has-investors-betting-big-but-will-insurers-pay-75d3bc60",
-      "urlToImage": "https://images.wsj.net/im-759984/social",
-      "publishedAt": "2026-10-01T09:31:27Z",
-      "content": null
-    },
-    {
-      "source": {
         "id": null,
         "name": "Nature.com"
       },
@@ -622,13 +664,39 @@
         "id": null,
         "name": "ScienceAlert"
       },
-      "author": "Carly Cassella",
-      "title": "Eating Alone Can Literally Change How Your Body Metabolizes Glucose - ScienceAlert",
-      "description": "Dinner by yourself can be a lonely affair.",
-      "url": "https://www.sciencealert.com/science-says-who-you-eat-dinner-with-matters-as-much-as-whats-on-your-plate",
-      "urlToImage": "https://www.sciencealert.com/images/2026/09/GettyImages-1693533623-2560x1440-1.jpg",
-      "publishedAt": "2026-10-01T00:02:08Z",
-      "content": "Dinner by yourself can be a lonely affair. The lack of social connection could change the way that your body processes your meal.\r\nA new study published in Science Advances has now found evidence tha… [+5069 chars]"
+      "author": "Esra Öz",
+      "title": "Ozempic-Like Drugs Could Have a Surprising Effect on Alcohol Cravings - ScienceAlert",
+      "description": "Imagine ordering a drink you would normally enjoy, then finding you barely want to touch it.",
+      "url": "https://www.sciencealert.com/ozempic-like-drugs-could-have-a-surprising-effect-on-alcohol-cravings",
+      "urlToImage": "https://www.sciencealert.com/images/2026/09/Alcoholcravings_web.jpg",
+      "publishedAt": "2026-09-30T22:02:08Z",
+      "content": "Imagine ordering a drink you would normally enjoy, then finding you barely want to touch it. \r\nSome people taking Ozempic-like medications have described just such a change.\r\nCould these drugs help p… [+5409 chars]"
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Maya Salam",
+      "title": "The Most Disturbing 2000s Reality Show Doesn’t Seem So Crazy Anymore",
+      "description": "Erin Lee Carr’s new documentary revisits the 2004 makeover show “The Swan,” which gave 32 women extensive plastic surgery and anticipated where beauty culture was headed.",
+      "url": "https://www.nytimes.com/2026/09/30/arts/television/the-swan-reality-show-documentary.html",
+      "urlToImage": null,
+      "publishedAt": "2026-09-30T21:35:42Z",
+      "content": "Erin Lee Carr’s new documentary revisits the 2004 makeover show “The Swan,” which gave 32 women extensive plastic surgery and anticipated where beauty culture was headed."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Christopher Rowland",
+      "title": "Medical Records Firm Uses AI Tool to Expose Flaws that Threaten Patient Privacy",
+      "description": "Epic’s engineers deployed an Anthropic tool that exposed security risks that could allow undetected access to millions of patient records.",
+      "url": "https://www.nytimes.com/2026/09/30/business/ai-epic-health-records-privacy.html",
+      "urlToImage": null,
+      "publishedAt": "2026-09-30T19:25:06Z",
+      "content": "Epic’s engineers deployed an Anthropic tool that exposed security risks that could allow undetected access to millions of patient records."
     },
     {
       "source": {
@@ -645,29 +713,29 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "News-Medical.Net"
+        "id": "the-new-york-times",
+        "name": "The New York Times"
       },
-      "author": null,
-      "title": "Wearable AI forecasts prolonged sitting in women with chronic pelvic pain disorders - News-Medical",
-      "description": "Researchers at the Icahn School of Medicine at Mount Sinai have developed an artificial intelligence (AI) approach using data from wearable devices that can forecast upcoming periods of prolonged sitting in women with chronic pelvic pain disorders.",
-      "url": "https://www.news-medical.net/news/20260930/Wearable-AI-forecasts-prolonged-sitting-in-women-with-chronic-pelvic-pain-disorders.aspx",
-      "urlToImage": "https://www.news-medical.net/image-handler/picture/2019/5/futuristic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg",
-      "publishedAt": "2026-09-30T17:25:00Z",
-      "content": "Researchers at the Icahn School of Medicine at Mount Sinai have developed an artificial intelligence (AI) approach using data from wearable devices that can forecast upcoming periods of prolonged sit… [+5800 chars]"
+      "author": "Gina Kolata",
+      "title": "Clues to Why a Breakthrough Pancreatic Cancer Drug Eventually Stops Working",
+      "description": "Researchers are asking why patients, like former Senator Ben Sasse, inevitably develop resistance to the drug daraxonrasib.",
+      "url": "https://www.nytimes.com/2026/09/30/science/pancreatic-cancer-drug-daraxonrasib-ben-sasse-resistance.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/09/30/multimedia/30sci-sasse-cancer-ljfm/30sci-sasse-cancer-ljfm-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-09-30T17:48:56Z",
+      "content": "Researchers are asking why patients, like former Senator Ben Sasse, inevitably develop resistance to the drug daraxonrasib."
     },
     {
       "source": {
-        "id": null,
-        "name": "New York Post"
+        "id": "nbc-news",
+        "name": "NBC News"
       },
-      "author": "Allie Yang",
-      "title": "Dad claims he went suddenly, permanently blind from Ozempic — in one of hundreds of lawsuits against GLP-1 makers - New York Post",
-      "description": "He’s joining more than 200 other lawsuits against GLP-1 makers, alleging the drug caused NAION, a sudden and irreversible vision loss.",
-      "url": "https://nypost.com/2026/09/30/health/dad-says-he-went-permanently-blind-in-lawsuit-against-ozempic-makers/",
-      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/09/newspress-collage-lbhocc6uc-1790785070625.jpg?quality=75&strip=all&1790770701&w=1200",
-      "publishedAt": "2026-09-30T17:10:00Z",
-      "content": "Edward Gillen, 59, woke up one May morning last year and noticed a speck in his eye.\r\nThe Massachusetts dad of four and beloved softball coach was just about the retire. Meanwhile, his sight was gett… [+3826 chars]"
+      "author": "Gina Vivinetto",
+      "title": "Iron deficiency often goes undiagnosed. New guidelines could change that. - NBC News",
+      "description": "Recommended changes for measuring ferritin levels could help more people get early treatment for one of the most common blood disorders.",
+      "url": "https://www.nbcnews.com/health/health-news/low-iron-deficiency-guidelines-blood-testing-diagnosis-ferritin-rcna600575",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-09/260929-blood-vials-vsb-1737-616d2d.jpg",
+      "publishedAt": "2026-09-30T17:14:59Z",
+      "content": "Iron deficiency is often overlooked in girls and younger women, but there are signs that doctors are finally waking up to a common blood disorder that can lead to fatigue or difficulty concentrating.… [+8472 chars]"
     },
     {
       "source": {
@@ -694,6 +762,32 @@
       "urlToImage": "https://cdn.mos.cms.futurecdn.net/YKbuoMR3ZZh5yXSswZMRVk-2000-80.jpg",
       "publishedAt": "2026-09-30T14:10:00Z",
       "content": null
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Gina Kolata",
+      "title": "New Cancer Drugs Are Revolutionary. Why Don’t More Patients Get Them?",
+      "description": "Targeted gene therapies are highly effective at stopping cancers, but the very abundance of the treatments, plus cost and sluggish change, are hindering access.",
+      "url": "https://www.nytimes.com/2026/09/30/science/new-cancer-drugs-are-revolutionary-why-dont-more-patients-get-them.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/09/16/multimedia/00Sci-cancer-shortfall-01-fjwh/00Sci-cancer-shortfall-01-fjwh-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-09-30T14:02:22Z",
+      "content": "Targeted gene therapies are highly effective at stopping cancers, but the very abundance of the treatments, plus cost and sluggish change, are hindering access."
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "GMA"
+      },
+      "author": "GMA Team",
+      "title": "Rachael Ray, Dr. Ian Smith share recipes from 'The New Menopause Kitchen' - Good Morning America",
+      "description": "The authors share recipes for lemon garlic shrimp, dijon-panko chicken and more.",
+      "url": "https://www.goodmorningamerica.com/food/story/rachael-ray-ian-smith-recipes-the-new-menopause-kitchen-136821942",
+      "urlToImage": "https://i.abcnewsfe.com/a/1c1a978c-b78c-4feb-b71f-ae2ceb9fa1ea/dr-ian-smith-abc-jt-260930_1790779443220_hpMain_16x9.jpg?w=992",
+      "publishedAt": "2026-09-30T11:14:06Z",
+      "content": "Bestselling author Dr. Ian Smith is taking on a topic that affects millions of women -- menopause-- in his new book, \"The New Menopause Kitchen.\"\r\nThe book includes not only nutrition and lifestyle a… [+5588 chars]"
     },
     {
       "source": {
@@ -749,16 +843,55 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "Medical Xpress"
+        "id": "the-new-york-times",
+        "name": "The New York Times"
       },
-      "author": null,
-      "title": "Major trial examines sugar-free sweetened soft drinks - Medical Xpress",
-      "description": "Researchers at the University of Liverpool have conducted the longest and most comprehensive randomized controlled trial of non-nutritive sweetened (NNS) soft drinks.",
-      "url": "https://medicalxpress.com/news/2026-09-major-trial-sugar-free-sweetened.html",
-      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/soft-drinks.jpg",
-      "publishedAt": "2026-09-29T12:49:33Z",
-      "content": "Researchers at the University of Liverpool have conducted the longest and most comprehensive randomized controlled trial of non-nutritive sweetened (NNS) soft drinks.\r\nNon-nutritive sweeteners are lo… [+4405 chars]"
+      "author": "Sheryl Gay Stolberg",
+      "title": "A.I. Is ‘Better Informed’ Than Doctors, Kennedy Tells Industry-Backed MAHA Summit",
+      "description": "The health secretary, Vice President JD Vance and other top officials addressed a conference sponsored by corporations, including A.I. companies and others with business before the government.",
+      "url": "https://www.nytimes.com/2026/09/29/health/maha-summit-kennedy-vance.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/09/29/multimedia/29dc-maha-mgvh/29dc-maha-mgvh-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-09-30T00:10:27Z",
+      "content": "The health secretary, Vice President JD Vance and other top officials addressed a conference sponsored by corporations, including A.I. companies and others with business before the government."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Carl Zimmer",
+      "title": "This Virus Stole a Human Gene and Won’t Let Go of It",
+      "description": "Scientists have found a human gene lurking in a virus that causes skin infections. It may be using our own DNA to infect us.",
+      "url": "https://www.nytimes.com/2026/09/28/science/virus-molluscum-human-gene.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/09/25/science/00SCI-VIRUS/00SCI-VIRUS-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-09-29T16:34:35Z",
+      "content": "Scientists have found a human gene lurking in a virus that causes skin infections. It may be using our own DNA to infect us."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Azeen Ghorayshi and Andrew Jacobs",
+      "title": "V.A. Institutes New Consent Requirements for Some Psychiatric Drugs",
+      "description": "Veterans under 30 will have to sign forms before being given antidepressants. Medical groups fear the moves may stigmatize mental health treatment.",
+      "url": "https://www.nytimes.com/2026/09/28/science/veterans-psychiatric-drugs-consent.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/09/28/science/00sci-veterans-consent/00sci-veterans-consent-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-09-29T12:39:22Z",
+      "content": "Veterans under 30 will have to sign forms before being given antidepressants. Medical groups fear the moves may stigmatize mental health treatment."
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "DogTime"
+      },
+      "author": "Mugdha Singh",
+      "title": "Golden Retriever Goes Over to Keep a Woman Company — This Boy Has Serious People Skills - Yahoo",
+      "description": "A woman sitting by herself at the park has Joey’s full attention, and mom already seems to know where this is headed. The Golden Retriever keeps looking over...",
+      "url": "https://dogtime.com/dog-blog/233733-golden-retriever-joins-woman",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/cbfc25736e4c22d91d62221a1791faac50748f5615d8232a7eab176bfd39ffac/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdog_time_927%2F0bf15678a28fff0c2dd1627c834f9428.jpg",
+      "publishedAt": "2026-09-29T09:20:05Z",
+      "content": "A woman sitting by herself at the park has Joey's full attention, and mom already seems to know where this is headed. The Golden Retriever keeps looking over at her while his mom films from behind, w… [+1896 chars]"
     },
     {
       "source": {
@@ -788,6 +921,32 @@
     },
     {
       "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Johnny Diaz",
+      "title": "Pennsylvania Measles Outbreak Grows to Nearly 900 Cases",
+      "description": "State health officials said 55 new cases had been reported since Wednesday. In all, 890 measles cases have been reported across 39 counties so far this year.",
+      "url": "https://www.nytimes.com/2026/09/27/us/pennsylvania-measles-outbreak-cases.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/09/27/multimedia/27xp-measles-topart-01-hvkb/27xp-measles-topart-01-hvkb-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-09-27T19:17:09Z",
+      "content": "State health officials said 55 new cases had been reported since Wednesday. In all, 890 measles cases have been reported across 39 counties so far this year."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Apoorva Mandavilli",
+      "title": "U.S. Rejects U.N. Declaration on Preparing for Future Pandemics",
+      "description": "Most member nations spoke in support of the declaration, but some rich countries had strong objections.",
+      "url": "https://www.nytimes.com/2026/09/25/us/politics/us-rejects-un-declaration-on-preparing-for-pandemics.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/09/25/multimedia/25dc-pandemics-01-ljtk/25dc-pandemics-01-ljtk-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-09-27T17:07:06Z",
+      "content": "Most member nations spoke in support of the declaration, but some rich countries had strong objections."
+    },
+    {
+      "source": {
         "id": null,
         "name": "BBC News"
       },
@@ -811,6 +970,97 @@
       "urlToImage": "https://s.yimg.com/lo/mysterio/api/79daa35b6910de1f8b9085dd5a9357be86418d0d5b6128680f4fb60d03d2a5a1/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fjezebel_articles_698%2Ff9727728c4a8e7889d0732a71c434d77.jpg",
       "publishedAt": "2026-09-27T08:00:48Z",
       "content": "A maybe relevant little milestone was quietly added to the government's official account of our ongoing measles outbreak this Friday: The CDC, and the federal government by proxy, acknowledged for th… [+4900 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Forbes"
+      },
+      "author": "Forbes",
+      "title": "Measles Has Returned To America. We’re No Longer In Containment Mode - Forbes",
+      "description": null,
+      "url": "https://www.forbes.com/sites/johndrake/2026/09/26/measles-has-returned-to-america-were-no-longer-in-containment-mode/",
+      "urlToImage": null,
+      "publishedAt": "2026-09-26T23:36:39Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Apoorva Mandavilli",
+      "title": "‘Zombified’ C.D.C., Hobbled by Cuts, Struggles to Fulfill Scientific Mission",
+      "description": "The agency has lost its independence and nearly a third of its staff, as Health Secretary Robert F. Kennedy Jr. and associates have tightened control.",
+      "url": "https://www.nytimes.com/2026/09/26/health/cdc-staff-cuts-rfk-jr.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/09/24/multimedia/00dc-cdc-02-wtpc/00dc-cdc-02-wtpc-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-09-26T13:09:06Z",
+      "content": "The agency has lost its independence and nearly a third of its staff, as Health Secretary Robert F. Kennedy Jr. and associates have tightened control."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Carl Zimmer",
+      "title": "In a New Anthropic Lab, A.I. Turns to Biology",
+      "description": "Scientists at the company announced their first finding: a group of enzymes whose function is unknown.",
+      "url": "https://www.nytimes.com/2026/09/24/science/anthropic-biology-lab-enzyme.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/09/23/science/23SCI-ANTHROPIC-ENZYME/23SCI-ANTHROPIC-ENZYME-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-09-25T18:42:57Z",
+      "content": "Scientists at the company announced their first finding: a group of enzymes whose function is unknown."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Emmett Lindner",
+      "title": "Taylor Swift Named Her New Song ‘Patient Zero.’ Where Does the Term Originate?",
+      "description": "“Patient zero” has long been associated with virus outbreaks and fictional health investigations. It was coined in the 1980s, by accident.",
+      "url": "https://www.nytimes.com/2026/09/24/arts/music/taylor-swift-patient-zero-origin.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/09/23/multimedia/00xp-patient-zero-fcmb/00xp-patient-zero-fcmb-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-09-25T14:53:11Z",
+      "content": "“Patient zero” has long been associated with virus outbreaks and fictional health investigations. It was coined in the 1980s, by accident."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Christina Jewett and Pam Belluck",
+      "title": "Abortion Pills, Vaccines and Food Safety: F.D.A. Nominee Heidi Overton Faces Senate Confirmation Hearing",
+      "description": "Dr. Heidi Overton was pressed on the president’s false statements about the measles vaccine and his intervention in tobacco policy.",
+      "url": "https://www.nytimes.com/2026/09/24/us/heidi-overton-fda.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/09/24/multimedia/24dc-fda-nominee-ctvj/24dc-fda-nominee-ctvj-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-09-24T20:24:29Z",
+      "content": "Dr. Heidi Overton was pressed on the president’s false statements about the measles vaccine and his intervention in tobacco policy."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Reed Abelson and Teddy Rosenbluth",
+      "title": "Battle of Hospital A.I. vs. Insurer A.I. Is Pushing Medical Costs Higher",
+      "description": "The use of artificial intelligence by hospitals and health insurers is escalating their longstanding feud over paying for medical care.",
+      "url": "https://www.nytimes.com/2026/09/24/business/ai-hospitals-insurers-health-care-costs.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/09/24/multimedia/24BIZ-AI-CODEWARS-wpbk/24BIZ-AI-CODEWARS-wpbk-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-09-24T11:03:03Z",
+      "content": "The use of artificial intelligence by hospitals and health insurers is escalating their longstanding feud over paying for medical care."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Joshua Barone",
+      "title": "Violinist Jennifer Koh on Her Decade-Long Struggle With a Rare Neurological Disorder",
+      "description": "For 10 years Jennifer Koh struggled to understand and treat a rare neurological disorder, while trying to maintain a full calendar onstage.",
+      "url": "https://www.nytimes.com/2026/09/24/arts/music/jennifer-koh-violin.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/09/27/multimedia/27cul-chronic-illness-01-wczg/27cul-chronic-illness-01-wczg-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-09-24T09:00:19Z",
+      "content": "For 10 years Jennifer Koh struggled to understand and treat a rare neurological disorder, while trying to maintain a full calendar onstage."
     }
   ]
 }

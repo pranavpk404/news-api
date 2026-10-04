@@ -3,9 +3,61 @@
   "country": "us",
   "category": "technology",
   "mode": "country",
-  "fetched_at": "2026-10-03T20:14:19.687077+00:00",
-  "articles_count": 61,
+  "fetched_at": "2026-10-04T00:09:45.466547+00:00",
+  "articles_count": 64,
   "articles": [
+    {
+      "source": {
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "author": "Kyle Orland",
+      "title": "Can it run Doom: SQL database edition - Ars Technica",
+      "description": "300 lines of SQL querying renders accurate bitmapped views of Hell at 35 fps.",
+      "url": "https://arstechnica.com/gaming/2026/10/can-it-run-doom-sql-database-edition/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/doomsql-1152x648-1790974550.png",
+      "publishedAt": "2026-10-02T21:19:05Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "9to5google.com"
+      },
+      "author": "Abner Li",
+      "title": "Google already rolling out Android 17 QPR3 Beta 1 for Pixel - 9to5Google",
+      "description": "Following a QPR2 release earlier this week, Google today is rolling out Android 17 QPR3 Beta 1.",
+      "url": "http://9to5google.com/2026/10/02/android-17-qpr3-beta-1-pixel/",
+      "urlToImage": "https://9to5google.com/wp-content/uploads/sites/4/2026/06/Android-17-launch-logo-7.jpg?quality=82&strip=all&resize=1200,628",
+      "publishedAt": "2026-10-02T20:54:00Z",
+      "content": "Following a QPR2 release earlier this week, Google today is rolling out Android 17 QPR3 Beta 1. This should see a stable release in March 2027.\r\nHeres everything new in Android 17 QPR3 Beta 1 [Galler… [+3752 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "9to5Mac"
+      },
+      "author": "Chance Miller",
+      "title": "Apple confirms iPhone 18 Pro Max AT&T cellular issues, affected devices require hardware replacement - 9to5Mac",
+      "description": "Apple has confirmed an issue causing a “small number” of iPhone 18 Pro Max devices on AT&T to lose cellular...",
+      "url": "https://9to5mac.com/2026/10/02/apple-confirms-iphone-18-pro-max-att-cellular-issues-affected-devices-require-hardware-replacement/",
+      "urlToImage": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-18-photos-21.jpg?quality=82&strip=all&resize=1200,628",
+      "publishedAt": "2026-10-02T20:47:00Z",
+      "content": "Apple has confirmed an issue causing a “small number” of iPhone 18 Pro Max devices on AT&amp;T to lose cellular service. \r\nApple released software and carrier updates to prevent the issue from affect… [+1761 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Emma Roth",
+      "title": "Apple will limit Mac disk access as AI agents ‘substantially’ increase risk - The Verge",
+      "description": "Apple is introducing new safeguards for its full disk access permission on Mac in response to the risks associated with AI-powered agents.",
+      "url": "https://www.theverge.com/tech/1004295/apple-limit-mac-disk-access-ai-agents",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268759_Mac_Mini_AKrales_0079.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2026-10-02T20:08:40Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nMac apps will soon need very explicit user action to gain full disk access, according to Apple.\r\nMac apps will soon need very explicit user action to gain full d… [+2755 chars]"
+    },
     {
       "source": {
         "id": "fox-news",
@@ -21,29 +73,16 @@
     },
     {
       "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
+        "id": "espn",
+        "name": "ESPN"
       },
-      "author": "Sarah Perez",
-      "title": "Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents - TechCrunch",
-      "description": "Apple says it will add new controls around macOS’s Full Disk Access permission, warning that increasingly capable AI agents make broad access to users’ files, messages, mail, and browsing history riskier.",
-      "url": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/07/CMC_1580.jpg?resize=1200,800",
-      "publishedAt": "2026-10-02T18:11:27Z",
-      "content": "Days after a journalist claimed that Meta’s Muse app on Mac read their private messages — a claim that Meta disputed — Apple announced that it’s introducing additional controls around a setting calle… [+2092 chars]"
-    },
-    {
-      "source": {
-        "id": "ign",
-        "name": "IGN"
-      },
-      "author": "Michael Cripe",
-      "title": "GTA 6 PEGI Age Rating Reveals Mentions of 'Decapitation' and Cocaine That Can Be 'Snorted' at 'Any Time' - IGN",
-      "description": "GTA 6 has received a rating of PEGI 18, revealing mentions of \"decapitation,\" the ability for players to snort cocaine at any time, \"scenes of sexual fetishes,\" and much more.",
-      "url": "https://www.ign.com/articles/gta-6-age-rating-confirms-new-details-on-sex-drug-use-decapitation-and-more",
-      "urlToImage": "https://assets-prd.ignimgs.com/2026/08/31/hrdxhdzwwaax1k-1788198129736.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "publishedAt": "2026-10-02T17:37:35Z",
-      "content": "UPDATE October 2, 2026, 11:39 a.m. PT: PEGI has seemingly updated its website to remove the age rating for GTA 6.\r\nThe PEGI 18 page which, as viewed by IGN, included what appeared to be new details a… [+4661 chars]"
+      "author": "ESPN staff",
+      "title": "Miami Heat announce 'A Night in Vice City' theme ahead of GTA VI release - ESPN",
+      "description": "With Grand Theft Auto VI's long-awaited release date set for Nov. 19, the Heat are partnering with Rockstar Games to offer a topical lead-up event the night before.",
+      "url": "https://www.espn.com/nba/story/_/id/50085674/miami-heat-night-vice-city-game",
+      "urlToImage": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1002%2Fr1725012_1296x729_16%2D9.jpg",
+      "publishedAt": "2026-10-02T18:38:00Z",
+      "content": "The Miami Heat have been carefully leaning into \"Vice City\" branding for years now, but 2026 will bring the team's most ambitious effort yet: Nov. 18 will be \"A Night in Vice City\" at the Kaseya Cent… [+1361 chars]"
     },
     {
       "source": {
@@ -60,29 +99,29 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "Push Square"
+        "id": "the-verge",
+        "name": "The Verge"
       },
-      "author": "Sammy Barker",
-      "title": "Sony's Quietly Improved Base PS5 Hardware with a Number of Internal Optimisations - Push Square",
-      "description": "New models shipping now",
-      "url": "https://www.pushsquare.com/news/2026/10/sonys-quietly-improved-base-ps5-hardware-with-a-number-of-internal-optimisations",
-      "urlToImage": "https://images.pushsquare.com/dbe4d1355695f/1280x720.jpg",
-      "publishedAt": "2026-10-02T17:15:00Z",
-      "content": "Image: Push Square\r\nSony is notorious for optimising its hardware right throughout each generation, and it looks like its shipping refined base PS5 Slim consoles, starting with its Marvels Wolverine … [+1725 chars]"
+      "author": "Andrew Liszewski",
+      "title": "Nacon’s new PS5 controller can mix audio from your phone and console - The Verge",
+      "description": "The Nacon Revolution 5 Unlimited brings an asymmetrical TMR thumbstick design to the PS5 with a built-in screen for customizing the controller’s functionality.",
+      "url": "https://www.theverge.com/tech/1004053/nacon-sony-playstation-licensed-revolution-5-unlimited-wireless-controller",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/nacon1.jpg?quality=90&strip=all&crop=0%2C10.741589819318%2C100%2C78.516820361363&w=1200",
+      "publishedAt": "2026-10-02T16:35:13Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nThe customizable Revolution 5 Unlimited gamepad features asymmetrical TMR thumbsticks and a built-in settings screen.\r\nThe customizable Revolution 5 Unlimited ga… [+3324 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "MacRumors"
+        "name": "Video Games Chronicle"
       },
-      "author": "Joe Rossignol",
-      "title": "AT&T on iPhone 18 Pro Max Issues: 'We Are Working With Apple' - MacRumors",
-      "description": "In a statement shared with MacRumors today, AT&T said it is \"working with Apple\" to resolve iPhone 18 Pro Max cellular issues.  ...",
-      "url": "https://www.macrumors.com/2026/10/02/att-statement-on-iphone-18-pro-max-issues/",
-      "urlToImage": "https://images.macrumors.com/t/pk_46mIJUs-eOG4byslklFF8tm4=/1600x/article-new/2026/10/ATT-Apple.jpg",
-      "publishedAt": "2026-10-02T16:18:55Z",
-      "content": "In a statement shared with MacRumors today, AT&amp;T said it is \"working with Apple\" to resolve iPhone 18 Pro Max cellular issues.\r\n\"Apple has released a software update to address an issue that may … [+2924 chars]"
+      "author": "Andy Robinson",
+      "title": "Warhorse COO wants GTA 6 to set a new $80 price standard for triple-A games - Video Games Chronicle",
+      "description": "Warhorse's Martin Klima hopes GTA 6's $80 price point sets a precedent for triple-A games",
+      "url": "https://www.videogameschronicle.com/news/warhorse-coo-wants-gta-6-to-set-a-new-80-price-standard-for-triple-a-games/",
+      "urlToImage": "https://www.videogameschronicle.com/files/2025/03/IMG_1331-e1778073030403-2560x1613.jpeg",
+      "publishedAt": "2026-10-02T16:16:25Z",
+      "content": "The COO of Kingdom Come: Deliverance developer, Warhorse, says he hopes Grand Theft Auto 6 blazes the trail for other triple-A video games to raise their prices.\r\nLike some Nintendo releases, GTA 6 w… [+1895 chars]"
     },
     {
       "source": {
@@ -100,15 +139,28 @@
     {
       "source": {
         "id": null,
-        "name": "Cricinfo.com"
+        "name": "Aftermath.site"
       },
-      "author": "Hemant Brar",
-      "title": "Gurnoor Brar has been expensive, but India are happy to pay the price for now - Cricinfo",
-      "description": "Ahead of the 2027 ODI World Cup, the team management wants the fast bowler tested, not protected",
-      "url": "https://www.cricinfo.com/story/ind-vs-wi-3rd-odi-gurnoor-brar-has-been-expensive-but-india-happy-to-pay-the-price-for-now-1556930",
-      "urlToImage": "https://img1.hscicdn.com/image/upload/f_auto/lsci/db/PICTURES/CMS/419700/419785.6.jpg",
-      "publishedAt": "2026-10-02T15:52:41Z",
-      "content": "FeatureAhead of the 2027 ODI World Cup, the team management wants the fast bowler tested, not protected"
+      "author": "Nathan Grayson",
+      "title": "Every Animal Confirmed For Grand Theft Auto VI So Far, Ranked - aftermath.site",
+      "description": "Nature's majesty, unfairly scrutinized",
+      "url": "https://aftermath.site/gta-6-every-animal/",
+      "urlToImage": "https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/2026/10/animals3.jpg",
+      "publishedAt": "2026-10-02T15:03:24Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Kotaku"
+      },
+      "author": "Ash Parrish",
+      "title": "8 Things Final Fantasy VII Revelation Is Changing From The Original On PS1 - kotaku.com",
+      "description": "The finale of the ambitious FF7 remake project arrives just in time for the game's 30th anniversary",
+      "url": "https://kotaku.com/8-things-final-fantasy-vii-revelation-is-changing-from-the-original-on-ps1-2000739078",
+      "urlToImage": "https://kotaku.com/app/uploads/2026/09/FFVII_Revelation_June_Screenshots_8.jpg",
+      "publishedAt": "2026-10-02T15:00:07Z",
+      "content": "Final Fantasy VII Revelation is the culmination of the Final Fantasy VII remake project. Square Enix, somehow, miraculously, in the face of ever-ballooning development cycles, will manage to release … [+5382 chars]"
     },
     {
       "source": {
@@ -138,19 +190,6 @@
     },
     {
       "source": {
-        "id": "bleacher-report",
-        "name": "Bleacher Report"
-      },
-      "author": "Mike Chiari",
-      "title": "Miami Heat to Celebrate Grand Theft Auto VI Release with 'A Night in Vice City' Promotion vs. Bucks - Bleacher Report",
-      "description": "The Miami Heat announced Friday that they will hold a special promotional night on Nov. 18 in celebration of the release of the highly anticipated Grand Theft Auto VI video game on Nov. 19.",
-      "url": "https://bleacherreport.com/articles/25505865-miami-heat-celebrate-grand-theft-auto-vi-release-night-vice-city-promotion-vs-bucks",
-      "urlToImage": "https://gsp-image-cdn.wmsports.io/cms/prod/bleacher-report/getty_images/2026-10/2245943917_large_cropped.jpg?w=1120&h=630",
-      "publishedAt": "2026-10-02T14:31:06Z",
-      "content": "The Miami Heat announced Friday that they will hold a special promotional night on Nov. 18 in celebration of the release of the highly anticipated Grand Theft Auto VI video game on Nov. 19.\r\nEntitled… [+454 chars]"
-    },
-    {
-      "source": {
         "id": null,
         "name": "9to5google.com"
       },
@@ -161,6 +200,32 @@
       "urlToImage": "https://9to5google.com/wp-content/uploads/sites/4/2026/03/google-pixel-10a-berry-1.jpg?quality=82&strip=all&resize=1200,628",
       "publishedAt": "2026-10-02T14:25:00Z",
       "content": "Google has quietly raised the price of its mid-range Pixel 10a by $100, giving the device a starting price of $599.\r\nEffective as of today at the Google Store, Pixel 10a has jumped from $499 to $599.… [+1341 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "SamMobile"
+      },
+      "author": "Asif Iqbal Shaik",
+      "title": "Major SmartThings app redesign finally hits Galaxy phones - SamMobile",
+      "description": "Samsung's SmartThings app redesign is rolling out to Android devices. Discover the new UI, floating tab bar, and 3D map views in it.",
+      "url": "https://www.sammobile.com/news/major-smartthings-app-redesign-finally-hits-galaxy-phones/",
+      "urlToImage": "https://www.sammobile.com/wp-content/uploads/2026/07/Samsung-SmartThings.jpg",
+      "publishedAt": "2026-10-02T14:25:00Z",
+      "content": "Earlier this week, Samsung's SmartThings app received a major UI redesign, but it was initially limited to iPhones. Now, the update has started reaching Galaxy and other Android phones as well. It gi… [+1734 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "PCMag.com"
+      },
+      "author": "Chris Hoffman",
+      "title": "Skip the Wait. Microsoft's 26H2 Update Fixes the Parts You Hate Most About Windows 11 - PCMag",
+      "description": "From a movable taskbar to Bing-free search, Windows 11's 26H2 update unlocks the features Microsoft's slow rollout has kept from your PC over the last year.",
+      "url": "https://www.pcmag.com/news/skip-the-wait-microsofts-26h2-update-fixes-the-parts-you-hate-most-about",
+      "urlToImage": "https://i.pcmag.com/imagery/articles/05ISBSYMLqAyIRqZVPdfaLt-5.fit_lim.size_1200x630.v1790888272.png",
+      "publishedAt": "2026-10-02T14:21:01Z",
+      "content": null
     },
     {
       "source": {
@@ -203,19 +268,6 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "Pokemon.com"
-      },
-      "author": null,
-      "title": "Join the Pokémon Night Out Livestream to Party from Home - Pokemon.com",
-      "description": "Check out the full merch collection and find out how you can join the party from home.",
-      "url": "https://www.pokemon.com/us/news/join-the-pokemon-night-out-livestream-to-party-from-home",
-      "urlToImage": "https://mcdn.pokemon.com/pokemon-prod/image/upload/c_limit,w_1920/f_auto/v1/live/pcom-cms/static-assets/cms3/us/img/misc/tiles/2026/pokemon-30/night-out/09/24/pokemon-30-169-en.jpg",
-      "publishedAt": "2026-10-02T13:18:45Z",
-      "content": "Its nearly time for Pokémon Night Out! This unforgettable experience will be held at the Intuit Dome in Los Angeles on October 24, 2026, and The O2 in London on November 10, 2026, uniting the vast wo… [+771 chars]"
-    },
-    {
-      "source": {
         "id": "the-verge",
         "name": "The Verge"
       },
@@ -226,6 +278,19 @@
       "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/nabucasa.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
       "publishedAt": "2026-10-02T13:02:52Z",
       "content": "<ul><li></li><li></li><li></li></ul>\r\nFounder Paulus Schoutsen explains why the smart home platform is dropping cloud from its name and how a new hub and AI agents could take it mainstream.\r\nFounder … [+8384 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Wccftech"
+      },
+      "author": "Hassan Mujtaba",
+      "title": "NVIDIA’s 64 GB DGX Spark “AI Supercomputer” Launches This Month For $4999, While The 128 GB Spark Jumps Past $6000 - Wccftech",
+      "description": "NVIDIA is launching a new version of its DGX Spark AI Supercomputer which packs half the memory, but is priced the same as the 128 GB model.",
+      "url": "https://wccftech.com/nvidia-64-gb-dgx-spark-this-month-for-4999-usd-128-gb-spark-jumps-past-6000/",
+      "urlToImage": "https://cdn.wccftech.com/wp-content/uploads/2026/09/DSC_0815-Custom-1-1920x1280.jpg",
+      "publishedAt": "2026-10-02T13:00:07Z",
+      "content": "NVIDIA is launching a new version of its DGX Spark AI Supercomputer which packs half the memory, but is priced the same as the 128 GB model.\r\nLast month, we tested the NVIDIA DGX Spark in a single an… [+2732 chars]"
     },
     {
       "source": {
@@ -307,29 +372,29 @@
     },
     {
       "source": {
-        "id": "wired",
-        "name": "Wired"
+        "id": null,
+        "name": "Android Authority"
       },
-      "author": "Lily Hay Newman, Matt Burgess",
-      "title": "A Flaw in ChatGPT’s Mac App Could Have Let Hackers Grab Sensitive Data - WIRED",
-      "description": "While the focus has been on AI agents’ hacking capabilities, a recently patched vulnerability in a ChatGPT app shows that AI software is itself an inviting—and vulnerable—target.",
-      "url": "https://www.wired.com/story/a-flaw-in-chatgpts-mac-app-could-have-let-hackers-grab-sensitive-data/",
-      "urlToImage": "https://media.wired.com/photos/6abc2c32f3865c0127252ad0/191:100/w_1280,c_limit/GettyImages-2278945913.jpg",
-      "publishedAt": "2026-10-02T09:45:00Z",
-      "content": "Hardly a day goes by lately without news of AI agents autonomously hackingwebsites or AI tools being used by cybercriminals and scammers. But a recently patched vulnerability in the macOS version of … [+2699 chars]"
+      "author": null,
+      "title": "New flagship hands the Pixel 11 Pro a huge defeat in reader poll - Android Authority",
+      "description": "The Motorola Signature 27 looks great on paper, but how does it compare to the Pixel 11 Pro? Our readers pick their winner in our latest poll.",
+      "url": "https://www.androidauthority.com/motorola-signature-27-vs-google-pixel-11-pro-poll-results-3718305/",
+      "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2026/09/google-pixel-11-pro-review-hero-photo-4-scaled.jpg",
+      "publishedAt": "2026-10-02T09:54:00Z",
+      "content": "When pitting a Motorola against a Google Pixel, you might believe that the latter should rack up several comfortable wins across the various weight classes. However, a new reader poll suggests that i… [+2610 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Windows Central"
+        "name": "TrueAchievements"
       },
-      "author": "Alexander Cope",
-      "title": "Gears of War: E-Day Review Round-up - Solid return with odd design choices - Windows Central",
-      "description": "The review embargo for Gears of War: E-Day's single-player campaign has lifted, and we've gathered the thoughts of popular review sites on what they had to say.",
-      "url": "https://www.windowscentral.com/gaming/xbox/gears-of-war-e-day-review-round-up",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/ccwnXGx6Df6qnX4XCPohhB-1920-80.jpg",
-      "publishedAt": "2026-10-02T08:59:28Z",
-      "content": "Gears of War: E-Day has finally launched on Xbox Series X|S and PC via early access for players who pre-ordered the Premium Edition.\r\nWhile the rest of the world waits for its public release on Octob… [+3809 chars]"
+      "author": null,
+      "title": "Xbox Game Pass loses nine games in October 2026 - TrueAchievements",
+      "description": "A total of nine games, including Clair Obscur: Expedition 33 and Crime Scene Cleaner, will leave Xbox Game Pass in the first half of October.",
+      "url": "https://www.trueachievements.com/news/xbox-game-pass-leaving-soon-october-2026",
+      "urlToImage": "https://www.trueachievements.com/imgs/178875/xbox-game-pass-loses-nine-games-in-october-2026.jpg",
+      "publishedAt": "2026-10-02T09:05:07Z",
+      "content": "We can now reveal the first wave of games leaving Xbox Game Pass in October 2026, and sadly, some heavy hitters are among them. Clair Obscur: Expedition 33, A Plague Tale: Requiem, Crime Scene Cleane… [+2915 chars]"
     },
     {
       "source": {
@@ -343,6 +408,32 @@
       "urlToImage": "https://assets-prd.ignimgs.com/2024/04/08/vault-boy-1444741684893-1712594384409.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "publishedAt": "2026-10-02T08:29:50Z",
       "content": "The person behind a viral AI-generated Fallout: New York game has pulled it offline after receiving a cease and desist from Bethesda.\r\nEarlier this week, a self-styled AI creative known as CHRIS FIRS… [+4879 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Pokemon GO Hub"
+      },
+      "author": "soraliink",
+      "title": "Pokémon GO City Safari: Boston Rescheduled as a Global Event for Ticket Holders - pokemongohub.net",
+      "description": "Originally scheduled to happen on 26th and 27th September 2026, Pokémon GO City Safari: Boston was unfortunately postponed due to severe weather in the greater Boston area. The Pokémon GO team has now confirmed further updates to the event exclusively for tic…",
+      "url": "https://pokemongohub.net/post/news/pokemon-go-city-safari-boston-rescheduled-as-a-global-event-for-ticket-holders/",
+      "urlToImage": "https://pokemongohub.net/wp-content/uploads/2026/06/city-safari-boston.webp",
+      "publishedAt": "2026-10-02T07:15:19Z",
+      "content": "Originally scheduled to happen on 26th and 27th September 2026, Pokémon GO City Safari: Boston was unfortunately postponed due to severe weather in the greater Boston area. The Pokémon GO team has no… [+2301 chars]"
+    },
+    {
+      "source": {
+        "id": "ign",
+        "name": "IGN"
+      },
+      "author": "Cade Onder",
+      "title": "GTA 6 Will Have Sex Scenes, According to New Zealand Ratings Board - IGN",
+      "description": "GTA 6 will have sex scenes, according to a new listing from international ratings boards.",
+      "url": "https://www.ign.com/articles/new-gta-6-age-rating-confirms-game-will-feature-sex-scenes",
+      "urlToImage": "https://assets-prd.ignimgs.com/2026/08/27/gta6-romance-feature-blog-1787862386845.jpg?width=1280&format=jpg&auto=webp&quality=80",
+      "publishedAt": "2026-10-02T01:52:00Z",
+      "content": "GTA 6 will have sex scenes, according to a new listing from international ratings boards.\r\nIn New Zealand and Australia, GTA 6's store page on PlayStation was updated to include the game's official a… [+2597 chars]"
     },
     {
       "source": {
@@ -386,15 +477,15 @@
     {
       "source": {
         "id": null,
-        "name": "MacRumors"
+        "name": "AppleInsider"
       },
-      "author": "Joe Rossignol",
-      "title": "Apple Says iPhone Duo Has Replaceable 'Cover Layer' - MacRumors",
-      "description": "In a recent interview with content creator Angelica Siciliani Fendi, Apple's vice president of hardware engineering Kate Bergeron revealed that...",
-      "url": "https://www.macrumors.com/2026/10/01/iphone-duo-cover-layer-is-replaceable/",
-      "urlToImage": "https://images.macrumors.com/t/CF37ey2cPgDxE7XhXnqyT0kz1_Q=/1920x/article-new/2026/10/iphone-duo-feature.jpg",
-      "publishedAt": "2026-10-01T19:25:11Z",
-      "content": "In a recent interview with content creator Angelica Siciliani Fendi, Apple's vice president of hardware engineering Kate Bergeron revealed that the iPhone Duo's nano-texture cover layer above the inn… [+1116 chars]"
+      "author": "Wesley Hilliard",
+      "title": "iPhone Duo inner display has a replaceable $19 top layer - AppleInsider",
+      "description": "AppleCare coverage for the iPhone Duo will mean inexpensive repairs for Apple's first foldable, including $99 full inner display replacement or $19 \"cover layer\" swaps.",
+      "url": "https://appleinsider.com/articles/26/10/01/iphone-duo-inner-display-has-a-replaceable-29-top-layer",
+      "urlToImage": "https://media.appleinsider.com/gallery/69185-145951-iPhone-Duo-open-xl.jpg",
+      "publishedAt": "2026-10-01T19:48:00Z",
+      "content": "iPhone Duo's cover layer will be easily replaced for just $19 with AppleCare\r\nAppleCare coverage for the iPhone Duo will mean inexpensive repairs for Apple's first foldable, including $99 full inner … [+4830 chars]"
     },
     {
       "source": {
@@ -425,6 +516,19 @@
     {
       "source": {
         "id": null,
+        "name": "Pokemon.com"
+      },
+      "author": null,
+      "title": "Check Out Every Pokémon TCG Product Release in October 2026 - Pokemon.com",
+      "description": "Additional products from the 30th Celebration expansion and more are on their way.",
+      "url": "https://www.pokemon.com/us/news/check-out-every-pokemon-tcg-product-release-in-october-2026",
+      "urlToImage": "https://mcdn.pokemon.com/pokemon-prod/image/upload/c_limit,w_1920/f_auto/v1/live/pcom-cms/static-assets/cms3/us/img/trading-card-game/tiles/2026/product-showcase/10/product-showcase-169-en.png",
+      "publishedAt": "2026-10-01T17:45:21Z",
+      "content": "The 30th Celebration continues in October as this exciting Pokémon Trading Card Game expansion sees even more releases. With new illustration rare cards, reprints of popular cards from the past, and … [+3190 chars]"
+    },
+    {
+      "source": {
+        "id": null,
         "name": "Pokemon GO Hub"
       },
       "author": "kittypokemonsalot",
@@ -438,6 +542,19 @@
     {
       "source": {
         "id": null,
+        "name": "Videocardz.com"
+      },
+      "author": null,
+      "title": "NVIDIA and Microsoft tease RTX Spark announcements for October 7 Windows event - VideoCardz.com",
+      "description": "RTX Spark will be a key focus of Microsoft’s October 7 Windows event with Jensen Huang in attendance. The first systems appear aimed at premium laptops and workstations rather than gaming PCs.",
+      "url": "https://videocardz.com/newz/nvidia-and-microsoft-tease-rtx-spark-announcements-for-october-7-windows-event",
+      "urlToImage": "https://cdn.videocardz.com/1/2026/10/MICROSOFT-RTX-SPARK.webp",
+      "publishedAt": "2026-10-01T16:52:13Z",
+      "content": "Yes, I was confused for a second too –  it’s American date style, so October 7th. Microsoft and NVIDIA are dropping more hints about next week’s Windows and Surface event.\r\nMicrosoft now says the Oct… [+1512 chars]"
+    },
+    {
+      "source": {
+        "id": null,
         "name": "Gematsu"
       },
       "author": "Sal Romano",
@@ -447,19 +564,6 @@
       "urlToImage": "https://www.gematsu.com/wp-content/uploads/2026/10/Invincible-VS_2026_10-01-26_008.jpg",
       "publishedAt": "2026-10-01T16:38:18Z",
       "content": "Publisher Skybound Games and developer Quarter Up will release three-versus-three tag fighting game Invincible VS downloadable content character Angstrom Levy on October 13 as part of the game’s seco… [+2203 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Tom Warren",
-      "title": "‘Something new is coming from Windows,’ says Microsoft. - The Verge",
-      "description": "",
-      "url": "https://www.theverge.com/news/1003546/microsoft-windows-event-october-7th-rtx-spark-teaser",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/HTjbpAPWYAAsp0Y.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-      "publishedAt": "2026-10-01T16:28:13Z",
-      "content": null
     },
     {
       "source": {
@@ -503,6 +607,19 @@
     {
       "source": {
         "id": null,
+        "name": "Push Square"
+      },
+      "author": "Robert Ramsey",
+      "title": "Review: Ghost of Yotei: Complete Edition (PS5) - Atsu Shines in Story DLC, But Most Wanted Mode Steals the Show - Push Square",
+      "description": "Wanted dead",
+      "url": "https://www.pushsquare.com/reviews/ps5/ghost-of-yotei-complete-edition",
+      "urlToImage": "https://images.pushsquare.com/8b9cd557e453f/1280x720.jpg",
+      "publishedAt": "2026-10-01T16:00:00Z",
+      "content": "A fairly robust re-release that has an upgrade path for existing owners, Ghost of Yotei: Complete Edition features both an additional chapter in Atsu's quest for revenge, titled Echoes of Sekigahara,… [+4346 chars]"
+    },
+    {
+      "source": {
+        "id": null,
         "name": "9to5google.com"
       },
       "author": "Damien Wilde",
@@ -525,19 +642,6 @@
       "urlToImage": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/10/FY26-Social-FPD_10.1.2026_1920x1080-29cec7cbe2a1b4e6d6dc.jpg",
       "publishedAt": "2026-10-01T15:33:25Z",
       "content": "Your weekend plans are officially set with Ubisoft’s Free Play Days takeover!\r\nFARCRY 6, Assassin’s Creed Odyssey, Avatar: Frontiers of Pandora, Skull and Bones, and The Crew Motorfest are free for a… [+2988 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Richard Speed",
-      "title": "Microsoft makes Windows settings backup the default in 26H2 - The Register",
-      "description": "Annual update installed. You're up to date, so nothing seems to have changed. Wait a minute...",
-      "url": "https://www.theregister.com/os-platforms/2026/10/01/microsoft-makes-windows-settings-backup-the-default-in-26h2/5300552",
-      "urlToImage": "https://image.theregister.com/227449.jpg?imageId=227449&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
-      "publishedAt": "2026-10-01T15:31:00Z",
-      "content": "Windows 11 26H2 is out, and Microsoft has enabled Windows settings backup by default, a move that could send administrators scrambling to opt out where they once had to opt in.\r\nThe latest release ha… [+2107 chars]"
     },
     {
       "source": {
@@ -581,15 +685,15 @@
     {
       "source": {
         "id": null,
-        "name": "Kotaku"
+        "name": "Consequence.net"
       },
-      "author": "John Walker",
-      "title": "Arc Raiders Is About To Go Nuclear On Cheaters: ‘No Warnings, No Second Chances’ - Kotaku",
-      "description": "There are also plans to introduce new tech, and prevent the misery of queue teaming",
-      "url": "https://kotaku.com/arc-raiders-cheating-exploits-queue-teaming-embark-update-frozen-trail-2000738934",
-      "urlToImage": "https://kotaku.com/app/uploads/2026/10/arc-cheating.jpg",
-      "publishedAt": "2026-10-01T14:30:51Z",
-      "content": "Arc Raiders developer Embark has announced it’s stepping up its anti-cheating policies yet again, and this time it’s taking no bullshit. (Thanks, PC Gamer.) In January of this year the studio declare… [+3326 chars]"
+      "author": "Eddie Fu",
+      "title": "Best October Prime Day AirPods Deals Available Now - Consequence of Sound",
+      "description": "Amazon is already running AirPods deals ahead of its October Prime Day event, with discounts on AirPods Pro 3, AirPods Max 2, and more.",
+      "url": "https://consequence.net/2026/10/best-october-prime-day-airpods-deals-2026/",
+      "urlToImage": "https://consequence.net/wp-content/uploads/2026/09/october-prime-day-2026-airpods-deals.jpg",
+      "publishedAt": "2026-10-01T14:43:31Z",
+      "content": "Amazon’s major fall sale, Prime Big Deal Days, runs on October 6th and 7th. It’s one of the last times of the year AirPods will be available at a nice discount before Black Friday, when inventory can… [+1750 chars]"
     },
     {
       "source": {
@@ -646,32 +750,6 @@
     {
       "source": {
         "id": null,
-        "name": "80.lv"
-      },
-      "author": "Amber Rutherford",
-      "title": "GTA 6: Over 170 Animal Species, Dynamic Weather & More Confirmed - 80 Level",
-      "description": "Learn how Rockstar has made Leonida feel as authentic as possible to Florida.",
-      "url": "https://80.lv/articles/gta-6-over-170-animal-species-dynamic-weather-more-confirmed",
-      "urlToImage": "https://cdn.80.lv/api/upload/meta/50460/images/6abe437ddc3d2/contain_1200x630.jpg",
-      "publishedAt": "2026-10-01T11:28:42Z",
-      "content": "It's already October, which means the release of the most anticipated game of the year is now just a little over a month away. While we already know plenty about Grand Theft Auto 6 from leaks, traile… [+1695 chars]"
-    },
-    {
-      "source": {
-        "id": "wired",
-        "name": "Wired"
-      },
-      "author": "Julian Chokkattu",
-      "title": "Exclusive: Neurable’s First Brain-Scanning Headphones Want to Fine-Tune Your Focus - WIRED",
-      "description": "The company claims that its new device, the Neurable One, can keep you in the zone, calculate the best time to take a break, and tell you when your “brain battery” needs a recharge.",
-      "url": "https://www.wired.com/story/exclusive-neurable-one-brain-scanning-headphones-want-to-fix-your-focus/",
-      "urlToImage": "https://media.wired.com/photos/6abccc1599edf0dddca3a1a4/191:100/w_1280,c_limit/Neurable%20One%20Lifestyle.jpg",
-      "publishedAt": "2026-10-01T11:00:00Z",
-      "content": "Neurable unveiled its very own pair of brain-scanning headphones on Thursday, the Neurable One. The company claims that wearing them helps you concentrate on whatever youre doingworking, studying, or… [+1336 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "BikeRadar.com"
       },
       "author": "Warren Rossiter",
@@ -711,19 +789,6 @@
     {
       "source": {
         "id": null,
-        "name": "Eurogamer.net"
-      },
-      "author": "Connor Makar",
-      "title": "As Xbox swings the axe, Gears of War: E-Day developers fear they'll be laid off straight after launch - and right before they'd be due their bonuses - Eurogamer.net",
-      "description": "Eurogamer speaks to anonymous sources from The Coalition on the change in morale over the past few months, linked to layoffs and Metacritic bonuses.",
-      "url": "https://www.eurogamer.net/the-coalition-gears-of-war-e-day-worried-layoffs-no-bonus",
-      "urlToImage": "https://assetsio.gnwcdn.com/gears-money.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "publishedAt": "2026-10-01T09:52:39Z",
-      "content": "Back in July, new Xbox CEO Asha Sharma announced a total of 3,200 job cuts across Microsoft's gaming arm, with roughly half of those cuts being made alongside that announcement. The impact was vast. … [+10600 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "Android Authority"
       },
       "author": null,
@@ -750,32 +815,6 @@
     {
       "source": {
         "id": null,
-        "name": "Android Authority"
-      },
-      "author": null,
-      "title": "Google Antigravity looks like an Android app, but your phone isn't invited - Android Authority",
-      "description": "The Google Antigravity app is now available in the Play Store, but don’t expect it to work on your Android phone.",
-      "url": "https://www.androidauthority.com/google-antigravity-android-play-store-3717752/",
-      "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2026/09/HP-Googlebook-14-open-16-9-scaled.jpeg",
-      "publishedAt": "2026-10-01T08:37:00Z",
-      "content": "<ul><li>Google Antigravity is now listed in the Play Store, but its built for Googlebooks rather than regular Android phones.</li><li>We sideloaded the app on a Pixel phone, where its interface was p… [+2465 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Nintendo Life"
-      },
-      "author": "Damien McFerran",
-      "title": "Former Sony Exec Shuhei Yoshida Thinks Nintendo Is \"Going To Do Pretty Well\" With Switch 2 \"For Many Years To Come\" - Nintendo Life",
-      "description": "\"I think they should try to keep the current generation as long as possible\"",
-      "url": "https://www.nintendolife.com/news/2026/10/former-sony-exec-shuhei-yoshida-thinks-nintendo-is-going-to-do-pretty-well-with-switch-2-for-many-years-to-come",
-      "urlToImage": "https://images.nintendolife.com/ead528c3293c2/1280x720.jpg",
-      "publishedAt": "2026-10-01T08:00:00Z",
-      "content": "Image: Damien McFerran / Nintendo Life\r\nFormer PlayStation executive Shuhei Yoshida has been speaking about the current state of the home console market and feels that Nintendo and Sony should try to… [+1775 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "GSMArena.com"
       },
       "author": "Siddharth",
@@ -789,15 +828,15 @@
     {
       "source": {
         "id": null,
-        "name": "Tom's Guide"
+        "name": "TheStreet"
       },
-      "author": "Dave LeClair",
-      "title": "Apple issues emergency update for millions of iPhones, iPads, and Macs — update your devices now - Tom's Guide",
-      "description": "If you're an Apple user, you need to make sure to update",
-      "url": "https://www.tomsguide.com/computing/online-security/apple-issues-emergency-update-for-millions-of-iphones-ipads-and-macs-update-your-devices-now",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/Yw7fhu6ppktzX3ZBxfNcdP-1600-80.jpg",
-      "publishedAt": "2026-09-29T13:28:58Z",
-      "content": null
+      "author": "Anand Sinha",
+      "title": "Apple patches iPhone flaw used in 'extremely sophisticated' attacks, crypto wallets at risk - Yahoo Finance",
+      "description": "Apple releases iOS 26.7.1 and iPadOS 26.7.1 security updates to fix CVE-2026-86950.",
+      "url": "https://www.thestreet.com/crypto/innovation/apple-fixes-critical-flaw-potentially-tied-to-sophisticated-attack",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/9722555f79f77b18fa0b88f206dee8c03b7a62446a074da8e74cfa4650957332/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthestreet_881%2Ff3fadc688ccf17d11b95e306e05f2915.jpg",
+      "publishedAt": "2026-09-29T17:12:20Z",
+      "content": "Apple (Nasdaq: AAPL) released an emergency-grade security update on Sept. 28, and this one is not routine, the company says the flaw it fixes may already have been used in real attacks, and a blockch… [+2362 chars]"
     }
   ]
 }

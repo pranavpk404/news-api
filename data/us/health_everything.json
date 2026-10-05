@@ -6,9 +6,35 @@
     "newsapi",
     "rss"
   ],
-  "fetched_at": "2026-10-05T16:26:57.843180+00:00",
+  "fetched_at": "2026-10-05T23:22:39.916535+00:00",
   "articles_count": 30,
   "articles": [
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Trisha Thadani",
+      "title": "Dying Patients Are Inundated by Misinformation. My Dad Was One of Them.",
+      "description": "Cancer patients are being persuaded to spend tens of thousands on unproven treatments by alternative-medicine clinics.",
+      "url": "https://www.nytimes.com/2026/10/04/magazine/alternative-cancer-clinics-treatment-father.html",
+      "urlToImage": null,
+      "publishedAt": "2026-10-05T23:19:42Z",
+      "content": "Cancer patients are being persuaded to spend tens of thousands on unproven treatments by alternative-medicine clinics."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Carolyn Y. Johnson and Leo Sands",
+      "title": "Nobel Prize in Physiology or Medicine Is Awarded for Discoveries in Neuroscience",
+      "description": "Karl Deisseroth, Peter Hegemann and Georg Nagel were recognized for their work on light-gated ion channels and optogenetics, a technique that uses pulses of light to activate neurons in the brain.",
+      "url": "https://www.nytimes.com/2026/10/05/health/nobel-prize-medicine-physiology.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/10/05/multimedia/05SCI-nobel-medicin-01-tfkh/05SCI-nobel-medicin-01-tfkh-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-10-05T21:09:36Z",
+      "content": "Karl Deisseroth, Peter Hegemann and Georg Nagel were recognized for their work on light-gated ion channels and optogenetics, a technique that uses pulses of light to activate neurons in the brain."
+    },
     {
       "source": {
         "id": "the-new-york-times",
@@ -34,32 +60,6 @@
       "urlToImage": null,
       "publishedAt": "2026-10-05T15:12:12Z",
       "content": "By pinpointing when it begins in young humans, scientists hope to better understand what consciousness is, and how it arises, in all of us."
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "author": "Carolyn Y. Johnson and Leo Sands",
-      "title": "Nobel Prize in Physiology or Medicine Is Awarded for Discoveries in Neuroscience",
-      "description": "Karl Deisseroth, Peter Hegemann and Georg Nagel were recognized for their work on light-gated ion channels and optogenetics, a technique that uses tiny lights to activate neurons in the brain.",
-      "url": "https://www.nytimes.com/2026/10/05/health/nobel-prize-medicine-physiology.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/10/05/multimedia/05SCI-nobel-medicin-01-tfkh/05SCI-nobel-medicin-01-tfkh-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-10-05T14:53:51Z",
-      "content": "Karl Deisseroth, Peter Hegemann and Georg Nagel were recognized for their work on light-gated ion channels and optogenetics, a technique that uses tiny lights to activate neurons in the brain."
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "author": "Trisha Thadani",
-      "title": "Dying Patients Are Inundated by Misinformation. My Dad Was One of Them.",
-      "description": "Cancer patients are being persuaded to spend tens of thousands on unproven treatments by alternative-medicine clinics.",
-      "url": "https://www.nytimes.com/2026/10/04/magazine/alternative-cancer-clinics-treatment-father.html",
-      "urlToImage": null,
-      "publishedAt": "2026-10-04T12:50:49Z",
-      "content": "Cancer patients are being persuaded to spend tens of thousands on unproven treatments by alternative-medicine clinics."
     },
     {
       "source": {
@@ -171,7 +171,7 @@
         "name": "The New York Times"
       },
       "author": "Maya Salam",
-      "title": "The Most Disturbing 2000s Reality Show Doesn’t Seem So Crazy Anymore",
+      "title": "‘The Swan,’ the Most Disturbing 2000s Reality Show, Doesn’t Seem So Crazy Anymore",
       "description": "Erin Lee Carr’s new documentary revisits the 2004 makeover show “The Swan,” which gave 32 women extensive plastic surgery and anticipated where beauty culture was headed.",
       "url": "https://www.nytimes.com/2026/09/30/arts/television/the-swan-reality-show-documentary.html",
       "urlToImage": null,

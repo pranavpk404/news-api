@@ -6,9 +6,35 @@
     "newsapi",
     "rss"
   ],
-  "fetched_at": "2026-10-05T16:26:57.843180+00:00",
-  "articles_count": 76,
+  "fetched_at": "2026-10-05T23:22:39.916535+00:00",
+  "articles_count": 78,
   "articles": [
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Trisha Thadani",
+      "title": "Dying Patients Are Inundated by Misinformation. My Dad Was One of Them.",
+      "description": "Cancer patients are being persuaded to spend tens of thousands on unproven treatments by alternative-medicine clinics.",
+      "url": "https://www.nytimes.com/2026/10/04/magazine/alternative-cancer-clinics-treatment-father.html",
+      "urlToImage": null,
+      "publishedAt": "2026-10-05T23:19:42Z",
+      "content": "Cancer patients are being persuaded to spend tens of thousands on unproven treatments by alternative-medicine clinics."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Carolyn Y. Johnson and Leo Sands",
+      "title": "Nobel Prize in Physiology or Medicine Is Awarded for Discoveries in Neuroscience",
+      "description": "Karl Deisseroth, Peter Hegemann and Georg Nagel were recognized for their work on light-gated ion channels and optogenetics, a technique that uses pulses of light to activate neurons in the brain.",
+      "url": "https://www.nytimes.com/2026/10/05/health/nobel-prize-medicine-physiology.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/10/05/multimedia/05SCI-nobel-medicin-01-tfkh/05SCI-nobel-medicin-01-tfkh-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-10-05T21:09:36Z",
+      "content": "Karl Deisseroth, Peter Hegemann and Georg Nagel were recognized for their work on light-gated ion channels and optogenetics, a technique that uses pulses of light to activate neurons in the brain."
+    },
     {
       "source": {
         "id": "the-new-york-times",
@@ -37,16 +63,94 @@
     },
     {
       "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
+        "id": "nbc-news",
+        "name": "NBC News"
       },
-      "author": "Carolyn Y. Johnson and Leo Sands",
-      "title": "Nobel Prize in Physiology or Medicine Is Awarded for Discoveries in Neuroscience",
-      "description": "Karl Deisseroth, Peter Hegemann and Georg Nagel were recognized for their work on light-gated ion channels and optogenetics, a technique that uses tiny lights to activate neurons in the brain.",
-      "url": "https://www.nytimes.com/2026/10/05/health/nobel-prize-medicine-physiology.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/10/05/multimedia/05SCI-nobel-medicin-01-tfkh/05SCI-nobel-medicin-01-tfkh-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-10-05T14:53:51Z",
-      "content": "Karl Deisseroth, Peter Hegemann and Georg Nagel were recognized for their work on light-gated ion channels and optogenetics, a technique that uses tiny lights to activate neurons in the brain."
+      "author": "Akshay Syal, M.D., Anne Thompson, Jessica Herzberg",
+      "title": "In early clinical trial, people with Type 1 diabetes are able to go off insulin - NBC News",
+      "description": "More research is needed, but experts are cautiously optimistic about the results. Patients in the trial got an experimental drug to prevent transplant rejection with fewer side effects.",
+      "url": "https://www.nbcnews.com/health/health-news/early-clinical-trial-people-type-1-diabetes-are-able-go-insulin-rcna601171",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/261002-Katie-Beth-Hand-ch-1415-03d9fb.jpg",
+      "publishedAt": "2026-10-04T22:00:41Z",
+      "content": "Just a moment.\r\nWe are getting your experience ready."
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Eatthis.com"
+      },
+      "author": "Adam Meyer",
+      "title": "5 Home Exercises That Firm Underarm Jiggle Faster Than Gym Workouts After 60 - Eat This Not That",
+      "description": "Home exercises for underarm jiggle after 60, from a certified trainer. Five moves using body weight and light dumbbells.",
+      "url": "https://www.eatthis.com/home-exercises-underarm-jiggle-after-60/",
+      "urlToImage": "https://www.eatthis.com/wp-content/uploads/sites/4/2026/10/middle-aged-woman-dumbbell-Overhead-Tricep-Extensions-exercise_2666999131.jpg?quality=82&strip=all",
+      "publishedAt": "2026-10-04T19:39:35Z",
+      "content": "A certified trainer's five at-home moves target underarm jiggle after 60, no gym or dumbbells required.\r\nWave goodbye to someone and you might notice a little extra movement at the back of your arm t… [+5661 chars]"
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": null,
+      "title": "Inside the study for a remedy to fight Congo’s deadliest Ebola outbreak - CNN",
+      "description": "More than 250 participants have been enrolled in a trial for a drug that could stop them from contracting Ebola in Congo, in what experts have described as a critical step to try to fight the deadliest outbreak of the disease in the Central African country.",
+      "url": "https://www.cnn.com/2026/10/04/health/ebola-drug-trial-congo",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/ap26275636964192.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2026-10-04T19:30:44Z",
+      "content": "More than 250 participants have been enrolled in a trial for a drug that could stop them from contracting Ebola in Congo, in what experts have described as a critical step to try to fight the deadlie… [+4804 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "New York Post"
+      },
+      "author": "Rachel Sacks",
+      "title": "4 surprising things people don’t realize can mess with their hearing - New York Post",
+      "description": "Certain factors that mess with the ability to properly hear may take some people by surprise, including an item many reach for regularly.",
+      "url": "https://nypost.com/2026/10/04/health/4-surprising-things-people-dont-realize-can-mess-with-hearing/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/10/crop-41132073.jpg?quality=75&strip=all&w=1200",
+      "publishedAt": "2026-10-04T17:55:00Z",
+      "content": "Say what?\r\nWhile hearing loss is often associated with aging 22% of people over the age of 65 struggle to hear everyday sounds around them it can affect people of all ages.\r\nAnd certain factors that … [+3406 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "San Francisco Chronicle"
+      },
+      "author": "Catherine Ho",
+      "title": "Most people with flu stop isolating at exactly the wrong time, CDC study finds - San Francisco Chronicle",
+      "description": "Most people with flu isolate for about four days, but that’s often when viral shedding is highest. Here’s what CDC guidance says to do instead.",
+      "url": "https://www.sfchronicle.com/health/article/flu-contagious-symptoms-sick-22459780.php",
+      "urlToImage": "https://s.hdnux.com/photos/01/67/41/26/31331769/6/rawImage.jpg",
+      "publishedAt": "2026-10-04T17:51:57Z",
+      "content": "Nurse Tracy Gage prepares a syringe at a flu and COVID-19 vaccination clinic at Kaiser Permanente Pasadena on Oct. 12, 2023. A new CDC-led study found that many people with the flu stop isolating whi… [+3504 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Eatingwell.com"
+      },
+      "author": "https://www.facebook.com/EatingWell/",
+      "title": "The Best Snack For Low Blood Pressure, According to Medical Experts - EatingWell",
+      "description": "Medical experts recommend this particular snack choice for those struggling with low blood pressure. Here’s why.",
+      "url": "https://www.eatingwell.com/best-snack-for-low-blood-pressure-12151878",
+      "urlToImage": "https://www.eatingwell.com/thmb/oMYBGzEG0GWcJ53RlS6RJvS0Fac=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/The-Best-Snack-For-Low-Blood-Pressure-7c1a14fac9504ab0a800aabd035eabbf.jpg",
+      "publishedAt": "2026-10-04T17:30:00Z",
+      "content": "Maintaining balanced blood pressure is important for whole-body health. While high blood pressure, or hypertension, tends to receive more attention, low blood pressure, known as hypotension, can also… [+8116 chars]"
+    },
+    {
+      "source": {
+        "id": "usa-today",
+        "name": "USA Today"
+      },
+      "author": "Gavin Escott",
+      "title": "Is there any candy for diabetics? - USA Today",
+      "description": "People with diabetes can still eat candy, but the type and amount of candy – and how it fits into their larger diet – matters.",
+      "url": "https://www.usatoday.com/story/life/health-wellness/2026/10/04/what-candy-can-people-with-diabetes-eat/91589550007/",
+      "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/09/03/USAT/91589583007-getty-images-2235969348.jpg?crop=2120,1193,x0,y110&width=2120&height=1193&format=pjpg&auto=webp",
+      "publishedAt": "2026-10-04T17:24:47Z",
+      "content": "For most people, satisfying a sweet tooth can be as simple as picking your favorite treat. For people with diabetes, choosing a sweet treat can be a little more complicated but experts say you dont n… [+3396 chars]"
     },
     {
       "source": {
@@ -54,25 +158,90 @@
         "name": "Fox News"
       },
       "author": null,
-      "title": "10-minute fitness habit can help adults over 40 maintain muscle and stay strong - Fox News",
-      "description": "CEO Carl Daikeler compares metabolism to a furnace: Muscle is the coal and cardio stokes it, urging a balance of strength training and cardiovascular work.",
-      "url": "https://www.foxnews.com/health/10-minute-fitness-habit-help-adults-over-40-maintain-muscle-stay-strong",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/10/older-man-with-dumbbells.jpg",
-      "publishedAt": "2026-10-04T13:00:25Z",
-      "content": "Adults over 40 may not need to spend hours in the gym to maintain muscle, preserve mobility and stay strong.\r\nAccording to Los Angeles fitness entrepreneur Carl Daikeler, just 10 minutes of targeted … [+4161 chars]"
+      "title": "Subtle change in how you speak could be early sign of dementia risk, new research suggests - Fox News",
+      "description": "A new Drexel University study of 833,417 participants links voice disorders to a 58% higher likelihood of developing dementia or cognitive impairment.",
+      "url": "https://www.foxnews.com/health/subtle-change-how-you-speak-early-sign-dementia-risk-new-research-suggests",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/10/man-father-coffee-chat-home.jpg",
+      "publishedAt": "2026-10-04T16:39:14Z",
+      "content": "New research suggests that voice disorders, including shifts in vocal pitch, volume or clarity, could indicate a higher probability of developing dementia or cognitive impairment in the future.\r\nA st… [+2732 chars]"
     },
     {
       "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
+        "id": null,
+        "name": "New York Post"
       },
-      "author": "Trisha Thadani",
-      "title": "Dying Patients Are Inundated by Misinformation. My Dad Was One of Them.",
-      "description": "Cancer patients are being persuaded to spend tens of thousands on unproven treatments by alternative-medicine clinics.",
-      "url": "https://www.nytimes.com/2026/10/04/magazine/alternative-cancer-clinics-treatment-father.html",
-      "urlToImage": null,
-      "publishedAt": "2026-10-04T12:50:49Z",
-      "content": "Cancer patients are being persuaded to spend tens of thousands on unproven treatments by alternative-medicine clinics."
+      "author": "Rachel Sacks",
+      "title": "Nipple-twisting prank between friends may have saved man’s life - New York Post",
+      "description": "The recipient of the practical joke is issuing an important warning to other men about an oft-overlooked, yet deadly disease.",
+      "url": "https://nypost.com/2026/10/04/health/nipple-twisting-prank-between-friends-may-have-saved-mans-life/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/10/143739901.jpg?quality=75&strip=all&w=1200",
+      "publishedAt": "2026-10-04T16:30:00Z",
+      "content": "Let’s hear it for the boys.\r\nWhat started as an innocent prank between guy friends ended as a potentially life-saving discovery for one man.\r\nNow, the recipient of the practical joke is issuing an im… [+2973 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Women's Health"
+      },
+      "author": "Kate Cheng",
+      "title": "At 70, This Fitness Coach Says Strength Training Keeps Her Independent. Here Are the 5 Habits She Swears By - Women's Health",
+      "description": "Fitness coach Carrie Sisson says strength training helped her stay strong at 70. Here are 5 habits she recommends starting in your 30s to 60s.",
+      "url": "https://www.womenshealthmag.com/fitness/a73981320/healthy-aging-strength-habits/",
+      "urlToImage": "https://hips.hearstapps.com/hmg-prod/images/d8719a99-ef75-4515-b6c8-7b92ecd81f5a.png?crop=1xw:0.9953703703703703xh;center,top&resize=1200:*",
+      "publishedAt": "2026-10-04T16:00:00Z",
+      "content": "If you think reaching 70 means becoming frail, slowing down and losing your independence, Carrie Sisson offers a very different picture of what aging can look like.\r\nThe fitness coach started taking … [+3831 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Health.com"
+      },
+      "author": "https://www.facebook.com/Health/",
+      "title": "6 Supplements Everyone Should Consider Taking, According to Experts - health.com",
+      "description": "Not every supplement is worth taking. Learn which six experts actually recommend.",
+      "url": "https://www.health.com/supplements-worth-taking-12147641",
+      "urlToImage": "https://www.health.com/thmb/HjgDoi2XjdosEBPWoQuh4nLkRXM=/7952x0/filters:no_upscale():max_bytes(150000):strip_icc()/Health-GettyImages-1471283445-d4f34c1a446445c29803c19947919419.jpg",
+      "publishedAt": "2026-10-04T16:00:00Z",
+      "content": "If you feel overwhelmed by the sheer number of supplements on the market, youre not alone. Between social media ads and the endless options lining pharmacy and grocery store shelves, its difficult to… [+5958 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ScienceAlert"
+      },
+      "author": "David Nield",
+      "title": "Scientists May Have Found a Way to Make Damaged Adult Retinas Repair Themselves - sciencealert.com",
+      "description": "There's a rare, inherited sight condition, involving faulty copies of the CaBP4 gene, that causes poor vision from childhood.",
+      "url": "https://www.sciencealert.com/scientists-may-have-found-a-way-to-make-damaged-adult-retinas-repair-themselves",
+      "urlToImage": "https://www.sciencealert.com/images/2026/10/CloseupEye-1200x675.jpg",
+      "publishedAt": "2026-10-04T15:01:13Z",
+      "content": "There's a rare, inherited sight condition, involving faulty copies of the CaBP4 gene, that causes poor vision from childhood. The protein made by the gene is crucial for chemical signaling in the ret… [+4212 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Newser"
+      },
+      "author": "Kate Seamons",
+      "title": "Your Grip Strength Is an Important Vital Sign - Newser",
+      "description": "Weak grip associated with higher frailty, heart disease, and dementia",
+      "url": "https://www.newser.com/story/397424/your-grip-strength-reveals-a-lot-about-your-health.html",
+      "urlToImage": "https://cdn.newser.com/image/1715494-12-20261004090718.jpeg",
+      "publishedAt": "2026-10-04T13:45:00Z",
+      "content": "Your handshake may say more about your health than you realize. Doctors are increasingly eyeing grip strength as a quick, cheap way to flag broader problems. Indeed, University of Michigan Medical Sc… [+985 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Eatingwell.com"
+      },
+      "author": "https://www.facebook.com/EatingWell/",
+      "title": "4 Things to Avoid Before 10 A.M. to Decrease Inflammation - EatingWell",
+      "description": "Health experts share which morning habits may contribute to chronic inflammation, along with practical tips to support overall health.",
+      "url": "https://www.eatingwell.com/morning-habits-to-avoid-to-help-inflammation-12140872",
+      "urlToImage": "https://www.eatingwell.com/thmb/9qqLSvJyEX-CfjbAcBXEX5lvAfo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4-Things-to-Avoid-before-10am-to-Decrease-Inflammation-8847a89db575484a847a1015fbd61a13.jpg",
+      "publishedAt": "2026-10-04T13:00:00Z",
+      "content": "Your daily patterns play an important role in managing chronic inflammation. Inflammation is a necessary immune response that helps your body fight infection and repair injuries, but when that respon… [+5028 chars]"
     },
     {
       "source": {
@@ -86,6 +255,32 @@
       "urlToImage": "https://cdn.newser.com/image/1715481-12-20261004080504.jpeg",
       "publishedAt": "2026-10-04T12:35:00Z",
       "content": "Biopsies from 66 patients before, during, and after treatment showed the drug wipes out about half of cancer cells in an astonishing two weeks. But the surviving cells had a different look: The missh… [+424 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Prevention.com"
+      },
+      "author": "Korin Miller",
+      "title": "Can This Popular Joint Supplement Really Speed Up the Development of Dementia? - Prevention",
+      "description": "New research suggests that joint supplement glucosamine may speed up dementia progression.",
+      "url": "https://www.prevention.com/health/a73931561/glucosamine-dementia-study/",
+      "urlToImage": "https://hips.hearstapps.com/hmg-prod/images/87d4939c-9be6-4913-8855-bebb942ad665.jpeg?crop=1xw:0.749646393211xh;center,top&resize=1200:*",
+      "publishedAt": "2026-10-04T11:47:55Z",
+      "content": "Nearly 59 million\r\n Americans have been diagnosed with arthritis, a condition that causes joint pain and stiffness. And that might actually be an undercount: A huge chunk of adults have joint pain bu… [+7688 chars]"
+    },
+    {
+      "source": {
+        "id": "newsweek",
+        "name": "Newsweek"
+      },
+      "author": "Amanda Greenwood",
+      "title": "Map Shows States Where Dengue Fever Cases Have Risen After Florida Outbreak - Newsweek",
+      "description": "Florida dengue outbreak drives rise in U.S. cases as CDC data show infections increasing across at least 15 states.",
+      "url": "https://www.newsweek.com/map-shows-states-where-dengue-fever-cases-have-risen-after-florida-outbreak-12521971",
+      "urlToImage": "https://assets.newsweek.com/wp-content/uploads/2026/10/Copy-of-32-image-2026-10-04T120926-079.png?w=1200&crop=1",
+      "publishedAt": "2026-10-04T11:40:00Z",
+      "content": "Following the dengue fever outbreak in Florida, which health officials are describing as the largest outbreak in the continental United States in decades, dengue fever cases have increased across a n… [+3276 chars]"
     },
     {
       "source": {
@@ -119,12 +314,12 @@
         "name": "HuffPost"
       },
       "author": null,
-      "title": "Trump's Latest Name For GLP-1s Has Doctors And Patients Raising An Important Concern - HuffPost",
-      "description": "Despite the president’s comments, patients say these medications have been life-changing, and their effectiveness cannot be ignored.",
-      "url": "https://www.huffpost.com/entry/trumps-latest-name-for-glp-1s-has-doctors-and-patients-raising-an-important-concern-g_l_6abfad9ee4b02a789b35514f",
-      "urlToImage": "https://img.huffingtonpost.com/asset/6a5fb340190000fe653309d9.jpeg?cache=GiIyBMfLQA&ops=500_281%2Cscalefit_1200_630",
+      "title": "Doctors Say This 'Embarrassing' Symptom Could Be A Warning Sign Of Colorectal Cancer - HuffPost",
+      "description": "It can indicate a more advanced stage of the disease or can be a sign of a different medical condition.",
+      "url": "https://www.huffpost.com/entry/doctors-say-this-embarrassing-symptom-could-be-a-warning-sign-of-colorectal-cancer-g_l_6abfad70e4b0e84f83805380",
+      "urlToImage": "https://img.huffingtonpost.com/asset/69b814d817000060722b212d.jpeg?cache=lwKdVUgxWM&ops=500_281%2Cscalefit_1200_630",
       "publishedAt": "2026-10-04T11:00:17Z",
-      "content": "The use of GLP-1s is skyrocketing throughout the world; 11% of American adults report taking the medications, up from just 3% in 2024, according to a Gallup poll.\r\nThe prescription can be used to tre… [+8587 chars]"
+      "content": "The statistics for colon cancer and rectal cancer often combined and referred to as colorectal cancer are both scary and important to know. For example, colon cancer is the fourth most common cancer … [+7158 chars]"
     },
     {
       "source": {
@@ -132,12 +327,12 @@
         "name": "HuffPost"
       },
       "author": null,
-      "title": "Doctors Say This 'Embarrassing' Symptom Could Be A Warning Sign Of Colorectal Cancer - HuffPost",
-      "description": "It can indicate a more advanced stage of the disease or can be a sign of a different medical condition.",
-      "url": "https://www.huffpost.com/entry/doctors-say-this-embarrassing-symptom-could-be-a-warning-sign-of-colorectal-cancer-g_l_6abfad70e4b0e84f83805380",
-      "urlToImage": "https://img.huffingtonpost.com/asset/69b814d817000060722b212d.jpeg?cache=lwKdVUgxWM&ops=500_281%2Cscalefit_1200_630",
+      "title": "Trump's Latest Name For GLP-1s Has Doctors And Patients Raising An Important Concern - HuffPost",
+      "description": "Despite the president’s comments, patients say these medications have been life-changing, and their effectiveness cannot be ignored.",
+      "url": "https://www.huffpost.com/entry/trumps-latest-name-for-glp-1s-has-doctors-and-patients-raising-an-important-concern-g_l_6abfad9ee4b02a789b35514f",
+      "urlToImage": "https://img.huffingtonpost.com/asset/6a5fb340190000fe653309d9.jpeg?cache=GiIyBMfLQA&ops=500_281%2Cscalefit_1200_630",
       "publishedAt": "2026-10-04T11:00:17Z",
-      "content": "The statistics for colon cancer and rectal cancer often combined and referred to as colorectal cancer are both scary and important to know. For example, colon cancer is the fourth most common cancer … [+7158 chars]"
+      "content": "The use of GLP-1s is skyrocketing throughout the world; 11% of American adults report taking the medications, up from just 3% in 2024, according to a Gallup poll.\r\nThe prescription can be used to tre… [+8587 chars]"
     },
     {
       "source": {
@@ -180,45 +375,6 @@
     },
     {
       "source": {
-        "id": "fox-news",
-        "name": "Fox News"
-      },
-      "author": "Fox News",
-      "title": "Silent heart threat found in adults under 30 with no known cardiovascular disease - New York Post",
-      "description": "“This study shows that we can now detect the disease directly before it causes a heart attack or stroke.”",
-      "url": "https://www.foxnews.com/health/silent-heart-threat-found-adults-under-30-no-known-cardiovascular-disease",
-      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/10/crop-41129609.jpg?quality=75&strip=all&w=1200",
-      "publishedAt": "2026-10-04T08:50:00Z",
-      "content": "A buildup of artery-clogging plaque may begin much earlier than many people realize, new research has found.\r\nAbout 1 in 13 adults ages 18 to 29 already had silent atherosclerosis, the hardening of t… [+3910 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Fitandwell.com"
-      },
-      "author": "Alice Porter",
-      "title": "Barre is one of the best workouts you can do to build strength without equipment, says an expert instructor—start with this 15-minute workout - Fit&Well",
-      "description": "Combine the principles of ballet, Pilates and yoga",
-      "url": "https://www.fitandwell.com/exercise/pilates/barre-is-one-of-the-best-workouts-you-can-do-to-build-strength-without-equipment-says-an-expert-instructor-start-with-this-15-minute-workout",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/DHczuoU5k8yoB9iAmyRz4G-2560-80.jpg",
-      "publishedAt": "2026-10-04T04:00:00Z",
-      "content": "Lifting weights is a brilliant way to build muscle. But when you’re starting out, you might be surprised by how much progress you can make with just your bodyweight.\r\n“Barre is one of my favourite wa… [+5504 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Eatingwell.com"
-      },
-      "author": "https://www.facebook.com/EatingWell/",
-      "title": "One Simple Swap Could Increase Your Odds of Living Longer by Up to 28% - EatingWell",
-      "description": "Find out how one simple swap to your daily routine can increase your odds of healthy aging and living longer disease-free, according to research.",
-      "url": "https://www.eatingwell.com/how-to-increase-odds-of-living-longer-by-28-per-new-study-12122404",
-      "urlToImage": "https://www.eatingwell.com/thmb/RFL9QUIEEqBbTuQ_9m8k2hWAUmY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/study-on-healthy-aging-sedentary-behaviors-physical-activity-692ddda73d984e1385d24310f855d732.jpg",
-      "publishedAt": "2026-10-04T01:30:00Z",
-      "content": "Weve reported many times over the years about the potentially detrimental effects of sitting too much, including an increased risk of dementia, joint pain and headaches. Theres even some evidence tha… [+8195 chars]"
-    },
-    {
-      "source": {
         "id": "the-times-of-india",
         "name": "The Times of India"
       },
@@ -255,19 +411,6 @@
       "urlToImage": null,
       "publishedAt": "2026-10-03T21:01:02Z",
       "content": "Salata Dressings initiated the recall of its Jalapeño Avocado Dressing in August over concerns about possible salmonella contamination."
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "New York Post"
-      },
-      "author": "Allie Yang",
-      "title": "A surprising red flag in your bones could signal future brain decline - New York Post",
-      "description": "Researchers found a routine scan of a completely different part of the body could give us clues about how fast our white matter — and cognition — might degrade down the road.",
-      "url": "https://nypost.com/2026/10/03/health/a-surprising-red-flag-in-your-bones-could-signal-future-brain-decline/",
-      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/10/newspress-collage-g6pxk2m03-1791054931160.jpg?quality=75&strip=all&1791040566&w=1200",
-      "publishedAt": "2026-10-03T19:16:00Z",
-      "content": "How can your bones tell you about your brain health?\r\nResearchers at Johns Hopkins knew that bone and brain health can both deteriorate with age. They wondered whether the health of one could offer c… [+3427 chars]"
     },
     {
       "source": {
@@ -350,6 +493,19 @@
     {
       "source": {
         "id": null,
+        "name": "The-independent.com"
+      },
+      "author": "Julia Musto",
+      "title": "Affordable ways to protect your gut microbiome from unhealthy changes - The Independent",
+      "description": "Got ten bucks? Then give your gut bacteria a boost",
+      "url": "https://www.the-independent.com/life-style/health-and-families/gut-microbiome-food-disease-lifestyle-b3058249.html",
+      "urlToImage": "https://static.the-independent.com/2026/09/30/12/22/GettyImages-2247066369.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800",
+      "publishedAt": "2026-10-03T12:17:00Z",
+      "content": "Your support helps us to tell the story\r\nFrom reproductive rights to climate change to Big Tech, The Independent is on the ground when the story is developing. Whether it's investigating the financia… [+5006 chars]"
+    },
+    {
+      "source": {
+        "id": null,
         "name": "ScienceAlert"
       },
       "author": "David Nield",
@@ -359,19 +515,6 @@
       "urlToImage": "https://www.sciencealert.com/images/2026/09/WomanTeacher-1200x675.jpg",
       "publishedAt": "2026-10-03T12:02:30Z",
       "content": "As we get older, our episodic memory managed by the hippocampus region gradually gets worse. That's the memory related to specific details, like where the car's parked or what time an appointment is.… [+4138 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "San Francisco Chronicle"
-      },
-      "author": "Erin Allday",
-      "title": "A century-old Oakland hospital is coming down. Here’s what’s next - San Francisco Chronicle",
-      "description": "UCSF Benioff Children’s Hospital Oakland is undergoing a $1.6 billion renovation that will replace its century-old “baby hospital” and expand care.",
-      "url": "https://www.sfchronicle.com/health/article/ucsf-children-hospital-oakland-22457310.php",
-      "urlToImage": "https://s.hdnux.com/photos/01/67/41/21/31331423/3/rawImage.jpg",
-      "publishedAt": "2026-10-03T11:14:13Z",
-      "content": "Katie Walsh, second from left, director of campus modernization for UCSF Design &amp; Construction, leads a tour outside the former baby hospital, built in 1926, on the UCSF Benioff Childrens Hospita… [+11269 chars]"
     },
     {
       "source": {
@@ -415,32 +558,6 @@
     {
       "source": {
         "id": null,
-        "name": "ScienceAlert"
-      },
-      "author": "Esra Öz",
-      "title": "Tapeworm Treatment Shows Early Effectiveness Against Endometriosis - ScienceAlert",
-      "description": "The pain returns each month, sometimes lingering after a period ends.",
-      "url": "https://www.sciencealert.com/tapeworm-treatment-shows-early-effectiveness-against-endometriosis",
-      "urlToImage": "https://www.sciencealert.com/images/2026/09/Endometriosis_web.jpg",
-      "publishedAt": "2026-10-03T08:02:30Z",
-      "content": "The pain returns each month, sometimes lingering after a period ends. Even when treatment brings relief, it may not stay away. For many women living with endometriosis, this cycle continues for years… [+5364 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "WKTV"
-      },
-      "author": "WKTV",
-      "title": "10 New Measles Cases Reported in Lewis County - WKTV",
-      "description": "Public health officials are responding to 10 new measles cases in Lewis County, all involving unvaccinated residents.",
-      "url": "https://www.wktv.com/news/health/10-new-measles-cases-reported-in-lewis-county/article_c7a42fa9-1330-4a9a-84c5-aae8ab377da9.html",
-      "urlToImage": "https://bloximages.newyork1.vip.townnews.com/wktv.com/content/tncms/assets/v3/editorial/8/90/89051a2f-2a1d-47df-aad2-dd3b3d1492aa/6aa1c35159c1c.image.jpg?crop=1920%2C1008%2C0%2C35&resize=1200%2C630&order=crop%2Cresize",
-      "publishedAt": "2026-10-03T02:51:00Z",
-      "content": "LOWVILLE, N.Y. -- Public health officials are responding to 10 new measles cases in Lewis County, all involving unvaccinated residents.\r\nAccording to Lewis County Public Health, the people currently … [+1855 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "Eatingwell.com"
       },
       "author": "https://www.facebook.com/EatingWell/",
@@ -450,19 +567,6 @@
       "urlToImage": "https://www.eatingwell.com/thmb/_00Tlv_4MBRx_aaPIWGnHsineKU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/The-Best-Late-Night-Drink-to-Support-Healthy-Aging-According-to-Dietitians-10419749136046d8a026cc88a61003aa.jpg",
       "publishedAt": "2026-10-03T02:00:00Z",
       "content": "If youve reached a certain age, the days of late-night drinking might largely be behind youat least, a certain type of late-night drinking. But if youre looking to support healthy aging, theres one b… [+4493 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Fox 59"
-      },
-      "author": "Gabriella Morando",
-      "title": "Indy hospital screening patients for measles as cases, concerns continue to rise - Fox 59",
-      "description": "MARION COUNTY, Ind. — As of Friday, the Indiana Department of Health reported there are 25 confirmed cases of measles across the state. While none of this year’s instances have been in central Indiana, experts and hospitals said the surge has them on high ale…",
-      "url": "https://fox59.com/news/indy-hospital-screening-patients-for-measles-as-cases-concerns-continue-to-rise/",
-      "urlToImage": "https://fox59.com/wp-content/uploads/sites/21/2026/10/Screenshot-2026-10-02-214432.png?w=1280",
-      "publishedAt": "2026-10-03T01:52:29Z",
-      "content": "MARION COUNTY, Ind. As of Friday, the Indiana Department of Health reported there are 25 confirmed cases of measles across the state. While none of this years instances have been in central Indiana, … [+2733 chars]"
     },
     {
       "source": {
@@ -476,19 +580,6 @@
       "urlToImage": "https://static01.nyt.com/images/2026/10/02/multimedia/02dc-cyclospora-vphc/02dc-cyclospora-vphc-mediumSquareAt3X.jpg",
       "publishedAt": "2026-10-02T22:25:24Z",
       "content": "The discovery adds strong evidence that the outbreak that sickened thousands over the summer originated in a grower’s field or processing facility."
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "SciTechDaily"
-      },
-      "author": null,
-      "title": "A Surprising Brain Signal Could Explain Why Eating Less Protein Extends Lifespan - SciTechDaily",
-      "description": "A new paper suggests that limiting protein intake triggers a coordinated response throughout the body that may help explain how protein restriction affects healthy aging.",
-      "url": "https://scitechdaily.com/a-surprising-brain-signal-could-explain-why-eating-less-protein-extends-lifespan/",
-      "urlToImage": null,
-      "publishedAt": "2026-10-02T22:04:57Z",
-      "content": "Protein restriction may trigger a body-wide adaptive program that links nutrient sensing, hormone signals, brain activity, and metabolism. Credit: Shutterstock\r\nA new paper suggests that limiting pro… [+4835 chars]"
     },
     {
       "source": {
@@ -534,8 +625,8 @@
         "id": null,
         "name": "Abcnews.com"
       },
-      "author": "ABC News - Breaking News, Latest News and Videos",
-      "title": "Conjoined twins receive scoliosis surgery 11 years after separation - ABC News - Breaking News, Latest News and Videos",
+      "author": "abcnews.com",
+      "title": "Conjoined twins receive scoliosis surgery 11 years after separation - abcnews.com",
       "description": null,
       "url": "https://abcnews.com/Health/conjoined-twins-receive-scoliosis-surgery-11-years-after/story?id\\\\u003d136951615",
       "urlToImage": null,
@@ -567,19 +658,6 @@
       "urlToImage": "https://wfin.com/wp-content/uploads/2026/10/Hancock-Public-Health-1.jpg",
       "publishedAt": "2026-10-02T18:32:48Z",
       "content": "(Release from Hancock Public Health)\r\nFINDLAY, Ohio Please be advised that Hancock Public Health has confirmed one (1) measles case in Findlay, Ohio, with exposure in several locations. The individua… [+2638 chars]"
-    },
-    {
-      "source": {
-        "id": "the-wall-street-journal",
-        "name": "The Wall Street Journal"
-      },
-      "author": "Sumathi Reddy",
-      "title": "What Grip Strength Can Tell You About Your Health - WSJ",
-      "description": "A simple squeeze can give you information about your muscle strength and future health risks",
-      "url": "https://www.wsj.com/health/wellness/what-grip-strength-can-tell-you-about-your-health-abed3d8f",
-      "urlToImage": "https://images.wsj.net/im-41174258/social",
-      "publishedAt": "2026-10-02T16:31:06Z",
-      "content": null
     },
     {
       "source": {
@@ -688,6 +766,19 @@
     {
       "source": {
         "id": null,
+        "name": "News-Medical.Net"
+      },
+      "author": null,
+      "title": "Sex chromosomes influence immunity, cancer, aging and disease risk - News-Medical",
+      "description": "A new review published in Science brings together growing evidence that the X and Y chromosomes do much more than determining biological sex. They also shape how cells function, age and respond to disease.",
+      "url": "https://www.news-medical.net/news/20261001/Sex-chromosomes-influence-immunity-cancer-aging-and-disease-risk.aspx",
+      "urlToImage": "https://www.news-medical.net/image-handler/picture/2014/7/174318220-620x480.jpg",
+      "publishedAt": "2026-10-01T20:36:00Z",
+      "content": "A new review published in Science brings together growing evidence that the X and Y chromosomes do much more than determining biological sex. They also shape how cells function, age and respond to di… [+4568 chars]"
+    },
+    {
+      "source": {
+        "id": null,
         "name": "Talker.news"
       },
       "author": "Talker News",
@@ -714,19 +805,6 @@
     {
       "source": {
         "id": null,
-        "name": "Science Daily"
-      },
-      "author": null,
-      "title": "This diet may slow brain aging by 2.5 years - ScienceDaily",
-      "description": "People who followed the MIND diet more closely showed slower brain shrinkage and less grey matter loss over time, with the strongest differences equivalent to about 2.5 years of delayed brain aging. Berries and poultry were linked with healthier brain changes…",
-      "url": "https://www.sciencedaily.com/releases/2026/09/260930225503.htm",
-      "urlToImage": "https://www.sciencedaily.com/images/1920/human-brain-fresh-fruit-healthy-food.webp",
-      "publishedAt": "2026-10-01T14:03:04Z",
-      "content": "A diet that combines elements of the Mediterranean diet with an eating plan designed to lower blood pressure may help slow some of the structural changes that occur as the brain ages, according to re… [+6227 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "PEOPLE"
       },
       "author": "Kayla Grant",
@@ -740,19 +818,6 @@
     {
       "source": {
         "id": null,
-        "name": "HuffPost"
-      },
-      "author": null,
-      "title": "Doctors Explain A Headache Hack That The Internet Claims Works Better Than Medication - HuffPost",
-      "description": "This unconventional method gained a lot of traction on social media — and it’s not totally unfounded.",
-      "url": "https://www.huffpost.com/entry/claw-clip-headache-migraine_l_6ab15de8e4b08976697a5f09",
-      "urlToImage": "https://img.huffingtonpost.com/asset/6ab1676c1c0000282d95eee3.jpeg?cache=OvTlgrWK1h&ops=500_281%2Cscalefit_1200_630",
-      "publishedAt": "2026-10-01T11:00:18Z",
-      "content": "When you start to feel that pounding sensation in your head, do you feel tired of the go-to tips for headaches, like taking medication, napping and drinking water?\r\nIf that sounds familiar, perhaps t… [+5849 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "mindbodygreen.com"
       },
       "author": "Sela Breen",
@@ -762,19 +827,6 @@
       "urlToImage": "https://mindbodygreen-res.cloudinary.com/image/upload/c_crop,x_0,y_0,w_2000,h_1334/c_fill,w_2000,h_1200,g_auto,fl_lossy,f_jpg/org/1790696329193_cvrz6ea6drv.png",
       "publishedAt": "2026-10-01T10:16:49Z",
       "content": "When I saw the news that polycystic ovary syndrome (PCOS) was officially renamed polyendocrine metabolic ovarian syndrome (PMOS) this past May, I felt a validation I didnt know I needed. The name cha… [+9406 chars]"
-    },
-    {
-      "source": {
-        "id": "the-wall-street-journal",
-        "name": "The Wall Street Journal"
-      },
-      "author": "David Wainer",
-      "title": "A Cancer Test Has Investors Betting Big. But Will Insurers Pay? - WSJ",
-      "description": "An FDA panel backed Grail’s Galleri test. But the Medicare money the business depends on is far from guaranteed.",
-      "url": "https://www.wsj.com/health/healthcare/a-cancer-test-has-investors-betting-big-but-will-insurers-pay-75d3bc60",
-      "urlToImage": "https://images.wsj.net/im-759984/social",
-      "publishedAt": "2026-10-01T09:30:00Z",
-      "content": null
     },
     {
       "source": {
@@ -795,7 +847,7 @@
         "name": "The New York Times"
       },
       "author": "Maya Salam",
-      "title": "The Most Disturbing 2000s Reality Show Doesn’t Seem So Crazy Anymore",
+      "title": "‘The Swan,’ the Most Disturbing 2000s Reality Show, Doesn’t Seem So Crazy Anymore",
       "description": "Erin Lee Carr’s new documentary revisits the 2004 makeover show “The Swan,” which gave 32 women extensive plastic surgery and anticipated where beauty culture was headed.",
       "url": "https://www.nytimes.com/2026/09/30/arts/television/the-swan-reality-show-documentary.html",
       "urlToImage": null,
@@ -843,6 +895,19 @@
     },
     {
       "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": "Fox News",
+      "title": "Heavy drinking surges among one age group of Americans — as other generations cut back - New York Post",
+      "description": "A new study finds heavy drinking among U.S. adults ages 50 to 64 surged by over 36% from 2018 to 2024, even as younger generations cut back.",
+      "url": "https://www.foxnews.com/health/heavy-drinking-surges-americans-one-age-group-other-generations-cut-back",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/09/143169287.jpg?quality=75&strip=all&w=1200",
+      "publishedAt": "2026-09-30T16:14:00Z",
+      "content": "New research shows that U.S. alcohol use has declined for the first time since the COVID-19 pandemic, but drinking remains above pre-pandemic levels with one particular group showing a sharp increase… [+7006 chars]"
+    },
+    {
+      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -856,19 +921,6 @@
     },
     {
       "source": {
-        "id": "fox-news",
-        "name": "Fox News"
-      },
-      "author": null,
-      "title": "Heavy drinking surges among Americans in one age group as other generations cut back - Fox News",
-      "description": "Adults ages 50 to 64 saw heavy drinking surge more than 36% since 2018, even as overall U.S. alcohol use finally began to decline post-pandemic.",
-      "url": "https://www.foxnews.com/health/heavy-drinking-surges-americans-one-age-group-other-generations-cut-back",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/09/older-adults-toasting-with-drinks-1.gif",
-      "publishedAt": "2026-09-30T11:00:33Z",
-      "content": "New research shows that U.S. alcohol use has declined for the first time since the COVID-19 pandemic, but drinking remains above pre-pandemic levels with one particular group showing a sharp increase… [+6895 chars]"
-    },
-    {
-      "source": {
         "id": "the-washington-post",
         "name": "The Washington Post"
       },
@@ -879,19 +931,6 @@
       "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/GM4XAEJCJNFR3LPZ5LR7MU56FU_size-normalized.jpg&w=1440",
       "publishedAt": "2026-09-30T10:32:41Z",
       "content": "When you think of cardiovascular disease, you might envision plaque a sticky, waxy substance that builds up in the arteries leading to the heart, where it can cause a heart attack. But arteries run t… [+210 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Science Daily"
-      },
-      "author": null,
-      "title": "Creatine may help build muscle even without exercise, researchers find - sciencedaily.com",
-      "description": "Creatine helped middle-aged adults gain muscle and strength even without a structured workout program in a new 12-week study. When combined with exercise and a calorie-reduced diet, it produced even greater strength gains while helping participants add lean t…",
-      "url": "https://www.sciencedaily.com/releases/2026/09/260928100547.htm",
-      "urlToImage": "https://www.sciencedaily.com/images/1920/pouring-sport-supplement-powder-in-glass-of-water.webp",
-      "publishedAt": "2026-09-30T03:14:17Z",
-      "content": "Creatine is widely known for helping support muscle growth and athletic performance, but researchers are increasingly examining whether its benefits extend well beyond the gym. New findings from Texa… [+3984 chars]"
     },
     {
       "source": {
@@ -931,19 +970,6 @@
       "urlToImage": "https://static01.nyt.com/images/2026/09/28/science/00sci-veterans-consent/00sci-veterans-consent-mediumSquareAt3X.jpg",
       "publishedAt": "2026-09-29T12:39:22Z",
       "content": "Veterans under 30 will have to sign forms before being given antidepressants. Medical groups fear the moves may stigmatize mental health treatment."
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "DogTime"
-      },
-      "author": "Mugdha Singh",
-      "title": "Golden Retriever Goes Over to Keep a Woman Company — This Boy Has Serious People Skills - Yahoo",
-      "description": "A woman sitting by herself at the park has Joey’s full attention, and mom already seems to know where this is headed. The Golden Retriever keeps looking over...",
-      "url": "https://dogtime.com/dog-blog/233733-golden-retriever-joins-woman",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/cbfc25736e4c22d91d62221a1791faac50748f5615d8232a7eab176bfd39ffac/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdog_time_927%2F0bf15678a28fff0c2dd1627c834f9428.jpg",
-      "publishedAt": "2026-09-29T09:20:05Z",
-      "content": "A woman sitting by herself at the park has Joey's full attention, and mom already seems to know where this is headed. The Golden Retriever keeps looking over at her while his mom films from behind, w… [+1896 chars]"
     },
     {
       "source": {

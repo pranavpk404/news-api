@@ -188,6 +188,7 @@ class ScrapeState:
     api_failures: list[str] = field(default_factory=list)
     rss_failures: list[str] = field(default_factory=list)
     files_updated: list[str] = field(default_factory=list)
+    feed_outcomes: list[dict[str, Any]] = field(default_factory=list)
 
 
 def load_api_keys(environ: dict[str, str] | None = None) -> list[str]:
@@ -481,7 +482,10 @@ def fetch_newsapi_everything(
 def response_articles(response: dict[str, Any] | None) -> list[dict[str, Any]]:
     if not response or response.get("status") != "ok":
         return []
-    return [article for article in (response.get("articles") or []) if article.get("url")]
+    articles = response.get("articles")
+    if not isinstance(articles, list):
+        return []
+    return [article for article in articles if isinstance(article, dict) and article.get("url")]
 
 
 def root_response(articles: list[dict[str, Any]]) -> dict[str, Any]:
@@ -528,12 +532,29 @@ def write_feed_pair(
     dry_run: bool,
 ) -> None:
     """Write a feed only when at least one provider responded successfully."""
+    root_path = BASE_DIR / country / f"{category}.json"
+    data_path = DATA_DIR / country / f"{category}_headlines.json"
+    previous: dict[str, Any] = {}
+    if not provider_succeeded:
+        try:
+            payload = json.loads(data_path.read_text(encoding="utf-8"))
+            if isinstance(payload, dict):
+                previous = payload
+        except (OSError, ValueError):
+            pass
+    state.feed_outcomes.append({
+        "country": country,
+        "category": category,
+        "status": "updated" if provider_succeeded else "retained",
+        "attempted_at": data_payload["fetched_at"],
+        "last_successful_refresh": data_payload["fetched_at"] if provider_succeeded else previous.get("fetched_at"),
+        "providers": data_payload["providers"] if provider_succeeded else previous.get("providers", []),
+        "articles_count": len(articles) if provider_succeeded else previous.get("articles_count"),
+    })
     if not provider_succeeded:
         print(f"    keeping previous {country}/{category} files: all providers failed")
         return
 
-    root_path = BASE_DIR / country / f"{category}.json"
-    data_path = DATA_DIR / country / f"{category}_headlines.json"
     save_json_atomic(root_response(articles), root_path, dry_run)
     save_json_atomic(data_payload, data_path, dry_run)
     if not dry_run:
@@ -652,12 +673,20 @@ def main(argv: list[str] | None = None) -> int:
                 state.files_updated.append(str(path.relative_to(BASE_DIR)))
 
     status = {
+        "schema_version": 1,
+        "generated_at": datetime.now(timezone.utc).isoformat(),
+        "run_started_at": fetched_at,
         "status": "ok" if not state.api_failures and not state.rss_failures else "partial",
         "api_keys_detected": len(keys),
         "newsapi_requests_used": state.budget.used,
         "newsapi_requests_allowed": state.budget.limit,
         "rss_feeds_failed": len(state.rss_failures),
         "api_requests_failed": len(state.api_failures),
+        "rss_feeds_attempted": sum(result.attempted for result in rss_cache.values()),
+        "rss_feeds_succeeded": sum(result.succeeded for result in rss_cache.values()),
+        "feeds_updated": sum(feed["status"] == "updated" for feed in state.feed_outcomes),
+        "feeds_retained": sum(feed["status"] == "retained" for feed in state.feed_outcomes),
+        "feeds": state.feed_outcomes,
         "files_updated": state.files_updated,
         "errors": state.api_failures + state.rss_failures,
     }

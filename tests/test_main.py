@@ -1,10 +1,46 @@
 import unittest
+import json
+import tempfile
+from pathlib import Path
 from unittest.mock import patch
 
 import main
 
 
 class FeedUtilityTests(unittest.TestCase):
+    def test_malformed_provider_articles_do_not_break_the_pipeline(self):
+        self.assertEqual(main.response_articles({"status": "ok", "articles": [None, "bad", {"url": "https://example.com"}]}), [{"url": "https://example.com"}])
+        self.assertEqual(main.response_articles({"status": "ok", "articles": {"url": "bad"}}), [])
+
+    def test_failed_refresh_keeps_feed_and_its_last_successful_timestamp(self):
+        with tempfile.TemporaryDirectory() as temporary:
+            root = Path(temporary)
+            data = root / "data"
+            old = main.data_response(source="top_headlines", country="gb", category="general", fetched_at="2026-10-01T12:00:00Z", articles=[{"url": "https://example.com/story"}], providers=["rss"])
+            main.save_json_atomic(old, data / "gb" / "general_headlines.json")
+            main.save_json_atomic(main.root_response(old["articles"]), root / "gb" / "general.json")
+            before = (root / "gb" / "general.json").read_bytes()
+            state = main.ScrapeState(main.KeyPool([]), main.RequestBudget(0))
+            fresh = main.data_response(source="top_headlines", country="gb", category="general", fetched_at="2026-10-05T12:00:00Z", articles=[], providers=[])
+            with patch.object(main, "BASE_DIR", root), patch.object(main, "DATA_DIR", data):
+                main.write_feed_pair(country="gb", category="general", articles=[], data_payload=fresh, provider_succeeded=False, state=state, dry_run=False)
+            self.assertEqual((root / "gb" / "general.json").read_bytes(), before)
+            self.assertEqual(state.files_updated, [])
+            self.assertEqual(state.feed_outcomes[0]["status"], "retained")
+            self.assertEqual(state.feed_outcomes[0]["last_successful_refresh"], old["fetched_at"])
+            self.assertEqual(json.loads((data / "gb" / "general_headlines.json").read_text()), old)
+
+    def test_successful_empty_feed_is_published_with_real_freshness(self):
+        with tempfile.TemporaryDirectory() as temporary:
+            root = Path(temporary)
+            state = main.ScrapeState(main.KeyPool([]), main.RequestBudget(0))
+            payload = main.data_response(source="top_headlines", country="gb", category="general", fetched_at="2026-10-05T12:00:00Z", articles=[], providers=["rss"])
+            with patch.object(main, "BASE_DIR", root), patch.object(main, "DATA_DIR", root / "data"):
+                main.write_feed_pair(country="gb", category="general", articles=[], data_payload=payload, provider_succeeded=True, state=state, dry_run=False)
+            self.assertEqual(json.loads((root / "gb" / "general.json").read_text())["articles"], [])
+            self.assertEqual(state.feed_outcomes[0]["last_successful_refresh"], payload["fetched_at"])
+            self.assertEqual(len(state.files_updated), 2)
+
     def test_deduplicate_prefers_first_article_for_duplicate_url(self):
         articles = [
             {"url": "https://example.com/story", "title": "first", "publishedAt": "2026-01-01T00:00:00Z"},

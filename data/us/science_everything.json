@@ -6,9 +6,35 @@
     "newsapi",
     "rss"
   ],
-  "fetched_at": "2026-10-06T17:26:33.558420+00:00",
+  "fetched_at": "2026-10-06T21:55:02.728217+00:00",
   "articles_count": 29,
   "articles": [
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "David Gelles",
+      "title": "Supreme Court Hears Boulder Climate Case",
+      "description": "Monday’s arguments were highly technical. A decision about whether the case could move forward isn’t expected until June or July.",
+      "url": "https://www.nytimes.com/2026/10/06/climate/boulder-supreme-court-climate.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/10/06/multimedia/06cli-newsletter-scotus-01-ckvg/06cli-newsletter-scotus-01-ckvg-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-10-06T20:19:27Z",
+      "content": "Monday’s arguments were highly technical. A decision about whether the case could move forward isn’t expected until June or July."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Brad Plumer and Rebecca F. Elliott",
+      "title": "Energy Firms Try to Squeeze More Power Out of Old Nuclear Plants",
+      "description": "It takes a long time to build new nuclear plants. So, some U.S. companies are looking to get more electricity out of reactors that already exist.",
+      "url": "https://www.nytimes.com/2026/10/06/climate/nuclear-power-plant-google-data-centers.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/10/06/multimedia/06cli-nuclear-pmbv/06cli-nuclear-pmbv-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-10-06T19:37:08Z",
+      "content": "It takes a long time to build new nuclear plants. So, some U.S. companies are looking to get more electricity out of reactors that already exist."
+    },
     {
       "source": {
         "id": "the-new-york-times",
@@ -359,32 +385,6 @@
       "urlToImage": "https://static01.nyt.com/images/2026/10/06/multimedia/00Sci-cancer-shortfall-01-fjwh/00Sci-cancer-shortfall-01-fjwh-mediumSquareAt3X.jpg",
       "publishedAt": "2026-09-30T14:02:22Z",
       "content": "Targeted gene therapies are highly effective at stopping cancers, but the very abundance of the treatments, plus cost and sluggish change, are hindering access."
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "author": "Robin George Andrews and Nataliia Novosolova",
-      "title": "Ukrainian Science Academy, Struck by Drone, Played Key Role in Research",
-      "description": "Over 90 percent of Ukraine’s scientific discoveries have been attributed to Ukraine’s National Academy of Sciences, including advancements in astronomy and military technology.",
-      "url": "https://www.nytimes.com/2026/09/29/science/ukraine-science-academy-russia-attack.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/09/29/multimedia/29sci-ukraine-science-wgmp/29sci-ukraine-science-wgmp-mediumSquareAt3X-v2.jpg",
-      "publishedAt": "2026-09-29T19:55:21Z",
-      "content": "Over 90 percent of Ukraine’s scientific discoveries have been attributed to Ukraine’s National Academy of Sciences, including advancements in astronomy and military technology."
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "author": "Brad Plumer",
-      "title": "Tennessee Valley Authority Gets Approval to Build Small Nuclear Reactor",
-      "description": "It’s only the second time that American regulators have approved a next-generation commercial reactor for construction. Big hurdles remain.",
-      "url": "https://www.nytimes.com/2026/09/29/climate/nuclear-reactor-tennessee-valley-authority.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/09/29/multimedia/29cli-tva-nuclear-fmhk/29cli-tva-nuclear-fmhk-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-09-29T18:09:37Z",
-      "content": "It’s only the second time that American regulators have approved a next-generation commercial reactor for construction. Big hurdles remain."
     }
   ],
   "query": "science research discovery space"

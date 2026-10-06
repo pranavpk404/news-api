@@ -1,4 +1,4 @@
-# Agent session — news-api
+# Project handoff — news-api
 
 ## Start here
 
@@ -24,7 +24,7 @@ PYTHONDONTWRITEBYTECODE=1 python3 -m unittest discover -s tests -v
 Current verification: 10 tests passed. Do not run live ingestion unless API/RSS access
 and the request budget are intentionally available.
 
-## Next-agent rules
+## Next-maintainer rules
 
 - Preserve the root response contract and existing static data paths.
 - Never print, commit, or invent API keys.

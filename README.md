@@ -121,3 +121,31 @@ python main.py --dry-run
 - A provider failure does not erase the last successful file.
 - API keys are rotated between retries without printing their values.
 - `data/status.json` records request usage and provider failures.
+
+## Freshness and retained feeds
+
+Status schema version 1 adds `generated_at` (status production time),
+`run_started_at`, RSS attempted/succeeded counts, and `feeds_updated` /
+`feeds_retained`. The `feeds` array records each headline country/category:
+
+| Field | Meaning |
+| --- | --- |
+| `status` | `updated` after at least one successful provider, or `retained` when every provider failed |
+| `attempted_at` | Time of the current run's attempted refresh |
+| `last_successful_refresh` | Successful new `fetched_at`, or the previous rich feed's timestamp when retained |
+| `providers` | Providers for the published or retained feed |
+| `articles_count` | Published/retained article count when available |
+
+An unsuccessful refresh leaves both public feed files intact. A successful empty
+feed is published as empty with its true refresh time. Missing previous metadata
+stays unavailable; status production time is not a successful feed timestamp.
+Older status files may not have these fields, and consumers should tolerate that.
+These changes do not replace the original NewsAPI-compatible root response.
+
+```sh
+PYTHONDONTWRITEBYTECODE=1 python3 -m unittest discover -s tests -v
+```
+
+The suite has 10 passing tests, including malformed provider collections,
+retained files/timestamps and successful empty feeds. Tests use local fixtures;
+they do not run live ingestion or consume API request budgets.

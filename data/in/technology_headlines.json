@@ -1,13 +1,12 @@
 {
-  "source": "everything",
+  "source": "top_headlines",
   "country": "in",
   "category": "technology",
   "providers": [
-    "newsapi",
     "rss"
   ],
   "fetched_at": "2026-10-06T03:24:12.611543+00:00",
-  "articles_count": 78,
+  "articles_count": 60,
   "articles": [
     {
       "source": {
@@ -323,19 +322,6 @@
     },
     {
       "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "ETtech",
-      "title": "IT fresher hiring rebounds; Agrani's Rs 800 crore raise",
-      "description": "Happy Friday! After nearly two years of subdued fresher intake, hiring is picking up across the technology and IT industry. This and more in today’s ETtech Morning Dispatch.",
-      "url": "https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/it-fresher-hiring-rebounds-agranis-rs-800-crore-raise/articleshow/134630053.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-134630053,width-1070,height-580,imgsize-244810,overlay-ettech/editionshow.jpg",
-      "publishedAt": "2026-10-02T02:13:11Z",
-      "content": "Happy Friday! After nearly two years of subdued fresher intake, hiring is picking up across the technology and IT industry. This and more in todays ETtech Morning Dispatch.Also in the letter:Moneyvie… [+5611 chars]"
-    },
-    {
-      "source": {
         "id": "the-hindu",
         "name": "The Hindu"
       },
@@ -450,19 +436,6 @@
       "urlToImage": "https://th-i.thgim.com/public/videos/shorts/uxqp5m/article71529974.ece/alternates/LANDSCAPE_1200/OPEN%20AI%20thumb.jpg",
       "publishedAt": "2026-09-30T16:40:47Z",
       "content": "OpenAI has chosen to hold back GPT-6.1 Astra after internal tests showed that the model fell short of the company’s safety and alignment requirements. The model reportedly had difficulty staying within its authorised scope and accurately explaining the tasks it had performed."
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "Advaita Suresh",
-      "title": "In 2016, Ajay Patel left his systems-engineer career to co-found ThemeSelection; by 2026, his startup was selling customizable UI kits to developers worldwide",
-      "description": "Ajay Patel is a technology entrepreneur, innovator and programmer. He co-founded ThemeSelection following the discovery of repetitive work which includes in building admin panels. Before getting into entrepreneurship, Patel worked as a systems engineer at Tat…",
-      "url": "https://economictimes.indiatimes.com/news/international/us/in-2016-ajay-patel-left-his-systems-engineer-career-to-co-found-themeselection-by-2026-his-startup-was-selling-customizable-ui-kits-to-developers-worldwide/articleshow/134597421.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-134597421,width-1200,height-900,imgsize-31260,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-09-30T15:20:07Z",
-      "content": "Technology businesses often arrive from practical challenges that developers encounter repeatedly in their daily work. For entrepreneur, programmer and innovator Ajay Patel, that opportunity came fro… [+3366 chars]"
     },
     {
       "source": {
@@ -622,58 +595,6 @@
     },
     {
       "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "TOI Education",
-      "title": "He built an AI startup after leaving college; how 19-year-old Dhravya Shah raised $3 million for Supermemory",
-      "description": "At 19, Indian entrepreneur Dhravya Shah is building Supermemory, an AI startup focused on helping applications retain and retrieve information from documents, emails, chats and other digital sources. After developing software projects and gaining experience w…",
-      "url": "https://timesofindia.indiatimes.com/education/news/he-built-an-ai-startup-after-leaving-college-how-19-year-old-dhravya-shah-raised-3-million-for-supermemory/articleshow/134554100.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-134554159,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-09-29T02:21:44Z",
-      "content": "<ul><li>News</li>\r\n<li>Education News</li>\r\n<li>News</li>\r\n<li>He built an AI startup after leaving college; how 19-year-old Dhravya Shah raised $3 million for Supermemory</li></ul>\r\nFollow Us On Soc… [+1912 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": null,
-      "title": "Piyush Goyal to headline ET Startup Awards; The Souled Store eyes fundraise",
-      "description": "Happy Tuesday! Meet our distinguished guest of honour for The Economic Times Startup Awards 2026. This and more in today’s ETtech Morning Dispatch.",
-      "url": "https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/piyush-goyal-to-headline-et-startup-awards-the-souled-store-eyes-fundraise/articleshow/134553713.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-134553713,width-1070,height-580,imgsize-297779,overlay-ettech/editionshow.jpg",
-      "publishedAt": "2026-09-29T01:53:30Z",
-      "content": "Happy Tuesday! Meet our distinguished guest of honour for The Economic Times Startup Awards 2026. This and more in todays ETtech Morning Dispatch.Also in the letter:ETtech Done DealsOla Electric boar… [+6044 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "Global Desk",
-      "title": "In 2024, Fei-Fei Li raised USD 230 million to launch World Labs, years later Chip maker AMD acquires artificial intelligence company for USD 8.2 billion, abrupt shift from China to New Jersey changes everything for 'Godmother of AI'",
-      "description": "Earlier in February, 2026, Fei-Fei Li's World Labs raised $1 billion in a funding round as the startup accelerates its efforts to advance \"spatial intelligence.\"",
-      "url": "https://economictimes.indiatimes.com/news/international/us/in-2024-fei-fei-li-raised-usd-230-million-to-launch-world-labs-years-later-chip-maker-amd-acquires-artificial-intelligence-company-for-usd-8-2-billion-abrupt-shift-from-china-to-new-jersey-changes-everything-for-godmother-of-ai/articleshow/134550365.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-134552228,width-1200,height-630,imgsize-46300,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-09-28T22:11:29Z",
-      "content": "Chip maker Advanced Micro Devices-AMD has announced that it has acquired World Labs, an artificial intelligence company founded by Prominent computer scientist and researcher Fei-Fei Li sometimes ref… [+2474 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "Reuters",
-      "title": "Seligman Ventures doubles capital to $1 billion as AI boom revives hardware bets",
-      "description": "Seligman Investments has doubled the deployable capital of its venture arm to $1 billion less than a year after launching it, betting that the physical bottlenecks of the artificial intelligence buildout will produce the next wave of large technology companie…",
-      "url": "https://economictimes.indiatimes.com/tech/funding/seligman-ventures-doubles-capital-to-1-billion-as-ai-boom-revives-hardware-bets/articleshow/134544025.cms",
-      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-5834174,resizemode-75,msid-134544025/tech/funding/seligman-ventures-doubles-capital-to-1-billion-as-ai-boom-revives-hardware-bets.jpg",
-      "publishedAt": "2026-09-28T13:22:02Z",
-      "content": "Seligman Investments has doubled the deployable capital of its venture arm to $1 billion less than a year after launching it, betting that the physical bottlenecks of the artificial intelligence buil… [+2992 chars]"
-    },
-    {
-      "source": {
         "id": "the-hindu",
         "name": "The Hindu"
       },
@@ -684,19 +605,6 @@
       "urlToImage": "https://th-i.thgim.com/public/incoming/9tbmjm/article71515370.ece/alternates/LANDSCAPE_1200/OpenAI-says-itsG6RGJ7M18.3.jpg.jpg",
       "publishedAt": "2026-09-28T10:39:56Z",
       "content": "The Medicare breach, condemned by Prime Minister Anthony Albanese, is one of the highest-profile incidents of AI agents accessing ‌external systems outside the U.S."
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "Trending Desk",
-      "title": "'Forget coding, just learn how to cheat': Startup cofounder reacts to Reddit post claiming cheaters get jobs faster",
-      "description": "A startup cofounder has reacted to a Reddit post by a 2026 computer science graduate who claimed that students spending months on DSA, AI skills and coding projects are struggling to secure jobs, while candidates using unfair methods during assessments and in…",
-      "url": "https://economictimes.indiatimes.com/news/new-updates/forget-coding-just-learn-how-to-cheat-startup-cofounder-reacts-to-reddit-post-claiming-cheaters-get-jobs-faster/articleshow/134534447.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-134534851,width-1200,height-630,imgsize-101759,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-09-28T06:57:06Z",
-      "content": "For years, engineering students have been told to master data structures and algorithms, build projects, learn new tech skills and practise coding problems if they want to land a good software job. B… [+5190 chars]"
     },
     {
       "source": {
@@ -879,150 +787,6 @@
       "urlToImage": "https://th-i.thgim.com/public/news/national/c6gn5s/article71507888.ece/alternates/LANDSCAPE_1200/1800X2700%204.png",
       "publishedAt": "2026-09-25T09:00:30Z",
       "content": "Is India truly on the path to becoming a global scientific superpower?"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "Reuters",
-      "title": "Meta's Charm gadget carries CEO Mark Zuckerberg's big AI ambitions",
-      "description": "The device, called Muse Charm, highlights a broader shift at the social media giant that has long sought to escape Apple and Google's operating systems with a platform of its own. Users can tap the gadget to access Muse directly, bypassing AI apps on smartpho…",
-      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/metas-charm-gadget-carries-ceo-mark-zuckerbergs-big-ai-ambitions/articleshow/134451753.cms",
-      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-2879970,resizemode-75,msid-134451753/tech/artificial-intelligence/metas-charm-gadget-carries-ceo-mark-zuckerbergs-big-ai-ambitions.jpg",
-      "publishedAt": "2026-09-24T05:05:59Z",
-      "content": "Mark Zuckerberg took repeated digs at Apple during Meta's annual event on Wednesday, only to borrow a page from Steve Jobs' playbook for a surprise reveal: a pocket-watch-sized device that carries Me… [+3561 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "ETtech",
-      "title": "Banks rethink UPI play; Big Tech's AI pivot dents Indian IT",
-      "description": "Happy Wednesday! The return of MDR on UPI is pushing banks to rethink products and budgets. This and more in today’s ETtech Morning Dispatch.",
-      "url": "https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/banks-rethink-upi-play-as-mdr-returns-big-techs-ai-dents-indian-it/articleshow/134423900.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-134423900,width-1070,height-580,imgsize-1459486,overlay-ettech/editionshow.jpg",
-      "publishedAt": "2026-09-23T01:55:24Z",
-      "content": "Happy Wednesday! The return of MDR on UPI is pushing banks to rethink products and budgets. This and more in todays ETtech Morning Dispatch.Also in the letter:Spinny books IPO rideCaptain Fresh FY26 … [+5484 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "Reuters",
-      "title": "China's Z.ai disables AI coding assistant features after security issue",
-      "description": "* Z.ai says bug originated from default-enabled feature * Rare security disclosure from Chinese AI lab * Independent review found user data was deleted from cloud --Z.ai By Laurie Chen BEIJING, Sept",
-      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/chinas-z-ai-disables-ai-coding-assistant-features-after-security-issue/articleshow/134401495.cms",
-      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-56474,resizemode-75,msid-134401495/tech/artificial-intelligence/chinas-z-ai-disables-ai-coding-assistant-features-after-security-issue.jpg",
-      "publishedAt": "2026-09-22T03:36:36Z",
-      "content": "Chinese startup Z.ai said on Monday it had disabled some features of its flagship AI coding assistant after some users reported it was uploading entire local code repositories onto overseas cloud ser… [+3098 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "Trending Desk",
-      "title": "3 Indian-origin researchers used Claude to breach OpenAI systems in 72 hours",
-      "description": "Three Indian-origin cybersecurity researchers at Hacktron AI used Anthropic’s Claude models while investigating vulnerabilities that ultimately gave them access to OpenAI employee accounts and a private GitHub environment, according to reports. Harsh Jaiswal,…",
-      "url": "https://economictimes.indiatimes.com/news/new-updates/3-indian-origin-researchers-used-claude-to-breach-openai-systems-in-72-hours/articleshow/134363938.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-134364214,width-1200,height-630,imgsize-140400,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-09-20T05:51:24Z",
-      "content": "Three Indian-origin cybersecurity researchers demonstrated how Anthropics Claude AI could be used to chain security vulnerabilities and gain access to OpenAI employee accounts and an internal softwar… [+3983 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "Reuters",
-      "title": "Anthropic quietly sets up biology lab as it ramps AI drug program",
-      "description": "At a time when fears of AI are gripping the public, the startup has built a wet lab, or place for physical experiments, in the San Francisco Bay Area, two people familiar with the matter said. Anthropic has said it wants to unlock treatments for rare diseases…",
-      "url": "https://economictimes.indiatimes.com/tech/technology/anthropic-quietly-sets-up-biology-lab-as-it-ramps-ai-drug-program/articleshow/134340552.cms",
-      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-2619823,resizemode-75,msid-134340552/tech/technology/anthropic-quietly-sets-up-biology-lab-as-it-ramps-ai-drug-program.jpg",
-      "publishedAt": "2026-09-18T17:23:42Z",
-      "content": "Anthropic has quietly set up a laboratory to do physical biology work as it pushes its artificial-intelligence ambitions into the world of drug science.At a time when fears of AI are gripping the pub… [+6587 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "ET Online",
-      "title": "From phones to fabs: India is building its semiconductor muscle",
-      "description": "India's semiconductor strategy is widening from fabs to a complete ecosystem.  The nation is building capabilities across design, packaging, and manufacturing.  Significant government investment supports this comprehensive semiconductor value chain developmen…",
-      "url": "https://economictimes.indiatimes.com/industry/cons-products/electronics/semicon-2026-from-phones-to-fabs-how-india-is-building-its-semiconductor-muscle/articleshow/134302289.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-134302357,width-1200,height-630,imgsize-307546,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-09-17T05:16:14Z",
-      "content": "Indias semiconductor story is entering a new phase: from building the case for manufacturing chips at home to assembling the ecosystem needed to design, make, package and eventually build systems aro… [+10744 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "ETtech",
-      "title": "Ex-Infosys CEO Vishal Sikka’s startup Hang Ten Systems raises $53 million",
-      "description": "Hang Ten is building AI software for large enterprises, with a focus on software development and other technology-intensive work. Its platform uses AI agents to automate parts of enterprise software projects, including development, migration, finance and anal…",
-      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ex-infosys-ceo-vishal-sikkas-startup-hang-ten-systems-raises-53-million/articleshow/134292121.cms",
-      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-39020,resizemode-75,msid-134292121/tech/artificial-intelligence/ex-infosys-ceo-vishal-sikkas-startup-hang-ten-systems-raises-53-million.jpg",
-      "publishedAt": "2026-09-16T16:11:09Z",
-      "content": "Enterprise AI startupHang Ten Systems, founded by former Infosys chief executive Vishal Sikka, has raised $53 million in funding led by Xora Innovation, a fund backed by Singapore state investor Tema… [+2374 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "Reuters",
-      "title": "AI coding agent startup Factory triples valuation to $5 billion in latest funding round",
-      "description": "AI-assisted coding has emerged as one of the most widely adopted uses of generative AI, drawing billions of dollars from investors as businesses seek to speed up software development and improve workforce productivity.",
-      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-coding-agent-startup-factory-triples-valuation-to-5-billion-in-latest-funding-round/articleshow/134272236.cms",
-      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-1188047,resizemode-75,msid-134272236/tech/artificial-intelligence/ai-coding-agent-startup-factory-triples-valuation-to-5-billion-in-latest-funding-round.jpg",
-      "publishedAt": "2026-09-15T18:58:48Z",
-      "content": "Factory, a startup developing AI agents for enterprise engineering teams, said on Tuesday it had raised $200 million in a funding round that more than tripled its valuation to $5 billion.AI-assisted … [+1343 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "ET Online",
-      "title": "As private wallets begin to open, India's big future bet takes off",
-      "description": "India’s Rs 1 lakh crore RDI programme is beginning to unlock venture capital flows into deeptech, marking a shift in the country’s attempt to move from being a large technology consumer to a technology producer.",
-      "url": "https://economictimes.indiatimes.com/news/company/corporate-trends/as-private-wallets-begin-to-open-indias-big-future-bet-takes-off-antler-bertelsmann-kae-capital/articleshow/134236238.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-134236601,width-1200,height-630,imgsize-239914,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-09-14T08:13:42Z",
-      "content": "The governments Rs 1 lakh crore Research, Development, and Innovation (RDI) programme is beginning to draw venture capital into technologies India has long struggled to finance. The trend underpins I… [+12286 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "ETtech",
-      "title": "Amazon, Flipkart lose user share; India set for more GCCs",
-      "description": "Happy Wednesday! Amazon and Flipkart have broadened their bets as quick commerce platforms chip away at their share of user base. This and more in today’s ETtech Morning Dispatch.",
-      "url": "https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/amazon-flipkart-lose-user-share-india-set-for-more-gccs/articleshow/133948580.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-133948674,width-1070,height-580,imgsize-192538,overlay-ettech/editionshow.jpg",
-      "publishedAt": "2026-09-09T01:57:57Z",
-      "content": "Happy Wednesday! Amazon and Flipkart have broadened their bets as quick commerce platforms chip away at their share of user base. This and more in todays ETtech Morning Dispatch.Also in the letter:ET… [+5234 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "ETtech",
-      "title": "Crypto's shopping hack; Centre eyes Meta child safeguards",
-      "description": "Indians are buying groceries, fuel, food and gold via gift cards on overseas crypto platforms. This and more in today's ETtech Top 5.",
-      "url": "https://economictimes.indiatimes.com/tech/newsletters/tech-top-5/indias-crypto-shopping-hack-centre-eyes-metas-us-child-safeguards/articleshow/133927283.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-133927283,width-1070,height-580,imgsize-253652,overlay-ettech/editionshow.jpg",
-      "publishedAt": "2026-09-08T13:48:53Z",
-      "content": "Indians are buying groceries, fuel, food and gold via gift cards on overseas crypto platforms. This and more in today's ETtech Top 5.Also in the letter:Mistral's valuation surgeBajaj's TrueFan stakeW… [+6026 chars]"
     }
-  ],
-  "query": "technology AI software startup"
+  ]
 }

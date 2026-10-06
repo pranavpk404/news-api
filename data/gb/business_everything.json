@@ -1,6 +1,13 @@
 {
-  "status": "ok",
-  "totalResults": 48,
+  "source": "rss_fallback",
+  "country": "gb",
+  "category": "business",
+  "providers": [
+    "newsapi",
+    "rss"
+  ],
+  "fetched_at": "2026-10-06T03:24:12.611543+00:00",
+  "articles_count": 48,
   "articles": [
     {
       "source": {
@@ -626,5 +633,6 @@
       "publishedAt": "2026-06-30T23:05:19Z",
       "content": "Many younger people do not believe the state pension will exist when they are older"
     }
-  ]
+  ],
+  "query": "market economy finance stock"
 }

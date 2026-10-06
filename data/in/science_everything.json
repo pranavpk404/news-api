@@ -2,10 +2,273 @@
   "source": "everything",
   "country": "in",
   "category": "science",
-  "query": "science research discovery space",
-  "fetched_at": "2026-10-04T00:09:45.466547+00:00",
-  "articles_count": 20,
+  "providers": [
+    "newsapi",
+    "rss"
+  ],
+  "fetched_at": "2026-10-06T03:24:12.611543+00:00",
+  "articles_count": 76,
   "articles": [
+    {
+      "source": {
+        "id": "the-hindu",
+        "name": "The Hindu"
+      },
+      "author": null,
+      "title": "Nazis and the bomb: nuclear archaeology finds Werner Heisenberg mistook how close he was",
+      "description": "Scientists have found that the Nobel laureate may have grossly overestimated how close his team was to having a working nuclear reactor, much less a nuclear weapon",
+      "url": "https://www.thehindu.com/sci-tech/science/nazi-germany-atom-bomb-werner-heisenberg-nuclear-archaeology-heavy-water-industry/article71547175.ece",
+      "urlToImage": "https://th-i.thgim.com/public/sci-tech/science/n60f54/article71549804.ece/alternates/LANDSCAPE_1200/Bundesarchiv_Bild_183-1986-0310-501_Werner_Heisenberg.jpg",
+      "publishedAt": "2026-10-06T03:04:24Z",
+      "content": "Scientists have found that the Nobel laureate may have grossly overestimated how close his team was to having a working nuclear reactor, much less a nuclear weapon"
+    },
+    {
+      "source": {
+        "id": "the-hindu",
+        "name": "The Hindu"
+      },
+      "author": null,
+      "title": "The Nobel-winning science of optogenetics: Explained",
+      "description": "Optogenetics has fundamentally changed human perception of the incredible human brain and its functions",
+      "url": "https://www.thehindu.com/sci-tech/science/the-nobel-winning-science-of-optogenetics-explained/article71548748.ece",
+      "urlToImage": "https://th-i.thgim.com/public/latest-news/wkhri1/article71548815.ece/alternates/LANDSCAPE_1200/Matthias%20Prigge.jpg",
+      "publishedAt": "2026-10-05T18:17:39Z",
+      "content": "Optogenetics has fundamentally changed human perception of the incredible human brain and its functions"
+    },
+    {
+      "source": {
+        "id": "the-hindu",
+        "name": "The Hindu"
+      },
+      "author": null,
+      "title": "How protein biosensors can shrink the timeline of medical emergencies",
+      "description": "Proteins are important diagnostic targets because they are involved in almost every biological process; over the last two decades, scientists have developed aptamers for hundreds of disease-relevant proteins and have become the recognition element of choice in advanced biosensor designs",
+      "url": "https://www.thehindu.com/sci-tech/science/how-protein-biosensors-can-shrink-the-timeline-of-medical-emergencies/article71221365.ece",
+      "urlToImage": "https://th-i.thgim.com/public/news/national/r5rg28/article71222654.ece/alternates/LANDSCAPE_1200/Aptamer.jpg",
+      "publishedAt": "2026-10-05T16:16:25Z",
+      "content": "Proteins are important diagnostic targets because they are involved in almost every biological process; over the last two decades, scientists have developed aptamers for hundreds of disease-relevant proteins and have become the recognition element of choice in advanced biosensor designs"
+    },
+    {
+      "source": {
+        "id": "the-hindu",
+        "name": "The Hindu"
+      },
+      "author": null,
+      "title": "Major study opens window to the brain when an emotion first appears",
+      "description": "Despite being so fundamental to our survival as a species, scientists are still piecing together how emotions arise in our brains. In a study recently published in the journal Science, in fact, scientists have just reported mapping the brain-wide activity patterns that trigger emotions",
+      "url": "https://www.thehindu.com/sci-tech/science/major-study-opens-window-to-the-brain-when-an-emotion-first-appears/article69915981.ece",
+      "urlToImage": "https://th-i.thgim.com/public/sci-tech/science/do92vu/article69915978.ece/alternates/LANDSCAPE_1200/notorious-v1rus-gRWPsHqsFZ4-unsplash.jpg",
+      "publishedAt": "2026-10-05T12:02:38Z",
+      "content": "Despite being so fundamental to our survival as a species, scientists are still piecing together how emotions arise in our brains. In a study recently published in the journal Science, in fact, scientists have just reported mapping the brain-wide activity patterns that trigger emotions"
+    },
+    {
+      "source": {
+        "id": "the-hindu",
+        "name": "The Hindu"
+      },
+      "author": null,
+      "title": "Anna Mani: a star from the hills",
+      "description": "Anna Mani, who dedicated her life to improving weather forecasting in the country, dared to venture into sreas India had never stepped into before",
+      "url": "https://www.thehindu.com/children/anna-mani-a-star-from-the-hills/article71546743.ece",
+      "urlToImage": "https://th-i.thgim.com/public/incoming/jinvig/article71546781.ece/alternates/LANDSCAPE_1200/Scientific-sparGQPFMUG5C.5.jpg.jpg",
+      "publishedAt": "2026-10-05T10:54:27Z",
+      "content": "Anna Mani, who dedicated her life to improving weather forecasting in the country, dared to venture into sreas India had never stepped into before"
+    },
+    {
+      "source": {
+        "id": "the-hindu",
+        "name": "The Hindu"
+      },
+      "author": null,
+      "title": "Letting the wind flow freely is the secret to cooling our cities",
+      "description": "Slower winds can affect how people experience heat. Normally, the air immediately above the ground becomes saturated with water vapour due to evaporation. When winds blow faster, the saturated air is replaced with drier air. Slower winds, however, also limit evaporation",
+      "url": "https://www.thehindu.com/sci-tech/science/letting-the-wind-flow-freely-is-the-secret-to-cooling-our-cities/article71543217.ece",
+      "urlToImage": "https://th-i.thgim.com/public/sci-tech/science/xcku5o/article71543213.ece/alternates/LANDSCAPE_1200/drone-master-qrj4LiT9NRQ-unsplash.jpg",
+      "publishedAt": "2026-10-05T08:22:49Z",
+      "content": "Slower winds can affect how people experience heat. Normally, the air immediately above the ground becomes saturated with water vapour due to evaporation. When winds blow faster, the saturated air is replaced with drier air. Slower winds, however, also limit evaporation"
+    },
+    {
+      "source": {
+        "id": "the-hindu",
+        "name": "The Hindu"
+      },
+      "author": null,
+      "title": "Urban spider found building soundproof webs to keep noise out",
+      "description": "India’s urban centres are notorious for their noise pollution; the new study raises questions about what its findings mean for spiders living in such places",
+      "url": "https://www.thehindu.com/sci-tech/science/funnel-weaving-spider-soundproof-webs-urban-areas-noise-pollution/article69500656.ece",
+      "urlToImage": "https://th-i.thgim.com/public/sci-tech/science/advf1v/article69500644.ece/alternates/LANDSCAPE_1200/spider.JPG",
+      "publishedAt": "2026-10-05T08:22:19Z",
+      "content": "India’s urban centres are notorious for their noise pollution; the new study raises questions about what its findings mean for spiders living in such places"
+    },
+    {
+      "source": {
+        "id": "the-hindu",
+        "name": "The Hindu"
+      },
+      "author": null,
+      "title": "Successful urban birds sport different colours from unsuccessful ones",
+      "description": "The findings of a new study challenge some long-held assumptions in urban ecology",
+      "url": "https://www.thehindu.com/sci-tech/science/successful-urban-birds-sport-different-colours-from-unsuccessful-ones/article69534524.ece",
+      "urlToImage": "https://th-i.thgim.com/public/sci-tech/science/6ueaax/article69534559.ece/alternates/LANDSCAPE_1200/Blue-faced_Honeyeater_-_Julatten.jpg",
+      "publishedAt": "2026-10-05T08:20:44Z",
+      "content": "The findings of a new study challenge some long-held assumptions in urban ecology"
+    },
+    {
+      "source": {
+        "id": "the-hindu",
+        "name": "The Hindu"
+      },
+      "author": null,
+      "title": "Cities warming due to combined effect of urbanisation, climate change",
+      "description": "The ongoing climate change and rapid urbanisation are now defining the Anthropocene, with the cities experiencing both thereby making the urban population vulnerable to the compounding impact.",
+      "url": "https://www.thehindu.com/sci-tech/science/cities-warming-due-to-combined-effect-of-urbanisation-climate-change/article68236549.ece",
+      "urlToImage": "https://th-i.thgim.com/public/incoming/tos9pm/article68236567.ece/alternates/LANDSCAPE_1200/AFP_34U678F.jpg",
+      "publishedAt": "2026-10-05T08:20:10Z",
+      "content": "The ongoing climate change and rapid urbanisation are now defining the Anthropocene, with the cities experiencing both thereby making the urban population vulnerable to the compounding impact."
+    },
+    {
+      "source": {
+        "id": "the-hindu",
+        "name": "The Hindu"
+      },
+      "author": null,
+      "title": "Explained | What is relative humidity and why does it matter on a hot day?",
+      "description": "The higher the relative humidity of air, the less you can cool yourself by sweating.",
+      "url": "https://www.thehindu.com/sci-tech/energy-and-environment/relative-humidity-psychrometric-chart-wet-bulb-temperature-heatwaves/article66772463.ece",
+      "urlToImage": "https://th-i.thgim.com/public/todays-paper/tp-national/tp-karnataka/orzi5l/article66765568.ece/alternates/LANDSCAPE_1200/Standalone_4colG53B505K2.2.jpg.jpg",
+      "publishedAt": "2026-10-05T08:18:35Z",
+      "content": "The higher the relative humidity of air, the less you can cool yourself by sweating."
+    },
+    {
+      "source": {
+        "id": "the-hindu",
+        "name": "The Hindu"
+      },
+      "author": null,
+      "title": "IIT-Gandhinagar scientists demo quantum link through 5.5 km of air",
+      "description": "The feat has been described as India’s first free-space quantum-key distribution (QKD) link at a distance of 5.56 km",
+      "url": "https://www.thehindu.com/sci-tech/science/iit-gandhinagar-scientists-demo-quantum-link-through-55-km-of-air/article71544660.ece",
+      "urlToImage": "https://th-i.thgim.com/public/incoming/5taao5/article71544651.ece/alternates/LANDSCAPE_1200/iStock-1186902469.jpg",
+      "publishedAt": "2026-10-05T04:52:08Z",
+      "content": "The feat has been described as India’s first free-space quantum-key distribution (QKD) link at a distance of 5.56 km"
+    },
+    {
+      "source": {
+        "id": "the-hindu",
+        "name": "The Hindu"
+      },
+      "author": null,
+      "title": "Multiple Indian payloads launched by Space X’s Falcon 9",
+      "description": "Dhruva Space’s LEAP-2, hosting multiple In-Orbit Demonstration (IOD) missions, which includes a star tracker by France-based Sodern ArianeGroup, and TAPAS-1 by India-based Satleo Labs, was part of the Transporter-18 mission",
+      "url": "https://www.thehindu.com/sci-tech/science/multiple-indian-payloads-launched-by-space-xs-falcon-9/article71535904.ece",
+      "urlToImage": "https://th-i.thgim.com/public/news/national/karnataka/3nq3la/article71536016.ece/alternates/LANDSCAPE_1200/Falcon%209.jpg",
+      "publishedAt": "2026-10-05T03:18:49Z",
+      "content": "Dhruva Space’s LEAP-2, hosting multiple In-Orbit Demonstration (IOD) missions, which includes a star tracker by France-based Sodern ArianeGroup, and TAPAS-1 by India-based Satleo Labs, was part of the Transporter-18 mission"
+    },
+    {
+      "source": {
+        "id": "the-hindu",
+        "name": "The Hindu"
+      },
+      "author": null,
+      "title": "Scientists puzzled as baby whales wash up dead in Argentina",
+      "description": "A team of biologists, veterinarians, and park rangers have been searching the area for the dead calves from shore and with boats, planes, and drones",
+      "url": "https://www.thehindu.com/sci-tech/science/scientists-puzzled-as-baby-whales-wash-up-dead-in-argentina/article71543684.ece",
+      "urlToImage": "https://th-i.thgim.com/public/incoming/kdap2y/article71543682.ece/alternates/LANDSCAPE_1200/AFP_C9KW26B.jpg",
+      "publishedAt": "2026-10-04T12:28:27Z",
+      "content": "A team of biologists, veterinarians, and park rangers have been searching the area for the dead calves from shore and with boats, planes, and drones"
+    },
+    {
+      "source": {
+        "id": "the-hindu",
+        "name": "The Hindu"
+      },
+      "author": null,
+      "title": "Science Snapshots: October 4, 2026",
+      "description": "Three recent important research developments, all readable in one minute",
+      "url": "https://www.thehindu.com/sci-tech/science/science-snapshots-october-4-2026/article71543593.ece",
+      "urlToImage": "https://th-i.thgim.com/public/sci-tech/science/dfdp17/article71543592.ece/alternates/LANDSCAPE_1200/Screenshot%202026-10-04%20172132.png",
+      "publishedAt": "2026-10-04T11:54:25Z",
+      "content": "Three recent important research developments, all readable in one minute"
+    },
+    {
+      "source": {
+        "id": "the-hindu",
+        "name": "The Hindu"
+      },
+      "author": null,
+      "title": "Subatomic ambitions take five Indian school students to CERN",
+      "description": "The students said they spent several hours every day in the three to four weeks before the competition. While the first week was mostly about recruiting and forming a team, the next three weeks were a complete grind",
+      "url": "https://www.thehindu.com/sci-tech/science/subatomic-ambitions-take-five-indian-school-students-to-cern/article71528053.ece",
+      "urlToImage": "https://th-i.thgim.com/public/sci-tech/science/g6zoya/article71528009.ece/alternates/LANDSCAPE_1200/201902-108_15.jpg",
+      "publishedAt": "2026-10-04T10:30:26Z",
+      "content": "The students said they spent several hours every day in the three to four weeks before the competition. While the first week was mostly about recruiting and forming a team, the next three weeks were a complete grind"
+    },
+    {
+      "source": {
+        "id": "the-hindu",
+        "name": "The Hindu"
+      },
+      "author": null,
+      "title": "Why scientists are rethinking the chemical ‘arms race’ against fungi",
+      "description": "New research is showing that fungi are protected from antifungals by genetic mutations as well as by making more copies of protective genes, and it seems the idea of dousing fungal pathogens with antifungals is nearing its end",
+      "url": "https://www.thehindu.com/sci-tech/science/why-scientists-are-rethinking-the-chemical-arms-race-against-fungi/article71469433.ece",
+      "urlToImage": "https://th-i.thgim.com/public/sci-tech/science/clyviq/article71469142.ece/alternates/LANDSCAPE_1200/White-Brown_epigenetic_switching_in_Candida_auris.png",
+      "publishedAt": "2026-10-04T09:39:18Z",
+      "content": "New research is showing that fungi are protected from antifungals by genetic mutations as well as by making more copies of protective genes, and it seems the idea of dousing fungal pathogens with antifungals is nearing its end"
+    },
+    {
+      "source": {
+        "id": "the-hindu",
+        "name": "The Hindu"
+      },
+      "author": null,
+      "title": "Tuvalu: Barely above water",
+      "description": "Thanks to rising sea levels, scientists fear the entire archipelago could be unliveable by the end of the century",
+      "url": "https://www.thehindu.com/sci-tech/energy-and-environment/tuvalu-barely-above-water/article71543254.ece",
+      "urlToImage": "https://th-i.thgim.com/public/incoming/2qab0x/article71543253.ece/alternates/LANDSCAPE_1200/AFP_D22F463.jpg",
+      "publishedAt": "2026-10-04T08:22:33Z",
+      "content": "Thanks to rising sea levels, scientists fear the entire archipelago could be unliveable by the end of the century"
+    },
+    {
+      "source": {
+        "id": "the-hindu",
+        "name": "The Hindu"
+      },
+      "author": null,
+      "title": "The ‘WarGames’ problem: Computer science has long understood what it takes to keep AI under control",
+      "description": "The problem with headlines proclaiming that AI agents have gone rogue goes beyond anthropomorphising the technology. It creates the impression that the agents were beyond the control of the AI companies that made them and there was little the companies could do about it.",
+      "url": "https://www.thehindu.com/sci-tech/science/the-wargames-problem-computer-science-has-long-understood-what-it-takes-to-keep-ai-under-control/article71539805.ece",
+      "urlToImage": "https://th-i.thgim.com/public/incoming/zafnkx/article71539827.ece/alternates/LANDSCAPE_1200/iStock-1196705579.jpg",
+      "publishedAt": "2026-10-04T07:20:05Z",
+      "content": "The problem with headlines proclaiming that AI agents have gone rogue goes beyond anthropomorphising the technology. It creates the impression that the agents were beyond the control of the AI companies that made them and there was little the companies could do about it."
+    },
+    {
+      "source": {
+        "id": "the-hindu",
+        "name": "The Hindu"
+      },
+      "author": null,
+      "title": "CSIR-CCMB develops India-specific tool to predict Sickle Cell severity",
+      "description": "The new tool could improve treatment decisions and disease management as existing international scoring systems do not accurately reflect the clinical profile of Indian patients with SCA",
+      "url": "https://www.thehindu.com/news/national/csir-ccmb-develops-india-specific-tool-to-predict-sickle-cell-severity/article71536615.ece",
+      "urlToImage": "https://th-i.thgim.com/public/incoming/6g8kv5/article71536872.ece/alternates/LANDSCAPE_1200/iStock-1029933172.jpg",
+      "publishedAt": "2026-10-02T12:17:27Z",
+      "content": "The new tool could improve treatment decisions and disease management as existing international scoring systems do not accurately reflect the clinical profile of Indian patients with SCA"
+    },
+    {
+      "source": {
+        "id": "the-hindu",
+        "name": "The Hindu"
+      },
+      "author": null,
+      "title": "G.P. Talwar at 100: scientist, institution builder, lifelong researcher",
+      "description": "Since joining the founding faculty of AIIMS New Delhi, he has never stopped working at the bench. Along the way, he developed the world’s first leprosy vaccine, a hormonal birth control vaccine, founded India’s first immunology institution, mentored hundreds of students, and continues his research as he begins his second century",
+      "url": "https://www.thehindu.com/sci-tech/health/gp-talwar-centenary-institution-builder-nii-leprosy-vaccine-birth-control/article71535826.ece",
+      "urlToImage": "https://th-i.thgim.com/public/sci-tech/science/bv6ij/article71535821.ece/alternates/LANDSCAPE_1200/IMG_20240918_171952962.jpg",
+      "publishedAt": "2026-10-02T07:28:27Z",
+      "content": "Since joining the founding faculty of AIIMS New Delhi, he has never stopped working at the bench. Along the way, he developed the world’s first leprosy vaccine, a hormonal birth control vaccine, founded India’s first immunology institution, mentored hundreds of students, and continues his research as he begins his second century"
+    },
     {
       "source": {
         "id": "the-times-of-india",
@@ -34,6 +297,123 @@
     },
     {
       "source": {
+        "id": "the-hindu",
+        "name": "The Hindu"
+      },
+      "author": null,
+      "title": "Scientists can now measure the damage each new coal mine can do to people, nature",
+      "description": "The Carbon Impacts Tracer shows the robust causal links between project and harms. It will be useful to communities and organisations seeking to attribute legal responsibility for climate harms to governments and fossil fuel companies, as well as to insurers and decision-makers assessing climate impacts.",
+      "url": "https://www.thehindu.com/sci-tech/science/scientists-can-now-measure-the-damage-each-new-coal-mine-can-do-to-people-nature/article71533182.ece",
+      "urlToImage": "https://th-i.thgim.com/public/incoming/hxazmm/article71533300.ece/alternates/LANDSCAPE_1200/iStock-1317407382.jpg",
+      "publishedAt": "2026-10-01T13:51:35Z",
+      "content": "The Carbon Impacts Tracer shows the robust causal links between project and harms. It will be useful to communities and organisations seeking to attribute legal responsibility for climate harms to governments and fossil fuel companies, as well as to insurers and decision-makers assessing climate impacts."
+    },
+    {
+      "source": {
+        "id": "the-hindu",
+        "name": "The Hindu"
+      },
+      "author": null,
+      "title": "After great apes, scientists find African elephants self-medicate too",
+      "description": "Several plants they use are also consumed as indigenous human traditional medicine",
+      "url": "https://www.thehindu.com/sci-tech/science/after-great-apes-scientists-find-african-elephants-self-medicate-too/article71527977.ece",
+      "urlToImage": "https://th-i.thgim.com/public/incoming/ju4ldp/article71528031.ece/alternates/LANDSCAPE_1200/istockphoto-916966348-612x612.jpg",
+      "publishedAt": "2026-10-01T10:56:34Z",
+      "content": "Several plants they use are also consumed as indigenous human traditional medicine"
+    },
+    {
+      "source": {
+        "id": "the-hindu",
+        "name": "The Hindu"
+      },
+      "author": null,
+      "title": "Behind India’s record performance at International Math Olympiad 2024",
+      "description": "For the first time, trainers from India and Iran jointly prepared questions for practice tests that the two countries’ candidates took together",
+      "url": "https://www.thehindu.com/sci-tech/science/behind-india-record-performance-international-math-olympiad-2024/article68496188.ece",
+      "urlToImage": "https://th-i.thgim.com/public/sci-tech/science/20z5ys/article68496178.ece/alternates/LANDSCAPE_1200/IMG-20240714-WA0009.jpg",
+      "publishedAt": "2026-10-01T10:48:56Z",
+      "content": "For the first time, trainers from India and Iran jointly prepared questions for practice tests that the two countries’ candidates took together"
+    },
+    {
+      "source": {
+        "id": "the-hindu",
+        "name": "The Hindu"
+      },
+      "author": null,
+      "title": "What human brain tissue transplanted into mice showed us",
+      "description": "A Stanford University experiment called ‘xenocortication’ lets human brain tissue develop inside a living mouse, offering a novel way to study the developing human brain and, potentially, how disease develops. It also raises new ethical questions about how far such experiments should go",
+      "url": "https://www.thehindu.com/sci-tech/health/what-human-brain-tissue-transplanted-into-mice-showed-us/article71503023.ece",
+      "urlToImage": "https://th-i.thgim.com/public/incoming/ala72l/article71532404.ece/alternates/LANDSCAPE_1200/IMG_iStock-1206174114_2_1_L7B9HIQI.jpg",
+      "publishedAt": "2026-10-01T10:23:15Z",
+      "content": "A Stanford University experiment called ‘xenocortication’ lets human brain tissue develop inside a living mouse, offering a novel way to study the developing human brain and, potentially, how disease develops. It also raises new ethical questions about how far such experiments should go"
+    },
+    {
+      "source": {
+        "id": "the-hindu",
+        "name": "The Hindu"
+      },
+      "author": null,
+      "title": "Ancient grasslands, once destroyed for development, can take 100 years to grow back",
+      "description": "The Hindu’s weekly Science for All newsletter explains all things Science, without the jargon.",
+      "url": "https://www.thehindu.com/sci-tech/science/ancient-grasslands-once-destroyed-for-development-can-take-100-years-to-grow-back/article71522834.ece",
+      "urlToImage": "https://th-i.thgim.com/public/incoming/ey37qa/article71522765.ece/alternates/LANDSCAPE_1200/istockphoto-2228649640-612x612.jpg",
+      "publishedAt": "2026-10-01T10:19:56Z",
+      "content": "The Hindu’s weekly Science for All newsletter explains all things Science, without the jargon."
+    },
+    {
+      "source": {
+        "id": "the-hindu",
+        "name": "The Hindu"
+      },
+      "author": null,
+      "title": "M31-V1, the star Hubble viewed and changed our universe",
+      "description": "The observations that American astronomer Edwin Hubble made on the night of October 5-6, 1923 and one that he had made the previous night, enabled him to discover M31-V1, the first Cepheid star in the Andromeda galaxy. The discovery had huge ramifications as it proved that Andromeda was beyond our own galaxy. A.S.Ganesh fetches his telescope to help you peer at these distant objects…",
+      "url": "https://www.thehindu.com/sci-tech/science/m31-v1-the-star-hubble-viewed-and-changed-our-universe/article71495038.ece",
+      "urlToImage": "https://th-i.thgim.com/public/incoming/u05iuv/article71495047.ece/alternates/LANDSCAPE_1200/19istb%20V1%20star%20taken%20by%20Hubble.jpg",
+      "publishedAt": "2026-10-01T05:11:35Z",
+      "content": "The observations that American astronomer Edwin Hubble made on the night of October 5-6, 1923 and one that he had made the previous night, enabled him to discover M31-V1, the first Cepheid star in the Andromeda galaxy. The discovery had huge ramifications as it proved that Andromeda was beyond our own galaxy. A.S.Ganesh fetches his telescope to help you peer at these distant objects…"
+    },
+    {
+      "source": {
+        "id": "the-hindu",
+        "name": "The Hindu"
+      },
+      "author": null,
+      "title": "What are the new guidelines set by IN-SPACe for Indian and foreign hosted-payloads? | Explained",
+      "description": "IN-SPACe releases guidelines for hosted-payloads, detailing authorisation rules for Indian and foreign entities, security, ITU filings, and regulatory compliance",
+      "url": "https://www.thehindu.com/sci-tech/science/new-guidelines-set-by-in-space-for-indian-and-foreign-hosted-payloads-explained/article71528617.ece",
+      "urlToImage": "https://th-i.thgim.com/public/incoming/hr83la/article71528863.ece/alternates/LANDSCAPE_1200/vbk-inspace-hosted%20payload-website.jpg",
+      "publishedAt": "2026-10-01T05:03:05Z",
+      "content": "IN-SPACe releases guidelines for hosted-payloads, detailing authorisation rules for Indian and foreign entities, security, ITU filings, and regulatory compliance"
+    },
+    {
+      "source": {
+        "id": "the-hindu",
+        "name": "The Hindu"
+      },
+      "author": null,
+      "title": "India’s river interlinks may carry invasive species to more areas",
+      "description": "The Lower Ganga basin hosts 13-15 invasive alien species and could become a major source of invasives for the Mahanadi, home to 69 threatened species; water connections under the river interlinking project could also help aquatic pathogens to spread and flatten the unique biota that individual river basins boast today",
+      "url": "https://www.thehindu.com/sci-tech/energy-and-environment/india-river-interlink-project-spread-invasive-species-ecologically-sensitive-basins/article71516506.ece",
+      "urlToImage": "https://th-i.thgim.com/public/sci-tech/science/2uin6f/article71516511.ece/alternates/LANDSCAPE_1200/Back_Water_View.jpg",
+      "publishedAt": "2026-10-01T01:51:29Z",
+      "content": "The Lower Ganga basin hosts 13-15 invasive alien species and could become a major source of invasives for the Mahanadi, home to 69 threatened species; water connections under the river interlinking project could also help aquatic pathogens to spread and flatten the unique biota that individual river basins boast today"
+    },
+    {
+      "source": {
+        "id": "the-hindu",
+        "name": "The Hindu"
+      },
+      "author": null,
+      "title": "MeitY IndiaAI Centre of Excellence in Artificial Intelligence to be launched on Wednesday",
+      "description": "A major milestone accompanying the launch is the announcement of CAIK’s first cohort of 15 start-ups.",
+      "url": "https://www.thehindu.com/news/national/kerala/meity-indiaai-centre-of-excellence-in-artificial-intelligence-to-be-launched-on-wednesday/article71524860.ece",
+      "urlToImage": "https://th-i.thgim.com/public/incoming/e6736t/article71525477.ece/alternates/LANDSCAPE_1200/IMG_iStock-2207141986_2_1_00GJ4R81.jpg",
+      "publishedAt": "2026-10-01T01:48:53Z",
+      "content": "A major milestone accompanying the launch is the announcement of CAIK’s first cohort of 15 start-ups."
+    },
+    {
+      "source": {
         "id": "the-times-of-india",
         "name": "The Times of India"
       },
@@ -44,6 +424,331 @@
       "urlToImage": "https://img.etimg.com/thumb/msid-134595657,width-1200,height-900,imgsize-5648560,overlay-economictimes/articleshow.jpg",
       "publishedAt": "2026-09-30T13:23:43Z",
       "content": "Miami is set to get a new Carnegie Mellon University (CMU) campus, thanks to a $2 billion donation from Citadel founder and CEO Ken Griffin. The donation also includes another $1 billion for CMU's Pi… [+2752 chars]"
+    },
+    {
+      "source": {
+        "id": "the-hindu",
+        "name": "The Hindu"
+      },
+      "author": null,
+      "title": "SpaceX Starship engine failure could hit NASA moon mission plans",
+      "description": "While Starship accomplished a number of key objectives in its latest test launch, the mission was cut short by ‌several hours after a malfunction of its propulsion system",
+      "url": "https://www.thehindu.com/sci-tech/science/spacex-starship-engine-failure-could-hit-nasa-moon-mission-plans/article71528114.ece",
+      "urlToImage": "https://th-i.thgim.com/public/incoming/akj520/article71521085.ece/alternates/LANDSCAPE_1200/SpaceX_Starship_Launch_16416.jpg",
+      "publishedAt": "2026-09-30T10:49:29Z",
+      "content": "While Starship accomplished a number of key objectives in its latest test launch, the mission was cut short by ‌several hours after a malfunction of its propulsion system"
+    },
+    {
+      "source": {
+        "id": "the-hindu",
+        "name": "The Hindu"
+      },
+      "author": null,
+      "title": "Buzz on space privatisation upstages ISRO’s moment of glory",
+      "description": null,
+      "url": "https://www.thehindu.com/newsletter/space-wrap/space-wrap-newsletter-buzz-on-space-privatisation-upstages-isros-moment-of-glory/article71527147.ece",
+      "urlToImage": "https://th-i.thgim.com/public/incoming/yyxc88/article71444090.ece/alternates/LANDSCAPE_1200/Edit_second-leaG1JGGGSE2.4.jpg.jpg",
+      "publishedAt": "2026-09-30T10:24:41Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "the-hindu",
+        "name": "The Hindu"
+      },
+      "author": null,
+      "title": "Ground control: On ISRO, policy and its focus",
+      "description": "ISRO must focus on space technology as a tool for development",
+      "url": "https://www.thehindu.com/opinion/editorial/ground-control-on-isro-policy-and-and-its-focus/article71439288.ece",
+      "urlToImage": null,
+      "publishedAt": "2026-09-30T10:17:24Z",
+      "content": "ISRO must focus on space technology as a tool for development"
+    },
+    {
+      "source": {
+        "id": "the-hindu",
+        "name": "The Hindu"
+      },
+      "author": null,
+      "title": "Why rare-disease drugs could become India’s next pharma frontier",
+      "description": "Since India has already shown the world how to make drugs affordable, the next challenge is to show the world how to make rare-disease drugs accessible; with a streamlined regulatory pathway, appropriate financial incentives, and government procurement, India could build a globally competitive rare-disease pharmaceutical sector",
+      "url": "https://www.thehindu.com/sci-tech/science/rare-disease-drugs-could-become-indias-next-pharma-frontier/article71518560.ece",
+      "urlToImage": "https://th-i.thgim.com/public/incoming/jfprot/article71409869.ece/alternates/LANDSCAPE_1200/IMG_FILE_PHOTO__Tablets__2_1_RVCS5VKF.jpg",
+      "publishedAt": "2026-09-30T05:00:32Z",
+      "content": "Since India has already shown the world how to make drugs affordable, the next challenge is to show the world how to make rare-disease drugs accessible; with a streamlined regulatory pathway, appropriate financial incentives, and government procurement, India could build a globally competitive rare-disease pharmaceutical sector"
+    },
+    {
+      "source": {
+        "id": "the-hindu",
+        "name": "The Hindu"
+      },
+      "author": null,
+      "title": "Highly educated professionals are vulnerable to financial cybercrime, finds IIT-Madras study",
+      "description": "The researchers found that victims were often targeted during periods of stress or life disruption, including illness in the family, retirement, job searches, or workplace pressure",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/highly-educated-professionals-are-vulnerable-to-financial-cybercrime-finds-iit-madras-study/article71524692.ece",
+      "urlToImage": "https://th-i.thgim.com/public/incoming/wfdlo3/article71525645.ece/alternates/LANDSCAPE_1200/iStock-1157124920.jpg",
+      "publishedAt": "2026-09-29T19:49:11Z",
+      "content": "The researchers found that victims were often targeted during periods of stress or life disruption, including illness in the family, retirement, job searches, or workplace pressure"
+    },
+    {
+      "source": {
+        "id": "the-hindu",
+        "name": "The Hindu"
+      },
+      "author": null,
+      "title": "Daily Quiz | on CERN",
+      "description": "On this day 72 years ago, CERN’s founding convention entered into force. A quiz on the storied science lab",
+      "url": "https://www.thehindu.com/sci-tech/science/daily-quiz-on-cern/article71522658.ece",
+      "urlToImage": "https://th-i.thgim.com/public/incoming/ipa1br/article71522662.ece/alternates/LANDSCAPE_1200/Installing_the_ATLAS_Calorimeter_-_edit1.jpg",
+      "publishedAt": "2026-09-29T05:36:17Z",
+      "content": "On this day 72 years ago, CERN’s founding convention entered into force. A quiz on the storied science lab"
+    },
+    {
+      "source": {
+        "id": "the-hindu",
+        "name": "The Hindu"
+      },
+      "author": null,
+      "title": "SpaceX puts Starship megarocket in orbit for first time",
+      "description": "The black-and-silver behemoth, standing more than 120 metres tall, rose through a thick cloud of smoke on an ambitious 14th test flight",
+      "url": "https://www.thehindu.com/sci-tech/science/spacex-puts-starship-megarocket-in-orbit-for-first-time/article71521071.ece",
+      "urlToImage": "https://th-i.thgim.com/public/incoming/akj520/article71521085.ece/alternates/LANDSCAPE_1200/SpaceX_Starship_Launch_16416.jpg",
+      "publishedAt": "2026-09-29T05:27:09Z",
+      "content": "The black-and-silver behemoth, standing more than 120 metres tall, rose through a thick cloud of smoke on an ambitious 14th test flight"
+    },
+    {
+      "source": {
+        "id": "the-hindu",
+        "name": "The Hindu"
+      },
+      "author": null,
+      "title": "China’s space diplomacy brings Pakistani astronauts closer to orbit",
+      "description": "Pakistan’s space agency has provided the first insights into the programme to foreign media since the pilots were selected and deployed to China",
+      "url": "https://www.thehindu.com/sci-tech/science/chinas-space-diplomacy-brings-pakistani-astronauts-closer-to-orbit/article71518664.ece",
+      "urlToImage": "https://th-i.thgim.com/public/todays-paper/tp-international/1qp830/article70899378.ece/alternates/LANDSCAPE_1200/Two-Pakistanis-G2IFT1KG1.3.jpg.jpg",
+      "publishedAt": "2026-09-28T08:05:46Z",
+      "content": "Pakistan’s space agency has provided the first insights into the programme to foreign media since the pilots were selected and deployed to China"
+    },
+    {
+      "source": {
+        "id": "the-hindu",
+        "name": "The Hindu"
+      },
+      "author": null,
+      "title": "Ig Nobel Prizes 2026 awarded to serious work in amusing areas",
+      "description": null,
+      "url": "https://www.thehindu.com/sci-tech/science/ig-nobel-prizes-2026-awarded-to-serious-work-in-amusing-areas/article71518496.ece",
+      "urlToImage": "https://th-i.thgim.com/public/sci-tech/science/5sh41f/article71518502.ece/alternates/LANDSCAPE_1200/mohammad-hosein-safaei-3mmQIqJyH-E-unsplash.jpg",
+      "publishedAt": "2026-09-28T05:30:25Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "the-hindu",
+        "name": "The Hindu"
+      },
+      "author": null,
+      "title": "Bats first originated in Europe 65 million years ago, scientists say",
+      "description": "Their extraordinarily long lives and resistance to disease can be used to design bat-inspired approaches to improve human health, said scientists.",
+      "url": "https://www.thehindu.com/sci-tech/science/bats-first-originated-in-europe-65-million-years-ago-scientists-say/article71506978.ece",
+      "urlToImage": "https://th-i.thgim.com/public/incoming/9xr414/article71506976.ece/alternates/LANDSCAPE_1200/istockphoto-1365008587-612x612.jpg",
+      "publishedAt": "2026-09-28T04:43:19Z",
+      "content": "Their extraordinarily long lives and resistance to disease can be used to design bat-inspired approaches to improve human health, said scientists."
+    },
+    {
+      "source": {
+        "id": "the-hindu",
+        "name": "The Hindu"
+      },
+      "author": null,
+      "title": "COP31 hosts Australia and Türkiye face the fossil-fuel question",
+      "description": "There is likely to be pressure on the COP31 presidencies to include fossil fuel language as part of the agenda",
+      "url": "https://www.thehindu.com/sci-tech/energy-and-environment/cop31-hosts-australia-and-turkiye-face-the-fossil-fuel-question/article71515307.ece",
+      "urlToImage": "https://th-i.thgim.com/public/sci-tech/science/lbrlpr/article71515303.ece/alternates/LANDSCAPE_1200/alpha-perspective-NigcEkrdSJo-unsplash.jpg",
+      "publishedAt": "2026-09-28T04:11:00Z",
+      "content": "There is likely to be pressure on the COP31 presidencies to include fossil fuel language as part of the agenda"
+    },
+    {
+      "source": {
+        "id": "the-hindu",
+        "name": "The Hindu"
+      },
+      "author": null,
+      "title": "Brain mapping of students and teachers uncovers when learning happens best",
+      "description": "Scientists found that learning outcomes in school-going children significantly improved through social experiences like storytelling and scaffolding, which were associated with higher neural synchrony.",
+      "url": "https://www.thehindu.com/education/brain-mapping-of-students-and-teachers-uncovers-when-learning-happens-best/article71480689.ece",
+      "urlToImage": "https://th-i.thgim.com/public/education/f3h6ub/article71480698.ece/alternates/LANDSCAPE_1200/iStock-1185682030.jpg",
+      "publishedAt": "2026-09-27T18:32:10Z",
+      "content": "Scientists found that learning outcomes in school-going children significantly improved through social experiences like storytelling and scaffolding, which were associated with higher neural synchrony."
+    },
+    {
+      "source": {
+        "id": "the-hindu",
+        "name": "The Hindu"
+      },
+      "author": null,
+      "title": "How Haryana’s village health centres are screening heart patients and helping save lives",
+      "description": "A tele-ECG project implemented by the government in partnership with a startup has made ECGs available at primary and community health centres across Haryana. Patients can now get an ECG done, take emergency medication where required, and then be referred to tertiary care centres for procedures",
+      "url": "https://www.thehindu.com/sci-tech/health/how-haryanas-village-health-centres-are-screening-heart-patients-and-helping-save-lives/article71490263.ece",
+      "urlToImage": "https://th-i.thgim.com/public/sci-tech/health/ck6mh4/article71490578.ece/alternates/LANDSCAPE_1200/Heart-1.jpg",
+      "publishedAt": "2026-09-27T16:07:18Z",
+      "content": "A tele-ECG project implemented by the government in partnership with a startup has made ECGs available at primary and community health centres across Haryana. Patients can now get an ECG done, take emergency medication where required, and then be referred to tertiary care centres for procedures"
+    },
+    {
+      "source": {
+        "id": "the-hindu",
+        "name": "The Hindu"
+      },
+      "author": null,
+      "title": "Why do we make noises like ‘oof’ when we lift something or bump into furniture?",
+      "description": null,
+      "url": "https://www.thehindu.com/sci-tech/science/why-do-we-make-noises-like-oof-when-we-lift-something-or-bump-into-furniture/article71516593.ece",
+      "urlToImage": "https://th-i.thgim.com/public/sci-tech/science/1yia0/article71516578.ece/alternates/LANDSCAPE_1200/victor-freitas-vqDAUejnwKw-unsplash.jpg",
+      "publishedAt": "2026-09-27T14:29:59Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "the-hindu",
+        "name": "The Hindu"
+      },
+      "author": null,
+      "title": "How the science Nikolai Vavilov built changed how we save crops",
+      "description": "One of Vavilov’s major contributions was a paper he published in 1926: even today, a century later, it remains the foundation of the study and use of crops and livestock",
+      "url": "https://www.thehindu.com/sci-tech/energy-and-environment/how-the-science-nikolai-vavilov-built-changed-how-we-save-crops/article71512603.ece",
+      "urlToImage": "https://th-i.thgim.com/public/sci-tech/science/vchv4k/article71512573.ece/alternates/LANDSCAPE_1200/Visita_de_Nikola%CC%81i_Iva%CC%81novich_Vavi%CC%81lov.JPG",
+      "publishedAt": "2026-09-27T11:20:15Z",
+      "content": "One of Vavilov’s major contributions was a paper he published in 1926: even today, a century later, it remains the foundation of the study and use of crops and livestock"
+    },
+    {
+      "source": {
+        "id": "the-hindu",
+        "name": "The Hindu"
+      },
+      "author": null,
+      "title": "Science quiz | Vivid displays in the wild",
+      "description": "Test your knowledge with The Hindu’s live, vivid in-field visuals and engaging puzzle embeds.",
+      "url": "https://www.thehindu.com/sci-tech/science/science-quiz-vivid-displays-in-the-wild/article71512191.ece",
+      "urlToImage": "https://th-i.thgim.com/public/news/national/nyboxm/article71512181.ece/alternates/LANDSCAPE_1200/Superb_lyrbird_in_scrub.jpg",
+      "publishedAt": "2026-09-26T08:23:17Z",
+      "content": "Test your knowledge with The Hindu’s live, vivid in-field visuals and engaging puzzle embeds."
+    },
+    {
+      "source": {
+        "id": "the-hindu",
+        "name": "The Hindu"
+      },
+      "author": null,
+      "title": "Private spacecraft falls back to Earth after failing to rescue aging NASA telescope",
+      "description": "‘Link’ reentered the atmosphere, bringing the $30 million, NASA-sponsored salvage effort of the Swift Observatory to a close",
+      "url": "https://www.thehindu.com/sci-tech/science/private-spacecraft-falls-back-to-earth-after-failing-to-rescue-aging-nasa-telescope/article71511767.ece",
+      "urlToImage": "https://th-i.thgim.com/public/news/national/c9b3a7/article71511861.ece/alternates/LANDSCAPE_1200/nasa%20swift.jpg",
+      "publishedAt": "2026-09-26T06:06:23Z",
+      "content": "‘Link’ reentered the atmosphere, bringing the $30 million, NASA-sponsored salvage effort of the Swift Observatory to a close"
+    },
+    {
+      "source": {
+        "id": "the-hindu",
+        "name": "The Hindu"
+      },
+      "author": null,
+      "title": "Jason Arday, Claudine Gay, and the line between inclusion and bias in universities",
+      "description": "Of late, universities in the Global North have been recruiting people from underrepresented backgrounds in part on the strength of narratives of overcoming disadvantage and embodying the universities’ commitments to diversity, equity, and inclusion",
+      "url": "https://www.thehindu.com/sci-tech/science/news-analysis-jason-arday-claudine-gay-and-the-line-between-inclusion-and-bias-in-varsities/article71317898.ece",
+      "urlToImage": "https://th-i.thgim.com/public/incoming/f0l6ws/article71319030.ece/alternates/LANDSCAPE_1200/Britain_Cambridge_Professor_81622.jpg",
+      "publishedAt": "2026-09-26T05:13:35Z",
+      "content": "Of late, universities in the Global North have been recruiting people from underrepresented backgrounds in part on the strength of narratives of overcoming disadvantage and embodying the universities’ commitments to diversity, equity, and inclusion"
+    },
+    {
+      "source": {
+        "id": "the-hindu",
+        "name": "The Hindu"
+      },
+      "author": null,
+      "title": "Science Snapshots: September 27, 2026",
+      "description": "Three recent important research developments, all readable in one minute",
+      "url": "https://www.thehindu.com/sci-tech/science/science-snapshots-september-27-2026/article71511734.ece",
+      "urlToImage": "https://th-i.thgim.com/public/sci-tech/science/e218mu/article71511739.ece/alternates/LANDSCAPE_1200/alka-jha-DFoZSMyzCeI-unsplash.jpg",
+      "publishedAt": "2026-09-26T05:04:29Z",
+      "content": "Three recent important research developments, all readable in one minute"
+    },
+    {
+      "source": {
+        "id": "the-hindu",
+        "name": "The Hindu"
+      },
+      "author": null,
+      "title": "The Quest to be a Science Superpower: Where India’s Research Is and What It Will Take to Get Ahead",
+      "description": "Is India truly on the path to becoming a global scientific superpower?",
+      "url": "https://www.thehindu.com/news/national/the-quest-to-be-a-science-superpower-where-indias-research-is-and-what-it-will-take-to-get-ahead/article71507895.ece",
+      "urlToImage": "https://th-i.thgim.com/public/news/national/c6gn5s/article71507888.ece/alternates/LANDSCAPE_1200/1800X2700%204.png",
+      "publishedAt": "2026-09-25T09:00:30Z",
+      "content": "Is India truly on the path to becoming a global scientific superpower?"
+    },
+    {
+      "source": {
+        "id": "the-hindu",
+        "name": "The Hindu"
+      },
+      "author": null,
+      "title": "Google to test AI chip in space",
+      "description": "Project Suncatcher will enable Google’s experts to test hardware survival, cooling processes, and satellite interconnectivity",
+      "url": "https://www.thehindu.com/sci-tech/technology/google-to-test-ai-chip-in-space/article71507882.ece",
+      "urlToImage": "https://th-i.thgim.com/public/incoming/osjdpg/article71507845.ece/alternates/LANDSCAPE_1200/2023-02-02T211044Z_715508939_RC283Z9FPF82_RTRMADP_3_ALPHABET-RESULTS.JPG",
+      "publishedAt": "2026-09-25T08:44:02Z",
+      "content": "Project Suncatcher will enable Google’s experts to test hardware survival, cooling processes, and satellite interconnectivity"
+    },
+    {
+      "source": {
+        "id": "the-hindu",
+        "name": "The Hindu"
+      },
+      "author": null,
+      "title": "BrainyBotz STEM Challenge 2026: Young innovators to design cooler homes",
+      "description": "BrainyBotz’s STEM Innovation Challenge 2026 asks young innovators to find affordable, locally buildable ways to keep homes cool",
+      "url": "https://www.thehindu.com/news/cities/Visakhapatnam/brainybotz-stem-challenge-2026-young-innovators-to-design-cooler-homes/article71475640.ece",
+      "urlToImage": "https://th-i.thgim.com/public/incoming/8uq6t2/article71475632.ece/alternates/LANDSCAPE_1200/03Workshop.jpg",
+      "publishedAt": "2026-09-25T08:17:20Z",
+      "content": "BrainyBotz’s STEM Innovation Challenge 2026 asks young innovators to find affordable, locally buildable ways to keep homes cool"
+    },
+    {
+      "source": {
+        "id": "the-hindu",
+        "name": "The Hindu"
+      },
+      "author": null,
+      "title": "Tesla is beginning Semi electric truck deliveries",
+      "description": "The Semi was first unveiled in 2017 and production was expected to start in 2019",
+      "url": "https://www.thehindu.com/sci-tech/technology/tesla-is-beginning-semi-electric-truck-deliveries/article71507062.ece",
+      "urlToImage": "https://th-i.thgim.com/public/incoming/hyvmdd/article71507069.ece/alternates/LANDSCAPE_1200/2026-09-11T164657Z_1976818299_RC2JSFAKSLJX_RTRMADP_3_TESLA-SEMI-EUROPE.JPG",
+      "publishedAt": "2026-09-25T07:58:03Z",
+      "content": "The Semi was first unveiled in 2017 and production was expected to start in 2019"
+    },
+    {
+      "source": {
+        "id": "the-hindu",
+        "name": "The Hindu"
+      },
+      "author": null,
+      "title": "China fuels rush to turn AI video into an industry",
+      "description": "Local governments have responded by promising to build tech clusters and offering subsidies to ‌AI filmmakers and startups",
+      "url": "https://www.thehindu.com/sci-tech/technology/china-fuels-rush-to-turn-ai-video-into-an-industry/article71506995.ece",
+      "urlToImage": "https://th-i.thgim.com/public/incoming/to1dnt/article71507004.ece/alternates/LANDSCAPE_1200/2026-09-22T100031Z_640030611_RC2GX1AA1T14_RTRMADP_3_USA-BONDS-AI.JPG",
+      "publishedAt": "2026-09-25T07:01:34Z",
+      "content": "Local governments have responded by promising to build tech clusters and offering subsidies to ‌AI filmmakers and startups"
+    },
+    {
+      "source": {
+        "id": "the-hindu",
+        "name": "The Hindu"
+      },
+      "author": null,
+      "title": "Oracle’s Project Jupiter delay sends ripple through AI financing",
+      "description": "Companies can use force majeure provisions when events beyond their control make ‌it ⁠difficult to meet their contractual obligations",
+      "url": "https://www.thehindu.com/sci-tech/technology/oracles-project-jupiter-delay-sends-ripple-through-ai-financing/article71507113.ece",
+      "urlToImage": "https://th-i.thgim.com/public/incoming/unwyin/article71507118.ece/alternates/LANDSCAPE_1200/2026-09-24T225103Z_22279971_RC2BCQ943OVI_RTRMADP_3_AI-FINANCE-ORACLE-BLUE-OWL-CAPITAL.JPG",
+      "publishedAt": "2026-09-25T04:53:19Z",
+      "content": "Companies can use force majeure provisions when events beyond their control make ‌it ⁠difficult to meet their contractual obligations"
     },
     {
       "source": {
@@ -60,6 +765,19 @@
     },
     {
       "source": {
+        "id": "the-hindu",
+        "name": "The Hindu"
+      },
+      "author": null,
+      "title": "White House asks OpenAI, Anthropic to hold models from British testers: Report",
+      "description": "The White House ‌wants to take steps ‌to ⁠make sure US systems are ⁠secure, according to the report.",
+      "url": "https://www.thehindu.com/sci-tech/technology/white-house-asks-openai-anthropic-to-hold-models-from-british-testers-report/article71506959.ece",
+      "urlToImage": "https://th-i.thgim.com/public/incoming/xlxvlm/article71506964.ece/alternates/LANDSCAPE_1200/2026-09-22T075838Z_2029302470_RC2TRLAFOW15_RTRMADP_3_AUSTRALIA-AI-OPENAI.JPG",
+      "publishedAt": "2026-09-25T03:36:45Z",
+      "content": "The White House ‌wants to take steps ‌to ⁠make sure US systems are ⁠secure, according to the report."
+    },
+    {
+      "source": {
         "id": "the-times-of-india",
         "name": "The Times of India"
       },
@@ -70,6 +788,71 @@
       "urlToImage": "https://img.etimg.com/thumb/msid-134429438,width-1200,height-630,imgsize-920643,overlay-economictimes/articleshow.jpg",
       "publishedAt": "2026-09-24T08:20:00Z",
       "content": "In December 2015, a small team of scientists arrived on a cluster of icy islands near the tip of the Antarctic Peninsula. They were not chasing headlines; they were just following a pink stain they h… [+4918 chars]"
+    },
+    {
+      "source": {
+        "id": "the-hindu",
+        "name": "The Hindu"
+      },
+      "author": null,
+      "title": "Human ancestors moved from climbing trees to walking on the ground 1.8 million years ago",
+      "description": null,
+      "url": "https://www.thehindu.com/sci-tech/science/human-ancestors-moved-from-climbing-trees-to-walking-on-the-ground-18-million-years-ago/article71491055.ece",
+      "urlToImage": "https://th-i.thgim.com/public/incoming/yjdgjt/article71491049.ece/alternates/LANDSCAPE_1200/istockphoto-2262924289-640x640.jpg",
+      "publishedAt": "2026-09-24T07:12:14Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "the-hindu",
+        "name": "The Hindu"
+      },
+      "author": null,
+      "title": "Daily Quiz | On Mars Orbiter mission",
+      "description": "Test your knowledge of historic Mars Orbiter Mission, which made India the first Asian nation to reach Mars orbit and the first nation globally to succeed on its maiden attempt",
+      "url": "https://www.thehindu.com/sci-tech/science/daily-quiz-on-mars-orbiter-mission/article71502967.ece",
+      "urlToImage": "https://th-i.thgim.com/public/news/national/wskw84/article71502963.ece/alternates/LANDSCAPE_1200/Olympus_Mons_-_Mars_-_April_11_2016_49204976516.jpg",
+      "publishedAt": "2026-09-24T06:08:54Z",
+      "content": "Test your knowledge of historic Mars Orbiter Mission, which made India the first Asian nation to reach Mars orbit and the first nation globally to succeed on its maiden attempt"
+    },
+    {
+      "source": {
+        "id": "the-hindu",
+        "name": "The Hindu"
+      },
+      "author": null,
+      "title": "AI experts warn against ‘apocalyptic’ rhetoric on risks",
+      "description": "Yoshua Bengio said it was important to distinguish between what scientists actually know about AI risks and what can only be ‘plausibly extrapolated’ from that evidence",
+      "url": "https://www.thehindu.com/sci-tech/science/ai-experts-warn-against-apocalyptic-rhetoric-on-risks/article71495016.ece",
+      "urlToImage": "https://th-i.thgim.com/public/incoming/gl3vh7/article71494998.ece/alternates/LANDSCAPE_1200/OpenAI-flags-coG1DGHT5ET.3.jpg.jpg",
+      "publishedAt": "2026-09-24T04:34:06Z",
+      "content": "Yoshua Bengio said it was important to distinguish between what scientists actually know about AI risks and what can only be ‘plausibly extrapolated’ from that evidence"
+    },
+    {
+      "source": {
+        "id": "the-hindu",
+        "name": "The Hindu"
+      },
+      "author": null,
+      "title": "India’s vast canal network offers a land-free path to solar power",
+      "description": "Similar to floating solar, the biggest advantage of canal-top photovoltaics is that they require virtually no additional land, especially as land acquisition for large-scale solar is also becoming increasingly more expensive; in Punjab, the installation of 20 MW of canal-top systems is estimated to have saved nearly 100 acres of land",
+      "url": "https://www.thehindu.com/sci-tech/energy-and-environment/india-vast-canal-network-offers-land-free-path-solar-power/article71494964.ece",
+      "urlToImage": "https://th-i.thgim.com/public/migration_catalog/taukiu/article52152375.ece/alternates/LANDSCAPE_1200/DE12_SOLAR_GUJADE12_SOLAR_GUJARAT..jpg",
+      "publishedAt": "2026-09-23T08:08:26Z",
+      "content": "Similar to floating solar, the biggest advantage of canal-top photovoltaics is that they require virtually no additional land, especially as land acquisition for large-scale solar is also becoming increasingly more expensive; in Punjab, the installation of 20 MW of canal-top systems is estimated to have saved nearly 100 acres of land"
+    },
+    {
+      "source": {
+        "id": "the-hindu",
+        "name": "The Hindu"
+      },
+      "author": null,
+      "title": "Behind every treated animal, a veterinarian carrying unseen strain",
+      "description": "Unlike human medicine, where every organ often has its own specialist, veterinary medicine asks one person to be all of them at once",
+      "url": "https://www.thehindu.com/sci-tech/science/behind-every-treated-animal-a-veterinarian-carrying-unseen-strain/article71487628.ece",
+      "urlToImage": "https://th-i.thgim.com/public/sci-tech/science/m56tmo/article71487626.ece/alternates/LANDSCAPE_1200/1xpexels-mikhail-nilov-7468980.jpg",
+      "publishedAt": "2026-09-23T05:55:58Z",
+      "content": "Unlike human medicine, where every organ often has its own specialist, veterinary medicine asks one person to be all of them at once"
     },
     {
       "source": {
@@ -213,58 +996,7 @@
       "urlToImage": "https://img.etimg.com/thumb/msid-133755755,width-1200,height-630,imgsize-44914,overlay-economictimes/articleshow.jpg",
       "publishedAt": "2026-09-05T08:00:00Z",
       "content": "Some failures become footnotes; this one ended up becoming a museum exhibit. NASA's official history archives note that on December 6, 1957, a tiny American satellite barely made it off the ground be… [+4219 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "Trending Desk",
-      "title": "Saturn south pole decagon: NASA Hubble detects mysterious 10-sided pattern forming around planet",
-      "description": "NASA’s Hubble Space Telescope has revealed a giant 10-sided atmospheric wave developing around Saturn’s south pole. Unlike the planet’s long-lived northern hexagon, the newly identified structure appears to be strengthening and was traced in Hubble observatio…",
-      "url": "https://economictimes.indiatimes.com/news/new-updates/saturn-south-pole-decagon-nasa-hubble-detects-mysterious-10-sided-pattern-forming-around-planet/articleshow/133762592.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-133763228,width-1200,height-630,imgsize-22604,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-09-04T12:35:49Z",
-      "content": "Saturns south pole has revealed an atmospheric feature unlike anything previously observed there. Recent observations from NASAs Hubble Space Telescope have identified a huge, evolving 10-sided wave … [+6396 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "Trending Desk",
-      "title": "15-year-old builds flashlight powered by body heat: How her hollow aluminium tube generated electricity to keep an LED lit for more than 20 minutes",
-      "description": "A 15-year-old Canadian student built a battery-free flashlight that uses the temperature difference between a warm human palm and cooler air to generate electricity. Her Hollow Flashlight used thermoelectric tiles to power an LED for more than 20 minutes.",
-      "url": "https://economictimes.indiatimes.com/news/new-updates/15-year-old-builds-flashlight-powered-by-body-heat-how-her-hollow-aluminium-tube-generated-electricity-to-keep-an-led-lit-for-more-than-20-minutes/articleshow/133729146.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-133729405,width-1200,height-630,imgsize-88086,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-09-03T07:46:43Z",
-      "content": "There's no switch on it. No crank, no shake, no solar cell soaking up sun. You just wrap your fingers around it, and it lights up. That's the whole instruction manual. The device belongs to Ann Makos… [+6379 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "Trending Desk",
-      "title": "Nasa scientists grew corn seeds in space and found something strange: How microgravity confused roots & shoots that normally know exactly which way to grow",
-      "description": "Nasa scientists grew corn seeds in space: NASA conducted an intriguing experiment on corn seeds grown in the absence of gravity’s guiding force. The seedlings developed healthy-looking tissues but grew in unpredictable directions, highlighting the important r…",
-      "url": "https://economictimes.indiatimes.com/news/new-updates/nasa-scientists-grew-corn-seeds-in-space-and-found-something-strange-how-microgravity-confused-roots-shoots-that-normally-know-exactly-which-way-to-grow/articleshow/133708025.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-133709571,width-1200,height-630,imgsize-1159830,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-09-02T11:57:54Z",
-      "content": "What happens when a plant seed tries to grow without gravity telling its roots which way is down and its shoots which way is up? Nasa has been exploring that question for decades, including through a… [+6152 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "Team Global",
-      "title": "In 2007, ESA sent 3,000 tardigrades into low Earth orbit; after 10 days of vacuum and UV-A/UV-B exposure, 68% revived upon rehydration",
-      "description": "Known for their resilience, tardigrades have astonishingly withstood the harsh conditions of outer space. Their unique protein showcases an ability to shield cells from radiation damage. Researchers are now investigating how this protein might protect human c…",
-      "url": "https://economictimes.indiatimes.com/news/international/us/in-2007-esa-sent-3000-tardigrades-into-low-earth-orbit-after-10-days-of-direct-space-vacuum-exposure-68-revived-upon-rehydration/articleshow/133683244.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-133683475,width-1200,height-630,imgsize-104724,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-09-02T10:40:00Z",
-      "content": "On September 14, 2007, a European Space Agency exposure platform bolted to the outside of a Russian Foton-M3 capsule opened its trays in low Earth orbit and left some 3,000 tiny animals unprotected t… [+3882 chars]"
     }
-  ]
+  ],
+  "query": "science research discovery space"
 }

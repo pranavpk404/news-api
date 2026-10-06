@@ -1,6 +1,13 @@
 {
-  "status": "ok",
-  "totalResults": 70,
+  "source": "rss_fallback",
+  "country": "gb",
+  "category": "sports",
+  "providers": [
+    "newsapi",
+    "rss"
+  ],
+  "fetched_at": "2026-10-06T03:24:12.611543+00:00",
+  "articles_count": 70,
   "articles": [
     {
       "source": {
@@ -912,5 +919,6 @@
       "publishedAt": "2026-06-08T10:33:57Z",
       "content": "Get the latest transfer news and gossip ahead of the new season"
     }
-  ]
+  ],
+  "query": "sports match score tournament cricket football"
 }

@@ -2,10 +2,468 @@
   "source": "top_headlines",
   "country": "us",
   "category": "science",
-  "mode": "country",
-  "fetched_at": "2026-10-04T00:09:45.466547+00:00",
-  "articles_count": 62,
+  "providers": [
+    "newsapi",
+    "rss"
+  ],
+  "fetched_at": "2026-10-06T03:24:12.611543+00:00",
+  "articles_count": 82,
   "articles": [
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Carolyn Y. Johnson and Leo Sands",
+      "title": "Nobel Prize in Physiology or Medicine Is Awarded for Discoveries in Neuroscience",
+      "description": "Karl Deisseroth, Peter Hegemann and Georg Nagel were recognized for their work on light-gated ion channels and optogenetics, a technique that uses pulses of light to activate neurons in the brain.",
+      "url": "https://www.nytimes.com/2026/10/05/health/nobel-prize-medicine-physiology.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/10/05/multimedia/05SCI-nobel-medicin-01-tfkh/05SCI-nobel-medicin-01-tfkh-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-10-05T21:09:36Z",
+      "content": "Karl Deisseroth, Peter Hegemann and Georg Nagel were recognized for their work on light-gated ion channels and optogenetics, a technique that uses pulses of light to activate neurons in the brain."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Karen Zraick and Claire Brown",
+      "title": "Why Cities and States Are Fighting Climate Change in Courtrooms",
+      "description": "Faced with a president who has called global warming a hoax, officials have filed dozens of suits against oil companies to try to cover the costs of extreme weather.",
+      "url": "https://www.nytimes.com/2026/10/05/climate/climate-lawsuits-courts-boulder-oil.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/10/05/multimedia/05cli-scotus-mhkl/05cli-scotus-mhkl-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-10-05T20:40:33Z",
+      "content": "Faced with a president who has called global warming a hoax, officials have filed dozens of suits against oil companies to try to cover the costs of extreme weather."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Bill Wasik",
+      "title": "What Are the Biggest Questions in Science Today? 100 Scientists Weigh In.",
+      "description": "We asked 100 scientists about unsolved problems in their fields. They sent back provocations — on the origins of life, the possibilities for human progress and much more.",
+      "url": "https://www.nytimes.com/2026/10/05/science/100-unanswered-questions-science.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/09/30/science/05SCI-UNKNOWNS-LIST-question-hp-32/05SCI-UNKNOWNS-LIST-question-hp-32-mediumSquareAt3X-v2.jpg",
+      "publishedAt": "2026-10-05T20:33:56Z",
+      "content": "We asked 100 scientists about unsolved problems in their fields. They sent back provocations — on the origins of life, the possibilities for human progress and much more."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Taylor Mitchell Brown",
+      "title": "These Birds Are Louder Than Elephants, Jackhammers and Chain Saws",
+      "description": "A new study has identified two species of Brazilian birds, the bare-throated bellbird and the red-legged seriema, as the loudest in nature.",
+      "url": "https://www.nytimes.com/2026/10/03/science/loudest-birds.html",
+      "urlToImage": null,
+      "publishedAt": "2026-10-05T16:47:54Z",
+      "content": "A new study has identified two species of Brazilian birds, the bare-throated bellbird and the red-legged seriema, as the loudest in nature."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Christina Jewett",
+      "title": "Texas Pediatricians Face Paxton Investigations for Vaccinating Children",
+      "description": "Ken Paxton, the Texas attorney general and Republican Senate candidate, has alleged a sprawling profit-driven conspiracy. Pediatricians say the accusations are an attempt at intimidation.",
+      "url": "https://www.nytimes.com/2026/10/05/health/ken-paxton-pediatricians-vaccines.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/10/01/multimedia/XXDC-Pediatrician-vaccines-top-tzph/XXDC-Pediatrician-vaccines-top-tzph-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-10-05T15:46:37Z",
+      "content": "Ken Paxton, the Texas attorney general and Republican Senate candidate, has alleged a sprawling profit-driven conspiracy. Pediatricians say the accusations are an attempt at intimidation."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Karen Zraick",
+      "title": "A Supreme Court Battle Over Climate Change Begins",
+      "description": "The justices are about to hear a lawsuit that could determine whether the oil industry faces billions of dollars in liability for damages caused by global warming.",
+      "url": "https://www.nytimes.com/2026/10/04/climate/boulder-lawsuit-supreme-court.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/09/24/multimedia/00cli-boulder-01-vgtb/00cli-boulder-01-vgtb-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-10-05T15:29:52Z",
+      "content": "The justices are about to hear a lawsuit that could determine whether the oil industry faces billions of dollars in liability for damages caused by global warming."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Carl Zimmer",
+      "title": "Are Babies Conscious?",
+      "description": "By pinpointing when it begins in young humans, scientists hope to better understand what consciousness is, and how it arises, in all of us.",
+      "url": "https://www.nytimes.com/2026/10/05/science/consciousness-brain-babies.html",
+      "urlToImage": null,
+      "publishedAt": "2026-10-05T15:12:12Z",
+      "content": "By pinpointing when it begins in young humans, scientists hope to better understand what consciousness is, and how it arises, in all of us."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "The New York Times",
+      "title": "Nobel Prizes 2026: What to Know",
+      "description": "The recipients of the six awards in science, literature, economics and peace work are being announced this week.",
+      "url": "https://www.nytimes.com/article/nobel-prizes-2026.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/10/04/multimedia/04xp-nobels-wwk-sub-vfkm/04xp-nobels-wwk-sub-vfkm-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-10-05T12:13:34Z",
+      "content": "The recipients of the six awards in science, literature, economics and peace work are being announced this week."
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Medical Xpress"
+      },
+      "author": "Ingrid Fadelli",
+      "title": "Irrelevant visual details interfere with decisions under uncertainty, brain research shows - Medical Xpress",
+      "description": "Cognitive flexibility, the ability to adjust one's way of thinking or behavior as a situation changes, is known to gradually decline with age or due to some conditions, including Alzheimer's disease, Parkinson's disease, schizophrenia and substance use disord…",
+      "url": "https://medicalxpress.com/news/2026-10-irrelevant-visual-decisions-uncertainty-brain.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/irrelevant-details-int.jpg",
+      "publishedAt": "2026-10-04T12:00:07Z",
+      "content": "Cognitive flexibility, the ability to adjust one's way of thinking or behavior as a situation changes, is known to gradually decline with age or due to some conditions, including Alzheimer's disease,… [+7149 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Live Science"
+      },
+      "author": "Andrey Feldman",
+      "title": "Particle collider experiment recreates the Big Bang's primordial soup — and finds an unexpected twist - Live Science",
+      "description": "A particle collider experiment just revealed something unexpected about how the fiery soup of particles that filled the universe after the Big Bang coalesced into the protons and neutrons that make up matter today.",
+      "url": "https://www.livescience.com/physics-mathematics/particle-physics/particle-collider-experiment-recreates-the-big-bangs-primordial-soup-and-finds-an-unexpected-twist",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/VadUU8PUKqoxJsTCe52Hc9-2000-80.jpg",
+      "publishedAt": "2026-10-04T12:00:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Science Daily"
+      },
+      "author": null,
+      "title": "Scientists just found a new way to make hydrogen from water - ScienceDaily",
+      "description": "A new light-activated material can efficiently produce hydrogen from water without requiring an additional expensive metal catalyst. Researchers say its unusual sulfur-based chemistry could point toward cheaper and more practical ways to turn sunlight into cl…",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261001214017.htm",
+      "urlToImage": "https://www.sciencedaily.com/images/1920/clean-fuel-chemistry.webp",
+      "publishedAt": "2026-10-04T11:48:36Z",
+      "content": "Researchers at Oregon State University have created a new class of materials that can use light to produce hydrogen from water, offering a potentially cleaner way to convert solar energy into fuel.Th… [+4169 chars]"
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Selam Gebrekidan",
+      "title": "Who Owns the Moon?",
+      "description": "A treaty from the 1960s declared that nobody can own outer space. Half a century later, billionaires and superpowers see fortunes to be made nonetheless.",
+      "url": "https://www.nytimes.com/2026/10/04/world/asia/who-owns-moon.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/09/30/multimedia/00int-who-owns-the-moon-nasa-pcgm/00int-who-owns-the-moon-nasa-pcgm-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-10-04T09:06:41Z",
+      "content": "A treaty from the 1960s declared that nobody can own outer space. Half a century later, billionaires and superpowers see fortunes to be made nonetheless."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Selam Gebrekidan",
+      "title": "Superpowers Race to Put Nuclear Reactors on the Moon",
+      "description": "The United States wants a reactor on the moon by 2030. A Russian-Chinese alliance is working on one for 2036. Some leading scientists say the danger is great.",
+      "url": "https://www.nytimes.com/2026/10/04/world/asia/nuclear-reactors-moon.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/09/30/multimedia/00-nuclear-moon-01-plvq/00-nuclear-moon-01-plvq-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-10-04T09:00:29Z",
+      "content": "The United States wants a reactor on the moon by 2030. A Russian-Chinese alliance is working on one for 2036. Some leading scientists say the danger is great."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Clayton Dalton",
+      "title": "Scientists Warn of Another Unseen Risk From Fire: Ozone",
+      "description": "Small particulates sent up by wildfires are a well-documented health hazard. But recent research finds that ground-level ozone is now on the rise, too.",
+      "url": "https://www.nytimes.com/2026/10/04/science/ozone-wildfires-smoke.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/09/10/multimedia/00SCI-FIRES-01-tmgq/00SCI-FIRES-01-tmgq-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-10-04T09:00:20Z",
+      "content": "Small particulates sent up by wildfires are a well-documented health hazard. But recent research finds that ground-level ozone is now on the rise, too."
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Good News Network"
+      },
+      "author": "Good News Network",
+      "title": "Underwater Umbrellas Could Protect Coral Reefs From Heat Damage - Good News Network",
+      "description": "Underwater umbrellas could protect coral reefs from heat—and even partly reverse the bleaching, according to a new study by Florida scientists. Temporary shades placed over particularly vulnerable Caribbean corals can mitigate damage from high sea temperature…",
+      "url": "https://www.goodnewsnetwork.org/underwater-umbrellas-could-protect-coral-reefs-from-heat-damage/",
+      "urlToImage": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/Underwater-Coral-umbrellas-by-Nova-Southeastern-University-in-Florida-Journal-Frontiers-in-Marine-Science.jpeg",
+      "publishedAt": "2026-10-03T21:13:54Z",
+      "content": "Installing underwater coral umbrellas by Nova Southeastern University in Florida / Journal Frontiers in Marine Science\r\nUnderwater umbrellas could protect coral reefs from heatand even partly reverse… [+3559 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Archaeologymag.com"
+      },
+      "author": "Dario Radley",
+      "title": "Why the aurochs disappeared from Scandinavia: DNA, hunting, and expanding forests - Archaeology News Online Magazine",
+      "description": "Ancient DNA shows how inbreeding, hunting and habitat loss wiped out Scandinavia's aurochs, the wild ancestors of modern cattle.",
+      "url": "https://archaeologymag.com/2026/10/why-the-aurochs-disappeared-from-scandinavia/",
+      "urlToImage": "https://archaeologymag.com/wp-content/uploads/aurochs-in-scandinavia-1.jpg",
+      "publishedAt": "2026-10-03T20:21:26Z",
+      "content": "Aurochs were the wild ancestors of modern cattle. They once roamed Europe, Asia and northern Africa. Today they’re gone. The last one died in Poland in the 17th century, ending a decline of roughly 8… [+3471 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Phys.Org"
+      },
+      "author": null,
+      "title": "New reactor design improves plastic feedstock synthesis using oxygen and electricity - Phys.org",
+      "description": "A \"hidden variable\" that can determine the success or failure of a chemical reaction has been found in the immediate vicinity of electrodes.",
+      "url": "https://phys.org/news/2026-09-reactor-plastic-feedstock-synthesis-oxygen.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/2026/producing-plastic-feed.jpg",
+      "publishedAt": "2026-10-03T19:20:01Z",
+      "content": "A \"hidden variable\" that can determine the success or failure of a chemical reaction has been found in the immediate vicinity of electrodes.\r\nA research team led by Jaeyune Ryu, a professor in the De… [+10858 chars]"
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Carolyn Y. Johnson",
+      "title": "Scientists Untangle the Biology of an ‘Undruggable’ Cancer Gene",
+      "description": "Found in 70 percent of cancers, the gene is seen as a grand orchestrator, but has been surprisingly difficult to stop.",
+      "url": "https://www.nytimes.com/2026/10/02/science/scientists-untangle-the-biology-of-an-undruggable-cancer-gene.html",
+      "urlToImage": null,
+      "publishedAt": "2026-10-03T19:09:42Z",
+      "content": "Found in 70 percent of cancers, the gene is seen as a grand orchestrator, but has been surprisingly difficult to stop."
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Futurism"
+      },
+      "author": "Frank Landymore",
+      "title": "Rag Tag Team of Biologists Who Lost Funding Because of Trump Turned a Motel Room into Makeshift Lab and Made a Groundbreaking Discovery - Futurism",
+      "description": "A team of biologists brought together by Trump's funding cuts continued their research in a motel room and made a significant discovery.",
+      "url": "https://futurism.com/science-energy/biologists-trump-funding-motel-discovery",
+      "urlToImage": "https://futurism.com/wp-content/uploads/2026/09/biologists-trump-funding-motel-discovery.jpg?quality=85&w=1200",
+      "publishedAt": "2026-10-03T19:01:00Z",
+      "content": "Can’t-miss innovations from the bleeding edge of science and tech\r\nBrought together by Trump’s funding cuts, Julia Van Etten and her rag tag team of biologists pursued their research in a motel room.… [+2911 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Thebrighterside.news"
+      },
+      "author": "Joshua Shavit",
+      "title": "Scientists find evidence for several Earth axis shifts during the age of dinosaurs - The Brighter Side of News",
+      "description": "Ancient flooding patterns reveal evidence that Earth’s crust and mantle rapidly shifted relative to the spin axis several times.",
+      "url": "https://www.thebrighterside.news/post/scientists-find-evidence-for-several-earth-axis-shifts-during-the-age-of-dinosaurs/#article",
+      "urlToImage": "https://www.thebrighterside.news/uploads/2026/10/axis-shift.png?auto=webp",
+      "publishedAt": "2026-10-03T18:07:00Z",
+      "content": "<ul><li>A new study finds evidence that Earth may have undergone several episodes of rapid true polar wander during the past 320 million years, with the strongest signals in the Jurassic and Cretaceo… [+10014 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Phys.Org"
+      },
+      "author": null,
+      "title": "Q&A: An Earth-like planet with two suns? - Phys.org",
+      "description": "A nearby star system with two suns could potentially support an Earth-sized planet in a region where liquid water could exist, according to a new paper examining the dynamics of the system.",
+      "url": "https://phys.org/news/2026-09-qa-earth-planet-suns.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/2026/opiuchi-70.jpg",
+      "publishedAt": "2026-10-03T17:00:01Z",
+      "content": "A nearby star system with two suns could potentially support an Earth-sized planet in a region where liquid water could exist, according to a new paper examining the dynamics of the system.\r\nThe pape… [+6037 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Phys.Org"
+      },
+      "author": "Sam Jarman",
+      "title": "Visible light does not speed up water evaporation, rigorous experiments suggest - Phys.org",
+      "description": "In recent experiments involving hydrogels and water droplets, researchers have proposed that exposure to visible light could make water evaporate faster without heating it. However, direct evidence that light acts on water itself has proven elusive.",
+      "url": "https://phys.org/news/2026-10-visible-evaporation-rigorous.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/visible-light-doesnt-s.jpg",
+      "publishedAt": "2026-10-03T16:40:01Z",
+      "content": "In recent experiments involving hydrogels and water droplets, researchers have proposed that exposure to visible light could make water evaporate faster without heating it. However, direct evidence t… [+4026 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Snowbrains.com"
+      },
+      "author": "Brent Glogau",
+      "title": "I Finally Bought an Electric Mountain Bike and It Has Been Life Changing - SnowBrains",
+      "description": "A longtime mountain biker explains five reasons why buying an eMTB was a game-changer for maximizing fun on two wheels.",
+      "url": "https://snowbrains.com/why-you-should-get-an-emtb-reasons-to-buy/",
+      "urlToImage": "https://i0.wp.com/snowbrains.com/wp-content/uploads/2026/09/Specialized-Levo-R-S-.webp?fit=1200%2C800&ssl=1",
+      "publishedAt": "2026-10-03T16:00:13Z",
+      "content": "Is life-changing an exaggeration? I don’t think so. Credit: BikeRadar\r\nI have been mountain biking for over a quarter century, but until recently I had held out on buying an electric mountain bike (e… [+8909 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Discoverwildlife.com"
+      },
+      "author": "Debbie Graham",
+      "title": "The oldest thing on Earth is a massive 4.4 billion years old – and there’s more to it than meets the eye - BBC Wildlife Magazine",
+      "description": "The Jack Hills in Western Australia are home to ancient zircon crystals that offer remarkable clues about Earth’s early crust, water, and the origins of life.",
+      "url": "https://www.discoverwildlife.com/prehistoric-life/jack-hills",
+      "urlToImage": "https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/9ac494a4-627d-4fea-a827-dcf588dd6f96/94392969-4e67-4d4b-8890-979aff1807bd/thumbnails/bb7cd5a4-cc5a-4114-8fdf-efd4a11a431c.jpg?appId=f347d34d-c1a6-4a00-b570-b78c2dcb3211&platform=WEB&w=1200",
+      "publishedAt": "2026-10-03T13:12:27Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Phys.Org"
+      },
+      "author": null,
+      "title": "Milky Way may have begun as thousands of galaxies, new simulations suggest - Phys.org",
+      "description": "In the early days of the universe, our home looked very different from how it does today. Back then, the region in our universe that would eventually become our Milky Way neighborhood was a collection of thousands of smaller galaxies—some pumping out tons of …",
+      "url": "https://phys.org/news/2026-09-milky-begun-thousands-galaxies-simulations.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/computer-simulation-sh.jpg",
+      "publishedAt": "2026-10-03T13:00:07Z",
+      "content": "In the early days of the universe, our home looked very different from how it does today. Back then, the region in our universe that would eventually become our Milky Way neighborhood was a collectio… [+8146 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Seattle Times"
+      },
+      "author": "Ann Duan",
+      "title": "What happened to Seattle’s dinosaurs at the Pacific Science Center? - The Seattle Times",
+      "description": "A triceratops and stegosaurus, which have waded in PacSci’s now-empty reflecting pool for 35 years, were removed this month.",
+      "url": "https://www.seattletimes.com/seattle-news/what-happened-to-seattles-dinosaurs-at-the-pacific-science-center/",
+      "urlToImage": "https://images.seattletimes.com/wp-content/uploads/2026/10/10022026_tzr_tzr_202457.jpg?d=1200x630",
+      "publishedAt": "2026-10-03T13:00:00Z",
+      "content": "Dinosaurs defined the Triassic, Jurassic and Cretaceous periods millions of years ago. They saw Pangea break apart, plants push out of the earth and the earliest birds and mammals come to life. \r\nThe… [+4062 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "404media.co"
+      },
+      "author": "Becky Ferreira",
+      "title": "Our Solar System Is Terminally Unstable and Will Be Completely Destroyed, Study Finds - 404 Media",
+      "description": "The estimated lifespan of the outer solar system has been downgraded from 100 billion years to just a few billion years, according to a study that probed “terminal instability” during the Sun’s death.",
+      "url": "https://www.404media.co/our-solar-system-is-terminally-unstable-and-will-be-completely-destroyed-study-finds/",
+      "urlToImage": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/10/Snowball_Huronian.jpg",
+      "publishedAt": "2026-10-03T11:03:58Z",
+      "content": "Welcome back to the Abstract! These are the studies this week that searched for the ur-animals, wandered the poles, rained on Mars, and destroyed the solar system.\r\nFirst, scientists present new evid… [+8625 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Phys.Org"
+      },
+      "author": null,
+      "title": "Cooper pairs found above superconducting critical temperature in pair density waves - Phys.org",
+      "description": "Physicists with the University of Illinois Urbana-Champaign's Grainger College of Engineering have identified a new form of superconducting behavior. Experiments on the metal uranium ditelluride reveal that Cooper pairs, the composite electron units responsib…",
+      "url": "https://phys.org/news/2026-10-cooper-pairs-superconducting-critical-temperature.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/the-cheshire-cats-grin.jpg",
+      "publishedAt": "2026-10-03T11:00:01Z",
+      "content": "Physicists with the University of Illinois Urbana-Champaign's Grainger College of Engineering have identified a new form of superconducting behavior. Experiments on the metal uranium ditelluride reve… [+10139 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Live Science"
+      },
+      "author": "Donald R. Prothero, Hannah Osborne",
+      "title": "'Giant tusks from Siberia were thought to be the horns of the mythical unicorn': What medieval people made of fossils before vertebrate paleontology - Live Science",
+      "description": "In this excerpt from \"The Story of the Mammals in 25 Discoveries,\" author Donald R. Prothero looks at a time when the idea of extinction was blasphemous.",
+      "url": "https://www.livescience.com/animals/extinct-species/giant-tusks-from-siberia-were-thought-to-be-the-horns-of-the-mythical-unicorn-what-medieval-people-made-of-fossils-before-vertebrate-paleontology",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/FvpB5VGUMyYEM8jjw3A4RB-2000-80.jpg",
+      "publishedAt": "2026-10-03T11:00:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": "Stephen Dowling",
+      "title": "Canada's Atlantic waters are attracting more great white sharks - BBC",
+      "description": "In the past decade, many more great white sharks are being seen in Canada's Atlantic waters. What's drawing them so far north?",
+      "url": "https://www.bbc.com/future/article/20261002-canadas-atlantic-waters-are-attracting-more-great-white-sharks",
+      "urlToImage": "https://ychef.files.bbci.co.uk/624x351/p0pdprcb.jpg",
+      "publishedAt": "2026-10-03T09:01:03Z",
+      "content": "Alanna Canaran, a dive instructor and ocean science educator based in Novia Scotia's capital, Halifax, first moved to the province from Toronto in 2010. \"In that time in Nova Scotia, it was pretty un… [+191 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Live Science"
+      },
+      "author": "Ashley Hamer Pritchard",
+      "title": "Could we ever create artificial gravity on a spaceship? - Live Science",
+      "description": "Microgravity poses severe health risks for astronauts. But could there be a solution?",
+      "url": "https://www.livescience.com/space/space-exploration/could-we-ever-create-artificial-gravity-on-a-spaceship",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/E3k4LCxfyfNdUEkvYaYizj-1920-80.jpg",
+      "publishedAt": "2026-10-03T09:00:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Brad Plumer",
+      "title": "California Sues to Block Trump From Weakening Fuel Economy Rules",
+      "description": "The lawsuit is the 97th the state has filed against the Trump administration over the past year and a half.",
+      "url": "https://www.nytimes.com/2026/10/02/climate/california-trump-administration-fuel-economy.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/10/02/multimedia/02cli-autoemissions-wklq/02cli-autoemissions-wklq-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-10-02T23:35:31Z",
+      "content": "The lawsuit is the 97th the state has filed against the Trump administration over the past year and a half."
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Phys.Org"
+      },
+      "author": null,
+      "title": "Team selected for NASA program to explore potential lunar cave - phys.org",
+      "description": "NASA has selected a Planetary Science Institute–led proposal to investigate whether a potentially large underground cave extends beyond the opening of a lunar pit. Such a cave may one day provide a safe haven for astronauts to escape the radiation and extreme…",
+      "url": "https://phys.org/news/2026-10-team-nasa-explore-potential-lunar.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/psi-led-team-selected.jpg",
+      "publishedAt": "2026-10-02T23:20:06Z",
+      "content": "NASA has selected a Planetary Science Instituteled proposal to investigate whether a potentially large underground cave extends beyond the opening of a lunar pit. Such a cave may one day provide a sa… [+4949 chars]"
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Christina Jewett, Alice Callahan and Caroline Hopkins Legaspi",
+      "title": "F.D.A. Found Cyclospora During Taylor Farms Inspection in Mexico",
+      "description": "The discovery adds strong evidence that the outbreak that sickened thousands over the summer originated in a grower’s field or processing facility.",
+      "url": "https://www.nytimes.com/2026/10/02/health/cyclospora-taylor-farms-mexico.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/10/02/multimedia/02dc-cyclospora-vphc/02dc-cyclospora-vphc-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-10-02T22:25:24Z",
+      "content": "The discovery adds strong evidence that the outbreak that sickened thousands over the summer originated in a grower’s field or processing facility."
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Science.org"
+      },
+      "author": "Science | AAAS",
+      "title": "Six biology breakthroughs that should have won a Nobel Prize—but didn’t - Science | AAAS",
+      "description": null,
+      "url": "https://www.science.org/content/article/six-biology-breakthroughs-should-have-won-nobel-prize-didn-t",
+      "urlToImage": null,
+      "publishedAt": "2026-10-02T21:19:00Z",
+      "content": null
+    },
     {
       "source": {
         "id": null,
@@ -34,16 +492,42 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "WRAL.com"
+        "id": "the-new-york-times",
+        "name": "The New York Times"
       },
-      "author": "Tony Rice, NASA Ambassador",
-      "title": "Look up: Saturn is at its brightest this weekend - WRAL",
-      "description": "The ringed planet reaches opposition this weekend, bringing it closest to Earth and brighter in our sky than at any other time this year.",
-      "url": "https://www.wral.com/news/local/saturn-opposition-oct-2026/",
-      "urlToImage": "https://images.wral.com/21830313-4668-4b16-9e36-8e4b19f2a8ec?w=1200&h=630&height=630",
-      "publishedAt": "2026-10-02T17:04:08Z",
-      "content": "Saturn is at its biggest and brightest as the ringed planet reaches opposition this weekend. \r\nOpposition happens as Earth passes between Saturn and the Sun, bringing the planet to its closest point … [+1753 chars]"
+      "author": "Brad Plumer",
+      "title": "States Sue Over Trump’s Repeal of Climate Rules for Power Plants",
+      "description": "The mostly Democratic-led states say that the E.P.A. acted unlawfully when it erased Biden-era limits on carbon dioxide from coal- and gas-fired plants.",
+      "url": "https://www.nytimes.com/2026/10/01/climate/states-sue-epa-power-plant-trump.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/10/01/multimedia/01cli-epa-lawsuit-kqvc/01cli-epa-lawsuit-kqvc-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-10-02T19:22:49Z",
+      "content": "The mostly Democratic-led states say that the E.P.A. acted unlawfully when it erased Biden-era limits on carbon dioxide from coal- and gas-fired plants."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Adam Sella, Christopher Flavelle and Irena Hwang",
+      "title": "National Science Foundation Diverted $1.4 Billion in Science Funds Mandated by Congress",
+      "description": "The move, affecting about one-fifth of the National Science Foundation’s primary research budget, is the latest sign of how the White House is asserting more control over grants.",
+      "url": "https://www.nytimes.com/2026/10/02/us/politics/national-science-foundation-research-funds.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/10/01/multimedia/00dc-nsf-funding-qlvb/00dc-nsf-funding-qlvb-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-10-02T18:41:42Z",
+      "content": "The move, affecting about one-fifth of the National Science Foundation’s primary research budget, is the latest sign of how the White House is asserting more control over grants."
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Live Science"
+      },
+      "author": "Kenna Hughes-Castleberry",
+      "title": "Animals may have evolved 200 million years earlier than previously thought, new study suggests - Live Science",
+      "description": "After using a technique called molecular clock analysis, researchers have proposed that the origin of animals could be 200 million years earlier than thought.",
+      "url": "https://www.livescience.com/planet-earth/evolution/animals-may-have-evolved-200-million-years-earlier-than-previously-thought-new-study-suggests",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/bKEidMK3oDDwxRX8T93KsH-2000-80.jpg",
+      "publishedAt": "2026-10-02T18:00:00Z",
+      "content": null
     },
     {
       "source": {
@@ -61,15 +545,80 @@
     {
       "source": {
         "id": null,
-        "name": "Space.com"
+        "name": "Phys.Org"
       },
-      "author": "Daisy Dobrijevic",
-      "title": "Earth's hidden daytime auroras revealed from space | Space photo of the day for Oct. 2, 2026 - Space",
-      "description": "This remarkable view of Earth shows the northern lights encircling Earth.",
-      "url": "https://www.space.com/stargazing/auroras/earths-hidden-daytime-auroras-revealed-from-space-space-photo-of-the-day-for-oct-2-2026",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/VVRr5TewwxfnzDwyauRuLU.gif",
+      "author": null,
+      "title": "A 'reality check' for lab-grown human embryo models - Phys.org",
+      "description": "University of Sydney researchers have developed a new way to test how closely lab-grown biological models resemble real human embryos, finding that while some models perform well, none yet fully capture the complexity of early human development.",
+      "url": "https://phys.org/news/2026-10-reality-lab-grown-human-embryo.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2022/embryo.jpg",
+      "publishedAt": "2026-10-02T15:00:29Z",
+      "content": "University of Sydney researchers have developed a new way to test how closely lab-grown biological models resemble real human embryos, finding that while some models perform well, none yet fully capt… [+4900 chars]"
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Danny Hakim",
+      "title": "What Is Out There? The Findings So Far of a Trump-Backed U.F.O. Panel.",
+      "description": "Uncovering evidence of alien life would be “the biggest discovery ever made by humanity,” one expert said. But so far, there’s a lot of blurry photos and unconfirmed reports.",
+      "url": "https://www.nytimes.com/2026/10/02/us/trump-ufo-files-uap-council.html",
+      "urlToImage": null,
+      "publishedAt": "2026-10-02T14:40:54Z",
+      "content": "Uncovering evidence of alien life would be “the biggest discovery ever made by humanity,” one expert said. But so far, there’s a lot of blurry photos and unconfirmed reports."
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Nautil.us"
+      },
+      "author": "Devin Reese",
+      "title": "There’s a New Sea Spider in Town - Nautilus | Science Connected",
+      "description": "Just when you think sea spiders couldn’t get any more unique…",
+      "url": "https://nautil.us/theres-a-new-sea-spider-in-town-1285470",
+      "urlToImage": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/10/callipallene-pilosuspedes-credit_-cormac-toler-scott.jpg",
       "publishedAt": "2026-10-02T14:00:00Z",
-      "content": null
+      "content": "What has hairy feet, legs dotted with eggs, and a mouth loaded with tentacles like a Sarlacc from Star Wars? \r\nThats how researchers from the University of British Columbia describe seven such creatu… [+2437 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Boredpanda.com"
+      },
+      "author": "Linas Jokubaitis",
+      "title": "Galaxy Rotation Brings Scientists To The Conclusion That Our Entire Universe Is Inside A Black Hole - Bored Panda",
+      "description": "The universe may be 13.8 billion years old, but there’s still plenty we don’t understand about the cosmos. A researcher analyzing observations from the James Webb Space Telescope has spotted a puzzling pattern in how distant galaxies rotate. The finding has r…",
+      "url": "https://www.boredpanda.com/universe-black-hole-discovery/",
+      "urlToImage": "https://static.boredpanda.com/blog/wp-content/uploads/2026/10/universe-black-hole-discovery-fb20.jpg",
+      "publishedAt": "2026-10-02T13:14:02Z",
+      "content": "At roughly 13.8 billion years old, the universe has never exactly been short on mysteries. Countless generations had little means of understanding what lay beyond our world, relying instead on myths … [+7167 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Popular Mechanics"
+      },
+      "author": "Elizabeth Rayne",
+      "title": "Something Deep Inside the Earth Is Messing With Time—and Making Days Longer Than 24 Hours - AOL.com",
+      "description": "A hidden battle of torques 3,000 miles beneath your feet decides whether today runs long or short.",
+      "url": "https://www.popularmechanics.com/science/a73961847/deep-earth-length-days/",
+      "urlToImage": "https://hermes.media.static.aol.com/media/2026/10/02/2d865976-6f52-3637-b02d-7b88c0f84252/c05c48a0-f22b-47cc-8e4b-445e6dc15c78.jpeg",
+      "publishedAt": "2026-10-02T13:00:00Z",
+      "content": "\"Hearst Magazines and AOL may earn commission or revenue on some items through these links.\"\r\nHeres what youll learn when you read this story:\r\n<ul><li>When the rotation of Earths axis speeds up or s… [+4405 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "SpaceNews"
+      },
+      "author": "Dennis Meredith",
+      "title": "Space exploration should learn from deep sea technology - SpaceNews",
+      "description": "Space exploration should learn from deep sea technology",
+      "url": "https://spacenews.com/space-exploration-should-learn-from-deep-sea-technology/",
+      "urlToImage": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/04/axiom-kscvc.jpeg?fit=2000%2C1617&ssl=1",
+      "publishedAt": "2026-10-02T13:00:00Z",
+      "content": "When the Artemis astronauts step onto the lunar surface, they will have spent considerable time and effort installing themselves in their bulky, heavy spacesuits. They will lumber onto the surface ha… [+313 chars]"
     },
     {
       "source": {
@@ -126,15 +675,15 @@
     {
       "source": {
         "id": null,
-        "name": "Island Free Press"
+        "name": "Nature.com"
       },
       "author": null,
-      "title": "Night Sky: Orionids Meteor Shower, and more highlights for October - Island Free Press",
-      "description": "Special Nor’easter Addition Unfortunately, the large nor’easter that took out NC 12 also took out a part of my observatory. Everything is pretty much back to normal now, but the […]",
-      "url": "https://islandfreepress.org/hatteras-island-features/night-sky-orionids-meteor-shower-and-more-highlights-for-october/",
-      "urlToImage": "https://islandfreepress.org/wp-content/uploads/2026/10/nightsky1.jpg",
-      "publishedAt": "2026-10-02T11:09:28Z",
-      "content": "Special Noreaster Addition\r\nUnfortunately, the large noreaster that took out NC 12 also took out a part of my observatory. Everything is pretty much back to normal now, but the repairs left me runnin… [+1271 chars]"
+      "title": "Stunning fossil shows dinosaurs’ distinctive path to flight - Nature",
+      "description": "A fossil from a previously undiscovered species with feathery limbs, unearthed in China, adds to evidence that dinosaurs and birds evolved flight more than once.",
+      "url": "https://www.nature.com/articles/d41586-026-03126-8",
+      "urlToImage": "https://media.nature.com/lw1200/magazine-assets/d41586-026-03126-8/d41586-026-03126-8_53799764.jpg",
+      "publishedAt": "2026-10-02T11:54:39Z",
+      "content": "The Norellraptor barsboldi fossil shows traces of feathers on its fore and hind limbs as well as at the end of its tail. Credit: Xuri Wang et al./Nat. Commun.\r\nThe discovery of a species of feathered… [+2502 chars]"
     },
     {
       "source": {
@@ -148,58 +697,6 @@
       "urlToImage": "https://www.sciencealert.com/images/2026/10/Untitled-Design-79.jpg",
       "publishedAt": "2026-10-02T11:04:00Z",
       "content": "Unlike what a certain donut company suggests, the world actually runs on magnetism.\r\nIt's essential for generating power, building (electric) vehicles, and powering life-saving medical technologies l… [+5497 chars]"
-    },
-    {
-      "source": {
-        "id": "associated-press",
-        "name": "Associated Press"
-      },
-      "author": "Marcia Dunn",
-      "title": "Astronauts arrive at International Space Station on the quickest US express flight yet - AP News",
-      "description": "Four astronauts have arrived at the International Space Station following an express eight-hour flight. SpaceX launched the U.S., Canadian and Russian crew on Thursday. Although their space station stay will last a long six months, the flight there was the qu…",
-      "url": "https://apnews.com/article/spacex-nasa-astronauts-crew-13-d885ec0dcb9fab8bbf8977103118caa0",
-      "urlToImage": "https://dims.apnews.com/dims4/default/554a02a/2147483647/strip/true/crop/4200x2799+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fc9%2Fc0%2Fec9df873ccb10ee3c1f277fd8cce%2F2fd674be0f0c4f7885dbce1cc5fd1f45",
-      "publishedAt": "2026-10-02T11:02:00Z",
-      "content": "CAPE CANAVERAL, Fla. (AP) Four astronauts pulled up at the International Space Station on Thursday after launching on an eight-hour express that set a U.S. speed record.\r\nThe fresh arrivals include a… [+3571 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Live Science"
-      },
-      "author": "Kristina Killgrove",
-      "title": "The ancestors of today's Indigenous people arrived in the Americas during the coldest part of the last ice age, study suggests - livescience.com",
-      "description": "The first people in the Americas arrived no earlier than 21,000 years ago, but 'there are huge gaps in our genetic dataset,' a new study reports.",
-      "url": "https://www.livescience.com/archaeology/americas/the-ancestors-of-todays-indigenous-people-arrived-in-the-americas-during-the-coldest-part-of-the-last-ice-age-study-suggests",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/Vp6GRH9AbhkQP842kyqjNH-1920-80.png",
-      "publishedAt": "2026-10-02T11:00:00Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Nature.com"
-      },
-      "author": null,
-      "title": "Synergy between Enterobacteriaceae and diet mediates competition between dominant Bacteroidales in the human gut - Nature",
-      "description": "Multiomic experiments using defined and native gut communities reveal that complex dietary glycans mediate the dominance of Prevotellaceae in non-industrialized gut metagenomes through signalling-mediated cross-feeding with Enterobacteriaceae.",
-      "url": "https://www.nature.com/articles/s41564-026-02500-6",
-      "urlToImage": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41564-026-02500-6/MediaObjects/41564_2026_2500_Fig1_HTML.png",
-      "publishedAt": "2026-10-02T10:37:18Z",
-      "content": "Bacterial strains and culture conditions\r\nAll strains used in this study are listed in Supplementary Table 1.\r\nGut commensal isolates and community assemblies were cultured in a flexible anaerobic ch… [+24286 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Live Science"
-      },
-      "author": "Tom Metcalfe",
-      "title": "'It's a portrait of their actual ancestor': Facial reconstruction of Indigenous man who lived in Ecuador 3,000 years ago shared with his descendants - Live Science",
-      "description": "You can now see a facial reconstruction — and the particular hairstyle — of a man who lived more than 3,000 years ago in what is now Ecuador.",
-      "url": "https://www.livescience.com/archaeology/americas/its-a-portrait-of-their-actual-ancestor-facial-reconstruction-of-indigenous-man-who-lived-in-ecuador-3-000-years-ago-shared-with-his-descendants",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/TGdjfHrqZm37EhMkHU9tK5.gif",
-      "publishedAt": "2026-10-02T10:00:00Z",
-      "content": null
     },
     {
       "source": {
@@ -217,67 +714,80 @@
     {
       "source": {
         "id": null,
-        "name": "Gizmodo.com"
+        "name": "Science Daily"
       },
-      "author": "Ellyn Lapointe",
-      "title": "Scientists Invent Underwater Umbrellas to Protect Coral Reefs—and It Appears to Be Working - Gizmodo",
-      "description": "The world's coral reefs are in crisis, but a crafty solution could help.",
-      "url": "https://gizmodo.com/scientists-invent-underwater-umbrellas-to-protect-coral-reefs-and-it-appears-to-be-working-2000819444",
-      "urlToImage": "https://gizmodo.com/app/uploads/2026/09/researchers-setting-up-coral-umbrella-1200x675.jpg",
-      "publishedAt": "2026-10-02T04:00:56Z",
-      "content": "Earth is in the midst of its fourth global coral bleaching event. Scientists expect that by 2050, the world’s oceans will have warmed so much that most reefs suffer mass bleaching every year. A surpr… [+4864 chars]"
+      "author": null,
+      "title": "Scientists find a surprising clue to why the universe’s expansion doesn’t add up - ScienceDaily",
+      "description": "Tiny magnetic fields created shortly after the Big Bang may help explain the long-running disagreement over how fast the universe is expanding. Detailed simulations show that these primordial fields could have changed the formation of hydrogen in the early un…",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261002080026.htm",
+      "urlToImage": "https://www.sciencedaily.com/images/1920/cosmic-explosion-big-bang-universe-creation-gravitational-waves.webp",
+      "publishedAt": "2026-10-02T07:00:00Z",
+      "content": "It’s well established that the universe is expanding, but there’s serious disagreement among scientists over how fast it’s happening.Two of our best ways of measuring the cosmic expansion rate, the H… [+5959 chars]"
     },
     {
       "source": {
-        "id": null,
-        "name": "ScienceAlert"
+        "id": "the-new-york-times",
+        "name": "The New York Times"
       },
-      "author": "Ivan Farkas",
-      "title": "Physicists Find a Superconductor That 'Breaks' The Symmetry of Time – A First For Its Kind - ScienceAlert",
-      "description": "Under certain conditions – such as bone-brittling temperatures lower than that of deep space – superconductors can conduct electricity without resistance and resultant energy loss.  Though they vary in their chemical composition, operational temperature range…",
-      "url": "https://www.sciencealert.com/physicists-find-a-superconductor-that-breaks-the-symmetry-of-time-a-first-for-its-kind",
-      "urlToImage": "https://www.sciencealert.com/images/2026/10/TimeSymmetry.jpg",
-      "publishedAt": "2026-10-02T00:27:09Z",
-      "content": "Under certain conditions such as bone-brittling temperatures lower than that of deep space superconductors can conduct electricity without resistance and resultant energy loss. \r\nThough they vary in … [+5539 chars]"
+      "author": "Benjamin Mueller and Shaila Dewan",
+      "title": "How Did Christa Pike Survive Two Lethal Injections of Pentobarbital?",
+      "description": "A catheter carrying the drug may not have delivered the doses to Ms. Pike’s bloodstream, experts said. The drug itself may have been degraded.",
+      "url": "https://www.nytimes.com/2026/10/01/science/pike-execution-pentobarbital.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/10/01/multimedia/01sci-pentobarbital-vckq/01sci-pentobarbital-vckq-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-10-01T22:30:28Z",
+      "content": "A catheter carrying the drug may not have delivered the doses to Ms. Pike’s bloodstream, experts said. The drug itself may have been degraded."
     },
     {
       "source": {
-        "id": null,
-        "name": "Sci.news"
+        "id": "the-new-york-times",
+        "name": "The New York Times"
       },
-      "author": "Enrico de Lazaro",
-      "title": "Dinosaur-Era Mammal Swam Like Platypus and Replaced Its Teeth Multiple Times - Sci.News",
-      "description": "Dongoconodon platycauda, a small eutriconodontan mammal that lived alongside dinosaurs in what is now northeastern China paddled through the water with webbed, platypus-like hands and feet, and replaced its teeth multiple times.",
-      "url": "https://www.sci.news/paleontology/dongoconodon-platycauda-15104.html",
-      "urlToImage": "https://cdn.sci.news/images/2026/10/image_15104f-Dongoconodon-platycauda.jpg",
-      "publishedAt": "2026-10-01T22:29:50Z",
-      "content": "Dongoconodon platycauda, a small eutriconodontan mammal that lived alongside dinosaurs in what is now northeastern China paddled through the water with webbed, platypus-like hands and feet, and repla… [+4102 chars]"
+      "author": "Andrew Jacobs",
+      "title": "Cornell’s Jane Doe Said She Was Given Ketamine. Here’s How the Drug Works.",
+      "description": "Ketamine is a short-acting anesthetic that can have hallucinogenic effects. It is becoming more easily available, and some experts fear misuse is increasing.",
+      "url": "https://www.nytimes.com/2026/09/30/science/cornell-rape-ketamine.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/09/30/multimedia/30sci-ketamine-01-vjzf/30sci-ketamine-01-vjzf-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-10-01T21:08:47Z",
+      "content": "Ketamine is a short-acting anesthetic that can have hallucinogenic effects. It is becoming more easily available, and some experts fear misuse is increasing."
     },
     {
       "source": {
-        "id": null,
-        "name": "Phys.Org"
+        "id": "the-new-york-times",
+        "name": "The New York Times"
       },
-      "author": "Sam Jarman",
-      "title": "Hidden 'funnels' let complex systems slip between stable states - Phys.org",
-      "description": "Many systems in nature can settle into several different stable states, with the final state depending on their starting conditions. However, the boundaries separating these states are often far more complicated than they first appear.",
-      "url": "https://phys.org/news/2026-09-hidden-funnels-complex-stable-states.html",
-      "urlToImage": "https://scx2.b-cdn.net/gfx/news/2026/hidden-funnels-let-com.jpg",
-      "publishedAt": "2026-10-01T19:20:19Z",
-      "content": "Many systems in nature can settle into several different stable states, with the final state depending on their starting conditions. However, the boundaries separating these states are often far more… [+3941 chars]"
+      "author": "Claire Brown",
+      "title": "The MacArthur ‘Genius’ Studying Sea Ice Secrets",
+      "description": "A climate scientist was one of 20 recipients of a “no-strings-attached” $800,000 stipend.",
+      "url": "https://www.nytimes.com/2026/10/01/climate/climate-science-macarthur.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/10/01/multimedia/01cli-newsletter-macarthur-pbzm/01cli-newsletter-macarthur-pbzm-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-10-01T20:06:37Z",
+      "content": "A climate scientist was one of 20 recipients of a “no-strings-attached” $800,000 stipend."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Clarence Williams",
+      "title": "Prosecutors Cannot Revive Reflecting Pool Case Against Ex-Olympian, Judge Rules",
+      "description": "A charge against David Hearn was dismissed “with prejudice” because of President Trump’s attempts to influence the case.",
+      "url": "https://www.nytimes.com/2026/10/01/climate/david-hearn-reflecting-pool-charges-dropped.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/10/01/multimedia/01cli-hearn-01-mglj/01cli-hearn-01-mglj-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-10-01T19:51:40Z",
+      "content": "A charge against David Hearn was dismissed “with prejudice” because of President Trump’s attempts to influence the case."
     },
     {
       "source": {
         "id": null,
         "name": "Gadgetreview.com"
       },
-      "author": "Rex Edison",
-      "title": "Scientists Found a “Third State” Of Being Between Life and Death - Yahoo",
+      "author": "https://www.facebook.com/iamrexedison/",
+      "title": "Scientists Found a “Third State” Of Being Between Life and Death - Gadget Review",
       "description": "Frog and human cells can reorganize after removal from their host, raising open questions about biological death and potential uses in regenerative medicine.",
       "url": "https://www.gadgetreview.com/scientists-found-a-third-state-of-being-between-life-and-death",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/4bcaf09fa1502530e2fdd7fdc4febb83e764e6c5748903e5c0ffcbdebe34f8d9/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fgadget_review_articles_822%2F026650aa1fcec9895dfdefb273cf045a.jpg",
+      "urlToImage": "https://www.gadgetreview.com/wp-content/uploads/Scientists-Find-Cells-Can-Reorganize-After-Death-scaled.jpg",
       "publishedAt": "2026-10-01T18:27:17Z",
-      "content": "Skin cells taken from frog embryos, placed in a controlled lab environment, can reorganize into entirely new multicellular structures that move and perform functions those cells never performed insid… [+6400 chars]"
+      "content": "Tufts and Vermont researchers document frog and human cells self-assembling into mobile structures after removal, challenging fixed ideas about biological deathSkin cells taken from frog embryos, pla… [+6427 chars]"
     },
     {
       "source": {
@@ -294,211 +804,42 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "Gizmodo.com"
+        "id": "the-new-york-times",
+        "name": "The New York Times"
       },
-      "author": "Gayoung Lee",
-      "title": "Earth Tipped on Its Side During the Age of Dinosaurs—and Not Just Once - Gizmodo",
-      "description": "When Earth tips over to restore its rotational balance, sea levels shift around the globe—episodes scientists have now traced to the age of dinosaurs.",
-      "url": "https://gizmodo.com/earth-tipped-on-its-side-during-the-age-of-dinosaurs-and-not-just-once-2000820281",
-      "urlToImage": "https://gizmodo.com/app/uploads/2026/10/earth-from-space-wide-beauty-shot-1200x675.jpg",
-      "publishedAt": "2026-10-01T18:00:25Z",
-      "content": "Earth is definitely not flat, but its not perfectly spherical, either. Due to its constant rotation, our Earth is closer to a squashed elliptoid. What this also means is that occasionally, the geogra… [+4725 chars]"
+      "author": "Raymond Zhong",
+      "title": "See How El Niño Is Washing Ashore in California",
+      "description": "An enormous pulse of wave energy will soon reach Southern California and continue north, raising sea levels by half a foot and increasing threats from swells and tides.",
+      "url": "https://www.nytimes.com/2026/09/30/climate/el-nino-storm-flooding-kelvin-waves.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/09/30/multimedia/30cli-elnino-wave-fzkw/30cli-elnino-wave-fzkw-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-10-01T17:38:20Z",
+      "content": "An enormous pulse of wave energy will soon reach Southern California and continue north, raising sea levels by half a foot and increasing threats from swells and tides."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Cade Metz",
+      "title": "A Hacking Competition Shows the Power of China’s Approach to A.I.",
+      "description": "The winner of a cybersecurity contest prevailed by relying on an ‘open weight’ Chinese model — another sign that available A.I. systems could already be too powerful to easily regulate.",
+      "url": "https://www.nytimes.com/2026/10/01/science/hackerone-tenzai-china-open-weights.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/10/01/multimedia/01sci-open-hacking-mcvp/01sci-open-hacking-mcvp-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-10-01T13:43:23Z",
+      "content": "The winner of a cybersecurity contest prevailed by relying on an ‘open weight’ Chinese model — another sign that available A.I. systems could already be too powerful to easily regulate."
     },
     {
       "source": {
         "id": null,
-        "name": "DOGOnews"
+        "name": "NASA"
       },
-      "author": "Fiza Shaikh",
-      "title": "NASA Plans To Build A Permanent Base On The Moon - DOGO News",
-      "description": "NASA Plans To Build A Permanent Base On The Moon has 12 comments.",
-      "url": "https://www.dogonews.com/2026/4/4/nasa-plans-to-build-a-permanent-base-on-the-moon",
-      "urlToImage": "https://cdn4.dogonews.com/images/50021c9b-e997-47a0-872f-6fede5cadb25/untitled-design-2026-09-15t120716-646.jpg",
-      "publishedAt": "2026-10-01T17:21:13Z",
-      "content": "NASA will build the Moon base in three phases (Credit: NASA.gov)\r\nNASA has unveiled a $20 billion initiative to build a permanent base on the Moon. Called \"Ignition,\" it aims to test whether humans c… [+1946 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZME Science"
-      },
-      "author": "Tudor Tarita",
-      "title": "Out-of-Body Experiment: Researchers Asked People to See Remotely Into Another Room. Things Got Weird - ZME Science",
-      "description": "The controlled test failed, but two participants made strange, unplanned observations.",
-      "url": "https://www.zmescience.com/science/news-science/out-of-body-experiment-remote-viewing/",
-      "urlToImage": "https://cdn.zmescience.com/wp-content/uploads/2026/10/pexels-mediocrememories-4486675.jpg",
-      "publishedAt": "2026-10-01T17:11:53Z",
-      "content": "Credit: Pexels\r\nLook with your minds eye and you may start visualizing different environments and perspectives.\r\nBut most probably, youll see what your brain expects you to see.\r\nThat, at least, is t… [+5893 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Futurism"
-      },
-      "author": "Victor Tangermann",
-      "title": "NASA Telescope Careening Down to Earth After Failed Rescue Mission - Futurism",
-      "description": "NASA's Swift observatory's recent \"return to science\" has caused it to \"resume its rapid sinking,\" bringing it closer to its demise.",
-      "url": "https://futurism.com/space/nasa-telescope-careening-earth-failed-rescue-mission",
-      "urlToImage": "https://futurism.com/wp-content/uploads/2026/10/nasa-telescope-careening-earth-failed-rescue-mission.jpg?w=1200",
-      "publishedAt": "2026-10-01T17:06:03Z",
-      "content": "Can’t-miss innovations from the bleeding edge of science and tech\r\nIt was an extremely ambitious mission with the best of intentions.\r\nWith the help of contractor Katalyst Space Technologies, NASA la… [+2821 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Live Science"
-      },
-      "author": "Benjamin Skuse",
-      "title": "AI's failed attempt to crack the Riemann hypothesis still led to a breakthrough - Live Science",
-      "description": "An attempt by Anthropic's Claude failed to prove the Riemann hypothesis, but it did produce something genuinely useful: inspiration.",
-      "url": "https://www.livescience.com/technology/artificial-intelligence/this-is-what-happened-with-claude-and-me-ais-failed-attempt-to-crack-the-riemann-hypothesis-led-mathematician-to-a-breakthrough",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/ot6HnDML5hbMakSDnJNbh6-2560-80.jpg",
-      "publishedAt": "2026-10-01T15:56:04Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Space.com"
-      },
-      "author": "Chelsea Gohd",
-      "title": "Mars rover explores 'Wild West' on the Red Planet photo of the day for Oct. 1, 2026 - Space",
-      "description": "\"Lac de Charmes\" is charming (and full of scientific intrigue).",
-      "url": "https://www.space.com/astronomy/mars/mars-rover-explores-wild-west-on-the-red-planet-space-photo-of-the-day-for-oct-1-2026",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/ffUWTe4NiZSMRh7Bn3ppWD-1920-80.png",
-      "publishedAt": "2026-10-01T14:00:00Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "associated-press",
-        "name": "Associated Press"
-      },
-      "author": "Seth Borenstein",
-      "title": "Heat-trapping gas once frozen in Arctic ground is slowly leaking and warming the planet - AP News",
-      "description": "Scientists warn that thawing permafrost in the Arctic is releasing large amounts of methane and carbon dioxide, adding to global warming. The Arctic is warming four times faster than the rest of the world, causing the frozen ground to thaw at a record rate. T…",
-      "url": "https://apnews.com/article/climate-thawing-permafrost-arctic-alaska-91fcc04d32a1d7522afe2f6a456ac0eb",
-      "urlToImage": "https://dims.apnews.com/dims4/default/42b2c83/2147483647/strip/true/crop/4559x3038+420+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F4e%2Fb9%2F0b174268ad96ca92c7ec437cd458%2F336b7e856b7b4f6a801ef844176efd2d",
-      "publishedAt": "2026-10-01T13:00:00Z",
-      "content": "FAIRBANKS, Alaska (AP) As Ted Schuur stepped along the edges of Smith Lake, a bubble surfaced from the muck underfoot. And then another.\r\nTheyre bubbles of methane, a potent heat-trapping gas made fr… [+6435 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Phys.Org"
-      },
-      "author": "Ingrid Fadelli",
-      "title": "New parallel gate entangles diamond qubits 10 times faster at room temperature - Phys.org",
-      "description": "Quantum technologies rely on qubits, units of information that can exist in combinations of the states 0 and 1 instead of being limited to one or the other like conventional bits. Qubits can become entangled, which means their states become linked in ways tha…",
-      "url": "https://phys.org/news/2026-09-parallel-gate-entangles-diamond-qubits.html",
-      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/new-parallel-gate-enta-1.jpg",
-      "publishedAt": "2026-10-01T12:40:16Z",
-      "content": "Quantum technologies rely on qubits, units of information that can exist in combinations of the states 0 and 1 instead of being limited to one or the other like conventional bits. Qubits can become e… [+5012 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Space.com"
-      },
-      "author": "Mike Wall",
-      "title": "SpaceX's powerful Falcon Heavy rocket launching secret US spy mission tonight: Watch it live - Space",
-      "description": "NROL-97 was the third SpaceX launch in less than 13 hours.",
-      "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-falcon-heavy-nro-97-spy-satellite-launch",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/Q6kzPVRKYZuBozKJNc9AXe-2560-80.jpg",
-      "publishedAt": "2026-10-01T12:00:00Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Gizmodo.com"
-      },
-      "author": "Gayoung Lee",
-      "title": "The Largest 3D Map of the Universe Is Shaking Cosmology to Its Foundations - Gizmodo",
-      "description": "Cosmology is entering a \"golden era\" of discovery and revelation—and at the center of the commotion lies the DESI Collaboration.",
-      "url": "https://gizmodo.com/the-largest-3d-map-of-the-universe-is-shaking-up-cosmology-to-its-roots-2000803927",
-      "urlToImage": "https://gizmodo.com/app/uploads/2026/09/DESI-Map-3D-Universe-Complete-laurel-added-450-1200x675.jpg",
-      "publishedAt": "2026-10-01T11:30:17Z",
-      "content": "The DESI Collaboration is a winner of the 2026 Gizmodo Science Fair for greatly advancing our understanding of how the universe began, evolved, and will continue to grow in the future.\r\nThe question\r… [+8444 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Space.com"
-      },
-      "author": "Mike Wall",
-      "title": "Watch SpaceX launch Google AI satellite, 129 other payloads to orbit today - Space",
-      "description": "The Transporter-18 mission is scheduled to lift off at 2:18 p.m. ET.",
-      "url": "https://www.space.com/space-exploration/satellites/spacex-google-project-suncatcher-ai-satellite-transporter-18-mission",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/JgAfV5peoNjB7pX4eAgctH-2560-80.jpg",
-      "publishedAt": "2026-10-01T10:00:00Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "World Atlas"
-      },
-      "author": "Ryan Barrett",
-      "title": "How Lake Vostok Compares To The Great Lakes - WorldAtlas",
-      "description": "Nobody has ever seen Lake Vostok. It is smaller than every Great Lake, deeper than all of them, and holds more water than four. How Antarctica's buried giant compares.",
-      "url": "https://www.worldatlas.com/lakes/how-lake-vostok-compares-to-the-great-lakes.html",
-      "urlToImage": "https://www.worldatlas.com/r/w1200-q80/upload/07/28/34/shutterstock-2256224517-s3cdn-s3cdn.jpg",
-      "publishedAt": "2026-10-01T10:00:00Z",
-      "content": "Nobody has ever seen Lake Vostok. Not \"few visitors make the trip\" or \"access is restricted.\" Nobody has laid eyes on it, ever, because it is sitting under two and a half miles of Antarctic ice and w… [+7103 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "IFLScience"
-      },
-      "author": "James Felton",
-      "title": "This Photograph Might Not Look Like Much, But It Proved That \"Island Universes\" Really Do Exist - IFLScience",
-      "description": "After months of searching with the Earth's most powerful telescope, a single star showed us the true scale of the universe.",
-      "url": "https://www.iflscience.com/this-photograph-might-not-look-like-much-but-it-proved-that-island-universes-really-do-exist-84740",
-      "urlToImage": "https://assets.iflscience.com/assets/articleNo/84740/aImg/92877/var-1-meta.png",
-      "publishedAt": "2026-10-01T09:50:24Z",
-      "content": "Humanity has been on a long journey of discovering that the universe we find ourselves in is far bigger than we could possibly imagine. From discovering that Earth is not the only planet, to working … [+5492 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "BBC News"
-      },
-      "author": null,
-      "title": "Nasa heads to Scottish Highlands in its search for life on Mars - BBC",
-      "description": "The US space agency says ancient rocks at Clachtoll have similarities to those on the Red Planet.",
-      "url": "https://www.bbc.com/news/articles/c5gmr3309p7jo",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/4fcc/live/1f400b70-bd6a-11f1-9513-05ca1cec8073.jpg",
-      "publishedAt": "2026-10-01T08:57:33Z",
-      "content": "Several of the names were taken from Scotland and, as well as Torridon, there is a Siccar Point, Muck, Wick, Sandwick and Holyrood on Mars."
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ScienceAlert"
-      },
-      "author": "Michelle Starr",
-      "title": "Watch Plasma Erupt in Full Color Inside a Fusion Reactor at 16,000 FPS - ScienceAlert",
-      "description": "When the tokamak powers on, something magical happens in the confines of its reinforced belly.",
-      "url": "https://www.sciencealert.com/watch-plasma-erupt-in-full-color-inside-a-fusion-reactor-at-16000-fps",
-      "urlToImage": "https://www.sciencealert.com/images/2026/09/image-6-2560x1440-1.jpg",
-      "publishedAt": "2026-10-01T01:32:08Z",
-      "content": "When the tokamak powers on, something magical happens in the confines of its reinforced belly.\r\nPlasma born of heavy hydrogen blooms into brilliant pink, roiling and writhing around the doughnut-shap… [+7047 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Zoe Kleinman - Technology & AI editor",
-      "title": "Tiny image sparks big backlash in Nikon photo contest - Currently.com",
-      "description": "Dr Ning Xu denies he broke the rules of Nikon's annual Small World In Motion contest.",
-      "url": "https://www.yahoo.com/news/science/articles/tiny-image-sparks-big-backlash-231025868.html",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/c6f17f34347ee33d756802f7cd2b8c4f019a6917ba9b389856dc1931d6a892fa/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2Fe8ee84a9ecfd8502160effa5dec0a62d.jpg",
-      "publishedAt": "2026-10-01T00:09:00Z",
-      "content": "The winning entry of a prestigious scientific photography competition is being re-evaluated following criticism from other scientists that it was made with AI.\r\nNikon's annual Small World In Motion c… [+2898 chars]"
+      "author": "Raquel Villanueva",
+      "title": "What’s Up: October 2026 Skywatching Tips from NASA - NASA Science (.gov)",
+      "description": "Saturn takes center stage, a meteor shower lights up the sky, and the Moon visits the Seven Sisters. That's What's Up for October.",
+      "url": "https://science.nasa.gov/solar-system/skywatching/whats-up-october-2026-skywatching-tips-from-nasa/",
+      "urlToImage": "https://assets.science.nasa.gov/content/dam/science/psd/solar-system/skywatching/2026/october/Orionid%20Meteor%20Shower%202017_Ben%20Goldstein%20via%20Flickr_CC%20BY-NC-SA.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+      "publishedAt": "2026-09-30T23:35:06Z",
+      "content": "See Saturn at opposition, catch the Orionid meteor shower, and watch the Moon pass close to the Pleiades, also known as the Seven Sisters.\r\n<ul><li>Oct. 4: Saturn reaches opposition, making the ringe… [+2535 chars]"
     },
     {
       "source": {
@@ -516,32 +857,6 @@
     {
       "source": {
         "id": null,
-        "name": "Nature.com"
-      },
-      "author": null,
-      "title": "Butterfly wing patterns in flight create powerful illusory motion cues - Nature",
-      "description": "Butterfly wing patterns and flight dynamics work in tandem to create powerful visual illusions that confuse predators, potentially representing one of the most successful visual defence strategies in moving animals.",
-      "url": "https://www.nature.com/articles/s41586-026-11062-w",
-      "urlToImage": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-11062-w/MediaObjects/41586_2026_11062_Fig1_HTML.png",
-      "publishedAt": "2026-09-30T23:17:28Z",
-      "content": "Temporally fluid motion measures\r\nTo quantify the influence of butterfly wings and their patterns on motion detection, we used a custom-written biologically informed EMD28,45, using ImageJ. The model… [+38473 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Nature.com"
-      },
-      "author": null,
-      "title": "Dynamic protrusions mediate crawling motility in Asgard archaea - Nature",
-      "description": "Anoxic live-cell imaging shows actin-dependent crawling motility and dynamic protrusions in Asgard archaea, providing insights into cellular innovations that may have contributed to eukaryotic evolution.",
-      "url": "https://www.nature.com/articles/s41586-026-11063-9",
-      "urlToImage": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-11063-9/MediaObjects/41586_2026_11063_Fig1_HTML.png",
-      "publishedAt": "2026-09-30T22:37:28Z",
-      "content": "Cultivation of Ca. L. ossiferum and M. peptidophilum\r\nCa. L. ossiferum enrichment cultures were grown protected from light in lokiarchaeal media in sealed, pressurized serum bottles in an 80:20% N2:C… [+26372 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "ZME Science"
       },
       "author": "Mihai Andrei",
@@ -554,55 +869,55 @@
     },
     {
       "source": {
-        "id": "cbc-news",
-        "name": "CBC News"
+        "id": "cnn",
+        "name": "CNN"
       },
-      "author": null,
-      "title": "Meet the bizarre toad that 'sees' with its fingertips and gives birth through holes in its back - CBC",
-      "description": "For nearly two centuries, scientists have puzzled over how the Surinam toad manages to be such a deft and fierce hunter despite its tiny eyes, poor vision and the low visibility of its turbid environment. Now a new study is pointing to an answer that's been r…",
-      "url": "https://www.cbc.ca/radio/quirks/meet-the-bizarre-toad-that-sees-with-its-fingertips-and-gives-birth-through-holes-in-its-back-9.7363645",
-      "urlToImage": "https://i.cbc.ca/ais/e52fb397-99f2-4b73-bdbe-4c00c5c60e5f,1790738091398/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C192%2C3485%2C1960%29%3BResize%3D620",
-      "publishedAt": "2026-09-30T18:10:04Z",
-      "content": "There are many reasons some might consider the Surinam toad to be strange.\r\nFor one, theres the birth. Videos of the fully aquatic toad delivering its babies show fully formed young erupting from tin… [+4471 chars]"
+      "author": "Ashley Strickland",
+      "title": "NASA space telescope to burn up in Earth’s atmosphere after failed rescue attempt - CNN",
+      "description": "A daring mission failed to rescue NASA’s Swift telescope, and the nearly 22-year-old observatory will soon burn up in Earth’s atmosphere.",
+      "url": "https://www.cnn.com/2026/09/30/science/nasa-swift-observatory-falling",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/swift-in-space-09.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2026-09-30T19:04:05Z",
+      "content": "A celebratedspace telescope is rapidly dipping from its once-stable orbit and falling to Earth just shy of the 22nd anniversary of its launch.\r\nThe Neil Gehrels Swift Observatory will soon have to ce… [+5760 chars]"
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Gina Kolata",
+      "title": "Clues to Why a Breakthrough Pancreatic Cancer Drug Eventually Stops Working",
+      "description": "Researchers are asking why patients, like former Senator Ben Sasse, inevitably develop resistance to the drug daraxonrasib.",
+      "url": "https://www.nytimes.com/2026/09/30/science/pancreatic-cancer-drug-daraxonrasib-ben-sasse-resistance.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/10/06/multimedia/30sci-sasse-cancer-ljfm/30sci-sasse-cancer-ljfm-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-09-30T17:48:56Z",
+      "content": "Researchers are asking why patients, like former Senator Ben Sasse, inevitably develop resistance to the drug daraxonrasib."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Victor Mather",
+      "title": "Viper Image That Caused Alarm in California Was A.I.-Generated",
+      "description": "A Gaboon viper, a venomous snake native to equatorial regions of Africa, was supposedly photographed in a tree in Santa Ana, Calif. How could that be? Well, it turns out it wasn’t.",
+      "url": "https://www.nytimes.com/2026/09/30/us/santa-ana-viper-snake-ai-fake.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/09/30/multimedia/30xp-viper-swap-tmlk/30xp-viper-swap-tmlk-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-09-30T17:28:15Z",
+      "content": "A Gaboon viper, a venomous snake native to equatorial regions of Africa, was supposedly photographed in a tree in Santa Ana, Calif. How could that be? Well, it turns out it wasn’t."
     },
     {
       "source": {
         "id": null,
-        "name": "Phys.Org"
+        "name": "Newsnationnow.com"
       },
-      "author": null,
-      "title": "3D light fields push electrons into quantum states previously beyond experimental reach - Phys.org",
-      "description": "By superimposing two ultrashort laser pulses that converge from different directions, a team of physicists at the University of Oldenburg has succeeded in generating three-dimensional light fields.",
-      "url": "https://phys.org/news/2026-09-3d-fields-electrons-quantum-states.html",
-      "urlToImage": "https://scx2.b-cdn.net/gfx/news/2026/using-three-dimensiona.jpg",
-      "publishedAt": "2026-09-30T17:40:26Z",
-      "content": "By superimposing two ultrashort laser pulses that converge from different directions, a team of physicists at the University of Oldenburg has succeeded in generating three-dimensional light fields.\r\n… [+4336 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Space.com"
-      },
-      "author": "Elizabeth Howell",
-      "title": "Happy New Year, Mars! The Red Planet begins another circuit around the sun - Space",
-      "description": "We had to wait 22 months for this milestone.",
-      "url": "https://www.space.com/astronomy/mars/happy-new-year-mars-the-red-planet-begins-another-circuit-around-the-sun",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/yMhg2RV5V6SHwcjkhmxMnV-1600-80.jpg",
-      "publishedAt": "2026-09-30T17:00:00Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Phys.Org"
-      },
-      "author": null,
-      "title": "Earth and Mars: Built from different cosmic recipes - phys.org",
-      "description": "Four and a half billion years ago, Earth and Mars were born in the rotating cloud of gas and dust that would eventually become our solar system. Yet exactly how the planets formed remains one of the most disputed questions in planetary science.",
-      "url": "https://phys.org/news/2026-09-earth-mars-built-cosmic-recipes.html",
-      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2020/mars.jpg",
-      "publishedAt": "2026-09-30T16:00:01Z",
-      "content": "Four and a half billion years ago, Earth and Mars were born in the rotating cloud of gas and dust that would eventually become our solar system. Yet exactly how the planets formed remains one of the … [+4811 chars]"
+      "author": "Stephanie Sokol",
+      "title": "Could a human outrun a T. rex? New evidence offers an answer - NewsNation",
+      "description": "“My first reaction was total disbelief,” said Kent Hups, who discovered the footprint path.",
+      "url": "https://www.newsnationnow.com/science/trex-footprint-walking-pace/",
+      "urlToImage": "https://www.newsnationnow.com/wp-content/uploads/sites/108/2026/09/AP20259720302211.jpg?w=1280",
+      "publishedAt": "2026-09-30T17:28:09Z",
+      "content": "(NewsNation) If you’ve ever wondered if you could outrun an adult tyrannosaurus rex, recently discovered footprints indicate that for someone of average physical health, it’s a possibility. \r\nThe 23-… [+1709 chars]"
     },
     {
       "source": {
@@ -619,16 +934,16 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "Hackaday"
+        "id": "the-new-york-times",
+        "name": "The New York Times"
       },
-      "author": "Zoe Skyforest",
-      "title": "Roman Telescope Saves Fuel, Doubles Mission - Hackaday",
-      "description": "Contemplate the events that might end a space mission, and you might picture something dramatic: detonation on the pad, a dead guidance system, or micrometeoroids shattering delicate solar panels. …",
-      "url": "https://hackaday.com/2026/09/30/roman-telescope-saves-fuel-doubles-mission/",
-      "urlToImage": "https://hackaday.com/wp-content/uploads/2026/09/RomanTelescope.jpg",
-      "publishedAt": "2026-09-30T14:00:00Z",
-      "content": "Contemplate the events that might end a space mission, and you might picture something dramatic: detonation on the pad, a dead guidance system, or micrometeoroids shattering delicate solar panels. Mo… [+7332 chars]"
+      "author": "Gina Kolata",
+      "title": "New Cancer Drugs Are Revolutionary. Why Don’t More Patients Get Them?",
+      "description": "Targeted gene therapies are highly effective at stopping cancers, but the very abundance of the treatments, plus cost and sluggish change, are hindering access.",
+      "url": "https://www.nytimes.com/2026/09/30/science/new-cancer-drugs-are-revolutionary-why-dont-more-patients-get-them.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/10/06/multimedia/00Sci-cancer-shortfall-01-fjwh/00Sci-cancer-shortfall-01-fjwh-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-09-30T14:02:22Z",
+      "content": "Targeted gene therapies are highly effective at stopping cancers, but the very abundance of the treatments, plus cost and sluggish change, are hindering access."
     },
     {
       "source": {
@@ -646,106 +961,41 @@
     {
       "source": {
         "id": null,
-        "name": "Yahoo Entertainment"
+        "name": "Nautil.us"
       },
-      "author": "Jacqueline Kehoe",
-      "title": "Off the coast of Canada, you won't see coral reefs — you'll see reefs made of actual glass - Yahoo Creators",
-      "description": "The Pacific Northwest is hiding one of the rarest ecosystems on the planet. Some call it the \"Sea of Glass,\" and it's very hard to believe — and very real.",
-      "url": "https://creators.yahoo.com/lifestyle/story/off-the-coast-of-canada-you-wont-see-coral-reefs--youll-see-reefs-made-of-actual-glass-150806291.html",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/3874a3f56cb42c9e2ee7f5e0270d3ee124c04f2ccf6d3e4f648ee81f5c36762b/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fanji-biota_2618.jpg",
-      "publishedAt": "2026-09-30T13:10:12Z",
-      "content": "When most of us picture a reef, we picture the tropics: bathtub-warm turquoise water, clownfish, and coral in every color of the crayon box.\r\nBut off the coast of British Columbia, hundreds of feet d… [+4316 chars]"
+      "author": "Jake Currie",
+      "title": "Ice Age Spear Points Tell a Fascinating Story of Human Progress - Nautilus | Science Connected",
+      "description": "What do we keep, and what do we throw away?",
+      "url": "https://nautil.us/ice-age-spear-points-tell-a-fascinating-story-of-human-progress-1285384",
+      "urlToImage": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/09/SKB_4549-AS.jpg",
+      "publishedAt": "2026-09-29T20:00:00Z",
+      "content": "Imagine youre suddenly transported to the wilderness, hundreds of miles from civilization, with nothing other than what youre carrying with you right now. The way you view your personal effects would… [+2846 chars]"
     },
     {
       "source": {
-        "id": null,
-        "name": "Thedebrief.org"
+        "id": "the-new-york-times",
+        "name": "The New York Times"
       },
-      "author": "Christopher Plain, Christopher Plain",
-      "title": "Forget Solar Panels: There’s a Whole New Way to Convert Sunlight into Energy - The Debrief",
-      "description": "Scientists exploring methods for converting sunlight to useable electricity have found a hydrogen-based alternative to solar panels.",
-      "url": "https://thedebrief.org/forget-solar-panels-theres-a-whole-new-way-to-convert-sunlight-into-energy/",
-      "urlToImage": "https://thedebrief.b-cdn.net/wp-content/uploads/2026/09/COVER-RESIZE-kanenori-mount-fuji-2297961.jpg",
-      "publishedAt": "2026-09-30T12:47:00Z",
-      "content": "Oregon State University researchers have developed a new family of advanced materials that convert water into energy-producing hydrogen using only sunlight, offering a potential clean-energy alternat… [+4134 chars]"
+      "author": "Robin George Andrews and Nataliia Novosolova",
+      "title": "Ukrainian Science Academy, Struck by Drone, Played Key Role in Research",
+      "description": "Over 90 percent of Ukraine’s scientific discoveries have been attributed to Ukraine’s National Academy of Sciences, including advancements in astronomy and military technology.",
+      "url": "https://www.nytimes.com/2026/09/29/science/ukraine-science-academy-russia-attack.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/09/29/multimedia/29sci-ukraine-science-wgmp/29sci-ukraine-science-wgmp-mediumSquareAt3X-v2.jpg",
+      "publishedAt": "2026-09-29T19:55:21Z",
+      "content": "Over 90 percent of Ukraine’s scientific discoveries have been attributed to Ukraine’s National Academy of Sciences, including advancements in astronomy and military technology."
     },
     {
       "source": {
-        "id": null,
-        "name": "Thebrighterside.news"
+        "id": "the-new-york-times",
+        "name": "The New York Times"
       },
-      "author": "Joseph Shavit, Shy Cohen",
-      "title": "Physicists finally discover the elusive glueball, a particle made entirely of nuclear force - The Brighter Side of News",
-      "description": "Theory and later experiments keep f0(1710) among the strongest candidates for a particle built largely from gluons.",
-      "url": "https://www.thebrighterside.news/post/physicists-finally-discover-the-elusive-glueball-a-particle-made-entirely-of-nuclear-force/#article",
-      "urlToImage": "https://www.thebrighterside.news/uploads/2026/09/glueball-force-particle.png?auto=webp",
-      "publishedAt": "2026-09-30T11:51:00Z",
-      "content": "<ul><li>A holographic QCD calculation found that the decay pattern of the scalar meson f0(1710) closely matches what could be expected from a glueball, a hypothetical particle built mainly from gluon… [+9052 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Nature.com"
-      },
-      "author": null,
-      "title": "The super El Niño is cooking coral reefs — can lullabies and probiotics save them? - Nature",
-      "description": "Researchers are trying everything they can to help coral reefs to survive severe heat stress from climate change, including playing sounds underwater.",
-      "url": "https://www.nature.com/articles/d41586-026-02965-9",
-      "urlToImage": "https://media.nature.com/lw1200/magazine-assets/d41586-026-02965-9/d41586-026-02965-9_53758248.jpg",
-      "publishedAt": "2026-09-30T11:33:56Z",
-      "content": "Its peak spawning time for coral in the Caribbean Sea and theres something new in the water this year. Underwater speakers at several locations are serenading clouds of floating larvae as they search… [+8298 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Gadgetreview.com"
-      },
-      "author": null,
-      "title": "Night Skies Are Growing 10% Brighter Each Year, and Your City's LEDs Are Part of the Problem - Gadget Review",
-      "description": "Artificial light is brightening night skies 9.6% per year, but shielded fixtures, warmer LEDs, and dimmer settings can slow the loss.",
-      "url": "https://www.gadgetreview.com/night-skies-are-growing-10-brighter-each-year-and-your-citys-leds-are-part-of-the-problem",
-      "urlToImage": "https://www.gadgetreview.com/wp-content/uploads/Night-Sky.jpg",
-      "publishedAt": "2026-09-29T19:14:43Z",
-      "content": "Citizen scientists logged 50,000 observations showing North American skies brightening 10.4% annually as LED conversions add light rather than reduce itA sky that once showed you 250 stars may now re… [+3413 chars]"
-    },
-    {
-      "source": {
-        "id": "ars-technica",
-        "name": "Ars Technica"
-      },
-      "author": "Eric Berger",
-      "title": "NASA has a Dragon dilemma, and there appear to be no good answers - Ars Technica",
-      "description": "So is SpaceX just being selfish or what?",
-      "url": "https://arstechnica.com/space/2026/09/nasa-has-a-dragon-dilemma-and-there-appear-to-be-no-good-answers/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/KSC-20211027-PH-SPX02_0003orig-1152x648.jpg",
-      "publishedAt": "2026-09-29T18:34:00Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Phys.Org"
-      },
-      "author": null,
-      "title": "Suns set on hunt for giant planets in nearby binary system - Phys.org",
-      "description": "New research led by the University of Michigan is helping set the stage for future observatories to characterize rocky planets outside our solar system, planets that could prove life isn't confined to Earth. The new research represents the most sensitive mode…",
-      "url": "https://phys.org/news/2026-09-suns-giant-planets-nearby-binary.html",
-      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/suns-set-on-hunt-for-g.jpg",
-      "publishedAt": "2026-09-29T18:20:06Z",
-      "content": "New research led by the University of Michigan is helping set the stage for future observatories to characterize rocky planets outside our solar system, planets that could prove life isn't confined t… [+5582 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ScienceAlert"
-      },
-      "author": "Michelle Starr",
-      "title": "A Black Hole Could Spit Itself Out of Its Own Hair, Leaving a Boson Star in Its Wake - ScienceAlert",
-      "description": "If anything is forever in this Universe, it's black holes – or so their physics suggests.",
-      "url": "https://www.sciencealert.com/a-black-hole-could-spit-itself-out-of-its-own-hair-leaving-a-boson-star-in-its-wake",
-      "urlToImage": "https://www.sciencealert.com/images/2026/09/BlackHoleHair.jpg",
-      "publishedAt": "2026-09-29T15:04:43Z",
-      "content": "If anything is forever in this Universe, it's black holes or so their physics suggests.\r\nThese ultra-dense objects are possessed of inexorable gravitational fields. Matter goes in. Very little ever c… [+7649 chars]"
+      "author": "Brad Plumer",
+      "title": "Tennessee Valley Authority Gets Approval to Build Small Nuclear Reactor",
+      "description": "It’s only the second time that American regulators have approved a next-generation commercial reactor for construction. Big hurdles remain.",
+      "url": "https://www.nytimes.com/2026/09/29/climate/nuclear-reactor-tennessee-valley-authority.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/09/29/multimedia/29cli-tva-nuclear-fmhk/29cli-tva-nuclear-fmhk-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-09-29T18:09:37Z",
+      "content": "It’s only the second time that American regulators have approved a next-generation commercial reactor for construction. Big hurdles remain."
     },
     {
       "source": {
@@ -759,6 +1009,32 @@
       "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/art002e009287-orig.jpg?c=16x9&q=w_800,c_fill",
       "publishedAt": "2026-09-29T13:30:29Z",
       "content": "An unusual rock buried on the far side of the moon is providing fresh clues for a longstanding scientific puzzle: the ancient lunar magnetic field.\r\nAnalyzing data from lunar probes, a team of resear… [+8254 chars]"
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Awais Aftab",
+      "title": "What If A.D.H.D. Isn’t About Attention at All?",
+      "description": "Evidence suggests that it really affects what psychiatrists like me call sustained engagement — an important difference in understanding how to think about the condition.",
+      "url": "https://www.nytimes.com/2026/09/29/science/adhd-attention-motivation.html",
+      "urlToImage": null,
+      "publishedAt": "2026-09-29T09:20:40Z",
+      "content": "Evidence suggests that it really affects what psychiatrists like me call sustained engagement — an important difference in understanding how to think about the condition."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Jonathan O’Callaghan",
+      "title": "Radio Waves Coming From an Alien Planet May Be a Cosmic First",
+      "description": "Beta Pictoris b appears to have an aurora caused by a powerful magnetic field. If confirmed, it would be the first such field known outside our solar system.",
+      "url": "https://www.nytimes.com/2026/09/29/science/space/exoplanet-magnetic-field.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/09/25/multimedia/25SCI-MAGFIELDS-01-twlc/25SCI-MAGFIELDS-01-twlc-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-09-29T09:01:22Z",
+      "content": "Beta Pictoris b appears to have an aurora caused by a powerful magnetic field. If confirmed, it would be the first such field known outside our solar system."
     },
     {
       "source": {
@@ -789,28 +1065,15 @@
     {
       "source": {
         "id": null,
-        "name": "DOGOnews"
+        "name": "NASA"
       },
-      "author": "Sarah  Uebersax",
-      "title": "Ancient \"Shark Graveyard\" Discovered In Egyptian Desert - DOGO News",
-      "description": "Ancient \"Shark Graveyard\" Discovered In Egyptian Desert has 6 comments.",
-      "url": "https://www.dogonews.com/2026/9/28/ancient-shark-graveyard-discovered-in-egyptian-desert",
-      "urlToImage": "https://cdn4.dogonews.com/images/1193e3a0-2404-4274-bb19-904acd808fa2/41_2026-639237744134710229-471.jpeg",
-      "publishedAt": "2026-09-28T14:26:50Z",
-      "content": "Egypt's Western Desert was once home to several shark species (Credit: Cairo University)\r\nA team of paleontologists led by Cairo Universitys Dr. Tarek Yassin have unearthed an ancient \"shark graveyar… [+2097 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Science Daily"
-      },
-      "author": null,
-      "title": "Blood tests reveal why astronauts get constipated in space - ScienceDaily",
-      "description": "Spaceflight may dramatically change the gut within weeks, causing bacteria to break down more protein as food moves more slowly through the intestines. The shift could help explain astronaut constipation and may have wider effects on health, making it an impo…",
-      "url": "https://www.sciencedaily.com/releases/2026/09/260927225030.htm",
-      "urlToImage": "https://www.sciencedaily.com/images/1920/astronaut-in-space-constipation.webp",
-      "publishedAt": "2026-09-28T12:51:37Z",
-      "content": "Constipation is a familiar problem for astronauts, but scientists have not fully understood why spending time in space can disrupt normal digestion.New research from the University of Copenhagen, con… [+6801 chars]"
+      "author": "Robert Nemiroff, Jerry Bonnell, Cecilia Chirenti, Keighley Rockcliffe",
+      "title": "APOD: 2026 September 28 - Cosmic Latte: The Average Color of the Universe - NASA Science (.gov)",
+      "description": null,
+      "url": "https://science.nasa.gov/image-article/apod-2026-september-28-cosmic-latte-the-average-color-of-the-universe/",
+      "urlToImage": "https://assets.science.nasa.gov/content/dam/science/cds/apod/apod/2026/september/CosmicLatte_jhu_960_annotated.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+      "publishedAt": "2026-09-28T11:17:04Z",
+      "content": "Explanation: What color is the universe? More precisely, if the entire sky were smeared out, what color would the final mix be? This whimsical question came up when trying to determine what stars are… [+882 chars]"
     }
   ]
 }

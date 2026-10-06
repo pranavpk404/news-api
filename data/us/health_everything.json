@@ -2,10 +2,117 @@
   "source": "everything",
   "country": "us",
   "category": "health",
-  "query": "medical health research wellness",
-  "fetched_at": "2026-10-04T00:09:45.466547+00:00",
-  "articles_count": 11,
+  "providers": [
+    "newsapi",
+    "rss"
+  ],
+  "fetched_at": "2026-10-06T03:24:12.611543+00:00",
+  "articles_count": 30,
   "articles": [
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Trisha Thadani",
+      "title": "Dying Patients Are Inundated by Misinformation. My Dad Was One of Them.",
+      "description": "Cancer patients are being persuaded to spend tens of thousands on unproven treatments by alternative-medicine clinics.",
+      "url": "https://www.nytimes.com/2026/10/04/magazine/alternative-cancer-clinics-treatment-father.html",
+      "urlToImage": null,
+      "publishedAt": "2026-10-05T23:19:42Z",
+      "content": "Cancer patients are being persuaded to spend tens of thousands on unproven treatments by alternative-medicine clinics."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Carolyn Y. Johnson and Leo Sands",
+      "title": "Nobel Prize in Physiology or Medicine Is Awarded for Discoveries in Neuroscience",
+      "description": "Karl Deisseroth, Peter Hegemann and Georg Nagel were recognized for their work on light-gated ion channels and optogenetics, a technique that uses pulses of light to activate neurons in the brain.",
+      "url": "https://www.nytimes.com/2026/10/05/health/nobel-prize-medicine-physiology.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/10/05/multimedia/05SCI-nobel-medicin-01-tfkh/05SCI-nobel-medicin-01-tfkh-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-10-05T21:09:36Z",
+      "content": "Karl Deisseroth, Peter Hegemann and Georg Nagel were recognized for their work on light-gated ion channels and optogenetics, a technique that uses pulses of light to activate neurons in the brain."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Christina Jewett",
+      "title": "Texas Pediatricians Face Paxton Investigations for Vaccinating Children",
+      "description": "Ken Paxton, the Texas attorney general and Republican Senate candidate, has alleged a sprawling profit-driven conspiracy. Pediatricians say the accusations are an attempt at intimidation.",
+      "url": "https://www.nytimes.com/2026/10/05/health/ken-paxton-pediatricians-vaccines.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/10/01/multimedia/XXDC-Pediatrician-vaccines-top-tzph/XXDC-Pediatrician-vaccines-top-tzph-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-10-05T15:46:37Z",
+      "content": "Ken Paxton, the Texas attorney general and Republican Senate candidate, has alleged a sprawling profit-driven conspiracy. Pediatricians say the accusations are an attempt at intimidation."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Carl Zimmer",
+      "title": "Are Babies Conscious?",
+      "description": "By pinpointing when it begins in young humans, scientists hope to better understand what consciousness is, and how it arises, in all of us.",
+      "url": "https://www.nytimes.com/2026/10/05/science/consciousness-brain-babies.html",
+      "urlToImage": null,
+      "publishedAt": "2026-10-05T15:12:12Z",
+      "content": "By pinpointing when it begins in young humans, scientists hope to better understand what consciousness is, and how it arises, in all of us."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Clayton Dalton",
+      "title": "Scientists Warn of Another Unseen Risk From Fire: Ozone",
+      "description": "Small particulates sent up by wildfires are a well-documented health hazard. But recent research finds that ground-level ozone is now on the rise, too.",
+      "url": "https://www.nytimes.com/2026/10/04/science/ozone-wildfires-smoke.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/09/10/multimedia/00SCI-FIRES-01-tmgq/00SCI-FIRES-01-tmgq-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-10-04T09:00:20Z",
+      "content": "Small particulates sent up by wildfires are a well-documented health hazard. But recent research finds that ground-level ozone is now on the rise, too."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Alena Cerro",
+      "title": "F.D.A. Classifies Salad Dressing Recall to Highest Health Risk",
+      "description": "Salata Dressings initiated the recall of its Jalapeño Avocado Dressing in August over concerns about possible salmonella contamination.",
+      "url": "https://www.nytimes.com/2026/10/03/health/fda-recall-salata-salad-dressing-salmonella.html",
+      "urlToImage": null,
+      "publishedAt": "2026-10-03T21:01:02Z",
+      "content": "Salata Dressings initiated the recall of its Jalapeño Avocado Dressing in August over concerns about possible salmonella contamination."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Carolyn Y. Johnson",
+      "title": "Scientists Untangle the Biology of an ‘Undruggable’ Cancer Gene",
+      "description": "Found in 70 percent of cancers, the gene is seen as a grand orchestrator, but has been surprisingly difficult to stop.",
+      "url": "https://www.nytimes.com/2026/10/02/science/scientists-untangle-the-biology-of-an-undruggable-cancer-gene.html",
+      "urlToImage": null,
+      "publishedAt": "2026-10-03T19:09:42Z",
+      "content": "Found in 70 percent of cancers, the gene is seen as a grand orchestrator, but has been surprisingly difficult to stop."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Christina Jewett, Alice Callahan and Caroline Hopkins Legaspi",
+      "title": "F.D.A. Found Cyclospora During Taylor Farms Inspection in Mexico",
+      "description": "The discovery adds strong evidence that the outbreak that sickened thousands over the summer originated in a grower’s field or processing facility.",
+      "url": "https://www.nytimes.com/2026/10/02/health/cyclospora-taylor-farms-mexico.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/10/02/multimedia/02dc-cyclospora-vphc/02dc-cyclospora-vphc-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-10-02T22:25:24Z",
+      "content": "The discovery adds strong evidence that the outbreak that sickened thousands over the summer originated in a grower’s field or processing facility."
+    },
     {
       "source": {
         "id": "nbc-news",
@@ -18,6 +125,32 @@
       "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/261002-top-light-therapy-lamps-dj-main-4a502e.jpg",
       "publishedAt": "2026-10-02T18:26:12Z",
       "content": "As the sun rises later and sets earlier during fall and winter, odds are you feel sleepier and less motivated compared to other times of year. To some degree, thats totally normal, says Dr. Alex Dimi… [+12234 chars]"
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Benjamin Mueller and Shaila Dewan",
+      "title": "How Did Christa Pike Survive Two Lethal Injections of Pentobarbital?",
+      "description": "A catheter carrying the drug may not have delivered the doses to Ms. Pike’s bloodstream, experts said. The drug itself may have been degraded.",
+      "url": "https://www.nytimes.com/2026/10/01/science/pike-execution-pentobarbital.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/10/01/multimedia/01sci-pentobarbital-vckq/01sci-pentobarbital-vckq-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-10-01T22:30:28Z",
+      "content": "A catheter carrying the drug may not have delivered the doses to Ms. Pike’s bloodstream, experts said. The drug itself may have been degraded."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Andrew Jacobs",
+      "title": "Cornell’s Jane Doe Said She Was Given Ketamine. Here’s How the Drug Works.",
+      "description": "Ketamine is a short-acting anesthetic that can have hallucinogenic effects. It is becoming more easily available, and some experts fear misuse is increasing.",
+      "url": "https://www.nytimes.com/2026/09/30/science/cornell-rape-ketamine.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/09/30/multimedia/30sci-ketamine-01-vjzf/30sci-ketamine-01-vjzf-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-10-01T21:08:47Z",
+      "content": "Ketamine is a short-acting anesthetic that can have hallucinogenic effects. It is becoming more easily available, and some experts fear misuse is increasing."
     },
     {
       "source": {
@@ -34,6 +167,71 @@
     },
     {
       "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Maya Salam",
+      "title": "‘The Swan,’ the Most Disturbing 2000s Reality Show, Doesn’t Seem So Crazy Anymore",
+      "description": "Erin Lee Carr’s new documentary revisits the 2004 makeover show “The Swan,” which gave 32 women extensive plastic surgery and anticipated where beauty culture was headed.",
+      "url": "https://www.nytimes.com/2026/09/30/arts/television/the-swan-reality-show-documentary.html",
+      "urlToImage": null,
+      "publishedAt": "2026-09-30T21:35:42Z",
+      "content": "Erin Lee Carr’s new documentary revisits the 2004 makeover show “The Swan,” which gave 32 women extensive plastic surgery and anticipated where beauty culture was headed."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Christopher Rowland",
+      "title": "Medical Records Firm Uses AI Tool to Expose Flaws that Threaten Patient Privacy",
+      "description": "Epic’s engineers deployed an Anthropic tool that exposed security risks that could allow undetected access to millions of patient records.",
+      "url": "https://www.nytimes.com/2026/09/30/business/ai-epic-health-records-privacy.html",
+      "urlToImage": null,
+      "publishedAt": "2026-09-30T19:25:06Z",
+      "content": "Epic’s engineers deployed an Anthropic tool that exposed security risks that could allow undetected access to millions of patient records."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Gina Kolata",
+      "title": "Clues to Why a Breakthrough Pancreatic Cancer Drug Eventually Stops Working",
+      "description": "Researchers are asking why patients, like former Senator Ben Sasse, inevitably develop resistance to the drug daraxonrasib.",
+      "url": "https://www.nytimes.com/2026/09/30/science/pancreatic-cancer-drug-daraxonrasib-ben-sasse-resistance.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/10/06/multimedia/30sci-sasse-cancer-ljfm/30sci-sasse-cancer-ljfm-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-09-30T17:48:56Z",
+      "content": "Researchers are asking why patients, like former Senator Ben Sasse, inevitably develop resistance to the drug daraxonrasib."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Gina Kolata",
+      "title": "New Cancer Drugs Are Revolutionary. Why Don’t More Patients Get Them?",
+      "description": "Targeted gene therapies are highly effective at stopping cancers, but the very abundance of the treatments, plus cost and sluggish change, are hindering access.",
+      "url": "https://www.nytimes.com/2026/09/30/science/new-cancer-drugs-are-revolutionary-why-dont-more-patients-get-them.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/10/06/multimedia/00Sci-cancer-shortfall-01-fjwh/00Sci-cancer-shortfall-01-fjwh-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-09-30T14:02:22Z",
+      "content": "Targeted gene therapies are highly effective at stopping cancers, but the very abundance of the treatments, plus cost and sluggish change, are hindering access."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Sheryl Gay Stolberg",
+      "title": "A.I. Is ‘Better Informed’ Than Doctors, Kennedy Tells Industry-Backed MAHA Summit",
+      "description": "The health secretary, Vice President JD Vance and other top officials addressed a conference sponsored by corporations, including A.I. companies and others with business before the government.",
+      "url": "https://www.nytimes.com/2026/09/29/health/maha-summit-kennedy-vance.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/09/29/multimedia/29dc-maha-mgvh/29dc-maha-mgvh-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-09-30T00:10:27Z",
+      "content": "The health secretary, Vice President JD Vance and other top officials addressed a conference sponsored by corporations, including A.I. companies and others with business before the government."
+    },
+    {
+      "source": {
         "id": "nbc-news",
         "name": "NBC News"
       },
@@ -47,6 +245,45 @@
     },
     {
       "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Carl Zimmer",
+      "title": "This Virus Stole a Human Gene and Won’t Let Go of It",
+      "description": "Scientists have found a human gene lurking in a virus that causes skin infections. It may be using our own DNA to infect us.",
+      "url": "https://www.nytimes.com/2026/09/28/science/virus-molluscum-human-gene.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/10/06/science/00SCI-VIRUS/00SCI-VIRUS-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-09-29T16:34:35Z",
+      "content": "Scientists have found a human gene lurking in a virus that causes skin infections. It may be using our own DNA to infect us."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Azeen Ghorayshi and Andrew Jacobs",
+      "title": "V.A. Institutes New Consent Requirements for Some Psychiatric Drugs",
+      "description": "Veterans under 30 will have to sign forms before being given antidepressants. Medical groups fear the moves may stigmatize mental health treatment.",
+      "url": "https://www.nytimes.com/2026/09/28/science/veterans-psychiatric-drugs-consent.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/09/28/science/00sci-veterans-consent/00sci-veterans-consent-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-09-29T12:39:22Z",
+      "content": "Veterans under 30 will have to sign forms before being given antidepressants. Medical groups fear the moves may stigmatize mental health treatment."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Johnny Diaz",
+      "title": "Pennsylvania Measles Outbreak Grows to Nearly 900 Cases",
+      "description": "State health officials said 55 new cases had been reported since Wednesday. In all, 890 measles cases have been reported across 39 counties so far this year.",
+      "url": "https://www.nytimes.com/2026/09/27/us/pennsylvania-measles-outbreak-cases.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/09/27/multimedia/27xp-measles-topart-01-hvkb/27xp-measles-topart-01-hvkb-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-09-27T19:17:09Z",
+      "content": "State health officials said 55 new cases had been reported since Wednesday. In all, 890 measles cases have been reported across 39 counties so far this year."
+    },
+    {
+      "source": {
         "id": "fox-news",
         "name": "Fox News"
       },
@@ -57,6 +294,32 @@
       "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/09/older-man-confused.jpg",
       "publishedAt": "2026-09-27T18:39:07Z",
       "content": "Everyday memory lapses, like misplaced keys or forgotten names, are often overinterpreted as early signs of dementia, but neuroscience experts say actual early cognitive changes may be reversible if … [+4030 chars]"
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Apoorva Mandavilli",
+      "title": "U.S. Rejects U.N. Declaration on Preparing for Future Pandemics",
+      "description": "Most member nations spoke in support of the declaration, but some rich countries had strong objections.",
+      "url": "https://www.nytimes.com/2026/09/25/us/politics/us-rejects-un-declaration-on-preparing-for-pandemics.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/09/25/multimedia/25dc-pandemics-01-ljtk/25dc-pandemics-01-ljtk-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-09-27T17:07:06Z",
+      "content": "Most member nations spoke in support of the declaration, but some rich countries had strong objections."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Apoorva Mandavilli",
+      "title": "‘Zombified’ C.D.C., Hobbled by Cuts, Struggles to Fulfill Scientific Mission",
+      "description": "The agency has lost its independence and nearly a third of its staff, as Health Secretary Robert F. Kennedy Jr. and associates have tightened control.",
+      "url": "https://www.nytimes.com/2026/09/26/health/cdc-staff-cuts-rfk-jr.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/09/24/multimedia/00dc-cdc-02-wtpc/00dc-cdc-02-wtpc-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-09-26T13:09:06Z",
+      "content": "The agency has lost its independence and nearly a third of its staff, as Health Secretary Robert F. Kennedy Jr. and associates have tightened control."
     },
     {
       "source": {
@@ -135,19 +398,7 @@
       "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/09/woman-coughing.jpg",
       "publishedAt": "2026-09-14T21:04:42Z",
       "content": "Health officials ordered the immediate remediation of 10 rooftop cooling towers in the South Bronx after preliminary testing detected Legionella bacteria amid a growing Legionnaires disease cluster t… [+3792 chars]"
-    },
-    {
-      "source": {
-        "id": "nbc-news",
-        "name": "NBC News"
-      },
-      "author": "Cory Fernandez",
-      "title": "How to clean your reusable water bottle and keep it mold-free and smelling fresh",
-      "description": "To learn the best way to clean reusable water bottles from Stanley, Owala and other brands, I spoke to multiple microbiology experts for their guidance.",
-      "url": "https://www.nbcnews.com/select/shopping/how-to-clean-water-bottle-rcna595888",
-      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-09/260824-how--often-to-clean-water-bottle-dj-main-661a78.jpg",
-      "publishedAt": "2026-09-03T15:50:48Z",
-      "content": "Today, it would probably be hard to come across someone who doesnt have at least one or more reusable water bottles, from Stanley, Owala, Hydroflask or another popular brand. Its no secret that we ta… [+11411 chars]"
     }
-  ]
+  ],
+  "query": "medical health research wellness"
 }

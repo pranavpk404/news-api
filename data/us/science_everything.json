@@ -6,21 +6,47 @@
     "newsapi",
     "rss"
   ],
-  "fetched_at": "2026-10-06T10:49:15.032644+00:00",
-  "articles_count": 31,
+  "fetched_at": "2026-10-06T17:26:33.558420+00:00",
+  "articles_count": 29,
   "articles": [
     {
       "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
-      "author": "Aurelien Breeden",
+      "author": "Zeyi Yang",
+      "title": "In Race With U.S., China Struggles to Recruit Foreign A.I. Researchers",
+      "description": "China’s booming artificial intelligence sector has given local researchers good reason to remain in the country, but it has yet to lure overseas scientists despite a government push.",
+      "url": "https://www.nytimes.com/2026/10/06/science/china-ai-research-recruitment.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/10/05/multimedia/05sci-china-ai-researchers-01-gfjc/05sci-china-ai-researchers-01-gfjc-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-10-06T17:00:14Z",
+      "content": "China’s booming artificial intelligence sector has given local researchers good reason to remain in the country, but it has yet to lure overseas scientists despite a government push."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Aurelien Breeden and Katrina Miller",
       "title": "Nobel Prize in Physics Is Awarded to Francis Halzen for Work on Neutrinos",
-      "description": "The Nobel Committee praised his “vision and scientific leadership” at a research project at the South Pole.",
+      "description": "The Nobel Committee honored Francis Halzen for his “vision and scientific leadership” of a telescope within the ice at the South Pole.",
       "url": "https://www.nytimes.com/2026/10/06/science/nobel-prize-physics.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/10/06/multimedia/06SCI-nobel-physics-wvgp/06SCI-nobel-physics-wvgp-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-10-06T10:43:02Z",
-      "content": "The Nobel Committee praised his “vision and scientific leadership” at a research project at the South Pole."
+      "urlToImage": "https://static01.nyt.com/images/2026/10/06/multimedia/06SCI-nobel-physics-wvgp/06SCI-nobel-physics-wvgp-mediumSquareAt3X-v3.jpg",
+      "publishedAt": "2026-10-06T16:36:32Z",
+      "content": "The Nobel Committee honored Francis Halzen for his “vision and scientific leadership” of a telescope within the ice at the South Pole."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Raymond Zhong, Giacomo d’Orlando and Mira Rojanasakul",
+      "title": "Melting Swiss Glaciers Release Archaeological Treasures",
+      "description": "Archaeologists are scouring mountain passes as artifacts from a bygone world all but tumble out of Switzerland’s shrinking ice.",
+      "url": "https://www.nytimes.com/2026/10/06/climate/glacier-archaeology-melting-alps.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/10/04/multimedia/04cli-glacier-archaeology-01-tzlw/04cli-glacier-archaeology-01-tzlw-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-10-06T15:01:15Z",
+      "content": "Archaeologists are scouring mountain passes as artifacts from a bygone world all but tumble out of Switzerland’s shrinking ice."
     },
     {
       "source": {
@@ -34,32 +60,6 @@
       "urlToImage": "https://static01.nyt.com/images/2026/10/04/multimedia/04xp-nobels-wwk-sub-vfkm/04xp-nobels-wwk-sub-vfkm-mediumSquareAt3X.jpg",
       "publishedAt": "2026-10-06T10:24:48Z",
       "content": "The recipients of the six awards in science, literature, economics and peace work are being announced this week."
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "author": "Zeyi Yang",
-      "title": "In Race With U.S., China Struggles to Recruit Foreign A.I. Researchers",
-      "description": "China’s booming artificial intelligence sector has given local researchers good reason to remain in the country, but it has yet to lure overseas scientists despite a government push.",
-      "url": "https://www.nytimes.com/2026/10/06/science/in-race-with-us-china-struggles-to-recruit-foreign-ai-researchers.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/10/05/multimedia/05sci-china-ai-researchers-01-gfjc/05sci-china-ai-researchers-01-gfjc-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-10-06T09:03:19Z",
-      "content": "China’s booming artificial intelligence sector has given local researchers good reason to remain in the country, but it has yet to lure overseas scientists despite a government push."
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "author": "Raymond Zhong, Giacomo d’Orlando and Mira Rojanasakul",
-      "title": "Melting Swiss Glaciers Release Archaeological Treasures",
-      "description": "Archaeologists are scouring mountain passes as artifacts from a bygone world all but tumble out of Switzerland’s shrinking ice.",
-      "url": "https://www.nytimes.com/2026/10/06/climate/glacier-archaeology-melting-alps.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/10/04/multimedia/04cli-glacier-archaeology-01-tzlw/04cli-glacier-archaeology-01-tzlw-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-10-06T09:00:53Z",
-      "content": "Archaeologists are scouring mountain passes as artifacts from a bygone world all but tumble out of Switzerland’s shrinking ice."
     },
     {
       "source": {
@@ -242,32 +242,6 @@
       "urlToImage": "https://static01.nyt.com/images/2026/10/01/multimedia/01cli-epa-lawsuit-kqvc/01cli-epa-lawsuit-kqvc-mediumSquareAt3X.jpg",
       "publishedAt": "2026-10-02T19:22:49Z",
       "content": "The mostly Democratic-led states say that the E.P.A. acted unlawfully when it erased Biden-era limits on carbon dioxide from coal- and gas-fired plants."
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "author": "Adam Sella, Christopher Flavelle and Irena Hwang",
-      "title": "National Science Foundation Diverted $1.4 Billion in Science Funds Mandated by Congress",
-      "description": "The move, affecting about one-fifth of the National Science Foundation’s primary research budget, is the latest sign of how the White House is asserting more control over grants.",
-      "url": "https://www.nytimes.com/2026/10/02/us/politics/national-science-foundation-research-funds.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/10/01/multimedia/00dc-nsf-funding-qlvb/00dc-nsf-funding-qlvb-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-10-02T18:41:42Z",
-      "content": "The move, affecting about one-fifth of the National Science Foundation’s primary research budget, is the latest sign of how the White House is asserting more control over grants."
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "author": "Danny Hakim",
-      "title": "What Is Out There? The Findings So Far of a Trump-Backed U.F.O. Panel.",
-      "description": "Uncovering evidence of alien life would be “the biggest discovery ever made by humanity,” one expert said. But so far, there’s a lot of blurry photos and unconfirmed reports.",
-      "url": "https://www.nytimes.com/2026/10/02/us/trump-ufo-files-uap-council.html",
-      "urlToImage": null,
-      "publishedAt": "2026-10-02T14:40:54Z",
-      "content": "Uncovering evidence of alien life would be “the biggest discovery ever made by humanity,” one expert said. But so far, there’s a lot of blurry photos and unconfirmed reports."
     },
     {
       "source": {

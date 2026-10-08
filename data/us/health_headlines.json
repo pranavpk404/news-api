@@ -6,9 +6,35 @@
     "newsapi",
     "rss"
   ],
-  "fetched_at": "2026-10-08T08:02:58.434405+00:00",
-  "articles_count": 81,
+  "fetched_at": "2026-10-08T17:00:11.541510+00:00",
+  "articles_count": 82,
   "articles": [
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "K. R. Callaway",
+      "title": "What Experts Want to Know About the Russia Plague Scare",
+      "description": "Missing details about the death of a lab worker, including the cause, are worrying scientists.",
+      "url": "https://www.nytimes.com/2026/10/07/science/plague-russia-biosafety.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/10/07/science/07SCI-PLAGUE-BIOSECURITY/07SCI-PLAGUE-BIOSECURITY-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-10-08T15:09:49Z",
+      "content": "Missing details about the death of a lab worker, including the cause, are worrying scientists."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Emily Baumgaertner Nunn and Annie Flanagan",
+      "title": "For Two Sisters, a “Biological Age Test” Measured More Than Their DNA",
+      "description": "They thought it might explain why their health had diverged. Instead, it stirred up feelings that weren’t so easily quantified.",
+      "url": "https://www.nytimes.com/2026/10/08/science/truage-biological-age-test-genetics-sisters.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/10/08/science/08SCI-BIO-AGE/08SCI-BIO-AGE-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-10-08T15:06:25Z",
+      "content": "They thought it might explain why their health had diverged. Instead, it stirred up feelings that weren’t so easily quantified."
+    },
     {
       "source": {
         "id": "the-new-york-times",
@@ -21,19 +47,6 @@
       "urlToImage": "https://static01.nyt.com/images/2026/10/07/multimedia/07dc-kennedy-vaccines-zwbg/07dc-kennedy-vaccines-zwbg-mediumSquareAt3X.jpg",
       "publishedAt": "2026-10-08T01:40:49Z",
       "content": "Vaccine safety experts say more research into the side effects would be welcome yet question whether the health secretary’s effort will be grounded in science."
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "author": "K. R. Callaway",
-      "title": "What Experts Want to Know About the Russia Plague Scare",
-      "description": "Missing details about the death of a lab worker, including the cause, are worrying scientists.",
-      "url": "https://www.nytimes.com/2026/10/07/science/plague-russia-biosafety.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/10/07/science/07SCI-PLAGUE-BIOSECURITY/07SCI-PLAGUE-BIOSECURITY-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-10-07T20:22:39Z",
-      "content": "Missing details about the death of a lab worker, including the cause, are worrying scientists."
     },
     {
       "source": {
@@ -90,15 +103,184 @@
     {
       "source": {
         "id": null,
-        "name": "WTAE Pittsburgh"
+        "name": "Verywellhealth.com"
+      },
+      "author": "https://www.facebook.com/verywell",
+      "title": "6 Anti-Inflammatory Foods Dietitians Recommend Eating This Fall - Verywell Health",
+      "description": "Learn which anti-inflammatory foods to eat this fall, from apples and pumpkin to walnuts, and how they may support gut and immune health.",
+      "url": "https://www.verywellhealth.com/anti-inflammatory-foods-for-the-fall-12124138",
+      "urlToImage": "https://www.verywellhealth.com/thmb/9kHXBzaGm4RK8kMgyoZImS1dQto=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/VWH-GettyImages-860069490-9d3d842ae8214e359b01bce7837f608a.jpg",
+      "publishedAt": "2026-10-07T14:40:36Z",
+      "content": "<ul><li>Apples contain polyphenols, including quercetin, which may help reduce inflammation and support immune health.</li><li>Pumpkin is rich in beta-carotene, which the body converts to vitamin A, … [+4190 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ScienceAlert"
+      },
+      "author": "Carly Cassella",
+      "title": "Sexually Transmitted Diarrhea Is Exploding in The US. And It's Growing Resistant to Medicine - ScienceAlert",
+      "description": "A gut pathogen that causes diarrhea and vomiting is morphing into a dangerous and difficult-to-treat sexually transmitted infection (STI).",
+      "url": "https://www.sciencealert.com/sexually-transmitted-diarrhea-is-exploding-in-the-us-and-its-growing-resistant-to-medicine",
+      "urlToImage": "https://www.sciencealert.com/images/2026/10/GettyImages-2157183845-2560x1440-1.jpg",
+      "publishedAt": "2026-10-07T13:05:38Z",
+      "content": "A gut pathogen that causes diarrhea and vomiting is morphing into a dangerous and difficult-to-treat sexually transmitted infection (STI).\r\nIn the United States, roughly 450,000 people acquire shigel… [+5700 chars]"
+    },
+    {
+      "source": {
+        "id": "usa-today",
+        "name": "USA Today"
+      },
+      "author": "Madeline Mitchell",
+      "title": "She spent years studying pregnant women's brains. Here's what she found - USA Today",
+      "description": "Neuroscientist Susana Carmona has been studying brain changes for years. Here's what she wants pregnant women to know.",
+      "url": "https://www.usatoday.com/story/life/health-wellness/2026/10/07/do-womens-brains-change-during-pregnancy/92038938007/",
+      "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/10/06/USAT/92122391007-susana.jpg?crop=1439,810,x0,y192&width=1439&height=810&format=pjpg&auto=webp",
+      "publishedAt": "2026-10-07T12:25:00Z",
+      "content": "Do women's brains really change when they become mothers?\r\nYes, says neuroscientist Susana Carmona. But the changes actually start before they give birth.\r\nCarmona has been studying women's brains fo… [+5130 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "TODAY"
+      },
+      "author": "Maura Hohman",
+      "title": "This Is the First Question a Therapist Asks When Diagnosing Depression. Here’s Why - TODAY.com",
+      "description": "Depression can be caused by a range of factors, from family history to stressful events and lifestyle habits.",
+      "url": "https://www.today.com/health/mind-body/therapist-first-question-diagnosing-depression-tip-rcna601949",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_social_share_1200x630_center,f_auto,q_auto:best/rockcms/2026-10/question-therapist-depression-tip-mh-10072026-5f88e1.jpg",
+      "publishedAt": "2026-10-07T12:00:00Z",
+      "content": "Depression can be caused by a range of factors, from family history to stressful events and lifestyle habits. Thats psychotherapist Niro Feliciano has a go-to question when talking to a new client ab… [+1853 chars]"
+    },
+    {
+      "source": {
+        "id": "nbc-news",
+        "name": "NBC News"
+      },
+      "author": "Berkeley Lovelace Jr., Marina Kopf, Anne Thompson",
+      "title": "Experimental vaccine shows promise against deadly brain cancer in some patients - NBC News",
+      "description": "When Tracey Kassman was diagnosed with glioblastoma in 2022 at age 64, she thought her life was over.",
+      "url": "https://www.nbcnews.com/health/cancer/brain-tumor-vaccine-experimental-shot-shows-promise-glioblastoma-patie-rcna601650",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/261005-brain-tumor-vaccine-vsb-2108-copy-9eae0f.jpg",
+      "publishedAt": "2026-10-07T11:07:40Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
       },
       "author": null,
-      "title": "Measles case confirmed in Allegheny County with possible exposure at Target, health dept. says - WTAE",
-      "description": "An Allegheny County resident has tested positive for measles, with potential exposure reported at a Target store, health officials said.",
-      "url": "https://www.wtae.com/article/pennsylvania-measles-allegheny-county-target-exposure/74040205",
-      "urlToImage": "https://kubrick.htvapps.com/htv-prod/images/39a58c29-7202-4401-8687-9ea2ab3099d6.jpg?crop=1xw%3A1xh%3Bcenter%2Ctop&resize=1200%3A*",
-      "publishedAt": "2026-10-07T03:09:00Z",
-      "content": "PITTSBURGHThe Allegheny County Health Department said an unvaccinated minor under 18 years old has tested positive for measles and is recovering at home.\r\nIt's the first confirmed case of measles inv… [+1995 chars]"
+      "title": "Shingles rates fall off a cliff among some Americans as researchers reveal likely reason - Fox News",
+      "description": "Epic Research analyzed 85 million health records and found shingles rates dropped 62% among younger adults eligible for childhood chickenpox vaccination.",
+      "url": "https://www.foxnews.com/health/shingles-rates-fall-cliff-americans-researchers-reveal-likely-reason",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/10/woman-back-neck-pain.jpg",
+      "publishedAt": "2026-10-07T11:00:38Z",
+      "content": "Shingles rates have dropped sharply among younger U.S. adults, as the first generation eligible for routine childhood chickenpox vaccination is now in their late 20s.\r\nThats according to a major stud… [+3984 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "HuffPost"
+      },
+      "author": "Jillian Wilson",
+      "title": "Doctors Warn The Flu Is Having A ‘Very Early’ Surge In This Region. Here’s What You Need To Know. - AOL.com",
+      "description": "After a rough flu season in 2025-2026, experts have thoughts about the upcoming one.",
+      "url": "https://www.huffpost.com/entry/early-flu-season-fall-2026_l_6abfefaee4b0e84f8380ae3b",
+      "urlToImage": "https://hermes.media.static.aol.com/media/2026/10/07/a1ca7005-f381-3c5b-bafd-af8eb82c9af4/981bcd7c-c5ef-437d-b0cf-c1351c8d7972.jpeg",
+      "publishedAt": "2026-10-07T11:00:18Z",
+      "content": "Were creeping into flu season in the United States, but certain parts of the country, namely the West Coast, are seeing an earlier-than-usual start to flu season and an earlier-than-usual increase in… [+4793 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "HuffPost"
+      },
+      "author": null,
+      "title": "The Best Foods For Reducing Acid Reflux, According To Doctors And Nurses - HuffPost",
+      "description": "You probably know which foods make your reflux worse — but do you know some foods can actually improve how you feel?",
+      "url": "https://www.huffpost.com/entry/the-best-foods-for-reducing-acid-reflux_l_6a9825eee4b0a452561835a7",
+      "urlToImage": "https://img.huffingtonpost.com/asset/6abeac951c00000d4d95fee0.jpeg?cache=LJv2H9b5uI&ops=1200_630",
+      "publishedAt": "2026-10-07T11:00:18Z",
+      "content": "Nothing will ruin the enjoyment of a great meal like the stinging discomfort of acid reflux. When your stomach acid refuses to stay in its proper place and decides to push up into your esophagus and … [+6121 chars]"
+    },
+    {
+      "source": {
+        "id": "cbs-news",
+        "name": "CBS News"
+      },
+      "author": "Norah  O'Donnell",
+      "title": "Breast cancer rates are rising in young women. Here is what you can do to protect yourself. - CBS News",
+      "description": "Breast cancer is one of the most common cancers in adolescents and young adults under age 39, and the rate is rising fastest in women under 50.",
+      "url": "https://www.cbsnews.com/news/breast-cancer-rates-young-women-healthful/",
+      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/10/06/d6bd0267-c83a-4a8c-8396-d1021d381953/thumbnail/1200x630g2/2d0671465126918ba21307ce37f96586/teplinsky-promo.jpg",
+      "publishedAt": "2026-10-07T11:00:00Z",
+      "content": "\"Survivorship starts at the day of diagnosis,\" says Dr. Eleonora Teplinsky — and for hundreds of thousands of American women each year, it's their new reality.\r\nAccording to the American Cancer Socie… [+6012 chars]"
+    },
+    {
+      "source": {
+        "id": "the-washington-post",
+        "name": "The Washington Post"
+      },
+      "author": "Erica Sloan",
+      "title": "A heart disease warning could soon show up in your mammogram results - The Washington Post",
+      "description": "As of Oct. 1, mammography centers in Maryland must notify patients if their scans show breast arterial calcification (BAC). Other states may follow suit.",
+      "url": "https://www.washingtonpost.com/wellness/2026/10/07/your-next-mammogram-results-could-reveal-bac-heart-disease-warning-sign/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/EQSR2VN27QCNS4FXUYP26S3LJQ_size-normalized.jpg&w=1440",
+      "publishedAt": "2026-10-07T10:14:20Z",
+      "content": "On Oct. 1, a first-of-its-kind law went into effect in Maryland that requires mammography centers to notify patients if their scans show evidence of breast arterial calcification (BAC) calcium deposi… [+85 chars]"
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Deidre McPhillips",
+      "title": "As measles rages, one clinic leans on years of hard-won trust to keep vulnerable people safe - CNN",
+      "description": "Dr. Helge Hartung knows that he’s gained a patient’s trust when they start calling him by his last name. The community he serves is primarily Amish and others from the Plain people, so named for their simple way of dressing and known for their ​caution toward…",
+      "url": "https://www.cnn.com/2026/10/07/health/pennsylvania-amish-measles",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/c-261002-mg-health-measles-pennsylvania-065.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2026-10-07T10:00:45Z",
+      "content": "Belleville, Pennsylvania\r\n — \r\nMain Street is bustling on a Wednesday afternoon in late September. Cars mix with horse-and-buggy carriages on the road, many coming and going from the weekly Sale Day … [+16323 chars]"
+    },
+    {
+      "source": {
+        "id": "buzzfeed",
+        "name": "Buzzfeed"
+      },
+      "author": "Lily Grossinger",
+      "title": "These 39 People Say The Biggest Changes They Noticed In Family Members On GLP-1s Had Nothing To Do With Weight Loss, And It’s Eye-Opening - BuzzFeed",
+      "description": "\"She definitely wasn't the same person after starting GLP-1s.\"",
+      "url": "https://www.buzzfeed.com/lily_grossinger/glp-1-emotional-side-effects",
+      "urlToImage": "https://img.buzzfeed.com/buzzfeed-static/static/2026-10/05/17/thumb/kH7DMFoEt.jpg?crop=2500:1309;0,0%26downsize=1250:*",
+      "publishedAt": "2026-10-07T09:31:04Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Thebanner.com"
+      },
+      "author": "Kasturi  Pananjady, Meredith Cohn, Liz Bowie",
+      "title": "These 248 Maryland schools are most vulnerable to measles outbreaks - The Baltimore Banner",
+      "description": "Infectious-diseases experts say vaccination rates at some schools are concerning as Maryland sets a modern record for cases amid a wave of national outbreaks.",
+      "url": "https://www.thebanner.com/education/k-12-schools/maryland-schools-measles-vaccination-rates-BQNBEQ7WPREVNJYMKQM6Z3JKPI/",
+      "urlToImage": "https://www.thebanner.com/resizer/v2/VEVYQW4XYRGPFKVOJD7WASDODQ.JPG?auth=c870d86815844e1a70b682615a8a61806ce9b8f2a90748f7425d102970f85e89&width=1280&height=720&focal=2960,1594&quality=85",
+      "publishedAt": "2026-10-07T09:30:00Z",
+      "content": "Maryland has one of the highest measles vaccination rates in the country, but 248 of the states schools enroll enough unvaccinated kindergartners to give the disease a potential foothold, according t… [+9150 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "NPR"
+      },
+      "author": "Rob Stein",
+      "title": "An early flu season means it might be time to think about a flu shot - NPR",
+      "description": "Flu season typically starts in October or November. But it looks like the flu started to pick up in September this year.",
+      "url": "https://www.npr.org/2026/10/07/nx-s1-5992940/early-flu-season-vaccine",
+      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5543x3118+0+510/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fc0%2Fba%2F6cac83e146e7bd2fdd716004a481%2Fap26009621399976.jpg",
+      "publishedAt": "2026-10-07T09:00:00Z",
+      "content": "For stories on the science of healthy living, subscribe to NPR's Health newsletter.\r\nFall has only just begun, but it's already time to start thinking about the quintessential winter bug: the flu.\r\nT… [+3183 chars]"
     },
     {
       "source": {
@@ -142,6 +324,19 @@
     {
       "source": {
         "id": null,
+        "name": "New York Post"
+      },
+      "author": "Katie Jerkovich",
+      "title": "Sickly creature found in Los Angeles prompts official warning — marks first case in 50 years - New York Post",
+      "description": "A rabid raccoon found in a Southern California backyard has health officials in Los Angeles County issuing a warning about the dangers of exposure to humans and pets.",
+      "url": "https://nypost.com/2026/10/06/us-news/rabies-infected-raccoon-in-la-county-prompts-health-warning/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/10/144029693.jpg?quality=75&strip=all&w=1200",
+      "publishedAt": "2026-10-06T23:49:00Z",
+      "content": "A rabid raccoon found in a Southern California backyard led health officials in Los Angeles County to issue a warning about the dangers of exposure to humans and pets.\r\nOfficials said they are invest… [+3754 chars]"
+    },
+    {
+      "source": {
+        "id": null,
         "name": "Foxweather.com"
       },
       "author": "FOX Weather",
@@ -155,15 +350,41 @@
     {
       "source": {
         "id": null,
-        "name": "Health.com"
+        "name": "SILive.com"
       },
-      "author": "https://www.facebook.com/Health/",
-      "title": "The Best Time To Eat Walnuts To Support Brain Health - Health.com",
-      "description": "Eating walnuts at specific times may give your brain the boost of omega-3s it needs to get through the day or focus on tasks.",
-      "url": "https://www.health.com/best-time-to-eat-walnuts-for-brain-health-12158027",
-      "urlToImage": "https://www.health.com/thmb/rdav-K5E7zT064xP_V6hQ8rAc_w=/4000x0/filters:no_upscale():max_bytes(150000):strip_icc()/Health-GettyImages-2253298649-117317f3e3be49f4a80953e29e259251.jpeg",
-      "publishedAt": "2026-10-06T21:24:49Z",
-      "content": "Whether youre eating them as a snack or fitting them into recipes, walnuts are considered one of the healthiest nuts you can eatthats chiefly because theyre rich in healthy, unsaturated fats like ome… [+2751 chars]"
+      "author": "SILive.com",
+      "title": "2 Legionnaires’ disease cases prompt probe at Staten Island apartment complex - SILive.com",
+      "description": null,
+      "url": "https://www.silive.com/health/2026/10/legionella-bacteria-found-at-staten-island-apartment-building-2-residents-diagnosed-with-legionnaires-disease.html",
+      "urlToImage": null,
+      "publishedAt": "2026-10-06T20:53:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Helena Independent Record"
+      },
+      "author": "CARLY GRAF carly.graf@missoulian.com",
+      "title": "Montana child dies from bacterial infection, state health department says - The Independent Record",
+      "description": "The pediatric patient had not been vaccinated against Hib, a bacterial infection for which immunization has been available for nearly 40 years.",
+      "url": "https://helenair.com/news/state-regional/article_50ebc9b6-8dd6-433c-8ed1-394c79c41e9e.html",
+      "urlToImage": "https://bloximages.chicago2.vip.townnews.com/helenair.com/content/tncms/assets/v3/editorial/5/0e/50ebc9b6-8dd6-433c-8ed1-394c79c41e9e/6ac55533e6df2.preview.jpg?crop=1729%2C908%2C0%2C145&resize=1200%2C630&order=crop%2Cresize",
+      "publishedAt": "2026-10-06T20:45:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Phys.Org"
+      },
+      "author": null,
+      "title": "Diet alone cannot explain differences in gut bacterial communities - Phys.org",
+      "description": "Why do the gut microbiomes of people from industrialized and nonindustrialized regions differ? A study by the Helmholtz Center for Infection Research (HZI) in collaboration with the European Molecular Biology Laboratory (EMBL), the University of Trento (Italy…",
+      "url": "https://phys.org/news/2026-10-diet-differences-gut-bacterial-communities.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/2026/dietary-fiber-does-not-1.jpg",
+      "publishedAt": "2026-10-06T20:00:02Z",
+      "content": "Why do the gut microbiomes of people from industrialized and nonindustrialized regions differ? A study by the Helmholtz Center for Infection Research (HZI) in collaboration with the European Molecula… [+5256 chars]"
     },
     {
       "source": {
@@ -171,12 +392,25 @@
         "name": "New York Post"
       },
       "author": "Bianca Zalben",
-      "title": "Southern California surfers are being diagnosed with a bizarre ‘tumor’ condition - New York Post",
-      "description": "Surfers have long braved shark bites, reef scrapes, and the dreaded “surfer’s ear.”",
+      "title": "Southern California surfers are being diagnosed with a bizarre ‘tumor’ condition - Yahoo Health",
+      "description": "Surfers have long braved shark bites, reef scrapes, and the dreaded \"surfer's ear.\"",
       "url": "https://nypost.com/2026/10/06/lifestyle/strange-benign-chest-lumps-found-in-socal-surfers/",
-      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/10/comp11.jpg?quality=75&strip=all&w=1200",
-      "publishedAt": "2026-10-06T19:42:00Z",
-      "content": "Surfers have long braved shark bites, reef scrapes, and the dreaded “surfer’s ear.”\r\nBut now, aging wave-riders may be taking home a bizarre souvenir from years spent in the surf: strange, fatty grow… [+2767 chars]"
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/53c915e146f1e4e519102db8effc475821aead2714e4331b0835e584a055394e/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcalifornia_post_772%2F9a49309fa7d159631c1d82c5b1c1fbad.jpg",
+      "publishedAt": "2026-10-06T19:42:16Z",
+      "content": "Surfers have long braved shark bites, reef scrapes, and the dreaded \"surfer's ear.\"\r\nBut now, aging wave-riders may be taking home a bizarre souvenir from years spent in the surf: strange, fatty grow… [+2907 chars]"
+    },
+    {
+      "source": {
+        "id": "the-hill",
+        "name": "The Hill"
+      },
+      "author": "Addy Bink",
+      "title": "Plague cases still occur in the US: Here’s where - The Hill",
+      "description": "Earlier this year, a woman in New Mexico died of the plague, officials said.",
+      "url": "https://thehill.com/homenews/state-watch/6131883-plague-cases-still-occur-in-the-us-heres-where/",
+      "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2026/10/AP25192815464826-e1791311534334.jpg?w=1280",
+      "publishedAt": "2026-10-06T19:08:00Z",
+      "content": "Skip to content\r\n(NEXSTAR) — While U.S. officials have said they are monitoring reports of a possible plague outbreak in Russia, they have cautioned that it isn’t a “cause for alarm.” Still, worries … [+3790 chars]"
     },
     {
       "source": {
@@ -190,32 +424,6 @@
       "urlToImage": null,
       "publishedAt": "2026-10-06T19:06:13Z",
       "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "TODAY"
-      },
-      "author": "Sarah Jacoby",
-      "title": "The No. 1 Plant-Based Protein to Lower Cholesterol, According to a Dietitian - TODAY.com",
-      "description": "High cholesterol can sneak up on you, but making smart food choices can add up. Look for these plant proteins to get healthy fiber every day, a dietitian says.",
-      "url": "https://www.today.com/health/diet-fitness/best-plant-based-protein-lower-cholesterol-dietitian-rcna601894",
-      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_social_share_1200x630_center,f_auto,q_auto:best/rockcms/2026-10/best-plan-protein-lower-cholesterol-mh-10062026-7fb63d.jpg",
-      "publishedAt": "2026-10-06T18:55:31Z",
-      "content": "High cholesterol has a way of sneaking up on you. But, by focusing on what you put on your plate, those small choices can add up to big improvements in cholesterol numbers.\r\nWhile experts now agree t… [+2930 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Nature.com"
-      },
-      "author": null,
-      "title": "Flu season could kick off ‘incredibly’ early — what scientists are watching - Nature",
-      "description": "Cases in the Northern Hemisphere are cropping up weeks early, and they are dominated by a virus with a concerning mutation.",
-      "url": "https://www.nature.com/articles/d41586-026-03150-8",
-      "urlToImage": "https://media.nature.com/lw1200/magazine-assets/d41586-026-03150-8/d41586-026-03150-8_53809276.jpg",
-      "publishedAt": "2026-10-06T18:33:10Z",
-      "content": "A variant of the H1N1 influenza virus is dominating flu season in the Northern Hemisphere so far this year. Shown here are H1N1 influenza virus particles (yellow) releasing from an infected lung cell… [+3950 chars]"
     },
     {
       "source": {
@@ -246,15 +454,15 @@
     {
       "source": {
         "id": null,
-        "name": "Slate Magazine"
+        "name": "Newser"
       },
-      "author": "Emma Fischer",
-      "title": "I Was Assaulted at a Frat. Afterward, I Did Something Many People Can’t Understand. I Think Cornell’s Jane Doe Might. - Slate",
-      "description": "In the days after, I texted him, apologized, and promised to correct any rumors that I'd been raped.",
-      "url": "https://slate.com/life/2026/10/cornell-university-jane-doe-seven-case-sexual-assault.html",
-      "urlToImage": "https://compote.slate.com/images/ca0bd717-4963-44b4-b45a-0da82a073641.jpeg?crop=1560%2C1040%2Cx0%2Cy0&width=1560",
-      "publishedAt": "2026-10-06T17:47:00Z",
-      "content": "Sign up for the Slatest to get the most insightful analysis, criticism, and advice out there, delivered to your inbox daily.\r\nLast month, Jane Doe, a former student, filed a civil lawsuit against Cor… [+6328 chars]"
+      "author": "Jenn Gidman",
+      "title": "AAP: We Need a National Ban on Raw Milk - Newser",
+      "description": "Pediatricians re-up health risks from unpasteurized dairy, especially for kids, pregnant patients",
+      "url": "https://www.newser.com/story/397671/pediatricians-once-again-urge-us-ban-on-raw-milk.html",
+      "urlToImage": "https://cdn.newser.com/image/1716232-12-20261006122748.jpeg",
+      "publishedAt": "2026-10-06T17:00:00Z",
+      "content": "Raw milk's growing popularity is colliding with a blunt new warning from the nation's pediatricians. In a policy statement out Monday in the journal Pediatrics, the American Academy of Pediatrics urg… [+1136 chars]"
     },
     {
       "source": {
@@ -268,6 +476,32 @@
       "urlToImage": "https://s.yimg.com/lo/mysterio/api/21cc1eefc9371f40d8f6e76fcef8e504c8adb0634d195f3c97533c27d6ef2229/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmediaite_845%2F4972d899de685fd8ec911707bdfcd826.jpg",
       "publishedAt": "2026-10-06T16:46:23Z",
       "content": "Fox News anchor Sean Hannity said he was \"pressured\" to push Covid-19 vaccines on his viewers, even though he was uncomfortable doing so.\r\nThe cable news star vented about how he was compelled to ped… [+2951 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Women's Health"
+      },
+      "author": "Hannah Bradfield",
+      "title": "The most effective once-a-week strength workout for busy women – the 6 exercises that matter most - Women's Health",
+      "description": "Only have time for one strength session a week? A PT explains how to make it count with a 45-minute workout – and the key exercises to prioritise.",
+      "url": "https://www.womenshealthmag.com/uk/fitness/workouts/a74032996/once-a-week-strength-workout/",
+      "urlToImage": "https://hips.hearstapps.com/hmg-prod/images/f0690742-1655-48c6-a786-67d261a6d7bb.jpg?crop=1.00xw:0.754xh;0,0.0796xh&resize=1200:*",
+      "publishedAt": "2026-10-06T16:10:54Z",
+      "content": "When life gets busy, fitness is often one of the first things to slip down the priority list. But considering that skeletal muscle mass is one of our strongest defences against age-related decline, i… [+4880 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "FierceBiotech"
+      },
+      "author": "Marissa Russo",
+      "title": "Biotech’s peptide shows promise as ‘bait molecule’ to treat neuropathic pain in mice - Fierce Biotech",
+      "description": "While psychedelic drugs may capture all the attention when it comes to finding fresh ways to treat neuropathic pain, research with mice has suggested a peptide approach may also be effective. | While psychedelic drugs may be capturing all the attention when i…",
+      "url": "https://www.fiercebiotech.com/research/mimetics-peptide-shows-promise-non-psychedelic-method-reducing-neuropathic-pain",
+      "urlToImage": "https://qtxasset.com/quartz/qcloud5/media/image/ion_channel.jpg?VersionId=d57ofWfrjoIaTRnNJ3M4vPIUbs6vSoLw",
+      "publishedAt": "2026-10-06T15:00:00Z",
+      "content": null
     },
     {
       "source": {
@@ -298,6 +532,19 @@
     {
       "source": {
         "id": null,
+        "name": "Medical Xpress"
+      },
+      "author": null,
+      "title": "Minimally invasive technique offers lasting relief for carpal tunnel syndrome - Medical Xpress",
+      "description": "A minimally invasive ultrasound-guided technique offers long-term relief for patients with carpal tunnel syndrome with fewer side effects than steroids, according to a new study published in Radiology.",
+      "url": "https://medicalxpress.com/news/2026-10-minimally-invasive-technique-relief-carpal.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/minimally-invasive-tec.jpg",
+      "publishedAt": "2026-10-06T14:00:29Z",
+      "content": "A minimally invasive ultrasound-guided technique offers long-term relief for patients with carpal tunnel syndrome with fewer side effects than steroids, according to a new study published in Radiolog… [+5781 chars]"
+    },
+    {
+      "source": {
+        "id": null,
         "name": "Science Daily"
       },
       "author": null,
@@ -323,16 +570,16 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "The Conversation Africa"
+        "id": "usa-today",
+        "name": "USA Today"
       },
-      "author": "J. David Creswell",
-      "title": "Does your sleep tracker get it right? A Pittsburgh neuroscientist weighs in - The Conversation",
-      "description": "Can a sensor on your wrist really tell how your brain slept? Here’s what happens when sleep trackers go up against polysomnography, the clinical gold standard.",
-      "url": "https://theconversation.com/does-your-sleep-tracker-get-it-right-a-pittsburgh-neuroscientist-weighs-in-291936",
-      "urlToImage": "https://images.theconversation.com/files/761753/original/file-20260923-50-9c5xos.jpg?ixlib=rb-4.1.1&rect=0%2C188%2C2121%2C1060&q=45&auto=format&w=1356&h=668&fit=crop",
-      "publishedAt": "2026-10-06T12:13:29Z",
-      "content": "On a typical night, I go to bed wearing a tracking watch on one wrist and another type of tracker on the other wrist. Then I compare their sleep findings while I drink my morning coffee. \r\nI direct t… [+6640 chars]"
+      "author": "Daryl Austin",
+      "title": "A simple fall can change your life. Here’s how to prevent one - USA Today",
+      "description": "Aging doesn't mean falls are inevitable. People of any age can take steps to reduce their risk.",
+      "url": "https://www.usatoday.com/story/life/health-wellness/2026/10/06/how-to-stop-accidental-falls/91754570007/",
+      "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/09/14/USAT/91754595007-getty-images-1147098216.jpg?crop=2120,1193,x0,y0&width=2120&height=1193&format=pjpg&auto=webp",
+      "publishedAt": "2026-10-06T12:32:00Z",
+      "content": "Many of us can relate to tripping while climbing stairs, slipping on a wet floor or misjudging the height of a curb. While such infrequent mishaps usually result in little more than a moment of embar… [+6188 chars]"
     },
     {
       "source": {
@@ -402,19 +649,6 @@
     {
       "source": {
         "id": null,
-        "name": "The Weather Channel"
-      },
-      "author": "Caitlin Kaiser",
-      "title": "Leaf piles can hide ticks: What to know before you rake - The Weather Channel",
-      "description": "Before you jump into that big pile of leaves this fall, here’s what you need to know.",
-      "url": "https://weather.com/2026/10/06/safety/hidden-danger-leaf-pile-deer-ticks-lyme-disease",
-      "urlToImage": "https://s.w-x.co/wxnext/img/FallLeafPile-09cfac.jpg",
-      "publishedAt": "2026-10-06T09:25:00Z",
-      "content": "Leaf piles are a fall favorite, but ticks love them too\r\nNothing screams fall like jumping into a big pile of leaves, except for when you realize whats hiding in there a bunch of ticks.\r\nAnd not just… [+2716 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "The Conversation Africa"
       },
       "author": "Julie Moreno",
@@ -441,45 +675,6 @@
     {
       "source": {
         "id": null,
-        "name": "KABC-TV"
-      },
-      "author": null,
-      "title": "Possible rabid raccoon found in backyard of Westlake Village home; dog, 4 workers possibly exposed - ABC7 Los Angeles",
-      "description": "This is the 1st suspected case of rabies in a raccoon in L.A. County since 1973.",
-      "url": "https://abc7.com/story/possible-rabid-raccoon-found-backyard-westlake-village-home-dog-4-workers-possibly-exposed/19912142/",
-      "urlToImage": "https://cdn.abcotvs.com/dip/images/19912380_100526-kabc-rabid-raccoon-tn-2-img.jpg?w=1600",
-      "publishedAt": "2026-10-06T05:59:35Z",
-      "content": "WESTLAKE VILLAGE, Calif. (KABC) -- For the first time in more than 60 years, L.A. County has recorded a suspected case of rabies in a raccoon.\r\nWhen the raccoon was found in a backyard in Westlake Vi… [+1212 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Medscape"
-      },
-      "author": null,
-      "title": "CT Use Surges, Ultrasound Use Declines for Kidney Stones - Medscape",
-      "description": "CT use and hospital admissions for kidney stones increase over 9 years, while ultrasound use declines, a US study finds.",
-      "url": "https://www.medscape.com/viewarticle/kidney-stone-evaluations-rely-ct-scans-ultrasound-use-2026a1001180",
-      "urlToImage": "https://img.medscapestatic.com/vim/live/professional_assets/medscape/images/thumbnail_library/gty-251215-abdomen-ultrasound-800x450.jpg",
-      "publishedAt": "2026-10-06T04:12:22Z",
-      "content": "TOPLINE\r\nOver 9 years, CT use for the diagnosis of kidney stones in US emergency departments (EDs) increased from 73.8% in 2016 to 89.8% in 2024; however, ultrasound use declined from 5.8% to 3.8%. H… [+3843 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "KSL.com"
-      },
-      "author": "Debbie Worthen, KSL",
-      "title": "Mental Illness Awareness Week highlights importance of recognizing warning signs and seeking help - KSL News",
-      "description": "As Mental Illness Awareness Week shines a spotlight on mental health challenges, experts say understanding the signs of emotional distress and reducing stigma can help save lives.",
-      "url": "https://www.ksl.com/article/51632680/mental-illness-awareness-week-highlights-importance-of-recognizing-warning-signs-and-seeking-help",
-      "urlToImage": "https://img.ksl.com/slc/3204/320444/32044490.jpeg?filter=kslv2/responsive_story_lg",
-      "publishedAt": "2026-10-06T04:05:42Z",
-      "content": "SALK LAKE CITY As Mental Illness Awareness Week shines a spotlight on mental health challenges, experts say understanding the signs of emotional distress and reducing stigma can help save lives.\r\nAcc… [+4397 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "MedPage Today"
       },
       "author": "Terrence Rudd",
@@ -489,19 +684,6 @@
       "urlToImage": "https://assets.medpagetoday.net/media/images/123xxx/123281.jpg",
       "publishedAt": "2026-10-06T04:03:56Z",
       "content": "<ul><li>A clinical reference laboratory in the U.S. identified 48 confirmed cases and one probable case of Cladophialophora bantiana infection from January 2009 to July 2026.</li><li>Most C. bantiana… [+3805 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ScienceAlert"
-      },
-      "author": "Jess Cockerill",
-      "title": "Your Brain Under Anesthesia Behaves Surprisingly Like a Worm's, Scientists Discover - ScienceAlert",
-      "description": "Every day, thousands of people are put under general anesthesia as a routine part of surgery.",
-      "url": "https://www.sciencealert.com/your-brain-under-anesthesia-behaves-surprisingly-like-a-worms-scientists-discover",
-      "urlToImage": "https://www.sciencealert.com/images/2026/10/GettyImages-516361692-2560x1440-1.jpg",
-      "publishedAt": "2026-10-05T23:36:15Z",
-      "content": "Every day, thousands of people are put under general anesthesia as a routine part of surgery.\r\nEver since the first public demonstration of surgery under general anesthesia in 1846, these drugs have … [+4349 chars]"
     },
     {
       "source": {
@@ -532,15 +714,15 @@
     {
       "source": {
         "id": null,
-        "name": "SFGate"
+        "name": "The Philadelphia Inquirer"
       },
-      "author": "Ariana Bindman",
-      "title": "Virus that can cause rare polio-like illness rising in Northern California - SFGATE",
-      "description": "Rates of enterovirus D68 are rising in multiple parts of the Bay Area, recent data from municipal wastewater shows.",
-      "url": "https://www.sfgate.com/bayarea/article/evd68-virus-northern-california-22463452.php",
-      "urlToImage": "https://s.hdnux.com/photos/01/67/42/53/31337177/3/rawImage.jpg",
-      "publishedAt": "2026-10-05T21:36:23Z",
-      "content": "FILE: Palo Alto is a charter city in the northwest corner of Santa Clara County, Calif.\r\nDenisTangneyJr/Getty Images/iStockphoto\r\nRates of enterovirus D68, a respiratory virus that usually causes mil… [+3340 chars]"
+      "author": "Sarah Gantz",
+      "title": "Pennsylvania has logged 1,000 measles cases, among the biggest outbreaks in decades - Inquirer.com",
+      "description": "The outbreak has spread to more than half of Pennsylvania's 67 counties.",
+      "url": "https://www.inquirer.com/health/pennsylvania-measles-outbreak-one-thousand-cases-20261005.html",
+      "urlToImage": "https://www.inquirer.com/resizer/v2/MFKRFJBWUVBW7PEYGLTF4OYYCA.jpg?auth=591b912faf661290368b410eb176f575f8f7566c2392350532a1eb6bd57e9d1a&width=760&height=507&smart=true",
+      "publishedAt": "2026-10-05T21:14:02Z",
+      "content": "Listen to article 0:00 min\r\nPennsylvania surpassed 1,000 measles cases Monday, crossing a grim milestone to rank among the largest U.S. measles outbreak in decades.\r\nPennsylvania reported 106 new mea… [+4626 chars]"
     },
     {
       "source": {
@@ -554,19 +736,6 @@
       "urlToImage": "https://static01.nyt.com/images/2026/10/05/multimedia/05SCI-nobel-medicin-01-tfkh/05SCI-nobel-medicin-01-tfkh-mediumSquareAt3X.jpg",
       "publishedAt": "2026-10-05T21:09:36Z",
       "content": "Karl Deisseroth, Peter Hegemann and Georg Nagel were recognized for their work on light-gated ion channels and optogenetics, a technique that uses pulses of light to activate neurons in the brain."
-    },
-    {
-      "source": {
-        "id": "the-washington-post",
-        "name": "The Washington Post"
-      },
-      "author": "Kathleen Felton",
-      "title": "Pediatricians renew their call for a ban on raw milk - The Washington Post",
-      "description": "In new guidance, the American Academy of Pediatrics says unpasteurized dairy is unsafe and offers no proven health benefits.",
-      "url": "https://www.washingtonpost.com/wellness/2026/10/03/raw-milk-is-dangerous-pediatricians-warn/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/DIOORGEYMZGOBHQQW3MZNVRMME_size-normalized.jpg&w=1440",
-      "publishedAt": "2026-10-05T20:00:00Z",
-      "content": "Anyone can become ill after eating or drinking unpasteurized dairy. But raw milk and foods made from it are especially risky for children and pregnant people, the American Academy of Pediatrics warne… [+63 chars]"
     },
     {
       "source": {
@@ -596,58 +765,6 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "DAWN.com"
-      },
-      "author": "Ikram Junaidi",
-      "title": "Pakistan reports this year's sixth polio case - Dawn",
-      "description": "Affected child is a seven-year-old boy from KP's Khyber, says NEOC.",
-      "url": "https://www.dawn.com",
-      "urlToImage": "https://i.dawn.com/large/2026/10/05224131b65fc69.webp",
-      "publishedAt": "2026-10-05T17:42:22Z",
-      "content": "ISLAMABAD: The National Emergency Operations Centre for Polio Eradication (NEOC) on Monday said Pakistan had reported its sixth polio case in the ongoing year.\r\nThe fresh case was reported from Khybe… [+1312 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "TODAY"
-      },
-      "author": "Natalie Rizzo, RD",
-      "title": "Everyone Is Talking About Ferritin Levels. How Much Does It Really Matter for Your Health? - TODAY.com",
-      "description": "A hemotologist explains what ferritin is and how it can impact your iron levels. Learn how to check your ferritin and how your doctor might interpret your results.",
-      "url": "https://www.today.com/health/diet-fitness/ferritin-levels-iron-deficiency-blood-test-worth-monitor-expert-rcna600752",
-      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_social_share_1200x630_center,f_auto,q_auto:best/rockcms/2026-10/ferritin-guidelines-as10052026-a63b18.jpg",
-      "publishedAt": "2026-10-05T16:48:26Z",
-      "content": "Ferritin is having a moment. The iron-storage protein is showing up more and more in conversations about fatigue, wellness and blood work, but what does your ferritin number actually tell you?\r\nFerri… [+7349 chars]"
-    },
-    {
-      "source": {
-        "id": "newsweek",
-        "name": "Newsweek"
-      },
-      "author": "Jasmine Laws",
-      "title": "Scientists Served Processed and Unprocessed Meals—Then Compared the Effects - Newsweek",
-      "description": "The way food is processed, not just its nutritional value, could affect how your body responds to it, researchers at Virginia Tech have found.",
-      "url": "https://www.newsweek.com/ultraprocessed-food-changes-metabolic-response-study-12523675",
-      "urlToImage": "https://assets.newsweek.com/wp-content/uploads/2026/10/Untitled-design-9-Custom.png?w=1200&crop=1",
-      "publishedAt": "2026-10-05T16:29:00Z",
-      "content": "The way food is processed, not just its nutritional value, could affect how your body responds to it, researchers at Virginia Tech have found. \r\nThe scientists gave participants either a minimally or… [+6818 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Gothamist"
-      },
-      "author": "https://gothamist.com/staff/joe-hong",
-      "title": "2 Legionnaires’ disease cases appear at a Queens housing complex. Here’s what we know. - Gothamist",
-      "description": "Health officials advised that older or immunocompromised residents should avoid taking showers until the investigation is complete.",
-      "url": "https://gothamist.com/news/two-legionnaires-disease-cases-appear-at-a-queens-housing-complex-heres-what-we-know",
-      "urlToImage": "https://api-prod.gothamist.com/images/361792/fill-1200x650|format-webp|webpquality-85/",
-      "publishedAt": "2026-10-05T16:29:00Z",
-      "content": "Two residents of the North Shore Towers in the Glen Oaks neighborhood of Queens were diagnosed with Legionnaires disease, prompting an investigation by New York Citys Department of Health and Mental … [+2092 chars]"
-    },
-    {
-      "source": {
         "id": "medical-news-today",
         "name": "Medical News Today"
       },
@@ -658,32 +775,6 @@
       "urlToImage": "https://media.post.rvohealth.io/wp-content/uploads/sites/3/2026/10/getty_2163460337_facebook_1200x630-1200x628.jpg",
       "publishedAt": "2026-10-05T16:26:11Z",
       "content": "<ul><li>Participants taking a creatine supplement without participating in an exercise program gained about 2.4 pounds of lean muscle over 12 weeks.</li><li>Meanwhile, those who took creatine and par… [+7304 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Newser"
-      },
-      "author": "Kate Seamons",
-      "title": "GLP-1 Users Report More Nail Detachments - Newser",
-      "description": "Survey links weight-loss drugs to increased nail problems",
-      "url": "https://www.newser.com/story/397592/glp-1-users-suffer-higher-rates-of-nail-detachment.html",
-      "urlToImage": "https://cdn.newser.com/image/1715946-12-20261005114104.jpeg",
-      "publishedAt": "2026-10-05T16:15:00Z",
-      "content": "Dermatologists stress the findings are early and can't prove the medications are to blame; rapid weight loss, nutritional gaps, and underlying conditions may all play a role. \"Our findings show a cle… [+507 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "New York Post"
-      },
-      "author": "Rachel Sacks",
-      "title": "The underdiagnosed condition that could raise your risk of heart disease — and the quick ankle test to catch it - New York Post",
-      "description": "An overlooked risk factor for heart attack and stroke, especially in women, can be detected with a simple test.",
-      "url": "https://nypost.com/2026/10/05/health/the-underdiagnosed-condition-that-could-raise-heart-disease-risk/",
-      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/10/crop-41143550.jpg?quality=75&strip=all&w=1200",
-      "publishedAt": "2026-10-05T16:05:00Z",
-      "content": "Time for a heart-to-heart.\r\nWhen we think of cardiovascular disease, we might associate conditions like irregular heartbeat or heart failure with plaque buildup in the heart’s arteries.\r\nIt’s also wi… [+3437 chars]"
     },
     {
       "source": {
@@ -739,19 +830,6 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "Nature.com"
-      },
-      "author": null,
-      "title": "Decline of chaperone-mediated autophagy in aging impairs macrophage clearance of senescent cells - Nature",
-      "description": "This study looks at how the decline in chaperone-mediated autophagy in aging alters senescent cell properties leading to an impairment in their immune clearance. Utilizing proteomic and metabolomic analyses, the authors show that restoring autophagy enhances …",
-      "url": "https://www.nature.com/articles/s43587-026-01240-w",
-      "urlToImage": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs43587-026-01240-w/MediaObjects/43587_2026_1240_Fig1_HTML.png",
-      "publishedAt": "2026-10-05T11:08:25Z",
-      "content": "Blockage of CMA displays a senescence-like phenotype\r\nTo assess CMA activity during senescence in aging cells, we isolated mouse ear fibroblasts (mEFs), a reliable primary cell model for the study of… [+53149 chars]"
-    },
-    {
-      "source": {
         "id": "the-washington-post",
         "name": "The Washington Post"
       },
@@ -762,6 +840,32 @@
       "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/2KHJH4AJAJMATRPTKDAFW7JQGM_size-normalized.jpg&w=1440",
       "publishedAt": "2026-10-05T10:16:27Z",
       "content": "You know that whole grains are good for your heart. New research identifies how much it takes to notice improvements in cholesterol, blood pressure and more.\r\nOctober 5, 2026 at 6:00 a.m. EDT18 minut… [+5 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Medical Xpress"
+      },
+      "author": null,
+      "title": "Same calories, different responses: Food processing influences metabolism and brain activity - Medical Xpress",
+      "description": "Most nutrition science suggests that meals with the same basic nutritional profile will have the same impact on a person's blood sugar.",
+      "url": "https://medicalxpress.com/news/2026-10-calories-responses-food-metabolism-brain.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/food-processing-influe.jpg",
+      "publishedAt": "2026-10-05T09:00:01Z",
+      "content": "Most nutrition science suggests that meals with the same basic nutritional profile will have the same impact on a person's blood sugar.\r\nBut is there something about food processing itself that influ… [+7967 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Medical Xpress"
+      },
+      "author": null,
+      "title": "Brain tissue removed during surgery reveals potential way to curb inflammation linked to Alzheimer's - Medical Xpress",
+      "description": "Inflammatory conditions in the brain, including traumatic brain injury and degenerative diseases like Alzheimer's, could be targeted with an existing drug thanks to new research that shows it can work in brain cells.",
+      "url": "https://medicalxpress.com/news/2026-10-brain-tissue-surgery-reveals-potential.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2018/2-braincells.jpg",
+      "publishedAt": "2026-10-04T23:10:02Z",
+      "content": "Inflammatory conditions in the brain, including traumatic brain injury and degenerative diseases like Alzheimer's, could be targeted with an existing drug thanks to new research that shows it can wor… [+4017 chars]"
     },
     {
       "source": {
@@ -817,6 +921,19 @@
     },
     {
       "source": {
+        "id": "the-washington-post",
+        "name": "The Washington Post"
+      },
+      "author": "Jennifer Fields",
+      "title": "New study suggests possible connection between GLP-1s and hair loss in men - The Washington Post",
+      "description": "But experts caution that there are several reasons people may shed hair, including sudden weight loss and genetic predisposition.",
+      "url": "https://www.washingtonpost.com/wellness/2026/10/03/new-study-suggests-possible-connection-between-glp-1s-hair-loss-men/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/6ODDBRXKI3NE2TXX3T5JWF6ZBI_size-normalized.jpg&w=1440",
+      "publishedAt": "2026-10-03T16:00:00Z",
+      "content": "Hair loss has become one of the most reported concerns among people taking GLP-1 drugs, such as Ozempic, Wegovy and Zepbound so much so that the phenomenon has earned the nickname Ozempic hair.\r\nSeve… [+269 chars]"
+    },
+    {
+      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -843,29 +960,16 @@
     },
     {
       "source": {
-        "id": "ars-technica",
-        "name": "Ars Technica"
+        "id": null,
+        "name": "New York Post"
       },
-      "author": "Beth Mole",
-      "title": "Patient-zero drill put health facilities to the test—40% of them failed - Ars Technica",
-      "description": "Actors with makeup and fake symptoms staggered into 73 healthcare facilities.",
-      "url": "https://arstechnica.com/health/2026/10/patient-zero-drill-put-health-facilities-to-the-test-40-of-them-failed/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-1227666052-1152x648.jpg",
-      "publishedAt": "2026-10-02T20:07:59Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "nbc-news",
-        "name": "NBC News"
-      },
-      "author": "Kaitlin Sullivan",
-      "title": "Shingles cases dropping among people who got chickenpox vaccine, data shows - NBC News",
-      "description": "Shingles is dropping among people who got chickenpox shots but mysteriously rising in people 35 and older, new research shows.",
-      "url": "https://www.nbcnews.com/health/health-news/young-adults-shingles-cases-down-chickenpox-vaccine-rcna600577",
-      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-09/260930-shingles-ww-1509-0b96b2.jpg",
-      "publishedAt": "2026-10-02T15:03:42Z",
-      "content": "The chickenpox vaccine appears to protect against shingles, according to a large new analysis. \r\nAnyone who got infected with chickenpox as a child is at risk of later developing shingles, a painful,… [+4489 chars]"
+      "author": "Allie Yang",
+      "title": "New weight-loss drug could give you a ‘flatter stomach’ in mere weeks — and unlike Ozempic, it targets belly fat directly - New York Post",
+      "description": "“We expect that patients will be pleased by the cosmetic effects,” one author said.",
+      "url": "https://nypost.com/2026/10/02/health/new-weight-loss-drug-targets-belly-fat-and-can-give-flatter-stomach-in-weeks/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/10/crop-41104927_46f1f1.jpg?quality=75&strip=all&w=1200",
+      "publishedAt": "2026-10-02T16:18:00Z",
+      "content": "Could a new drug that makes fat cells self-destruct be the next big GLP-1?\r\nCBL-514 targets fat cells, and a new study shows it was effective in slimming down participants’ waistlines.\r\nEarly data su… [+3280 chars]"
     },
     {
       "source": {
@@ -879,32 +983,6 @@
       "urlToImage": "https://domf5oio6qrcr.cloudfront.net/medialibrary/19040/conversions/gettyimages-979555784-thumb.jpg",
       "publishedAt": "2026-10-02T07:00:00Z",
       "content": "Walking is an easy, accessible way to meet your exercise goals. To reap longevity benefits from a daily walk, you can walk either farther or faster, a new study suggests.\r\nThe study relied on data fr… [+1512 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Nature.com"
-      },
-      "author": null,
-      "title": "Can pancreatic cancer be stopped in its tracks? Radical tactic raises hopes - Nature",
-      "description": "With prospects for new treatments at an all-time high, researchers are looking for ways to boost survival by treating the disease early.",
-      "url": "https://www.nature.com/articles/d41586-026-03119-7",
-      "urlToImage": "https://media.nature.com/lw1200/magazine-assets/d41586-026-03119-7/d41586-026-03119-7_53785232.jpg",
-      "publishedAt": "2026-10-02T03:29:58Z",
-      "content": "Early detection of pancreatic cancer (red; artificially coloured) could help to improve the survival rates of a highly lethal disease.Credit: PDC/SPL\r\nArmed with new tools and fresh optimism, researc… [+4335 chars]"
-    },
-    {
-      "source": {
-        "id": "bloomberg",
-        "name": "Bloomberg"
-      },
-      "author": "Jason Gale",
-      "title": "Scientists Are Learning How to Control HIV Without Drugs - Bloomberg.com",
-      "description": "Doctors have shown the immune system can be primed to keep the virus in check — a promising advance just as US funding cuts threaten future research.",
-      "url": "https://www.bloomberg.com/news/features/2026-10-02/hiv-cure-research-advances-as-immune-therapy-controls-virus",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/igmdISW.qhIo/v0/1200x1500.jpg",
-      "publishedAt": "2026-10-02T02:00:00Z",
-      "content": "When Steven Deeks first walked into Ward 86 at San Francisco General Hospital in 1993, it didnt look like one of the worlds leading AIDS clinics. It was crowded, grimy and squeezed into an aging red-… [+521 chars]"
     },
     {
       "source": {
@@ -948,32 +1026,6 @@
     {
       "source": {
         "id": null,
-        "name": "Science.org"
-      },
-      "author": "Science | AAAS",
-      "title": "X and Y chromosomes as determinants of aging and disease - Science | AAAS",
-      "description": null,
-      "url": "https://www.science.org/doi/10.1126/science.aeh0145",
-      "urlToImage": null,
-      "publishedAt": "2026-10-01T18:18:16Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Science.org"
-      },
-      "author": null,
-      "title": "Sex-specific mechanisms of chronic pain - Science | AAAS",
-      "description": "For decades, we have known that women, especially younger women, are disproportionately affected by pain disorders, including irritable bowel syndrome, endometriosis, menstrual migraines, fibromyalgia, osteoarthritis, and neuropathic pain, all of which ...",
-      "url": "https://www.science.org/doi/10.1126/science.aeh4468",
-      "urlToImage": "https://www.science.org/cms/asset/b9a83170-29a1-4328-b4e1-3214392178af/science.aeh4468-keyimage.gif",
-      "publishedAt": "2026-10-01T18:18:15Z",
-      "content": "eLetters is a forum for ongoing peer review. eLetters are not edited, proofread, or indexed, but they are screened. eLetters should provide substantive and scholarly commentary on the article. Neithe… [+506 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "Cdc.gov"
       },
       "author": "CDC",
@@ -983,19 +1035,6 @@
       "urlToImage": "https://www.cdc.gov/mmwr/volumes/75/wr/social-media/weekly_generic_logo_1200x675_1.jpg?_=88225",
       "publishedAt": "2026-10-01T17:02:55Z",
       "content": "Christine A. Wang, DVM, PhD1,2; Jacob Hojnacki, MPH3; Sierra Jaramillo3; Saba Qasmieh, PhD1,2; Irene Ruberto, PhD2; Laura Platt, MD4; Schante Patton3; Guillermo Adame, MPH2; Drew Francis2; Grace Marx… [+9304 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Nature.com"
-      },
-      "author": null,
-      "title": "Sugar-rich foods exacerbate antibiotic-induced microbiome disruption - Nature",
-      "description": "Avoiding a diet rich in simple sugars during treatment with antibiotics may mitigate microbiota disruption.",
-      "url": "https://www.nature.com/articles/s41586-026-11077-3",
-      "urlToImage": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-11077-3/MediaObjects/41586_2026_11077_Fig1_HTML.png",
-      "publishedAt": "2026-09-30T23:17:28Z",
-      "content": "Patients\r\nIn this cohort study of adult allo-HCT recipients at Memorial Sloan Kettering Cancer Center in New York between 2017 and 2022, eligible participants had been admitted for Allo-HCT. Three ti… [+41314 chars]"
     },
     {
       "source": {
@@ -1035,32 +1074,6 @@
       "urlToImage": "https://static01.nyt.com/images/2026/10/06/multimedia/30sci-sasse-cancer-ljfm/30sci-sasse-cancer-ljfm-mediumSquareAt3X.jpg",
       "publishedAt": "2026-09-30T17:48:56Z",
       "content": "Researchers are asking why patients, like former Senator Ben Sasse, inevitably develop resistance to the drug daraxonrasib."
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "author": "Gina Kolata",
-      "title": "New Cancer Drugs Are Revolutionary. Why Don’t More Patients Get Them?",
-      "description": "Targeted gene therapies are highly effective at stopping cancers, but the very abundance of the treatments, plus cost and sluggish change, are hindering access.",
-      "url": "https://www.nytimes.com/2026/09/30/science/new-cancer-drugs-are-revolutionary-why-dont-more-patients-get-them.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/10/06/multimedia/00Sci-cancer-shortfall-01-fjwh/00Sci-cancer-shortfall-01-fjwh-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-09-30T14:02:22Z",
-      "content": "Targeted gene therapies are highly effective at stopping cancers, but the very abundance of the treatments, plus cost and sluggish change, are hindering access."
-    },
-    {
-      "source": {
-        "id": "fox-news",
-        "name": "Fox News"
-      },
-      "author": null,
-      "title": "Heavy drinking surges among Americans in one age group as other generations cut back - Fox News",
-      "description": "Adults ages 50 to 64 saw heavy drinking surge more than 36% since 2018, even as overall U.S. alcohol use finally began to decline post-pandemic.",
-      "url": "https://www.foxnews.com/health/heavy-drinking-surges-americans-one-age-group-other-generations-cut-back",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/09/older-adults-toasting-with-drinks-1.gif",
-      "publishedAt": "2026-09-30T11:00:33Z",
-      "content": "New research shows that U.S. alcohol use has declined for the first time since the COVID-19 pandemic, but drinking remains above pre-pandemic levels with one particular group showing a sharp increase… [+6895 chars]"
     }
   ]
 }

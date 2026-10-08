@@ -1,7 +1,33 @@
 {
   "status": "ok",
-  "totalResults": 93,
+  "totalResults": 95,
   "articles": [
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Trip Gabriel",
+      "title": "Margaret Hamilton, Whose Software Guided the Apollo Missions, Has Died",
+      "description": "Margaret Hamilton, the first female programmer hired to work on the space project at M.I.T., was 90.",
+      "url": "https://www.nytimes.com/2026/10/07/obituaries/margaret-hamilton-dead.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/10/07/obituaries/00obit-hamilton/00obit-hamilton-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-10-07T23:51:08Z",
+      "content": "Margaret Hamilton, the first female programmer hired to work on the space project at M.I.T., was 90."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Sheryl Gay Stolberg",
+      "title": "RFK Jr. Plans Vaccine Injury Initiative, Drawing Wary Eye From Experts",
+      "description": "Vaccine safety experts say more research into the side effects would be welcome yet question whether the health secretary’s effort will be grounded in science.",
+      "url": "https://www.nytimes.com/2026/10/07/us/politics/kennedy-vaccine-injuries.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/10/07/multimedia/07dc-kennedy-vaccines-zwbg/07dc-kennedy-vaccines-zwbg-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-10-07T23:42:42Z",
+      "content": "Vaccine safety experts say more research into the side effects would be welcome yet question whether the health secretary’s effort will be grounded in science."
+    },
     {
       "source": {
         "id": "the-new-york-times",
@@ -12,7 +38,7 @@
       "description": "By measuring the squishing and unsquishing of thorium-229 nuclei, two teams created a new type of clock that could someday beat the precision of atomic clocks.",
       "url": "https://www.nytimes.com/2026/10/07/science/first-nuclear-clocks-thorium-229.html",
       "urlToImage": null,
-      "publishedAt": "2026-10-07T20:34:00Z",
+      "publishedAt": "2026-10-07T21:15:55Z",
       "content": "By measuring the squishing and unsquishing of thorium-229 nuclei, two teams created a new type of clock that could someday beat the precision of atomic clocks."
     },
     {
@@ -147,6 +173,19 @@
     },
     {
       "source": {
+        "id": null,
+        "name": "ZME Science"
+      },
+      "author": "Tibi Puiu",
+      "title": "Astronomers May Have Found the First Direct Hint of Planet Nine - ZME Science",
+      "description": "A faint infrared object may be the long-sought planet hiding beyond Neptune.",
+      "url": "https://www.zmescience.com/science/news-science/astronomers-may-have-found-the-first-direct-hint-of-planet-nine/",
+      "urlToImage": "https://cdn.zmescience.com/wp-content/uploads/2026/10/planet-nine.jpg",
+      "publishedAt": "2026-10-06T21:39:33Z",
+      "content": "Illustration of hypothetical Planet Nine. Credit: ZME Science. \r\nFor years, astronomers have wondered whether another huge planet is lurking unseen in the cold darkness beyond Neptune. It sounds sill… [+4570 chars]"
+    },
+    {
+      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -170,6 +209,19 @@
       "urlToImage": "https://static01.nyt.com/images/2026/10/06/multimedia/06cli-nuclear-pmbv/06cli-nuclear-pmbv-mediumSquareAt3X.jpg",
       "publishedAt": "2026-10-06T19:37:09Z",
       "content": "It takes a long time to build new nuclear plants. So, some U.S. companies are looking to get more electricity out of reactors that already exist."
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Passant Rabie",
+      "title": "Japan’s Asteroid Probe Lost Its Last Working Engine. Engineers Have a Clever Fix - Gizmodo",
+      "description": "Hayabusa2 is on an extended mission to collect another batch of samples from a tiny asteroid.",
+      "url": "https://gizmodo.com/japans-asteroid-probe-lost-its-last-working-engine-engineers-have-a-clever-fix-2000822183",
+      "urlToImage": "https://gizmodo.com/app/uploads/2026/10/hayabusa2-1200x675.jpg",
+      "publishedAt": "2026-10-06T18:30:35Z",
+      "content": "On December 6, 2020, Japans Hayabusa2 probe dropped off samples from asteroid Ryugu in the Australian outback before beginning a second journey toward a smaller space rock. The spacecraft’s extended … [+2820 chars]"
     },
     {
       "source": {
@@ -199,19 +251,6 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "New York Post"
-      },
-      "author": "Ben Cost",
-      "title": "Psychic AI can read minds — and recreate our thoughts with frightening accuracy: ‘Sci-fi can come true’ - New York Post",
-      "description": "Is it total recall?",
-      "url": "https://nypost.com/2026/10/06/tech/ai-tool-can-read-minds-and-recreate-with-frightening-accuracy/",
-      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/10/crop-41165270.jpg?quality=75&strip=all&w=1200",
-      "publishedAt": "2026-10-06T15:03:00Z",
-      "content": "Call it a Chat-scan.\r\nJust in case artificial intelligence didn’t spark enough privacy concerns: Israeli scientists have devised a mind-reading program named Brain-IT that can tell what people are th… [+4323 chars]"
-    },
-    {
-      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -226,15 +265,28 @@
     {
       "source": {
         "id": null,
+        "name": "Space.com"
+      },
+      "author": "Anthony Wood",
+      "title": "Watch a brilliant green meteor explode over Arizona (video) - Space",
+      "description": "A brilliant fireball brightened the night sky over Arizona on Oct. 6, before appearing to fragment as it neared the surface.",
+      "url": "https://www.space.com/stargazing/meteor-showers/watch-a-brilliant-green-meteor-explode-over-arizona-video",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/Ctbdyu5mRxEFZEngUAVRTT-2000-80.jpg",
+      "publishedAt": "2026-10-06T14:28:52Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
         "name": "Phys.Org"
       },
       "author": null,
-      "title": "Where are the best places for life in the cosmos? A universe in a supercomputer yields an answer - Phys.org",
-      "description": "Earth seems like a troubled place right now, but at least our cosmic surroundings appear peaceful. This is not universally true, as explosions, collisions and other dangers lurk in other places and times.",
-      "url": "https://phys.org/news/2026-10-life-cosmos-universe-supercomputer-yields.html",
-      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/where-are-the-best-pla.jpg",
-      "publishedAt": "2026-10-06T14:40:29Z",
-      "content": "Earth seems like a troubled place right now, but at least our cosmic surroundings appear peaceful. This is not universally true, as explosions, collisions and other dangers lurk in other places and t… [+5936 chars]"
+      "title": "Vanillin provides a sweet solution for chronic wound healing - Phys.org",
+      "description": "A team from Flinders University's Biomedical Nanoengineering Laboratory has found that vanillin has pronounced antioxidant, anti-inflammatory and antibacterial properties, making it a good candidate for wound-healing formulations. Their work is published in t…",
+      "url": "https://phys.org/news/2026-10-vanillin-sweet-solution-chronic-wound.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/2026/vanillin-provides-a-sw.jpg",
+      "publishedAt": "2026-10-06T13:20:07Z",
+      "content": "A team from Flinders University's Biomedical Nanoengineering Laboratory has found that vanillin has pronounced antioxidant, anti-inflammatory and antibacterial properties, making it a good candidate … [+3694 chars]"
     },
     {
       "source": {
@@ -304,6 +356,19 @@
     {
       "source": {
         "id": null,
+        "name": "Big Think"
+      },
+      "author": "Ethan Siegel",
+      "title": "Pure sulfur discovered on Mars, making Martian concrete possible - Big Think",
+      "description": "Strong, durable Martian concrete needs a mix of small-grained Martian sand and pure sulfur. NASA found the ingredients are already there.",
+      "url": "https://bigthink.com/starts-with-a-bang/sulfur-mars-martian-concrete-possible/",
+      "urlToImage": "https://bigthink.com/wp-content/uploads/2026/10/coversulfur.jpg?resize=1200,630",
+      "publishedAt": "2026-10-06T06:00:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
         "name": "KSL.com"
       },
       "author": "Joey Roulette, Reuters",
@@ -356,15 +421,41 @@
     {
       "source": {
         "id": null,
+        "name": "The Conversation Africa"
+      },
+      "author": "Geraint Lewis, Luke Barnes, Miroslav Filipovic",
+      "title": "Where are the best places for life in the cosmos? A universe in a supercomputer yields the answer - The Conversation",
+      "description": "Turns out the Milky Way is as good as it gets.",
+      "url": "https://theconversation.com/where-are-the-best-places-for-life-in-the-cosmos-a-universe-in-a-supercomputer-yields-the-answer-292608",
+      "urlToImage": "https://images.theconversation.com/files/761880/original/file-20260924-50-s0q0p5.png?ixlib=rb-4.1.1&rect=0%2C34%2C2516%2C1258&q=45&auto=format&w=1356&h=668&fit=crop",
+      "publishedAt": "2026-10-06T00:24:00Z",
+      "content": "Earth seems like a troubled place right now, but at least our cosmic surroundings appear peaceful. But this is not universally true, as explosions, collisions and other dangers lurk in other places a… [+4792 chars]"
+    },
+    {
+      "source": {
+        "id": null,
         "name": "WKBN.com"
       },
-      "author": "WKBN.com",
+      "author": "Paul Wetzl",
       "title": "One of the best meteor showers of the year is underway - WKBN.com",
-      "description": null,
+      "description": "The Orionids are known as one of the best meteor showers of the year and they are underway.",
       "url": "https://www.wkbn.com/weather/one-of-the-best-meteor-showers-of-the-year-is-underway/",
-      "urlToImage": null,
+      "urlToImage": "https://www.wkbn.com/wp-content/uploads/sites/48/2026/10/generic-meteor-shower.jpg?w=1280",
       "publishedAt": "2026-10-05T22:39:10Z",
-      "content": null
+      "content": "(WKBN) – The Orionid meteor shower takes place every year during the fall season, and the peak of the shower comes around mid-October.\r\nThe 2026 Orionid meteor shower started on October 2 and is acti… [+1787 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Phys.Org"
+      },
+      "author": null,
+      "title": "Quantum interactions may have locked early universe's fields into existing energy states - Phys.org",
+      "description": "The universe may be trapped in its own comfort zone, and a researcher in the College of Engineering and Computer Science has helped explain why it cannot seem to leave. A new study suggests the universe could be locked into its current state by the same kinds…",
+      "url": "https://phys.org/news/2026-10-quantum-interactions-early-universe-fields.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/universe-1.jpg",
+      "publishedAt": "2026-10-05T22:20:09Z",
+      "content": "The universe may be trapped in its own comfort zone, and a researcher in the College of Engineering and Computer Science has helped explain why it cannot seem to leave. A new study suggests the unive… [+4814 chars]"
     },
     {
       "source": {
@@ -372,12 +463,12 @@
         "name": "Space.com"
       },
       "author": "Keith Cooper",
-      "title": "A hidden asteroid crater under Oklahoma could be connected to one of Earth's major mass extinctions - Yahoo",
-      "description": "Ames crater under Oklahoma has been shown to be nearly 100 million years younger than thought, and is now dated at 370 million years old.",
+      "title": "A hidden asteroid crater under Oklahoma could be connected to one of Earth's major mass extinctions - Space",
+      "description": "The new age ties it in with the Late Devonian mass extinction that wiped out an estimated 40% of all marine life on Earth.",
       "url": "https://www.space.com/astronomy/asteroids/a-hidden-asteroid-crater-under-oklahoma-could-be-connected-to-one-of-earths-major-mass-extinctions",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/7c296715d327e4a8e054a1236aeb7d0f6f01e3ef6eeb67cd9cf267dbdae78569/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fspace_311%2Fb2deee36824b3d8c255bd91c877ab27d.jpg",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/747GZcMv89pQoKTCVPcbFc-1920-80.jpg",
       "publishedAt": "2026-10-05T22:00:00Z",
-      "content": "When you buy through links on our articles, Future and its syndication partners may earn a commission.\r\nAn illustration of an asteroid heading towards Earth. | Credit: Mark Garlick/Science Photo Libr… [+4625 chars]"
+      "content": null
     },
     {
       "source": {
@@ -668,6 +759,19 @@
     {
       "source": {
         "id": null,
+        "name": "PetaPixel"
+      },
+      "author": "Matt Growcoot",
+      "title": "Eerie Photo Shows How Our Sun Will Die - PetaPixel",
+      "description": "Not any time soon; one day.",
+      "url": "https://petapixel.com/2026/10/05/eerie-photo-shows-how-our-sun-will-die/",
+      "urlToImage": "https://petapixel.com/assets/uploads/2026/10/Dumbbell-Nebula-Andrew-McCarthy.jpg",
+      "publishedAt": "2026-10-05T14:44:22Z",
+      "content": "‘The Fate of Sol’ by Andrew McCarthy. The startling image is a “reminder that even our solar system has an expiration date.”\r\nJanuary is widely considered the bleakest month of the year, and astropho… [+3623 chars]"
+    },
+    {
+      "source": {
+        "id": null,
         "name": "Big Think"
       },
       "author": "Dirk Schulze-Makuch, Tony Reichhardt",
@@ -677,19 +781,6 @@
       "urlToImage": "https://bigthink.com/wp-content/uploads/2026/10/origin-of-life_compressed_e352ef.jpg?resize=1200,630",
       "publishedAt": "2026-10-05T14:07:04Z",
       "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Jacqueline Kehoe",
-      "title": "Off the coast of Canada, you won't see coral reefs — you'll see reefs made of actual glass - Yahoo Creators",
-      "description": "The Pacific Northwest is hiding one of the rarest ecosystems on the planet. Some call it the \"Sea of Glass,\" and it's very hard to believe — and very real.",
-      "url": "https://creators.yahoo.com/lifestyle/story/off-the-coast-of-canada-you-wont-see-coral-reefs--youll-see-reefs-made-of-actual-glass-150806291.html",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/539ba3702f21ed6788728f378939e26cb269e1af98257bb270c0e72bb3930518/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fanji-biota_2618.jpg",
-      "publishedAt": "2026-10-05T13:03:28Z",
-      "content": "When most of us picture a reef, we picture the tropics: bathtub-warm turquoise water, clownfish, and coral in every color of the crayon box.\r\nBut off the coast of British Columbia, hundreds of feet d… [+4316 chars]"
     },
     {
       "source": {
@@ -742,19 +833,6 @@
       "urlToImage": "https://resizer.ladbiblegroup.com/ogimage/v3/assets/bltcd74acc1d0a99f3a/blt3f57026721d18357/6ac37a06c50b8e4371c460aa/Screenshot_2026-10-05_at_11.19.23.png",
       "publishedAt": "2026-10-05T10:20:58Z",
       "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "SpaceNews"
-      },
-      "author": "Jeff Foust",
-      "title": "The Exploration Company considers Middle Eastern launch sites for heavy-lift rocket - SpaceNews",
-      "description": "The Exploration Company is considering spaceports in the Middle East for a large reusable launch vehicle it plans to develop.",
-      "url": "https://spacenews.com/the-exploration-company-considers-middle-eastern-launch-sites-for-heavy-lift-rocket/",
-      "urlToImage": "https://spacenews.com/wp-content/uploads/2026/10/tec-storm-spacesummit.jpeg",
-      "publishedAt": "2026-10-05T10:14:17Z",
-      "content": "Register now to read3 free articles this month.\r\nYou’ll also receive our weekly Editor’s Choice, SpaceNews This Week and Opinions newsletters. Opt-out at any time.\r\nSign in to an existing account"
     },
     {
       "source": {
@@ -820,19 +898,6 @@
       "urlToImage": "https://www.sciencealert.com/images/2026/10/Untitled-Design-80.jpg",
       "publishedAt": "2026-10-05T01:35:05Z",
       "content": "Quantum entanglement is one of the most cognitively jarring disconnects between the quantum domain and the macroscopic world. \r\nWhen fundamental particles such as electrons or photons are entangled, … [+5645 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Phys.Org"
-      },
-      "author": "Ingrid Fadelli",
-      "title": "Gamma-ray search sets new limits on dark matter annihilation in the inner Milky Way - Phys.org",
-      "description": "Dark matter could be a type of matter in the universe that does not emit, absorb or reflect detectable light and appears to interact very weakly with regular matter. Although physicists have observed gravitational effects attributed to dark matter, they have …",
-      "url": "https://phys.org/news/2026-09-gamma-ray-limits-dark-annihilation.html",
-      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/study-sets-new-limits.jpg",
-      "publishedAt": "2026-10-04T19:20:01Z",
-      "content": "The exposure, in square meters-seconds, measures the amount of data the H.E.S.S. array accumulated over six years of observations of the region above the Milky Way center. In total, this dataset amou… [+7551 chars]"
     },
     {
       "source": {
@@ -940,19 +1005,6 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "BBC News"
-      },
-      "author": "Stephen Dowling",
-      "title": "Canada's Atlantic waters are attracting more great white sharks - BBC",
-      "description": "In the past decade, many more great white sharks are being seen in Canada's Atlantic waters. What's drawing them so far north?",
-      "url": "https://www.bbc.com/future/article/20261002-canadas-atlantic-waters-are-attracting-more-great-white-sharks",
-      "urlToImage": "https://ychef.files.bbci.co.uk/624x351/p0pdprcb.jpg",
-      "publishedAt": "2026-10-03T09:01:03Z",
-      "content": "Alanna Canaran, a dive instructor and ocean science educator based in Novia Scotia's capital, Halifax, first moved to the province from Toronto in 2010. \"In that time in Nova Scotia, it was pretty un… [+191 chars]"
-    },
-    {
-      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -1045,19 +1097,6 @@
     {
       "source": {
         "id": null,
-        "name": "ScienceAlert"
-      },
-      "author": "Ivan Farkas",
-      "title": "No Longer Just North And South: A New Material Joins The Third Type of Magnetism - ScienceAlert",
-      "description": "Unlike what a certain donut company suggests, the world actually runs on magnetism.",
-      "url": "https://www.sciencealert.com/no-longer-just-north-and-south-a-new-material-joins-the-third-type-of-magnetism",
-      "urlToImage": "https://www.sciencealert.com/images/2026/10/Untitled-Design-79.jpg",
-      "publishedAt": "2026-10-02T11:04:00Z",
-      "content": "Unlike what a certain donut company suggests, the world actually runs on magnetism.\r\nIt's essential for generating power, building (electric) vehicles, and powering life-saving medical technologies l… [+5497 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "Science Daily"
       },
       "author": null,
@@ -1136,19 +1175,6 @@
     {
       "source": {
         "id": null,
-        "name": "Nature.com"
-      },
-      "author": null,
-      "title": "Carbene transfer from thianthrenium ylides for cyclopropanation - nature.com",
-      "description": "Thianthrenium ylides can be used as a general platform for metal–carbene generation and transfer, including cyclopropanation, σ-bond insertion and sigmatropic rearrangements.",
-      "url": "https://www.nature.com/articles/s41586-026-11108-z",
-      "urlToImage": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-11108-z/MediaObjects/41586_2026_11108_Fig1_HTML.png",
-      "publishedAt": "2026-09-30T23:34:29Z",
-      "content": "<li>Green, S. P. et al. Thermal stability and explosive hazard assessment of diazo compounds and diazo transfer reagents. Org. Process Res. Dev.24, 6784 (2020).\r\nArticle \r\n CAS \r\n PubMed \r\nGoogle Sch… [+10062 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "ZME Science"
       },
       "author": "Mihai Andrei",
@@ -1175,6 +1201,19 @@
     {
       "source": {
         "id": null,
+        "name": "Gadgetreview.com"
+      },
+      "author": null,
+      "title": "Cold War Spy Satellite FARRAH III Breaks Apart in Orbit, Cause Unknown - Gadget Review",
+      "description": "Cold War spy satellite USA-32 broke apart in orbit on Sept. 13, 2026, scattering debris at 775 km with no confirmed cause.",
+      "url": "https://www.gadgetreview.com/cold-war-spy-satellite-farrah-iii-breaks-apart-in-orbit-cause-unknown",
+      "urlToImage": "https://www.gadgetreview.com/wp-content/uploads/Cold-War-Spy-Satellite-FARRAH-III-Breaks-Apart-in-Orbit-Cause-Unknown-scaled.jpg",
+      "publishedAt": "2026-09-30T18:55:57Z",
+      "content": "Fragments from the 1988 NRO signals-intelligence craft now scatter across 775 km orbit, threatening active satellitesA classified U.S. signals-intelligence satellite launched during the Reagan admini… [+3789 chars]"
+    },
+    {
+      "source": {
+        "id": null,
         "name": "Newsnationnow.com"
       },
       "author": "Stephanie Sokol",
@@ -1197,19 +1236,6 @@
       "urlToImage": "https://www.quantamagazine.org/wp-content/uploads/2026/09/Thought-Geometry-cr.Mark-Belan-Social.jpg",
       "publishedAt": "2026-09-30T14:53:28Z",
       "content": "I get out of bed. I walk through the dimly lit hallway, thinking of whats in my fridge and what I should have for breakfast. With no real effort, Ive navigated my environment, accessed my memory, and… [+12334 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Gizmodo.com"
-      },
-      "author": "Passant Rabie",
-      "title": "A Cold War Spy Satellite Named After Farrah Fawcett Just Blew Apart in Orbit - Gizmodo",
-      "description": "The USA 32 satellite launched in 1988 to intercept Soviet radio signals.",
-      "url": "https://gizmodo.com/a-cold-war-spy-satellite-named-after-farrah-fawcett-just-blew-apart-in-orbit-2000819282",
-      "urlToImage": "https://gizmodo.com/app/uploads/2026/09/debris_rendition-1200x675.jpg",
-      "publishedAt": "2026-09-30T13:30:50Z",
-      "content": "An American spy satellite unexpectedly shattered into pieces, creating a cloud of debris in low-Earth orbit.\r\nThe U.S. Space Force’s satellite tracking system confirmed the satellite, officially desi… [+3051 chars]"
     }
   ]
 }

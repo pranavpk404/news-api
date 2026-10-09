@@ -1,14 +1,53 @@
 {
-  "source": "rss_fallback",
+  "source": "everything",
   "country": "us",
   "category": "science",
   "providers": [
     "newsapi",
     "rss"
   ],
-  "fetched_at": "2026-10-09T17:34:31.164707+00:00",
+  "fetched_at": "2026-10-09T21:53:35.846102+00:00",
   "articles_count": 37,
   "articles": [
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Stella Raine Chu",
+      "title": "Big Controversy Upends a Contest About Microscopic Videos",
+      "description": "Nikon announced that it had disqualified the winner of its Small World in Motion competition over how A.I. was used in his submission.",
+      "url": "https://www.nytimes.com/2026/10/09/science/nikon-microscopic-videos-ai.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/10/09/science/09SCI-NIKON-UPDATE/09SCI-NIKON-UPDATE-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-10-09T20:37:30Z",
+      "content": "Nikon announced that it had disqualified the winner of its Small World in Motion competition over how A.I. was used in his submission."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Siobhan Roberts",
+      "title": "‘Breathtaking,’ ‘Devastating’: Mathematics Reels After New OpenAI Release",
+      "description": "Hundreds of new A.I.-generated findings moved the frontiers of higher math in a single day — dispelling any doubt that the field is forever changed.",
+      "url": "https://www.nytimes.com/2026/10/08/science/mathematicians-respond-openai-release.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/10/08/multimedia/08SCI-OPENAI-MATH-REACTION-jqkg/08SCI-OPENAI-MATH-REACTION-jqkg-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-10-09T20:28:15Z",
+      "content": "Hundreds of new A.I.-generated findings moved the frontiers of higher math in a single day — dispelling any doubt that the field is forever changed."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Gina Kolata",
+      "title": "Cancer Vaccines Are the N.I.H.’s Next ‘Big Bet’",
+      "description": "New details have emerged about an initiative that starts in December to fast-track the vaccines, similar to the successful push for the Covid-19 vaccine.",
+      "url": "https://www.nytimes.com/2026/10/09/science/cancer-vaccines-nih-big-bet.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/10/09/science/09sci-speedy-vaccines/09sci-speedy-vaccines-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-10-09T20:26:29Z",
+      "content": "New details have emerged about an initiative that starts in December to fast-track the vaccines, similar to the successful push for the Covid-19 vaccine."
+    },
     {
       "source": {
         "id": "the-new-york-times",
@@ -21,19 +60,6 @@
       "urlToImage": "https://static01.nyt.com/images/2026/10/09/multimedia/08sci-hamilton-appraisal-still-promo-print9/08sci-hamilton-appraisal-still-promo-mediumSquareAt3X.jpg",
       "publishedAt": "2026-10-09T14:11:28Z",
       "content": "The woman who helped put astronauts on the moon was a software engineer when the field was not prestigious or lucrative."
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "author": "Gina Kolata",
-      "title": "Cancer Vaccines Are the N.I.H’s Next ‘Big Bet’",
-      "description": "New details have emerged about an initiative that starts in December to fast-track the vaccines, similar to the successful push for the Covid-19 vaccine.",
-      "url": "https://www.nytimes.com/2026/10/09/science/cancer-vaccines-nih-big-bet.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/10/09/science/09sci-speedy-vaccines/09sci-speedy-vaccines-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-10-09T14:01:34Z",
-      "content": "New details have emerged about an initiative that starts in December to fast-track the vaccines, similar to the successful push for the Covid-19 vaccine."
     },
     {
       "source": {
@@ -79,19 +105,6 @@
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
-      "author": "Siobhan Roberts",
-      "title": "‘Breathtaking,’ ‘Devastating’: Mathematics Reels After New OpenAI Release",
-      "description": "Hundreds of new A.I.-generated findings moved the frontiers of higher math in a single day — dispelling any doubt that the field is forever changed.",
-      "url": "https://www.nytimes.com/2026/10/08/science/mathematicians-respond-openai-release.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/10/08/multimedia/08SCI-OPENAI-MATH-REACTION-jqkg/08SCI-OPENAI-MATH-REACTION-jqkg-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-10-09T02:27:43Z",
-      "content": "Hundreds of new A.I.-generated findings moved the frontiers of higher math in a single day — dispelling any doubt that the field is forever changed."
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
       "author": "Rebecca Chao",
       "title": "21 Birds Are Found at Miami Airport Stuffed in Underwear and Hidden in a Belt",
       "description": "Two men, who arrived separately from Cuba days apart, each carried clutches of live birds concealed in their clothes, the authorities said.",
@@ -99,6 +112,19 @@
       "urlToImage": "https://static01.nyt.com/images/2026/10/07/multimedia/07xp-songbird-pants/07xp-songbird-pants-mediumSquareAt3X.jpg",
       "publishedAt": "2026-10-09T00:36:29Z",
       "content": "Two men, who arrived separately from Cuba days apart, each carried clutches of live birds concealed in their clothes, the authorities said."
+    },
+    {
+      "source": {
+        "id": "nbc-news",
+        "name": "NBC News"
+      },
+      "author": "Jared Perlo",
+      "title": "Trump awards Musk and other tech titans National Medals of Science",
+      "description": "President Donald Trump joined some of America’s most powerful tech leaders Thursday at a summit the White House billed as the start of a “golden age” of American science.",
+      "url": "https://www.nbcnews.com/tech/tech-news/trump-awards-musk-tech-titans-national-medals-science-rcna602104",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/261008-musk-trump-vsb-1649-35ce09.jpg",
+      "publishedAt": "2026-10-08T21:43:16Z",
+      "content": "WASHINGTON President Donald Trump joined some of Americas most powerful tech leaders Thursday at a summit the White House billed as the start of a golden age of American science.\r\nElon Musk, Google c… [+6086 chars]"
     },
     {
       "source": {
@@ -463,32 +489,6 @@
       "urlToImage": "https://static01.nyt.com/images/2026/09/10/multimedia/00SCI-FIRES-01-tmgq/00SCI-FIRES-01-tmgq-mediumSquareAt3X.jpg",
       "publishedAt": "2026-10-04T09:00:20Z",
       "content": "Small particulates sent up by wildfires are a well-documented health hazard. But recent research finds that ground-level ozone is now on the rise, too."
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "author": "Brad Plumer",
-      "title": "California Sues to Block Trump From Weakening Fuel Economy Rules",
-      "description": "The lawsuit is the 97th the state has filed against the Trump administration over the past year and a half.",
-      "url": "https://www.nytimes.com/2026/10/02/climate/california-trump-administration-fuel-economy.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/10/02/multimedia/02cli-autoemissions-wklq/02cli-autoemissions-wklq-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-10-02T23:35:31Z",
-      "content": "The lawsuit is the 97th the state has filed against the Trump administration over the past year and a half."
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "author": "Christina Jewett, Alice Callahan and Caroline Hopkins Legaspi",
-      "title": "F.D.A. Found Cyclospora During Taylor Farms Inspection in Mexico",
-      "description": "The discovery adds strong evidence that the outbreak that sickened thousands over the summer originated in a grower’s field or processing facility.",
-      "url": "https://www.nytimes.com/2026/10/02/health/cyclospora-taylor-farms-mexico.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/10/02/multimedia/02dc-cyclospora-vphc/02dc-cyclospora-vphc-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-10-02T22:25:24Z",
-      "content": "The discovery adds strong evidence that the outbreak that sickened thousands over the summer originated in a grower’s field or processing facility."
     }
   ],
   "query": "science research discovery space"

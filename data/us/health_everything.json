@@ -6,9 +6,22 @@
     "newsapi",
     "rss"
   ],
-  "fetched_at": "2026-10-08T22:31:13.366220+00:00",
+  "fetched_at": "2026-10-09T03:11:46.231885+00:00",
   "articles_count": 31,
   "articles": [
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Cade Metz",
+      "title": "Clinical Trial Indicates A.I. Chatbots Could Aid Urgent Care",
+      "description": "Nearly 100 patients discussed their maladies with a Google bot, called AMIE, before meeting with physicians.",
+      "url": "https://www.nytimes.com/2026/10/08/technology/ai-chatbots-urgent-care.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/09/09/multimedia/08SCI-MEDICAL-CHATBOT/00SCI-OPENAI-DATA-flbh-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-10-08T22:48:06Z",
+      "content": "Nearly 100 patients discussed their maladies with a Google bot, called AMIE, before meeting with physicians."
+    },
     {
       "source": {
         "id": "the-new-york-times",
@@ -281,19 +294,6 @@
       "urlToImage": null,
       "publishedAt": "2026-09-30T21:35:42Z",
       "content": "Erin Lee Carr’s new documentary revisits the 2004 makeover show “The Swan,” which gave 32 women extensive plastic surgery and anticipated where beauty culture was headed."
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "author": "Christopher Rowland",
-      "title": "Medical Records Firm Uses AI Tool to Expose Flaws that Threaten Patient Privacy",
-      "description": "Epic’s engineers deployed an Anthropic tool that exposed security risks that could allow undetected access to millions of patient records.",
-      "url": "https://www.nytimes.com/2026/09/30/business/ai-epic-health-records-privacy.html",
-      "urlToImage": null,
-      "publishedAt": "2026-09-30T19:25:06Z",
-      "content": "Epic’s engineers deployed an Anthropic tool that exposed security risks that could allow undetected access to millions of patient records."
     },
     {
       "source": {

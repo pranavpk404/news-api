@@ -1,7 +1,20 @@
 {
   "status": "ok",
-  "totalResults": 76,
+  "totalResults": 80,
   "articles": [
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Andrew Jacobs",
+      "title": "Why Ketamine Immobilizes Some Users",
+      "description": "Potent powders can produce a nearly catatonic state, particularly in those who have not tried the drug before.",
+      "url": "https://www.nytimes.com/2026/10/10/science/ketamine-cornell-anesthesia.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/10/08/multimedia/08SCI-KETAMINE-cjwm/08SCI-KETAMINE-cjwm-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-10-10T20:38:18Z",
+      "content": "Potent powders can produce a nearly catatonic state, particularly in those who have not tried the drug before."
+    },
     {
       "source": {
         "id": "the-new-york-times",
@@ -43,16 +56,81 @@
     },
     {
       "source": {
-        "id": "cbs-news",
-        "name": "CBS News"
+        "id": "ars-technica",
+        "name": "Ars Technica"
       },
-      "author": "Alex  Sundby",
-      "title": "U.S. measles cases top 4,000, far surpassing last year's total, CDC says - CBS News",
-      "description": "The record number of measles cases in the U.S. so far this year has topped 4,000, the Centers for Disease Control and Prevention reported Friday.",
-      "url": "https://www.cbsnews.com/news/us-measles-cases-cdc-record/",
-      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/09/01/1b687db5-d625-43e3-bae7-f17a83ecd0d8/thumbnail/1200x630/0c228b204df612569f75c76db2e07bb0/gettyimages-2249273537-1.jpg",
-      "publishedAt": "2026-10-09T15:40:47Z",
-      "content": "The record number of measles cases in the U.S. so far this year has topped 4,000, the Centers for Disease Control and Prevention reported Friday. \r\nThe agency said there were 4,080 confirmed measles … [+1037 chars]"
+      "author": "Beth Mole",
+      "title": "RFK Jr. still eager to fund vaccine trial that would expose babies to deadly virus - Ars Technica",
+      "description": "CDC allocated $1.6M for study on alleged harms of hepatitis B vaccine.",
+      "url": "https://arstechnica.com/health/2026/10/rfk-jr-still-eager-to-fund-vaccine-trial-that-would-expose-babies-to-deadly-virus/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2252095020-1152x648.jpg",
+      "publishedAt": "2026-10-09T19:27:27Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": null,
+      "title": "One type of sleep linked to dramatically lower risk of dementia, Parkinson's and 81 other diseases - Fox News",
+      "description": "Greater REM sleep was linked to 80% lower Parkinson's risk and 46% lower dementia risk in a major study of over 95,000 adults tracked for years.",
+      "url": "https://www.foxnews.com/health/sleep-type-linked-dramatically-lower-risk-dementia-parkinsons-81-diseases",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/10/couple-sleeping-in-bed.jpg",
+      "publishedAt": "2026-10-09T18:10:44Z",
+      "content": "Not all stages of sleep are equal in terms of benefits for the brain.\r\nGreater amounts of rapid eye movement (REM) sleep were associated with lower risks of 83 diseases, including dementia, Parkinson… [+5757 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "fox8.com"
+      },
+      "author": "Ann Lipsett",
+      "title": "1 measles case confirmed in Medina County - FOX 8 News",
+      "description": "In an Oct. 9 release, the Medina County Health Department reported one confirmed measles case and one probable measles case.",
+      "url": "https://fox8.com/news/1-measles-case-detected-in-medina-county/",
+      "urlToImage": "https://fox8.com/wp-content/uploads/sites/12/2026/09/6a9215e2089055.21016675-e1789379591214.jpeg?w=1280",
+      "publishedAt": "2026-10-09T17:29:47Z",
+      "content": "MEDINA COUNTY, Ohio (WJW) — A measles case has now been confirmed in Medina County.\r\nIn a Friday Oct. 9 release, the Medina County Health Department reported one confirmed measles case and one probab… [+1173 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Abcnews.com"
+      },
+      "author": "ABC News - Breaking News, Latest News and Videos",
+      "title": "US surpasses 4,000 measles cases with infections confirmed in 45 states: CDC - ABC News - Breaking News, Latest News and Videos",
+      "description": null,
+      "url": "https://abcnews.com/Health/us-surpasses-4000-measles-cases-infections-confirmed-45/story?id\\\\u003d137125273",
+      "urlToImage": null,
+      "publishedAt": "2026-10-09T16:41:35Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Fci Academy"
+      },
+      "author": "Alex Perry and Sara Moniuszko, USA TODAY NETWORK",
+      "title": "Hundreds in Ohio sickened by sexually transmitted diarrhea disease - Yahoo",
+      "description": "The sexually transmitted diarrhea disease shigellosis is becoming more resistant to antibiotics. Here's what Ohioans should know.",
+      "url": "https://www.dispatch.com/story/news/2026/10/09/ohio-have-sexually-transmitted-diarrhea-disease-shigellosis-cases/92168556007/",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/3c86fb0e5116442995830bed81600922c7e361ab521dba5b1ec06c1ca16fb5af/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe-columbus-dispatch%2F2d541e2cdf3d2d5fa596c6640d686314.jpg",
+      "publishedAt": "2026-10-09T16:16:51Z",
+      "content": "A highly contagious sexually transmitted diarrhea disease is becoming harder to treat as drug-resistant strains spread, health officials warn.\r\nConsidered a public health threat by the Centers for Di… [+3699 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "KWQC-TV6"
+      },
+      "author": "Matt Christensen",
+      "title": "Legionnaires’-causing bacteria found at Trinity Rock Island hospital; state halts surgeries - KWQC",
+      "description": "UnityPoint Health – Trinity Rock Island has shut down its surgery center after the bacteria that causes Legionnaires’ disease was detected in the air conditioning system.",
+      "url": "https://www.kwqc.com/2026/10/09/legionnaires-causing-bacteria-found-trinity-rock-island-hospital-surgery-center-shut-down/",
+      "urlToImage": "https://gray-kwqc-prod.gtv-cdn.com/resizer/v2/AQBMRSQKGJCBHGGYWXHASNDRZU.png?auth=8c6bfaa91b18b144e90d43c9b04854ceaf8c489e0d76c46f54df6872c6d51fa2&width=1200&height=600&smart=true",
+      "publishedAt": "2026-10-09T15:31:00Z",
+      "content": "ROCK ISLAND, Illinois (KWQC) - UnityPoint Health Trinity Rock Island has halted surgeries after detecting the bacteria that causes Legionnaires disease in the air conditioning system. \r\nRock Island C… [+1671 chars]"
     },
     {
       "source": {
@@ -69,6 +147,19 @@
     },
     {
       "source": {
+        "id": null,
+        "name": "WKYT"
+      },
+      "author": "WKYT News Staff",
+      "title": "7 cases of measles confirmed in Southern Kentucky county - WKYT",
+      "description": "Seven cases of measles were confirmed in a Southern Kentucky county on Friday, Oct. 9.",
+      "url": "https://www.wkyt.com/2026/10/09/7-cases-measles-confirmed-southern-kentucky-county/",
+      "urlToImage": "https://gray-wkyt-prod.gtv-cdn.com/resizer/v2/76APWXELQVEZHFFOI42QV2VTZ4.jpg?auth=2ac2518cf0288ed0fb392570594d829827c6dc5ab2d212d584786d3e5388e4e1&width=1200&height=600&smart=true",
+      "publishedAt": "2026-10-09T14:45:00Z",
+      "content": "LAUREL COUNTY, Ky. (WKYT) - Seven cases of measles were confirmed in a Southern Kentucky county on Friday, Oct. 9.\r\nKentucky health officials confirmed the seven cases in Laurel County, according to … [+1296 chars]"
+    },
+    {
+      "source": {
         "id": "usa-today",
         "name": "USA Today"
       },
@@ -79,6 +170,19 @@
       "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/10/08/USAT/92154209007-getty-images-2294383591.jpg?crop=3333,1875,x0,y500&width=3200&height=1801&format=pjpg&auto=webp",
       "publishedAt": "2026-10-09T14:25:00Z",
       "content": "NEW YORK It started with a rash on her stomach that wrapped around her back.\r\nEventually, it cleared up. Until about a year later. This time with a blistering rash that put Viola Davis, the EGOT-winn… [+4565 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Quanta Magazine"
+      },
+      "author": null,
+      "title": "How Does Life Unfold? A Landscape Metaphor Comes Into Its Own. - Quanta Magazine",
+      "description": "C.H. Waddington’s powerful image of embryonic stem cells specializing on a rolling landscape has captivated biologists since the 1950s. Experimental data is finally confirming, and complicating, his visionary ideas.",
+      "url": "https://www.quantamagazine.org/how-does-life-unfold-a-landscape-metaphor-comes-into-its-own-20261009/",
+      "urlToImage": "https://www.quantamagazine.org/wp-content/uploads/2026/10/Waddington-cr.MarkBelan-Social-1.jpg",
+      "publishedAt": "2026-10-09T14:05:36Z",
+      "content": "By the middle of the 20th century, it had begun to seem that biology was almost solved. Charles Darwins theory of evolution by natural selection explained how organisms change and adapt. The modern s… [+10833 chars]"
     },
     {
       "source": {
@@ -122,19 +226,6 @@
     {
       "source": {
         "id": null,
-        "name": "Science Daily"
-      },
-      "author": null,
-      "title": "Only one workout helped older adults lose fat and keep muscle - ScienceDaily",
-      "description": "A six-month study suggests that high-intensity interval training (HIIT) may offer older adults a powerful advantage: losing body fat while keeping their muscle. Unlike moderate-intensity workouts, which led to a small loss of lean muscle, HIIT preserved it wh…",
-      "url": "https://www.sciencedaily.com/releases/2026/10/261007233348.htm",
-      "urlToImage": "https://www.sciencedaily.com/images/1920/smling-senior-woman-weight-loss-loose-pants.webp",
-      "publishedAt": "2026-10-09T11:07:15Z",
-      "content": "Losing body fat is one thing. Losing fat while keeping the muscle that helps you stay strong and active is another, especially as you get older. Research suggests that one particular type of exercise… [+10167 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "CNBC"
       },
       "author": "Gerry Smith",
@@ -148,15 +239,15 @@
     {
       "source": {
         "id": null,
-        "name": "ScienceAlert"
+        "name": "Medscape"
       },
-      "author": "Russell McLendon",
-      "title": "People With Narcolepsy Have Surprisingly Youthful Brains, But Scientists Don't Know Why - ScienceAlert",
-      "description": "It's clear dementia and sleep disturbances are intertwined, but the relationship remains murky.",
-      "url": "https://www.sciencealert.com/people-with-narcolepsy-have-surprisingly-youthful-brains-but-scientists-dont-know-why",
-      "urlToImage": "https://www.sciencealert.com/images/2026/10/sleeping-woman.jpg",
-      "publishedAt": "2026-10-09T10:08:56Z",
-      "content": "It's clear dementia and sleep disturbances are intertwined, but the relationship remains murky.\r\nWhile poor sleep can increase the risk of cognitive decline, dementia may also raise the risk of sleep… [+5066 chars]"
+      "author": null,
+      "title": "Intensive BP Control Cuts Heart Risk, but May Affect Kidneys - Medscape",
+      "description": "Intensive blood pressure lowering may reduce cardiovascular risk in individuals with or without chronic kidney disease but is linked to a decline in kidney function.",
+      "url": "https://www.medscape.com/viewarticle/intensive-blood-pressure-control-linked-reduced-2026a10011wx",
+      "urlToImage": "https://img.medscapestatic.com/vim/live/professional_assets/medscape/images/thumbnail_library/gty_250422_chronic_kidney_disease.jpg",
+      "publishedAt": "2026-10-09T10:33:37Z",
+      "content": "TOPLINE\r\nIntensive lowering of blood pressure (BP) was associated with a reduced risk for cardiovascular events in adults with or without chronic kidney disease (CKD) and did not increase the risk fo… [+3390 chars]"
     },
     {
       "source": {
@@ -200,6 +291,19 @@
     {
       "source": {
         "id": null,
+        "name": "The Lancet"
+      },
+      "author": null,
+      "title": "Conversational diagnostic artificial intelligence in ambulatory primary care: a prospective feasibility study - The Lancet",
+      "description": "Although further research is needed, this study shows the initial feasibility of conversational\nAI in a real-world setting—assessed via conversation safety and quality, as well as\nuser acceptance—and represents a crucial step towards clinical translation.",
+      "url": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)01535-7/abstract",
+      "urlToImage": "https://www.thelancet.com/cms/asset/f9585b51-67ca-4e8b-8639-2a57c13ede6f/gr1.jpg",
+      "publishedAt": "2026-10-09T02:45:55Z",
+      "content": "The content on this site is intended for science and health care professionals.\r\nAll content on this site: Copyright © 2026 Elsevier Ltd., its licensors, and contributors. \r\nAll rights are reserved, … [+236 chars]"
+    },
+    {
+      "source": {
+        "id": null,
         "name": "ScienceAlert"
       },
       "author": "Esra Öz",
@@ -229,7 +333,7 @@
         "name": "PEOPLE"
       },
       "author": "Rachel Raposas",
-      "title": "Breast Cancer Survivor Now Paralyzed After Experiencing ‘Severe’ Leg Pain During Utah Hike - Yahoo",
+      "title": "Breast Cancer Survivor Now Paralyzed After Experiencing ‘Severe’ Leg Pain During Utah Hike - Yahoo News New Zealand",
       "description": "Chris Kamke is in a coma about 1,700 miles away from her family’s home in Wisconsin",
       "url": "https://people.com/breast-cancer-survivor-now-paralyzed-after-collapsing-on-hike-12164690",
       "urlToImage": "https://s.yimg.com/lo/mysterio/api/6c04652855b88c42c2fb32ce88d430d2a4d68ceeb2738f75437fb07507b8a5bf/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2Fe312588e84abb50c7535e14e0224b7c0.jpg",
@@ -264,19 +368,6 @@
     },
     {
       "source": {
-        "id": "fox-news",
-        "name": "Fox News"
-      },
-      "author": null,
-      "title": "Parkinson's patients may protect memory and movement with one simple habit - Fox News",
-      "description": "A University of Cincinnati study links weekly physical activity to slower cognitive decline and motor function loss in Parkinson's disease patients.",
-      "url": "https://www.foxnews.com/health/parkinsons-patients-protect-memory-movement-simple-habit",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/10/older-man-physical-therapy.jpg",
-      "publishedAt": "2026-10-08T21:10:53Z",
-      "content": "Weekly physical activity could help to slow down disease progression in Parkinsons patients, a new study found.\r\nThe research, led by the University of Cincinnati, included 294 patients with mild-to-… [+4771 chars]"
-    },
-    {
-      "source": {
         "id": "the-washington-post",
         "name": "The Washington Post"
       },
@@ -307,25 +398,12 @@
         "name": "Women's Health"
       },
       "author": "Halle Newman",
-      "title": "A Lot of Women Who Think They Have Anxiety Really Have This Instead. Here's How to Spot the Difference - AOL.com",
+      "title": "A Lot of Women Who Think They Have Anxiety Really Have This Instead. Here's How to Spot the Difference - Women's Health",
       "description": "The two conditions require completely different treatment.",
       "url": "https://www.womenshealthmag.com/health/a74051994/ocd-signs-and-symptoms/",
-      "urlToImage": "https://hermes.media.static.aol.com/media/2026/10/08/93fd1e8f-be12-37d2-abb1-6b030b65d33f/b9efaa79-dc24-4038-a0b5-9f5062878872.jpeg",
-      "publishedAt": "2026-10-08T20:16:35Z",
-      "content": "October is obsessive-compulsive disorder (OCD) awareness month, and there are a lot of people out thereright nowwho dont even know they have it. One reason why? They think they have anxiety instead.\r… [+8016 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "PsyPost"
-      },
-      "author": "Eric W. Dolan",
-      "title": "Autism and ADHD traits appear to follow different social paths to mental health problems - PsyPost",
-      "description": "Autism and ADHD traits appear to follow different social paths. In a study of 9,619 Japanese students, autistic traits were linked to later peer problems, while ADHD traits were tied to academic struggles and behavioral difficulties.",
-      "url": "https://www.psypost.org/autism-and-adhd-traits-appear-to-follow-different-social-paths-to-mental-health-problems/",
-      "urlToImage": "https://www.psypost.org/wp-content/uploads/2026/10/sad-asian-boy.jpg",
-      "publishedAt": "2026-10-08T20:03:18Z",
-      "content": "Children who show traits of autism and attention-deficit/hyperactivity disorder often face elevated risks of emotional and behavioral problems as they grow up, but the social pathways connecting thes… [+10392 chars]"
+      "urlToImage": "https://hips.hearstapps.com/hmg-prod/images/85a3187e-7343-4b1d-ac0f-6e8780608631.jpeg?crop=1xw:0.75xh;0xw,0.092xh&resize=1200:*",
+      "publishedAt": "2026-10-08T20:16:00Z",
+      "content": "October is obsessive-compulsive disorder (OCD) awareness month, and there are a lot of people out thereright nowwho dont even know they have it. One reason why? They think they have anxiety instead.\r… [+8304 chars]"
     },
     {
       "source": {
@@ -339,19 +417,6 @@
       "urlToImage": "https://www.eatingwell.com/thmb/7DyYUNYZBc-NO3DC6FKkOQhQfBE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4-Fall-Foods-That-Pack-Both-protein-and-Fiber-faee50bef8544c42bc63dd783b7b143d.jpg",
       "publishedAt": "2026-10-08T20:00:00Z",
       "content": "One of the best parts of fall is leaning into warmer flavors and comforting recipesbut a change in your menu doesnt mean you need to step away from prioritizing nourishing foods. From grains and legu… [+2782 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Vox"
-      },
-      "author": "Dylan Scott",
-      "title": "Is this the cure for Alzheimer’s? - Vox",
-      "description": "An experimental Alzheimer’s dementia treatment first reported in China has piqued researchers’ interest — but also skepticism. New studies hope to figure out if it’s for real.",
-      "url": "https://www.vox.com/good-medicine-newsletter/505678/alzheimers-disease-dementia-treatment-brain-surgery",
-      "urlToImage": "https://platform.vox.com/wp-content/uploads/sites/2/2026/10/GettyImages-2274337394.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "publishedAt": "2026-10-08T20:00:00Z",
-      "content": "The videos are astonishing. In one scene, a senior Chinese woman appears lost in the wilderness of dementia, unable to answer basic questions; in the next, she seems to be lucidly chatting and shucki… [+10378 chars]"
     },
     {
       "source": {
@@ -369,6 +434,19 @@
     {
       "source": {
         "id": null,
+        "name": "Science.org"
+      },
+      "author": null,
+      "title": "Nutritional interventions’ impacts on human milk: Three trials in low-resource settings - Science | AAAS",
+      "description": "Human milk (HM) composition is variable to support changing infant needs and is influenced by maternal diet and health. We harmonized HM data from three randomized trials in Burkina Faso (MISAME-III), Pakistan (Mumta-LW), and Tanzania (ELICIT) within the ...",
+      "url": "https://www.science.org/doi/10.1126/science.aee9284",
+      "urlToImage": "https://www.science.org/cms/asset/97edb669-9428-4e53-a45f-e24b53ca7c9d/science.aee9284-keyimage.gif",
+      "publishedAt": "2026-10-08T18:59:58Z",
+      "content": "eLetters is a forum for ongoing peer review. eLetters are not edited, proofread, or indexed, but they are screened. eLetters should provide substantive and scholarly commentary on the article. Neithe… [+506 chars]"
+    },
+    {
+      "source": {
+        "id": null,
         "name": "KTLA Los Angeles"
       },
       "author": "Lily Dallow",
@@ -378,6 +456,19 @@
       "urlToImage": "https://ktla.com/wp-content/uploads/sites/4/2025/09/AP25155758215803.jpg?w=1280",
       "publishedAt": "2026-10-08T18:57:28Z",
       "content": "About 1 in 15 house cats may be carrying a common intestinal parasite that can also infect humans, according to a new study examining more than 157,000 cats across North America.\r\nResearchers found t… [+3412 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Science.org"
+      },
+      "author": "Science | AAAS",
+      "title": "The human gut microbiome primes fever after vaccination - Science | AAAS",
+      "description": null,
+      "url": "https://www.science.org/doi/10.1126/science.aea7733",
+      "urlToImage": null,
+      "publishedAt": "2026-10-08T18:31:46Z",
+      "content": null
     },
     {
       "source": {
@@ -420,16 +511,16 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "TheStranger.com"
+        "id": "the-washington-post",
+        "name": "The Washington Post"
       },
-      "author": "Megan Seling",
-      "title": "Slog AM: RFK Jr.’s Measles Conspiracy, Starbucks Closes More Stores, More Mass Student Protests in France - TheStranger.com",
-      "description": "Vance gleefully announced that the Trump administration is banning Microsoft from a green card program to recruit immigrant workers. Vance said, “If you do the math, for every worker that Microsoft laid off, they replaced that worker with one and a half forei…",
-      "url": "https://www.thestranger.com/news/slog-am-rfk-jr-s-measles-conspiracy-starbucks-closes-more-stores-more-mass-student-protests-in-france/",
-      "urlToImage": "https://www.thestranger.com/wp-content/uploads/2026/10/IMG_0015-scaled.jpg",
-      "publishedAt": "2026-10-08T16:12:35Z",
-      "content": "Vance gleefully announced that the Trump administration is banning Microsoft from a green card program to recruit immigrant workers. Vance said, If you do the math, for every worker that Microsoft la… [+5825 chars]"
+      "author": "Jennifer Fields",
+      "title": "More physical activity may mean slower Parkinson’s disease progression - The Washington Post",
+      "description": "A new study suggests exercise could help people with Parkinson's disease maintain both movement and cognitive skills, slowing the disease's progression in multiple ways.",
+      "url": "https://www.washingtonpost.com/wellness/2026/10/08/more-physical-activity-may-mean-slower-parkinsons-disease-progression/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/HBQ6IJXJEX65EL43EQN6PM3ILY_size-normalized.JPG&w=1440",
+      "publishedAt": "2026-10-08T16:00:00Z",
+      "content": "When it comes to exercise, theres an age-old debate over which matters more: how hard you work out, or how long you do it. For people with Parkinsons disease, new research suggests theres an answer."
     },
     {
       "source": {
@@ -473,19 +564,6 @@
     {
       "source": {
         "id": null,
-        "name": "Boredpanda.com"
-      },
-      "author": "Gabija Palšytė",
-      "title": "A Lab Tested The Apple Watch And Fitbit Against Real Sleep Science, And The Gap Ran Over An Hour - Bored Panda",
-      "description": "Sleep is one of those things we spend a lot of time thinking about. We know we need it, we know we feel pretty darn lousy without it, and yet it remains somewhat mysterious to us. Enter sleep tracking: some nifty device that can give you a glimpse into your n…",
-      "url": "https://www.boredpanda.com/sleep-tracking-anxiety/",
-      "urlToImage": "https://static.boredpanda.com/blog/wp-content/uploads/2026/10/sleep-tracking-anxiety-fb17.jpg",
-      "publishedAt": "2026-10-08T15:02:00Z",
-      "content": "This story is part of Bored Panda Premium 11 min read\r\nA womans sleep study came back with good news: her sleep had measurably improved. She didnt believe it, because every morning her Fitbit told he… [+971 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "Newser"
       },
       "author": "John Johnson",
@@ -508,19 +586,6 @@
       "urlToImage": "https://assets.sfstandard.com/image/994911177489/image_jmg566spdl32benqon81ol1316/-S1200x630-FPNG",
       "publishedAt": "2026-10-08T13:00:00Z",
       "content": "China has banned a class of potent synthetic opioids that includes cychlorphine, the drug linked to a San Francisco 16-year-olds fatal overdose and one that local health workers and police have been … [+6571 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "7NEWS.com.au"
-      },
-      "author": null,
-      "title": "A simple daily pill could stop Parkinson's disease before it starts - 7NEWS",
-      "description": "Australian scientists have made a promising discovery that's giving hope to thousands.",
-      "url": "https://7news.com.au/lifestyle/health-wellbeing/a-simple-daily-pill-could-stop-parkinsons-disease-before-it-starts-c-22990267",
-      "urlToImage": "https://images.7news.com.au/publication/C-22990267/39f0c09e5b7c8025c7b69fe5e9f5a4222b9de724-16x9-x0y0w1280h720.png?imwidth=1200",
-      "publishedAt": "2026-10-08T11:01:00Z",
-      "content": "Australian researchers have taken a promising step towards stopping Parkinsons disease before symptoms appear, with a simple pill reducing brain inflammation in high-risk patients.\r\nFor 69-year-old S… [+1741 chars]"
     },
     {
       "source": {
@@ -551,19 +616,6 @@
     {
       "source": {
         "id": null,
-        "name": "SILive.com"
-      },
-      "author": "SILive.com",
-      "title": "Staten Island breast cancer survivors create group to support women and promote early detection - SILive.com",
-      "description": null,
-      "url": "https://www.silive.com/news/2026/10/these-staten-island-best-friends-faced-breast-cancer-a-year-apart-now-theyre-turning-survival-into-support-for-women.html",
-      "urlToImage": null,
-      "publishedAt": "2026-10-08T09:50:00Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
         "name": "ProPublica"
       },
       "author": "Annie Waldman",
@@ -573,6 +625,19 @@
       "urlToImage": "https://www.propublica.org/wp-content/uploads/2026/10/20261007-maney-rawmilk-caps.jpg?resize=2000,1333",
       "publishedAt": "2026-10-08T09:00:00Z",
       "content": "The nations largest professional group of pediatricians has renewed its call for a nationwide ban on the sale and distribution of unpasteurized milk and other raw dairy products, according to a polic… [+6229 chars]"
+    },
+    {
+      "source": {
+        "id": "newsweek",
+        "name": "Newsweek"
+      },
+      "author": "Daniella Gray",
+      "title": "Autism Diagnoses Rose—Then Researchers Found Something in 62,000 Children - Newsweek",
+      "description": "The lead author of the major study told Newsweek they were \"struck\" by how stable autism rates remained over time.",
+      "url": "https://www.newsweek.com/autism-diagnoses-rose-researchers-found-something-62000-children-12528370",
+      "urlToImage": "https://assets.newsweek.com/wp-content/uploads/2026/10/Autism-Diagnoses-Rose.png?w=1200&crop=1",
+      "publishedAt": "2026-10-08T08:55:00Z",
+      "content": "For years, rising autism diagnoses have fueled claims that the disorder is becoming increasingly common. \r\nBut a major study of more than 62,000 children has found that the underlying rate of autism … [+3877 chars]"
     },
     {
       "source": {
@@ -590,15 +655,15 @@
     {
       "source": {
         "id": null,
-        "name": "Science Daily"
+        "name": "Aacrjournals.org"
       },
-      "author": null,
-      "title": "Scientists warn a popular vitamin D supplement may have a hidden downside - ScienceDaily",
-      "description": "Not all vitamin D supplements are created equal, and new research suggests that one popular form may have an unexpected downside. Scientists found that taking vitamin D2 can actually lower the body&apos;s levels of vitamin D3, the form naturally produced by s…",
-      "url": "https://www.sciencedaily.com/releases/2026/10/261007232940.htm",
-      "urlToImage": "https://www.sciencedaily.com/images/1920/hand-holding-vitamin-d-pill-in-sunshine.webp",
-      "publishedAt": "2026-10-08T04:07:03Z",
-      "content": "A common vitamin D supplement may have an unexpected effect inside the body. Research published in 2025 found that taking vitamin D2 can reduce levels of vitamin D3, the form humans naturally make wh… [+8642 chars]"
+      "author": "aacrjournals.org",
+      "title": "Universal Germline Genetic Testing after a Diagnosis of Cancer - aacrjournals.org",
+      "description": null,
+      "url": "https://aacrjournals.org/cancerdiscovery/article/doi/10.1158/2159-8290.CD-26-0971/788729/Universal-Germline-Genetic-Testing-after-a",
+      "urlToImage": null,
+      "publishedAt": "2026-10-08T04:27:33Z",
+      "content": null
     },
     {
       "source": {
@@ -616,19 +681,6 @@
     {
       "source": {
         "id": null,
-        "name": "ScienceAlert"
-      },
-      "author": "Carly Cassella",
-      "title": "One Everyday Habit Is Linked to 49% Higher Risk of Eating Disorder Symptoms in Teens - ScienceAlert",
-      "description": "Giving a child a smartphone before age 13 could be risky for some aspects of their mental health.",
-      "url": "https://www.sciencealert.com/one-everyday-habit-is-linked-to-49-higher-risk-of-eating-disorder-symptoms-in-teens",
-      "urlToImage": "https://www.sciencealert.com/images/2026/10/GettyImages-2238522814-2560x1440-1.jpg",
-      "publishedAt": "2026-10-08T00:01:05Z",
-      "content": "Giving a child a smartphone before age 13 could be risky for some aspects of their mental health.\r\nIn a new study of nearly 9,000 adolescents in the US, researchers found that owning a smartphone at … [+4965 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "Nature.com"
       },
       "author": null,
@@ -641,16 +693,42 @@
     },
     {
       "source": {
-        "id": "cbs-news",
-        "name": "CBS News"
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
       },
-      "author": "Lauren  Linder",
-      "title": "Woman in Pennsylvania diagnosed with alpha-gal syndrome after tick bite - CBS News",
-      "description": "A woman in Ross Township, Pennsylvania, was diagnosed with alpha-gal syndrome, where one bite from a lone star tick can make you violently allergic to red meat.",
-      "url": "https://www.cbsnews.com/pittsburgh/news/alpha-gal-syndrome-meat-allergy-explained/",
-      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/08/22/83fb8f1d-077a-4c96-be27-15758507b4ff/thumbnail/1200x630/40f54382d0be6e7418505791bd5bfa08/lone-star-tick-getty-2267590795-1920.jpg",
-      "publishedAt": "2026-10-07T23:17:00Z",
-      "content": "A Ross Township woman was diagnosed with a tick-borne disease that's rare in southwestern Pennsylvania, but common in other parts of the country. Now, she wants to urge others to be more careful when… [+2356 chars]"
+      "author": "WSJ",
+      "title": "New CDC Director Is Eager to Change Its Culture - WSJ",
+      "description": null,
+      "url": "https://www.wsj.com/politics/policy/new-cdc-director-is-eager-to-change-its-culture-7f2319be",
+      "urlToImage": null,
+      "publishedAt": "2026-10-07T22:35:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "nejm.org"
+      },
+      "author": null,
+      "title": "Advances in Systemic Treatment of Breast Cancer - The New England Journal of Medicine",
+      "description": "Systemic therapy for breast cancer has evolved rapidly since 2020, driven by the expansion\nof targeted therapies, antibody–drug conjugates, and immunotherapy across biologic\nsubtypes. The integrati...",
+      "url": "https://www.nejm.org/doi/full/10.1056/NEJMra2500695",
+      "urlToImage": "https://www.nejm.org/cms/asset/92abedda-512d-4bec-8536-277fa5371169/nejmra2500695_f1.jpg",
+      "publishedAt": "2026-10-07T21:28:49Z",
+      "content": "Copyright © 2026 \r\n Massachusetts Medical Society. \r\n All rights reserved, including those for text and data mining, AI training, and similar technologies. \r\n Electronic ISSN 1533-4406. Print ISSN 00… [+78 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "nejm.org"
+      },
+      "author": "The New England Journal of Medicine",
+      "title": "Optogenetic Therapy for Restoring Aspects of Visual Function - The New England Journal of Medicine",
+      "description": null,
+      "url": "https://www.nejm.org/doi/full/10.1056/NEJMoa2602215",
+      "urlToImage": null,
+      "publishedAt": "2026-10-07T21:13:50Z",
+      "content": null
     },
     {
       "source": {
@@ -693,6 +771,19 @@
     },
     {
       "source": {
+        "id": null,
+        "name": "Science.org"
+      },
+      "author": null,
+      "title": "Human microglia clear intraneuronal α-synuclein aggregates by GPNMB-mediated trogocytosis - Science | AAAS",
+      "description": "Microglia clear intraneuronal α-synuclein aggregates.",
+      "url": "https://www.science.org/doi/10.1126/scitranslmed.adz9258",
+      "urlToImage": "https://www.science.org/cms/asset/594c87c7-5551-488b-bdd2-f33a493725c9/scitranslmed.adz9258-keyimage.gif",
+      "publishedAt": "2026-10-07T18:16:07Z",
+      "content": "eLetters is a forum for ongoing peer review. eLetters are not edited, proofread, or indexed, but they are screened. eLetters should provide substantive and scholarly commentary on the article. Neithe… [+506 chars]"
+    },
+    {
+      "source": {
         "id": "the-washington-post",
         "name": "The Washington Post"
       },
@@ -719,6 +810,19 @@
     },
     {
       "source": {
+        "id": null,
+        "name": "BBC Focus Magazine"
+      },
+      "author": "Tom Howarth",
+      "title": "How to cut your dementia risk: 7 key lessons from the world’s most important studies - BBC Science Focus Magazine",
+      "description": "The latest research is revealing clues about how you might be able to lower your chances of getting dementia. Here’s what the science says about keeping your mind sharp.",
+      "url": "https://www.sciencefocus.com/the-human-body/how-to-cut-your-dementia-risk-2",
+      "urlToImage": "https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/4ab85c25-23c4-4bd2-8e5a-c22d7d167efc/330ad4e0-3fcb-4037-bfa0-fd3a290da1cc/thumbnails/fa07e2a2-0486-40fa-9082-c5986b474832.jpg?appId=6ab86ca8-b028-4715-93c8-27c92ae62f2a&platform=WEB&w=1200",
+      "publishedAt": "2026-10-07T16:00:00Z",
+      "content": "Global dementia cases, driven mainly by population growth and enhanced life expectancy, are skyrocketing at the moment. Experts anticipate that by 2050, 153 million people could be living with the di… [+12494 chars]"
+    },
+    {
+      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -729,19 +833,6 @@
       "urlToImage": null,
       "publishedAt": "2026-10-07T15:57:07Z",
       "content": "The microbiome isn’t what it used to be in many parts of the world. The shift may be affecting the well-being of people in industrialized countries."
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZME Science"
-      },
-      "author": "Tibi Puiu",
-      "title": "A Deadly Fungus That Attacks the Brain With a 70% Fatality Rate Is Turning Up More Often Across the US - ZME Science",
-      "description": "The deadly mold can infect healthy people, and scientists don’t know why detections are rising.",
-      "url": "https://www.zmescience.com/medicine/cladophialophora-bantiana-brain-fungus/",
-      "urlToImage": "https://cdn.zmescience.com/wp-content/uploads/2026/10/1-s2.0-S2214250922002670-gr1_lrg.jpg",
-      "publishedAt": "2026-10-07T15:35:30Z",
-      "content": "MRI scans showing two brain lesions. The yellow arrow marks a lesion in the lower left temporal lobe surrounded by swelling, while the red arrow points to a 2.7-centimeter lesion in the occipital lob… [+6212 chars]"
     },
     {
       "source": {
@@ -798,28 +889,15 @@
     {
       "source": {
         "id": null,
-        "name": "ScienceAlert"
+        "name": "Science Daily"
       },
-      "author": "Carly Cassella",
-      "title": "Scientists Find Major Flaws in The Research Behind Collagen Supplements - ScienceAlert",
-      "description": "Seeing fine lines or wrinkles in the mirror is a stark reminder that your body is growing older, even if you still feel young on the inside.",
-      "url": "https://www.sciencealert.com/scientists-find-major-flaws-in-the-research-behind-collagen-supplements",
-      "urlToImage": "https://www.sciencealert.com/images/2026/10/GettyImages-2245731189-2560x1440-1-1.jpg",
-      "publishedAt": "2026-10-06T22:00:09Z",
-      "content": "Seeing fine lines or wrinkles in the mirror is a stark reminder that your body is growing older, even if you still feel young on the inside.\r\nA loss of collagen contributes to some of the first outwa… [+5114 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "NPR"
-      },
-      "author": "Nathan Rott",
-      "title": "Science-backed guidance for healthy screen time : Short Wave - NPR",
-      "description": "We’re all aware – and wary – of doomscrolling. Lots of screen time can be bad for us. But what if that’s not always the case? We spoke with the author of a study that found a positive relationship between screen time and brain development in young people. Thi…",
-      "url": "https://www.npr.org/2026/10/06/nx-s1-5954067/algorithm-screentime-socialmedia-wellness",
-      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4999x2812+0+0/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F5e%2Fb2%2F44813f924d3d80c292ab5177bd0c%2F2af0a95a-cbf1-4297-976c-3c986b33d4a6.jpeg",
-      "publishedAt": "2026-10-06T07:00:00Z",
-      "content": "We're all aware and wary of doomscrolling. Lots of screen time can be bad for us. But what if that's not always the case? We spoke with the author of a study that found a positive relationship betwee… [+739 chars]"
+      "author": null,
+      "title": "Goodbye joint replacements? Stanford scientists found a way to regrow cartilage and stop arthritis - ScienceDaily",
+      "description": "Scientists have found a surprising way to regrow damaged knee cartilage by blocking a protein that becomes more abundant with age. In old mice, the treatment restored naturally lost cartilage and also helped prevent osteoarthritis after ACL-like knee injuries…",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261005011249.htm",
+      "urlToImage": "https://www.sciencedaily.com/images/1920/knee-joint-arthritis-cartilage-injury.webp",
+      "publishedAt": "2026-10-06T13:05:35Z",
+      "content": "Scientists have identified a way to restore cartilage in aging knee joints, at least in mice, by blocking a protein whose levels rise with age. The approach not only reversed naturally occurring cart… [+11434 chars]"
     },
     {
       "source": {
@@ -875,19 +953,6 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "Medscape"
-      },
-      "author": "Michael van den Heuvel",
-      "title": "Statin Side Effects: What the Evidence Shows - Medscape",
-      "description": "A large meta-analysis suggests most statin-related complaints are not truly caused by the drug, whereas diabetes and liver enzyme changes remain the main confirmed risks.",
-      "url": "https://www.medscape.com/viewarticle/statin-side-effects-what-evidence-shows-2026a100112s",
-      "urlToImage": "https://img.medscapestatic.com/vim/live/professional_assets/medscape/images/thumbnail_library/gty-260217-statins-800x450.jpg",
-      "publishedAt": "2026-10-05T17:46:57Z",
-      "content": "The list of possible side effects attributed to statins is long: muscle pain, memory problems, depression, sleep disturbances, diabetes, and liver damage. However, a meta-analysis by the Cholesterol … [+14584 chars]"
-    },
-    {
-      "source": {
         "id": "the-washington-post",
         "name": "The Washington Post"
       },
@@ -927,6 +992,19 @@
     },
     {
       "source": {
+        "id": null,
+        "name": "Nature.com"
+      },
+      "author": null,
+      "title": "Metabolic and neural responses to ultraprocessed foods: a randomized, controlled, crossover study - Nature",
+      "description": "In a randomized study in 57 healthy-weight adults, researchers compared nutritionally matched ultraprocessed and non-ultraprocessed meals and found that ultraprocessed foods elicited greater insulin and energy responses, reduced carbohydrate oxidation and alt…",
+      "url": "https://www.nature.com/articles/s42255-026-01619-4",
+      "urlToImage": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs42255-026-01619-4/MediaObjects/42255_2026_1619_Fig1_HTML.png",
+      "publishedAt": "2026-10-05T11:43:11Z",
+      "content": "General study overview\r\nAll study protocols were approved by the Virginia Tech Institutional Review Board (21-1052) and registered at ClinicalTrials.gov (identifier: NCT06017986). The study consisted… [+22855 chars]"
+    },
+    {
+      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -956,19 +1034,6 @@
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
-      "author": "Carolyn Y. Johnson",
-      "title": "Scientists Untangle the Biology of an ‘Undruggable’ Cancer Gene",
-      "description": "Found in 70 percent of cancers, the gene is seen as a grand orchestrator, but has been surprisingly difficult to stop.",
-      "url": "https://www.nytimes.com/2026/10/02/science/scientists-untangle-the-biology-of-an-undruggable-cancer-gene.html",
-      "urlToImage": null,
-      "publishedAt": "2026-10-03T19:09:42Z",
-      "content": "Found in 70 percent of cancers, the gene is seen as a grand orchestrator, but has been surprisingly difficult to stop."
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
       "author": "Christina Jewett, Alice Callahan and Caroline Hopkins Legaspi",
       "title": "F.D.A. Found Cyclospora During Taylor Farms Inspection in Mexico",
       "description": "The discovery adds strong evidence that the outbreak that sickened thousands over the summer originated in a grower’s field or processing facility.",
@@ -976,19 +1041,6 @@
       "urlToImage": "https://static01.nyt.com/images/2026/10/02/multimedia/02dc-cyclospora-vphc/02dc-cyclospora-vphc-mediumSquareAt3X.jpg",
       "publishedAt": "2026-10-02T22:25:24Z",
       "content": "The discovery adds strong evidence that the outbreak that sickened thousands over the summer originated in a grower’s field or processing facility."
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "NBC Connecticut"
-      },
-      "author": "Lauran Neergaard | The Associated Press",
-      "title": "When should I get the flu shot? What experts say is the ideal time to protect yourself - NBC Connecticut",
-      "description": "Medical experts urge getting a flu shot soon, before influenza starts spreading widely — just remember it can take two weeks for protection to kick in.",
-      "url": "https://www.nbcconnecticut.com/news/health/when-to-get-flu-shot-what-experts-say-ideal-time-protect-yourself/3781069/",
-      "urlToImage": "https://media.nbcconnecticut.com/2026/09/GettyImages-2290459839.jpg?quality=85&strip=all&resize=1200%2C675",
-      "publishedAt": "2026-10-02T17:23:44Z",
-      "content": "Its October and time for flu shots.\r\nMedical experts urge getting a flu vaccination soon, before influenza starts spreading widely and to get up to date on protection against other fall respiratory v… [+6248 chars]"
     }
   ]
 }

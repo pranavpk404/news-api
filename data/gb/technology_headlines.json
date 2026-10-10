@@ -5,9 +5,22 @@
   "providers": [
     "rss"
   ],
-  "fetched_at": "2026-10-09T21:53:35.846102+00:00",
+  "fetched_at": "2026-10-10T01:19:56.527599+00:00",
   "articles_count": 21,
   "articles": [
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "Tech Now",
+      "description": "Shiona McCallum visits Cairngorms National Park to see tech monitor wildfire damage.",
+      "url": "https://www.bbc.co.uk/iplayer/episode/m0032yng?at_medium=RSS&at_campaign=rss",
+      "urlToImage": "https://ichef.bbci.co.uk/images/ic/240x135/p0pfw9y5.jpg",
+      "publishedAt": "2026-10-10T01:00:00Z",
+      "content": "Shiona McCallum visits Cairngorms National Park to see tech monitor wildfire damage."
+    },
     {
       "source": {
         "id": "bbc-news",
@@ -267,19 +280,6 @@
       "urlToImage": "https://ichef.bbci.co.uk/images/ic/240x135/p0p9s5kz.jpg",
       "publishedAt": "2026-09-15T19:30:00Z",
       "content": "What should children learn in a world transformed by artificial intelligence?"
-    },
-    {
-      "source": {
-        "id": "bbc-news",
-        "name": "BBC News"
-      },
-      "author": null,
-      "title": "Tech Now",
-      "description": "Shiona McCallum meets mums and hospital staff trialling a new assisted birth innovation.",
-      "url": "https://www.bbc.co.uk/iplayer/episode/m0031qjy?at_medium=RSS&at_campaign=rss",
-      "urlToImage": "https://ichef.bbci.co.uk/images/ic/240x135/p0p93vjy.jpg",
-      "publishedAt": "2026-09-12T01:00:19Z",
-      "content": "Shiona McCallum meets mums and hospital staff trialling a new assisted birth innovation."
     }
   ]
 }

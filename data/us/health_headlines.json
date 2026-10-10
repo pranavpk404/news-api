@@ -6,9 +6,22 @@
     "newsapi",
     "rss"
   ],
-  "fetched_at": "2026-10-09T21:53:35.846102+00:00",
-  "articles_count": 80,
+  "fetched_at": "2026-10-10T01:19:56.527599+00:00",
+  "articles_count": 78,
   "articles": [
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Christopher Rowland and Reed Abelson",
+      "title": "Private Medicare Plans Are Raising Costs And Forcing Millions To Find New Insurance",
+      "description": "As enrollment for Medicare Advantage begins this month, older Americans are confronting fewer options because insurers are discontinuing coverage in many areas.",
+      "url": "https://www.nytimes.com/2026/10/09/business/medicare-private-health-care-costs.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/10/09/multimedia/09biz-medicare-crunch-zmlq/09biz-medicare-crunch-zmlq-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-10-09T22:04:42Z",
+      "content": "As enrollment for Medicare Advantage begins this month, older Americans are confronting fewer options because insurers are discontinuing coverage in many areas."
+    },
     {
       "source": {
         "id": "the-new-york-times",
@@ -24,16 +37,16 @@
     },
     {
       "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
+        "id": null,
+        "name": "PEOPLE"
       },
-      "author": "Christopher Rowland and Reed Abelson",
-      "title": "Private Medicare Plans Are Raising Costs And Forcing Millions To Find New Insurance",
-      "description": "As enrollment for Medicare Advantage begins this month, older Americans are confronting fewer options because insurers are discontinuing coverage in many areas.",
-      "url": "https://www.nytimes.com/2026/10/09/business/medicare-private-health-care-costs.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/10/09/multimedia/09biz-medicare-crunch-zmlq/09biz-medicare-crunch-zmlq-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-10-09T19:41:19Z",
-      "content": "As enrollment for Medicare Advantage begins this month, older Americans are confronting fewer options because insurers are discontinuing coverage in many areas."
+      "author": "Rachel Raposas",
+      "title": "Breast Cancer Survivor Now Paralyzed After Experiencing ‘Severe’ Leg Pain During Utah Hike - Yahoo",
+      "description": "Chris Kamke is in a coma about 1,700 miles away from her family’s home in Wisconsin",
+      "url": "https://people.com/breast-cancer-survivor-now-paralyzed-after-collapsing-on-hike-12164690",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/6c04652855b88c42c2fb32ce88d430d2a4d68ceeb2738f75437fb07507b8a5bf/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2Fe312588e84abb50c7535e14e0224b7c0.jpg",
+      "publishedAt": "2026-10-08T23:08:06Z",
+      "content": "NEED TO KNOW\r\n<ul><li>Chris Kamke experienced a severe medical emergency while hiking with her family in Zion National Park\r\n</li><li>The mother had recently learned her breast cancer was in remissio… [+2555 chars]"
     },
     {
       "source": {
@@ -53,6 +66,45 @@
         "id": "fox-news",
         "name": "Fox News"
       },
+      "author": null,
+      "title": "Parkinson's patients may protect memory and movement with one simple habit - Fox News",
+      "description": "A University of Cincinnati study links weekly physical activity to slower cognitive decline and motor function loss in Parkinson's disease patients.",
+      "url": "https://www.foxnews.com/health/parkinsons-patients-protect-memory-movement-simple-habit",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/10/older-man-physical-therapy.jpg",
+      "publishedAt": "2026-10-08T21:10:53Z",
+      "content": "Weekly physical activity could help to slow down disease progression in Parkinsons patients, a new study found.\r\nThe research, led by the University of Cincinnati, included 294 patients with mild-to-… [+4771 chars]"
+    },
+    {
+      "source": {
+        "id": "the-washington-post",
+        "name": "The Washington Post"
+      },
+      "author": "Leana S. Wen",
+      "title": "Opinion | Far too few patients are being screened for lung cancer - The Washington Post",
+      "description": "Only 1 in 6 eligible patients have spoken to their clinicians about getting this simple test.",
+      "url": "https://www.washingtonpost.com/opinions/2026/10/08/lung-cancer-screening-saves-lives-more-people-should-be-tested/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/2PFDG2AP2EY33H6F2C6Z3YRCZE.jpg&w=1440",
+      "publishedAt": "2026-10-08T20:39:20Z",
+      "content": "Youre reading The Checkup With Dr. Wen, a newsletter on how to navigate medical and public health challenges. Click here to get the full newsletter in your inbox, including answers to reader question… [+373 chars]"
+    },
+    {
+      "source": {
+        "id": "politico",
+        "name": "Politico"
+      },
+      "author": "Arek Sarkissian",
+      "title": "Florida health officials meet amid fierce debate over childhood vaccine plans - Politico",
+      "description": "The hearing was one of the last steps before Florida's new vaccine guidelines take effect.",
+      "url": "https://www.politico.com/news/2026/10/08/florida-health-vaccines-ladapo-children-debate-01112300",
+      "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2Fde%2Fb0%2F1b3b98894b358ed9aedfb0f4b099%2Fimg-3258.jpg",
+      "publishedAt": "2026-10-08T20:32:00Z",
+      "content": "LAKE MARY, Florida A meeting of Florida health leaders to discuss plans to remove four vaccines from the state childhood vaccine schedule turned into intense debate between state officials and doctor… [+900 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
       "author": "Fox News",
       "title": "Study reveals whether diet soda or water is better for weight loss - New York Post",
       "description": "The study included 493 participants ranging from 18 to 65 years old, all of whom had a body mass index (BMI) between 27 and 35 (overweight or obese).",
@@ -60,6 +112,32 @@
       "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/10/144257082.jpg?quality=75&strip=all&w=1200",
       "publishedAt": "2026-10-08T20:20:00Z",
       "content": "Diet drinks containing sugar substitutes were found to be as effective as water for supporting weight loss in overweight or obese adults, according to a two-year randomized trial.\r\nThe study, led by … [+3875 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Vox"
+      },
+      "author": "Dylan Scott",
+      "title": "Is this the cure for Alzheimer’s? - Vox",
+      "description": "An experimental Alzheimer’s dementia treatment first reported in China has piqued researchers’ interest — but also skepticism. New studies hope to figure out if it’s for real.",
+      "url": "https://www.vox.com/good-medicine-newsletter/505678/alzheimers-disease-dementia-treatment-brain-surgery",
+      "urlToImage": "https://platform.vox.com/wp-content/uploads/sites/2/2026/10/GettyImages-2274337394.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2026-10-08T20:00:00Z",
+      "content": "The videos are astonishing. In one scene, a senior Chinese woman appears lost in the wilderness of dementia, unable to answer basic questions; in the next, she seems to be lucidly chatting and shucki… [+10378 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "PublicSource"
+      },
+      "author": "Oliver Morrison, Lajja Mistry",
+      "title": "Second measles case confirmed in Allegheny County - Pittsburgh's Public Source",
+      "description": "A second Allegheny County child has measles. The student attends a private religious school where the reported vaccination rate is 81%.",
+      "url": "https://www.publicsource.org/allegheny-county-second-measles-case-school/",
+      "urlToImage": "https://www.publicsource.org/wp-content/uploads/2026/10/DSC04055-1.jpg",
+      "publishedAt": "2026-10-08T18:58:06Z",
+      "content": "A child who attends a private Christian school in the North Hills has been infected with measles, the second confirmed case in Allegheny County.\r\nPennsylvania is facing the largest outbreak of measle… [+4668 chars]"
     },
     {
       "source": {
@@ -86,6 +164,45 @@
       "urlToImage": "https://media.thedailybeast.com/resizer/v2/P3FMAYXTDREKRKOTG4RJHWR6JY.jpg?auth=b7ca1e0ae4162d3a15da83ce98f231056bc346bbdcaa5b30b8e8e0ccaef0c0a4&width=1200&height=630&focal=1782%2C1003",
       "publishedAt": "2026-10-08T18:44:12Z",
       "content": "She described the news as the surprise of my life.\r\nViola Davis is speaking out about the shocking diagnosis she received following her 2012 Academy Award nomination.\r\nThe 61-year-old star told Peopl… [+5576 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Thetimes.com"
+      },
+      "author": "Eleanor Hayward",
+      "title": "Breakthroughs mean prostate cancer patients have ‘longer, better lives’ - The Times",
+      "description": "Although the number of men being diagnosed with the disease continues to rise, medical advances have led to a significant increase in survival rates",
+      "url": "https://www.thetimes.com/uk/healthcare/article/prostate-cancer-new-treatments-study-qk7qd09s3",
+      "urlToImage": "https://www.thetimes.com/imageserver/image/b8b7991f-4e62-4662-9f4f-95bc05b8a7a3.jpg?strip=all&format=webp&crop=6000px%2C3375px%2C0px%2C312px&resize=1200",
+      "publishedAt": "2026-10-08T17:25:06Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Avon, CT Patch"
+      },
+      "author": "Lisa Marie Farver",
+      "title": "1st Human West Nile Virus Death Of Year Reported In DuPage County - Patch",
+      "description": "Six West Nile Virus cases have been confirmed in DuPage County in 2026.",
+      "url": "https://patch.com/illinois/wheaton/1st-human-west-nile-virus-death-year-reported-dupage-county",
+      "urlToImage": "https://patch.com/img/cdn20/shutterstock/22925010/20261008/123627/styles/patch_image/public/shutterstock-1103683595-1___08122920723.jpg",
+      "publishedAt": "2026-10-08T16:36:29Z",
+      "content": "There have been six WNV cases reported in DuPage County so far in 2026. Last year, 14 residents had confirmed cases of WNV in the county, one of whom died. \r\nWe are deeply saddened to share news of t… [+122 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Newsnationnow.com"
+      },
+      "author": "Caroline Jaime",
+      "title": "New iron deficiency standards for diagnosis released - NewsNation",
+      "description": "About 70% of undiagnosed people fall under one of the high-risk categories, according to the statement.",
+      "url": "https://www.newsnationnow.com/health/new-iron-deficiency-standards-diagnosis/",
+      "urlToImage": "https://www.newsnationnow.com/wp-content/uploads/sites/108/2026/10/2025-05-20T113426Z_827748290_MT1SPYF0447167_RTRMADP_3_SCIENCE-PHOTO-LIBRARY.jpg?w=1280",
+      "publishedAt": "2026-10-08T16:33:39Z",
+      "content": "(NewsNation)  The American Society of Hematology (ASH) has adjusted the standards for diagnosing iron deficiency in order to address the underdiagnosis of the condition.\r\nIron deficiency impacts abou… [+1930 chars]"
     },
     {
       "source": {
@@ -155,19 +272,6 @@
     {
       "source": {
         "id": null,
-        "name": "New York Post"
-      },
-      "author": "Allie Yang",
-      "title": "GLP-1s linked to a nasty side effect in nails: study - New York Post",
-      "description": "Are you one of the roughly 29 million Americans on a GLP-1 weight loss medication? If so, you’re likely to have noticed some changes in your nails.",
-      "url": "https://nypost.com/2026/10/08/health/glp-1s-linked-to-a-gross-side-effect-in-nails-study/",
-      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/10/newspress-collage-yh76bndcl-1791468441168.jpg?quality=75&strip=all&1791454053&w=1200",
-      "publishedAt": "2026-10-08T14:07:00Z",
-      "content": "Ozempic and Mounjaro can cost an arm and a leg and maybe a fingernail. \r\nA new study found that people on GLP-1 drugs were nearly 25% more likely to experience a nail disorder than those not on the d… [+3382 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "Science Daily"
       },
       "author": null,
@@ -219,97 +323,6 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "Abcnews.com"
-      },
-      "author": "ABC News - Breaking News, Latest News and Videos",
-      "title": "Health officials report 74 new measles cases in Pennsylvania - ABC News - Breaking News, Latest News and Videos",
-      "description": null,
-      "url": "https://abcnews.com/Health/health-officials-report-74-new-measles-cases-pennsylvania/story?id\\\\u003d137091205",
-      "urlToImage": null,
-      "publishedAt": "2026-10-08T12:15:55Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "usa-today",
-        "name": "USA Today"
-      },
-      "author": "Sara Moniuszko",
-      "title": "What a neuroscientist eats in a day and how to combat decision fatigue - USA Today",
-      "description": "A neuroscientist shares what he eats in a day and how to avoid decision fatigue when it comes to meal planning.",
-      "url": "https://www.usatoday.com/story/life/health-wellness/2026/10/08/what-a-neuroscientist-eats-in-a-day/91758106007/",
-      "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/09/14/USAT/91761249007-getty-images-472018089.jpg?crop=2120,1193,x0,y0&width=2120&height=1193&format=pjpg&auto=webp",
-      "publishedAt": "2026-10-08T12:09:00Z",
-      "content": "Ever stared into your fridge after a long day not knowing what to cook? You may be suffering from decision fatigue, which can affect what you decide to eat.\r\nNeuroscientist Shawn Watson knows the fee… [+3393 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Food & Wine"
-      },
-      "author": "https://www.facebook.com/foodandwine",
-      "title": "The 2 Best Cottage Cheese Brands at the Grocery Store, According to Consumer Reports - Food & Wine",
-      "description": "Consumer Reports put cottage cheese from seven different brands to the test, sampling several products from each. Two options came out on top, earning high marks for their flavor, texture, and short ingredient lists. So if cottage cheese is a regular in your …",
-      "url": "https://www.foodandwine.com/best-cottage-cheese-consumer-reports-12163398",
-      "urlToImage": "https://www.foodandwine.com/thmb/IfFp1N-AA4dBaGBHjP4-AT-C0yQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Consumer-Reports-Cottage-Cheese-Taste-Test-FT-DGTL1026-c20baf7f85614b6cb29e026344830dec.jpg",
-      "publishedAt": "2026-10-08T12:01:00Z",
-      "content": "Cottage cheese has become cool again. Its high in protein, provides B vitamins and minerals, and is surprisingly versatile. You can enjoy it for breakfast, lunch, or dinner, or even work it into a de… [+5715 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "PsyPost"
-      },
-      "author": "Karina Petrova",
-      "title": "Medication helps adults with ADHD weigh the negative consequences of their decisions - PsyPost",
-      "description": "Adults with ADHD often struggle with choices that carry negative consequences. A new experiment reveals that stimulant medication improves decision-making by helping the brain process the potential costs of an action more efficiently.",
-      "url": "https://www.psypost.org/medication-helps-adults-with-adhd-weigh-the-negative-consequences-of-their-decis/",
-      "urlToImage": "https://www.psypost.org/wp-content/uploads/2025/08/pills.jpg",
-      "publishedAt": "2026-10-08T11:23:38Z",
-      "content": "Adults with attention deficit hyperactivity disorder often struggle with choices that require weighing potential rewards against negative consequences. A new experiment reveals that a common stimulan… [+7442 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ScienceAlert"
-      },
-      "author": "Carly Cassella",
-      "title": "Ever Heard of The Nordic Diet? Large Study Finds It Could Help You Live Longer - ScienceAlert",
-      "description": "Most of us have heard of the Mediterranean diet and its many health benefits, but there's another European eating plan that could also help you live longer.",
-      "url": "https://www.sciencealert.com/ever-heard-of-the-nordic-diet-large-study-finds-it-could-help-you-live-longer",
-      "urlToImage": "https://www.sciencealert.com/images/2026/10/GettyImages-2248843039-2560x1440-1.jpg",
-      "publishedAt": "2026-10-08T11:01:14Z",
-      "content": "Most of us have heard of the Mediterranean diet and its many health benefits, but there's another European eating plan that could also help you live longer.\r\nIt's called the Nordic diet, and it is ba… [+5483 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "San Francisco Chronicle"
-      },
-      "author": "Jessica Roy",
-      "title": "Why California could ban a popular feature for high-end kitchen remodels - San Francisco Chronicle",
-      "description": "A proposed California rule would ban engineered quartz countertops after hundreds of workers developed silicosis, a deadly and incurable lung disease.",
-      "url": "https://www.sfchronicle.com/personal-finance/article/quartz-countertop-engineered-california-22466875.php",
-      "urlToImage": "https://s.hdnux.com/photos/01/67/44/25/31343982/3/rawImage.jpg",
-      "publishedAt": "2026-10-08T11:01:04Z",
-      "content": "Engineered quartz countertops have surged in popularity, but California is considering a ban on their fabrication and installation because of the risk of potentially deadly silica exposure to workers… [+5134 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Eatingwell.com"
-      },
-      "author": "https://www.facebook.com/EatingWell/",
-      "title": "The Best Breakfast for Better Kidney Health, According to Kidney Dietitians - EatingWell",
-      "description": "With no added sugar, plant protein and loads of fiber, kidney dietitians say this pumpkin-date overnight oats is the best breakfast for kidney health.",
-      "url": "https://www.eatingwell.com/best-breakfast-for-kidney-health-12160920",
-      "urlToImage": "https://www.eatingwell.com/thmb/RBMk7dkmQX_fKTm0rb21cHrZXkI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/The-Best-Breakfast-for-Better-Kidney-Health-f9ac9207d8cd4b65836fdb6ef8c9e10a.jpg",
-      "publishedAt": "2026-10-08T11:00:00Z",
-      "content": "Supporting your kidneys significantly contributes to overall health. Your kidneys play an underappreciated role in so many different systems and help you feel your best, says Melanie Betz, M.S., RD, … [+6004 chars]"
-    },
-    {
-      "source": {
         "id": "the-washington-post",
         "name": "The Washington Post"
       },
@@ -323,16 +336,16 @@
     },
     {
       "source": {
-        "id": "the-washington-post",
-        "name": "The Washington Post"
+        "id": null,
+        "name": "SILive.com"
       },
-      "author": "Jennifer Fields",
-      "title": "More physical activity may mean slower Parkinson’s disease progression - The Washington Post",
-      "description": "A new study suggests exercise could help people with Parkinson's disease maintain both movement and cognitive skills, slowing the disease's progression in multiple ways.",
-      "url": "https://www.washingtonpost.com/wellness/2026/10/08/more-physical-activity-may-mean-slower-parkinsons-disease-progression/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/HBQ6IJXJEX65EL43EQN6PM3ILY_size-normalized.JPG&w=1440",
-      "publishedAt": "2026-10-08T10:32:34Z",
-      "content": "When it comes to exercise, theres an age-old debate over which matters more: how hard you work out, or how long you do it. For people with Parkinsons disease, new research suggests theres an answer."
+      "author": "SILive.com",
+      "title": "Staten Island breast cancer survivors create group to support women and promote early detection - SILive.com",
+      "description": null,
+      "url": "https://www.silive.com/news/2026/10/these-staten-island-best-friends-faced-breast-cancer-a-year-apart-now-theyre-turning-survival-into-support-for-women.html",
+      "urlToImage": null,
+      "publishedAt": "2026-10-08T09:50:00Z",
+      "content": null
     },
     {
       "source": {
@@ -346,6 +359,19 @@
       "urlToImage": "https://www.propublica.org/wp-content/uploads/2026/10/20261007-maney-rawmilk-caps.jpg?resize=2000,1333",
       "publishedAt": "2026-10-08T09:00:00Z",
       "content": "The nations largest professional group of pediatricians has renewed its call for a nationwide ban on the sale and distribution of unpasteurized milk and other raw dairy products, according to a polic… [+6229 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "TOI Lifestyle Desk",
+      "title": "​Forget the pill, common gut microbe produces molecule that cuts cholesterol and betters heart health: What the new study found​ - The Times of India",
+      "description": "What if the next big breakthrough for cholesterol wasn’t hiding inside a pill bottle, but somewhere deep in your gut? That’s what researchers are wondering after a new study found that a surprisingly common gut bacterium churns out a molecule that dramaticall…",
+      "url": "https://timesofindia.indiatimes.com/etimes/wellness/forget-the-pill-common-gut-microbe-produces-molecule-that-cuts-cholesterol-and-betters-heart-health-what-the-new-study-found/photostory/134783272.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-134783289,width-1280,height-720,imgsize-28964,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-10-08T07:15:56Z",
+      "content": "What if the next big breakthrough for cholesterol wasnt hiding inside a pill bottle, but somewhere deep in your gut? Thats what researchers are wondering after a new study found that a surprisingly c… [+1175 chars]"
     },
     {
       "source": {
@@ -431,19 +457,6 @@
         "name": "Nature.com"
       },
       "author": null,
-      "title": "tRNA dosage regulates lineage dependency and resistance in prostate cancer - Nature",
-      "description": "A tRNA-specific regulatory pathway is associated with codon biology, lineage transitions and therapy resistance in prostate cancer.",
-      "url": "https://www.nature.com/articles/s41586-026-11153-8",
-      "urlToImage": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-11153-8/MediaObjects/41586_2026_11153_Fig1_HTML.png",
-      "publishedAt": "2026-10-07T23:03:38Z",
-      "content": "Patient sample collection\r\nMetastatic tumour samples constituting the UW TMAs were collected from patients with metastatic castration-resistant prostate cancer at the UWFred Hutchinson Cancer Center … [+45877 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Nature.com"
-      },
-      "author": null,
       "title": "A split attractor design for rapidly writing a navigational goal - Nature",
       "description": "The&nbsp;recurrent h∆K–PFG neural circuit generates persistent heading memories through slow excitation, fast inhibition and a&nbsp;disinhibitory&nbsp;gate, where disinhibition controls the functional&nbsp;coupling of the network to&nbsp;rapidly transition be…",
       "url": "https://www.nature.com/articles/s41586-026-11144-9",
@@ -467,6 +480,32 @@
     {
       "source": {
         "id": null,
+        "name": "Phys.Org"
+      },
+      "author": null,
+      "title": "Superbug P. aeruginosa uses two protein plugs to seal channels against antibiotics - Phys.org",
+      "description": "A joint research team has identified a new mechanism underlying antibiotic resistance in Pseudomonas aeruginosa, a major multidrug-resistant \"superbug.\" The discovery provides important clues for the development of new treatments for multidrug-resistant bacte…",
+      "url": "https://phys.org/news/2026-10-superbug-p-aeruginosa-protein-channels.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/superbug-p-aeruginosa.jpg",
+      "publishedAt": "2026-10-07T23:00:01Z",
+      "content": "A joint research team has identified a new mechanism underlying antibiotic resistance in Pseudomonas aeruginosa, a major multidrug-resistant \"superbug.\" The discovery provides important clues for the… [+3442 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Newser"
+      },
+      "author": "Bob Cronin",
+      "title": "Exercise Can Help Cancer Patients but Goes Uncovered - Newser",
+      "description": "Trial suggests supervised workouts extended lives",
+      "url": "https://www.newser.com/story/397724/workouts-can-keep-cancer-in-remission-trial-suggests.html",
+      "urlToImage": "https://cdn.newser.com/image/1716524-12-20261007182003.jpeg",
+      "publishedAt": "2026-10-07T22:50:00Z",
+      "content": "Despite that, insurers mostly don't pay for \"exercise oncology,\" leaving many patients reliant on philanthropy, hospital pilots, or YMCA programs. One big exception: The University of Pittsburgh Medi… [+367 chars]"
+    },
+    {
+      "source": {
+        "id": null,
         "name": "Santa Rosa Press Democrat"
       },
       "author": "Martin Espinoza",
@@ -476,19 +515,6 @@
       "urlToImage": "https://www.pressdemocrat.com/wp-content/uploads/migration/2023/09/247d4ece-4031-59f4-a701-f16609aba756.jpg?w=1200&h=785",
       "publishedAt": "2026-10-07T21:03:55Z",
       "content": "Sonoma Countys top health official on Wednesday issued a health order requiring health care personnel and others regardless of their vaccination status to wear protective masks while in patient areas… [+4662 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "NPR"
-      },
-      "author": "Yuki Noguchi",
-      "title": "Some who take GLP-1s are suffering serious side effects, but it's unclear how often - NPR",
-      "description": "GLP-1s are prescribed for a growing number of conditions and come with a range of side effects — including ones that lawsuits allege are life-altering or lethal. How common is that? It's hard to know.",
-      "url": "https://www.npr.org/2026/10/07/nx-s1-5850256/some-who-take-glp-1s-are-suffering-serious-side-effects-but-its-unclear-how-often",
-      "urlToImage": "https://media.npr.org/include/images/facebook-default-wide-s1400-c85.jpg",
-      "publishedAt": "2026-10-07T20:15:21Z",
-      "content": "TranscriptAILSA CHANG, HOST: \r\n More than 1 in 10 Americans are taking a GLP-1 drug for weight loss. That's according to a recent Gallup poll. These drugs are prescribed for a growing number of condi… [+4579 chars]"
     },
     {
       "source": {
@@ -522,19 +548,6 @@
         "name": "Nature.com"
       },
       "author": null,
-      "title": "Revealed: how this common gut microbe protects against heart disease - Nature",
-      "description": "Intestinal bacterium secretes a molecule that reduces cholesterol production, according to a mouse study.",
-      "url": "https://www.nature.com/articles/d41586-026-03189-7",
-      "urlToImage": "https://media.nature.com/lw1200/magazine-assets/d41586-026-03189-7/d41586-026-03189-7_53815532.jpg",
-      "publishedAt": "2026-10-07T18:55:24Z",
-      "content": "Atherosclerosis involves the build up of fatty plaque (yellow) in the walls of arteries, limiting the flow of blood (red blood cells shown).Credit: Kateryna Kon/Science Photo Library\r\nA gut microbe t… [+3490 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Nature.com"
-      },
-      "author": null,
       "title": "Prehistoric global migration of vanishing gut microbes with humans - Nature",
       "description": "Microbial species disappearing from industrialized populations have evolved with humans over millennia and migrated worldwide with them—this may have consequences for human health.",
       "url": "https://www.nature.com/articles/s41586-026-11106-1",
@@ -544,16 +557,16 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "KABC-TV"
+        "id": "fox-news",
+        "name": "Fox News"
       },
-      "author": "Madison Weil",
-      "title": "SoCal heat wave accelerates mosquito breeding, prompts emergency spraying amid West Nile virus concerns - ABC7 Los Angeles",
-      "description": "Emergency control treatments are being carried out in SoCal as the intense heat wave causes the bug population to explode.",
-      "url": "https://abc7.com/post/socal-heat-wave-accelerates-mosquito-breeding-prompts-emergency-spraying-amid-west-nile-virus-concerns/19918027/",
-      "urlToImage": "https://cdn.abcotvs.com/dip/images/19918080_mosquito.jpg?w=1600",
-      "publishedAt": "2026-10-07T17:43:13Z",
-      "content": "MONTEREY PARK, Calif. (KABC) -- Mosquito control treatments will be conducted Wednesday and Thursday in Altadena and Monterey Park in an effort to reduce mosquito populations that create a significan… [+2133 chars]"
+      "author": null,
+      "title": "People on weight-loss drugs report fingernails falling off as researchers uncover surprising link - Fox News",
+      "description": "Nail discoloration was reported by 46% of GLP-1 users versus 17% of non-users, while scalp inflammation accompanied hair loss in most medication users studied.",
+      "url": "https://www.foxnews.com/health/people-weight-loss-drugs-report-fingernails-falling-researchers-uncover-surprising-link",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/10/nail-treatment.jpg",
+      "publishedAt": "2026-10-07T18:10:09Z",
+      "content": "People taking GLP-1 medications for obesity or diabetes experience nail detachment and hair loss at significantly higher rates than people with similar overall health who do not take GLP-1s.\r\nThat's … [+3894 chars]"
     },
     {
       "source": {
@@ -567,19 +580,6 @@
       "urlToImage": "https://static01.nyt.com/images/2026/10/07/multimedia/07dc-hiv-new-cmpg/07dc-hiv-new-cmpg-mediumSquareAt3X.jpg",
       "publishedAt": "2026-10-07T16:33:19Z",
       "content": "The networks also develop treatments and preventions for other infectious diseases and were instrumental in testing the Covid vaccine."
-    },
-    {
-      "source": {
-        "id": "associated-press",
-        "name": "Associated Press"
-      },
-      "author": "Jonathan Poet, Phil Holm",
-      "title": "Measles is surging in the US. These graphics show how bad it has gotten - AP News",
-      "description": "The U.S. is enduring its worst year for measles since 1991. Since the beginning of last year, large outbreaks have been reported in several states, including Texas, Utah, South Carolina and, now, Pennsylvania.",
-      "url": "https://apnews.com/article/measles-is-surging-in-the-us-these-graphics-show-how-bad-it-has-gotten-000001a11703db46adfbdf87546f0000",
-      "urlToImage": "https://dims.apnews.com/dims4/default/6dff1e4/2147483647/strip/true/crop/1920x1279+0+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Ff1%2Fe8%2F8347f0f048e3bb4b7454a68f1ddf%2Fmeasles-header.jpg",
-      "publishedAt": "2026-10-07T16:31:00Z",
-      "content": "The U.S. is enduring its worst year for measles since 1991. Since the beginning of last year, large outbreaks have been reported in several states, including Texas, Utah, South Carolina and, now, Pen… [+852 chars]"
     },
     {
       "source": {
@@ -649,15 +649,15 @@
     {
       "source": {
         "id": null,
-        "name": "FierceBiotech"
+        "name": "Medical Xpress"
       },
-      "author": "Marissa Russo",
-      "title": "Cerevance rescues its Parkinson's drug with phase 3 win - Fierce Biotech",
-      "description": "Cerevance's oral non-dopaminergic therapy has redeemed itself by improving both motor and non-motor symptoms in a phase 3 Parkinson's disease study. | Cerevance's oral non-dopaminergic therapy has redeemed itself by improving both motor and non-motor symptoms…",
-      "url": "https://www.fiercebiotech.com/biotech/cerevance-rescues-its-parkinsons-drug-phase-3-win",
-      "urlToImage": "https://qtxasset.com/quartz/qcloud5/media/image/GettyImages-1125736551.jpg?VersionId=_FIUnfn0unpB5E1xtbZ4t0hEYLXkTh_X",
-      "publishedAt": "2026-10-07T14:09:28Z",
-      "content": null
+      "author": null,
+      "title": "Key driver of aggressive prostate cancer identified, suggesting new way to reverse drug resistance - Medical Xpress",
+      "description": "Researchers at Fred Hutch Cancer Center have identified a previously overlooked molecular regulator that helps determine whether prostate tumors remain sensitive to treatment or evolve into a more aggressive, drug-resistant form of the disease.",
+      "url": "https://medicalxpress.com/news/2026-10-key-driver-aggressive-prostate-cancer.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/key-driver-of-aggressi.jpg",
+      "publishedAt": "2026-10-07T15:00:02Z",
+      "content": "Researchers at Fred Hutch Cancer Center have identified a previously overlooked molecular regulator that helps determine whether prostate tumors remain sensitive to treatment or evolve into a more ag… [+4633 chars]"
     },
     {
       "source": {
@@ -716,19 +716,6 @@
         "id": null,
         "name": "ScienceAlert"
       },
-      "author": "Peter Dockrill",
-      "title": "A Hot Bath May Lower Your Blood Pressure More Than a 30-Minute Workout Can, Study Reveals - ScienceAlert",
-      "description": "Taking a nice hot bath at the end of a long day is a wonderful way to unwind, but the end results can go way beyond simple relaxation.",
-      "url": "https://www.sciencealert.com/a-hot-bath-may-lower-your-blood-pressure-more-than-a-30-minute-workout-can-study-reveals",
-      "urlToImage": "https://www.sciencealert.com/images/2026/10/woman-in-bath.jpg",
-      "publishedAt": "2026-10-07T11:00:33Z",
-      "content": "Taking a nice hot bath at the end of a long day is a wonderful way to unwind, but the end results can go way beyond simple relaxation.\r\nIn fact, the health benefits of sustained immersion in hot wate… [+5845 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ScienceAlert"
-      },
       "author": "Esra Öz",
       "title": "Common Antidepressants Could Have an Unexpected Role in Cancer Survival - ScienceAlert",
       "description": "Things that once brought pleasure lose their appeal.",
@@ -765,19 +752,6 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "Science Daily"
-      },
-      "author": null,
-      "title": "Goodbye joint replacements? Stanford scientists found a way to regrow cartilage and stop arthritis - ScienceDaily",
-      "description": "Scientists have found a surprising way to regrow damaged knee cartilage by blocking a protein that becomes more abundant with age. In old mice, the treatment restored naturally lost cartilage and also helped prevent osteoarthritis after ACL-like knee injuries…",
-      "url": "https://www.sciencedaily.com/releases/2026/10/261005011249.htm",
-      "urlToImage": "https://www.sciencedaily.com/images/1920/knee-joint-arthritis-cartilage-injury.webp",
-      "publishedAt": "2026-10-06T13:05:35Z",
-      "content": "Scientists have identified a way to restore cartilage in aging knee joints, at least in mice, by blocking a protein whose levels rise with age. The approach not only reversed naturally occurring cart… [+11434 chars]"
-    },
-    {
-      "source": {
         "id": "usa-today",
         "name": "USA Today"
       },
@@ -801,32 +775,6 @@
       "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/10/crop-41144085_09c284.jpg?quality=75&strip=all&w=1200",
       "publishedAt": "2026-10-06T10:59:00Z",
       "content": "People obsess over looking younger, but what about staying sharp?\r\nFor many, the brain isnt a priority until something goes wrong. But by then, you may have missed the chance to get ahead of the prob… [+6497 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The Conversation Africa"
-      },
-      "author": "Julie Moreno",
-      "title": "Why old dogs might be able to teach Alzheimer’s researchers new tricks - The Conversation",
-      "description": "As dogs age, their brains undergo similar changes to human brains, making them a valuable natural model to study dementia and other neurodegenerative diseases.",
-      "url": "https://theconversation.com/why-old-dogs-might-be-able-to-teach-alzheimers-researchers-new-tricks-291257",
-      "urlToImage": "https://images.theconversation.com/files/763755/original/file-20261003-50-88ornl.jpg?ixlib=rb-4.1.1&rect=0%2C1515%2C2400%2C1200&q=45&auto=format&w=1356&h=668&fit=crop",
-      "publishedAt": "2026-10-06T09:02:25Z",
-      "content": "Most people know someone with Alzheimers disease. When I was growing up, my grandmother struggled with dementia, and I saw firsthand how difficult that was for our family.\r\nThat experience was one re… [+4801 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "NPR"
-      },
-      "author": "Nathan Rott",
-      "title": "Science-backed guidance for healthy screen time : Short Wave - NPR",
-      "description": "We’re all aware – and wary – of doomscrolling. Lots of screen time can be bad for us. But what if that’s not always the case? We spoke with the author of a study that found a positive relationship between screen time and brain development in young people. Thi…",
-      "url": "https://www.npr.org/2026/10/06/nx-s1-5954067/algorithm-screentime-socialmedia-wellness",
-      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4999x2812+0+0/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F5e%2Fb2%2F44813f924d3d80c292ab5177bd0c%2F2af0a95a-cbf1-4297-976c-3c986b33d4a6.jpeg",
-      "publishedAt": "2026-10-06T07:00:00Z",
-      "content": "We're all aware and wary of doomscrolling. Lots of screen time can be bad for us. But what if that's not always the case? We spoke with the author of a study that found a positive relationship betwee… [+739 chars]"
     },
     {
       "source": {
@@ -892,6 +840,32 @@
       "urlToImage": "https://d3i6fh83elv35t.cloudfront.net/static/2024/04/GettyImages-1139947549-1024x768.jpg",
       "publishedAt": "2026-10-05T18:35:13Z",
       "content": "NEW YORK (AP) Florida's current dengue outbreak appears to be the largest in several decades in the continental United States.\r\nState health officials reported this week that more than 250 locally ac… [+5452 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Medscape"
+      },
+      "author": "Michael van den Heuvel",
+      "title": "Statin Side Effects: What the Evidence Shows - Medscape",
+      "description": "A large meta-analysis suggests most statin-related complaints are not truly caused by the drug, whereas diabetes and liver enzyme changes remain the main confirmed risks.",
+      "url": "https://www.medscape.com/viewarticle/statin-side-effects-what-evidence-shows-2026a100112s",
+      "urlToImage": "https://img.medscapestatic.com/vim/live/professional_assets/medscape/images/thumbnail_library/gty-260217-statins-800x450.jpg",
+      "publishedAt": "2026-10-05T17:46:57Z",
+      "content": "The list of possible side effects attributed to statins is long: muscle pain, memory problems, depression, sleep disturbances, diabetes, and liver damage. However, a meta-analysis by the Cholesterol … [+14584 chars]"
+    },
+    {
+      "source": {
+        "id": "the-washington-post",
+        "name": "The Washington Post"
+      },
+      "author": "Beth Krietsch",
+      "title": "Study finds a whole-grain sweet spot for heart health - The Washington Post",
+      "description": "You know that whole grains are good for your heart. New research identifies how much it takes to notice improvements in cholesterol, blood pressure and more.",
+      "url": "https://www.washingtonpost.com/wellness/2026/10/05/study-finds-whole-grain-sweet-spot-heart-health/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/2KHJH4AJAJMATRPTKDAFW7JQGM_size-normalized.jpg&w=1440",
+      "publishedAt": "2026-10-05T17:00:00Z",
+      "content": "You know that whole grains are good for your heart. New research identifies how much it takes to notice improvements in cholesterol, blood pressure and more."
     },
     {
       "source": {

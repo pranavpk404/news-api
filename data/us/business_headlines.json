@@ -6,9 +6,48 @@
     "newsapi",
     "rss"
   ],
-  "fetched_at": "2026-10-11T02:20:08.316154+00:00",
+  "fetched_at": "2026-10-11T10:20:57.846821+00:00",
   "articles_count": 100,
   "articles": [
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Max Read",
+      "title": "A Contagious Aversion to Overhead Lights",
+      "description": "Plus: How far to go for a colleague, and now your chance to give someone advice.",
+      "url": "https://www.nytimes.com/2026/10/11/business/office-lighting-work-advice.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/10/11/multimedia/11WorkFriend-mzpt/11WorkFriend-mzpt-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-10-11T09:01:32Z",
+      "content": "Plus: How far to go for a colleague, and now your chance to give someone advice."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Alissa Wilkinson",
+      "title": "Three Mark Zuckerbergs, Three Surprisingly Different Men",
+      "description": "Jeremy Strong in “The Social Reckoning,” Jesse Eisenberg in “The Social Network” and the real Meta executive are all playing parts. But only one has changed his approach.",
+      "url": "https://www.nytimes.com/2026/10/11/movies/mark-zuckerberg-social-network-reckoning.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/10/11/arts/11cul-zuckerberg-film/11cul-zuckerberg-film-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-10-11T09:01:17Z",
+      "content": "Jeremy Strong in “The Social Reckoning,” Jesse Eisenberg in “The Social Network” and the real Meta executive are all playing parts. But only one has changed his approach."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Joe Gose",
+      "title": "San Francisco Is Still Pushing to Turn Offices Into Homes",
+      "description": "The city has not completed a single office-to-housing conversion, despite hopes to meet housing demand and inject life into empty downtowns.",
+      "url": "https://www.nytimes.com/2026/10/11/business/san-francisco-housing-conversions.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/10/04/multimedia/04BIZ-SQFT-SANFRANCISCO-1-fhwk/04BIZ-SQFT-SANFRANCISCO-1-fhwk-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-10-11T09:00:15Z",
+      "content": "The city has not completed a single office-to-housing conversion, despite hopes to meet housing demand and inject life into empty downtowns."
+    },
     {
       "source": {
         "id": "the-new-york-times",
@@ -19,7 +58,7 @@
       "description": "Major TV networks were notified on Friday that the department was examining whether they violated antitrust laws when they suspended pool coverage of President Trump.",
       "url": "https://www.nytimes.com/2026/10/10/business/media/trump-justice-department-tv-networks.html",
       "urlToImage": "https://static01.nyt.com/images/2026/10/10/multimedia/10biz-media-investigation-gpjh/10biz-media-investigation-gpjh-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-10-11T00:39:17Z",
+      "publishedAt": "2026-10-11T02:40:52Z",
       "content": "Major TV networks were notified on Friday that the department was examining whether they violated antitrust laws when they suspended pool coverage of President Trump."
     },
     {
@@ -54,12 +93,38 @@
         "name": "The Wall Street Journal"
       },
       "author": "WSJ",
-      "title": "Stock Market News, Oct. 9, 2026: Stocks Rise as Tech Shakes Off Thursday Selloff - WSJ",
+      "title": "Anthropic AI Model Went Rogue, Submitted Fake Unsolved Murder Tip - WSJ",
       "description": null,
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-09-2026",
+      "url": "https://www.wsj.com/us-news/anthropic-ai-model-goes-rogue-submits-fake-unsolved-murder-tip-b0566f54",
       "urlToImage": null,
-      "publishedAt": "2026-10-09T23:36:00Z",
+      "publishedAt": "2026-10-10T03:34:00Z",
       "content": null
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Jagmeet Singh",
+      "title": "Elon Musk intensifies attack on Ambani over Starlink India launch delay - TechCrunch",
+      "description": "Elon Musk has accused Indian billionaire Mukesh Ambani of blocking competition.",
+      "url": "https://techcrunch.com/2026/10/09/elon-musk-intensifies-attack-on-ambani-over-starlink-india-launch-delay/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2275575484.jpg?resize=1200,815",
+      "publishedAt": "2026-10-10T03:10:06Z",
+      "content": "As SpaceX struggles to launch Starlink in India, Elon Musk has stepped up his attack on billionaire Mukesh Ambani, mockingly calling him the countrys “prime minister” to suggest he wields outsized co… [+3676 chars]"
+    },
+    {
+      "source": {
+        "id": "the-washington-post",
+        "name": "The Washington Post"
+      },
+      "author": "Lauren Kaori Gurley",
+      "title": "UAW leader reviled by Trump declares victory in reelection - The Washington Post",
+      "description": "United Auto Workers President Shawn Fain said Friday that he had easily beat his top challenger.",
+      "url": "https://www.washingtonpost.com/business/2026/10/09/union-leader-reviled-by-trump-wins-reelection-uaw/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/BE5ODZLGGZWP4NKDZWEGF6KSBU_size-normalized.jpg&w=1440",
+      "publishedAt": "2026-10-10T02:27:08Z",
+      "content": "United Auto Workers President Shawn Fain, an adversary of President Donald Trump, said he won in his reelection bid Friday, notching him another four-year term leading one of the countrys most powerf… [+59 chars]"
     },
     {
       "source": {
@@ -86,19 +151,6 @@
       "urlToImage": "https://static01.nyt.com/images/2026/08/26/multimedia/09dc-cook/00dc-cook-pzfl-mediumSquareAt3X.jpg",
       "publishedAt": "2026-10-09T22:24:25Z",
       "content": "President Trump said the White House would investigate unsubstantiated claims that Lisa D. Cook committed mortgage fraud and hold a hearing next month."
-    },
-    {
-      "source": {
-        "id": "the-wall-street-journal",
-        "name": "The Wall Street Journal"
-      },
-      "author": "WSJ",
-      "title": "Shawn Fain Claims Victory in UAW Election Rout - WSJ",
-      "description": null,
-      "url": "https://www.wsj.com/business/autos/shawn-fain-claims-victory-in-uaw-election-rout-d69bac24",
-      "urlToImage": null,
-      "publishedAt": "2026-10-09T22:06:00Z",
-      "content": null
     },
     {
       "source": {
@@ -129,6 +181,32 @@
     {
       "source": {
         "id": null,
+        "name": "WREG NewsChannel 3"
+      },
+      "author": "Katelyn Barker",
+      "title": "‘It’s amazing’: Gatorade Man getting car, LLC from local church - WREG.com",
+      "description": "MEMPHIS, Tenn. — Demarcus Dickerson, also known as the “Gatorade Man,” is continuing to receive support from the community following his arrest Tuesday for allegedly blocking traffic. Now, a local pastor is preparing to give him a car and an LLC. We spoke to …",
+      "url": "https://wreg.com/news/local/gatorade-man-getting-car-llc-from-local-church/",
+      "urlToImage": "https://wreg.com/wp-content/uploads/sites/18/2026/10/Demarcus-Dickerson.png?w=1280",
+      "publishedAt": "2026-10-09T21:18:51Z",
+      "content": "MEMPHIS, Tenn. Demarcus Dickerson, also known as the “Gatorade Man,” is continuing to receive support from the community following his arrest Tuesday for allegedly blocking traffic.\r\nNow, a local pas… [+1440 chars]"
+    },
+    {
+      "source": {
+        "id": "cbs-news",
+        "name": "CBS News"
+      },
+      "author": "Aimee  Picchi",
+      "title": "These 18 million households now rank as the richest in the U.S., new Fed data shows - CBS News",
+      "description": "The smallest age group in the U.S. is also the richest, with a 37% jump in net worth over the last three years — far higher than any other group.",
+      "url": "https://www.cbsnews.com/news/fed-data-americans-over-75-richest/",
+      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/08/25/d401d6d4-3842-4964-a95f-ed3ac07b38b0/thumbnail/1200x630/104ad248f0da2fbb519224d6eed64f3b/gettyimages-1307002411.jpg",
+      "publishedAt": "2026-10-09T21:13:41Z",
+      "content": "Sometimes the key to building wealth is just sticking around, new Federal Reserve data suggests. \r\nThe 18 million U.S. households headed by someone 75 or older have the highest median net worth of an… [+3054 chars]"
+    },
+    {
+      "source": {
+        "id": null,
         "name": "Financial Times"
       },
       "author": null,
@@ -141,16 +219,29 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
+        "id": "bloomberg",
+        "name": "Bloomberg"
       },
-      "author": "Grace O'Donnell",
-      "title": "Moderna stock hits 4-year high on planned national cancer vaccine effort - Yahoo Finance",
-      "description": "Moderna stock popped 9% on Friday after the New York Times reported new details about an effort to speed up cancer vaccine development. Investors saw the mRN...",
-      "url": "https://finance.yahoo.com/markets/stocks/article/moderna-stock-hits-4-year-high-on-planned-national-cancer-vaccine-effort-201351554.html",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/7cbea6a1a5afd2c68cf8f7a92fb5da763c63680887d4293cd6b024353945c565/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-10%2F72d03fcf-e2b8-49bd-9a72-2b95230faa18",
-      "publishedAt": "2026-10-09T20:13:51Z",
-      "content": "Moderna (MRNA) stock popped 14% on Friday, reaching its highest level since January 2022, after the New York Times reported new details about an effort to accelerate cancer vaccine development. Inves… [+1445 chars]"
+      "author": "Natalia Kniazhevich",
+      "title": "US Stocks Set to Rebound as Oil Slips, AI Bubble Fears Recede - Bloomberg.com",
+      "description": "US stocks ended the week inches away from record highs as investors brushed aside concerns around the artificial-intelligence spending spree and an energy crunch to prepare for the start of earnings season.",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-09/us-stocks-set-to-rebound-as-oil-slips-ai-bubble-fears-recede",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iSIBFfGC9tmc/v0/1200x800.jpg",
+      "publishedAt": "2026-10-09T20:26:06Z",
+      "content": "US stocks ended the week inches away from record highs as investors brushed aside concerns around the artificial-intelligence spending spree and an energy crunch to prepare for the start of earnings … [+519 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Barron's"
+      },
+      "author": "Al Root, George Glover",
+      "title": "AT&T, Verizon, and T-Mobile Are Dropping on Starlink Fears. Analysts Say Buy. - Barron's",
+      "description": "AT&T, Verizon, and T-Mobile are having a nightmarish end to the week, but it could be a chance to buy their beaten-down shares.",
+      "url": "https://www.barrons.com/articles/att-verizon-tmobile-stock-drop-spacex-buy-the-dip-46454489",
+      "urlToImage": "https://images.barrons.com/im-72558120/social",
+      "publishedAt": "2026-10-09T20:18:00Z",
+      "content": "Dividend ETFs from SPDR, iShares, and Schwab offer yields at least three times the S&amp;P 500s current level."
     },
     {
       "source": {
@@ -167,6 +258,19 @@
     },
     {
       "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Grace O'Donnell",
+      "title": "Stock market today: Dow, S&P 500, Nasdaq rally to cap volatile week as earnings season nears - Yahoo Finance",
+      "description": "US stocks rose on Friday as oil prices fell and tech stocks rebounded.",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-october-9-dow-sp-500-nasdaq-080148117.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/f1a705bebc0d53569a04cc8f2d74829c7eb0fa4f4677384c7c2e7d96131e4c6c/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-10%2F8fadcf61-48cc-4294-9eb7-8566d928f6fa",
+      "publishedAt": "2026-10-09T20:02:02Z",
+      "content": "US stocks rose on Friday as oil prices eased and tech stocks rebounded. The Dow Jones Industrial Average (^DJI\r\n) rose 0.8%, the S&amp;P 500 (^GSPC\r\n) gained 0.6%, while the tech-heavy Nasdaq Composi… [+13532 chars]"
+    },
+    {
+      "source": {
         "id": "business-insider",
         "name": "Business Insider"
       },
@@ -177,19 +281,6 @@
       "urlToImage": "https://i.insider.com/6ac8b8997bf24b4467e699dd?width=1200&format=jpeg",
       "publishedAt": "2026-10-09T19:37:00Z",
       "content": "As Google prepares to roll out its new Gemini 4 'Argon' model to the public, staff inside the company are testing better versions that may further close the gap with rivals.\r\nMost recently, employees… [+3037 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Amanda Silberling",
-      "title": "An Anthropic AI model sent a false homicide tip to Philadelphia police - TechCrunch",
-      "description": "Anthropic did not discover this behavior until over two months after its AI submitted the false tip.",
-      "url": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-1490947739.jpg?resize=1200,797",
-      "publishedAt": "2026-10-09T19:36:56Z",
-      "content": "An Anthropic AI model submitted a false tip about an unsolved murder to the Philadelphia police.\r\nThe AI reportedly submitted this incorrect information to a public Philadelphia Police Department (PP… [+2390 chars]"
     },
     {
       "source": {
@@ -216,6 +307,19 @@
       "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/146c/live/3ab50800-c33d-11f1-b521-0bbd7e4f1f2e.jpg",
       "publishedAt": "2026-10-09T19:32:50Z",
       "content": "\"Lower prices for Americans, especially our Great Farmers, Ranchers, and Truckers, is my Greatest Priority.\""
+    },
+    {
+      "source": {
+        "id": "associated-press",
+        "name": "Associated Press"
+      },
+      "author": "Alexa St. John",
+      "title": "FACT FOCUS: Trump says tariffs have brought more US auto factories. His numbers are off. - AP News",
+      "description": "As President Donald Trump crisscrosses the country to rally support for Republican candidates, he is touting his economic agenda and crediting tariffs with economic growth — including what he says are more vehicle manufacturing plants all over the country. “O…",
+      "url": "https://apnews.com/article/trump-auto-manufacturing-facts-investment-vehicles-8ab7e9121940a7ea2d75f77dc2766bfd",
+      "urlToImage": "https://dims.apnews.com/dims4/default/b873c3f/2147483647/strip/true/crop/5758x3837+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fac%2Fbf%2F658d1210365c61a18caab283e6a7%2Fb2adbff7e3ca4f8ba24776441e585918",
+      "publishedAt": "2026-10-09T19:26:00Z",
+      "content": "DETROIT (AP) As President Donald Trump travels the country to rally support for Republican candidates ahead of the midterm elections, he is touting his economic agenda and crediting GOP-backed tariff… [+7626 chars]"
     },
     {
       "source": {
@@ -258,19 +362,6 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "New York Post"
-      },
-      "author": "Allie Yang",
-      "title": "12-year-old girl dies from drinking milkshake after cafe’s careless mistake - New York Post",
-      "description": "Mia Shay St. Hilaire was visiting a cafe in London with her aunt and sister when she ordered the Twix milkshake that would take her life.",
-      "url": "https://nypost.com/2026/10/09/health/12-year-old-girl-dies-from-drinking-milkshake-after-cafes-mistake/",
-      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/10/newspress-collage-07pghacjd-1791569658004.jpg?quality=75&strip=all&1791555273&w=1200",
-      "publishedAt": "2026-10-09T18:54:00Z",
-      "content": "Mia Shay St Hilaire was visiting a cafe in London with her aunt and sister when she ordered the Twix milkshake that would take her life.\r\nThe 12-year-old shouldn’t have been allergic to the drink. Bu… [+3435 chars]"
-    },
-    {
-      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -281,19 +372,6 @@
       "urlToImage": "https://static01.nyt.com/images/2026/09/22/business/00biz-correspondent-banking/00biz-correspondent-banking-mediumSquareAt3X.jpg",
       "publishedAt": "2026-10-09T18:34:34Z",
       "content": "The correspondent system for banking has enabled globalism — and has been exploited by companies trying to skirt U.S. sanctions."
-    },
-    {
-      "source": {
-        "id": "nbc-news",
-        "name": "NBC News"
-      },
-      "author": "Steve Kopack",
-      "title": "Elon Musk’s growing SpaceX empire sends AT&T, Verizon and T-Mobile shares plunging - NBC News",
-      "description": "Elon Musk’s plan for SpaceX to become a major mobile carrier sent shares of AT&T, Verizon and T-Mobile plunging and wiped out over $50 billion before lunch.",
-      "url": "https://www.nbcnews.com/business/corporations/elon-musk-spacex-verizon-tmobile-att-rcna602525",
-      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/261009-elon-musk-ew-1205p-ec2af5.jpg",
-      "publishedAt": "2026-10-09T17:55:48Z",
-      "content": "Elon Musks plan for SpaceX to become a major mobile carrier in the U.S. sent shares of the nations big three wireless carriers sliding by double digits Friday, wiping out more than $50 billion in mar… [+5285 chars]"
     },
     {
       "source": {
@@ -310,29 +388,16 @@
     },
     {
       "source": {
-        "id": "axios",
-        "name": "Axios"
-      },
-      "author": "Courtenay Brown",
-      "title": "Trump orders new investigation of Fed's Lisa Cook - Axios",
-      "description": "The president is pursuing another path to remove Cook after the Supreme Court blocked his initial attempt.",
-      "url": "https://www.axios.com/2026/10/09/trump-fed-lisa-cook",
-      "urlToImage": "https://images.axios.com/IS2NAgPIOEbVWQTxlAgirpisMb8=/0x142:4000x2392/1366x768/2026/10/09/1791555762373.jpg",
-      "publishedAt": "2026-10-09T17:48:45Z",
-      "content": "Driving the news: The three-person committee will investigate the allegations against Cook and determine whether there is \"cause\" for her removal, according to a White House memo. \r\n<ul><li>The commi… [+1974 chars]"
-    },
-    {
-      "source": {
         "id": null,
-        "name": "TODAY"
+        "name": "MassLive.com"
       },
-      "author": "Joseph Lamour",
-      "title": "Popular Frozen Pizza Brand Discontinued After Nearly 60 Years in the Freezer Aisle - TODAY.com",
-      "description": "Conagra Brands is retiring Celeste Pizza, a popular staple of the frozen food aisle, after decades on the market. Here’s the history of the brand.",
-      "url": "https://www.today.com/food/groceries/celeste-pizza-discontinued-conagra-brands-60-years-rcna602519",
-      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_social_share_1200x630_center,f_auto,q_auto:best/rockcms/2026-10/GettyImages-110496747-baaed5.jpg",
-      "publishedAt": "2026-10-09T17:06:31Z",
-      "content": "A popular pizza of the past is taking last spin around the microwave plate.\r\nConagra Brands, the conglomerate that owns brands like Slim Jim, Dukes and Orville Redenbachers, is retiring Celeste Pizza… [+2231 chars]"
+      "author": "MassLive.com",
+      "title": "Say goodbye: Beloved pizza brand discontinued after 89-year run - MassLive.com",
+      "description": null,
+      "url": "https://www.masslive.com/news/2026/10/say-goodbye-beloved-pizza-brand-discontinued-after-89-year-run.html",
+      "urlToImage": null,
+      "publishedAt": "2026-10-09T17:02:00Z",
+      "content": null
     },
     {
       "source": {
@@ -346,6 +411,32 @@
       "urlToImage": "https://static01.nyt.com/images/2026/10/09/multimedia/09dc-trump-checks-ztmg/09dc-trump-checks-ztmg-mediumSquareAt3X.jpg",
       "publishedAt": "2026-10-09T16:41:24Z",
       "content": "The $500 checks are accompanied by a letter signed by the president that criticizes the Biden administration for overcharging Americans for health insurance."
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Motor1 "
+      },
+      "author": "Jeff Perez",
+      "title": "Volkswagen ID.4 Is Dead: Meet Its New Electric SUV Replacement - Motor1.com",
+      "description": "Volkswagen’s new electric SUV gets a bigger, bolder design, a more useful interior, and up to 373 miles of range when it arrives in Europe next year.",
+      "url": "https://www.motor1.com/news/811249/volkswagen-id-tiguan-debut-details/",
+      "urlToImage": "https://cdn.motor1.com/images/mgl/ojEJml/s1/2027-volkswagen-id.-tiguan.jpg",
+      "publishedAt": "2026-10-09T16:36:31Z",
+      "content": "The Volkswagen ID.4, as we know it, is dead, and Volkswagen is officially announcing its replacement. Meet the new-and-improved ID. Tiguan.\r\nThe new ID. Tiguan will succeed the ID.4 and the European-… [+3763 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "TheStreet"
+      },
+      "author": "TheStreet",
+      "title": "AMD CEO Su shares important supply news with stock market investors - TheStreet",
+      "description": null,
+      "url": "https://www.thestreet.com/investing/stocks/amd-ceo-su-shares-important-supply-news-with-stock-market-investors",
+      "urlToImage": null,
+      "publishedAt": "2026-10-09T16:13:00Z",
+      "content": null
     },
     {
       "source": {
@@ -375,29 +466,42 @@
     },
     {
       "source": {
-        "id": "the-wall-street-journal",
-        "name": "The Wall Street Journal"
+        "id": null,
+        "name": "MacRumors"
       },
-      "author": "Rachel Louise Ensign",
-      "title": "Affluent and Older Americans Got Much Richer in Postpandemic Years - WSJ",
-      "description": "Federal Reserve study finds overall median net worth rose 2% between 2022 and 2025",
-      "url": "https://www.wsj.com/economy/affluent-and-older-americans-got-much-richer-in-the-postpandemic-years-f53b3113",
-      "urlToImage": "https://images.wsj.net/im-88085183/social",
-      "publishedAt": "2026-10-09T15:26:00Z",
-      "content": "The typical American family got a little wealthier in the years following the Covid-19 pandemic, while well-off and older Americans got much richer. \r\nMedian family net worth rose 2% from 2022 to 202… [+345 chars]"
+      "author": "Hartley Charlton",
+      "title": "Apple Shares Fall After News of iPhone 18 Pro Order Cuts - MacRumors",
+      "description": "Apple shares fell more than 2.5% in early trading today in response to Nikkei Asia's report that the company is cutting iPhone 18 Pro component...",
+      "url": "https://www.macrumors.com/2026/10/09/apple-shares-fall-after-iphone-18-pro-order-cuts/",
+      "urlToImage": "https://images.macrumors.com/t/P3zPbhjBD1CIL9Yo-peIoM6zU7A=/2000x/article-new/2021/04/Apple-Logo-Cash-Blue.jpg",
+      "publishedAt": "2026-10-09T15:35:09Z",
+      "content": "Oh look someone wanted to drop Apple stocks so they can buy the dip. I feel like this happened with iPhone 8 too ppl wanted to buy they iPhone X. So this maybe the most diehard that buy right away ar… [+381 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Vox"
+        "name": "Pensacola News Journal"
       },
-      "author": "Eric Levitz",
-      "title": "AI’s leaders (probably) aren’t faking their fear - Vox",
-      "description": "When tech CEOs say their products might kill us all, are they trying to sell us something?",
-      "url": "https://www.vox.com/politics/505834/ai-doom-anthropic-openai-pr",
-      "urlToImage": "https://platform.vox.com/wp-content/uploads/sites/2/2026/10/gettyimages-2296174530.jpg?quality=90&strip=all&crop=0%2C10.737892056687%2C100%2C78.524215886627&w=1200",
-      "publishedAt": "2026-10-09T15:15:00Z",
-      "content": "Silicon Valley has long warned that its favorite technology might get us all killed. But chatter about AIs apocalyptic potential has grown louder in recent weeks.\r\nIn September, Anthropic researcher … [+17316 chars]"
+      "author": "Brittany Misencik",
+      "title": "Waffle House restaurants in Escambia, Santa Rosa close for Hurricane Isaias - Pensacola News Journal",
+      "description": "All Waffle House locations in the Pensacola, Florida, area closed Friday, Oct. 9, 2026, ahead of landfall for Hurricane Isaias, a major Category 3 storm.",
+      "url": "https://www.pnj.com/story/weather/hurricanes/2026/10/09/waffle-houses-close-in-florida-for-hurricane-isaias-pensacola/92168289007/",
+      "urlToImage": "https://www.pnj.com/gcdn/authoring/authoring-images/2025/10/29/PPEN/86971795007-waffle-house-building-2.jpg?crop=1919,1080,x0,y0&width=1919&height=1080&format=pjpg&auto=webp",
+      "publishedAt": "2026-10-09T15:16:43Z",
+      "content": "<ul><li>Waffle House locations in Pensacola, Florida, are closing ahead of Hurricane Isaias' landfall.</li><li>The \"Waffle House Index\" is an informal metric used by FEMA to gauge a storm's severity.… [+2477 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Gili Malinsky",
+      "title": "ChatGPT for Teens is not necessarily 'safer than the previous version,' Common Sense Media finds - CNBC",
+      "description": "Common Sense Media released its report about ChatGPT for Teens' new features, concluding the tool does not meet the safety standards OpenAI set.",
+      "url": "https://www.cnbc.com/make-it/2026/10/09/chatgpt-for-teens-safety-common-sense-media.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108374311-1791397647575-Teen_Girl_Using_Phone_While_Preparing_To_Do_Laundr-2185461236-Getty.jpg?v=1791397917&w=1920&h=1080",
+      "publishedAt": "2026-10-09T15:07:53Z",
+      "content": "When in August OpenAI released its ChatGPT for Teens, a tool with \"stronger built-in safety protections\" geared toward 13- to 17-year-olds, experts said it showed promise. New research, however, reve… [+4427 chars]"
     },
     {
       "source": {
@@ -428,6 +532,19 @@
     {
       "source": {
         "id": null,
+        "name": "MarketWatch"
+      },
+      "author": "Jules Rimmer",
+      "title": "Here’s how much stocks could fall if the Democrats sweep Congress, according to BofA - MarketWatch",
+      "description": "Michael Hartnett sees 10% downside or more if prediction markets are right about midterms",
+      "url": "https://www.marketwatch.com/story/heres-how-much-stocks-could-fall-if-the-democrats-sweep-congress-as-expected-according-to-bofa-d1ed23f8",
+      "urlToImage": "https://images.mktw.net/im-12549287/social",
+      "publishedAt": "2026-10-09T15:02:00Z",
+      "content": "The rising probability of the Democratic Party taking control of both houses of Congress in the midterm elections poses a meaningful threat to risk appetite, said Michael Hartnett, Bank of Americas c… [+301 chars]"
+    },
+    {
+      "source": {
+        "id": null,
         "name": "WLS-TV"
       },
       "author": "Stephanie Wade, ABC7 Chicago Digital Team",
@@ -440,29 +557,29 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "Variety"
+        "id": "bloomberg",
+        "name": "Bloomberg"
       },
-      "author": "Todd Spangler",
-      "title": "Netflix Gearing Up to Lay Off 5% of Workforce: Report - Variety",
-      "description": "Netflix is reportedly planning a major round of layoffs coming as soon as next week that would cut about 5% of its headcount.",
-      "url": "https://variety.com/2026/tv/news/netflix-mass-layoffs-1236906567/",
-      "urlToImage": "https://variety.com/wp-content/uploads/2024/06/Netflix-LA-Building.jpg?w=1000&h=563&crop=1",
-      "publishedAt": "2026-10-09T14:52:00Z",
-      "content": "Netflix is planning a major round of layoffs coming as soon as next week that would cut about 5% of its headcount, according to a new report.\r\nThe streaming giant plans a significant restructuring th… [+1916 chars]"
+      "author": "Julia Fioretti, Sangmi Cha, Manuel Baigorri",
+      "title": "Data Center Darling’s $30 Billion IPO Dream Crushed in 48 Hours - Bloomberg.com",
+      "description": "In 48 hours, Firmus Grid Ltd. went from a rising star of the artificial intelligence data center boom to one of the biggest deal flops in recent memory.",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-09/data-center-darling-s-30-billion-ipo-dream-crushed-in-48-hours",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ifrd12Ftuzkg/v0/1200x798.jpg",
+      "publishedAt": "2026-10-09T14:25:04Z",
+      "content": "In 48 hours, Firmus Grid Ltd. went from a rising star of the artificial intelligence data center boom to one of the biggest deal flops in recent memory.\r\nAfter months of touting itself as an essentia… [+351 chars]"
     },
     {
       "source": {
         "id": null,
         "name": "Yahoo Entertainment"
       },
-      "author": "Brooke DiPalma",
-      "title": "Consumer sentiment falls to 5-month low as frustration mounts over higher costs - Yahoo Finance",
-      "description": "Americans are growing more concerned about higher borrowing costs.",
-      "url": "https://finance.yahoo.com/economy/article/consumer-sentiment-falls-to-5-month-low-as-frustration-mounts-over-higher-costs-143114047.html",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/84dbe3b9532a8c2d313f6baa9cbb0e8c1f1f6d3231ea54907fb15ff9828b2c31/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-10%2F9f7f1d49-08de-4710-801f-462425f789d2",
-      "publishedAt": "2026-10-09T14:31:14Z",
-      "content": "Consumer sentiment fell in October as frustration over the higher cost of living weighed on Americans' views of the economy, according to a survey from the University of Michigan.\r\nOverall consumer s… [+2475 chars]"
+      "author": "By Lucia Mutikani",
+      "title": "US consumer sentiment deteriorates further in October - Yahoo Finance",
+      "description": "By Lucia Mutikani WASHINGTON, Oct 9 (Reuters) - US consumer sentiment slumped further in early October as the rising cost of living because of the Middle Eas...",
+      "url": "https://finance.yahoo.com/economy/articles/us-consumer-sentiment-deteriorates-further-141611397.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/b21605887d5ceb34a6c9197d3039bdf014a3547723a8aea0d2dbd7d3022cead0/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F9d8ea5e37a0cd9ca0546831bebcad5b4.jpg",
+      "publishedAt": "2026-10-09T14:16:11Z",
+      "content": "By Lucia Mutikani\r\nWASHINGTON, Oct 9 (Reuters) - US consumer sentiment slumped further in early October as the rising cost of living because of the Middle East conflict soured households' views of th… [+4053 chars]"
     },
     {
       "source": {
@@ -476,19 +593,6 @@
       "urlToImage": "https://static01.nyt.com/images/2026/10/08/multimedia/08biz-mortgage-rates1-ftjw/08biz-mortgage-rates1-ftjw-mediumSquareAt3X.jpg",
       "publishedAt": "2026-10-09T14:08:51Z",
       "content": "The average 30-year fixed-rate mortgage rose to 7.4 percent, putting more pressure on Americans struggling to afford to buy a home."
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Motor1 "
-      },
-      "author": "Jeff Perez",
-      "title": "Volkswagen ID.4 Is Dead: Meet Its New Electric SUV Replacement - Motor1.com",
-      "description": "Volkswagen’s new electric SUV gets a bigger, bolder design, a more useful interior, and up to 373 miles of range when it arrives in Europe next year.",
-      "url": "https://www.motor1.com/news/811249/volkswagen-id-tiguan-debut-details/",
-      "urlToImage": "https://cdn.motor1.com/images/mgl/ojEJml/s1/2027-volkswagen-id.-tiguan.jpg",
-      "publishedAt": "2026-10-09T14:01:52Z",
-      "content": "The Volkswagen ID.4, as we know it, is dead, and Volkswagen is officially announcing its replacement. Meet the new-and-improved ID. Tiguan.\r\nThe new ID. Tiguan will succeed the ID.4 and the European-… [+3763 chars]"
     },
     {
       "source": {
@@ -545,15 +649,28 @@
     {
       "source": {
         "id": null,
-        "name": "Yahoo Entertainment"
+        "name": "Seeking Alpha"
       },
-      "author": "Daniel Howley",
-      "title": "Apple stock falls on report that company is cutting component orders on soft iPhone 18 Pro demand - Yahoo Finance",
-      "description": "Apple is reportedly cutting component orders on slowing iPhone 18 Pro demand.",
-      "url": "https://finance.yahoo.com/technology/article/apple-stock-falls-on-report-that-company-is-cutting-component-orders-on-soft-iphone-18-pro-demand-132655752.html",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/02eef4f68878d151ef1d5ed2af95487c74304d7591ad1fff7e25c8479c16f688/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-10%2F8399e84f-970e-4a81-975f-7968cff0a39e",
-      "publishedAt": "2026-10-09T13:26:55Z",
-      "content": "Apple's (AAPL) iPhone 18 Pro demand is reportedly slowing due to higher prices, forcing the company to tell its suppliers to cut back on component production for the phones.\r\nAccording to Nikkei Asia… [+2187 chars]"
+      "author": "Harsh Shukla",
+      "title": "AI leaders prepare for worst-case scenario: Axios (OPENAI:Private) - Seeking Alpha",
+      "description": "AI leaders at Anthropic and OpenAI warn a catastrophic AI cyberattack could spark public backlash and new regulation within 6–12 months—read the report now.",
+      "url": "https://seekingalpha.com/news/4651745-ai-leaders-prepare-for-worst-case-scenario-axios",
+      "urlToImage": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
+      "publishedAt": "2026-10-09T13:24:56Z",
+      "content": "Anthropic (ANTHRO), OpenAI (OPENAI), and other companies top executives are reportedly gaming out scenarios for a public and political revolt following a catastrophic artificial intelligence, or AI, … [+100 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Futurism"
+      },
+      "author": "Frank Landymore",
+      "title": "Starbucks Considers Taking Over Chipotle as America Edges Closer to All Food Chains Being Owned by Like Three Companies - Futurism",
+      "description": "Starbucks has reportedly explored a takeover of Chipotle, in what would be the largest takeover in industry history.",
+      "url": "https://futurism.com/future-society/starbucks-considers-buying-chipotle-consolidation",
+      "urlToImage": "https://futurism.com/wp-content/uploads/2026/10/starbucks-considers-buying-chipotle-consolidation.jpg?quality=85&w=1200",
+      "publishedAt": "2026-10-09T13:05:00Z",
+      "content": "Can’t-miss innovations from the bleeding edge of science and tech\r\nWe’re one step closer to the final consolidation of America into a single unified corporation.\r\nOn Thursday, the Financial Times rep… [+2125 chars]"
     },
     {
       "source": {
@@ -567,19 +684,6 @@
       "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/10/07/USAT/92133507007-20251016-t-184011-z-302366304-mt-1-usatoday-27337121-rtrmadp-3-feb-282023-washingtondcusaprotestorsgatheroutside.JPG?crop=1999,1126,x0,y103&width=1999&height=1126&format=pjpg&auto=webp",
       "publishedAt": "2026-10-09T12:56:00Z",
       "content": "Student loan forgiveness will cost you, again.\r\nIn 2021, Congress had exempted canceled federal student debt, including balances canceled under income-driven repayment (IDR) plans, from being subject… [+5800 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Abcnews.com"
-      },
-      "author": "KELVIN CHAN AP business writer",
-      "title": "OpenAI fires 3 safety researchers in dispute over AI risks - ABC News - Breaking News, Latest News and Videos",
-      "description": "OpenAI has fired three safety researchers for a \"breach of trust,\" defending the decision after the trio accused the company of prioritizing corporate interests over safety",
-      "url": "https://abcnews.com/Technology/wireStory/openai-fires-3-safety-researchers-dispute-ai-risks-137123277",
-      "urlToImage": "https://i.abcnewsfe.com/a/e3a72f06-6804-4c31-b0a5-823a5eb93a6e/wirestory_789d4f5293fba45a22fcb62ebfbc2a41_16x9.jpg?w=1600",
-      "publishedAt": "2026-10-09T12:38:08Z",
-      "content": "LONDON -- OpenAI said on Friday that it fired three safety researchers for a breach of trust,\" defending the dismissals after the trio accused the company of putting its corporate interests before sa… [+2327 chars]"
     },
     {
       "source": {
@@ -609,6 +713,19 @@
     },
     {
       "source": {
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "author": "Alex Longley, Weilun Soon, Charles Gorrivan",
+      "title": "Hiring US-to-China Oil Tanker Costs More Than Launching a Space Rocket - Bloomberg.com",
+      "description": "For a sign of just how extraordinary oil shipping costs have become, consider this: It’s now more expensive to hire a tanker from the US to China than to launch a rocket into space.",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-09/the-global-oil-tanker-shortage-is-getting-worse-by-the-day",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/it1DLGO6.LlU/v2/1200x800.jpg",
+      "publishedAt": "2026-10-09T11:59:14Z",
+      "content": "For a sign of just how extraordinary oil shipping costs have become, consider this: Its now more expensive to hire a tanker from the US to China than to launch a rocket into space.\r\nThat journey cost… [+213 chars]"
+    },
+    {
+      "source": {
         "id": null,
         "name": "CNBC"
       },
@@ -635,6 +752,19 @@
     },
     {
       "source": {
+        "id": "associated-press",
+        "name": "Associated Press"
+      },
+      "author": "AP News",
+      "title": "OpenAI fires 3 safety researchers in dispute over AI risks - AP News",
+      "description": null,
+      "url": "https://apnews.com/article/openai-chatgpt-ai-artificial-intelligence-safety-789d4f5293fba45a22fcb62ebfbc2a41",
+      "urlToImage": null,
+      "publishedAt": "2026-10-09T11:06:00Z",
+      "content": null
+    },
+    {
+      "source": {
         "id": null,
         "name": "CNBC"
       },
@@ -649,28 +779,15 @@
     {
       "source": {
         "id": null,
-        "name": "Theregister.com"
+        "name": "Endpoints.news"
       },
-      "author": "Carly Page",
-      "title": "Anthropic asks users to stop being mean to Claude - The Register",
-      "description": "New usage policy cracks down on cruelty to chatbot, alongside slightly more pressing matters of weapons development, surveillance, and election interference",
-      "url": "https://www.theregister.com/ai-and-ml/2026/10/09/anthropic-asks-users-to-stop-being-mean-to-claude/5302218",
-      "urlToImage": "https://image.theregister.com/5297782.jpg?imageId=5297782&x=0&y=7.57&cropw=100&croph=84.87&panox=0&panoy=7.57&panow=100&panoh=84.87&width=1200&height=683",
-      "publishedAt": "2026-10-09T10:42:00Z",
-      "content": "Anthropic has updated its rules to stop people being mean to Claude, apparently deciding that its AI chatbot needs protection from the humans paying to use it.\r\nThe AI developer's latest usage policy… [+3512 chars]"
-    },
-    {
-      "source": {
-        "id": "bloomberg",
-        "name": "Bloomberg"
-      },
-      "author": "Nacha Cattan",
-      "title": "SALT Tax Cap Has Couples Considering Divorce or Skipping Marriage to Save $20,000 - Bloomberg.com",
-      "description": "The higher cap on the federal tax deduction is the same for a single filer or a married couple, prompting some high earners to look for ways around the marriage penalty.",
-      "url": "https://www.bloomberg.com/news/features/2026-10-09/salt-tax-cap-has-couples-considering-divorce-or-skipping-marriage",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iMIjiZ1hkBrk/v0/1200x630.jpg",
-      "publishedAt": "2026-10-09T10:00:06Z",
-      "content": "Kent Kovac and his wife of 11 years were thrilled when the cap was raised on deductions for state and local taxes. The federal tax savings helped them buy a $12,000 tractor for her nascent vegetable … [+96 chars]"
+      "author": "Andrew Dunn",
+      "title": "Exclusive: AI startup Chai lands GSK deal, its sixth pharma partner in nine months - Endpoints News",
+      "description": "Chai Discovery signs 6th pharma deal in 9 months; GSK joins Eli Lilly, Pfizer, Novartis, Argenx, BMS using its protein-designing AI. Chai valued at $3.8B.",
+      "url": "https://endpoints.news/chai-discovery-signs-gsk-deal-to-make-biologics-with-ai/",
+      "urlToImage": "https://endpoints.news/wp-content/uploads/2025/06/Joshua-Meier-L-and-Jack-Dent-scaled.png",
+      "publishedAt": "2026-10-09T11:00:00Z",
+      "content": "At the start of 2026, Joshua Meier pitched his start­ups col­lab­o­ra­tion with Eli Lil­ly as just the be­gin­ning.\r\n Meiers vi­sion of a"
     },
     {
       "source": {
@@ -684,32 +801,6 @@
       "urlToImage": null,
       "publishedAt": "2026-10-09T09:30:00Z",
       "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Motley Fool"
-      },
-      "author": "Micah Zimmerman",
-      "title": "Here's Where Palantir and 4 Other AI Software Stocks Could Be in 5 Years - The Motley Fool",
-      "description": "Palantir isn't the only AI software stock worth watching. Here's how I'd rank all five over the next five years.",
-      "url": "https://www.fool.com/investing/2026/10/09/where-palantir-ai-software-stock-crwd-soun-app/",
-      "urlToImage": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F890092%2Fgettyimages-1952157610-2000x800-f66caaf.jpg&w=1200&op=resize",
-      "publishedAt": "2026-10-09T09:15:00Z",
-      "content": "Artificial intelligence (AI) software stocks have split into two camps this year: companies proving AI actually shows up in their revenue, and companies still asking investors to take their word for … [+4707 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Motley Fool"
-      },
-      "author": "Sean Williams",
-      "title": "Democrats Have a 93% Chance of Retaking at Least One House of Congress on Nov. 3 -- History Says That's Bad News for Stocks - The Motley Fool",
-      "description": "There’s a silver lining to even the direst stock market forecasts.",
-      "url": "https://www.fool.com/investing/2026/10/09/democrats-93-chance-retaking-at-least-one-house-congress-nov-3-history-says-bad-news-for-stocks/",
-      "urlToImage": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2F07ab2bf8aad3c65039c6834a16b3d5f38c48adfb-3000x2000.jpg%3Fw%3D800%26q%3D75%26fit%3Dmax%26auto%3Dformat&w=1200&op=resize",
-      "publishedAt": "2026-10-09T09:06:00Z",
-      "content": "The next four weeks are potential game-changers for the U.S. economy and stock market. The Social Security cost-of-living adjustment (COLA) reveal is five days away (Oct. 14), the Federal Reserve's O… [+3509 chars]"
     },
     {
       "source": {
@@ -753,54 +844,28 @@
     {
       "source": {
         "id": null,
-        "name": "NPR"
+        "name": "mlive.com"
       },
-      "author": "Rhitu Chatterjee",
-      "title": "ChatGPT for Teens has special safeguards. A watchdog group finds most don't work - NPR",
-      "description": "A study from Common Sense Media says most safeguards in ChatGPT for Teens failed. The chatbot talks to teens like a friend and doesn't alert parents when users talk about self-harm and suicide.",
-      "url": "https://www.npr.org/2026/10/09/nx-s1-5995514/chatgpt-openai-teens-mental-health",
-      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5000x2813+0+10/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F11%2Ff1%2F1e313de8414cad3c0bf3d8a767f2%2Fgettyimages-2271833760.jpg",
+      "author": "MLive.com",
+      "title": "Michigan AG says Blue Cross Blue Shield is ‘illegal monopoly,’ and 4 other major stories - MLive.com",
+      "description": null,
+      "url": "https://www.mlive.com/news/2026/10/michigan-ag-says-blue-cross-blue-shield-is-illegal-monopoly-and-4-other-major-stories.html",
+      "urlToImage": null,
       "publishedAt": "2026-10-09T09:00:00Z",
-      "content": "ChatGPT for Teens has failed some of its first tests by researchers. Common Sense Media, a watchdog organization that advocates for online safety, researched safeguards rolled out by the artificial i… [+4554 chars]"
+      "content": null
     },
     {
       "source": {
         "id": null,
-        "name": "Yahoo Entertainment"
+        "name": "Realtor.com News"
       },
-      "author": "David Hollerith",
-      "title": "American Express fined $350 million for inadequate anti-money laundering controls - Yahoo Finance",
-      "description": "Regulators fined American Express (AXP) with a $350 million penalty Thursday over widespread failures in its anti-money laundering controls that left approxi...",
-      "url": "https://finance.yahoo.com/markets/stocks/article/american-express-fined-350-million-for-inadequate-anti-money-laundering-controls-211915462.html",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/00d4fd143d5cc9e0ca8c50ecb1446903446868ed457126853c909f530599b0e7/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-10%2F83ae8ca7-5046-44f6-a9f0-d9a77e72f1b4",
-      "publishedAt": "2026-10-09T08:29:53Z",
-      "content": "Regulators fined American Express (AXP) with a $350 million penalty Thursday over widespread failures in its anti-money laundering controls that left approximately $13 billion in suspected money laun… [+2499 chars]"
-    },
-    {
-      "source": {
-        "id": "the-wall-street-journal",
-        "name": "The Wall Street Journal"
-      },
-      "author": "Stuart Condie",
-      "title": "Scrapped IPO of Nvidia-Backed Company Points to Limits of AI Boom - WSJ",
-      "description": "Australian cloud-computing firm had sought $30 billion valuation despite having only two operational data centers",
-      "url": "https://www.wsj.com/finance/stocks/scrapped-ipo-of-nvidia-backed-company-points-to-limits-of-ai-boom-a8d57067",
-      "urlToImage": "https://images.wsj.net/im-38308239/social",
-      "publishedAt": "2026-10-09T07:18:00Z",
-      "content": "SYDNEYNvidiaNVDA-0.52%decrease; down pointing triangle\r\n-backed cloud-computing company Firmus Grid scrapped plans for Australias largest initial public offering in almost 30 years, a new sign that i… [+482 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "BBC News"
-      },
-      "author": null,
-      "title": "Starlink: Why Elon Musk is taking on Mukesh Ambani and Jio over satellite internet - BBC",
-      "description": "Musk has taken pot-shots at Reliance owner Mukesh Ambani as Starlink struggles to launch in India.",
-      "url": "https://www.bbc.com/news/articles/cvglw9ryjrylo",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/36d4/live/5881b930-c3cb-11f1-9a39-31b474234113.jpg",
-      "publishedAt": "2026-10-09T06:42:37Z",
-      "content": "On Thursday, India's Ministry of Communications responded, saying that three operators - Starlink, Eutelsat OneWeb and Jio Satellite Communications - were at broadly the same stage of the approval pr… [+117 chars]"
+      "author": "Snejana Farberov",
+      "title": "Global Bond Markets Are in Meltdown—Here’s Why U.S. Homebuyers Should Pay Attention - Realtor.com",
+      "description": "For the past month, global bond markets have been in the grips of a historic sell-off triggered by a tangle of complex economic issues.",
+      "url": "https://www.realtor.com/news/trends/global-bond-markets-crisis-treasury-yields-mortgage-rates/",
+      "urlToImage": "https://na.rdcpix.com/d340953b1135b52189c7e29c18e79eb9w-c1574376803srd_w1200_q80.jpg",
+      "publishedAt": "2026-10-09T09:00:00Z",
+      "content": "As U.S. homebuyers scrutinize the surge of mortgage rates and debate the Federal Reserve's next move, an even bigger story has been unfolding across global trading floors that directly affects Americ… [+6709 chars]"
     },
     {
       "source": {
@@ -857,54 +922,67 @@
     {
       "source": {
         "id": null,
-        "name": "Yahoo Entertainment"
+        "name": "Acams.org"
       },
-      "author": "Surbhi Jain",
-      "title": "SpaceX Is Becoming a Test of How Much Debt the AI Boom Can Absorb - Yahoo Finance",
-      "description": "The AI boom is starting to create a different kind of market question: not how much computing companies need, but how much debt investors are willing to prov...",
-      "url": "https://finance.yahoo.com/technology/ai/articles/spacex-becoming-test-much-debt-013009959.html",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/26b9d41a94588abdb480b5121e56a06a5692090f7e34e29147809c4c99816af9/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbenzinga_79%2Ff64fc12b435ed170070ebc26cf6cca7a.jpg",
-      "publishedAt": "2026-10-09T01:30:00Z",
-      "content": "Benzinga and Yahoo Finance LLC may earn commission or revenue on some items through the links below.\r\nThe AI boom is starting to create a different kind of market question: not how much computing com… [+8694 chars]"
+      "author": "ACAMS",
+      "title": "OCC, Fed Tag AMEX with $350 Million Penalty - ACAMS",
+      "description": null,
+      "url": "https://www.acams.org/en/news/occ-fed-tag-amex-350-million-penalty",
+      "urlToImage": null,
+      "publishedAt": "2026-10-08T22:32:19Z",
+      "content": null
     },
     {
       "source": {
         "id": null,
-        "name": "CNBC"
+        "name": "PBS"
       },
-      "author": "Jenny Lee",
-      "title": "Tokenization could unleash tens of billions of dollars in trapped capital, Nasdaq CEO says - CNBC",
-      "description": "Nasdaq CEO Adena Friedman said tokenization could free up tens of billions of dollars in trapped capital.",
-      "url": "https://www.cnbc.com/2026/10/09/nasdaq-ceo-tokenization-could-unleash-billions-in-trapped-capital-.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108378717-1791499513422-gettyimages-2298530288-SINGAPORE_TOKEN2049.jpeg?v=1791499529&w=1920&h=1080",
-      "publishedAt": "2026-10-08T23:57:23Z",
-      "content": "Attendees at the Token2049 conference in Singapore, on Thursday, Oct. 8, 2026. The crypto conference runs through today. Photographer: Ore Huiying/Bloomberg via Getty Images\r\nTokenization could free … [+2891 chars]"
+      "author": "Stephanie Sy, Mike Fritz, Sam Lane",
+      "title": "How GLP-1s are reshaping cultural views on body image - PBS",
+      "description": "About 12% of Americans are now taking the blockbuster set of weight-loss medications known as GLP-1s. While their popularity continues to skyrocket, new concerns have emerged around the societal impacts these drugs are having, especially around body image. St…",
+      "url": "https://www.pbs.org/newshour/show/how-glp-1s-are-reshaping-cultural-views-on-body-image",
+      "urlToImage": "https://d3i6fh83elv35t.cloudfront.net/static/2026/10/glp-1-1024x576.jpg",
+      "publishedAt": "2026-10-08T22:25:04Z",
+      "content": "About 12% of Americans are now taking the blockbuster set of weight-loss medications known as GLP-1s. While their popularity continues to skyrocket, new concerns have emerged around the societal impa… [+9376 chars]"
     },
     {
       "source": {
-        "id": "the-verge",
-        "name": "The Verge"
+        "id": null,
+        "name": "Theregister.com"
       },
-      "author": "Stevie Bonifield",
-      "title": "Anthropic launches free AI security scans for open-source projects - The Verge",
-      "description": "Anthropic launched OSS Scanner, a free service that gives open-source projects AI-generated vulnerability reports.",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1008521/anthropic-open-source-oss-scanner",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STKB364_CLAUDE_2_C_96d15c.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "publishedAt": "2026-10-08T21:53:51Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nThe new OSS Scanner service offers vulnerability reports from Anthropics strongest models, including Mythos.\r\nThe new OSS Scanner service offers vulnerability re… [+2578 chars]"
+      "author": "Tobias Mann",
+      "title": "Nvidia found $1B under the couch to help secure American scientific computing dominance - The Register",
+      "description": "Commitment comes as GPUzilla prepares to fortify Uncle Sam's arsenal with at least seven AI-optimized supers",
+      "url": "https://www.theregister.com/hpc/2026/10/08/nvidia-found-1b-under-the-couch-to-help-secure-american-scientific-computing-dominance/5302110",
+      "urlToImage": "https://image.theregister.com/259022.jpg?imageId=259022&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+      "publishedAt": "2026-10-08T21:44:03Z",
+      "content": "Nvidia on Thursday scraped together some spare change to commit $1 billion  about 1/60th of its quarterly profits to funding US scientific discovery over the next five years.\r\nThe commitment, announc… [+3453 chars]"
     },
     {
       "source": {
-        "id": "nbc-news",
-        "name": "NBC News"
+        "id": null,
+        "name": "BleepingComputer"
       },
-      "author": "Steve Kopack",
-      "title": "Starbucks says it’s focused on turnaround after report it explored Chipotle merger - NBC News",
-      "description": "A tie-up would reunite Starbucks CEO Brian Niccol with the company he led before he took the helm at the coffee giant.",
-      "url": "https://www.nbcnews.com/business/consumer/starbucks-responds-chipotle-merger-report-rcna602388",
-      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/261008-chipotle-starbucks-ch-1652-86bf1f.jpg",
-      "publishedAt": "2026-10-08T21:22:38Z",
-      "content": "Wall Street was buzzing Thursday about a possible merger that would amount to much more than a hill of beans.\r\nStarbucks said it was focused on its turnaround plan after the Financial Times reported … [+2609 chars]"
+      "author": "Lawrence Abrams",
+      "title": "FBI disrupts Chinese hacking tools used to breach critical infrastructure - BleepingComputer",
+      "description": "The FBI has seized seven domains used by Chinese state-sponsored hackers known as Flax Typhoon to operate two hacking tools, MicroScan and FishHub, used in attacks that breached critical infrastructure and other organizations worldwide.",
+      "url": "https://www.bleepingcomputer.com/news/security/fbi-disrupts-chinese-hacking-tools-used-to-breach-critical-infrastructure/",
+      "urlToImage": "https://www.bleepstatic.com/content/hl-images/2025/01/06/Chinese-hacker.jpg",
+      "publishedAt": "2026-10-08T21:42:51Z",
+      "content": "The FBI has seized seven domains used by Chinese state-sponsored hackers known as Flax Typhoon to operate two hacking tools, MicroScan and FishHub, used in attacks that breached critical infrastructu… [+6220 chars]"
+    },
+    {
+      "source": {
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
+      },
+      "author": "WSJ",
+      "title": "A Guide to Buying Bonds When Yields Are on the Rise - WSJ",
+      "description": null,
+      "url": "https://www.wsj.com/finance/investing/a-guide-to-buying-bonds-when-yields-are-on-the-rise-f8b6cc98",
+      "urlToImage": null,
+      "publishedAt": "2026-10-08T21:41:00Z",
+      "content": null
     },
     {
       "source": {
@@ -948,19 +1026,6 @@
     {
       "source": {
         "id": null,
-        "name": "Dallasfed.org"
-      },
-      "author": null,
-      "title": "Refinery outages pumping up fuel prices more than cost of crude oil - Federal Reserve Bank of Dallas",
-      "description": "Even after the Iran conflict ends and the flow of crude oil through the Strait of Hormuz normalizes, U.S. fuel prices will likely remain unusually elevated relative to crude prices, owing to diminished refining operations. As a result, headline inflation meas…",
-      "url": "https://www.dallasfed.org/research/economics/2026/1008",
-      "urlToImage": "https://www.dallasfed.org/-/media/Images/research/economics/2026/1008/missiles-refinery-pri.jpg",
-      "publishedAt": "2026-10-08T19:36:58Z",
-      "content": "October 08, 2026\r\nGlobal refinery capacity has declined by as much as 10 percent amid mounting transportation challenges and geopolitical tensions.\r\nThey include closure of the Strait of Hormuz, atta… [+9868 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "Newser"
       },
       "author": "Jenn Gidman",
@@ -970,6 +1035,19 @@
       "urlToImage": "https://cdn.newser.com/image/1716714-12-20261008144103.jpeg",
       "publishedAt": "2026-10-08T19:11:00Z",
       "content": "US farm debt is hitting new highs, and Washington may not even have the full picture. Reuters reports that while the US Department of Agriculture pegs inflation-adjusted farm debt at more than $605 b… [+426 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Fox Business"
+      },
+      "author": "Eric Revell, Matthew Kazin",
+      "title": "Mortgage rates rise for seventh straight week, squeezing homebuyers - Fox Business",
+      "description": "The average rate on a 30-year fixed mortgage rose this week to 7.4%, according to the latest Freddie Mac data released Thursday. That is up from last week's reading of 7.28%.",
+      "url": "https://www.foxbusiness.com/economy/mortgage-rates-10-8-2026",
+      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/03/0/0/home-for-sale-person-walking-getty.jpg?ve=1&tl=1",
+      "publishedAt": "2026-10-08T18:51:00Z",
+      "content": "Mortgage rates\r\n rose for the seventh straight week, mortgage buyer Freddie Mac said Thursday.\r\nFreddie Mac's latest Primary Mortgage Market Survey, released Thursday, showed the average rate on the … [+1844 chars]"
     },
     {
       "source": {
@@ -1038,28 +1116,15 @@
     },
     {
       "source": {
-        "id": "politico",
-        "name": "Politico"
-      },
-      "author": "Alfred Ng",
-      "title": "Tech firms pledge $2.4B in computing power to Trump’s Genesis Mission - Politico",
-      "description": "The donations include computing power, access to advanced AI models and cloud computing.",
-      "url": "https://www.politico.com/news/2026/10/08/tech-firms-pledge-2-4-billion-in-computing-power-to-trumps-genesis-mission-01111708",
-      "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2F6a%2F6c%2F99a4db084f9085b70c85cda01952%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2297764008",
-      "publishedAt": "2026-10-08T16:26:00Z",
-      "content": "Major tech companies, including OpenAI, NVIDIA, Anthropic, Amazon and Google, are contributing $2.4 billion worth of computing resources to support federal science agencies and researchers.\r\nThe Trum… [+835 chars]"
-    },
-    {
-      "source": {
         "id": "the-wall-street-journal",
         "name": "The Wall Street Journal"
       },
       "author": "WSJ",
-      "title": "Michigan Files Antitrust Suit Against Blue Cross Blue Shield Over Rising Costs - WSJ",
+      "title": "This Year’s Bad Harvest Is Good News for California Winemakers - WSJ",
       "description": null,
-      "url": "https://www.wsj.com/health/healthcare/michigan-files-antitrust-suit-against-blue-cross-blue-shield-over-rising-costs-b250ed15",
+      "url": "https://www.wsj.com/business/this-years-bad-harvest-is-good-news-for-california-winemakers-d53c7f53",
       "urlToImage": null,
-      "publishedAt": "2026-10-08T15:51:00Z",
+      "publishedAt": "2026-10-08T15:24:00Z",
       "content": null
     },
     {
@@ -1073,6 +1138,19 @@
       "url": "https://www.bizjournals.com/austin/news/2026/10/08/blue-origin-jeff-bezos-space-hutto-texas-project.html",
       "urlToImage": "https://media.bizj.us/view/img/13288897/newsblueorigin-hutto-announcement*1200xx1443-812-0-1.jpg",
       "publishedAt": "2026-10-08T14:22:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Inc."
+      },
+      "author": "Inc.com",
+      "title": "Starbucks Is Spending $1 Billion to Undo Its Biggest Mistake - Inc.com",
+      "description": null,
+      "url": "https://www.inc.com/jason-aten/starbucks-is-spending-1-billion-to-undo-its-biggest-mistake/91416720",
+      "urlToImage": null,
+      "publishedAt": "2026-10-08T12:52:05Z",
       "content": null
     },
     {
@@ -1113,19 +1191,6 @@
       "urlToImage": "https://static01.nyt.com/images/2026/10/01/business/01biz-duke/01biz-duke-mediumSquareAt3X.jpg",
       "publishedAt": "2026-10-08T11:06:16Z",
       "content": "Federal data show Duke math majors earning a bigger median income four years after graduation than any other majors from any school. It’s a small cohort."
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "SFGate"
-      },
-      "author": "Andrew Pridgen",
-      "title": "California's once-mighty wine industry is on the ropes - SFGATE",
-      "description": "From changes in drinking habits and tariffs to the costs of labor and production, California's wine industry is struggling like no time since the Depression.",
-      "url": "https://www.sfgate.com/centralcalifornia/article/california-wine-industry-struggles-22466620.php",
-      "urlToImage": "https://s.hdnux.com/photos/01/46/61/63/26942685/3/rawImage.jpg",
-      "publishedAt": "2026-10-08T11:02:56Z",
-      "content": "Californias $84 billion-per-year wine business is struggling across the board. Boutique and family-owned labels, mid-sized independent grape growers and large-scale corporate enterprises are all deci… [+11075 chars]"
     },
     {
       "source": {
@@ -1243,71 +1308,6 @@
       "urlToImage": "https://static01.nyt.com/images/2026/10/06/business/06biz-canada-spyder-ban/06biz-canada-spyder-ban-mediumSquareAt3X.jpg",
       "publishedAt": "2026-10-07T17:57:33Z",
       "content": "The Can-Am Spyder has a devoted fan base across the United States. Now it’s a casualty in the trade war with Canada."
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "author": "Apoorva Mandavilli and Benjamin Mueller",
-      "title": "Trump Administration Delays Threaten Funding for HIV Research",
-      "description": "The networks also develop treatments and preventions for other infectious diseases and were instrumental in testing the Covid vaccine.",
-      "url": "https://www.nytimes.com/2026/10/07/health/hiv-research-delay-cuts-hhs-nih.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/10/07/multimedia/07dc-hiv-new-cmpg/07dc-hiv-new-cmpg-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-10-07T16:33:19Z",
-      "content": "The networks also develop treatments and preventions for other infectious diseases and were instrumental in testing the Covid vaccine."
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "author": "Ken Belson and William DeShazer",
-      "title": "Need Help Paying for College? Try Bass Fishing.",
-      "description": "The popularity of competitive bass fishing has inspired a growing number of youth, high school and college fishing programs.",
-      "url": "https://www.nytimes.com/2026/10/07/business/bass-fishing-college-recruitment.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/10/05/multimedia/00biz-bass-fishing-09-qgcj/00biz-bass-fishing-09-qgcj-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-10-07T15:24:06Z",
-      "content": "The popularity of competitive bass fishing has inspired a growing number of youth, high school and college fishing programs."
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "author": "Andrew Ross Sorkin, Bernhard Warner, Sarah Kessler, Michael J. de la Merced, Niko Gallogly, Brian O’Keefe, Sri Muppidi, Lauren Hirsch and Ian Mount",
-      "title": "Why Markets Are Buoyant — and Under Pressure",
-      "description": "Energy and technology companies’ earnings are expected to keep driving up stock indexes. But what’s driving up their profits are weighing on the economy.",
-      "url": "https://www.nytimes.com/2026/10/07/business/dealbook/stocks-record-energy-ai.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/10/07/multimedia/07db-markets-tvzf/07db-markets-tvzf-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-10-07T15:01:06Z",
-      "content": "Energy and technology companies’ earnings are expected to keep driving up stock indexes. But what’s driving up their profits are weighing on the economy."
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "author": "Lauren Hirsch",
-      "title": "Tishman Speyer Takes Over Chrysler Building With Big Renovation Plans",
-      "description": "A large commercial landlord is planning to spruce up the office spaces and add amenities after the building lost its luster in recent years.",
-      "url": "https://www.nytimes.com/2026/10/07/business/chrysler-building-tishman-speyer.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/10/07/multimedia/07biz-chrysler-building-zkpw/07biz-chrysler-building-zkpw-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-10-07T14:01:50Z",
-      "content": "A large commercial landlord is planning to spruce up the office spaces and add amenities after the building lost its luster in recent years."
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "author": "Susan Shain",
-      "title": "Inheritances Can Shatter Families. Could a Therapist Help?",
-      "description": "As the United States faces the greatest wealth transfer in history, some people are turning to therapists to help them pass on their assets in a way that preserves harmony.",
-      "url": "https://www.nytimes.com/2026/10/07/business/inheritance-family-generational-wealth.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/10/04/multimedia/00Inheritance-Caregiving-hwvm/00Inheritance-Caregiving-hwvm-mediumSquareAt3X-v4.jpg",
-      "publishedAt": "2026-10-07T13:18:28Z",
-      "content": "As the United States faces the greatest wealth transfer in history, some people are turning to therapists to help them pass on their assets in a way that preserves harmony."
     }
   ]
 }

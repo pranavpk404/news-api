@@ -6,9 +6,22 @@
     "newsapi",
     "rss"
   ],
-  "fetched_at": "2026-10-11T10:20:57.846821+00:00",
+  "fetched_at": "2026-10-11T16:48:58.672719+00:00",
   "articles_count": 100,
   "articles": [
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Christopher Maag",
+      "title": "New York City’s Latest Famous Family Is a Hoot. Yes, They’re Barn Owls.",
+      "description": "The city’s latest feathered extraordinaires are captivating the Upper West Side with their screeches.",
+      "url": "https://www.nytimes.com/2026/10/11/nyregion/owls-upper-west-side-new-york-city.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/10/10/nyregion/00met-Viral-Owl-Family-02/00met-Viral-Owl-Family-02-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-10-11T14:47:27Z",
+      "content": "The city’s latest feathered extraordinaires are captivating the Upper West Side with their screeches."
+    },
     {
       "source": {
         "id": "the-new-york-times",
@@ -21,19 +34,6 @@
       "urlToImage": "https://static01.nyt.com/images/2026/10/11/science/11SCI-CONVERSATION-VIKINGS-stillpromo/11SCI-CONVERSATION-VIKINGS-stillpromo-mediumSquareAt3X.jpg",
       "publishedAt": "2026-10-11T09:00:34Z",
       "content": "“The Sea-King and the Sorceress” examines the lives and deaths of the diverse people who called themselves Vikings."
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "author": "Christopher Maag",
-      "title": "New York City’s Latest Famous Family Is a Hoot. Yes, They’re Barn Owls.",
-      "description": "The city’s latest feathered extraordinaires are captivating the Upper West Side with their screeches.",
-      "url": "https://www.nytimes.com/2026/10/11/nyregion/owls-upper-west-side-new-york-city.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/10/10/nyregion/00met-Viral-Owl-Family-02/00met-Viral-Owl-Family-02-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-10-11T07:00:22Z",
-      "content": "The city’s latest feathered extraordinaires are captivating the Upper West Side with their screeches."
     },
     {
       "source": {
@@ -76,6 +76,58 @@
     },
     {
       "source": {
+        "id": null,
+        "name": "ScienceAlert"
+      },
+      "author": "David Nield",
+      "title": "For The First Time Ever, Quantum Spins Shift a Centimeter-Scale Object - ScienceAlert",
+      "description": "There's another notable first in the field of quantum physics to report on, and it's all to do with electron spin: the tiny, built-in magnetism of these particles, as if each one is carrying a microscopic compass needle.",
+      "url": "https://www.sciencealert.com/for-the-first-time-ever-quantum-spins-shift-a-centimeter-scale-object",
+      "urlToImage": "https://www.sciencealert.com/images/2026/10/QuantumSpin.jpg",
+      "publishedAt": "2026-10-10T12:01:37Z",
+      "content": "There's another notable first in the field of quantum physics to report on, and it's all to do with electron spin: the tiny, built-in magnetism of these particles, as if each one is carrying a micros… [+4306 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Newser"
+      },
+      "author": "Jenn Gidman",
+      "title": "Big Dogs May Die Earlier Due to Unruly 'Jumping Genes' - Newser",
+      "description": "Scientists look at larger canines' 'epigenetic clocks' to see why their lifespans appear shorter",
+      "url": "https://www.newser.com/story/397868/big-dogs-may-age-faster-due-to-unruly-jumping-genes.html",
+      "urlToImage": "https://cdn.newser.com/image/1716966-12-20261010062003.jpeg",
+      "publishedAt": "2026-10-10T10:50:00Z",
+      "content": "Big dogs may burn through life faster at the molecular level, not just on the clock. A study in Science used blood samples from nearly 900 canines participating in the Dog Aging Project to build \"epi… [+511 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ScienceAlert"
+      },
+      "author": "Jess Cockerill",
+      "title": "Archaeologists Uncover Unprecedented Evidence of Neanderthal Woodworking Skills - ScienceAlert",
+      "description": "We Homo sapiens are pretty damn proud of our tool-making prowess.",
+      "url": "https://www.sciencealert.com/archaeologists-uncover-unprecedented-evidence-of-neanderthal-woodworking-skills",
+      "urlToImage": "https://www.sciencealert.com/images/2026/10/neanderthal.jpg",
+      "publishedAt": "2026-10-10T10:01:35Z",
+      "content": "We Homo sapiens are pretty damn proud of our tool-making prowess.\r\nFrom smartphones to the humble-yet-mighty wheel, our ability to craft objects to help us attain our goals is something that we've of… [+3609 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Jorge Garay",
+      "title": "Humans Watched This Supernova Explode Nearly a Millennium Ago. Now You Can See It in High Definition - WIRED",
+      "description": "The new image isn’t just stunning—it may also provide clues about how this star survived its own explosion.",
+      "url": "https://www.wired.com/story/humans-watched-this-supernova-explode-nearly-a-millennium-ago-now-you-can-see-it-in-high-definition/",
+      "urlToImage": "https://media.wired.com/photos/6ac6c81bf72dd8f6dfa1d410/191:100/w_1280,c_limit/noirlab2624a.jpg",
+      "publishedAt": "2026-10-10T09:30:00Z",
+      "content": "Astronomers have obtained the most detailed image to date of the Pa 30 nebula, the remnants of a supernova famous for having likely been observed and documented from Earth during the Middle Ages. Now… [+1749 chars]"
+    },
+    {
+      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -102,19 +154,6 @@
     },
     {
       "source": {
-        "id": "ars-technica",
-        "name": "Ars Technica"
-      },
-      "author": "Jacek Krywko",
-      "title": "Neanderthal wooden tools from Spain found preserved in stone - Ars Technica",
-      "description": "Dissolved rock precipitated around the tools, which then decayed.",
-      "url": "https://arstechnica.com/science/2026/10/neanderthal-wooden-tools-from-spain-found-preserved-in-stone/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/image-1152x648.png",
-      "publishedAt": "2026-10-09T22:34:03Z",
-      "content": null
-    },
-    {
-      "source": {
         "id": null,
         "name": "ScienceAlert"
       },
@@ -125,6 +164,19 @@
       "urlToImage": "https://www.sciencealert.com/images/2026/10/Untitled-Design-84.jpg",
       "publishedAt": "2026-10-09T22:01:24Z",
       "content": "The cosmos wavers between predictable stability and wild chaos, which troubles our sense-seeking brains.\r\nIn our local Solar abode, the stability of the planets \"is the question around which celestia… [+5655 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Space.com"
+      },
+      "author": "Robert Lea",
+      "title": "Mysterious 10-minute X-ray burst from a distant galaxy may have come from 2 dead stars colliding - Space",
+      "description": "\"When I saw the X-ray data from this new event, I realized something was up.\"",
+      "url": "https://www.space.com/astronomy/stars/mysterious-10-minute-x-ray-burst-from-a-distant-galaxy-may-have-come-from-2-dead-stars-colliding",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/snk3iAs8kmgZbQTtanvnVJ-1600-80.png",
+      "publishedAt": "2026-10-09T22:00:00Z",
+      "content": null
     },
     {
       "source": {
@@ -181,19 +233,6 @@
     {
       "source": {
         "id": null,
-        "name": "Cowboystatedaily.com"
-      },
-      "author": "Andrew Rossi",
-      "title": "Yellowstone Mechanic Stops So He Doesn't Hit Bull Bison, Bison Hits Him Anyway - Cowboy State Daily",
-      "description": "A seasonal mechanic driving through Yellowstone National Park in darkness Thursday morning stopped so he wouldn't hit a bull bison standing in the road at Mud Volcano. The bison did not return the favor, opting to smash into his truck anyway.",
-      "url": "https://cowboystatedaily.com/2026/10/09/yellowstone-mechanic-stops-so-he-doesnt-hit-bull-bison-bison-hits-him-anyway/",
-      "urlToImage": "https://cowboystatedaily.imgix.net/Bison-v-truck-in-yellowstone-2-10.9.26.jpg?w=1200&q=75&auto=format%2Ccompress",
-      "publishedAt": "2026-10-09T20:22:00Z",
-      "content": "A seasonal mechanic driving through Yellowstone National Park stopped his pickup truck to avoid hitting a bison only for the bison to hit him anyway.\r\nKyle Weber was heading home after a summer worki… [+5956 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "Albany Times Union"
       },
       "author": "Emily Scolnick",
@@ -203,6 +242,19 @@
       "urlToImage": "https://s.hdnux.com/photos/01/37/37/54/25033531/5/rawImage.jpg",
       "publishedAt": "2026-10-09T19:37:46Z",
       "content": "The northern lights, seen here over Duanesburg in May 2024, could return to illuminate the sky this weekend.\r\nPhotograph provided by Kevin Hogan\r\nIf the stars align, auroras could be visible in the C… [+2849 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Martha Stewart"
+      },
+      "author": "https://www.facebook.com/marthastewart/",
+      "title": "What to Do If You Find Grubs in Your Lawn—and How to Stop Them From Killing Your Grass - Martha Stewart",
+      "description": "Grubs can be extremely detrimental for your plants and grass, so it’s important to remove them when you find them in your lawn. We asked pest control experts about the best removal methods—and how to keep them from coming back.",
+      "url": "https://www.marthastewart.com/found-grubs-in-lawn-12164768",
+      "urlToImage": "https://www.marthastewart.com/thmb/M_BX7Hk9ohMH76xNcFPgaVazz20=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-2270984396-ed1a5289cb0b4374a2020adc4533350c.jpg",
+      "publishedAt": "2026-10-09T19:00:00Z",
+      "content": "Grubs are beetle larvae that youll often find in your lawn or garden. Not only are they unsightly, but theyll also destroy your plants if left unchecked. Your first instinct after finding them may be… [+3792 chars]"
     },
     {
       "source": {
@@ -284,6 +336,19 @@
     },
     {
       "source": {
+        "id": null,
+        "name": "Live Science"
+      },
+      "author": "Kenna Hughes-Castleberry",
+      "title": "Cool chemistry trick allows new tattoos to 'turn on and off' - Live Science",
+      "description": "Researchers created multicolored tattoo inks that are activated by different wavelengths of light, allowing people to hide their tattoos in different scenarios.",
+      "url": "https://www.livescience.com/technology/cool-chemistry-trick-allows-new-tattoos-to-turn-on-and-off",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/M6f4fGcXbRNUcvRWoZqavg-1920-80.jpg",
+      "publishedAt": "2026-10-09T15:00:00Z",
+      "content": null
+    },
+    {
+      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -311,6 +376,19 @@
     {
       "source": {
         "id": null,
+        "name": "Phys.Org"
+      },
+      "author": null,
+      "title": "Physics model reveals fundamental trade-off between prediction and energy efficiency in intelligent systems - Phys.org",
+      "description": "Artificial intelligence is increasingly becoming part of our everyday lives, from digital assistants to robots that respond to their surroundings. Each of these capabilities is based on physical computational processes that consume energy. An international re…",
+      "url": "https://phys.org/news/2026-10-physics-reveals-fundamental-energy-efficiency.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/the-price-of-rememberi.jpg",
+      "publishedAt": "2026-10-09T13:30:01Z",
+      "content": "Artificial intelligence is increasingly becoming part of our everyday lives, from digital assistants to robots that respond to their surroundings. Each of these capabilities is based on physical comp… [+4443 chars]"
+    },
+    {
+      "source": {
+        "id": null,
         "name": "Gizmodo.com"
       },
       "author": "Matthew Phelan",
@@ -320,6 +398,19 @@
       "urlToImage": "https://gizmodo.com/app/uploads/2026/10/Bathynomus-tuebingoborikensis-isopod-Puerto-Rico-1200x675.jpg",
       "publishedAt": "2026-10-09T13:20:00Z",
       "content": "German paleontologist Dolf Seilacher had not yet won his Crafoordthe prestigious honor awarded by the same Swedish academy that gives out the Nobel Prizewhen he was collecting specimens in Puerto Ric… [+4104 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Popular Mechanics"
+      },
+      "author": "Darren Orf",
+      "title": "Scientists Just Built a Computer Out of DNA—and It Runs Without Electricity - Yahoo Tech",
+      "description": "A new DNA computer performed 700 computations across several experiments—without silicon or continuous energy input.",
+      "url": "https://www.popularmechanics.com/science/a74070241/dna-computer/",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/17c97bb9e55e6befec404e2cd831c205f3047fd9e728c9fe5fd0dc0bbff9b989/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpopular_mechanics_642%2F8b5badfd06e6d4f2156bce5cc6692adc.jpg",
+      "publishedAt": "2026-10-09T12:30:00Z",
+      "content": "\"Hearst Magazines and Yahoo may earn commission or revenue on some items through these links.\"\r\nHere's what you'll learn when you read this story:\r\n While DNA computers aren't as fast as traditional … [+3921 chars]"
     },
     {
       "source": {
@@ -389,19 +480,6 @@
     {
       "source": {
         "id": null,
-        "name": "Teslarati"
-      },
-      "author": "Gene",
-      "title": "SpaceX brings four astronauts home after 8 months in space, and the return was flawless - Teslarati",
-      "description": "SpaceX Crew Dragon Freedom returned four Crew-12 astronauts home after 237 days aboard the station.",
-      "url": "https://www.teslarati.com/spacex-brings-four-astronauts-home-after-8-months-in-space-and-the-return-was-flawless/",
-      "urlToImage": "https://www.teslarati.com/wp-content/uploads/2026/10/spacex-dragon-crew12-splashdown-1000x600.jpg",
-      "publishedAt": "2026-10-09T09:18:34Z",
-      "content": "SpaceX has agreed to buy a nationwide block of low band wireless spectrum, a deal the company says will let Starlink Mobile operate as a full US carrier rather than a satellite add-on for someone els… [+3219 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "Phys.Org"
       },
       "author": null,
@@ -411,6 +489,19 @@
       "urlToImage": "https://scx2.b-cdn.net/gfx/news/2026/3d-structure-of-dna-ma.jpg",
       "publishedAt": "2026-10-09T09:00:12Z",
       "content": "Octopuses, squid and cuttlefish, collectively known as coleoid cephalopods, have evolved exceptionally large and elaborately structured nervous systems capable of complex behaviors such as problem-so… [+3605 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Medical Xpress"
+      },
+      "author": null,
+      "title": "Age and sex shape cancer immunity, mouse experiments and human data suggest - Medical Xpress",
+      "description": "A new study published in Nature Aging combines mouse experiments and human data sets to explore how biological sex and aging shape cancer immunity, with implications for immunotherapy responses. Lutz Menzel, Ph.D., formerly of the Department of Radiation Onco…",
+      "url": "https://medicalxpress.com/news/2026-10-age-sex-cancer-immunity-mouse.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/elder.jpg",
+      "publishedAt": "2026-10-09T09:00:01Z",
+      "content": "A new study published in Nature Aging combines mouse experiments and human data sets to explore how biological sex and aging shape cancer immunity, with implications for immunotherapy responses. Lutz… [+5372 chars]"
     },
     {
       "source": {
@@ -466,6 +557,19 @@
     },
     {
       "source": {
+        "id": null,
+        "name": "Russh.com"
+      },
+      "author": "Kirsty Thatcher",
+      "title": "How to see the aurora australis tonight - RUSSH",
+      "description": "An aurora australis could light up the skies on Friday October 9. Here's when and where to see it across Australia and New Zealand.",
+      "url": "https://www.russh.com/how-to-see-aurora-australis-australia-october-9-2026/",
+      "urlToImage": "https://www.russh.com/wp-content/uploads/2026/10/aurora-australis.jpg",
+      "publishedAt": "2026-10-09T03:35:12Z",
+      "content": "If your weekend plans are looking bleak, we might have something to get you excited. A possible aurora australis is on the cards for parts of Australia and New Zealand this Friday night with a foreca… [+2490 chars]"
+    },
+    {
+      "source": {
         "id": "cnn",
         "name": "CNN"
       },
@@ -476,6 +580,19 @@
       "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/adx2549-image-008-fire-field1-perigee-aerospace-rocket-development-complex.jpg?c=16x9&q=w_800,c_fill",
       "publishedAt": "2026-10-09T01:30:00Z",
       "content": "With South Korea preparing to send a lander to the moon by 2030, researchers are developing a rover with innovative origami-inspired wheels, which they hope will join the mission.\r\nThe wheels are mad… [+3375 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "KSL.com"
+      },
+      "author": "Associated Press, Marcia Dunn, Associated Press",
+      "title": "4 astronauts return to Earth after 8 months in space - KSL News",
+      "description": "Four astronauts are back on Earth after an eight-month stay at the International Space Station after their SpaceX capsule splashed into the Pacific on Thursday.",
+      "url": "https://www.ksl.com/article/51634031/4-astronauts-return-to-earth-after-8-months-in-space",
+      "urlToImage": "https://img.ksl.com/slc/3204/320486/32048694.jpg?filter=kslv2/responsive_story_lg",
+      "publishedAt": "2026-10-09T01:25:05Z",
+      "content": "CAPE CANAVERAL, Fla. Four astronauts returned to Earth from the International Space Station on Thursday after hurrying there eight months ago to replace an ailing colleague and his crew.\r\nSpaceX brou… [+2638 chars]"
     },
     {
       "source": {
@@ -502,19 +619,6 @@
       "urlToImage": "https://cdn.sci.news/images/2021/12/image_10334f-Apis-mellifera.jpg",
       "publishedAt": "2026-10-09T00:35:14Z",
       "content": "In a new review paper, Dr. Hannes Bonhoff of Lund University and Dr. Heikki Helanterä from the University of Oulu argue that the departing swarm represents the parent colony leaving with its queen, w… [+5291 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "fox8.com"
-      },
-      "author": "Ann Lipsett, Jordan Unger",
-      "title": "Draconid meteor shower lighting up skies over Northeast Ohio: How to watch - FOX 8 News",
-      "description": "Don't forget to look up! There is a meteor shower lighting up the skies in Northeast Ohio.",
-      "url": "https://fox8.com/news/draconid-meteor-shower-lighting-up-skies-over-northeast-ohio-how-to-watch/",
-      "urlToImage": "https://fox8.com/wp-content/uploads/sites/12/2026/10/stargazing.jpg?w=1280",
-      "publishedAt": "2026-10-08T23:51:18Z",
-      "content": "***Find the latest weather forecast in the video above***\r\n(WJW) – Don’t forget to look up! There is a meteor shower lighting up the skies in Northeast Ohio.\r\nFOX 8 News Meteorologist Mackenzie Bart … [+1101 chars]"
     },
     {
       "source": {
@@ -558,28 +662,15 @@
     {
       "source": {
         "id": null,
-        "name": "Live Science"
+        "name": "Thebrighterside.news"
       },
-      "author": "RJ Mackenzie",
-      "title": "Big dogs age faster at an epigenetic level, new study finds - Live Science",
-      "description": "A new study that tracked dogs' aging by reading tiny chemical tags on their DNA found that larger dogs aged more quickly.",
-      "url": "https://www.livescience.com/animals/dogs/big-dogs-age-faster-at-an-epigenetic-level-new-study-finds",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/JYmLK6wdsekPkBWpQAEx9T-2000-80.jpg",
-      "publishedAt": "2026-10-08T21:59:11Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ScienceAlert"
-      },
-      "author": "David Nield",
-      "title": "'The Most Accurate Clock in The World': Atomic Clock Just Set a New World Record - ScienceAlert",
-      "description": "The time-keeping offered by your watch or phone may be good enough for day-to-day life, but scientists are much more ambitious in terms of precision, and use atomic clocks to measure slices of time as accurately as possible.",
-      "url": "https://www.sciencealert.com/the-most-accurate-clock-in-the-world-atomic-clock-just-set-a-new-world-record",
-      "urlToImage": "https://www.sciencealert.com/images/2026/10/EggTimer-1200x675.jpg",
-      "publishedAt": "2026-10-08T20:01:19Z",
-      "content": "The time-keeping offered by your watch or phone may be good enough for day-to-day life, but scientists are much more ambitious in terms of precision, and use atomic clocks to measure slices of time a… [+3903 chars]"
+      "author": "Joseph Shavit, Shy Cohen",
+      "title": "Scientists demonstrate sustained operation of the world’s first self-regulating nuclear clock - The Brighter Side of News",
+      "description": "A thorium nuclear clock in Vienna ran for more than 24 hours with automatic laser corrections, advancing precision timekeeping.",
+      "url": "https://www.thebrighterside.news/post/scientists-demonstrate-sustained-operation-of-the-worlds-first-self-regulating-nuclear-clock/#article",
+      "urlToImage": "https://www.thebrighterside.news/uploads/2026/10/Screenshot-2026-10-07-144313.png?auto=webp&width=2000&height=1286",
+      "publishedAt": "2026-10-08T20:07:00Z",
+      "content": "<ul><li>A thorium-229 nuclear clock in Vienna ran for more than 24 hours without intervention, automatically correcting its laser frequency.</li><li>The crystal-based prototype establishes a working … [+9524 chars]"
     },
     {
       "source": {
@@ -587,12 +678,12 @@
         "name": "Space.com"
       },
       "author": "Chelsea Gohd",
-      "title": "NASA's hunting for a secret underground cave on the moon - Space",
+      "title": "NASA's hunting for a secret underground cave on the moon - Yahoo Tech",
       "description": "Will future astronauts take shelter in moon caves?",
       "url": "https://www.space.com/astronomy/moon/nasas-hunting-for-a-secret-underground-cave-on-the-moon",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/e3H3wou3FNrba82zAtuAQT-1920-80.png",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/5a8b05964f1efee4d109df526ed777bf66baf323e78996dd92e4d28c2df43373/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fspace_311%2Ff805f5561aa25e1b805fa7be806be92f.png",
       "publishedAt": "2026-10-08T20:00:00Z",
-      "content": null
+      "content": "When you buy through links on our articles, Future and its syndication partners may earn a commission.\r\nThe Marius Hills Pit on the lunar surface. | Credit: NASA/GSFC/Arizona State University\r\nAre th… [+3710 chars]"
     },
     {
       "source": {
@@ -606,19 +697,6 @@
       "urlToImage": "https://media.nature.com/lw1200/magazine-assets/d41586-026-03193-x/d41586-026-03193-x_53825632.jpg",
       "publishedAt": "2026-10-08T19:26:29Z",
       "content": "By introducing and tracking mutations as the cells of a mouse embryo divide, researchers have mapped relationship between cells. Credit: Steve Gschmeissner/Science Photo Library\r\nCell recorders based… [+2883 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Phys.Org"
-      },
-      "author": "Sam Jarman",
-      "title": "Liquid-crystal-like magnetism explains puzzling properties in a rare-earth compound - Phys.org",
-      "description": "In some materials, physical properties don't emerge from their individual particles, but from the collective behavior of their quantum spins. Now, researchers led by Pengcheng Dai at Rice University in the U.S. have discovered that in one compound containing …",
-      "url": "https://phys.org/news/2026-10-liquid-crystal-magnetism-puzzling-properties.html",
-      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/liquid-crystal-like-ma-1.jpg",
-      "publishedAt": "2026-10-08T19:20:15Z",
-      "content": "In some materials, physical properties don't emerge from their individual particles, but from the collective behavior of their quantum spins. Now, researchers led by Pengcheng Dai at Rice University … [+4094 chars]"
     },
     {
       "source": {
@@ -670,19 +748,6 @@
       "url": "https://www.space.com/stargazing/meteor-showers/watch-a-brilliant-green-meteor-explode-over-arizona-video",
       "urlToImage": "https://cdn.mos.cms.futurecdn.net/6gXZfEvMsfrFHxVnESbVFM-2000-80.jpg",
       "publishedAt": "2026-10-08T16:30:43Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Space.com"
-      },
-      "author": "Chelsea Gohd",
-      "title": "'Dude! No way!' Mission teams jump for joy over Artemis II science results - Space",
-      "description": "996 new images, 814 GB of observations and 521 minutes of never-before-heard crew audio.",
-      "url": "https://www.space.com/space-exploration/artemis/dude-no-way-mission-teams-jump-for-joy-over-artemis-ii-science-results",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/f7vvZJvqFXmp9Kc5vZezuL-1920-80.png",
-      "publishedAt": "2026-10-08T16:00:00Z",
       "content": null
     },
     {
@@ -743,19 +808,6 @@
         "name": "Phys.Org"
       },
       "author": null,
-      "title": "Rise of collagen-eating microbes may help explain gaps in the fossil record - Phys.org",
-      "description": "Researchers may have uncovered the reason why some of Earth's earliest animals were commonly preserved as fossils—even though they were essentially fragile \"bags of goo\"—while later soft-bodied creatures have largely disappeared from the fossil record.",
-      "url": "https://phys.org/news/2026-10-collagen-microbes-gaps-fossil.html",
-      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2019/fishfossil.jpg",
-      "publishedAt": "2026-10-08T15:00:02Z",
-      "content": "Researchers may have uncovered the reason why some of Earth's earliest animals were commonly preserved as fossilseven though they were essentially fragile \"bags of goo\"while later soft-bodied creatur… [+6373 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Phys.Org"
-      },
-      "author": null,
       "title": "Largest 2D map of the universe helps scientists discover new gravitational lenses - Phys.org",
       "description": "Using data from the DESI Legacy Imaging Surveys, with help from artificial intelligence, an international team of scientists has discovered 70 new gravitational lenses—rare cosmic alignments that act as natural magnifying glasses. The new lenses further expan…",
       "url": "https://phys.org/news/2026-10-largest-2d-universe-scientists-gravitational.html",
@@ -805,15 +857,15 @@
     {
       "source": {
         "id": null,
-        "name": "BBC News"
+        "name": "Nature.com"
       },
       "author": null,
-      "title": "How a scientist used Britpop to reach Mars - BBC",
-      "description": "Colin Pillinger died believing that Beagle 2 had not landed, and now his work is being celebrated around the UK.",
-      "url": "https://www.bbc.com/news/articles/ckzd65665q1yo",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/a335/live/de374130-c263-11f1-a202-b3a903690ffe.jpg",
-      "publishedAt": "2026-10-08T05:39:30Z",
-      "content": "With his mutton-chop sideburns, West Country accent and infectious enthusiasm, Professor Colin Pillinger persuaded politicians, pop stars and the public to support what had seemed impossible: a Briti… [+18 chars]"
+      "title": "NASA releases trove of Moon data from historic Artemis II flight - Nature",
+      "description": "Annotated images and more collected by the four astronauts could inform missions to the lunar surface.",
+      "url": "https://www.nature.com/articles/d41586-026-03197-7",
+      "urlToImage": "https://media.nature.com/lw1200/magazine-assets/d41586-026-03197-7/d41586-026-03197-7_53820496.jpg",
+      "publishedAt": "2026-10-08T03:58:17Z",
+      "content": "Artemis II astronaut Jeremy Hansen captures images during the lunar flyby.Credit: NASA\r\nPlanetary scientists have fresh Moon joy to explore. On 7 October, NASA released more than 800 gigabytes of ima… [+4867 chars]"
     },
     {
       "source": {
@@ -853,19 +905,6 @@
       "urlToImage": "https://static01.nyt.com/images/2026/10/07/multimedia/07dc-kennedy-vaccines-zwbg/07dc-kennedy-vaccines-zwbg-mediumSquareAt3X.jpg",
       "publishedAt": "2026-10-08T01:40:50Z",
       "content": "Vaccine safety experts say more research into the side effects would be welcome yet question whether the health secretary’s effort will be grounded in science."
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Nature.com"
-      },
-      "author": null,
-      "title": "Mechanism of spliceosome termination - Nature",
-      "description": "A coordinated sequence&nbsp;of RNA helicases and associated factors dismantles normal and defective spliceosome complexes to enable intron degradation and ensure accurate gene expression.",
-      "url": "https://www.nature.com/articles/s41586-026-11101-6",
-      "urlToImage": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-11101-6/MediaObjects/41586_2026_11101_Fig1_HTML.png",
-      "publishedAt": "2026-10-07T23:03:38Z",
-      "content": "ILS disassembly assay in nematode extract\r\nSample preparation\r\nTotal nematode extract was prepared from a C. elegans strain expressing endogenously 3×FLAG-tagged PRP19 (ref. 2).\r\nDisassembly assays i… [+64618 chars]"
     },
     {
       "source": {
@@ -931,19 +970,6 @@
       "urlToImage": "https://static01.nyt.com/images/2026/10/07/multimedia/07int-russia-plague-tmqh/07int-russia-plague-tmqh-mediumSquareAt3X.jpg",
       "publishedAt": "2026-10-07T18:20:34Z",
       "content": "New information around the death of a lab worker, including a statement that she had been vaccinated against the plague, came as U.S. officials demanded more data."
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Phys.Org"
-      },
-      "author": null,
-      "title": "First observation of quantum spins shifting a centimeter-scale object in the lab - Phys.org",
-      "description": "Modern technological breakthroughs like lasers, MRI scanners, semiconductors and quantum computers rest on the study of quantum mechanics. However, the field has predominantly focused on (sub)atomic phenomena far removed from our human senses.",
-      "url": "https://phys.org/news/2026-10-quantum-shifting-centimeter-scale-lab.html",
-      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/first-observation-of-q.jpg",
-      "publishedAt": "2026-10-07T18:00:50Z",
-      "content": "Modern technological breakthroughs like lasers, MRI scanners, semiconductors and quantum computers rest on the study of quantum mechanics. However, the field has predominantly focused on (sub)atomic … [+6287 chars]"
     },
     {
       "source": {
@@ -1025,19 +1051,6 @@
     },
     {
       "source": {
-        "id": "national-geographic",
-        "name": "National Geographic"
-      },
-      "author": "Asher Elbein",
-      "title": "This Cretaceous 'Sea Monster' Attacked Prey Faster than Great White Sharks - Yahoo",
-      "description": "By analyzing tail length and muscle power, paleontologists have explained the physics behind a mosasaur's deadly ability to lunge toward its prey.",
-      "url": "https://www.nationalgeographic.com/science/article/mosasaur-lunge",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/a80592fc3f495141cb273eab3818cd71eff0ced09a28de7566c037d23598a166/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fi.natgeofe.com%2Fn%2Ff2005c22-abed-45e9-915b-0991674d1a5e%2FFormosasaurTIF.jpg",
-      "publishedAt": "2026-10-07T15:40:14Z",
-      "content": "Ever since the first well-preserved mosasaur skeletons were found in the late 1800s, paleontologists have recognized that these flippered sea lizards lived in the ocean. But their tails showed no sig… [+6041 chars]"
-    },
-    {
-      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -1061,6 +1074,19 @@
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/lisa-2arms-gws-red2-1152x648.webp",
       "publishedAt": "2026-10-07T11:00:40Z",
       "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Weather Channel"
+      },
+      "author": "Rob Shackelford",
+      "title": "Draconid meteor shower 2026: peak time and viewing guide - The Weather Channel",
+      "description": "The Draconid meteor shower peaks overnight Thursday into Friday, and unlike most showers, it's best right after sunset instead of after midnight.",
+      "url": "https://weather.com/2026/10/07/science/space/draconids-meteor-shower-no-late-night-required",
+      "urlToImage": "https://s.w-x.co/wxnext/img/Draconid_2021-4f07d6.jpg",
+      "publishedAt": "2026-10-07T10:00:00Z",
+      "content": "iew of a shooting star (Draconid) and northern light near Skekarsbo at the Farnebofjardens national park 150 kilometers north of Stockholm on October 8, 2011\r\n(Getty Images)\r\nMost meteor showers dema… [+2505 chars]"
     },
     {
       "source": {
@@ -1220,19 +1246,6 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "Investor's Business Daily"
-      },
-      "author": null,
-      "title": "SpaceX To Reattempt SDA Mission, Rally Continues Amid Busy Launch Schedule - Investor's Business Daily",
-      "description": "SpaceX prepares to launch a SDA mission on Tuesday after scrubbing attempt on Monday. SPCX stock pops amid Taiwan Semiconductor news.",
-      "url": "https://www.investors.com/news/spacex-stock-sda-mission-pwsa-satellite-constellation-falcon-9-spcx/",
-      "urlToImage": "https://www.investors.com/wp-content/uploads/2017/12/stock-SpaceX-02-company.jpg",
-      "publishedAt": "2026-10-05T20:46:00Z",
-      "content": "Information in Investors Business Daily is for informational and educational purposes only and should not be construed as an offer, recommendation, solicitation, or rating to buy or sell securities. … [+1064 chars]"
-    },
-    {
-      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -1260,6 +1273,19 @@
     {
       "source": {
         "id": null,
+        "name": "KTLA Los Angeles"
+      },
+      "author": "Jocelyn Fiset",
+      "title": "Longtime surfers are being diagnosed with this strange condition - KTLA",
+      "description": "Researchers in Orange County are helping identify a condition unique to longtime surfers that may be mistaken for cancer. Dermatology Professor Dr. Jeffrey Klein at UC Irvine led research into identifying the fatty, benign growths, called “liposurfomas,” that…",
+      "url": "https://ktla.com/news/california/liposurfomas-surfers-chest-growths/",
+      "urlToImage": "https://ktla.com/wp-content/uploads/sites/4/2026/10/surfer-paddling.jpg?w=1280",
+      "publishedAt": "2026-10-05T20:29:12Z",
+      "content": "Researchers in Orange County are helping identify a condition unique to longtime surfers that may be mistaken for cancer.\r\nDermatology Professor Dr. Jeffrey Klein at UC Irvine led research into ident… [+1267 chars]"
+    },
+    {
+      "source": {
+        "id": null,
         "name": "Thetrek.co"
       },
       "author": "Peg Leg",
@@ -1282,32 +1308,6 @@
       "urlToImage": "https://cdn.newser.com/image/1715970-12-20261005125004.jpeg",
       "publishedAt": "2026-10-05T17:20:00Z",
       "content": "The researchers used precise distance measurements to gauge amplitude, or the height of a sound wave, which determines its loudness—an approach rarely used in the wild because of the difficulty of is… [+515 chars]"
-    },
-    {
-      "source": {
-        "id": "fox-news",
-        "name": "Fox News"
-      },
-      "author": null,
-      "title": "Country boys in Kentucky hear knocks in woods at night before one catches glimpse of Bigfoot with spotlight - Fox News",
-      "description": "Clayton's group heard tree knocks and stick breaking before spotting a 7-to-8-foot dark hairy figure at a Kentucky lookout on the back roads.",
-      "url": "https://www.foxnews.com/outkick-sports/country-boys-kentucky-hear-knocks-woods-night-one-catches-glimpse-bigfoot-spotlight",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/10/spooky-light-forest-horror.jpg",
-      "publishedAt": "2026-10-05T17:08:08Z",
-      "content": "It's around 10 pm and a few friends in Kentucky are riding around on the back roads when they decide to get out and look around at a lookout.\r\nIt was August, and they had visited this spot plenty of … [+2847 chars]"
-    },
-    {
-      "source": {
-        "id": "cnn",
-        "name": "CNN"
-      },
-      "author": "Jacopo Prisco",
-      "title": "‘Phoenix planet’ may have formed from a dead star’s ashes - CNN",
-      "description": "A second-generation planet might be orbiting a white dwarf, in an astronomy first, according to new research.",
-      "url": "https://www.cnn.com/2026/10/05/science/second-generation-planet-discovery-white-dwarf",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/second-generation-planet-artwork-credit-dr-snehala-sahu-university-of-warwick.jpg?c=16x9&q=w_800,c_fill",
-      "publishedAt": "2026-10-05T15:58:37Z",
-      "content": "In a cosmic first, scientists say they have detected a planet that may have formed from the burned remains of its dead host star.\r\nThe planet is likely a gas giant orbiting a white dwarf called HS 02… [+7930 chars]"
     }
   ]
 }

@@ -1,7 +1,46 @@
 {
   "status": "ok",
-  "totalResults": 100,
+  "totalResults": 90,
   "articles": [
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Andrew Jacobs",
+      "title": "Why Ketamine Immobilizes Some Users",
+      "description": "Potent powders can produce a nearly catatonic state, particularly in those who have not tried the drug before.",
+      "url": "https://www.nytimes.com/2026/10/10/science/ketamine-cornell-anesthesia.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/10/08/multimedia/08SCI-KETAMINE-cjwm/08SCI-KETAMINE-cjwm-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-10-12T15:37:24Z",
+      "content": "Potent powders can produce a nearly catatonic state, particularly in those who have not tried the drug before."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Apoorva Mandavilli",
+      "title": "He Helped Discover Ebola 50 Years Ago. He’s Still Worried.",
+      "description": "In an interview, Dr. Peter Piot recalled when he first saw the spindly virus under a microscope and reflected on a five-decade career spent fighting two deadly pathogens.",
+      "url": "https://www.nytimes.com/2026/10/12/us/politics/peter-piot-ebola-hiv.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/10/13/multimedia/11DC-PIOT-top-pmqz/11DC-PIOT-top-pmqz-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-10-12T09:02:05Z",
+      "content": "In an interview, Dr. Peter Piot recalled when he first saw the spindly virus under a microscope and reflected on a five-decade career spent fighting two deadly pathogens."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Alexa Robles-Gil",
+      "title": "How Do Cuttlefish Hide? Scientists Search for the Secret to Camouflage.",
+      "description": "Cephalopods are masters of camouflage. Scientists want to decipher how the process works in the brain.",
+      "url": "https://www.nytimes.com/2026/10/12/science/cuttlefish-brain-camouflage.html",
+      "urlToImage": null,
+      "publishedAt": "2026-10-12T09:00:46Z",
+      "content": "Cephalopods are masters of camouflage. Scientists want to decipher how the process works in the brain."
+    },
     {
       "source": {
         "id": "the-new-york-times",
@@ -30,6 +69,58 @@
     },
     {
       "source": {
+        "id": null,
+        "name": "Science Daily"
+      },
+      "author": null,
+      "title": "Scientists make stunning discovery that could help explain why life exists - Science Daily",
+      "description": "Scientists have discovered that the universe&apos;s fundamental physical constants may be finely balanced to make life possible. Even tiny changes to these constants could make liquids too thick or too thin for essential biological processes, potentially prev…",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261009025602.htm",
+      "urlToImage": "https://www.sciencedaily.com/images/1920/universe-laws-liquids.webp",
+      "publishedAt": "2026-10-11T16:38:01Z",
+      "content": "Imagine a universe where stars still shine, planets still form, and water exists, but liquids are so thick that living cells can barely function. Even with the chemical ingredients for life, the cond… [+8994 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Jalopnik"
+      },
+      "author": "Nicholas Werner",
+      "title": "Here's What Sets The Nancy Grace Roman Space Telescope Apart From The James Webb - Jalopnik",
+      "description": "While James Webb looks deep, the Nancy Grace Roman Space Telescope looks wide. Here’s how its giant survey capability redefines our search for new worlds.",
+      "url": "https://www.jalopnik.com/2281147/what-sets-nancy-grace-roman-telescope-apart-from-james-webb/",
+      "urlToImage": "https://www.jalopnik.com/img/gallery/heres-what-sets-the-nancy-grace-roman-space-telescope-apart-from-the-james-webb/l-intro-1791471779.jpg",
+      "publishedAt": "2026-10-11T12:05:00Z",
+      "content": "As any terrestrial photographer will know, the picture a camera can take comes down to two main components: the mirrors (lenses) and the detectors. The mirrors are what actually capture the dim, dist… [+1390 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Weather Channel"
+      },
+      "author": "Ada Wood",
+      "title": "Lake Vostok: The ancient lake no one on Earth has ever seen - Yahoo",
+      "description": "Lake Vostok has stayed hidden under Antarctic ice for millions of years — and scientists have found life inside it.",
+      "url": "https://weather.com/2026/10/11/science/lake-vostok-the-ancient-lake-no-one-on-earth-has-ever-seen",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/e559caf2f045e552181bd18d4909251f03f8c19101837527a0a56dea3b967675/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_weather_channel_articles_180%2F7579a7118569151c68017e3a0f6506af.jpg",
+      "publishedAt": "2026-10-11T11:00:00Z",
+      "content": "There's a lake on Earth and no one has ever even seen it.\r\nIt's the 16th largest on our planet, about 160 miles long, 30 miles wide, 3,000 feet deep and trapped under two and a half miles of ice in E… [+3287 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Discoverwildlife.com"
+      },
+      "author": "Will Newton",
+      "title": "\"They used their deadly, 12 inch canines, as sharp as steak knives, to slash open their prey’s necks or tear open their bellies\" - BBC Wildlife Magazine",
+      "description": "They might be distantly related to our fluffy, domesticated furballs, but sabre-toothed cats aren’t the kind of cats you’d consider petting.",
+      "url": "https://www.discoverwildlife.com/animal-facts/mammals/sabre-toothed-cats-guide",
+      "urlToImage": "https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/9ac494a4-627d-4fea-a827-dcf588dd6f96/7e42308a-a322-4c81-978a-8f83db7b5fcb/thumbnails/733adfcf-9d8a-4248-9f35-39b341e7f5f1.jpg?appId=f347d34d-c1a6-4a00-b570-b78c2dcb3211&platform=WEB&w=1200",
+      "publishedAt": "2026-10-11T10:38:41Z",
+      "content": "They might be distantly related to our fluffy, domesticated furballs, but sabre-toothed cats arent the kind of cats youd ever consider petting - unless you fancied losing a hand. These formidable pre… [+10224 chars]"
+    },
+    {
+      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -46,26 +137,65 @@
         "id": null,
         "name": "ScienceAlert"
       },
-      "author": "Carly Cassella",
-      "title": "Scientists Collected Deep-Sea Rocks. They Spontaneously Caught Fire in The Lab. - ScienceAlert",
-      "description": "Scientists investigating the possibility of a 'gold rush' on the bottom of the ocean have hit upon an unforeseen 'landmine'.",
-      "url": "https://www.sciencealert.com/scientists-collected-deep-sea-rocks-they-spontaneously-caught-fire-in-the-lab",
-      "urlToImage": "https://www.sciencealert.com/images/2026/10/deep-sea-rock.jpg",
-      "publishedAt": "2026-10-11T00:04:03Z",
-      "content": "Scientists investigating the possibility of a 'gold rush' on the bottom of the ocean have hit upon an unforeseen 'landmine'.\r\nResearchers at the United States Geological Survey (USGS) are now warning… [+4818 chars]"
+      "author": "Jess Cockerill",
+      "title": "Scientists Find Squid Are Covered in Hair-Like Cells Remarkably Similar to The Ones in Human Ears - ScienceAlert",
+      "description": "The skin of a squid, surprisingly, has much in common with an organ inside your ear.",
+      "url": "https://www.sciencealert.com/scientists-find-squid-are-covered-in-hair-like-cells-remarkably-similar-to-the-ones-in-human-ears",
+      "urlToImage": "https://www.sciencealert.com/images/2026/10/glowing-squid-lateral-lines.jpg",
+      "publishedAt": "2026-10-11T02:03:38Z",
+      "content": "The skin of a squid, surprisingly, has much in common with an organ inside your ear.\r\nAs reported in a new study in Current Biology, scientists have found that squid are covered in cells with little … [+4884 chars]"
     },
     {
       "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
+        "id": "the-times-of-india",
+        "name": "The Times of India"
       },
-      "author": "Andrew Jacobs",
-      "title": "Why Ketamine Immobilizes Some Users",
-      "description": "Potent powders can produce a nearly catatonic state, particularly in those who have not tried the drug before.",
-      "url": "https://www.nytimes.com/2026/10/10/science/ketamine-cornell-anesthesia.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/10/08/multimedia/08SCI-KETAMINE-cjwm/08SCI-KETAMINE-cjwm-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-10-10T20:38:18Z",
-      "content": "Potent powders can produce a nearly catatonic state, particularly in those who have not tried the drug before."
+      "author": "ETimes.in",
+      "title": "10 baby names inspired by legendary scientists and their discoveries - The Times of India",
+      "description": "Some names carry the stories of people who changed how we understand the world. From unlocking the mysteries of space to transforming medicine and technology, these scientists pushed the boundaries of human knowledge. If you want a name inspired by curiosity,…",
+      "url": "https://timesofindia.indiatimes.com/life-style/parenting/baby-names/10-baby-names-inspired-by-legendary-scientists-and-their-discoveries/photostory/134833749.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-134833809,width-1280,height-720,imgsize-28964,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-10-11T01:30:00Z",
+      "content": "Some names carry the stories of people who changed how we understand the world. From unlocking the mysteries of space to transforming medicine and technology, these scientists pushed the boundaries o… [+159 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Phys.Org"
+      },
+      "author": null,
+      "title": "Zimbabwe's dinosaurs were different from South Africa's: New species offers clues - Phys.org",
+      "description": "Africa boasts up to 25% of Earth's animal and plant species. This diversity is driven by varied habitats: harsh deserts, vast grasslands, dense forests, towering mountains, lush coastlines and teeming seas. It is also due to deep evolutionary roots, as many a…",
+      "url": "https://phys.org/news/2026-10-zimbabwe-dinosaurs-south-africa-species.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/illustration-of-a-long.jpg",
+      "publishedAt": "2026-10-11T00:30:01Z",
+      "content": "Africa boasts up to 25% of Earth's animal and plant species. This diversity is driven by varied habitats: harsh deserts, vast grasslands, dense forests, towering mountains, lush coastlines and teemin… [+6376 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Phys.Org"
+      },
+      "author": null,
+      "title": "Ultraviolet laser pulses engineer diamond defects selectively, leaving quantum qubits intact - Phys.org",
+      "description": "When we think about a diamond, we often think about a material whose value comes from its perfection. In my research, however, I am interested in something almost opposite: the tiny imperfections inside diamonds. These atomic-scale defects can give diamonds n…",
+      "url": "https://phys.org/news/2026-10-ultraviolet-laser-pulses-diamond-defects.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/ultraviolet-laser-puls.jpg",
+      "publishedAt": "2026-10-10T21:20:01Z",
+      "content": "by Emmanuel E. UmukoroWhen we think about a diamond, we often think about a material whose value comes from its perfection. In my research, however, I am interested in something almost opposite: the … [+8711 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Techlicious"
+      },
+      "author": "Josh Kirschner",
+      "title": "Scientists may have found a clue to why octopuses are so smart - Yahoo",
+      "description": "A University of Vienna study suggests the way octopus DNA is folded inside cells may have helped these animals evolve their remarkably complex brains.",
+      "url": "https://www.techlicious.com/blog/scientists-may-have-found-a-clue-to-why-octopuses-are-so-smart/",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/b824cf8bbbb80fc01f596f4294439c9fb002b20a8832d8dac23ff129eac469e7/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftechlicious_741%2F3c78eeb4f9458045f1d9a74d48cc3494.jpg",
+      "publishedAt": "2026-10-10T20:05:48Z",
+      "content": "Octopuses can open jars, solve puzzles, and change color in a split second to match their environment. Scientists have long wondered how a soft-bodied relative of clams and scallops ended up with the… [+2716 chars]"
     },
     {
       "source": {
@@ -148,19 +278,6 @@
     {
       "source": {
         "id": null,
-        "name": "404media.co"
-      },
-      "author": "Becky Ferreira",
-      "title": "Scientists Detect Record-Breaking Radio Signal from the Ancient Universe - 404 Media",
-      "description": "A fast radio burst that traveled across 10 billion light years reached Earth in 2024, doubling the distance record for these unexplained and energetic signals from space.",
-      "url": "https://www.404media.co/scientists-detect-record-breaking-radio-signal-from-the-ancient-universe/",
-      "urlToImage": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/10/data-src-image-02cd3a93-7457-47d8-b9e5-c9ccbf8b5223-1.jpeg",
-      "publishedAt": "2026-10-10T11:04:21Z",
-      "content": "Welcome back to the Abstract! Here are the studies this week that spotted a blast from the past, opened a portal between realms, yakked it up, and rose from the ashes.  \r\nFirst, scientists have spott… [+8233 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "Global News"
       },
       "author": "Alessia Simona Maratta, Nicole Stillger",
@@ -212,19 +329,6 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "Retractionwatch.com"
-      },
-      "author": null,
-      "title": "Weekend reads: OpenAI’s preprint dump; Taylor & Francis to leave Informa; arXiv’s preprint cap - Retraction Watch",
-      "description": "If your week flew by — we know ours did — catch up here with what you might have missed. The week at Retraction Watch featured: Editor-in-chief resigns amid probes of alleged citation manipulation,…",
-      "url": "https://retractionwatch.com/2026/10/10/weekend-reads-openais-preprint-dump-taylor-francis-to-leave-informa-arxivs-preprint-cap/",
-      "urlToImage": "https://retractionwatch.com/wp-content/uploads/2024/01/rw.jpeg",
-      "publishedAt": "2026-10-10T10:00:00Z",
-      "content": "If your week flew by we know ours did catch up here with what you might have missed.\r\nThe week at Retraction Watch featured:\r\nIn case you missed the news, the Hijacked Journal Checker now has more th… [+4370 chars]"
-    },
-    {
-      "source": {
         "id": "wired",
         "name": "Wired"
       },
@@ -248,19 +352,6 @@
       "urlToImage": null,
       "publishedAt": "2026-10-10T09:00:32Z",
       "content": "At the Los Alamos National Laboratory, Mary Tsingou Menzel’s computer programming helped set the stage for chaos theory and other fields."
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Skyatnightmagazine.com"
-      },
-      "author": "Chris Lintott",
-      "title": "Betelgeuse has a companion star – so why hasn't Hubble been able to see it? Astronomers may finally have worked out where it's been hiding - BBC Sky at Night Magazine",
-      "description": "Why hasn't the Hubble Space Telescope been able to see Betelgeuse's companion star? Astronomers may finally have solved the mystery.",
-      "url": "https://www.skyatnightmagazine.com/news/why-cant-hubble-see-betelgeuse-companion-star",
-      "urlToImage": "https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/7c05fcb0-7a79-4c64-9752-81b63d70add8/19c6836e-2ae8-4596-9c7e-2ab7bdad16df/thumbnails/e4daae54-0e21-4f1c-9679-64f8cd841ae7.jpg?appId=9867779f-bbeb-44ef-a0d0-ca4e39424e99&platform=WEB&w=1200",
-      "publishedAt": "2026-10-10T05:47:55Z",
-      "content": "Since the great dimming that took place in 2019, Betelgeuse Orions shoulder and one of the best-known stars in the sky has presented us with new mysteries.\r\nAs astronomers turned telescopes to this e… [+4044 chars]"
     },
     {
       "source": {
@@ -303,45 +394,6 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "Space.com"
-      },
-      "author": "Robert Lea",
-      "title": "Mysterious 10-minute X-ray burst from a distant galaxy may have come from 2 dead stars colliding - Space",
-      "description": "\"When I saw the X-ray data from this new event, I realized something was up.\"",
-      "url": "https://www.space.com/astronomy/stars/mysterious-10-minute-x-ray-burst-from-a-distant-galaxy-may-have-come-from-2-dead-stars-colliding",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/snk3iAs8kmgZbQTtanvnVJ-1600-80.png",
-      "publishedAt": "2026-10-09T22:00:00Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Phys.Org"
-      },
-      "author": null,
-      "title": "Three quantum-inspired cores leave opposite fingerprints on the ringing of black holes - Phys.org",
-      "description": "Every black hole hides a question at its center. Einstein's theory predicts that whatever falls in is crushed into a singularity, a point of infinite density where the theory itself breaks down. Most physicists expect quantum gravity to replace that point wit…",
-      "url": "https://phys.org/news/2026-10-quantum-cores-fingerprints-black-holes.html",
-      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/three-quantum-inspired.jpg",
-      "publishedAt": "2026-10-09T21:40:01Z",
-      "content": "Every black hole hides a question at its center. Einstein's theory predicts that whatever falls in is crushed into a singularity, a point of infinite density where the theory itself breaks down. Most… [+8528 chars]"
-    },
-    {
-      "source": {
-        "id": "ars-technica",
-        "name": "Ars Technica"
-      },
-      "author": "Eric Berger",
-      "title": "NASA issues long-awaited call to industry for private space stations - Ars Technica",
-      "description": "We’ve made it clear that NASA will never give up its presence in low Earth orbit.\"",
-      "url": "https://arstechnica.com/space/2026/10/nasa-issues-long-awaited-call-to-industry-for-private-space-stations/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2012/11/323069main_s119e009662.jpg",
-      "publishedAt": "2026-10-09T21:34:09Z",
-      "content": null
-    },
-    {
-      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -369,15 +421,15 @@
     {
       "source": {
         "id": null,
-        "name": "Martha Stewart"
+        "name": "Phys.Org"
       },
-      "author": "https://www.facebook.com/marthastewart/",
-      "title": "What to Do If You Find Grubs in Your Lawn—and How to Stop Them From Killing Your Grass - Martha Stewart",
-      "description": "Grubs can be extremely detrimental for your plants and grass, so it’s important to remove them when you find them in your lawn. We asked pest control experts about the best removal methods—and how to keep them from coming back.",
-      "url": "https://www.marthastewart.com/found-grubs-in-lawn-12164768",
-      "urlToImage": "https://www.marthastewart.com/thmb/M_BX7Hk9ohMH76xNcFPgaVazz20=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-2270984396-ed1a5289cb0b4374a2020adc4533350c.jpg",
-      "publishedAt": "2026-10-09T19:00:00Z",
-      "content": "Grubs are beetle larvae that youll often find in your lawn or garden. Not only are they unsightly, but theyll also destroy your plants if left unchecked. Your first instinct after finding them may be… [+3792 chars]"
+      "author": null,
+      "title": "Fluorescent imaging tracks metabolism of cells in real time - Phys.org",
+      "description": "Cornell researchers have designed a new, faster form of two-photon fluorescence imaging for observing cell metabolism in real time, a method that could enable quicker screening of new therapeutic treatments. The findings were published Sept. 4 in Science Adva…",
+      "url": "https://phys.org/news/2026-10-fluorescent-imaging-tracks-metabolism-cells.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/fluorescent-imaging-tr.jpg",
+      "publishedAt": "2026-10-09T19:20:01Z",
+      "content": "Cornell researchers have designed a new, faster form of two-photon fluorescence imaging for observing cell metabolism in real time, a method that could enable quicker screening of new therapeutic tre… [+4572 chars]"
     },
     {
       "source": {
@@ -404,6 +456,19 @@
       "urlToImage": "https://scx2.b-cdn.net/gfx/news/2026/discovery-marks-the-fi.jpg",
       "publishedAt": "2026-10-09T18:20:12Z",
       "content": "A Jupiter-sized world just 7.5 light-years away is cloudy, chemically complex and, it turns out, more like home than anyone expected. Using the James Webb Space Telescope, Brittany Miles, assistant a… [+6144 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Phys.Org"
+      },
+      "author": null,
+      "title": "Strong magnetic fields could allow white dwarfs to grow beyond the Chandrasekhar limit - Phys.org",
+      "description": "When a dying star runs out of fuel and sheds its outer layers, its remaining core can become an approximately Earth-sized, extremely dense stellar remnant called a white dwarf. For a white dwarf that is not strongly rotating or magnetized, there is a well-kno…",
+      "url": "https://phys.org/news/2026-10-strong-magnetic-fields-white-dwarfs.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/2026/strong-magnetic-fields.jpg",
+      "publishedAt": "2026-10-09T17:20:19Z",
+      "content": "When a dying star runs out of fuel and sheds its outer layers, its remaining core can become an approximately Earth-sized, extremely dense stellar remnant called a white dwarf. For a white dwarf that… [+4905 chars]"
     },
     {
       "source": {
@@ -447,6 +512,19 @@
     {
       "source": {
         "id": null,
+        "name": "ScienceAlert"
+      },
+      "author": "Ivan Farkas",
+      "title": "Scientists Find a Strange Chemical Loop That May Have Helped Life Get Started - ScienceAlert",
+      "description": "Space rocks like Bennu contain key genetic ingredients such as sugar, which they delivered in explosive fashion to provide early Earth with another source of life-friendly materials.  Ribose is one such bio-essential sugar, some of which may have arrived from…",
+      "url": "https://www.sciencealert.com/scientists-find-a-strange-chemical-loop-that-may-have-helped-life-get-started",
+      "urlToImage": "https://www.sciencealert.com/images/2026/10/Untitled-Design-82.jpg",
+      "publishedAt": "2026-10-09T15:01:20Z",
+      "content": "Space rocks like Bennu contain key genetic ingredients such as sugar, which they delivered in explosive fashion to provide early Earth with another source of life-friendly materials. \r\nRibose is one … [+5858 chars]"
+    },
+    {
+      "source": {
+        "id": null,
         "name": "Live Science"
       },
       "author": "Kenna Hughes-Castleberry",
@@ -456,45 +534,6 @@
       "urlToImage": "https://cdn.mos.cms.futurecdn.net/M6f4fGcXbRNUcvRWoZqavg-1920-80.jpg",
       "publishedAt": "2026-10-09T15:00:00Z",
       "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ScienceAlert"
-      },
-      "author": "Ivan Farkas",
-      "title": "Scientists Find a Strange Chemical Loop That May Have Helped Life Get Started - Yahoo",
-      "description": "A fragile sugar from space found a way to protect itself.",
-      "url": "https://www.sciencealert.com/scientists-find-a-strange-chemical-loop-that-may-have-helped-life-get-started",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/087ad9936ce1dd3601058a1f32bfbc2c1a4420fe9c53e64655754785a41abdb8/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsciencealert_160%2Fc479ffe37beda223e6f189467510c4b2.jpg",
-      "publishedAt": "2026-10-09T15:00:00Z",
-      "content": "Space rocks like Bennu contain key genetic ingredients such as sugar, which they delivered in explosive fashion to provide early Earth with another source of life-friendly materials.\r\nRibose is one s… [+5698 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "New York Post"
-      },
-      "author": "Ben Cost",
-      "title": "See sunrise on Mars in breathtaking new NASA images — as mysterious, billion-year-old crags come into view - New York Post",
-      "description": "They could shed light on the “dawn” of Mars.",
-      "url": "https://nypost.com/2026/10/09/science/nasa-rover-captures-stunning-shot-of-mars-at-dawn/",
-      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/10/newspress-collage-wcal8qm4m-1791554913681.jpg?quality=75&strip=all&1791540547&w=1200",
-      "publishedAt": "2026-10-09T14:27:00Z",
-      "content": "Red dawn?\r\nNASA has released stunning images of Mars at dawn, revealing the planet’s mysterious cliffs in unprecedented detail.\r\nThe interplanetary photo-op comes courtesy of the space agency’s Curio… [+3062 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Phys.Org"
-      },
-      "author": "Paul Arnold",
-      "title": "Broken bones in ancient homes shed new light on Viking violence - Phys.org",
-      "description": "Fragmented bones and skull pieces found in hearths, beneath floors and in other domestic settings in early Scandinavian settlement sites are providing fresh insights into Iron Age and Viking Age violence.",
-      "url": "https://phys.org/news/2026-10-broken-bones-ancient-homes-viking.html",
-      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/broken-bones-in-ancien-2.jpg",
-      "publishedAt": "2026-10-09T14:20:26Z",
-      "content": "Fragmented bones and skull pieces found in hearths, beneath floors and in other domestic settings in early Scandinavian settlement sites are providing fresh insights into Iron Age and Viking Age viol… [+3889 chars]"
     },
     {
       "source": {
@@ -538,19 +577,6 @@
     {
       "source": {
         "id": null,
-        "name": "Phys.Org"
-      },
-      "author": null,
-      "title": "Physics model reveals fundamental trade-off between prediction and energy efficiency in intelligent systems - Phys.org",
-      "description": "Artificial intelligence is increasingly becoming part of our everyday lives, from digital assistants to robots that respond to their surroundings. Each of these capabilities is based on physical computational processes that consume energy. An international re…",
-      "url": "https://phys.org/news/2026-10-physics-reveals-fundamental-energy-efficiency.html",
-      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/the-price-of-rememberi.jpg",
-      "publishedAt": "2026-10-09T13:30:01Z",
-      "content": "Artificial intelligence is increasingly becoming part of our everyday lives, from digital assistants to robots that respond to their surroundings. Each of these capabilities is based on physical comp… [+4443 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "Popular Mechanics"
       },
       "author": "Darren Orf",
@@ -577,28 +603,15 @@
     {
       "source": {
         "id": null,
-        "name": "Phys.Org"
+        "name": "PetaPixel"
       },
-      "author": "Ingrid Fadelli",
-      "title": "Superconducting circuit links smaller photon groups into larger entangled states - Phys.org",
-      "description": "Quantum computers, computer systems that leverage the laws of quantum mechanics, store and process information using qubits (i.e., quantum bits). In many quantum computers, qubits are linked via entanglement, a quantum mechanical effect that connects particle…",
-      "url": "https://phys.org/news/2026-10-superconducting-circuit-links-smaller-photon.html",
-      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/a-strategy-to-link-gro.jpg",
-      "publishedAt": "2026-10-09T12:00:06Z",
-      "content": "Quantum computers, computer systems that leverage the laws of quantum mechanics, store and process information using qubits (i.e., quantum bits). In many quantum computers, qubits are linked via enta… [+5784 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Thetimes.com"
-      },
-      "author": "Rhys Blakely",
-      "title": "‘Manifest injustices’: top scientists are turning on Nobel prizes - The Times",
-      "description": "From winners getting lucky to worthy candidates being ignored, the business of distributing glory has led some to argue the honour needs updating",
-      "url": "https://www.thetimes.com/uk/science/article/nobel-prizes-science-fit-for-purpose-zd0r7px90",
-      "urlToImage": "https://www.thetimes.com/imageserver/image/ae233f58-29f6-4fb3-907a-834d1711fbdd.jpg?strip=all&format=webp&crop=1761px%2C991px%2C0px%2C226px&resize=1200",
-      "publishedAt": "2026-10-09T11:45:48Z",
-      "content": null
+      "author": "Matt Growcoot",
+      "title": "Curiosity Rover Snaps Another Banger Photo: A Martian Mountain at Dawn - PetaPixel",
+      "description": "Mars bathed in morning light.",
+      "url": "https://petapixel.com/2026/10/09/curiosity-rover-snaps-another-banger-photo-a-martian-mountain-at-dawn/",
+      "urlToImage": "https://petapixel.com/assets/uploads/2026/10/Yardang-Layer-Curiosity.jpg",
+      "publishedAt": "2026-10-09T11:44:01Z",
+      "content": "Wind-carved crags called yardangs on Mars. Cropped version of the panorama. | NASA/JPL-Caltech/MSSS\r\nThe Curiosity Rover is on a roll: NASA has released another stunning panorama captured by the extr… [+4029 chars]"
     },
     {
       "source": {
@@ -616,19 +629,6 @@
     {
       "source": {
         "id": null,
-        "name": "Phys.Org"
-      },
-      "author": null,
-      "title": "3D genome 'entanglement' may explain how cephalopods evolved complex brains - Phys.org",
-      "description": "Octopuses, squid and cuttlefish, collectively known as coleoid cephalopods, have evolved exceptionally large and elaborately structured nervous systems capable of complex behaviors such as problem-solving and rapid camouflage. A new study by scientists at the…",
-      "url": "https://phys.org/news/2026-10-3d-genome-entanglement-cephalopods-evolved.html",
-      "urlToImage": "https://scx2.b-cdn.net/gfx/news/2026/3d-structure-of-dna-ma.jpg",
-      "publishedAt": "2026-10-09T09:00:12Z",
-      "content": "Octopuses, squid and cuttlefish, collectively known as coleoid cephalopods, have evolved exceptionally large and elaborately structured nervous systems capable of complex behaviors such as problem-so… [+3606 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "Medical Xpress"
       },
       "author": null,
@@ -638,19 +638,6 @@
       "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/elder.jpg",
       "publishedAt": "2026-10-09T09:00:01Z",
       "content": "A new study published in Nature Aging combines mouse experiments and human data sets to explore how biological sex and aging shape cancer immunity, with implications for immunotherapy responses. Lutz… [+5372 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Science Daily"
-      },
-      "author": null,
-      "title": "A quantum prediction from 1931 just came to life - ScienceDaily",
-      "description": "Nearly a century after physicist Hans Bethe predicted them, scientists have created and directly observed unusual quantum states known as “Bethe strings” in an ultracold gas. By cooling cesium atoms to near absolute zero and trapping them in thousands of tiny…",
-      "url": "https://www.sciencedaily.com/releases/2026/10/261006234517.htm",
-      "urlToImage": "https://www.sciencedaily.com/images/1920/bethe-strings-ultracold-atoms.webp",
-      "publishedAt": "2026-10-09T08:27:15Z",
-      "content": "Nearly a century after Nobel laureate Hans Bethe predicted their existence, scientists have created and observed unusual quantum structures known as \"Bethe strings\" using ultracold atoms. The experim… [+4284 chars]"
     },
     {
       "source": {
@@ -690,19 +677,6 @@
       "urlToImage": "https://static01.nyt.com/images/2026/10/07/multimedia/07xp-songbird-pants/07xp-songbird-pants-mediumSquareAt3X.jpg",
       "publishedAt": "2026-10-09T00:36:29Z",
       "content": "Two men, who arrived separately from Cuba days apart, each carried clutches of live birds concealed in their clothes, the authorities said."
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Sci.news"
-      },
-      "author": "Sergio Prostak",
-      "title": "Honeybee Swarms Have Been Misread for Centuries, Biologists Say - Sci.News",
-      "description": "In a new review paper, Dr. Hannes Bonhoff of Lund University and Dr. Heikki Helanterä from the University of Oulu argue that the departing swarm represents the parent colony leaving with its queen, while afterswarms may allow it to produce multiple offspring.",
-      "url": "https://www.sci.news/biology/honeybee-colony-15118.html",
-      "urlToImage": "https://cdn.sci.news/images/2021/12/image_10334f-Apis-mellifera.jpg",
-      "publishedAt": "2026-10-09T00:35:14Z",
-      "content": "In a new review paper, Dr. Hannes Bonhoff of Lund University and Dr. Heikki Helanterä from the University of Oulu argue that the departing swarm represents the parent colony leaving with its queen, w… [+5291 chars]"
     },
     {
       "source": {
@@ -781,19 +755,6 @@
       "urlToImage": "https://static01.nyt.com/images/2026/09/01/multimedia/00xp-brennan-vwzq/00xp-brennan-vwzq-mediumSquareAt3X.jpg",
       "publishedAt": "2026-10-08T18:00:16Z",
       "content": "The director, Michael Brennan, oversees 45 federal workers, including hurricane specialists and meteorologists."
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Phys.Org"
-      },
-      "author": null,
-      "title": "Puerto Rico specimen reveals new giant isopod species that went unrecognized for decades - Phys.org",
-      "description": "A giant isopod from Puerto Rico, rediscovered in the depository of the University of Tübingen's Paleontological Collection, has turned out to be a previously unknown species.",
-      "url": "https://phys.org/news/2026-10-puerto-rico-specimen-reveals-giant.html",
-      "urlToImage": "https://scx2.b-cdn.net/gfx/news/2026/tbingen-researchers-di.jpg",
-      "publishedAt": "2026-10-08T16:40:01Z",
-      "content": "A giant isopod from Puerto Rico, rediscovered in the depository of the University of Tübingen's Paleontological Collection, has turned out to be a previously unknown species.\r\nIts discovererspaleonto… [+4077 chars]"
     },
     {
       "source": {
@@ -889,15 +850,15 @@
     {
       "source": {
         "id": null,
-        "name": "Science Daily"
+        "name": "Listverse.com"
       },
-      "author": null,
-      "title": "A plastic once thought harmless may be fueling fatty liver disease - Science Daily",
-      "description": "One of the world&apos;s most common plastics may pose a hidden threat to liver health. Texas A&amp;M researchers discovered that polyethylene microplastics can contribute to fatty liver disease, with potentially worse effects when combined with an unhealthy d…",
-      "url": "https://www.sciencedaily.com/releases/2026/10/261008102718.htm",
-      "urlToImage": "https://www.sciencedaily.com/images/1920/human-liver-organ-damage.webp",
-      "publishedAt": "2026-10-08T07:00:00Z",
-      "content": "Microplastics have spread into nearly every corner of the environment. These tiny plastic particles have been found in ocean water, drinking water, and even inside the human body. Although their pres… [+6174 chars]"
+      "author": "Jana Louise Smit",
+      "title": "10 Astonishing Animal Abilities Scientists Never Saw Coming - Listverse",
+      "description": "Animal behavior often seems predictable. Swallows follow the summer, ants build colonies, and most creatures run when they encounter a predator or wildfire. But nature keeps throwing researchers curveballs, sometimes from species humans have studied for centu…",
+      "url": "https://listverse.com/2026/10/08/10-times-animals-did-something-nobody-expected/",
+      "urlToImage": "https://listverse.com/wp-content/uploads/2026/10/shutterstock_121849525_seal-1200x675.jpg",
+      "publishedAt": "2026-10-08T07:20:49Z",
+      "content": null
     },
     {
       "source": {
@@ -928,19 +889,6 @@
     {
       "source": {
         "id": null,
-        "name": "Sci.news"
-      },
-      "author": "Enrico de Lazaro",
-      "title": "Giant Fossil Turtle Found in Peru was Among Largest Freshwater Turtles Ever Known - Sci.News",
-      "description": "Roughly 10 to 15 million years ago, an extinct species of side-neck turtle called Chelus colombiana inhabited the vast wetlands of what is now northern South America.",
-      "url": "https://www.sci.news/paleontology/chelus-colombiana-15116.html",
-      "urlToImage": "https://cdn.sci.news/images/2026/10/image_15116f-Chelus-colombiana.jpg",
-      "publishedAt": "2026-10-08T00:04:23Z",
-      "content": "Roughly 10 to 15 million years ago, an extinct species of side-neck turtle called Chelus colombiana inhabited the vast wetlands of what is now northern South America. A newly described shell from the… [+3478 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "ScienceAlert"
       },
       "author": "Esra Öz",
@@ -950,32 +898,6 @@
       "urlToImage": "https://www.sciencealert.com/images/2026/10/VirusBrain.jpg",
       "publishedAt": "2026-10-07T22:01:05Z",
       "content": "Some pieces of our DNA can copy themselves into new locations. Copies derived from one gene active in human brain cells appear to have taken that journey further: into a virus.\r\nResearchers found two… [+5412 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Phys.Org"
-      },
-      "author": null,
-      "title": "Undergraduate student may have solved puzzle regarding isolated galaxies that have stopped producing stars - Phys.org",
-      "description": "An undergraduate astrophysics student at UC Berkeley has found three unusual galaxies—cataloged as Shapiro Dwarf Galaxies I, II and III. Each galaxy is far from other galaxies and has stopped making stars, a combination that is extremely rare. The discovery, …",
-      "url": "https://phys.org/news/2026-10-undergraduate-student-puzzle-isolated-galaxies.html",
-      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/undergraduate-student.jpg",
-      "publishedAt": "2026-10-07T21:20:11Z",
-      "content": "An undergraduate astrophysics student at UC Berkeley has found three unusual galaxiescataloged as Shapiro Dwarf Galaxies I, II and III. Each galaxy is far from other galaxies and has stopped making s… [+6285 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Phys.Org"
-      },
-      "author": null,
-      "title": "Acoustic experiments confirm topology can persist at gapless critical points - Phys.org",
-      "description": "Two studies on critical topology have recently been published in the journal Nature. These studies were led by the teams of Prof. Baile Zhang at Nanyang Technological University, Singapore, and Prof. Jianhua Jiang at the University of Science and Technology o…",
-      "url": "https://phys.org/news/2026-10-acoustic-topology-persist-gapless-critical.html",
-      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/topological.jpg",
-      "publishedAt": "2026-10-07T20:40:20Z",
-      "content": "Two studies on critical topology have recently been published in the journal Nature. These studies were led by the teams of Prof. Baile Zhang at Nanyang Technological University, Singapore, and Prof.… [+8660 chars]"
     },
     {
       "source": {
@@ -1005,19 +927,6 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "Nature.com"
-      },
-      "author": null,
-      "title": "RNA catalysis emerges from dynamic structural ensembles - Nature",
-      "description": "RNase P RNA forms shifting active and inactive conformers whose catalytic activity depends on Mg2+-driven tertiary-interaction dynamics, which are modulated by binding of accessory proteins.",
-      "url": "https://www.nature.com/articles/s41586-026-11140-z",
-      "urlToImage": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-11140-z/MediaObjects/41586_2026_11140_Fig1_HTML.png",
-      "publishedAt": "2026-10-07T17:09:02Z",
-      "content": "<li>Draper, D. E., Grilley, D. &amp; Soto, A. M. Ions and RNA folding. Annu. Rev. Biophys. Biomol. Struct.34, 221243 https://doi.org/10.1146/annurev.biophys.34.040204.144511 (2005).\r\nArticle \r\n CAS \r… [+11929 chars]"
-    },
-    {
-      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -1028,19 +937,6 @@
       "urlToImage": "https://static01.nyt.com/images/2026/10/07/multimedia/07dc-hiv-new-cmpg/07dc-hiv-new-cmpg-mediumSquareAt3X.jpg",
       "publishedAt": "2026-10-07T16:33:19Z",
       "content": "The networks also develop treatments and preventions for other infectious diseases and were instrumental in testing the Covid vaccine."
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Big Think"
-      },
-      "author": "Henry Shevlin",
-      "title": "If AI becomes conscious, how would we treat it? Animals may hold a clue. - Big Think",
-      "description": "Our beliefs about AI consciousness may depend less on evidence and more on self-interest.",
-      "url": "https://bigthink.com/philosophy/ai-consciousness/",
-      "urlToImage": "https://bigthink.com/wp-content/uploads/2026/10/cat.jpg?resize=1200,630",
-      "publishedAt": "2026-10-07T16:00:00Z",
-      "content": null
     },
     {
       "source": {
@@ -1122,6 +1018,19 @@
     },
     {
       "source": {
+        "id": null,
+        "name": "Live Science"
+      },
+      "author": "Kristina Killgrove",
+      "title": "Archaeologists discover a child's skull built into the floor of a 2,500-year-old Scandinavian house - Yahoo",
+      "description": "A study of nearly 200 individuals buried in domestic contexts in ancient and Viking Age Scandinavia has revealed unusually high levels of violence.",
+      "url": "https://www.livescience.com/archaeology/vikings/archaeologists-discover-a-childs-skull-built-into-the-floor-of-a-2-500-year-old-scandinavian-house",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/1323c9e8ae464271d856de76e3e8b2658d2067bd879304a15231f82c769edde3/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Flive_science_953%2F133c22507661aeffdfac2f335ead74c4.png",
+      "publishedAt": "2026-10-06T20:22:45Z",
+      "content": "When you buy through links on our articles, Future and its syndication partners may earn a commission.\r\nThe skull of a Viking Age woman whose remains were found near Aarhus, Denmark. The skull bears … [+4622 chars]"
+    },
+    {
+      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -1187,16 +1096,16 @@
     },
     {
       "source": {
-        "id": "cnn",
-        "name": "CNN"
+        "id": null,
+        "name": "BBC News"
       },
-      "author": "Issy Ronald, Katie Hunt",
-      "title": "Nobel Prize in physics awarded to Francis Halzen for his work detecting ‘ghostly’ cosmic particles - CNN",
-      "description": "The 2026 Nobel Prize in physics has been awarded to Francis Halzen, a pioneering Belgian astrophysicist whose work developing a massive observatory in Antarctica to detect “ghostly” cosmic particles laid the foundations for an “entirely new type of astronomy.”",
-      "url": "https://www.cnn.com/2026/10/06/science/nobel-prize-physics-francis-halzen-winner-intl",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2298423047.jpg?c=16x9&q=w_800,c_fill",
-      "publishedAt": "2026-10-06T09:54:18Z",
-      "content": "The 2026 Nobel Prize in physics has been awarded to Francis Halzen, a pioneering Belgian astrophysicist whose work developing a massive observatory in Antarctica to detect ghostly cosmic particles la… [+4144 chars]"
+      "author": null,
+      "title": "'Ghost particles' from space telescope wins physics Nobel - BBC",
+      "description": "Belgian physicist Prof Francis Halzen has won for his pioneering work on an observatory that detects particles from space.",
+      "url": "https://www.bbc.com/news/articles/cq203mymlvkeo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/73fd/live/3d7299c0-c16e-11f1-a003-8be783290413.jpg",
+      "publishedAt": "2026-10-06T11:24:19Z",
+      "content": "\"'The only true voyage of discovery, the only fountain of Eternal Youth, would be not to visit strange lands but to possess other eyes, to behold the universe through the eyes of another, of a hundre… [+90 chars]"
     },
     {
       "source": {
@@ -1216,19 +1125,6 @@
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
-      "author": "Carolyn Y. Johnson and Leo Sands",
-      "title": "Nobel Prize in Physiology or Medicine Is Awarded for Discoveries in Neuroscience",
-      "description": "Karl Deisseroth, Peter Hegemann and Georg Nagel were recognized for their work on light-gated ion channels and optogenetics, a technique that uses pulses of light to activate neurons in the brain.",
-      "url": "https://www.nytimes.com/2026/10/05/health/nobel-prize-medicine-physiology.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/10/05/multimedia/05SCI-nobel-medicin-01-tfkh/05SCI-nobel-medicin-01-tfkh-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-10-05T21:09:36Z",
-      "content": "Karl Deisseroth, Peter Hegemann and Georg Nagel were recognized for their work on light-gated ion channels and optogenetics, a technique that uses pulses of light to activate neurons in the brain."
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
       "author": "Karen Zraick and Claire Brown",
       "title": "Why Cities and States Are Fighting Climate Change in Courtrooms",
       "description": "Faced with a president who has called global warming a hoax, officials have filed dozens of suits against oil companies to try to cover the costs of extreme weather.",
@@ -1236,45 +1132,6 @@
       "urlToImage": "https://static01.nyt.com/images/2026/10/05/multimedia/05cli-scotus-mhkl/05cli-scotus-mhkl-mediumSquareAt3X.jpg",
       "publishedAt": "2026-10-05T20:40:33Z",
       "content": "Faced with a president who has called global warming a hoax, officials have filed dozens of suits against oil companies to try to cover the costs of extreme weather."
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "author": "Bill Wasik",
-      "title": "What Are the Biggest Questions in Science Today? 100 Scientists Weigh In.",
-      "description": "We asked 100 scientists about unsolved problems in their fields. They sent back provocations — on the origins of life, the possibilities for human progress and much more.",
-      "url": "https://www.nytimes.com/2026/10/05/science/100-unanswered-questions-science.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/09/30/science/05SCI-UNKNOWNS-LIST-question-hp-32/05SCI-UNKNOWNS-LIST-question-hp-32-mediumSquareAt3X-v2.jpg",
-      "publishedAt": "2026-10-05T20:33:56Z",
-      "content": "We asked 100 scientists about unsolved problems in their fields. They sent back provocations — on the origins of life, the possibilities for human progress and much more."
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "KTLA Los Angeles"
-      },
-      "author": "Jocelyn Fiset",
-      "title": "Longtime surfers are being diagnosed with this strange condition - KTLA",
-      "description": "Researchers in Orange County are helping identify a condition unique to longtime surfers that may be mistaken for cancer. Dermatology Professor Dr. Jeffrey Klein at UC Irvine led research into identifying the fatty, benign growths, called “liposurfomas,” that…",
-      "url": "https://ktla.com/news/california/liposurfomas-surfers-chest-growths/",
-      "urlToImage": "https://ktla.com/wp-content/uploads/sites/4/2026/10/surfer-paddling.jpg?w=1280",
-      "publishedAt": "2026-10-05T20:29:12Z",
-      "content": "Researchers in Orange County are helping identify a condition unique to longtime surfers that may be mistaken for cancer.\r\nDermatology Professor Dr. Jeffrey Klein at UC Irvine led research into ident… [+1267 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Thetrek.co"
-      },
-      "author": "Peg Leg",
-      "title": "Everything I’m Taking with Me on the Arizona Trail - The Trek",
-      "description": "Here is all of the gear that I am packing to hike the 800 mile Arizona Trail for the next month. Some gear items I have never tried before!",
-      "url": "https://thetrek.co/everything-im-taking-with-me-on-the-arizona-trail/",
-      "urlToImage": "https://photos.thetrek.co/wp-content/uploads/2026/10/05115220/IMG_0226.jpeg",
-      "publishedAt": "2026-10-05T18:06:34Z",
-      "content": "With another season of thru hiking approaching, I wanted to share with you all exactly what gear I will be using for my next adventure. I find that gear lists tend to be pretty short when hikers shar… [+11338 chars]"
     },
     {
       "source": {
@@ -1291,16 +1148,29 @@
     },
     {
       "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
+        "id": null,
+        "name": "Big Think"
       },
-      "author": "Christina Jewett",
-      "title": "Texas Pediatricians Face Paxton Investigations for Vaccinating Children",
-      "description": "Ken Paxton, the Texas attorney general and Republican Senate candidate, has alleged a sprawling profit-driven conspiracy. Pediatricians say the accusations are an attempt at intimidation.",
-      "url": "https://www.nytimes.com/2026/10/05/health/ken-paxton-pediatricians-vaccines.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/10/01/multimedia/XXDC-Pediatrician-vaccines-top-tzph/XXDC-Pediatrician-vaccines-top-tzph-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-10-05T15:46:37Z",
-      "content": "Ken Paxton, the Texas attorney general and Republican Senate candidate, has alleged a sprawling profit-driven conspiracy. Pediatricians say the accusations are an attempt at intimidation."
+      "author": "Dirk Schulze-Makuch, Tony Reichhardt",
+      "title": "The leading theory of how life began just hit a snag - Big Think",
+      "description": "It has some researchers taking a second look at other hypotheses that have been proposed — and mostly discarded — in the past.",
+      "url": "https://bigthink.com/science-tech/the-leading-theory-of-how-life-began-just-hit-a-snag/",
+      "urlToImage": "https://bigthink.com/wp-content/uploads/2026/10/origin-of-life_compressed_e352ef.jpg?resize=1200,630",
+      "publishedAt": "2026-10-05T14:07:04Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "TOI Science Desk",
+      "title": "ESA's Jupiter-bound spacecraft changed direction by 20 degrees and gained 3.5 km/s in speed using Earth’s - The Times of India",
+      "description": "The European Space Agency's (ESA) Jupiter Icy Moons Explorer, known as Juice, used Earth’s gravity as a cosmic slingshot on September 28, 2026, reshaping",
+      "url": "https://timesofindia.indiatimes.com/science/space/esas-juice-spacecraft-flew-just-8640-km-above-earth-and-used-the-planets-gravity-to-gain-3-5-km/s-and-turn-20-degrees-the-fuel-saving-manoeuvre-keeps-it-on-course-to-reach-jupiter-in-2031/articleshow/134688278.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-134688667,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-10-05T07:00:00Z",
+      "content": "<ul><li>News</li>\r\n<li>Science News</li>\r\n<li>ESA's Jupiter-bound spacecraft changed direction by 20 degrees and gained 3.5 km/s in speed using Earths gravity; ESAs Juice spacecraft needed no major e… [+1867 chars]"
     }
   ]
 }

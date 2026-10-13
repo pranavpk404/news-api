@@ -6,9 +6,22 @@
     "newsapi",
     "rss"
   ],
-  "fetched_at": "2026-10-13T08:32:58.709536+00:00",
+  "fetched_at": "2026-10-13T17:10:26.395701+00:00",
   "articles_count": 37,
   "articles": [
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Robert Kolker",
+      "title": "Will We Ever Understand Dementia?",
+      "description": "Since the days of Dr. Alzheimer himself, there has been a dream that severe senility might have an explanation — and a cure. The search for both has never been more urgent.",
+      "url": "https://www.nytimes.com/2026/10/10/science/will-we-ever-understand-dementia.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/10/05/multimedia/00sci-unknowns-dementia-02-kfvt/00sci-unknowns-dementia-02-kfvt-mediumSquareAt3X-v2.jpg",
+      "publishedAt": "2026-10-13T16:19:22Z",
+      "content": "Since the days of Dr. Alzheimer himself, there has been a dream that severe senility might have an explanation — and a cure. The search for both has never been more urgent."
+    },
     {
       "source": {
         "id": "the-new-york-times",
@@ -19,8 +32,47 @@
       "description": "Advances in self-driving technology have made it easier to traverse distant worlds.",
       "url": "https://www.nytimes.com/2026/10/12/science/mars-rover-sets-record.html",
       "urlToImage": "https://static01.nyt.com/images/2026/09/02/multimedia/00sci-mars-rover-stillpromo-gjqz/00sci-mars-rover-stillpromo-gjqz-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-10-13T01:20:10Z",
+      "publishedAt": "2026-10-13T14:09:45Z",
       "content": "Advances in self-driving technology have made it easier to traverse distant worlds."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Scott Dance",
+      "title": "How a Logging Industry Downturn Fuels Wildfires",
+      "description": "Loggers are finding it impossible to profitably harvest some federal forests. That leaves more fuel for fires to accumulate.",
+      "url": "https://www.nytimes.com/2026/10/13/climate/timber-industry-wildfire-risk.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/10/07/multimedia/00cli-timber-industry-01-gwzf/00cli-timber-industry-01-gwzf-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-10-13T09:01:51Z",
+      "content": "Loggers are finding it impossible to profitably harvest some federal forests. That leaves more fuel for fires to accumulate."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Jack Tamisiea",
+      "title": "What Can Four-Winged Dinosaurs Teach Us About Birds?",
+      "description": "Flight was probably more widespread in dinosaurs than previously thought. A newly identified species sheds light on how some achieved liftoff.",
+      "url": "https://www.nytimes.com/2026/10/13/science/four-winged-dinosaur-early-birds-flight.html",
+      "urlToImage": null,
+      "publishedAt": "2026-10-13T09:01:47Z",
+      "content": "Flight was probably more widespread in dinosaurs than previously thought. A newly identified species sheds light on how some achieved liftoff."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Natalie Wolchover",
+      "title": "There’s Worlds Out There More Habitable Than Earth",
+      "description": "Scientists believe there are planets outside our solar system where life is even more abundant and sustainable.",
+      "url": "https://www.nytimes.com/2026/10/13/science/inhabitable-planets-solar-system.html",
+      "urlToImage": null,
+      "publishedAt": "2026-10-13T09:00:44Z",
+      "content": "Scientists believe there are planets outside our solar system where life is even more abundant and sustainable."
     },
     {
       "source": {
@@ -99,19 +151,6 @@
       "urlToImage": "https://static01.nyt.com/images/2026/10/11/science/11SCI-CONVERSATION-VIKINGS-stillpromo/11SCI-CONVERSATION-VIKINGS-stillpromo-mediumSquareAt3X.jpg",
       "publishedAt": "2026-10-11T09:00:35Z",
       "content": "“The Sea-King and the Sorceress” examines the lives and deaths of the diverse people who called themselves Vikings."
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "author": "Robert Kolker",
-      "title": "Will We Ever Understand Dementia?",
-      "description": "Since the days of Dr. Alzheimer himself, there has been a dream that severe senility might have an explanation — and a cure. The search for both has never been more urgent.",
-      "url": "https://www.nytimes.com/2026/10/10/science/will-we-ever-understand-dementia.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/10/05/multimedia/00sci-unknowns-dementia-02-kfvt/00sci-unknowns-dementia-02-kfvt-mediumSquareAt3X-v2.jpg",
-      "publishedAt": "2026-10-10T14:28:24Z",
-      "content": "Since the days of Dr. Alzheimer himself, there has been a dream that severe senility might have an explanation — and a cure. The search for both has never been more urgent."
     },
     {
       "source": {
@@ -450,45 +489,6 @@
       "urlToImage": "https://static01.nyt.com/images/2026/10/06/multimedia/06cli-nuclear-pmbv/06cli-nuclear-pmbv-mediumSquareAt3X.jpg",
       "publishedAt": "2026-10-06T19:37:09Z",
       "content": "It takes a long time to build new nuclear plants. So, some U.S. companies are looking to get more electricity out of reactors that already exist."
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "author": "Zeyi Yang",
-      "title": "In Race With U.S., China Struggles to Recruit Foreign A.I. Researchers",
-      "description": "China’s booming artificial intelligence sector has given local researchers good reason to remain in the country, but it has yet to lure overseas scientists despite a government push.",
-      "url": "https://www.nytimes.com/2026/10/06/science/china-ai-research-recruitment.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/10/05/multimedia/05sci-china-ai-researchers-01-gfjc/05sci-china-ai-researchers-01-gfjc-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-10-06T17:00:15Z",
-      "content": "China’s booming artificial intelligence sector has given local researchers good reason to remain in the country, but it has yet to lure overseas scientists despite a government push."
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "author": "Aurelien Breeden and Katrina Miller",
-      "title": "Nobel Prize in Physics Is Awarded to Francis Halzen for Work on Neutrinos",
-      "description": "The Nobel Committee honored Francis Halzen for his “vision and scientific leadership” of a telescope within the ice at the South Pole.",
-      "url": "https://www.nytimes.com/2026/10/06/science/nobel-prize-physics.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/10/06/multimedia/06SCI-nobel-physics-wvgp/06SCI-nobel-physics-wvgp-mediumSquareAt3X-v3.jpg",
-      "publishedAt": "2026-10-06T16:36:32Z",
-      "content": "The Nobel Committee honored Francis Halzen for his “vision and scientific leadership” of a telescope within the ice at the South Pole."
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "author": "Raymond Zhong, Giacomo d’Orlando and Mira Rojanasakul",
-      "title": "Melting Swiss Glaciers Release Archaeological Treasures",
-      "description": "Archaeologists are scouring mountain passes as artifacts from a bygone world all but tumble out of Switzerland’s shrinking ice.",
-      "url": "https://www.nytimes.com/2026/10/06/climate/glacier-archaeology-melting-alps.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/10/04/multimedia/04cli-glacier-archaeology-01-tzlw/04cli-glacier-archaeology-01-tzlw-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-10-06T15:01:15Z",
-      "content": "Archaeologists are scouring mountain passes as artifacts from a bygone world all but tumble out of Switzerland’s shrinking ice."
     }
   ],
   "query": "science research discovery space"

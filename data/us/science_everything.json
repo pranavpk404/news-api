@@ -6,9 +6,22 @@
     "newsapi",
     "rss"
   ],
-  "fetched_at": "2026-10-12T19:25:19.774858+00:00",
+  "fetched_at": "2026-10-13T01:39:14.402757+00:00",
   "articles_count": 37,
   "articles": [
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Kenneth Chang",
+      "title": "NASA’s Perseverance Rover Sets a Mars Driving Record",
+      "description": "Advances in self-driving technology have made it easier to traverse distant worlds.",
+      "url": "https://www.nytimes.com/2026/10/12/science/mars-rover-sets-record.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/09/02/multimedia/00sci-mars-rover-stillpromo-gjqz/00sci-mars-rover-stillpromo-gjqz-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-10-13T01:20:09Z",
+      "content": "Advances in self-driving technology have made it easier to traverse distant worlds."
+    },
     {
       "source": {
         "id": "the-new-york-times",
@@ -476,19 +489,6 @@
       "urlToImage": "https://static01.nyt.com/images/2026/10/04/multimedia/04cli-glacier-archaeology-01-tzlw/04cli-glacier-archaeology-01-tzlw-mediumSquareAt3X.jpg",
       "publishedAt": "2026-10-06T15:01:15Z",
       "content": "Archaeologists are scouring mountain passes as artifacts from a bygone world all but tumble out of Switzerland’s shrinking ice."
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "author": "Karen Zraick and Claire Brown",
-      "title": "Why Cities and States Are Fighting Climate Change in Courtrooms",
-      "description": "Faced with a president who has called global warming a hoax, officials have filed dozens of suits against oil companies to try to cover the costs of extreme weather.",
-      "url": "https://www.nytimes.com/2026/10/05/climate/climate-lawsuits-courts-boulder-oil.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/10/05/multimedia/05cli-scotus-mhkl/05cli-scotus-mhkl-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-10-05T20:40:33Z",
-      "content": "Faced with a president who has called global warming a hoax, officials have filed dozens of suits against oil companies to try to cover the costs of extreme weather."
     }
   ],
   "query": "science research discovery space"

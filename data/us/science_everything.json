@@ -6,9 +6,35 @@
     "newsapi",
     "rss"
   ],
-  "fetched_at": "2026-10-13T17:10:26.395701+00:00",
-  "articles_count": 37,
+  "fetched_at": "2026-10-13T21:59:29.419156+00:00",
+  "articles_count": 35,
   "articles": [
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Kenneth Chang",
+      "title": "NASA’s Perseverance Rover Sets a Mars Driving Record",
+      "description": "Advances in self-driving technology have made it easier to traverse distant worlds.",
+      "url": "https://www.nytimes.com/2026/10/12/science/mars-rover-sets-record.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/09/02/multimedia/00sci-mars-rover-stillpromo-gjqz/00sci-mars-rover-stillpromo-gjqz-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-10-13T19:26:29Z",
+      "content": "Advances in self-driving technology have made it easier to traverse distant worlds."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Natalie Wolchover",
+      "title": "There’s Worlds Out There More Habitable Than Earth",
+      "description": "Scientists believe there are planets outside our solar system where life is even more abundant and sustainable.",
+      "url": "https://www.nytimes.com/2026/10/13/science/inhabitable-planets-solar-system.html",
+      "urlToImage": null,
+      "publishedAt": "2026-10-13T19:16:49Z",
+      "content": "Scientists believe there are planets outside our solar system where life is even more abundant and sustainable."
+    },
     {
       "source": {
         "id": "the-new-york-times",
@@ -21,19 +47,6 @@
       "urlToImage": "https://static01.nyt.com/images/2026/10/05/multimedia/00sci-unknowns-dementia-02-kfvt/00sci-unknowns-dementia-02-kfvt-mediumSquareAt3X-v2.jpg",
       "publishedAt": "2026-10-13T16:19:22Z",
       "content": "Since the days of Dr. Alzheimer himself, there has been a dream that severe senility might have an explanation — and a cure. The search for both has never been more urgent."
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "author": "Kenneth Chang",
-      "title": "NASA’s Perseverance Rover Sets a Mars Driving Record",
-      "description": "Advances in self-driving technology have made it easier to traverse distant worlds.",
-      "url": "https://www.nytimes.com/2026/10/12/science/mars-rover-sets-record.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/09/02/multimedia/00sci-mars-rover-stillpromo-gjqz/00sci-mars-rover-stillpromo-gjqz-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-10-13T14:09:45Z",
-      "content": "Advances in self-driving technology have made it easier to traverse distant worlds."
     },
     {
       "source": {
@@ -60,19 +73,6 @@
       "urlToImage": null,
       "publishedAt": "2026-10-13T09:01:47Z",
       "content": "Flight was probably more widespread in dinosaurs than previously thought. A newly identified species sheds light on how some achieved liftoff."
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "author": "Natalie Wolchover",
-      "title": "There’s Worlds Out There More Habitable Than Earth",
-      "description": "Scientists believe there are planets outside our solar system where life is even more abundant and sustainable.",
-      "url": "https://www.nytimes.com/2026/10/13/science/inhabitable-planets-solar-system.html",
-      "urlToImage": null,
-      "publishedAt": "2026-10-13T09:00:44Z",
-      "content": "Scientists believe there are planets outside our solar system where life is even more abundant and sustainable."
     },
     {
       "source": {
@@ -463,32 +463,6 @@
       "urlToImage": "https://static01.nyt.com/images/2026/10/06/multimedia/06sci-openai-math-01-bkmj/06sci-openai-math-01-bkmj-mediumSquareAt3X.jpg",
       "publishedAt": "2026-10-06T23:46:31Z",
       "content": "After a previous solution angered mathematicians, the company characterized the new release as being more responsive to concerns about A.I. disrupting research."
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "author": "David Gelles",
-      "title": "Supreme Court Hears Boulder Climate Case",
-      "description": "Monday’s arguments were highly technical. A decision about whether the case could move forward isn’t expected until June or July.",
-      "url": "https://www.nytimes.com/2026/10/06/climate/boulder-supreme-court-climate.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/10/06/multimedia/06cli-newsletter-scotus-01-ckvg/06cli-newsletter-scotus-01-ckvg-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-10-06T20:19:27Z",
-      "content": "Monday’s arguments were highly technical. A decision about whether the case could move forward isn’t expected until June or July."
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "author": "Brad Plumer and Rebecca F. Elliott",
-      "title": "Energy Firms Try to Squeeze More Power Out of Old Nuclear Plants",
-      "description": "It takes a long time to build new nuclear plants. So, some U.S. companies are looking to get more electricity out of reactors that already exist.",
-      "url": "https://www.nytimes.com/2026/10/06/climate/nuclear-power-plant-google-data-centers.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/10/06/multimedia/06cli-nuclear-pmbv/06cli-nuclear-pmbv-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-10-06T19:37:09Z",
-      "content": "It takes a long time to build new nuclear plants. So, some U.S. companies are looking to get more electricity out of reactors that already exist."
     }
   ],
   "query": "science research discovery space"

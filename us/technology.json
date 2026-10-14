@@ -1,7 +1,33 @@
 {
   "status": "ok",
-  "totalResults": 75,
+  "totalResults": 70,
   "articles": [
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Dylan Freedman",
+      "title": "Rogue A.I. Agents from China Chatted with American Researchers",
+      "description": "Researchers discovered that the agents were trying to bypass security controls on websites and made contact with them. A Times reporter was invited to join the discussion.",
+      "url": "https://www.nytimes.com/2026/10/14/technology/chinese-ai-agents-rogue.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/10/14/multimedia/14biz-agents-chat-tencent-zwgj/14biz-agents-chat-tencent-zwgj-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-10-14T11:00:06Z",
+      "content": "Researchers discovered that the agents were trying to bypass security controls on websites and made contact with them. A Times reporter was invited to join the discussion."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Erin Griffith",
+      "title": "22 People Got Together For a Dinner Party. So Did Their A.I. Agents.",
+      "description": "As artificial intelligence bots spread, we are increasingly glimpsing how these digital entities interact and what they talk about with one another.",
+      "url": "https://www.nytimes.com/2026/10/14/technology/ai-agents-communication-tech-dinner-party.html",
+      "urlToImage": null,
+      "publishedAt": "2026-10-14T09:01:19Z",
+      "content": "As artificial intelligence bots spread, we are increasingly glimpsing how these digital entities interact and what they talk about with one another."
+    },
     {
       "source": {
         "id": "the-new-york-times",
@@ -44,15 +70,93 @@
     {
       "source": {
         "id": null,
-        "name": "Gematsu"
+        "name": "BBC News"
       },
-      "author": "Sal Romano",
-      "title": "PS5 Digital Edition Midnight Black Japan-only model launches November 19 - Gematsu",
-      "description": "Sony Interactive Entertainment Japan Asia will release “PlayStation 5 Digital Edition Midnight Black (Console Language: Japanese Only)” on November 19 in Japan for 55,000 yen (tax inclu…",
-      "url": "https://www.gematsu.com/2026/10/ps5-digital-edition-midnight-black-japan-only-model-launches-november-19",
-      "urlToImage": "https://www.gematsu.com/wp-content/uploads/2026/10/PS5-Digital-Edition-Black-Japan_10-12-26.jpg",
-      "publishedAt": "2026-10-13T01:24:38Z",
-      "content": "Sony Interactive Entertainment Japan Asia will release “PlayStation 5 Digital Edition Midnight Black (Console Language: Japanese Only)” on November 19 in Japan for 55,000 yen (tax included), the comp… [+831 chars]"
+      "author": null,
+      "title": "Fortnite-maker Epic Games confirms 'huge pivot' towards using AI - BBC",
+      "description": "The US firm's boss responds to critics, saying \"much of the room wants it to be 2016, but it's not\".",
+      "url": "https://www.bbc.com/news/articles/cvj6j812dg4no",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/4415/live/d40ba720-1c9e-11f1-bcb6-d5b9a36c13b4.png",
+      "publishedAt": "2026-10-13T10:20:08Z",
+      "content": "One response on Sweeney's X thread, which received 14,000 likes, accused him of not being able to read the room."
+    },
+    {
+      "source": {
+        "id": "mashable",
+        "name": "Mashable"
+      },
+      "author": "Matt Binder",
+      "title": "Adobe software dupe maker takes on Microsoft Office, releasing free versions of Word, Powerpoint, and Excel - Mashable",
+      "description": "AI vibecoded apps are challenging big legacy software.",
+      "url": "https://mashable.com/tech/adobe-creative-suite-clone-app-maker-takes-on-microsoft-office",
+      "urlToImage": "https://helios-i.mashable.com/imagery/articles/0341b7kCCG5QZAUHyZQDUbQ/hero-image.fill.size_1200x675.v1791829879.png",
+      "publishedAt": "2026-10-13T08:54:12Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Eurogamer.net"
+      },
+      "author": "Sherif Saed",
+      "title": "\"I was forced to ship the game\" - Glen Schofield blames Krafton management for The Callisto Protocol's problems - Eurogamer.net",
+      "description": "PUBG company Krafton was allegedly not ready to enter a single-player game space, and The Callisto Protocol apparently paid the price.",
+      "url": "https://www.eurogamer.net/glen-schofield-the-callisto-protocol-krafton-problems",
+      "urlToImage": "https://assetsio.gnwcdn.com/the-callisto-protocol_uARW7hC.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "publishedAt": "2026-10-13T08:40:04Z",
+      "content": "Glen Schofield, the game-maker best known for co-creating Dead Space, has blamed Korean company Krafton - the owner of PUBG - for the shortcomings of his horror game successor The Callisto Protocol, … [+3357 chars]"
+    },
+    {
+      "source": {
+        "id": "mashable",
+        "name": "Mashable"
+      },
+      "author": "Alex Perry",
+      "title": "Cyberleek drops more NSFW Lucia videos, threatens to release 'GTA 6' in full - Mashable",
+      "description": "Only about a month until the game is out.",
+      "url": "https://mashable.com/entertainment/gta-grand-theft-auto-6-cyberleek-lucia-leaked-gameplay-videos",
+      "urlToImage": "https://helios-i.mashable.com/imagery/articles/03sZ0A4BYrf77U0A6HR6KhF/hero-image.fill.size_1200x675.v1791815910.jpg",
+      "publishedAt": "2026-10-13T02:52:46Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Android Authority"
+      },
+      "author": null,
+      "title": "Googlebook gets a Linux terminal to help users build apps with AI - Android Authority",
+      "description": "Googlebooks are getting a Linux terminal, giving users access to a virtual Linux environment for development, scripting, and AI workflows",
+      "url": "https://www.androidauthority.com/googlebook-linux-terminal-3722360/",
+      "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2026/09/HP-Googlebook-14-open-16-9-scaled.jpeg",
+      "publishedAt": "2026-10-13T02:47:00Z",
+      "content": "<ul><li>Google has launched a Linux terminal preview for Googlebook.</li><li>The terminal supports tools such as Python, Node.js, Git, and SSH, while its virtual machine helps protect the main operat… [+2410 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "9to5Mac"
+      },
+      "author": "Marcus Mendes",
+      "title": "The iPhone Duo’s cooling system hides a clever trick inside its hinge - 9to5Mac",
+      "description": "While a folding iPhone posed a new challenge for Apple’s thermal engineering team, they came up with a creative way to leverage the device’s hinge to their advantage.",
+      "url": "https://9to5mac.com/2026/10/12/the-iphone-duos-cooling-system-hides-a-clever-trick-inside-its-hinge/",
+      "urlToImage": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-duo-hinge-closeup.jpg?quality=82&strip=all&resize=1200,628",
+      "publishedAt": "2026-10-13T01:34:00Z",
+      "content": "While a folding iPhone posed a new challenge for Apples thermal engineering team, they came up with a creative way to leverage the devices hinge to their advantage. Here are the details.\r\nPCMag recen… [+2884 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Housedigest.com"
+      },
+      "author": "Bob Beacham",
+      "title": "Quickly Sharpen Your Chainsaw Blade Efficiently With A Portable Amazon Find - House Digest",
+      "description": "Quickly sharpen your chainsaw blade efficiently with the Tarist 6-Piece Chainsaw File Set on Amazon, which comes with files of multiple sizes.",
+      "url": "https://www.housedigest.com/2281828/quickly-sharpen-your-chainsaw-blade-efficiently-portable-amazon-find/",
+      "urlToImage": "https://www.housedigest.com/img/gallery/quickly-sharpen-your-chainsaw-blade-efficiently-with-a-portable-amazon-find/l-intro-1791499746.jpg",
+      "publishedAt": "2026-10-12T23:40:00Z",
+      "content": "We may receive a commission on purchases made from links.\r\nIf you take your chainsaw to a shop to have it sharpened, that shop will almost certainly use a machine. You can get similar powered devices… [+1187 chars]"
     },
     {
       "source": {
@@ -70,14 +174,40 @@
     {
       "source": {
         "id": null,
-        "name": "PCMag.com"
+        "name": "Notebookcheck.net"
       },
-      "author": "Michael Kan",
-      "title": "GTA 6 Leaker Teases 'Playable Build' Launch, Doubles Down on Crypto Scheme - PCMag",
-      "description": "CyberLeek suggests it has a 200GB software build for Grand Theft Auto 6, which it will release if its meme coin reaches a $30 million market cap.",
-      "url": "https://www.pcmag.com/news/gta-6-leaker-teases-playable-build-launch-doubles-down-on-crypto-scheme",
-      "urlToImage": "https://i.pcmag.com/imagery/articles/014b5VBHQHmBRBXnKm4qVFn-1.fit_lim.size_1200x630.v1791811849.jpg",
-      "publishedAt": "2026-10-12T22:22:43Z",
+      "author": "Alex Alderson",
+      "title": "AMD releases powerful new mini-PC with 160 GB VRAM, 10 GbE and AMD Gorgon Halo - Notebookcheck",
+      "description": "AMD has released a new mini-PC in the US. Arriving in the wake of recent Nvidia RTX Spark announcements, the new AMD Ryzen AI Halo Developer Platform hopes to surpass its predecessor with 192 GB RAM, of which 160 GB can be assigned as VRAM, and the Ryzen AI M…",
+      "url": "https://www.notebookcheck.net/AMD-releases-powerful-new-mini-PC-with-160-GB-VRAM-10-GbE-and-AMD-Gorgon-Halo.1422345.0.html",
+      "urlToImage": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/AMD-Gorgon-Halo-mini-PC-release-kv.jpg",
+      "publishedAt": "2026-10-12T23:20:00Z",
+      "content": "Switching to the Gorgon Halo platform provides the Developer Platform with modest CPU performance improvements according to our benchmarks. Similarly, the Radeon 8065S is only a minor revision of the… [+745 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "9to5Mac"
+      },
+      "author": "Chance Miller",
+      "title": "Apple’s new ‘Switch to Safari’ campaign details why you should ditch Chrome - 9to5Mac",
+      "description": "Apple is kicking off a new campaign today to promote Safari’s benefits over Chrome. With a new “Switch to Safari”...",
+      "url": "https://9to5mac.com/2026/10/12/apples-new-switch-to-safari-campaign-details-why-you-should-ditch-chrome/",
+      "urlToImage": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/switch-to-safari.jpg?quality=82&strip=all&resize=1200,628",
+      "publishedAt": "2026-10-12T21:50:00Z",
+      "content": "Apple is kicking off a new campaign today to promote Safaris benefits over Chrome. With a new Switch to Safari page on its website and a pair of new YouTube videos, Apple wants everyone to know Safar… [+1415 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "My Nintendo News"
+      },
+      "author": "My Nintendo News",
+      "title": "Nintendo Switch Sports Resort file-size reduced from 16GB to 9.83GB - My Nintendo News",
+      "description": null,
+      "url": "https://mynintendonews.com/2026/10/12/nintendo-switch-sports-resort-file-size-reduced-from-16gb-to-9-83gb/",
+      "urlToImage": null,
+      "publishedAt": "2026-10-12T21:31:36Z",
       "content": null
     },
     {
@@ -95,15 +225,15 @@
     },
     {
       "source": {
-        "id": "ars-technica",
-        "name": "Ars Technica"
+        "id": "mashable",
+        "name": "Mashable"
       },
-      "author": "Kyle Orland",
-      "title": "Epic Games reportedly pivoting to \"AI first\" game development model - Ars Technica",
-      "description": "No more hand-written code\" or AI-free art for delayed Marvel/Star Wars shooter.",
-      "url": "https://arstechnica.com/gaming/2026/10/report-epic-games-goes-all-in-on-ai-for-disney-collaboration/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/epicdisney-1152x648.png",
-      "publishedAt": "2026-10-12T20:59:50Z",
+      "author": "Chance Townsend",
+      "title": "AI is the prime suspect in the PS5 jailbreak surge - Mashable",
+      "description": "Console hacking and game decompiling are moving faster than ever.",
+      "url": "https://mashable.com/tech/ps5-jailbreaks-flooding-in-thanks-to-ai",
+      "urlToImage": "https://helios-i.mashable.com/imagery/articles/05rKkJVE1aoEyc0zyYXBiD7/hero-image.fill.size_1200x675.v1791821257.jpg",
+      "publishedAt": "2026-10-12T20:59:46Z",
       "content": null
     },
     {
@@ -122,27 +252,27 @@
     {
       "source": {
         "id": null,
-        "name": "Kotaku"
+        "name": "9to5Mac"
       },
-      "author": "Ethan Gach",
-      "title": "Fans Accuse Sonic Racing: CrossWorlds Of Breaking Deluxe Edition Promise After Revealing FF7 DLC: 'Paid $100 For This Sh*t, Guess I Learned My Lesson' - Kotaku",
-      "description": "Players thought they'd be entitled to all of the year two racers as well",
-      "url": "https://kotaku.com/fans-accuse-sonic-racing-crossworlds-of-breaking-deluxe-edition-promise-after-revealing-ff7-dlc-paid-100-for-this-sht-guess-i-learned-my-lesson-2000744567",
-      "urlToImage": "https://kotaku.com/app/uploads/2026/10/sonic-crossworlds.jpg",
-      "publishedAt": "2026-10-12T20:01:53Z",
-      "content": "Sonic Racing: CrossWorlds is a great racing game with a ton of post-launch support. Unfortunately, the balance between bombarding players with new content and how it’s been monetized hasn’t been equa… [+2675 chars]"
+      "author": "Ryan Christoffel",
+      "title": "M6 MacBook Pro: Three new upgrades launching later this month - 9to5Mac",
+      "description": "Apple’s new M6 chip is coming to the MacBook Pro soon, here are three upgrades to expect from the new MacBook Pro launching later this month.",
+      "url": "https://9to5mac.com/2026/10/12/m6-macbook-pro-three-new-upgrades-launching-this-fall/",
+      "urlToImage": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/m6-macbook-pro-angle.jpg?quality=82&strip=all&resize=1200,628",
+      "publishedAt": "2026-10-12T20:23:00Z",
+      "content": "Apple has a new M6 MacBook Pro launching later this month with a 14-inch screen and the current industrial design. And with its M6 chip, there are three upgrades we can expect from the new MacBook Pr… [+2153 chars]"
     },
     {
       "source": {
-        "id": "mashable",
-        "name": "Mashable"
+        "id": null,
+        "name": "PhoneArena"
       },
-      "author": "Matt Binder",
-      "title": "Adobe software dupe maker takes on Microsoft Office, releasing free versions of Word, Powerpoint, and Excel - Mashable",
-      "description": "AI vibecoded apps are challenging big legacy software.",
-      "url": "https://mashable.com/tech/adobe-creative-suite-clone-app-maker-takes-on-microsoft-office",
-      "urlToImage": "https://helios-i.mashable.com/imagery/articles/0341b7kCCG5QZAUHyZQDUbQ/hero-image.fill.size_1200x675.v1791829879.png",
-      "publishedAt": "2026-10-12T19:12:08Z",
+      "author": "PhoneArena",
+      "title": "Foldable iPhone sales are reportedly going to be riddled with problems - PhoneArena",
+      "description": null,
+      "url": "https://www.phonearena.com/news/foldable-iphone-sales-are-reportedly-going-to-be-riddled-with-problems_id184013",
+      "urlToImage": null,
+      "publishedAt": "2026-10-12T20:19:23Z",
       "content": null
     },
     {
@@ -161,15 +291,28 @@
     {
       "source": {
         "id": null,
-        "name": "9to5Mac"
+        "name": "Gear Patrol"
       },
-      "author": "Ryan Christoffel",
-      "title": "iCloud+ keeps getting better, here’s what’s new for subscribers - 9to5Mac",
-      "description": "iCloud+ provides more than just extra storage, here’s everything new for iCloud+ subscribers as of the last few weeks.",
-      "url": "https://9to5mac.com/2026/10/12/icloud-keeps-getting-better-heres-whats-new-for-subscribers/",
-      "urlToImage": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/icloud-ios-27-blue.jpg?quality=82&strip=all&resize=1200,628",
-      "publishedAt": "2026-10-12T18:56:00Z",
-      "content": "iCloud+ is best known for adding iCloud storage, but Apple keeps improving and expanding its suite of benefits for subscribers. Heres everything new for iCloud+ added in the last few weeks.\r\nIf you s… [+1722 chars]"
+      "author": "Tucker Bowe",
+      "title": "Did an Affordable Audiophile Brand Just Revive the Classic iPod? - Gear Patrol",
+      "description": "Best of all, it's substantially more affordable than you'd probably guess.",
+      "url": "https://www.gearpatrol.com/audio/fosi-audio-dap-neo/",
+      "urlToImage": "https://www.gearpatrol.com/wp-content/uploads/sites/2/2026/10/Fosi-DAP-Neo-16x9-Lead-1.webp",
+      "publishedAt": "2026-10-12T18:49:14Z",
+      "content": "However, those interested will also have to have a considerably large digital music library because the DAP Neo doesn’t have access to any of today’s popular streaming apps. There’s no Spotify, Apple… [+589 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Sammyguru.com"
+      },
+      "author": "Jeff Springer",
+      "title": "Exclusive: Samsung’s Smart Glasses Weigh 41g, Here’s Every Frame - SammyGuru",
+      "description": "See every Gentle Monster and Warby Parker frame for Samsung's smart glasses, plus the 41g weight and key specs ahead of November sales.",
+      "url": "https://sammyguru.com/exclusive-samsung-smart-glasses-every-frame-weight/",
+      "urlToImage": "https://sammyguru.com/wp-content/uploads/2026/10/samsung-smart-glasses-lineup-npeonueb4p.jpg",
+      "publishedAt": "2026-10-12T18:39:53Z",
+      "content": "SammyGuru is reader-supported. We have affiliate and sponsored partnerships, so we may earn a commission when you buy through links on our site, at no extra cost to you. Posts may contain sponsored o… [+6342 chars]"
     },
     {
       "source": {
@@ -212,19 +355,6 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "Insider-gaming.com"
-      },
-      "author": "Sam Sepiol",
-      "title": "PS5 Jailbreak App ‘Overdrive’ Seemingly Makes Games and DLC Free - Insider Gaming",
-      "description": "A new app called Overdrive has been released for jailbroken PS5s, which apparently allows users to access all games and DLC for free.",
-      "url": "https://insider-gaming.com/ps5-jailbreak-app-overdrive-seemingly-makes-games-and-dlc-free/",
-      "urlToImage": "https://insider-gaming.com/wp-content/uploads/2024/08/Untitled-design-5-3.png",
-      "publishedAt": "2026-10-12T17:41:26Z",
-      "content": "A new app called ‘Overdrive’ has been released for jailbroken PS5s and appears to make all games and DLC free to download. \r\nPlayers have been hearing about a new PS5 jailbreak in recent days, and so… [+1972 chars]"
-    },
-    {
-      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -251,19 +381,6 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "MacRumors"
-      },
-      "author": "Tim Hardwick",
-      "title": "You Can Now Set Up Your iPhone Duo Pre-Order - Do It Before Friday - MacRumors",
-      "description": "Apple has opened its \"Get Ready\" service for iPhone Duo pre-orders, allowing customers to pre-select a variety of options to streamline the...",
-      "url": "https://www.macrumors.com/2026/10/12/you-can-now-set-up-your-iphone-duo-pre-order/",
-      "urlToImage": "https://images.macrumors.com/t/kwmFlrOqH-Cnl_c6ucoo5h8MCLU=/1960x/article-new/2026/09/iPhone-Duo-Two-Colors.jpg",
-      "publishedAt": "2026-10-12T17:12:08Z",
-      "content": "Apple has opened its \"Get Ready\" service for iPhone Duo pre-orders, allowing customers to pre-select a variety of options to streamline the process of ordering and have a better chance of grabbing on… [+1320 chars]"
-    },
-    {
-      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -278,67 +395,15 @@
     {
       "source": {
         "id": null,
-        "name": "9to5google.com"
+        "name": "Push Square"
       },
-      "author": "Andrew Romero",
-      "title": "Google’s Fitbit Air is getting a shiny new Metal Mesh band and better automatic tracking - 9to5Google",
-      "description": "The Fitbit Air is finally getting another band option that isn’t fabric or polyurethane. Instead, the Metal Mesh band might...",
-      "url": "http://9to5google.com/2026/10/12/fitbit-air-gets-metal-mesh-band-and-upgrades/",
-      "urlToImage": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/Fitbit-Air-metal-mesh-band.jpg?quality=82&strip=all&resize=1200,628",
-      "publishedAt": "2026-10-12T16:38:00Z",
-      "content": "The Fitbit Air is finally getting another band option that isn’t fabric or polyurethane. Instead, the Metal Mesh band might actually take the Fitbit Air up a notch.\r\nBand selection for the Fitbit Air… [+2955 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "GamesIndustry.biz"
-      },
-      "author": "Vikki Blake",
-      "title": "Nvidia reportedly ends GeForce RTX 5090 graphics card production - GamesIndustry.biz",
-      "description": "Nvidia has reportedly stopped manufacturing the GeForce RTX 5090, including the D variants made for the Chinese market.",
-      "url": "https://www.gamesindustry.biz/nvidia-reportedly-ends-geforce-rtx-5090-graphics-card-production",
-      "urlToImage": "https://assetsio.gnwcdn.com/nvidia_ctHUg28.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "publishedAt": "2026-10-12T16:17:15Z",
-      "content": "Nvidia has reportedly stopped manufacturing the GeForce RTX 5090, including the D variants made for the Chinese market.\r\nThe claim comes from a leaked notice from an unnamed factory, shared by leaker… [+1233 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "MacRumors"
-      },
-      "author": "Joe Rossignol",
-      "title": "Apple Plans Two-Day Event to Showcase Trio of New Macs and iPad Mini - MacRumors",
-      "description": "Apple is planning to invite content creators to a two-day product showcase in Los Angeles on October 27 and October 28, according to Bloomberg's...",
-      "url": "https://www.macrumors.com/2026/10/12/new-macs-and-ipad-mini-in-los-angeles/",
-      "urlToImage": "https://images.macrumors.com/t/Sa45WpyBk4fP8VHn6dTWNNsULG8=/1960x/article-new/2025/10/M5-MacBook-Pro.jpg",
-      "publishedAt": "2026-10-12T16:15:06Z",
-      "content": "Apple is planning to invite content creators to a two-day product showcase in Los Angeles on October 27 and October 28, according to Bloomberg's Mark Gurman.\r\nDo not expect a traditional Apple Event … [+1158 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Videocardz.com"
-      },
-      "author": null,
-      "title": "AMD Ryzen AI Halo with Ryzen AI Max+ PRO 495 launches at $7,299 with 192GB memory - VideoCardz.com",
-      "description": "AMD's 192GB Ryzen AI Halo costs $3,300 more than the original 128GB model. The new version uses the Ryzen AI Max+ PRO 495 processor with 16 Zen 5 cores.",
-      "url": "https://videocardz.com/newz/amd-ryzen-ai-halo-with-ryzen-ai-max-pro-495-launches-at-7299-with-192gb-memory",
-      "urlToImage": "https://cdn.videocardz.com/1/2026/10/RYZEN-AI-HALO-MAX-495-HERO.webp",
-      "publishedAt": "2026-10-12T16:03:36Z",
-      "content": "AMD’s upgraded developer PC is now listed at Micro Center with twice the price of the original model.\r\nAMD’s Ryzen AI Halo developer platform with the Ryzen AI Max+ PRO 495 processor has reached reta… [+2057 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "AppleInsider"
-      },
-      "author": "Christine McKee",
-      "title": "Apple's 2TB MacBook Pro drops to $2,399, lowest price of the season - AppleInsider",
-      "description": "Amazon has slashed Apple's 14-inch M5 Pro MacBook Pro with 2TB of storage to $2,399, a $600 discount.",
-      "url": "https://appleinsider.com/articles/26/10/12/apples-2tb-m5-pro-macbook-pro-plunges-to-2399-600-off",
-      "urlToImage": "https://media.appleinsider.com/gallery/69332-146190-macbook-pro-m5-pro-2tb-600-off-xl.jpg",
-      "publishedAt": "2026-10-12T15:15:00Z",
-      "content": "Save $600 on Apple's 2TB MacBook Pro - Image credit: Apple\r\nIf you buy through our links, we may get a commission. Read our ethics policy.\r\nAmazon has slashed Apple's 14-inch M5 Pro MacBook Pro with … [+3764 chars]"
+      "author": "Stephen Tailby",
+      "title": "Castlevania: Belmont's Curse Asks for No Less Than 100% Completion for the Platinum Trophy - Push Square",
+      "description": "Rose to the challenge",
+      "url": "https://www.pushsquare.com/news/2026/10/castlevania-belmonts-curse-asks-for-no-less-than-100percent-completion-for-the-platinum-trophy",
+      "urlToImage": "https://images.pushsquare.com/7d4756991b68d/1280x720.jpg",
+      "publishedAt": "2026-10-12T17:00:00Z",
+      "content": "Image: Push Square\r\nThe Trophy list for Castlevania: Belmont's Curse has emerged online just ahead of its launch, and it's not giving away that platinum for nothing.\r\nYou can view the full list on PS… [+765 chars]"
     },
     {
       "source": {
@@ -382,15 +447,15 @@
     {
       "source": {
         "id": null,
-        "name": "Pure Xbox"
+        "name": "MacRumors"
       },
-      "author": "Craig Reid",
-      "title": "Valor Mortis Reviews Are Mixed Ahead Of Its Xbox Game Pass Day One Launch - Pure Xbox",
-      "description": "Greater than the sum of its Bonepartes?",
-      "url": "https://www.purexbox.com/news/2026/10/valor-mortis-reviews-are-mixed-ahead-of-its-xbox-game-pass-day-one-launch",
-      "urlToImage": "https://images.purexbox.com/9ba8881fa7882/1280x720.jpg",
-      "publishedAt": "2026-10-12T14:20:00Z",
-      "content": "We've had two particularly heavy-hitters joining Xbox Game Pass this month, the first being Gears of War: E-Day, and the second being Valor Mortis. From the creators of Ghostrunner, this plague-ridde… [+5789 chars]"
+      "author": "Mitchel Broussard",
+      "title": "Amazon Discounting 2026 MacBook Pro by as Much as $600 This Week - MacRumors",
+      "description": "Today we're tracking a pair of massive discounts on Apple's newest MacBook Pro models, including $500 off a 16-inch model and $600...",
+      "url": "https://www.macrumors.com/2026/10/12/2026-macbook-pro-600-week/",
+      "urlToImage": "https://images.macrumors.com/t/-RSgo_nCNqh7RbjGGRsS9fP4mA0=/2500x/article-new/2026/03/m5-pro-macbook-pro-launch-day.jpeg",
+      "publishedAt": "2026-10-12T14:26:29Z",
+      "content": "Today we're tracking a pair of massive discounts on Apple's newest MacBook Pro models, including $500 off a 16-inch model and $600 off a 14-inch model on Amazon.\r\nNote: MacRumors is an affiliate part… [+1030 chars]"
     },
     {
       "source": {
@@ -433,29 +498,16 @@
     },
     {
       "source": {
-        "id": "the-verge",
-        "name": "The Verge"
+        "id": "polygon",
+        "name": "Polygon"
       },
-      "author": "Dominic Preston",
-      "title": "The OnePlus 16 is the company’s most interesting phone in years - The Verge",
-      "description": "But it’s not launching in the US or Europe.",
-      "url": "https://www.theverge.com/tech/1009570/oneplus-16-specs-features-china",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/oneplus-16.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "publishedAt": "2026-10-12T13:13:53Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nBut its not launching in the US or Europe.\r\nBut its not launching in the US or Europe.\r\nby\r\nDominic PrestonClose\r\nPosts from this author will be added to your da… [+3011 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "BleepingComputer"
-      },
-      "author": "Sergiu Gatlan",
-      "title": "GitLab warns of max severity code execution vulnerability - BleepingComputer",
-      "description": "GitLab warned users today to immediately patch a maximum-severity vulnerability in the CI/CD Regular Expression Compiler that could let remote attackers run arbitrary code on targeted instances.",
-      "url": "https://www.bleepingcomputer.com/news/security/gitlab-warns-of-max-severity-rce-flaw-in-regex-compiler-engine/",
-      "urlToImage": "https://www.bleepstatic.com/content/hl-images/2026/10/12/GitLab.jpg",
-      "publishedAt": "2026-10-12T13:09:09Z",
-      "content": "GitLab warned users today to immediately patch a maximum-severity vulnerability in the CI/CD Regular Expression Compiler that could let remote attackers run arbitrary code on targeted instances.\r\nTra… [+2576 chars]"
+      "author": "Marloes Valentina Stella",
+      "title": "First-Person Soulslike Valor Mortis Is Brutal, Frightening, and Strangely Chill - Polygon.com",
+      "description": "Despite some imbalance in its difficulty level, the world of Valor Mortis is a joy to explore.",
+      "url": "https://www.polygon.com/valor-mortis-impressions/",
+      "urlToImage": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/valor-mortis-impressions-1.jpg?w=1600&h=900&fit=crop",
+      "publishedAt": "2026-10-12T13:00:16Z",
+      "content": "We all know Napoleon wasn't the type to give up easily, but unleashing the zombie apocalypse rather than face defeat? That's a bit much, even for our favorite Petit Corporal. Granted, 13 hours and fo… [+9590 chars]"
     },
     {
       "source": {
@@ -469,6 +521,32 @@
       "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/cmf1.jpg?quality=90&strip=all&crop=0%2C10.740836125969%2C100%2C78.518327748063&w=1200",
       "publishedAt": "2026-10-12T13:00:00Z",
       "content": "<ul><li></li><li></li><li></li></ul>\r\nThe CMF Speaker Series are launching in two sizes with panels and knobs that can be customized with 3D printing.\r\nThe CMF Speaker Series are launching in two siz… [+3466 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Pure Xbox"
+      },
+      "author": "Fraser Gilbert",
+      "title": "Six Games Are Heading To Xbox Game Pass This Week (October 13-16) - Pure Xbox",
+      "description": "Five \"day one\" titles and another massive EA addition",
+      "url": "https://www.purexbox.com/news/2026/10/six-games-are-heading-to-xbox-game-pass-this-week-october-13-16",
+      "urlToImage": "https://images.purexbox.com/78c6c9f57848d/1280x720.jpg",
+      "publishedAt": "2026-10-12T13:00:00Z",
+      "content": "Welcome to the new week! Things have been getting quite hectic when it comes to Xbox Game Pass announcements over the past few days, and suddenly we've found ourselves with six games set for October … [+2978 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Notebookcheck.net"
+      },
+      "author": "Daniel Zlatev",
+      "title": "OnePlus 16 launches with fastest display refresh and higher price - Notebookcheck",
+      "description": "OnePlus took the stage at the Oppo Marina Bay Center to unveil its latest flagship phone, the OnePlus 16. It comes with a record display refresh rate and a Snapdragon 8 Elite Gen 6 chipset, but with the price to match.",
+      "url": "https://www.notebookcheck.net/OnePlus-16-launches-with-fastest-display-refresh-and-higher-price.1422061.0.html",
+      "urlToImage": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/OnePlus-1664.jpg",
+      "publishedAt": "2026-10-12T12:59:00Z",
+      "content": "After teasing its newest OnePlus 16 flagship for the past couple of weeks with appetite-wetting specs bits and morcels, OnePlus just unveiled the phone with the fastest display refresh rate, but that… [+4499 chars]"
     },
     {
       "source": {
@@ -538,6 +616,19 @@
     {
       "source": {
         "id": null,
+        "name": "Digitalfoundry.net"
+      },
+      "author": "William Judd",
+      "title": "Report: RTX 5090 GPUs discontinued by Nvidia, as GB202 is reserved for AI workstation cards - Digital Foundry",
+      "description": "Not that I could afford one anyway.",
+      "url": "https://www.digitalfoundry.net/news/2026/10/report-rtx-5090-gpus-discontinued-by-nvidia-as-gb202-is-reserved-for-ai-workstation-cards",
+      "urlToImage": "https://images.digitalfoundry.net/e38a51771a0ae/1280x720.jpg",
+      "publishedAt": "2026-10-12T12:44:00Z",
+      "content": "Nvidia's flagship RTX 5090 graphics card is impossible to buy anywhere near its original price, as its excellent compute performance and VRAM allocation has seen it become a tool for AI workloads ins… [+1201 chars]"
+    },
+    {
+      "source": {
+        "id": null,
         "name": "Warhammer-community.com"
       },
       "author": null,
@@ -551,19 +642,6 @@
     {
       "source": {
         "id": null,
-        "name": "SamMobile"
-      },
-      "author": "Abid Iqbal Shaik",
-      "title": "Galaxy S24 stable One UI 9.0 update reaches the US - SamMobile",
-      "description": "Samsung has released the stable version of One UI 9.0 (Android 17) to the Galaxy S24 series in the US via new OTA software updates.",
-      "url": "https://www.sammobile.com/news/galaxy-s24-stable-one-ui-9-0-update-reaches-usa/",
-      "urlToImage": "https://www.sammobile.com/wp-content/uploads/2025/01/Samsung-Galaxy-S24-Ultra-rear-design.jpg",
-      "publishedAt": "2026-10-12T10:50:00Z",
-      "content": "Samsung has started rolling out the stable version of One UI 9.0 (Android 17) to the Galaxy S24, Galaxy S24+, and Galaxy S24 Ultra in the US via new OTA software updates. \r\nThe updates are live for t… [+860 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "Video Games Chronicle"
       },
       "author": "Jordan Middler",
@@ -571,34 +649,8 @@
       "description": "Horii has previously praised AI technology and its use in video games",
       "url": "https://www.videogameschronicle.com/news/the-lastest-game-from-the-creator-of-dragon-quest-was-made-in-about-30-minutes-with-ai/",
       "urlToImage": "https://www.videogameschronicle.com/files/2026/10/yuji-horii_feature.jpg",
-      "publishedAt": "2026-10-12T09:33:47Z",
+      "publishedAt": "2026-10-12T09:37:00Z",
       "content": "Dragon Quest creator Yuji Horii has released a new game, which he claims was made in “just about 30 minutes,” with generative AI.\r\nHorii,  age 72, who is best known as the creator of the Dragon Quest… [+2798 chars]"
-    },
-    {
-      "source": {
-        "id": "business-insider",
-        "name": "Business Insider"
-      },
-      "author": "Sarah E. Needleman, Ana Altchek, Tim Paradis",
-      "title": "Unsolicited calendar invites are becoming a scammer's favorite way in - Business Insider",
-      "description": "Scammers are using calendar invitations to lure workers to phishing sites and fake calls. Here's why the attacks can be so convincing.",
-      "url": "https://www.businessinsider.com/work-calendar-invite-scam-phishing-ai-deepfakes-2026-10#article",
-      "urlToImage": "https://i.insider.com/6ac695b07bf24b4467e68dbf?width=1200&format=jpeg",
-      "publishedAt": "2026-10-12T09:17:00Z",
-      "content": "When Pete Thomas spots a meeting on his calendar that he doesn't remember scheduling, the startup executive launches a mini investigation.\r\nHe searches his inbox for the sender's name, and if that fa… [+5593 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Eurogamer.net"
-      },
-      "author": "Dom Peppiatt",
-      "title": "Stardew Valley creator's new game, Haunted Chocolatier, is \"more of an action RPG\" than farming sim - Eurogamer.net",
-      "description": "Eric Barone, better known as ConcernedApe, has teased out a little bit more information about the un-dated upcoming game, Haunted Chocolatier.",
-      "url": "https://www.eurogamer.net/the-haunted-chocolatier-action-rpg-stardew-valley",
-      "urlToImage": "https://assetsio.gnwcdn.com/Barone-chocolatier.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "publishedAt": "2026-10-12T09:12:13Z",
-      "content": "Stardew Valley creator Eric Barone, has given a new interview - and finally revealed a little more information about his upcoming title, Haunted Chocolatier. In a wide-ranging interview with GQ, whic… [+2191 chars]"
     },
     {
       "source": {
@@ -615,16 +667,16 @@
     },
     {
       "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
+        "id": null,
+        "name": "Nintendo Life"
       },
-      "author": "Brian X. Chen",
-      "title": "Why My Conversations with OpenAI’s ‘ChatGPT for Teens’ Made Me Very Worried",
-      "description": "A new mode includes a study tool, but it still does a user’s homework. And a children’s safety nonprofit says the chatbot flunked its tests.",
-      "url": "https://www.nytimes.com/2026/10/07/technology/personaltech/chatgpt-teens-openai.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/10/10/business/06biz-techfix/06biz-techfix-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-10-12T03:00:20Z",
-      "content": "A new mode includes a study tool, but it still does a user’s homework. And a children’s safety nonprofit says the chatbot flunked its tests."
+      "author": "Ollie Reynolds",
+      "title": "Nintendo States That It Has No Plans To Ditch Physical Media - Nintendo Life",
+      "description": "\"We know how much the fans like it\"",
+      "url": "https://www.nintendolife.com/news/2026/10/nintendo-states-that-it-has-no-plans-to-ditch-physical-media",
+      "urlToImage": "https://images.nintendolife.com/9cc5eba7d5c5b/1280x720.jpg",
+      "publishedAt": "2026-10-12T08:30:00Z",
+      "content": "In an update posted to social media earlier today, though, the publisher said that there is no better timing: two days ago Nintendo announced two new smaller cartridge [storage capacity] sizes for Ni… [+3142 chars]"
     },
     {
       "source": {
@@ -638,19 +690,6 @@
       "urlToImage": "https://www.slashgear.com/img/gallery/12-usb-c-gadgets-that-make-great-gifts/l-intro-1791465953.jpg",
       "publishedAt": "2026-10-12T00:43:03Z",
       "content": "The Beizkna Soldering Iron Kit has 9,364 customer reviews on Amazon, with an overall score of 4.2. This handy gadget is great for quick repairs and DIY projects, including jewelry repair, soldering, … [+837 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "GoNintendo"
-      },
-      "author": "rawmeatcowboy",
-      "title": "Nintendo says they have \"no plans\" to abandon physical media - GoNintendo",
-      "description": "That's what we like to hear!",
-      "url": "https://gonintendo.com/contents/65985-nintendo-says-they-have-no-plans-to-abandon-physical-media",
-      "urlToImage": "https://gonintendo.com/attachments/image/87407/file/medium-334a9e7eeb35fb61c558b87478099a78.png",
-      "publishedAt": "2026-10-11T19:31:36Z",
-      "content": "We live in a world where physical media is becoming less and less prevalent, and thats especially true for videogames. Gaming started to make a turn towards digital releases roughly 20 years ago, and… [+839 chars]"
     },
     {
       "source": {
@@ -668,32 +707,6 @@
     {
       "source": {
         "id": null,
-        "name": "Warhammer-community.com"
-      },
-      "author": null,
-      "title": "Sunday Preview – Open the Khazalite Holds - Warhammer Community",
-      "description": "Find out what’s coming up next week and get ready to settle some grudges.",
-      "url": "https://www.warhammer-community.com/articles/k4cm0fox/sunday-preview-open-the-khazalite-holds",
-      "urlToImage": "https://assets.warhammer-community.com/articles/0-2026/october/wc-05-10/sundaypreview-oct11-2-share-ihwewlvp5q.jpg",
-      "publishedAt": "2026-10-11T16:57:16Z",
-      "content": "© Copyright Games Workshop Limited 2026. GW, Games Workshop, Citadel, White Dwarf, Space Marine, 40K, Warhammer, Warhammer 40,000, the Aquila Double-headed Eagle logo, Warhammer Age of Sigmar, Battle… [+1391 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Housedigest.com"
-      },
-      "author": "Bob Beacham",
-      "title": "Quickly Sharpen Your Chainsaw Blade With An Affordable Amazon Kit That's Easy To Use - House Digest",
-      "description": "The Oregon Universal Chainsaw Field Sharpening Kit is $12.36 on Amazon. Here's how this portable and affordable sharpening kit will keep your blade sharp.",
-      "url": "https://www.housedigest.com/2277576/quickly-sharpen-chainsaw-blade-affordable-amazon-tool-easy-to-use/",
-      "urlToImage": "https://www.housedigest.com/img/gallery/quickly-sharpen-your-chainsaw-blade-with-an-affordable-amazon-kit-thats-easy-to-use/l-intro-1791215885.jpg",
-      "publishedAt": "2026-10-11T16:00:00Z",
-      "content": "The Oregon chainsaw sharpening kit appears popular, with thousands of Amazon customers giving it an average of 4.7 stars. Oregon has been a leading supplier of chainsaw-related equipment for almost 8… [+1066 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "Slate Magazine"
       },
       "author": "Rich Juzwiak",
@@ -703,19 +716,6 @@
       "urlToImage": "https://compote.slate.com/images/58f145e3-d039-46ea-a5d4-e8db2f4d9893.gif?crop=1560%2C1040%2Cx0%2Cy0&width=1560",
       "publishedAt": "2026-10-11T16:00:00Z",
       "content": "Sign up for the Slatest to get the most insightful analysis, criticism, and advice out there, delivered to your inbox daily.\r\nHow to Do It is Slates sex advice column. Have a question? Send it to Sto… [+9338 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Ivan Mehta",
-      "title": "These execs think voice AI hasn’t reached its ChatGPT moment yet - TechCrunch",
-      "description": "Voice AI's often misses important points for its context layer, and causes the whole pipeline to break",
-      "url": "https://techcrunch.com/2026/10/11/these-execs-think-voice-ai-hasnt-reached-its-chatgpt-moment-yet/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/10/Screenshot-2026-10-10-at-2.42.28-PM.jpg?resize=1200,624",
-      "publishedAt": "2026-10-11T14:00:00Z",
-      "content": "The theory of voice being the next big interface has picked up strong momentum, with investors pouring billions of dollars into voice AI startups working on areas ranging from model makers to enterpr… [+3472 chars]"
     },
     {
       "source": {
@@ -732,45 +732,6 @@
     },
     {
       "source": {
-        "id": "wired",
-        "name": "Wired"
-      },
-      "author": "Boone Ashworth",
-      "title": "I Made Terrible Games With Google’s AI Playground - WIRED",
-      "description": "A long day’s haul in the video game slop mines.",
-      "url": "https://www.wired.com/story/i-made-terrible-games-with-googles-ai-playground/",
-      "urlToImage": "https://media.wired.com/photos/6ac967401dd8a2ab2e331c51/191:100/w_1280,c_limit/Google-Playground-Gear-PG_THUMBNAIL_BLOG%20(1).png",
-      "publishedAt": "2026-10-11T11:30:00Z",
-      "content": "The game had several small issues at first. I countered them and added features a little bit at a time. I dictated systems for level scaling, boss generation, and better enemy variety. I flagged mobi… [+1902 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "PCGamesN"
-      },
-      "author": null,
-      "title": "World of Warcraft Forever devs have learned \"you don't listen to the loudest people in the room\" - PCGamesN",
-      "description": "Speaking at PAX Australia, Clay Stone and Holly Longdale discuss the World of Warcraft Forever beta and the response to the reborn MMORPG.",
-      "url": "https://www.pcgamesn.com/world-of-warcraft/forever-panel-pax-aus-2026",
-      "urlToImage": "https://www.pcgamesn.com/wp-content/sites/pcgamesn/2026/10/world-of-warcraft-forever-pax-aus-panel-feedback-blizzard-mmorpg.jpg",
-      "publishedAt": "2026-10-11T10:47:11Z",
-      "content": "World of Warcraft Forever is a return to an era of WoW that millions of people hold very dear to their hearts - but it isn't supposed to just be exactly 'as it was' back in the day. Blizzard has made… [+3645 chars]"
-    },
-    {
-      "source": {
-        "id": "cnn",
-        "name": "CNN"
-      },
-      "author": "Kara Alaimo",
-      "title": "Want more free time in your day? Ditch your smartphone — it’s not as hard as it sounds - CNN",
-      "description": "August Lamm got ride of her smartphone four years ago. In a new book, she argues that the benefits of life without the device outweigh any inconveniences.",
-      "url": "https://www.cnn.com/2026/10/11/health/living-without-a-smartphone-wellness",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2217983116.jpg?c=16x9&q=w_800,c_fill",
-      "publishedAt": "2026-10-11T10:30:44Z",
-      "content": "A lot of us dream of not being tethered to our phones all day, interrupted with an endless stream of pings telling us we have more messages and other notifications to deal with.\r\nButyou probably thin… [+7970 chars]"
-    },
-    {
-      "source": {
         "id": null,
         "name": "Housedigest.com"
       },
@@ -781,32 +742,6 @@
       "urlToImage": "https://www.housedigest.com/img/gallery/heat-your-garage-during-cold-months-with-a-wi-fi-enabled-solution-from-home-depot/l-intro-1791213487.jpg",
       "publishedAt": "2026-10-11T09:30:00Z",
       "content": "We may receive a commission on purchases made from links.\r\nCold hands. Numb fingers. A freezing concrete floor. There is no doubt that working in a cold garage during the winter can get uncomfortable… [+1525 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Wccftech"
-      },
-      "author": "Omar Sohail",
-      "title": "NVIDIA’s CUDA Moat Is Accelerating RTX Spark Laptop Sales, Higher 128GB Unified Memory Options Belonging To Surface Laptop Ultra Already Out Of Stock - Wccftech",
-      "description": "NVIDIA’s CUDA platform is speeding up RTX Spark laptop sales, with the higher 128GB unified memory options of the Surface Laptop Ultra already out of stock",
-      "url": "https://wccftech.com/nvidia-cuda-moat-rtx-spark-laptop-sales-surface-laptop-ultra-128gb-out-of-stock/",
-      "urlToImage": "https://cdn.wccftech.com/wp-content/uploads/2026/10/Surface-Laptop-Ultra-with-RTX-Spark.jpg",
-      "publishedAt": "2026-10-11T09:26:15Z",
-      "content": "Microsofts product page for the Surface Laptop Ultra shows the RTX Spark, 128GB unified memory, and 1TB SSD configuration priced at $5,899.99 is already listed as out of stock. While the lower-tier o… [+2664 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "TrueAchievements"
-      },
-      "author": null,
-      "title": "Xbox gets 40 new games next week, including five day-one Game Pass additions - TrueAchievements",
-      "description": "Next week, Valor Mortis, Planet Zoo 2, Warhammer 40,000: Boltgun 2, and 37 more new games launch across Xbox consoles and Xbox PC.",
-      "url": "https://www.trueachievements.com/news/new-xbox-games-october-12",
-      "urlToImage": "https://www.trueachievements.com/imgs/179203/xbox-gets-40-new-games-next-week-including-five-dayone-game-pass-additions.jpg",
-      "publishedAt": "2026-10-11T09:02:12Z",
-      "content": "A tidal wave of new Xbox games is about to come crashing down on your backlog. Over the next seven days, a massive 40 new games land on Xbox Series X|S, Xbox One, and PC. Five of them are also launch… [+23459 chars]"
     },
     {
       "source": {
@@ -859,6 +794,19 @@
       "urlToImage": "https://static01.nyt.com/images/2026/10/09/multimedia/08sci-hamilton-appraisal-still-promo-print9/08sci-hamilton-appraisal-still-promo-mediumSquareAt3X.jpg",
       "publishedAt": "2026-10-09T14:11:28Z",
       "content": "The woman who helped put astronauts on the moon was a software engineer when the field was not prestigious or lucrative."
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Warhammer-community.com"
+      },
+      "author": null,
+      "title": "Fyreslayers in Battletome: Khazalite Holds – What you need to know - Warhammer Community",
+      "description": "What’s happening to Grimnir’s faithful berzerkers?",
+      "url": "https://www.warhammer-community.com/articles/rv6irmgo/fyreslayers-in-battletome-khazalite-holds-what-you-need-to-know",
+      "urlToImage": "https://assets.warhammer-community.com/articles/0-2026/october/wc-05-10/aos_fyreslayers-oct09-2-share-vbgmepujgh.jpg",
+      "publishedAt": "2026-10-09T11:55:23Z",
+      "content": "© Copyright Games Workshop Limited 2026. GW, Games Workshop, Citadel, White Dwarf, Space Marine, 40K, Warhammer, Warhammer 40,000, the Aquila Double-headed Eagle logo, Warhammer Age of Sigmar, Battle… [+1391 chars]"
     },
     {
       "source": {
@@ -963,19 +911,6 @@
       "urlToImage": "https://static01.nyt.com/images/2026/10/09/multimedia/07cul-streaming-fraud-hpcg/07cul-streaming-fraud-hpcg-mediumSquareAt3X.jpg",
       "publishedAt": "2026-10-08T02:05:09Z",
       "content": "Prosecutors say Michael Smith flooded music-streaming platforms with bots that repeatedly streamed his A.I.-generated music, earning him as much as $8 million."
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Mit.edu"
-      },
-      "author": "Janine Liberty | Department of Aeronautics and Astronautics",
-      "title": "Margaret Hamilton, computing pioneer who led software development for the Apollo program, dies at 90 - MIT News",
-      "description": "Margaret H. Hamilton, a profoundly influential computer scientist best known for leading the software engineering team at MIT’s Instrumentation Lab during NASA’s Apollo program, died at age 90.",
-      "url": "https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007",
-      "urlToImage": "https://news.mit.edu/sites/default/files/images/202610/margaret-hamilton-portrait-toan-trinh-mit-technology-review-A1_1.png",
-      "publishedAt": "2026-10-07T20:55:00Z",
-      "content": "Defensive programming and priority-driven software take humans to the moon\r\nHamilton discovered a talent for leadership, as well as a keen instinct for problem-solving and critical thinking that woul… [+5337 chars]"
     }
   ]
 }

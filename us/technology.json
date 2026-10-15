@@ -1,7 +1,33 @@
 {
   "status": "ok",
-  "totalResults": 68,
+  "totalResults": 77,
   "articles": [
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Jack Ewing",
+      "title": "Tesla Debuts 2026 Roadster, an EV Sports Car at Least $200,000",
+      "description": "Elon Musk’s company and other automakers, like Jaguar and Bentley, are trying to sell very expensive electric cars to people who usually prefer gasoline-fueled luxury and performance.",
+      "url": "https://www.nytimes.com/2026/10/15/business/tesla-roadster-2026-ev-sports-car.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/10/15/business/15biz-luxury-ev/15biz-luxury-ev-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-10-15T12:17:34Z",
+      "content": "Elon Musk’s company and other automakers, like Jaguar and Bentley, are trying to sell very expensive electric cars to people who usually prefer gasoline-fueled luxury and performance."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Alisha Haridasani Gupta and Katie Van Syckle",
+      "title": "Exhausted Parents Are Turning to A.I. Apps Despite the Risks",
+      "description": "Even as alarm grows over the risks, families are embracing bots and agents to tackle the spiraling administrative tasks of modern child rearing.",
+      "url": "https://www.nytimes.com/2026/10/15/style/ai-parenting-motherhood-ollie-fambot.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/10/15/multimedia/15caregiving-apps_LISA_GREEN-01-wtqj/15caregiving-apps_LISA_GREEN-01-wtqj-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-10-15T10:52:08Z",
+      "content": "Even as alarm grows over the risks, families are embracing bots and agents to tackle the spiraling administrative tasks of modern child rearing."
+    },
     {
       "source": {
         "id": "the-new-york-times",
@@ -12,7 +38,7 @@
       "description": "The employee, now fired, had said he advised government agencies in Saudi Arabia. He was also listed as a partner at a venture firm with a Saudi prince.",
       "url": "https://www.nytimes.com/2026/10/14/technology/openai-engineer-hidden-device-saudi-government.html",
       "urlToImage": "https://static01.nyt.com/images/2026/10/14/multimedia/14biz-openai-suspect-jfkp/14biz-openai-suspect-jfkp-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-10-15T02:27:52Z",
+      "publishedAt": "2026-10-15T02:27:53Z",
       "content": "The employee, now fired, had said he advised government agencies in Saudi Arabia. He was also listed as a partner at a venture firm with a Saudi prince."
     },
     {
@@ -82,6 +108,58 @@
     },
     {
       "source": {
+        "id": null,
+        "name": "Video Games Chronicle"
+      },
+      "author": "Chris Scullion",
+      "title": "Rockstar says its next game after Grand Theft Auto 6 won’t take another eight years to make - Video Games Chronicle",
+      "description": "The engine, tools and team built during GTA 6 will make the next project \"go more sideways than upwards\"",
+      "url": "https://www.videogameschronicle.com/news/rockstar-says-its-next-game-after-grand-theft-auto-6-wont-take-another-eight-years-to-make/",
+      "urlToImage": "https://www.videogameschronicle.com/files/2026/09/gta-6-pic1.jpg",
+      "publishedAt": "2026-10-14T10:57:10Z",
+      "content": "Rockstar says the next game it works on after Grand Theft Auto 6 won’t take another eight years to make.\r\nWhen GTA 6 is released on November 19, it will be the studio’s first major new single-player … [+2236 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Push Square"
+      },
+      "author": "Stephen Tailby",
+      "title": "Some of Sony's First-Party Games Are Suddenly Missing from PS Store in the US - Push Square",
+      "description": "What's going on?",
+      "url": "https://www.pushsquare.com/news/2026/10/some-of-sonys-first-party-games-are-suddenly-missing-from-ps-store-in-the-us",
+      "urlToImage": "https://images.pushsquare.com/8c85266ea5a5b/1280x720.jpg",
+      "publishedAt": "2026-10-14T10:45:00Z",
+      "content": "Over the last few days or so, it's been discovered that a handful of PlayStation's own, first-party games have mysteriously disappeared from the North American PS Store.\r\nIt's not really known why, b… [+1062 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Videocardz.com"
+      },
+      "author": null,
+      "title": "Sony takes down PS5 piracy store offering 1,600 games, multiple clones appear just hours later - VideoCardz.com",
+      "description": "Sony reportedly took down Overdrive, a PS5 piracy store offering more than 1,600 games. However, the project quickly resurfaced on GitHub with a new release.",
+      "url": "https://videocardz.com/newz/sony-takes-down-ps5-piracy-store-offering-1600-games-multiple-clones-appear-just-hours-later",
+      "urlToImage": "https://cdn.videocardz.com/1/2026/10/PS5-OVERDRIVE-1.webp",
+      "publishedAt": "2026-10-14T07:05:20Z",
+      "content": "Overdrive, an unofficial game store offering more than 1,600 PS4 and PS5 games for free, reportedly shut down following legal action by Sony Interactive Entertainment. The project’s original GitHub r… [+2020 chars]"
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "The Hacker News",
+      "title": "Microsoft Patches Record 1,413 Flaws, Including Exploited Windows Shell Bug - The Hacker News",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBvRTRXajgzdUxGLWx6MVJOaVBIdG1aUUdxZWFQaDVPZWdRaXo2a1RtZDdFaFJQMEtkbDhfZG1tN3RjQ0FqbkxwbW1KN2hiRnJsaHlOVHFfU3NNT3pMczVMNXJHWnVqb3d6MVFzRHhDQjJ0cTgtWE42NnVhZlBLalk?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2026-10-14T04:34:00Z",
+      "content": null
+    },
+    {
+      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -96,27 +174,27 @@
     {
       "source": {
         "id": null,
-        "name": "Nintendo Life"
+        "name": "Nintendoeverything.com"
       },
-      "author": "Liam Doolan",
-      "title": "Nintendo Expands Switch Online's GBA Library With Three More Titles - Nintendo Life",
-      "description": "Monster Rancher, Metal Slug & Kururin are here!",
-      "url": "https://www.nintendolife.com/news/2026/10/nintendo-expands-switch-onlines-gba-library-with-three-more-titles",
-      "urlToImage": "https://images.nintendolife.com/067f227fe5efd/1280x720.jpg",
-      "publishedAt": "2026-10-14T01:15:00Z",
-      "content": "Nintendo has today expanded its Switch Online 'Nintendo Classics' library with three more Game Boy Advance titles.\r\nThe games added to this particular collection include Tecmo's 2001 life-sim spin-of… [+740 chars]"
+      "author": "Brian",
+      "title": "Nintendo Switch Online adds three new GBA games in October 2026 update - Nintendo Everything",
+      "description": "Nintendo Switch Online just added three new GBA games as part of a new October 2026 update. The lineup includes Kururin Paradise, Metal Slug Advance, and Monster Rancher. All of these can be found in the Game Boy Advance – Nintendo Classics app right now on S…",
+      "url": "https://nintendoeverything.com/nintendo-switch-online-adds-three-new-gba-games-in-october-2026-update/",
+      "urlToImage": "https://nintendoeverything.com/wp-content/uploads/Nintendo-Switch-Online-GBA-October-2026.jpg",
+      "publishedAt": "2026-10-14T01:29:56Z",
+      "content": "Nintendo Switch Online just added three new GBA games as part of a new October 2026 update. The lineup includes Kururin Paradise, Metal Slug Advance, and Monster Rancher.\r\nAll of these can be found i… [+579 chars]"
     },
     {
       "source": {
-        "id": "mashable",
-        "name": "Mashable"
+        "id": "google-news",
+        "name": "Google News"
       },
-      "author": "Alex Perry",
-      "title": "New GTA 6 Cyberleek video has story clips, gameplay footage, and one very NSFW detail - Mashable",
-      "description": "We're not joking about the NSFW part.",
-      "url": "https://mashable.com/entertainment/gta-grand-theft-auto-6-cyberleek-returns-24-minute-video",
-      "urlToImage": "https://helios-i.mashable.com/imagery/articles/00WIv1hjhOC0UkvoBMCGuIU/hero-image.fill.size_1200x675.v1791470977.jpg",
-      "publishedAt": "2026-10-14T00:56:53Z",
+      "author": "Nintendo Everything",
+      "title": "Mario Kart 8 Deluxe 4.0.1 update out now, patch notes - Nintendo Everything",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQLTRsTkE4a0VtVHpHTFFEa3M2RGJwWjd5elB3U2NyaXBqT2xFNDIxaHN4U014Mm9VaDlfbmtxM2dRVmtFOGVoZmY2MkhYbTVzOWVfbU1pZU81cndzcVFDakQ5Z0FZQ2hldUdSVFVmelhrUWFKejBtM1pQVXNsWEpBNmI4Wm1tR2dkSXBlRQ?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2026-10-14T01:15:59Z",
       "content": null
     },
     {
@@ -125,12 +203,12 @@
         "name": "Nintendo Life"
       },
       "author": "Liam Doolan",
-      "title": "Mario Kart 8 Deluxe Has Been Updated To Version 4.0.1, Here Are The Full Patch Notes - Nintendo Life",
-      "description": "Following a free Switch 2 update last month",
-      "url": "https://www.nintendolife.com/news/2026/10/mario-kart-8-deluxe-has-been-updated-to-version-4-0-1-here-are-the-full-patch-notes",
-      "urlToImage": "https://images.nintendolife.com/d646e803ee572/1280x720.jpg",
-      "publishedAt": "2026-10-14T00:55:00Z",
-      "content": "Image: Nintendo\r\nAfter a surprise update in September, Nintendo has today rolled out Version 4.0.1 of Mario Kart 8 Deluxe.\r\nThis update, as you might have already worked out, is a lot less exciting. … [+1460 chars]"
+      "title": "Round Up: The Reviews For Castlevania: Belmont's Curse Are In - Nintendo Life",
+      "description": "Here's what the critics think",
+      "url": "https://www.nintendolife.com/news/2026/10/round-up-the-reviews-for-castlevania-belmonts-curse-are-in",
+      "urlToImage": "https://images.nintendolife.com/cad9476688063/1280x720.jpg",
+      "publishedAt": "2026-10-13T23:55:00Z",
+      "content": "Image: Konami\r\nIt's been a while, but this week Konami's Castlevania series resurfaces with the new entry, Castlevania: Belmont's Curse.\r\nThis 2D action-exploration title, set 23 years after Castleva… [+5538 chars]"
     },
     {
       "source": {
@@ -144,6 +222,45 @@
       "urlToImage": "https://images.macrumors.com/t/8JMTbDQ59zEhM-LcAFM6FYdUCxk=/2100x/article-new/2026/10/MacBook-Pro-Ultra-Feature-1.jpg",
       "publishedAt": "2026-10-13T23:47:00Z",
       "content": "Apple debuted three new home products today, but the October announcements aren't over yet. Rumors suggest there will be another \"event\" on October 27, plus we're still waiting on the iPhone Duo.\r\nHe… [+1353 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "9to5google.com"
+      },
+      "author": "Abner Li",
+      "title": "Chrome 155 for Googlebook brings expanded web app installs, integration - 9to5Google",
+      "description": "With Chrome 155, Googlebooks now better support web apps by allowing for expanded installation and system integration. Previously, Chrome on...",
+      "url": "http://9to5google.com/2026/10/13/chrome-155-googlebooks/",
+      "urlToImage": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/GoogleBook-App-Cannot-be-installed.jpg?quality=82&strip=all&resize=1200,628",
+      "publishedAt": "2026-10-13T23:39:00Z",
+      "content": "With Chrome 155, Googlebooks now better support web apps by allowing for expanded installation and system integration.\r\nPreviously, Chrome on Googlebooks (which is the Android version with desktop-le… [+1700 chars]"
+    },
+    {
+      "source": {
+        "id": "ign",
+        "name": "IGN"
+      },
+      "author": "Blythe Dujardin",
+      "title": "Razer Reveals New Pokémon Gaming Headsets Featuring Sylveon, Charizard, and Lucario - IGN",
+      "description": null,
+      "url": "https://www.ign.com/articles/razer-reveals-3-new-pokemon-gaming-headsets-based-on-sylveon-charizard-lucario",
+      "urlToImage": "https://assets-prd.ignimgs.com/2026/10/13/razerpokemon-1-1791927590029.jpg?width=1280&format=jpg&auto=webp&quality=80",
+      "publishedAt": "2026-10-13T22:29:44Z",
+      "content": "Razer just dropped three new Pokémon-inspired headsets. \r\nThe new colorways, which form part of Pokémons ongoing 30th anniversary celebrations, are for two of the tech companys most popular gaming he… [+2173 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BGR"
+      },
+      "author": "Briley Kenney",
+      "title": "The PlayStation 5 Can Finally Play Your Old PS2 Discs - Here's How - BGR",
+      "description": "Your PlayStation 5 console can now finally play PS2 games from your existing discs, provided it meets a few requirements, including being jailbroken.",
+      "url": "https://www.bgr.com/2285959/how-to-play-ps2-discs-on-playstation-5/",
+      "urlToImage": "https://www.bgr.com/img/gallery/the-playstation-5-can-finally-play-your-old-ps2-discs-heres-how/l-intro-1791923647.jpg",
+      "publishedAt": "2026-10-13T22:17:00Z",
+      "content": "True backwards compatibility for physical disc games ended with the PlayStation 4. While Sony eventually re-released some older titles digitally, you can't put a PS2 or PS3 disc into your PS4 to play… [+1550 chars]"
     },
     {
       "source": {
@@ -174,15 +291,28 @@
     {
       "source": {
         "id": null,
-        "name": "Kotaku"
+        "name": "MacRumors"
       },
-      "author": "Kenneth Shepard",
-      "title": "Some Sony First-Party Games Have Been Delisted From the PlayStation Store - Kotaku",
-      "description": "Some of Knack, Nathan Drake, and Kratos’ games were pulled due to what appears to be a pricing error",
-      "url": "https://kotaku.com/playstation-store-uncharted-god-of-war-knack-delisted-2000745375",
-      "urlToImage": "https://kotaku.com/app/uploads/2019/04/h9gbrcwqu9vtuivxgrlu-1200x675.jpg",
-      "publishedAt": "2026-10-13T21:15:35Z",
-      "content": "As Sony marches on to an all-digital future, its scary to see that a handful of its first-party games are suddenly disappearing from the PlayStation Store without warning, even if only temporarily. F… [+1431 chars]"
+      "author": "Joe Rossignol",
+      "title": "HomePod Mini 2 Works as Default Speaker With Select Macs - MacRumors",
+      "description": "The new HomePod mini 2 can be used as a default speaker on all Mac models with Wi-Fi 6E or later, according to Apple. You can use a single HomePod,...",
+      "url": "https://www.macrumors.com/2026/10/13/homepod-mini-2-default-mac-speaker/",
+      "urlToImage": "https://images.macrumors.com/t/sS-Pd_cKzSHSPdTS4kNlzjzjUoM=/1960x/article-new/2026/10/HomePod-mini-2-Mac.jpg",
+      "publishedAt": "2026-10-13T21:19:09Z",
+      "content": "Really? I'm not following....\r\nWiFi 4 operates on the 2.4GHz radio frequency band, which is very congested most of your WiFi devices are on that band, as are those of your neighbors (which becomes a … [+1410 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Digitalfoundry.net"
+      },
+      "author": "William Judd",
+      "title": "Xbox Forms Labs Group for Vibe-Coded Game Ports - Digital Foundry",
+      "description": "We're approaching a critical mass - is Xbox putting itself on the right side of history?",
+      "url": "https://www.digitalfoundry.net/news/2026/10/xbox-forms-labs-group-for-vibe-coded-game-ports",
+      "urlToImage": "https://images.digitalfoundry.net/eea6dc9ac4706/1280x720.jpg",
+      "publishedAt": "2026-10-13T20:31:00Z",
+      "content": "The number of ported, decompiled and recompiled games has shot up exponentially over the past month, with retro titles escaping long-standing platform restrictions to turn up on PCs, phones and conso… [+1993 chars]"
     },
     {
       "source": {
@@ -213,41 +343,15 @@
     {
       "source": {
         "id": null,
-        "name": "GamesIndustry.biz"
+        "name": "9to5Mac"
       },
-      "author": "Jon Hicks",
-      "title": "Xbox announces Xbox Labs, a new initiative to trial emerging ideas and \"new technology\" - GamesIndustry.biz",
-      "description": "New business unit is charged with testing new projects and judging them by user feedback",
-      "url": "https://www.gamesindustry.biz/xbox-announces-xbox-labs-a-new-initiative-to-trial-emerging-ideas-and-new-technology",
-      "urlToImage": "https://assetsio.gnwcdn.com/XBOX-LABS.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "publishedAt": "2026-10-13T19:00:00Z",
-      "content": "Xbox CEO Asha Sharma has announced the creation of Xbox Labs, a new team within the organisation to \"turn emerging ideas into things our players and developers can experience.\" The unit is a \"a small… [+3746 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "TechSpot"
-      },
-      "author": "Kishalaya Kundu",
-      "title": "The developer who cloned Photoshop using AI has now created Word, Excel, and PowerPoint replicas with Claude - TechSpot",
-      "description": "Called WordCraft, GridCraft, and DeckCraft, respectively, the open-source applications are written in Rust with Anthropic's Claude Opus 5.5, as the Adobe replicas were, and are available for...",
-      "url": "https://www.techspot.com/news/114179-developer-who-cloned-photoshop-using-ai-has-now.html",
-      "urlToImage": "https://www.techspot.com/images2/news/bigimage/2026/10/2026-10-13-image-23.jpg",
-      "publishedAt": "2026-10-13T18:53:00Z",
-      "content": "First look: Though vibe-coded apps are often slammed as \"AI slop\" by users and developers alike, generative AI can now produce complex productivity apps that rival market leaders. After building free… [+2489 chars]"
-    },
-    {
-      "source": {
-        "id": "ign",
-        "name": "IGN"
-      },
-      "author": "Cade Onder",
-      "title": "EA Sports' College Football Franchise Reportedly in Jeopardy Amidst Rising Costs and Declining Sales - IGN",
-      "description": "Developers working on EA Sports' College Football franchise reportedly fear that the series may not live to see the end of the decade.",
-      "url": "https://www.ign.com/articles/ea-sports-college-football-devs-reportedly-fear-the-franchise-could-disappear-by-2030",
-      "urlToImage": "https://assets-prd.ignimgs.com/2024/05/27/cf25-blogroll-1716836985997.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "publishedAt": "2026-10-13T18:34:41Z",
-      "content": "Developers working on EA Sports' College Football franchise reportedly fear that the series may not live to see the end of the decade.\r\nThe report comes from Insider Gaming's Mike Straw, who spoke to… [+3274 chars]"
+      "author": "Zac Hall",
+      "title": "iOS 27.2 beta 4 no longer includes Apple’s overhauled Health app - 9to5Mac",
+      "description": "An overhauled Apple Health app is coming, but it looks like iOS 27.2 won’t include it. Apple first announced the...",
+      "url": "https://9to5mac.com/2026/10/13/ios-27-2-beta-4-no-longer-includes-apples-overhauled-health-app/",
+      "urlToImage": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-health-app-ios-27-2.jpg?quality=82&strip=all&resize=1200,628",
+      "publishedAt": "2026-10-13T18:57:00Z",
+      "content": "An overhauled Apple Health app is coming, but it looks like iOS 27.2 won’t include it.\r\nApple first announced the upgraded Health app in September. The company still says to expect it to launch later… [+949 chars]"
     },
     {
       "source": {
@@ -290,6 +394,19 @@
     },
     {
       "source": {
+        "id": null,
+        "name": "Techpowerup.com"
+      },
+      "author": null,
+      "title": "8BitDo Launches Ultimate 3C+ Wireless Controller with Thumb Stick Tension Adjustment and Extra Buttons - TechPowerUp",
+      "description": "8BitDo has officially launched the latest version of its Ultimate Wireless controller, the Ultimate 3C+, which is, for an intents and purposes, a more affordable version of the recently revealed special edition Ultimate 3 Wireless controllers. The Ultimate 3C…",
+      "url": "https://www.techpowerup.com/353677/8bitdo-launches-ultimate-3c-wireless-controller-with-thumb-stick-tension-adjustment-and-extra-buttons",
+      "urlToImage": "https://www.techpowerup.com/img/Ro0wgM370FeWcUEi.jpg",
+      "publishedAt": "2026-10-13T17:00:53Z",
+      "content": "8BitDo has officially launched the latest version of its Ultimate Wireless controller, the Ultimate 3C+, which is, for an intents and purposes, a more affordable version of the recently revealed spec… [+1537 chars]"
+    },
+    {
+      "source": {
         "id": "techcrunch",
         "name": "TechCrunch"
       },
@@ -303,16 +420,29 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "MacRumors"
+        "id": "polygon",
+        "name": "Polygon"
       },
-      "author": "Joe Rossignol",
-      "title": "Apple Says HomePod Mini 2 Won't Support Siri AI Right Away - MacRumors",
-      "description": "Siri AI support on the new HomePod mini 2 will be \"available later\" as part of a \"future software update,\" according to Apple. In...",
-      "url": "https://www.macrumors.com/2026/10/13/homepod-mini-2-siri-ai-coming-later/",
-      "urlToImage": "https://images.macrumors.com/t/1m_IJGlYb4s4DAvTIqdrNmtNaEg=/1600x/article-new/2026/10/HomePod-mini-2-Trio.jpg",
-      "publishedAt": "2026-10-13T16:10:46Z",
-      "content": "Siri AI support on the new HomePod mini 2 will be \"available later\" as part of a \"future software update,\" according to Apple. In other words, do not expect Siri AI to be available on the speaker whe… [+165 chars]"
+      "author": "Elijah Gonzalez",
+      "title": "Xbox CEO says company 'won't survive' without new IP despite axing key studios - Polygon.com",
+      "description": "Xbox CEO Asha Sharma said in a town hall that the division needs to focus on new IP after divesting from many of its studios that made new IP.",
+      "url": "https://www.polygon.com/microsoft-new-ip-comments-ceo-asha-sharma-hypocrisy/",
+      "urlToImage": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/hellblade.jpg?w=1600&h=900&fit=crop",
+      "publishedAt": "2026-10-13T16:22:58Z",
+      "content": "As Xbox continues its major reset, which has led to at least 1,600 job cuts and divestment from several studios, Xbox CEO Asha Sharma recently said in internal company communications that the divisio… [+3027 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Insider-gaming.com"
+      },
+      "author": "Mike Straw",
+      "title": "EXCLUSIVE: EA Sports College Football’s Future in Jeopardy, Sources Fear - Insider Gaming",
+      "description": "EA Sports College Football faces rising NIL costs and monetization concerns, with sources fearing the franchise's future moving forward.",
+      "url": "https://insider-gaming.com/ea-sports-college-football-future/",
+      "urlToImage": "https://insider-gaming.com/wp-content/uploads/2026/10/CFB27Screen.jpg",
+      "publishedAt": "2026-10-13T16:17:15Z",
+      "content": "EA Sports College Football’s future is facing questions just two years after the franchise’s hugely successful return. In 2024, EA Sports released College Football 25, bringing college football video… [+5837 chars]"
     },
     {
       "source": {
@@ -343,32 +473,6 @@
     {
       "source": {
         "id": null,
-        "name": "Nintendo Life"
-      },
-      "author": "Ollie Reynolds",
-      "title": "Mini Review: Resident Evil 3 (Switch 2) - An Impressive Port Of A Subpar Remake - Nintendo Life",
-      "description": "Stars don't shine",
-      "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/resident-evil-3",
-      "urlToImage": "https://images.nintendolife.com/bffb3d223dff4/1280x720.jpg",
-      "publishedAt": "2026-10-13T15:05:00Z",
-      "content": "<ol></ol>\r\nIts generally accepted that Resident Evil 3 is the worst of the series modern remakes. While RE2 and 4 both expanded upon their respective originals, RE3 made several cutbacks to environme… [+2732 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Kotaku"
-      },
-      "author": "Zack Zwiezen",
-      "title": "Grand Theft Auto's Iconic Cover Design Only Exists Because Of 9/11 And Was Created At The Last Minute - Kotaku",
-      "description": "The franchise's famous cover layout was apparently designed in about 48 hours",
-      "url": "https://kotaku.com/grand-theft-autos-iconic-cover-design-only-exists-because-of-9-11-and-was-created-at-the-last-minute-2000745275",
-      "urlToImage": "https://kotaku.com/app/uploads/2021/08/fcb603184aa3735278eb9cf71b79b6e0.jpg",
-      "publishedAt": "2026-10-13T15:00:02Z",
-      "content": "One of the Grand Theft Auto series’ most famous features is its enduring use of segmented covers featuring cartoon drawings of characters and vehicles from that particular installment. This all start… [+2891 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "PCMag.com"
       },
       "author": "Eric Zeman",
@@ -394,16 +498,29 @@
     },
     {
       "source": {
-        "id": "ign",
-        "name": "IGN"
+        "id": "google-news",
+        "name": "Google News"
       },
-      "author": "Jacqueline Thomas",
-      "title": "Nvidia RTX 5090 Reportedly Dead, but It's So Expensive That It Doesn't Really Matter - IGN",
-      "description": "While the RTX 5090 was already hard enough to get at a reasonable price, new leaks suggest that Nvidia is flat-out discontinuing its flagship graphics card.",
-      "url": "https://www.ign.com/articles/nvidia-rtx-5090-reportedly-dead-but-its-so-expensive-that-it-doesnt-really-matter",
-      "urlToImage": "https://assets-prd.ignimgs.com/2026/03/23/jensen-gpu-1774306276198.png?width=1280&format=jpg&auto=webp&quality=80",
-      "publishedAt": "2026-10-13T14:35:24Z",
-      "content": "While the RTX 5090 was already hard enough to get at a reasonable price, new leaks suggest that Nvidia is flat-out discontinuing its flagship graphics card. \r\nGPU leaker zed__wang on X/Twitter posted… [+3138 chars]"
+      "author": "Windows Central",
+      "title": "\"Begun, the clone wars have\" — Microsoft 365 apps have been copied by the AI dev who cloned the Adobe suite - Windows Central",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPR25wS2JuTk9YVW1YWG9oRnZWMEhZb1lVdVNkc21YZGs4TEJ6OW5pMmlJYWdlYWFuOXJ4LTlBWWtZQndOMXdKaVFnY1JyLWdXcVc4Z05UVkpjYTRZbjN6SWYwdW5iNEh1UkF2MDFYaGtxY0YxWUJFUmEzZ1I0Zm9oWnBiMnk0cFJFR2xXaXUxa05BTXl3c0w5VWdWbzV1R1dYeEVGdWNLdjViQjlnTl9wanlEcnBKQjIwdlhrQnpkeEpOeHkxTlV5N3VjSFA2elI5MTh0TXVVSVF2cFowaF9HOA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2026-10-13T14:27:23Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Chrome Unboxed"
+      },
+      "author": "Chrome Unboxed",
+      "title": "One of my biggest Googlebook gripes is the overly-basic Virtual Desks feature - Chrome Unboxed",
+      "description": null,
+      "url": "https://chromeunboxed.com/one-of-my-biggest-googlebook-gripes-is-the-overly-basic-virtual-desks-feature/",
+      "urlToImage": null,
+      "publishedAt": "2026-10-13T14:22:17Z",
+      "content": null
     },
     {
       "source": {
@@ -433,29 +550,42 @@
     },
     {
       "source": {
-        "id": "polygon",
-        "name": "Polygon"
+        "id": null,
+        "name": "Videocardz.com"
       },
-      "author": "Willa Rowe",
-      "title": "Sony Reveals Gorgeous New Playstation 5 Hardware - Polygon.com",
-      "description": "Sony has unveiled a sleek Midnight Black PlayStation 5, but it's exclusive to Japan",
-      "url": "https://www.polygon.com/playstation-5-midnight-black-japan-exclusive-console-controller-revealed/",
-      "urlToImage": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/midnight-black-ps5-2.jpg?w=1600&h=900&fit=crop",
-      "publishedAt": "2026-10-13T13:50:46Z",
-      "content": "The PlayStation 5 (and its accessories) is no stranger to limited editions. Just this year, Sony released a Wolverine-themed take on the console, as well as Marathon-themed and Grand Theft Auto 6them… [+2158 chars]"
+      "author": null,
+      "title": "GTA 6 leaker Cyberleek claims full playable build exceeds 200GB - VideoCardz.com",
+      "description": "Cyberleek says its alleged playable GTA 6 build exceeds 200GB. The figure comes from a new crypto-linked roadmap, not Rockstar's official storage requirements.",
+      "url": "https://videocardz.com/newz/gta-6-leaker-cyberleek-claims-full-playable-build-exceeds-200gb",
+      "urlToImage": "https://cdn.videocardz.com/1/2026/10/GTA6.jpeg",
+      "publishedAt": "2026-10-13T13:23:37Z",
+      "content": "© Rockstar Games\r\nCyberleek has shared a new detail about the alleged playable build of Grand Theft Auto VI. According to an October 12 update, the game build supposedly exceeds 200GB. This is the fi… [+1348 chars]"
     },
     {
       "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
+        "id": "ign",
+        "name": "IGN"
       },
-      "author": "Lauren Forristal",
-      "title": "Apple’s new smart home line-up includes a smart lock, thermostat and video doorbells - TechCrunch",
-      "description": "The new devices work with HomeView, the company's new smart home hub which can be used to control accessories and interact with apps.",
-      "url": "https://techcrunch.com/2026/10/13/apples-new-smart-home-line-up-includes-a-smart-lock-thermostat-and-video-doorbells/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/10/Apple-Home-Collection-lineup-261013_big.jpg.large_2x.jpg?w=1200",
-      "publishedAt": "2026-10-13T13:37:19Z",
-      "content": "Apple is getting serious about the smart home space. The company on Tuesday showed off its new Apple Home Collection, which includes a new smart deadbolt lock, video doorbell, thermostat, temperature… [+1902 chars]"
+      "author": "Simon Cardy",
+      "title": "25 Years Later, Dan Houser Recalls How GTA’s Iconic Cover Art Style Only Exists Because of 9/11 - IGN",
+      "description": "25 years later, Dan Houser recalls how GTA’s iconic cover art style only exists because of 9/11.",
+      "url": "https://www.ign.com/articles/dan-houser-reveals-how-911-changed-gta-forever",
+      "urlToImage": "https://assets-prd.ignimgs.com/2026/10/13/gta-3-cover-blog-1791888082659.jpg?width=1280&format=jpg&auto=webp&quality=80",
+      "publishedAt": "2026-10-13T13:15:00Z",
+      "content": "Theres arguably no more recognisable style of cover art than that of the Grand Theft Auto series. The panelled collection of images featuring characters and locations from each open world that has ad… [+4562 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Forbes"
+      },
+      "author": "Forbes",
+      "title": "Bungie Drops Hint About ‘Destiny 1’ Remaster And PC Release - Forbes",
+      "description": null,
+      "url": "https://www.forbes.com/sites/paultassi/2026/10/13/bungie-drops-hint-about-destiny-1-remaster-and-pc-release/",
+      "urlToImage": null,
+      "publishedAt": "2026-10-13T12:51:55Z",
+      "content": null
     },
     {
       "source": {
@@ -512,41 +642,93 @@
     {
       "source": {
         "id": null,
-        "name": "Gameinformer.com"
+        "name": "Android Police"
       },
-      "author": "Charles Harte",
-      "title": "Castlevania: Belmont's Curse Review: Worthy of the Whip - Game Informer",
-      "description": "Castlevania: Belmont's Curse (Xbox Series X/S) Review – 9.25/10: Castlevania is back, and between Rose Belmont and Evil Empire, it's in great hands. - Game Informer",
-      "url": "https://gameinformer.com/review/castlevania-belmonts-curse/worthy-of-the-whip",
-      "urlToImage": "https://gameinformer.com/sites/default/files/styles/og_image/public/2026/10/12/958d147f/Castlevania_%20Belmont%E2%80%99s%20Curse%20-%20Announcement%20Trailer%20_%20PS5%20Games%201-19%20screenshot.jpg.webp",
-      "publishedAt": "2026-10-13T07:01:00Z",
-      "content": "Castlevania has been a dormant franchise for years, but Belmont's Curse revives the series with fiery passion. There are hundreds of indies inspired by Konami's gothic vampire-hunting games, putting … [+4404 chars]"
+      "author": "Ben Khalesi",
+      "title": "Google pulled the best Gemini models from free users; here's the cheapest fix - Android Police",
+      "description": "I found the one plan worth paying for",
+      "url": "https://www.androidpolice.com/gemini-plan-worth-paying-for/",
+      "urlToImage": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2026/10/gemini-logo-beside-a-model-selection-menu-showing-flash-lite-available-and-flash-and-pro-unavailable.png?w=1600&h=900&fit=crop",
+      "publishedAt": "2026-10-13T10:00:10Z",
+      "content": "Until recently, free Gemini was a steal. Without handing Google a dime, you got Gemini 3.6 Flash and a taste of Gemini 3.1 Pro, the same models AI Plus subscribers paid for.\r\nBetter yet, the usage ca… [+6472 chars]"
     },
     {
       "source": {
-        "id": "ars-technica",
-        "name": "Ars Technica"
+        "id": null,
+        "name": "SlashGear"
       },
-      "author": "Samuel Axon",
-      "title": "After a 10-year redemption arc, No Man’s Sky is coming to the iPhone and iPad - Ars Technica",
-      "description": "You can get a universe in your pocket if you have an iPhone 11 or later.",
-      "url": "https://arstechnica.com/gaming/2026/10/after-a-10-year-redemption-arc-no-mans-sky-is-coming-to-the-iphone-and-ipad/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/no-mans-sky-iphone-1152x648-1791835932.jpg",
-      "publishedAt": "2026-10-12T20:26:14Z",
+      "author": "Jonathan H. Kantor",
+      "title": "5 Of The Best Official Gaming Consoles You Can Buy With Built-In Old-School Games - SlashGear",
+      "description": "The market is awash with DIY and bootleg retro consoles. We narrowed down which of the many mini-consoles are best to adorn your gaming space.",
+      "url": "https://www.slashgear.com/2280320/best-old-school-retro-gaming-consoles-with-built-in-games-officially-licensed/",
+      "urlToImage": "https://www.slashgear.com/img/gallery/5-of-the-best-official-gaming-consoles-you-can-buy-with-built-in-old-school-games/l-intro-1791395161.jpg",
+      "publishedAt": "2026-10-13T09:45:00Z",
+      "content": "The Atari 2600 was released in 1977 as the Atari Video Computer System (VCS), but it was renamed in 1982 when the company released the Atari 5200. The system was one of the first home gaming consoles… [+1278 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "PhoneArena"
+      },
+      "author": "PhoneArena",
+      "title": "To my surprise, the Galaxy S27 Pro has overtaken the Galaxy S27 Ultra - PhoneArena",
+      "description": null,
+      "url": "https://www.phonearena.com/news/galaxy-s27-pro-overtakes-galaxy-s27-ultra_id184029",
+      "urlToImage": null,
+      "publishedAt": "2026-10-13T07:27:28Z",
       "content": null
     },
     {
       "source": {
         "id": null,
-        "name": "Nature.com"
+        "name": "Huaweicentral.com"
+      },
+      "author": "Huawei Central",
+      "title": "Huawei is only smartphone brand to see double-digit growth in Q3 2026: Report - Huawei Central",
+      "description": null,
+      "url": "https://www.huaweicentral.com/huawei-q3-2026-smartphone-growth/",
+      "urlToImage": null,
+      "publishedAt": "2026-10-13T05:39:18Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "buzzfeed",
+        "name": "Buzzfeed"
+      },
+      "author": "Dave Stopera",
+      "title": "I HATE To Break It To You, But If You Recognize Any Of These 32 Pictures, You Are Officially Ancient - BuzzFeed",
+      "description": "Sorry, but I don't make the rules. It's the truth.",
+      "url": "https://www.buzzfeed.com/daves4/if-youve-eaten-these-foods-youre-old-fs",
+      "urlToImage": "https://img.buzzfeed.com/buzzfeed-static/static/2023-04/25/18/enhanced/2ab1e4c766cd/original-567-1682446788-2.jpg?crop=1243:650;0,179%26downsize=1250:*",
+      "publishedAt": "2026-10-13T00:11:09Z",
+      "content": "by Dave StoperaBuzzFeed\r\nBuzzFeed StaffHi, Im Dave, author of all those articles your aunt sent you that you may or may not have clicked on.These include: the most-read post in BuzzFeed history, this… [+96 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "GamesIndustry.biz"
+      },
+      "author": "Vikki Blake",
+      "title": "Dragon Quest creator Yuji Horii releases game he says he made with AI in about 30 minutes - GamesIndustry.biz",
+      "description": "Yuji Horii, the creator of Dragon Quest, says he has produced a new game using AI in about 30 minutes.",
+      "url": "https://www.gamesindustry.biz/dragon-quest-creator-yuji-horii-releases-game-he-says-he-made-with-ai-in-about-30-minutes",
+      "urlToImage": "https://assetsio.gnwcdn.com/Screenshot-2026-10-12-at-19.25.58.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "publishedAt": "2026-10-12T18:49:25Z",
+      "content": "Yuji Horii, the creator of Dragon Quest, says he has produced a new game using AI in about 30 minutes.\r\nHorii shared the game, a text-based police interrogation game, in a post on X/Twitter. He said … [+1374 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Android Authority"
       },
       "author": null,
-      "title": "Award-winning microscopy image disqualified over AI use - Nature",
-      "description": "The incident has prompted discussions about the use of artificial intelligence in scientific imagery.",
-      "url": "https://www.nature.com/articles/d41586-026-03240-7",
-      "urlToImage": "https://media.nature.com/lw1200/magazine-assets/d41586-026-03240-7/d41586-026-03240-7_53840270.jpg",
-      "publishedAt": "2026-10-12T18:33:45Z",
-      "content": "A winning video showing beating airway cilia has been disqualified from the Small World in Motion competition for failing to comply with competition rules.Credit: Ning Xu/Nikon Small World\r\nThe winni… [+2793 chars]"
+      "title": "A recent Samsung change leaves some Galaxy phones stuck after updating - Android Authority",
+      "description": "A One UI 9 post-update \"access denied\" error is preventing some Samsung Galaxy devices from reaching the home screen.",
+      "url": "https://www.androidauthority.com/samsung-one-ui-9-update-xml-access-denied-error-3722187/",
+      "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2026/10/Now-Brief-visible-on-Samsung-Galaxy-S26-Ultras-Home-Screen.jpg",
+      "publishedAt": "2026-10-12T18:33:00Z",
+      "content": "<ul><li>Some Galaxy users report getting stuck on an XML Access Denied screen after updating to One UI 9.</li><li>The issue appears during Samsungs post-update setup, not during the update itself, so… [+2544 chars]"
     },
     {
       "source": {
@@ -590,28 +772,15 @@
     {
       "source": {
         "id": null,
-        "name": "MacRumors"
+        "name": "TechSpot"
       },
-      "author": "Joe Rossignol",
-      "title": "Apple and Pokémon Tease Special Pikachu-Themed Beats Pill Speaker - MacRumors",
-      "description": "Beats today shared a short video teasing a new collaboration with Pokémon, and it appears this will be for a Pikachu-themed Beats Pill speaker.  ...",
-      "url": "https://www.macrumors.com/2026/10/12/beats-pokemon-teaser/",
-      "urlToImage": "https://images.macrumors.com/t/RD3vd-k0tYAp6gy5GfRw3aKI0KA=/1600x/article-new/2026/10/Pokemon-Beats-Pill-Feature-2-1.jpg",
-      "publishedAt": "2026-10-12T16:08:50Z",
-      "content": "Beats today shared a short video teasing a new collaboration with Pokémon, and it appears this will be for a Pikachu-themed Beats Pill speaker.\r\n\"Time to catch something new,\" the video title says. T… [+520 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "9to5google.com"
-      },
-      "author": "Abner Li",
-      "title": "Googlebook OS review: A post-smartphone PC, if Google can keep it - 9to5Google",
-      "description": "All attempts to bring the lessons and benefits of the touch era to PCs have failed, from Windows 8 to...",
-      "url": "http://9to5google.com/2026/10/12/googlebook-os-review/",
-      "urlToImage": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/hp-googlebook-3.jpg?quality=82&strip=all&resize=1200,628",
-      "publishedAt": "2026-10-12T16:00:00Z",
-      "content": "All attempts to bring the lessons and benefits of the touch era to PCs have failed, from Windows 8 to the era after the iPad when the Mac gained fullscreen apps. From an experience perspective, the i… [+16852 chars]"
+      "author": "Rob Thubron",
+      "title": "Police are using AI to locate homes from a single interior photo, and even a picture of a washing machine can be enough - TechSpot",
+      "description": "The tool, which is called Raven, is being used by the Los Angeles Police Department and Miami-Dade Sheriff's Office (MDSO), reports 404 Media. Made by a company...",
+      "url": "https://www.techspot.com/news/114174-police-using-ai-locate-homes-single-interior-photo.html",
+      "urlToImage": "https://www.techspot.com/images2/news/bigimage/2026/10/2026-10-12-image-7.jpg",
+      "publishedAt": "2026-10-12T15:38:00Z",
+      "content": "A hot potato: AI has been helping police forces across the US over the last few years, for better and for worse. The latest use of the technology allows law enforcement to input an interior photo of … [+2645 chars]"
     },
     {
       "source": {
@@ -625,19 +794,6 @@
       "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/10/IMG_4514.webp?w=1200",
       "publishedAt": "2026-10-12T15:11:19Z",
       "content": "Google’s Fitbit lineup expanded on Monday with the introduction of the Fitbit Edge, a new wearable that’s positioned between the Fitbit Air and Pixel Watch. \r\nPriced at $179.99, it combines the Fitbi… [+1912 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNET"
-      },
-      "author": "Patrick Holland",
-      "title": "I Tested the iPhone 18 Pro and Pro Max’s Batteries and Was Awestruck by One Change - CNET",
-      "description": "Turns out the new iPhone 18 Pro and Pro Max have more to offer than just their fancy camera and new burgundy color. Both performed well in our battery tests.",
-      "url": "https://www.cnet.com/tech/mobile/iphone-18-pro-max-battery-charging-tests-lab-exclusive/",
-      "urlToImage": "https://www.cnet.com/wp-content/uploads/sites/2/Image_20261009_090030_990-1.jpeg",
-      "publishedAt": "2026-10-12T15:00:21Z",
-      "content": "Battery life might be the iPhone 18 Pro’s sleeper feature.\r\nWhen Apple announced the iPhone 18 Pro and 18 Pro Max, the phones were instantly overshadowed by their new sibling, the iPhone Duo, which h… [+7903 chars]"
     },
     {
       "source": {
@@ -680,19 +836,6 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "404media.co"
-      },
-      "author": "Joseph Cox",
-      "title": "AI Company Lets Cops Pinpoint Specific Houses Based on a Single Interior Photo - 404 Media",
-      "description": "Raven, previously called GeoSpy, lets cops figure out what specific Airbnb or Zillow property a photo was taken in.",
-      "url": "https://www.404media.co/ai-company-lets-cops-pinpoint-specific-houses-based-on-a-single-interior-photo/",
-      "urlToImage": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/10/raven-1.png",
-      "publishedAt": "2026-10-12T13:04:41Z",
-      "content": "An AI company now lets cops take a photo and nearly instantly figure out what specific home it was taken in, using only clues in the photo itself, and is clearly pulling data from sites like Zillow a… [+431 chars]"
-    },
-    {
-      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -720,28 +863,15 @@
     {
       "source": {
         "id": null,
-        "name": "Nintendo Life"
+        "name": "TechSpot"
       },
-      "author": "Ollie Reynolds",
-      "title": "\"It's Truly Astonishing\" - Dragon Quest Creator Yuji Horii Made An AI-Generated Game In 30 Minutes - Nintendo Life",
-      "description": "\"I can just give instructions to the AI\"",
-      "url": "https://www.nintendolife.com/news/2026/10/its-truly-astonishing-dragon-quest-creator-yuji-horii-made-an-ai-generated-game-in-30-minutes",
-      "urlToImage": "https://images.nintendolife.com/53a63f3a15917/1280x720.jpg",
-      "publishedAt": "2026-10-12T12:00:00Z",
-      "content": "Image: Square Enix\r\nDragon Quest creator Yuji Horii has released a brand new game, but with a twist: it's completely AI-generated.\r\nAs covered by VGC, Horii-san posted a link on X to a game titled In… [+1941 chars]"
-    },
-    {
-      "source": {
-        "id": "ign",
-        "name": "IGN"
-      },
-      "author": "Wesley Yin-Poole",
-      "title": "'It's for the People in Stardew Valley That Go Into the Mines' — ConcernedApe Says Haunted Chocolatier Is 'More of an Action RPG' - IGN",
-      "description": "Eric Barone, aka ConcernedApe, has discussed the difference between his all-conquering indie game Stardew Valley and his hotly anticipated follow-up, Haunted Chocolatier.",
-      "url": "https://www.ign.com/articles/haunted-chocolatier-more-of-an-action-rpg-compared-to-stardew-valley-concernedape-says",
-      "urlToImage": "https://assets-prd.ignimgs.com/2026/02/02/stardewvalley-feature-hauntedchocolatier-blogroll-1770062121132.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "publishedAt": "2026-10-12T11:02:55Z",
-      "content": "Eric Barone, aka ConcernedApe, has briefly discussed the difference between his all-conquering indie game Stardew Valley and his hotly anticipated follow-up, Haunted Chocolatier.\r\nBarone announced Ha… [+5199 chars]"
+      "author": "Rob Thubron",
+      "title": "Nikon photography contest winner loses title after scientists spot telltale signs of AI-generated footage - TechSpot",
+      "description": "Nikon's 16th annual Small World in Motion contest is open to any movie or digital time-lapse photography taken through the microscope.",
+      "url": "https://www.techspot.com/news/114171-nikon-photography-contest-winner-loses-title-after-scientists.html",
+      "urlToImage": "https://www.techspot.com/images2/news/bigimage/2026/10/2026-10-12-image-4.jpg",
+      "publishedAt": "2026-10-12T12:46:00Z",
+      "content": "A hot potato: It seems that the once-popular trend of entering AI-generated content in competitions made for humans hasn't gone away. The winner of one of the world's most prestigious scientific phot… [+3133 chars]"
     },
     {
       "source": {
@@ -872,19 +1002,6 @@
       "urlToImage": "https://static01.nyt.com/images/2026/09/09/multimedia/08SCI-MEDICAL-CHATBOT/00SCI-OPENAI-DATA-flbh-mediumSquareAt3X.jpg",
       "publishedAt": "2026-10-08T22:48:07Z",
       "content": "Nearly 100 patients discussed their maladies with a Google bot, called AMIE, before meeting with physicians."
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "author": "Adeel Hassan",
-      "title": "Man vs. ‘Terminator’-Like Robot in a Cage. California Called It Illegal.",
-      "description": "A tech start-up’s stunt in San Francisco tested the boundaries of combat sport safety and regulations.",
-      "url": "https://www.nytimes.com/2026/10/08/technology/human-robot-cage-fights-california-rek.html",
-      "urlToImage": null,
-      "publishedAt": "2026-10-08T14:40:13Z",
-      "content": "A tech start-up’s stunt in San Francisco tested the boundaries of combat sport safety and regulations."
     }
   ]
 }

@@ -1,7 +1,20 @@
 {
   "status": "ok",
-  "totalResults": 79,
+  "totalResults": 81,
   "articles": [
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "The New York Times and Joanna Ni",
+      "title": "Ms., Martians and Guacamole: Their First Time in The Times",
+      "description": "Our reporters share a compendium of debuts, discoveries and (sometimes overdue) appearances in the paper.",
+      "url": "https://www.nytimes.com/2026/10/15/us/175-anniversary-history-corrections-pulitzer-martian.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/10/14/multimedia/00firsts-promo-tk/00firsts-promo-tk-mediumSquareAt3X-v3.jpg",
+      "publishedAt": "2026-10-15T19:50:16Z",
+      "content": "Our reporters share a compendium of debuts, discoveries and (sometimes overdue) appearances in the paper."
+    },
     {
       "source": {
         "id": "the-new-york-times",
@@ -56,6 +69,32 @@
     },
     {
       "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "New York Post",
+      "title": "Bryan Johnson’s girlfriend is tracking her own ‘nighttime erections’ — with a special ‘techno tampon’ - New York Post",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQbU4xWkE4WDVNcGN1bUxYclhrdVZieVQ3LVMtSFNzek9FMjVHUENRZ28yUllBTjRJeFVQZUZQUGNraE8zbGZtZnZVYUx4VExPWm53TmV3XzdnM1liOFdnalNGSmF6S1hqUzRYUG01QWRyeTh1ZVVhajVpbTlUQVB2R0pSMDhsWHdVUHhSUm55aV9oTS1UcUxQS3Q5OWJuRGZMVV9tWVNONXR1OHl3WEJJSHd4SQ?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2026-10-14T16:43:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "the-hill",
+        "name": "The Hill"
+      },
+      "author": "Suryatapa Chakraborty",
+      "title": "Senate Republican knocks Trump administration on measles surge: ‘Get vaccinated, you don’t die’ - The Hill",
+      "description": "The chair of the Senate Health, Education, Labor and Pensions Committee, Sen. Bill Cassidy (R-La.), argued the Trump administration is not promoting vaccinations vigorously enough amid a massive measles outbreak that has claimed multiple lives in 2026. “My co…",
+      "url": "https://thehill.com/policy/healthcare/6148134-cassidy-criticizes-trump-kennedy-vaccination-efforts/",
+      "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2026/09/cassidybill_092426gn03_w.jpg?w=1280",
+      "publishedAt": "2026-10-14T16:40:00Z",
+      "content": "Skip to content\r\nThe chair of the Senate Health, Education, Labor and Pensions Committee, Sen. Bill Cassidy (R-La.), argued the Trump administration is not promoting vaccinations vigorously enough am… [+1968 chars]"
+    },
+    {
+      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -82,16 +121,16 @@
     },
     {
       "source": {
-        "id": "google-news",
-        "name": "Google News"
+        "id": null,
+        "name": "TODAY"
       },
-      "author": "The New York Times",
-      "title": "They Created a Cell That’s Almost Alive. What to Do With It Now? - The New York Times",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBjVk1KRnNxRzJQbllScURjeHJBTlJ0cHJqZVlHZHI5R3UtQU51QUc2V2ZzRTF5UmNNYWNDRHNDNXVhcW54TFNiOWhYMkxNY19WaFJldHlIeVVSa1ZJeWZWNGZ5WUdLdUtYellHR2RSNE0ySE1XVUJpbkdSdw?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2026-10-14T14:00:09Z",
-      "content": null
+      "author": "Maura Hohman, Jason Kane",
+      "title": "Leading Cancer Researcher, 47, Dies of the Disease She Was Trying to Cure. This Was Her 1st Symptom - TODAY.com",
+      "description": "Dr. Rachna Shroff, a physician-scientist who spent much of her career researching treatments for gastrointestinal cancers, has died at the age of 47.",
+      "url": "https://www.today.com/health/disease/rachna-shroff-cancer-researcher-death-47-rcna603216",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_social_share_1200x630_center,f_auto,q_auto:best/rockcms/2026-10/rachna-shroff-death-cancer-01-mh-10132026-31f578.jpg",
+      "publishedAt": "2026-10-14T12:30:41Z",
+      "content": "Dr. Rachna Shroff, a physician-scientist who spent much of her career researching treatments for gastrointestinal cancers, has died at the age of 47. She briefly battled an aggressive form of the dis… [+3541 chars]"
     },
     {
       "source": {
@@ -186,6 +225,19 @@
     },
     {
       "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "Simply Recipes",
+      "title": "These 3 Foods Aren’t Safe To Eat After They Expire, According to a Food Safety Expert - Simply Recipes",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBsNXdGNEM2UHhBSzlJUmthYUduZm1GaVN6VDB2M3I3SktnNE9Dd0x5NXhvcGowVkxyZV8tSXp4SGZDRnpSNEVqbzhSUDVOR3h5LXFsblFOQ3VNdWFlN01fd29OV1h3WktfVEk1cGVwSWVfd1Rs?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2026-10-14T09:58:00Z",
+      "content": null
+    },
+    {
+      "source": {
         "id": null,
         "name": "The Boston Globe"
       },
@@ -226,6 +278,19 @@
     {
       "source": {
         "id": null,
+        "name": "The Mary Sue"
+      },
+      "author": "Vanessa Esguerra",
+      "title": "Chicago woman paid $430 for a luxury hair styl. Then, she got ditched mid-appointment - The Mary Sue",
+      "description": "She looked forward to a luxury hairstylist experience. Instead, she ended up walking eight blocks to a 7-Eleven, desperate for a charger.",
+      "url": "https://www.themarysue.com/chicago-woman-paid-430-for-a-luxury-hair-styl-then-she-got-ditched-mid-appointment/",
+      "urlToImage": "https://www.themarysue.com/wp-content/uploads/2026/10/Chicago-woman-paid-430-for-a-luxury-salon-experience.-Then-she-got-ditched-mid-appointment.png",
+      "publishedAt": "2026-10-14T08:56:00Z",
+      "content": "Daena (@daenascloset) from Chicago decided to treat herself to hair extensions from a luxury stylist. Although she was eager, Daena reported her disappointing experience with the hairstylist on socia… [+4882 chars]"
+    },
+    {
+      "source": {
+        "id": null,
         "name": "Medical Xpress"
       },
       "author": null,
@@ -235,6 +300,19 @@
       "urlToImage": "https://scx2.b-cdn.net/gfx/news/2026/the-ovary-doesnt-retir-2.jpg",
       "publishedAt": "2026-10-14T05:00:01Z",
       "content": "Contrary to popular belief, the postmenopausal ovary is not defunct. In a new study of ovaries from 28 women, scientists at Northwestern University and the Buck Institute for Research on Aging found … [+8050 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Men's Journal"
+      },
+      "author": "Joseph Arangio",
+      "title": "This Simple 10-Second Balance Test May Reveal a Surprising Clue About Your Health - AOL.com",
+      "description": "You probably haven’t tried this physical challenge lately.",
+      "url": "https://www.mensjournal.com/health/this-simple-10-second-balance-test-may-reveal-a-surprising-clue-about-your-health",
+      "urlToImage": "https://hermes.media.static.aol.com/media/2026/10/14/a2513c7d-c185-398d-be3f-c0633976e4f7/df525951-be87-4467-b06b-3d961033aef8.jpg",
+      "publishedAt": "2026-10-14T02:55:00Z",
+      "content": "Standing on one leg for 10 seconds might reveal more about your health than you realize. A study published in the British Journal of Sports Medicine found that adults who couldnt complete this simple… [+2174 chars]"
     },
     {
       "source": {
@@ -316,6 +394,19 @@
     },
     {
       "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "ABC11 News",
+      "title": "2 dead in North Carolina from West Nile virus as central NC seeing high transmission due to ongoing warm fall weather - ABC11 News",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNcjBJVDhzYVotS2pocWRHc0hnNzFQVFR3R3JDMWRtRTJ0Z083SXFyVVhBN0psbTkxSDhiQzFFMnhzcXZaX2hLVzAycnlkTUxNMXZrRlVrRS1RUVRteVVDcXpKZ09ERVJJMGFHQ0lwQ0NXNUZaY0QxRUpCdV90a2phSVFiLXh1U0NjUmFnSUk0SWlZUEhHWmVEXzI1Tlg2WHU5R3VZUzRJajJSUjcxa0dxQldkRGRUa25hWGNFZXBQMG80YWZmelRSRWxjenQ2VVFzeXfSAdcBQVVfeXFMTW5sWUxLTTdEVEh5TmNBNDBkR1czVEVHNTFnOXh2VXlFWHEybkt5ZVFDTFo1TVdQaDE3NHZ6YXNhWVBQVS0td19UY0ZMekdmeERIaExkM21rZ2VtTnFvM0JKY3NjVFRqaXpKbEZmSjJBRmRqWXAxS2xhamkyVG5abTU4Qmx6VFNYRENfWDlTYmdUYThUaWpSQ1hDY0hzOTlsX0NrQldJdi01T09VZzZWbFowYVVwSFpmeDcxOTVWcmpCaDhGNklzeDJ0S1MwOUdDN1BMaC1KWk0?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2026-10-13T21:52:12Z",
+      "content": null
+    },
+    {
+      "source": {
         "id": null,
         "name": "Gizmodo.com"
       },
@@ -365,19 +456,6 @@
       "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2023/heart-disease-1.jpg",
       "publishedAt": "2026-10-13T19:40:25Z",
       "content": "According to the World Health Organization (WHO), nearly 17.9 million people die from cardiovascular diseases worldwide every year, with heart attacks and strokes accounting for more than four out of… [+4816 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "STAT"
-      },
-      "author": "Andrew Joseph",
-      "title": "Helen Branswell, whose reporting on infectious diseases and public health drew acclaim, dies at 69 - STAT",
-      "description": "Helen Branswell, STAT's infectious disease reporter who earned the respect of experts and public health officials with her accessible, prescient dispatches, has died at age 69.",
-      "url": "https://www.statnews.com/2026/10/13/helen-branswell-stat-reporter-obituary/",
-      "urlToImage": "https://www.statnews.com/wp-content/uploads/2026/10/STAT_Boston_DayOne_122-1-1024x576.jpg",
-      "publishedAt": "2026-10-13T18:13:54Z",
-      "content": "Helen Branswell, a renowned infectious disease reporter who earned the respect of experts and public health officials around the world with her accessible, prescient dispatches on scourges from influ… [+10710 chars]"
     },
     {
       "source": {
@@ -472,6 +550,19 @@
     },
     {
       "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "The Boston Globe",
+      "title": "Helen Branswell, whose reporting on infectious diseases and public health drew acclaim, dies at 69 - The Boston Globe",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE8zQk4wY1hpSXZBZWFERl9MbFRHcVFpMG1fZHhxWG1kNEdWMWRaYmJMTzc2U2dzcFpwSWNYazMtMTRrMmNTRk43WEhUVmRyUlZaMkE3TTFRM0kwdXVybVlVZ1ZhMV9CZXo5TWVwanFxdUM2dWhKcGJXVkVR?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2026-10-13T15:14:00Z",
+      "content": null
+    },
+    {
+      "source": {
         "id": null,
         "name": "Medscape"
       },
@@ -511,19 +602,6 @@
     },
     {
       "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": "BBC",
-      "title": "Pembrokeshire mum told to prepare for 'worst' urges others to get respiratory illness vaccine - BBC",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE53OS1kZ2dCRnlhTE42SmJSWlpJS0RkUzBVRWlDZ3JZUkhjTWVtUXlQVzFGRUlvN1RNMDFhRXRPUlZKQ2pnek1RVUFjVGs4bHZCN1UyUk5YMDdQSWc?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2026-10-13T11:55:14Z",
-      "content": null
-    },
-    {
-      "source": {
         "id": null,
         "name": "Women's Health"
       },
@@ -547,19 +625,6 @@
       "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1350595340.jpg?c=16x9&q=w_800,c_fill",
       "publishedAt": "2026-10-13T11:00:45Z",
       "content": "Dr. Jamin Brahmbhatt is a urologist and robotic surgeon with Orlando Health and an assistant professor at the University of Central Floridas College of Medicine.\r\nThere are two times I see men get hy… [+9560 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "WRAL.com"
-      },
-      "author": "WRAL",
-      "title": "Two North Carolinians dead from West Nile Virus - WRAL",
-      "description": "Two adults from Central North Carolina have died from the West Nile Virus this year.",
-      "url": "https://www.wral.com/news/local/two-north-carolinians-dead-west-nile-virus-october-2026/",
-      "urlToImage": "https://assets.wral.com/29a530aa-9b2b-46f0-830a-fd7067c5fb2e?w=1200&h=630&height=630",
-      "publishedAt": "2026-10-13T10:59:31Z",
-      "content": "Two adults from Central North Carolina have died from the West Nile Virus this year.\r\nThe Centers for Disease Control reports 11 more cases in the state this year.\r\nDr Cameron Wolfe, an infectious di… [+502 chars]"
     },
     {
       "source": {
@@ -602,28 +667,15 @@
     },
     {
       "source": {
-        "id": "cnn",
-        "name": "CNN"
-      },
-      "author": "Brenda Goodman",
-      "title": "Could GLP-1 drugs be anti-aging medications? - CNN",
-      "description": "GLP-1 medications for weight loss and diabetes appear to slow the body’s aging processes, a sign that the blockbuster drugs could ultimately help people live longer.",
-      "url": "https://www.cnn.com/2026/10/13/health/glp-1-drugs-anti-aging",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2148794370.jpg?c=16x9&q=w_800,c_fill",
-      "publishedAt": "2026-10-13T10:00:45Z",
-      "content": "GLP-1 medications for weight loss and diabetes appear to slow the bodys aging processes, a sign that the blockbuster drugs could ultimately help people live longer.\r\nThe idea that these medications m… [+8263 chars]"
-    },
-    {
-      "source": {
         "id": "google-news",
         "name": "Google News"
       },
-      "author": "Science Daily",
-      "title": "The secret to handling stress better may start at breakfast - Science Daily",
+      "author": "CNN",
+      "title": "Could GLP-1 drugs be anti-aging medications? - CNN",
       "description": null,
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5IemhqZEg4VHhqNzVGZlpBOHBxeHdWX2lNTEZOc1Y0Z09CcUk3d3dKc0IycG9BbHZ5SUV6Wm5USDNiNUVRT0E3UzRpc1BvczQxbHJSOFpBYjdQbkZhdms4XzV2WDdtRW95ZFVxYXk0Yw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFB4SkpzNktjNVJ4Nk82TlhYb1FqSUc4ZVFCOEVldW1QbkRGa1F1SzlFRTlvSnB1ZVotTko3eTZTVElGWTB6d1pMcnNVbWhQN0k2RXJQcW5nX0RsUXVlLWs1YW9LWU83eXJiT2t1ckJ6UXNoQQ?oc=5",
       "urlToImage": null,
-      "publishedAt": "2026-10-13T09:26:45Z",
+      "publishedAt": "2026-10-13T10:00:45Z",
       "content": null
     },
     {
@@ -785,6 +837,19 @@
     {
       "source": {
         "id": null,
+        "name": "News-Medical.Net"
+      },
+      "author": "Vijay Kumar Malesu",
+      "title": "Researchers followed glucose monitor users for three years and found a possible kidney benefit - News-Medical",
+      "description": "A study of more than 25,000 analytical group assignments involving high-risk adults with type 2 diabetes found that sustained real-time continuous glucose monitoring (rtCGM) was associated with substantial improvements in blood sugar control over three years.…",
+      "url": "https://www.news-medical.net/news/20261012/Researchers-followed-glucose-monitor-users-for-three-years-and-found-a-possible-kidney-benefit.aspx",
+      "urlToImage": "https://www.news-medical.net/images/news/ImageForNews_848652_17917848545616083.jpg",
+      "publishedAt": "2026-10-12T06:03:00Z",
+      "content": "Continuous blood glucose monitoring could offer benefits beyond daily diabetes management, but what happens to blood sugar control and kidney health after three years of sustained use?\r\nStudy: Contin… [+7740 chars]"
+    },
+    {
+      "source": {
+        "id": null,
         "name": "ScienceAlert"
       },
       "author": "Peter Dockrill",
@@ -859,6 +924,19 @@
       "urlToImage": "https://static01.nyt.com/images/2026/10/09/science/09sci-speedy-vaccines/09sci-speedy-vaccines-mediumSquareAt3X.jpg",
       "publishedAt": "2026-10-09T20:26:30Z",
       "content": "New details have emerged about an initiative that starts in December to fast-track the vaccines, similar to the successful push for the Covid-19 vaccine."
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "Medical Xpress",
+      "title": "Gut microbes help set the body's inflammatory response to vaccination - Medical Xpress",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNV1Y0eVZkSjVzZmc2OHBSaGJBd2NvMWhaRWRCWW9fOTMwVFJiRURPUDQ0ckpDdXJhbF84SVpXcTNydXUzb1ZUa1Y0OTFKTzNWSGRUOE5MellpUHNzLThnbF9RcHotbnl0QmY4MFplVnJUeFhGNEY4MGlWMWQzTl9RcTJoUks0M0dibllN?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2026-10-09T18:40:01Z",
+      "content": null
     },
     {
       "source": {
@@ -940,19 +1018,6 @@
     },
     {
       "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": "NEJM",
-      "title": "Advances in Systemic Treatment of Breast Cancer - NEJM",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8wSnhyb2JRNkJmSThSeWpwMzJleWZHVkVKUGtCSDNaOWRIQjVadVJEZ1ZnaW5LZVFmOGluS29pX0dnb0lXWXoxdHhnMHRaX0ZyT0Q1a3RBYkVmRExPR2dsdA?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2026-10-07T21:28:49Z",
-      "content": null
-    },
-    {
-      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -963,32 +1028,6 @@
       "urlToImage": "https://static01.nyt.com/images/2026/10/07/multimedia/07dc-murray-health-bqfj/07dc-murray-health-bqfj-mediumSquareAt3X.jpg",
       "publishedAt": "2026-10-07T19:59:11Z",
       "content": "Senator Patty Murray, a former chair of the Senate health committee, is forming a group of experts to examine how to insulate the C.D.C. from political interference."
-    },
-    {
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": "JAMA",
-      "title": "Continuous Glucose Monitoring and Long-Term Glycemic and Kidney Outcomes - JAMA",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB1bTZzcThMcWxWbnA0dzRBVEdDU0xRZElBZTFoeFhTeHE1c1JtMVQ1UTluVzJrdUFVbFd4cG85Rjg5bXZzZW5DU2Z0NnpnRlpWbjYtNHV3a3Q4YS1LYlczei1nRUN4Q1JzM2s0QUJmbXkzS1hTdkdF?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2026-10-07T18:42:51Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Themirror.com"
-      },
-      "author": "Brigid Brown",
-      "title": "Over 15M people take GLP-1 drugs in America and 54% agree on same issue - The Mirror US",
-      "description": "GLP-1 drugs go beyond weight loss, they can help with cardiovascular prevention and kidney disease, but there's one major flaw, according to a new study",
-      "url": "https://www.themirror.com/news/health/over-15m-people-take-glp-2058021",
-      "urlToImage": "https://i2-prod.themirror.com/article2058117.ece/ALTERNATES/s1200d/0_GettyImages-2239941653.jpg",
-      "publishedAt": "2026-10-07T18:20:00Z",
-      "content": "Ozempic was approved by the U.S. Food and Drug Administration (FDA) in 2017\r\nIf youve ever found yourself wondering about Ozempic and considered trying it, youre not alone. According to a new report,… [+2108 chars]"
     },
     {
       "source": {
@@ -1015,19 +1054,6 @@
       "urlToImage": null,
       "publishedAt": "2026-10-07T15:57:07Z",
       "content": "The microbiome isn’t what it used to be in many parts of the world. The shift may be affecting the well-being of people in industrialized countries."
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "author": "Jesse McKinley",
-      "title": "Presley Gerber Documented His Own Struggles, in His Own Words for Years",
-      "description": "The son of Cindy Crawford, who died last month, left behind a trove of first-person testimonials about years of drug use, trying to stay clean and his mental health.",
-      "url": "https://www.nytimes.com/2026/10/06/style/presley-gerber-death-cindy-crawford.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/09/24/multimedia/ST-PRESLEY-GERBER-05-tbjw/ST-PRESLEY-GERBER-05-tbjw-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-10-07T15:03:38Z",
-      "content": "The son of Cindy Crawford, who died last month, left behind a trove of first-person testimonials about years of drug use, trying to stay clean and his mental health."
     }
   ]
 }

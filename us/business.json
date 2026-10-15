@@ -1,7 +1,20 @@
 {
   "status": "ok",
-  "totalResults": 100,
+  "totalResults": 95,
   "articles": [
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Christine Hauser",
+      "title": "Energy Department Order Takes Aim at Mid-Atlantic Blackout Risk",
+      "description": "The order as a precaution allows grid operators to use backup generation this week. There were no widespread outages reported.",
+      "url": "https://www.nytimes.com/2026/10/14/business/department-of-energy-emergency-power-order.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/10/14/multimedia/14xp-power-qplm/14xp-power-qplm-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-10-14T23:17:50Z",
+      "content": "The order as a precaution allows grid operators to use backup generation this week. There were no widespread outages reported."
+    },
     {
       "source": {
         "id": "the-new-york-times",
@@ -66,19 +79,6 @@
       "urlToImage": "https://static01.nyt.com/images/2026/10/14/multimedia/2026-10-14-cpi-promo-index/2026-10-14-cpi-promo-index-mediumSquareAt3X-v3.png",
       "publishedAt": "2026-10-14T20:22:19Z",
       "content": "September’s Consumer Price Index report will keep pressure on President Trump and the Federal Reserve to tame intensifying price pressures."
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "author": "Christine Hauser",
-      "title": "Energy Department Order Takes Aim at Mid-Atlantic Blackout Risk",
-      "description": "The order as a precaution allows grid operators to use backup generation this week. There were no widespread outages reported.",
-      "url": "https://www.nytimes.com/2026/10/14/business/department-of-energy-emergency-power-order.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/10/14/multimedia/14xp-power-qplm/14xp-power-qplm-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-10-14T19:06:35Z",
-      "content": "The order as a precaution allows grid operators to use backup generation this week. There were no widespread outages reported."
     },
     {
       "source": {
@@ -316,6 +316,19 @@
     },
     {
       "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Lee Ying Shan, Sarah Min",
+      "title": "Stock futures are little changed as traders await consumer inflation report: Live updates - CNBC",
+      "description": "A slide in chip stocks and mixed bank results on Tuesday weighed on the major averages.",
+      "url": "https://www.cnbc.com/2026/10/13/stock-market-today-live-updates-.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108369465-1790695901856-gettyimages-2297721539-anotherday276803168_qetmyu8g.jpeg?v=1790696070&w=1920&h=1080",
+      "publishedAt": "2026-10-14T01:54:00Z",
+      "content": "U.S. stock futures were little changed Tuesday night as the release of September's consumer inflation report loomed. \r\nS&amp;P 500 futures and Nasdaq-100 futures dipped 0.03% and 0.1%, respectively, … [+2392 chars]"
+    },
+    {
+      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -350,8 +363,60 @@
       "description": "United will stop counting the number of flights its MileagePlus members take and instead require them to focus on spending-based PQPs for status.",
       "url": "https://thepointsguy.com/news/united-airlines-premier-elite-status-shakeup/",
       "urlToImage": "https://runway-media-production.global.ssl.fastly.net/us/originals/2026/06/image00033.jpeg",
-      "publishedAt": "2026-10-13T21:44:09Z",
-      "content": "United Airlines is making a big change to how its frequent flyers earn elite status.\r\nBeginning in 2027, the carrier will stop counting the number of flights its MileagePlus members take when awardin… [+7504 chars]"
+      "publishedAt": "2026-10-13T23:59:09Z",
+      "content": "United Airlines is making a big change to how its frequent flyers earn elite status.\r\nBeginning in 2027, the carrier will stop counting the number of flights its MileagePlus members take when awardin… [+7090 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "Is it OK for jobseekers or employers to use AI? - BBC",
+      "description": "Graduates are increasingly using AI to misrepresent themselves in job applications, research suggests. But some say their peer group has no choice.",
+      "url": "https://www.bbc.com/news/articles/c623dnkn8pkyo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/38df/live/64af4870-c6e7-11f1-bf38-57dc5cd42af2.jpg",
+      "publishedAt": "2026-10-13T23:04:39Z",
+      "content": "On top of this, the tech is also helping candidates write multiple applications at the same time - something known in the industry as \"spray and pray\". And Stephen Isherwood, joint chief executive of… [+128 chars]"
+    },
+    {
+      "source": {
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "author": "Beth Mole",
+      "title": "Martin Shkreli livestreamed himself violating lifetime pharma ban, FTC says - Ars Technica",
+      "description": "I can always find a couple of biotech stocks to smoke,\" Shkreli said in a livestream.",
+      "url": "https://arstechnica.com/health/2026/10/martin-shkreli-livestreamed-himself-violating-lifetime-pharma-ban-ftc-says/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2017/06/GettyImages-803564026-1152x648.jpg",
+      "publishedAt": "2026-10-13T22:48:12Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "PBS"
+      },
+      "author": "Amna Nawaz, Azhar Merchant",
+      "title": "Trump Accounts expand to millions of children, but new rules raise questions - PBS",
+      "description": "The Treasury Department has created Trump Accounts for every eligible child, automatically enrolling more than 60 million. The expansion also comes with changes to how the program works. Donors can now donate individual stocks that families can’t choose or re…",
+      "url": "https://www.pbs.org/newshour/show/trump-accounts-expand-to-millions-of-children-but-new-rules-raise-questions",
+      "urlToImage": "https://d3i6fh83elv35t.cloudfront.net/static/2026/10/trumpaccounts-1024x714.jpg",
+      "publishedAt": "2026-10-13T22:30:36Z",
+      "content": "The Treasury Department has created Trump Accounts for every eligible child, automatically enrolling more than 60 million. The expansion also comes with changes to how the program works. Donors can n… [+8034 chars]"
+    },
+    {
+      "source": {
+        "id": "nbc-news",
+        "name": "NBC News"
+      },
+      "author": "The Associated Press",
+      "title": "CVS agrees to pay $315 million to settle DOJ opioid prescription case - NBC News",
+      "description": "The lawsuit filed during the Biden administration accused CVS of filling illegitimate prescriptions for high doses of potent opioids that “fed dependence and addiction.”",
+      "url": "https://www.nbcnews.com/health/health-news/cvs-pay-315-million-settle-opioid-prescription-case-rcna603289",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/261013-CVS-aa-624-42d268.jpg",
+      "publishedAt": "2026-10-13T22:28:53Z",
+      "content": "WASHINGTON CVS Pharmacy Inc. and various subsidiaries have agreed to pay $315 million to resolve a Justice Department case alleging they unlawfully dispensed medically unnecessary prescriptions of hi… [+2827 chars]"
     },
     {
       "source": {
@@ -382,15 +447,15 @@
     {
       "source": {
         "id": null,
-        "name": "CNBC"
+        "name": "Zetter-zeroday.com"
       },
-      "author": "Sean Conlon, Justina Lee, Fred Imbert",
-      "title": "S&P 500 closes near flat after big banks post earnings and memory chip stocks decline - CNBC",
-      "description": "Traders digested a slew of corporate earnings reports from major banks along with a steep overnight decline in South Korea that put pressure on memory names.",
-      "url": "https://www.cnbc.com/2026/10/12/stock-market-today-live-updates.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108369465-1790695901856-gettyimages-2297721539-anotherday276803168_qetmyu8g.jpeg?v=1790696070&w=1920&h=1080",
-      "publishedAt": "2026-10-13T20:31:00Z",
-      "content": "The S&amp;P 500 ended near the flatline on Tuesday, with traders digesting a slew of corporate earnings reports from major banks along with a steep overnight decline in South Korea that put pressure … [+1710 chars]"
+      "author": "ZERO DAY",
+      "title": "Trezor Wallets Also Compromised with Implants - ZERO DAY",
+      "description": null,
+      "url": "https://www.zetter-zeroday.com/trezor-wallets-also-compromised-with-implants/",
+      "urlToImage": null,
+      "publishedAt": "2026-10-13T20:36:54Z",
+      "content": null
     },
     {
       "source": {
@@ -417,6 +482,19 @@
       "urlToImage": "https://static01.nyt.com/images/2026/10/12/multimedia/12obit-markey-1-hvcz/12obit-markey-1-hvcz-mediumSquareAt3X.jpg",
       "publishedAt": "2026-10-13T20:26:14Z",
       "content": "She and Kathy O’Malley — known as “the Girlfriends” — were the rare female hosts in a major market. Their freewheeling segments included “Sex Thursday.”"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "MarketWatch"
+      },
+      "author": "Britney Nguyen",
+      "title": "Micron’s stock extends declines as China competition heats up - MarketWatch",
+      "description": "Even Elon Musk says Chinese memory-chip makers are catching up",
+      "url": "https://www.marketwatch.com/story/microns-stock-extends-declines-as-china-competition-heats-up-b8ec25f0",
+      "urlToImage": "https://images.mktw.net/im-00348993/social",
+      "publishedAt": "2026-10-13T20:25:00Z",
+      "content": null
     },
     {
       "source": {
@@ -447,15 +525,15 @@
     {
       "source": {
         "id": null,
-        "name": "Fox Business"
+        "name": "404media.co"
       },
-      "author": "Brittany Miller",
-      "title": "Bank of America hit with $1.2B in penalties over money laundering compliance failures - Fox Business",
-      "description": "The Treasury Department announced approximately $1.21 billion in penalties against Bank of America over failures to investigate suspicious transactions and comply with U.S. sanctions laws",
-      "url": "https://www.foxbusiness.com/economy/bank-america-hit-1-2b-penalties-money-laundering-compliance-failures",
-      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/08/0/0/bank-of-america-charlotte-headquarters.jpg?ve=1&tl=1",
-      "publishedAt": "2026-10-13T20:16:00Z",
-      "content": "The Treasury Department announced approximately $1.21 billion in penalties against Bank of America over longstanding anti-money laundering failures and U.S. sanctions violations.\r\nRegulators found th… [+4015 chars]"
+      "author": "Jason Koebler",
+      "title": "Character.ai's Bankruptcy Documents Show the Economics of AI Don't Work - 404 Media",
+      "description": "Character.ai enshittified its product but was still burning tons of cash, its bankruptcy documents say.",
+      "url": "https://www.404media.co/character-ais-bankruptcy-documents-show-the-economics-of-ai-dont-work/",
+      "urlToImage": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/10/CleanShot-2026-10-13-at-1.04.59-PM@2x.png",
+      "publishedAt": "2026-10-13T20:09:28Z",
+      "content": "Character.ais bankruptcy is the one of the first dominos to fall in the long-foreseen AI bubble. The circumstances of its bankruptcy are exactly what critics of AI have been saying would happen\r\n: Ch… [+4772 chars]"
     },
     {
       "source": {
@@ -485,16 +563,29 @@
     },
     {
       "source": {
+        "id": "usa-today",
+        "name": "USA Today"
+      },
+      "author": "Rachel Barber",
+      "title": "US wealth and income are up, but credit card debt is too, Fed says - USA Today",
+      "description": "Americans' wealth rose at a far slower pace in recent years than during the pandemic. Median income and net worth are up, but so is credit card debt.",
+      "url": "https://www.usatoday.com/story/money/economy/2026/10/13/us-wealth-income-debt-rose-unevenly-2022-2025/92216741007/",
+      "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/10/12/USAT/92221854007-getty-images-2227056418.jpg?crop=5999,3375,x0,y312&width=3200&height=1801&format=pjpg&auto=webp",
+      "publishedAt": "2026-10-13T19:32:00Z",
+      "content": "Americans' wealth rose from 2022 to 2025 at a far slower pace than it did during the COVID-19 pandemic years, the Federal Reserve's Survey of Consumer Finances revealed.\r\nFrom 2019 to 2022, the media… [+7251 chars]"
+    },
+    {
+      "source": {
         "id": null,
         "name": "MarketWatch"
       },
-      "author": "MarketWatch",
+      "author": "Tomi Kilgore, Philip van Doorn, Joseph Adinolfi, Steve Goldstein",
       "title": "Bank earnings: Higher rates haven't hurt consumer spending or AI financing, yet - MarketWatch",
-      "description": null,
+      "description": "Earnings from JPMorgan Chase, Goldman Sachs, Wells Fargo and Citigroup showed that despite higher interest rates, consumers are still spending and borrowing and AI investments are still strong.",
       "url": "https://www.marketwatch.com/livecoverage/banks-jpmorgan-goldman-wellsfargo-citigroup-earnings",
-      "urlToImage": null,
+      "urlToImage": "https://images.mktw.net/im-69020181/social",
       "publishedAt": "2026-10-13T19:22:00Z",
-      "content": null
+      "content": "After an up-and-down morning session, JPMorgan's stock has waffled around the flatline reading in the final hour of trading, as investors digested an earnings miss but also an upbeat outlook for net … [+466 chars]"
     },
     {
       "source": {
@@ -534,19 +625,6 @@
       "urlToImage": "https://static01.nyt.com/images/2026/10/13/multimedia/13biz-bank-earnings-lgjp/13biz-bank-earnings-lgjp-mediumSquareAt3X.jpg",
       "publishedAt": "2026-10-13T18:32:57Z",
       "content": "JPMorgan released surprisingly spotty earnings results for the third quarter, while Goldman Sachs and Citi posted better-than-expected results, reflecting a choppy trading environment."
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Barron's"
-      },
-      "author": "Adam Clark",
-      "title": "Why Micron Stock (MU) Is Falling Today: Musk Flags China Chip Threat - Barron's",
-      "description": "Micron stock was facing more pressure after Elon Musk gave his opinion on China-produced memory chips.",
-      "url": "https://www.barrons.com/articles/micron-stock-price-cxmt-musk-memory-chips-d490c5f2",
-      "urlToImage": "https://images.barrons.com/im-18017832/social",
-      "publishedAt": "2026-10-13T18:29:00Z",
-      "content": "Micron Technologydropped once more on Tuesday. Comments fromTeslaandSpaceXCEO Elon Musk about the progress of Chinese memory chips likely werent helping.\r\nCopyright ©2026Dow Jones &amp; Company, Inc.… [+53 chars]"
     },
     {
       "source": {
@@ -602,19 +680,6 @@
     },
     {
       "source": {
-        "id": "bloomberg",
-        "name": "Bloomberg"
-      },
-      "author": "Sridhar Natarajan",
-      "title": "Bond Traders Eclipsed by Equities in a Wall Street Reversal - Bloomberg.com",
-      "description": "As Wall Street’s fixed-income desks struggled in the third quarter, their rivals in equities seized a rare opening to outshine their market brethren.",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-13/bond-traders-eclipsed-by-equities-in-rare-wall-street-reversal",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/itqjKWhopoRY/v0/1200x800.jpg",
-      "publishedAt": "2026-10-13T17:34:46Z",
-      "content": "As Wall Streets fixed-income desks struggled in the third quarter, their rivals in equities seized a rare opening to outshine their market brethren.\r\nEquities divisions at five of the largest US bank… [+305 chars]"
-    },
-    {
-      "source": {
         "id": "ars-technica",
         "name": "Ars Technica"
       },
@@ -641,68 +706,16 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
       },
-      "author": "Kerry Hannon",
-      "title": "'The baby boomers have arrived': How Americans over 75 got richer than other age groups - Yahoo Finance",
-      "description": "People 75 and older are now the richest group in the US, according to the Federal Reserve's Survey of Consumer Finances.",
-      "url": "https://finance.yahoo.com/economy/article/the-baby-boomers-have-arrived-how-americans-over-75-got-richer-than-other-age-groups-171405234.html",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/787e54ad1f1dd84fb61858f11c75fa80e8641bbf960d4990ffc85107896ba86b/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-10%2Ff9270e9b-1bc3-4a6e-92bb-9baafb9f4b6b",
-      "publishedAt": "2026-10-13T17:14:05Z",
-      "content": "For millions of families in the US, wealth has inched up modestly in the last few years, but for older Americans, it's surged. \r\nPeople 75 and older are now the richest group in the US, according to … [+5186 chars]"
-    },
-    {
-      "source": {
-        "id": "the-hill",
-        "name": "The Hill"
-      },
-      "author": "Nathaniel Weixel",
-      "title": "FTC: ‘Pharma bro’ Shkreli violated lifetime industry ban, should be held in contempt - The Hill",
-      "description": "The Federal Trade Commission (FTC) and a coalition of seven states asked a federal court on Tuesday to punish Martin Shkreli for “flagrantly and repeatedly” violating a lifetime ban from being involved in the pharmaceutical industry.  In a court filing in the…",
-      "url": "https://thehill.com/policy/healthcare/6145783-ftc-shkreli-pharma-ban-violation/",
-      "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2022/05/5d550379d3b14aa0b484537b8f2ac60a-e1706063724211.jpg?w=1280",
-      "publishedAt": "2026-10-13T17:05:00Z",
-      "content": "Skip to content\r\nThe Federal Trade Commission (FTC) and a coalition of seven states asked a federal court on Tuesday to punish Martin Shkreli for “flagrantly and repeatedly” violating a lifetime ban … [+2298 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "TheStreet"
-      },
-      "author": "TheStreet",
-      "title": "Delta Air Lines will exit entire market until March 2027 - TheStreet",
+      "author": "WSJ",
+      "title": "Domino’s Pizza Sales Squeezed by Gas Costs - WSJ",
       "description": null,
-      "url": "https://www.thestreet.com/travel/delta-air-lines-to-exit-entire-market-until-march-2027",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-bank-earnings-10-13-2026/card/domino-s-pizza-sales-squeezed-by-gas-costs-TyxwKtJPeq1IDxNevigW",
       "urlToImage": null,
-      "publishedAt": "2026-10-13T16:48:04Z",
+      "publishedAt": "2026-10-13T16:20:04Z",
       "content": null
-    },
-    {
-      "source": {
-        "id": "associated-press",
-        "name": "Associated Press"
-      },
-      "author": "Alanna Durkin Richer",
-      "title": "CVS agrees to pay $315 million to settle Justice Department case over opioid prescriptions - AP News",
-      "description": "CVS Pharmacy Inc. and various subsidiaries have agreed to pay $315 million to resolve a Justice Department case alleging it unlawfully dispensed medically unnecessary prescriptions of highly addictive opioids. The settlement announced Tuesday resolves a lawsu…",
-      "url": "https://apnews.com/article/justice-department-cvs-opioids-40516dbb8534543be1c119b8b7772266",
-      "urlToImage": "https://dims.apnews.com/dims4/default/1cf99fb/2147483647/strip/true/crop/4488x2990+0+99/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F74%2F72%2F9bb4bbc195da10747c0a6076989f%2F08064a02d3b8470ca2c4dbac7cd2477f",
-      "publishedAt": "2026-10-13T16:38:00Z",
-      "content": "WASHINGTON (AP) CVS Pharmacy Inc. and various subsidiaries have agreed to pay $315 million to resolve a Justice Department case alleging it unlawfully dispensed medically unnecessary prescriptions of… [+2949 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Grocerydive.com"
-      },
-      "author": "Sam Silverstein",
-      "title": "Albertsons hastens cost-cutting drive as sales continue to flounder - Yahoo Finance",
-      "description": "As the grocer recorded its third consecutive quarter of falling identical sales growth, its CEO indicated that layoffs and store closures in certain markets...",
-      "url": "https://www.grocerydive.com/news/albertsons-second-quarter-2026-earnings-turnaround-grocery-supermarkets/832830/",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/921a57bba135ca3cc88adade407dc58cf506628cbc1c13d80e8f2c50b23e5361/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fgrocery_dive_266%2Fdd467aac12093e7003c7b61986ba2e63",
-      "publishedAt": "2026-10-13T16:28:00Z",
-      "content": "This story was originally published on Grocery Dive. To receive daily news and insights, subscribe to our free daily Grocery Dive newsletter.\r\nDive Brief:\r\n<ul><li>Albertsons intends to intensify eff… [+3509 chars]"
     },
     {
       "source": {
@@ -714,47 +727,8 @@
       "description": "A pair of low-profile entrepreneurs gave $100 million to Nigel Farage’s Reform U.K. Party. The system may never be the same.",
       "url": "https://www.nytimes.com/2026/10/13/business/nigel-farage-crypto-uk-politics.html",
       "urlToImage": "https://static01.nyt.com/images/2026/10/18/business/18biz-sun-Farage-entourage-illo/18biz-sun-Farage-entourage-illo-mediumSquareAt3X-v2.jpg",
-      "publishedAt": "2026-10-13T16:16:29Z",
+      "publishedAt": "2026-10-13T16:16:30Z",
       "content": "A pair of low-profile entrepreneurs gave $100 million to Nigel Farage’s Reform U.K. Party. The system may never be the same."
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Julie Hyman",
-      "title": "Johnson & Johnson stock falls despite strong earnings as investors focus on medtech unit - Yahoo Finance",
-      "description": "Johnson & Johnson stock is tumbling even after the healthcare giant raised its forecast again for full-year earnings and revenue.",
-      "url": "https://finance.yahoo.com/markets/article/johnson--johnson-stock-falls-despite-strong-earnings-as-investors-focus-on-medtech-unit-161450981.html",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/7e265c1086858b8e4c011e5de61730ab1993895b58638646e991141f6fd6f1e3/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fvideo-frame-1791902920838_5452.jpg_d74321ba769fcf4fa964d672a2447c9c2a42f0ea7bea5cc9083fe9b4ae04197b.jpg",
-      "publishedAt": "2026-10-13T16:14:50Z",
-      "content": "Johnson &amp; Johnson (JNJ) stock is tumbling even after the healthcare giant raised its forecast again for full-year earnings and revenue. \r\nInvestors are focused on the company's medtech unit, whic… [+4121 chars]"
-    },
-    {
-      "source": {
-        "id": "ars-technica",
-        "name": "Ars Technica"
-      },
-      "author": "Ryan Whitwam",
-      "title": "Gemini 4 Argon begins rolling out in Gemini app and Antigravity, but only if you pay - Ars Technica",
-      "description": "Developers will get 50 percent discounted API rates through November.",
-      "url": "https://arstechnica.com/ai/2026/10/gemini-4-argon-begins-rolling-out-in-gemini-app-and-antigravity-but-only-if-you-pay/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Gemini-4-Argon-1152x648.jpg",
-      "publishedAt": "2026-10-13T16:00:02Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "the-washington-post",
-        "name": "The Washington Post"
-      },
-      "author": "Amy Maxmen | KFF Health News",
-      "title": "Some who have taken hyped, unregulated peptides have regrets - The Washington Post",
-      "description": "As Health Secretary Robert F. Kennedy Jr. wants to loosen access to peptides, people who have taken the experimental substances report migraines, eye pain and fatigue.",
-      "url": "https://www.washingtonpost.com/health/2026/10/13/people-who-have-taken-hyped-unregulated-peptides-have-regrets/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/JBMJE33JYZHYVA2BI3XMMRSOP4.jpg&w=1440",
-      "publishedAt": "2026-10-13T16:00:00Z",
-      "content": "After the third day of squirting an experimental drug up his nose, Dylan Meetze felt horrible. \r\nIt was like I was underwater, like it took the most to do anything, he said."
     },
     {
       "source": {
@@ -775,25 +749,25 @@
         "name": "New York Post"
       },
       "author": "Grant Young",
-      "title": "Dodgers owner Mark Walter’s legal troubles deepen with wave of new lawsuits - New York Post",
+      "title": "Dodgers owner Mark Walter’s legal troubles deepen with wave of new lawsuits - Yahoo Sports",
       "description": "Los Angeles Dodgers owner Mark Walter faces a fresh wave of lawsuits",
-      "url": "https://nypost.com/2026/10/13/sports/dodgers-mark-walter-hit-lawsuit-over-insurance-empire/",
-      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/10/newspress-collage-34i4bujvf-1791902627857.jpg?quality=75&strip=all&1791888246&w=1200",
-      "publishedAt": "2026-10-13T15:07:00Z",
-      "content": "The Los Angeles Dodgers being in a 2-0 NLCS hole isn’t Mark Walter’s only worry right now. \r\nThe Dodgers’ controlling owner and chairman was hit with a lawsuit that alleged he and two of his insurers… [+2607 chars]"
+      "url": "https://nypost.com/2026/10/13/sports/dodgers-mark-walter-hit-lawsuit-over-insurance-empire/?utm_source=yahoo&amp;utm_campaign=nypost&amp;utm_medium=referral",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/a00a72533571a3c7344cf56306b55fc58be1f6d174bccbb78d0ebfd0ccd912da/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fny_post_sports_articles_389%2F9816b1ad38cf81bb3645c4526c5feb8c.jpg",
+      "publishedAt": "2026-10-13T15:07:51Z",
+      "content": "The Los Angeles Dodgers being in a 2-0 NLCS hole isn't Mark Walter's only worry right now.\r\nThe Dodgers' controlling owner and chairman was hit with a lawsuit that alleged he and two of his insurers,… [+2607 chars]"
     },
     {
       "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
+        "id": "nbc-news",
+        "name": "NBC News"
       },
-      "author": "Lauren Forristal",
-      "title": "Bumble agrees to a $1.3B acquisition deal as online dating faces a reset - TechCrunch",
-      "description": "After years of declining subscriber numbers and falling revenue, Bumble just agreed to a $1.3 billion acquisition.",
-      "url": "https://techcrunch.com/2026/10/13/bumble-agrees-to-a-1-3b-acquisition-deal-as-online-dating-faces-a-reset/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/04/Bumble-new-logo.jpg?resize=1200,810",
-      "publishedAt": "2026-10-13T14:25:48Z",
-      "content": "Bumble is getting a new owner. The dating app announced Tuesday that it has agreed to a $1.3 billion acquisition deal with Ithaca Holdings, marking a major shift for a company that once looked like o… [+2325 chars]"
+      "author": "Angela Yang, Vicky Nguyen",
+      "title": "Romance scammers are getting harder to catch. The consequences are costly. - NBC News",
+      "description": "For people looking for love online, a match with a scammer could cost them their life savings.",
+      "url": "https://www.nbcnews.com/tech/tech-news/romance-scammers-congressional-investigation-match-group-tinder-rcna602411",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/261008-maggie-hassan-marsha-blackburn-split-ww-1835-66e6ab.jpg",
+      "publishedAt": "2026-10-13T14:27:17Z",
+      "content": "For people looking for love online, a match with a scammer could cost them their life savings.\r\nA congressional investigation, which began in September 2025 and lasted about a year, found that Tinder… [+7227 chars]"
     },
     {
       "source": {
@@ -807,19 +781,6 @@
       "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/10/GettyImages-2256627908-e1791899739434.jpg?resize=1200,600",
       "publishedAt": "2026-10-13T14:16:00Z",
       "content": "U.S. payments giant Visa said Tuesday that it received approval to prepare to set up a bank card clearing business in China, a move that could allow Visa to compete for a share of the countrys large … [+1987 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Deadline"
-      },
-      "author": "Dade Hayes",
-      "title": "Disney Offers $20M For Character.AI Assets As Startup Files For Chapter 11 Bankruptcy Protection - Deadline",
-      "description": "After hiring Character.AI's former CEO as its chief technology officer, Disney is looking to acquire assets from the 5-year-old startup as it files for Chapter 11 bankruptcy protection.",
-      "url": "http://deadline.com/2026/10/disney-character-ai-chapter-11-bankruptcy-1237155582/",
-      "urlToImage": "https://deadline.com/wp-content/uploads/2026/10/Disney-character-ai.jpg?w=1000",
-      "publishedAt": "2026-10-13T14:04:00Z",
-      "content": "After hiring Character.AI‘s former CEO as its chief technology officer, Disney is looking to acquire assets from the 5-year-old startup as it files for Chapter 11bankruptcy protection.\r\nThe company, … [+2588 chars]"
     },
     {
       "source": {
@@ -846,19 +807,6 @@
       "urlToImage": "https://static01.nyt.com/images/2026/10/13/multimedia/13BIZ-SAUDI-ENERGY-01-cjfg/13BIZ-SAUDI-ENERGY-01-cjfg-mediumSquareAt3X.jpg",
       "publishedAt": "2026-10-13T13:54:42Z",
       "content": "The tone of the WPC Energy Congress in Riyadh this week was defiant even as delegates were forced to redirect travel or address the audience from afar."
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Yahoo Finance",
-      "title": "Meta is betting the house on AI — CFO warns the stakes are 'really bad' if it flops - Yahoo Finance",
-      "description": "Inside the warning Meta's CFO gave Alexandr Wang about the company's new AI model.",
-      "url": "https://finance.yahoo.com/technology/article/meta-is-betting-the-house-on-ai--cfo-warns-the-stakes-are-really-bad-if-it-flops-133413709.html",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/cb4c883b50d8159c11cbac57c28f41d427c6ad2dc51dc9461bd166cfd921feec/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2F470eb634-6e5d-45fd-92fa-c5143d35675a_0d16f92cf767eeaac067c75a5f6ae0fbb62c0fc445f74abe5fe3415203d1672b.jpg",
-      "publishedAt": "2026-10-13T13:34:13Z",
-      "content": "Oh, to be Meta's (META) very well-regarded CFO, Susan Li right now.\r\nLi who has worked at Meta for 18 years, mostly in financial roles is the person tasked with overseeing the company's financial sta… [+2349 chars]"
     },
     {
       "source": {
@@ -915,15 +863,28 @@
     {
       "source": {
         "id": null,
-        "name": "CNBC"
+        "name": "KABC-TV"
       },
-      "author": "Sarah Min",
-      "title": "Paul Tudor Jones says 2027 could be a really challenging year for the stock market - CNBC",
-      "description": "The billionaire investor said that corporate buybacks, along with mergers and acquisitions, that have been a tailwind for the bull market is about to turn.",
-      "url": "https://www.cnbc.com/2026/10/13/paul-tudor-jones-2027-really-challenging-year.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108403154-1791896901451-108403154-1791896082565-tudor4.jpg?v=1791896910&w=1920&h=1080",
-      "publishedAt": "2026-10-13T12:40:16Z",
-      "content": "Legendary hedge fund manager Paul Tudor Jones told CNBC that next year could be a tough one for the stock market because of increased equity supply from big tech IPOs coming down the pipe, as well as… [+2540 chars]"
+      "author": "Abigail Velez",
+      "title": "Hollywood Burbank Airport opens newly-renovated terminal - ABC7 Los Angeles",
+      "description": "Travelers are getting a major upgrade with a brand new terminal at Hollywood Burbank Airport, a favored transportation hub for Southern Californians.",
+      "url": "https://abc7.com/post/hollywood-burbank-airport-open-newly-renovated-terminal/19934806/",
+      "urlToImage": "https://cdn.abcotvs.com/dip/images/19935227_101326-kabc-burbank-airport.jpg?w=1600",
+      "publishedAt": "2026-10-13T12:17:18Z",
+      "content": "BURBANK, Calif. (KABC) -- Travelers are getting a major upgrade with a brand new terminal at Hollywood Burbank Airport, marking the culmination of a decades-long effort to replace an aging facility t… [+2032 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Yahoo Finance",
+      "title": "Earnings live updates: JPMorgan, Goldman Sachs stocks rise as big banks kick off Q3 earnings season - Yahoo Finance",
+      "description": "Big bank results kick off Q3 earnings season on Tuesday.",
+      "url": "https://finance.yahoo.com/markets/live/earnings-live-updates-big-banks-q3-earnings-115135687.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/c30386b7989c43c6635234d76048aea516114b00f10d1a697b5982809a79cb11/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2026-02%2F64720030-10af-11f1-befd-193ebf5fac9a",
+      "publishedAt": "2026-10-13T12:12:54Z",
+      "content": "The third quarter earnings season kicked off in earnest on Tuesday with the major Wall Street banks, including JPMorgan Chase (JPM), Goldman Sachs (GS), Wells Fargo (WFC), and Citigroup (C) opening t… [+7552 chars]"
     },
     {
       "source": {
@@ -937,19 +898,6 @@
       "urlToImage": "https://static01.nyt.com/images/2026/10/13/multimedia/13db-summit-lineup-fmqw/13db-summit-lineup-fmqw-mediumSquareAt3X.jpg",
       "publishedAt": "2026-10-13T11:43:28Z",
       "content": "The conference on Nov. 18 will bring together the biggest names in business, politics, culture and more"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "SFGate"
-      },
-      "author": "Kent German",
-      "title": "RIP Hollywood Burbank Airport of yore, the last easy airport - SFGATE",
-      "description": "Though SFGATE's news editor welcomes Hollywood Burbank's new terminal, the old one will always spark fond memories of travel.",
-      "url": "https://www.sfgate.com/travel/article/burbank-old-terminal-22465436.php",
-      "urlToImage": "https://s.hdnux.com/photos/01/67/43/46/31340978/5/rawImage.jpg",
-      "publishedAt": "2026-10-13T11:36:40Z",
-      "content": "Hollywood Burbank Airport is dead. Long live, Hollywood Burbank Airport.\r\nWell, not exactly, but Southern Californias most convenient airport was essentially reborn Tuesday with the opening of a long… [+4879 chars]"
     },
     {
       "source": {
@@ -976,19 +924,6 @@
       "urlToImage": "https://endpoints.news/wp-content/uploads/2025/07/Michael-Henderson-Apogee-Therapeutics-JPM24-social.jpg",
       "publishedAt": "2026-10-13T11:00:00Z",
       "content": "Some peo­ple would think about tak­ing a break for sev­er­al quar­ters af­ter sell­ing a biotech for $10.9 bil­lion. Michael Hen­der­son and five"
-    },
-    {
-      "source": {
-        "id": "cnn",
-        "name": "CNN"
-      },
-      "author": "Brenda Goodman",
-      "title": "Could GLP-1 drugs be anti-aging medications? - CNN",
-      "description": "GLP-1 medications for weight loss and diabetes appear to slow the body’s aging processes, a sign that the blockbuster drugs could ultimately help people live longer.",
-      "url": "https://www.cnn.com/2026/10/13/health/glp-1-drugs-anti-aging",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2148794370.jpg?c=16x9&q=w_800,c_fill",
-      "publishedAt": "2026-10-13T10:00:45Z",
-      "content": "GLP-1 medications for weight loss and diabetes appear to slow the bodys aging processes, a sign that the blockbuster drugs could ultimately help people live longer.\r\nThe idea that these medications m… [+8263 chars]"
     },
     {
       "source": {
@@ -1057,55 +992,29 @@
     },
     {
       "source": {
-        "id": "cbs-news",
-        "name": "CBS News"
+        "id": null,
+        "name": "Financial Times"
       },
-      "author": "Susan-Elizabeth  Littlefield",
-      "title": "Medicare coverage options are changing. Here's what beneficiaries should know - CBS News",
-      "description": "It's news that's frustrating and confusing for 350,000 Minnesotans. Because of changes in federal funding, Medicare plans are being cut.",
-      "url": "https://www.cbsnews.com/minnesota/news/medicare-coverage-options-changing-what-to-know/",
-      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/10/12/4314fb6b-7f68-47c9-81b6-dd763dde9388/thumbnail/1200x630/e641b86a64b4527926faf53e56d194b6/gettyimages-161103304.jpg",
-      "publishedAt": "2026-10-12T23:31:20Z",
-      "content": "It's news that's frustrating and confusing for 350,000 Minnesotans. Because of changes in federal funding, Medicare plans are being cut.\r\nLaurel Heppner sells Medicare plans with the Heppner Group.\r\n… [+2090 chars]"
+      "author": null,
+      "title": "Investors brave US Treasury rout to lock in highest yields in decades - Financial Times",
+      "description": "Government bond funds are attracting record inflows as borrowing costs hit their highest level in decades",
+      "url": "https://www.ft.com/content/6fa735a2-a590-4461-b092-920ba489e7a8?syn-25a6b1a6\\\\u003d1",
+      "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Ff2d9f719-74a6-4041-9913-1621c5cb9bcb.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
+      "publishedAt": "2026-10-13T04:00:28Z",
+      "content": "was $540now $299 for your first year.\r\nSave now on essential digital access to trusted FT journalism on any device. Savings based on monthly annualised price, offer ends 28th October."
     },
     {
       "source": {
-        "id": null,
-        "name": "TheStreet"
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
       },
-      "author": "TheStreet",
-      "title": "Bill Gates says some jobs should be reserved for humans - TheStreet",
+      "author": "WSJ",
+      "title": "Albertsons Wants $8 Billion From Kroger After Failed Merger - WSJ",
       "description": null,
-      "url": "https://www.thestreet.com/technology/bill-gates-says-some-jobs-should-be-reserved-for-humans",
+      "url": "https://www.wsj.com/business/retail/albertsons-wants-8-billion-from-kroger-after-failed-merger-fd0aacd8",
       "urlToImage": null,
-      "publishedAt": "2026-10-12T22:03:00Z",
+      "publishedAt": "2026-10-12T20:47:00Z",
       "content": null
-    },
-    {
-      "source": {
-        "id": "nbc-news",
-        "name": "NBC News"
-      },
-      "author": "Steve Kopack",
-      "title": "Energy prices rise after Trump’s ‘energy ceasefire’ fails to move Russia or Ukraine - NBC News",
-      "description": "Oil and gas prices rose Monday after an “energy ceasefire” announced by President Donald Trump on Sunday failed to gain traction.",
-      "url": "https://www.nbcnews.com/business/energy/oil-prices-trump-energy-ceasefire-fails-rcna603031",
-      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-03/260330-gas-station-rs-8b7e90.jpg",
-      "publishedAt": "2026-10-12T21:42:27Z",
-      "content": "Oil and gas prices rose Monday after an energy ceasefire announced by President Donald Trump on Sunday failed to gain traction.\r\nBrent crude oil jumped 2% to almost $108 per barrel and U.S. crude oil… [+5305 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Electrek"
-      },
-      "author": "Peter Johnson",
-      "title": "Ford’s electric pickup is suddenly selling like hotcakes at 50% off used - Electrek",
-      "description": "Once America’s most popular electric pickup, Ford’s F-150 Lightning is finding a second life on the used market. Ford F-150...",
-      "url": "http://electrek.co/2026/10/12/fords-electric-pickup-selling-like-hotcakes-50-off-used/",
-      "urlToImage": "https://electrek.co/wp-content/uploads/sites/3/2024/07/lease-Ford-Lightning-Maverick-1.jpeg?quality=82&strip=all&resize=1200,628",
-      "publishedAt": "2026-10-12T21:22:00Z",
-      "content": "Once Americas most popular electric pickup, Fords F-150 Lightning is finding a second life on the used market.\r\nThe F-150 Lightning is hard to pass up at 50% to 60% off sticker price, even used. With… [+4303 chars]"
     },
     {
       "source": {
@@ -1132,19 +1041,6 @@
       "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2025/01/0/0/starbucks-.jpg?ve=1&tl=1",
       "publishedAt": "2026-10-12T20:12:00Z",
       "content": "Starbucks is putting an end to speculation that it could acquire burrito chain Chipotle Mexican Grill.\r\nA Starbucks spokesperson confirmed to FOX Business on Monday that the coffee giant is not buyin… [+2421 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Techpowerup.com"
-      },
-      "author": null,
-      "title": "Intel \"Crescent Island\" GPU Gets D-Series Name, Supports Up to 480 GB of LPDDR5X - TechPowerUp",
-      "description": "Intel has finally unveiled what its \"Crescent Island\" D-Series GPUs will look like, introducing a dedicated AI accelerator in a server form factor after previous projects stalled. The newly named D-Series GPU features a total of 32 Xe3P cores, 256 XMX engines…",
-      "url": "https://www.techpowerup.com/353647/intel-crescent-island-gpu-gets-d-series-name-supports-up-to-480-gb-of-lpddr5x",
-      "urlToImage": "https://www.techpowerup.com/img/DnBKAK477ta1MkDH.jpg",
-      "publishedAt": "2026-10-12T19:47:01Z",
-      "content": "AleksandarKIntel has finally unveiled what its \"Crescent Island\" D-Series GPUs will look like, introducing a dedicated AI accelerator in a server form factor after previous projects stalled. The newl… [+2054 chars]"
     },
     {
       "source": {
@@ -1201,28 +1097,15 @@
     {
       "source": {
         "id": null,
-        "name": "Yahoo Entertainment"
+        "name": "CNBC"
       },
-      "author": "Sabrina Willmer and Bob Van Voris",
-      "title": "Albertsons Seeks More Than $9 Billion Over Busted Kroger Deal - Yahoo Finance",
-      "description": "Albertsons Cos. is demanding that Kroger Co. pay more than $9 billion for the collapse of what would have been the largest US grocery chain merger in history...",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/albertsons-seeks-more-9-billion-170019035.html",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/c579c99a6e9457d70427296bf1b6a9fb004886281022536aac1d7c07b5ebc6e7/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbloomberg_holding_pen_162%2F3cc876f5bbd8214206b89de695e4161a.jpg",
-      "publishedAt": "2026-10-12T17:00:19Z",
-      "content": "(Bloomberg) -- Albertsons Cos. is demanding that Kroger Co. pay more than $9 billion for the collapse of what would have been the largest US grocery chain merger in history.\r\nMost Read from Bloomberg… [+3420 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "BleepingComputer"
-      },
-      "author": "Bill Toulas",
-      "title": "Ledger confirms spy chip implant behind wallet crypto thefts - BleepingComputer",
-      "description": "Ledger has confirmed that some of its devices distributed through Southeast Asian reseller CryptoBilis were compromised with a hardware implant that drained users' cryptocurrency wallets.",
-      "url": "https://www.bleepingcomputer.com/news/security/ledger-confirms-hardware-wallet-spy-implant-behind-crypto-thefts/",
-      "urlToImage": "https://www.bleepstatic.com/content/hl-images/2026/10/12/Ledger.jpg",
-      "publishedAt": "2026-10-12T16:27:23Z",
-      "content": "Ledger has confirmed that some of its devices distributed through Southeast Asian reseller CryptoBilis were compromised with a hardware implant that drained users' cryptocurrency wallets.\r\nThe compan… [+5376 chars]"
+      "author": "Jonathan Vanian",
+      "title": "Meta debuts Muse Wonder AI model in latest test of users' willingness to pay - CNBC",
+      "description": "Meta introduced Muse Wonder, its latest AI model, but users have to pay for subscriptions to the Muse app to access it.",
+      "url": "https://www.cnbc.com/2026/10/12/meta-muse-wonder-ai-model-agent.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108367520-1790264014969-gettyimages-2296209074-META_CONNECT.jpeg?v=1790264039&w=1920&h=1080",
+      "publishedAt": "2026-10-12T17:00:25Z",
+      "content": "Meta debuted its latest artificial intelligence model, Muse Wonder, and says it's the most advanced option for powering digital assistants. But it doesn't come for free. \r\nTo access the model, users … [+2473 chars]"
     },
     {
       "source": {
@@ -1266,15 +1149,15 @@
     {
       "source": {
         "id": null,
-        "name": "Forbes"
+        "name": "WGN TV Chicago"
       },
-      "author": "Forbes",
-      "title": "These Are The Best Beers In America, According To The 2026 Great American Beer Festival - Forbes",
-      "description": null,
-      "url": "https://www.forbes.com/sites/hudsonlindenberger/2026/10/12/these-are-the-best-beers-in-america-according-to-the-2026-great-american-beer-festival/",
-      "urlToImage": null,
-      "publishedAt": "2026-10-12T14:39:25Z",
-      "content": null
+      "author": "Addy Bink",
+      "title": "Bought these men’s soaps, care products? You may qualify for $9 million settlement - WGN-TV",
+      "description": "If you bought any of a handful of Dr. Squatch products over a nearly eight-year period, you may qualify for a portion of a multi-million-dollar settlement.",
+      "url": "https://wgntv.com/news/bought-these-mens-soaps-care-products-you-may-qualify-for-9-million-settlement/",
+      "urlToImage": "https://wgntv.com/wp-content/uploads/sites/5/2026/10/GettyImages-1842086579.jpg?w=1280",
+      "publishedAt": "2026-10-12T13:00:00Z",
+      "content": "(NEXSTAR) If you bought any of a handful of hygiene products marketed toward men over a nearly eight-year period, you may qualify for a portion of a multi-million-dollar settlement. \r\nA lawsuit filed… [+3092 chars]"
     },
     {
       "source": {
@@ -1301,6 +1184,58 @@
       "urlToImage": "https://static01.nyt.com/images/2026/10/11/multimedia/11WorkFriend-mzpt/11WorkFriend-mzpt-mediumSquareAt3X.jpg",
       "publishedAt": "2026-10-11T09:01:32Z",
       "content": "Plus: How far to go for a colleague, and now your chance to give someone advice."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Alissa Wilkinson",
+      "title": "Three Mark Zuckerbergs, Three Surprisingly Different Men",
+      "description": "Jeremy Strong in “The Social Reckoning,” Jesse Eisenberg in “The Social Network” and the real Meta executive are all playing parts. But only one has changed his approach.",
+      "url": "https://www.nytimes.com/2026/10/11/movies/mark-zuckerberg-social-network-reckoning.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/10/11/arts/11cul-zuckerberg-film/11cul-zuckerberg-film-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-10-11T09:01:17Z",
+      "content": "Jeremy Strong in “The Social Reckoning,” Jesse Eisenberg in “The Social Network” and the real Meta executive are all playing parts. But only one has changed his approach."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Joe Gose",
+      "title": "San Francisco Is Still Pushing to Turn Offices Into Homes",
+      "description": "The city has not completed a single office-to-housing conversion, despite hopes to meet housing demand and inject life into empty downtowns.",
+      "url": "https://www.nytimes.com/2026/10/11/business/san-francisco-housing-conversions.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/10/04/multimedia/04BIZ-SQFT-SANFRANCISCO-1-fhwk/04BIZ-SQFT-SANFRANCISCO-1-fhwk-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-10-11T09:00:16Z",
+      "content": "The city has not completed a single office-to-housing conversion, despite hopes to meet housing demand and inject life into empty downtowns."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "David McCabe, Michael M. Grynbaum, Benjamin Mullin, Lauren Hirsch and Glenn Thrush",
+      "title": "Justice Dept. Is Investigating TV Networks Over Trump Pool Coverage",
+      "description": "Major TV networks were notified on Friday that the department was examining whether they violated antitrust laws when they suspended pool coverage of President Trump.",
+      "url": "https://www.nytimes.com/2026/10/10/business/media/trump-justice-department-tv-networks.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/10/10/multimedia/10biz-media-investigation-gpjh/10biz-media-investigation-gpjh-mediumSquareAt3X-v2.jpg",
+      "publishedAt": "2026-10-11T02:40:53Z",
+      "content": "Major TV networks were notified on Friday that the department was examining whether they violated antitrust laws when they suspended pool coverage of President Trump."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Sarah Kessler",
+      "title": "What’s Dragging Down A.I. Efficiency? The ‘Verification Tax.’",
+      "description": "As artificial intelligence automates office tasks, it is also creating a new type of human work.",
+      "url": "https://www.nytimes.com/2026/10/10/business/dealbook/ai-verification-tax-rework.html",
+      "urlToImage": null,
+      "publishedAt": "2026-10-10T14:28:57Z",
+      "content": "As artificial intelligence automates office tasks, it is also creating a new type of human work."
     }
   ]
 }

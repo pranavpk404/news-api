@@ -1,7 +1,20 @@
 {
   "status": "ok",
-  "totalResults": 69,
+  "totalResults": 64,
   "articles": [
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Lauren Hirsch and Sri Muppidi",
+      "title": "Anthropic Says Revenue Jumped 45% to $16.8 Billion in Third Quarter",
+      "description": "The company held an investor meeting on Wednesday as it plans a blockbuster initial public offering as soon as next month.",
+      "url": "https://www.nytimes.com/2026/10/14/technology/anthropic-ipo-revenue-profit.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/10/13/multimedia/ANTHROPIC-INVESTORS-HFO-zgtc/ANTHROPIC-INVESTORS-HFO-zgtc-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-10-14T23:57:26Z",
+      "content": "The company held an investor meeting on Wednesday as it plans a blockbuster initial public offering as soon as next month."
+    },
     {
       "source": {
         "id": "the-new-york-times",
@@ -66,6 +79,84 @@
       "urlToImage": "https://static01.nyt.com/images/2026/10/13/multimedia/13biz-openai-security-fzgm/13biz-openai-security-fzgm-mediumSquareAt3X.jpg",
       "publishedAt": "2026-10-14T01:33:22Z",
       "content": "OpenAI said that the employee had placed a device built to evade detection and that he had planned to secretly record meetings in other sensitive spaces."
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Nintendo Life"
+      },
+      "author": "Liam Doolan",
+      "title": "Mario Kart 8 Deluxe Has Been Updated To Version 4.0.1, Here Are The Full Patch Notes - Nintendo Life",
+      "description": "Following a free Switch 2 update last month",
+      "url": "https://www.nintendolife.com/news/2026/10/mario-kart-8-deluxe-has-been-updated-to-version-4-0-1-here-are-the-full-patch-notes",
+      "urlToImage": "https://images.nintendolife.com/d646e803ee572/1280x720.jpg",
+      "publishedAt": "2026-10-14T00:55:00Z",
+      "content": "Image: Nintendo\r\nAfter a surprise update in September, Nintendo has today rolled out Version 4.0.1 of Mario Kart 8 Deluxe.\r\nThis update, as you might have already worked out, is a lot less exciting. … [+1460 chars]"
+    },
+    {
+      "source": {
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "author": "Kyle Orland",
+      "title": "ESA targets Anbernic emulation handhelds as \"superfake\" piracy enablers - Ars Technica",
+      "description": "But third-party sellers, not Anbernic, are the ones routinely selling ROM-filled SD cards.",
+      "url": "https://arstechnica.com/gaming/2026/10/esa-targets-anbernic-emulation-handhelds-as-superfake-piracy-enablers/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/anbernic2-1152x648-1791926080.jpg",
+      "publishedAt": "2026-10-13T21:55:49Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "author": "Scharon Harding",
+      "title": "Topgolf saved over $11.3 million after leaving VMware - Ars Technica",
+      "description": "Topgolf and VMware \"ran deep\" before the migration.",
+      "url": "https://arstechnica.com/information-technology/2026/10/topgolf-saved-over-11-3-million-after-leaving-vmware/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/11-TGFW-Tee-Line-X2-1152x648.jpg",
+      "publishedAt": "2026-10-13T21:33:43Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "MacRumors"
+      },
+      "author": "Joe Rossignol",
+      "title": "HomePod Mini 2 Works as Default Speaker With Select Macs - MacRumors",
+      "description": "The new HomePod mini 2 can be used as a default speaker on all Mac models with Wi-Fi 6E or later, according to Apple. You can use a single HomePod,...",
+      "url": "https://www.macrumors.com/2026/10/13/homepod-mini-2-default-mac-speaker/",
+      "urlToImage": "https://images.macrumors.com/t/sS-Pd_cKzSHSPdTS4kNlzjzjUoM=/1960x/article-new/2026/10/HomePod-mini-2-Mac.jpg",
+      "publishedAt": "2026-10-13T21:19:09Z",
+      "content": "The new HomePod mini 2 can be used as a default speaker on all Mac models with Wi-Fi 6E or later, according to Apple. You can use a single HomePod, or a pair for stereo sound.\r\nThe previous-generatio… [+154 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Kotaku"
+      },
+      "author": "Kenneth Shepard",
+      "title": "Some Sony First-Party Games Have Been Delisted From the PlayStation Store - Kotaku",
+      "description": "Some of Knack, Nathan Drake, and Kratos’ games were pulled due to what appears to be a pricing error",
+      "url": "https://kotaku.com/playstation-store-uncharted-god-of-war-knack-delisted-2000745375",
+      "urlToImage": "https://kotaku.com/app/uploads/2019/04/h9gbrcwqu9vtuivxgrlu-1200x675.jpg",
+      "publishedAt": "2026-10-13T21:15:35Z",
+      "content": "As Sony marches on to an all-digital future, its scary to see that a handful of its first-party games are suddenly disappearing from the PlayStation Store without warning, even if only temporarily. F… [+1431 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BleepingComputer"
+      },
+      "author": "Lawrence Abrams",
+      "title": "Microsoft October 2026 Patch Tuesday fixes 1,411 flaws, 3 zero-days - BleepingComputer",
+      "description": "Today is Microsoft's October 2026 Patch Tuesday, with security updates addressing a record-breaking 1,411 flaws, including one actively exploited and two publicly disclosed zero-day vulnerabilities.",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-october-2026-patch-tuesday-fixes-1-411-flaws-3-zero-days/",
+      "urlToImage": "https://www.bleepstatic.com/content/hl-images/2024/10/08/patch_tuesday_microsoft.jpg",
+      "publishedAt": "2026-10-13T19:56:09Z",
+      "content": "Today is Microsoft's October 2026 Patch Tuesday, with security updates addressing a record-breaking 1,411 flaws, including one actively exploited and two publicly disclosed zero-day vulnerabilities.\r… [+281557 chars]"
     },
     {
       "source": {
@@ -134,42 +225,29 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "GSMArena.com"
+        "id": "ign",
+        "name": "IGN"
       },
-      "author": "Siddharth",
-      "title": "Apple's HomePod mini 2 is here with Siri AI, new colors and improved sound - GSMArena.com news - GSMArena.com",
-      "description": "The smart speaker is priced at $149. Alongside the new Apple HomeView, upgraded Apple TV 4K, and Apple Home Collection, the company also unveiled the...",
-      "url": "https://www.gsmarena.com/apples_homepod_mini_2_is_here_with_siri_ai_new_colors_and_improved_sound-news-75028.php",
-      "urlToImage": "https://fdn.gsmarena.com/imgroot/news/26/10/homepod-mini-2-ofic/-952x498w6/gsmarena_00.jpg",
-      "publishedAt": "2026-10-13T18:31:02Z",
-      "content": "Alongside the new Apple HomeView, upgraded Apple TV 4K, and Apple Home Collection, the company also unveiled the HomePod mini 2. The updated smart speaker brings Siri AI, a new Sound Glow feature, su… [+1145 chars]"
-    },
-    {
-      "source": {
-        "id": "mashable",
-        "name": "Mashable"
-      },
-      "author": "Alex Perry",
-      "title": "Report indicates 'GTA 6' launching on PC in early 2027 - Mashable",
-      "description": "That's sooner than expected.",
-      "url": "https://mashable.com/entertainment/gta-grand-theft-auto-6-pc-release-date-2027",
-      "urlToImage": "https://helios-i.mashable.com/imagery/articles/06NKE1tzh92fGx33tsu7JcM/hero-image.fill.size_1200x675.v1791903132.jpg",
-      "publishedAt": "2026-10-13T18:23:45Z",
-      "content": null
+      "author": "Cade Onder",
+      "title": "EA Sports' College Football Franchise Reportedly in Jeopardy Amidst Rising Costs and Declining Sales - IGN",
+      "description": "Developers working on EA Sports' College Football franchise reportedly fear that the series may not live to see the end of the decade.",
+      "url": "https://www.ign.com/articles/ea-sports-college-football-devs-reportedly-fear-the-franchise-could-disappear-by-2030",
+      "urlToImage": "https://assets-prd.ignimgs.com/2024/05/27/cf25-blogroll-1716836985997.jpg?width=1280&format=jpg&auto=webp&quality=80",
+      "publishedAt": "2026-10-13T18:34:41Z",
+      "content": "Developers working on EA Sports' College Football franchise reportedly fear that the series may not live to see the end of the decade.\r\nThe report comes from Insider Gaming's Mike Straw, who spoke to… [+3274 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "ZME Science"
+        "name": "Kotaku"
       },
-      "author": "Mihai Andrei",
-      "title": "AI Designs Computer Chips We Can’t Understand — But They Seem to Work Really Well - ZME Science",
-      "description": "Can we trust systems we don’t fully understand?",
-      "url": "https://www.zmescience.com/science/computer-chips-made-by-ai-rep/",
-      "urlToImage": "https://cdn.zmescience.com/wp-content/uploads/2025/01/ai-slashes-cost-and-ti.jpg",
-      "publishedAt": "2026-10-13T17:52:46Z",
-      "content": "The AI design features unusual and efficient, circuitry patterns. Credit: Emir Ali Karahan, Princeton University.\r\nEngineers usually design wireless chips using familiar patterns and templates, refin… [+9311 chars]"
+      "author": "Lewis Parker",
+      "title": "The Vibe-Coders Have Come For Nintendo, And Obviously This Won’t End Well - Kotaku",
+      "description": "Claude-assisted ports of Nintendo games have started popping up online, which surely won't upset the famously litigious Nintendo",
+      "url": "https://kotaku.com/the-vibe-coders-have-come-for-nintendo-and-obviously-this-wont-end-well-2000745258",
+      "urlToImage": "https://kotaku.com/app/uploads/2026/10/Super-Mario-Odyssey-AI-PC-port-MZLabs-Nintendo-2.jpg",
+      "publishedAt": "2026-10-13T17:30:33Z",
+      "content": "The past few weeks have seen an unquantifiable number of emulators, native PC ports, bizarre Minecraft meets Elden Ring mash-up mods, and web browser ports of games suddenly released online, which ha… [+4961 chars]"
     },
     {
       "source": {
@@ -186,42 +264,29 @@
     },
     {
       "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
+        "id": null,
+        "name": "Neowin"
       },
-      "author": "Sarah Perez",
-      "title": "Google Play now lets anyone build private, vibe-coded apps that run on Android - TechCrunch",
-      "description": "Google is making it easier to build and use personal Android apps created with AI, without having to make them available to everyone on the Play Store.",
-      "url": "https://techcrunch.com/2026/10/13/google-play-now-supports-private-vibe-coded-apps-built-just-for-you/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/10/PersonalApps_desktop_16x9_Static.png?resize=1200,675",
-      "publishedAt": "2026-10-13T17:00:00Z",
-      "content": "Your vibe-coded applications can now be easily run on Android smartphones without having to first go public on the Google Play Store, the tech giant announced on Tuesday. A new feature will allow use… [+3429 chars]"
+      "author": "Neowin",
+      "title": "Windows 11 KB5127648 and KB5127646 Patch Tuesday updates are now available - Neowin",
+      "description": null,
+      "url": "https://www.neowin.net/news/windows-11-kb5127648-and-kb5127646-patch-tuesday-updates-are-now-available/",
+      "urlToImage": null,
+      "publishedAt": "2026-10-13T17:10:00Z",
+      "content": null
     },
     {
       "source": {
         "id": null,
-        "name": "Insider-gaming.com"
+        "name": "ZDNet"
       },
-      "author": "Mike Straw",
-      "title": "EXCLUSIVE: EA Sports College Football’s Future in Jeopardy, Sources Fear - Insider Gaming",
-      "description": "EA Sports College Football faces rising NIL costs and monetization concerns, with sources fearing the franchise's future moving forward.",
-      "url": "https://insider-gaming.com/ea-sports-college-football-future/",
-      "urlToImage": "https://insider-gaming.com/wp-content/uploads/2026/10/CFB27Screen.jpg",
-      "publishedAt": "2026-10-13T16:17:15Z",
-      "content": "EA Sports College Football’s future is facing questions just two years after the franchise’s hugely successful return. In 2024, EA Sports released College Football 25, bringing college football video… [+5837 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Eurogamer.net"
-      },
-      "author": "Robert Purchese",
-      "title": "\"That was not received well at Nintendo\" - as GTA 6 and Zelda are lampooned by Saturday Night Live, former employees recall Elon Musk Wario skit controversy - Eurogamer.net",
-      "description": "As American comedy series Saturday Night Live airs a sketch lampooning the November showdown between Grand Theft Auto 6…",
-      "url": "https://www.eurogamer.net/snl-elon-musk-wario-skit-zelda-gta-6",
-      "urlToImage": "https://assetsio.gnwcdn.com/musk-wario.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "publishedAt": "2026-10-13T15:33:54Z",
-      "content": "As American comedy series Saturday Night Live airs a sketch lampooning the November showdown between Grand Theft Auto 6 and The Legend of Zelda: Ocarina of Time remake, a pair of former Nintendo empl… [+2377 chars]"
+      "author": "Artie Beaty",
+      "title": "Google lets you make personal Android apps for free now – with just prompts - ZDNET",
+      "description": "It just got a whole lot easier to vibe code the exact Android app you need - no developer experience required.",
+      "url": "https://www.zdnet.com/tech/custom-android-apps-google-ai-studio/",
+      "urlToImage": "https://www.zdnet.com/wp-content/uploads/sites/3/Play-Store.jpg",
+      "publishedAt": "2026-10-13T17:00:07Z",
+      "content": "<ul><li>Google AI Studio now lets you make your own personal apps.</li><li>The apps bypass the public Play Store, but you can share with friends.</li><li>Apps you create will work on your own device.… [+2680 chars]"
     },
     {
       "source": {
@@ -239,19 +304,6 @@
     {
       "source": {
         "id": null,
-        "name": "Nintendo Life"
-      },
-      "author": "Ollie Reynolds",
-      "title": "Mini Review: Resident Evil 3 (Switch 2) - An Impressive Port Of A Subpar Remake - Nintendo Life",
-      "description": "Stars don't shine",
-      "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/resident-evil-3",
-      "urlToImage": "https://images.nintendolife.com/bffb3d223dff4/1280x720.jpg",
-      "publishedAt": "2026-10-13T15:05:00Z",
-      "content": "<ol></ol>\r\nIts generally accepted that Resident Evil 3 is the worst of the series modern remakes. While RE2 and 4 both expanded upon their respective originals, RE3 made several cutbacks to environme… [+2732 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "Kotaku"
       },
       "author": "Zack Zwiezen",
@@ -264,29 +316,29 @@
     },
     {
       "source": {
-        "id": "ign",
-        "name": "IGN"
+        "id": null,
+        "name": "Forbes"
       },
-      "author": "Jacqueline Thomas",
-      "title": "Nvidia RTX 5090 Reportedly Dead, but It's So Expensive That It Doesn't Really Matter - IGN",
-      "description": "While the RTX 5090 was already hard enough to get at a reasonable price, new leaks suggest that Nvidia is flat-out discontinuing its flagship graphics card.",
-      "url": "https://www.ign.com/articles/nvidia-rtx-5090-reportedly-dead-but-its-so-expensive-that-it-doesnt-really-matter",
-      "urlToImage": "https://assets-prd.ignimgs.com/2026/03/23/jensen-gpu-1774306276198.png?width=1280&format=jpg&auto=webp&quality=80",
-      "publishedAt": "2026-10-13T14:35:24Z",
-      "content": "While the RTX 5090 was already hard enough to get at a reasonable price, new leaks suggest that Nvidia is flat-out discontinuing its flagship graphics card. \r\nGPU leaker zed__wang on X/Twitter posted… [+3138 chars]"
+      "author": "Paul Tassi",
+      "title": "The ‘GTA 6’ PC Release Date Window Revealed, Says New Report - Forbes",
+      "description": "GTA 6 is coming to PC after it hits consoles, but we have a new release date window according to a report. And it's close.",
+      "url": "https://www.forbes.com/sites/paultassi/2026/10/13/the-gta-6-pc-release-date-window-revealed-says-new-report/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6ace3cffded87bfe5846428b/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2026-10-13T14:19:41Z",
+      "content": "I do not find it terribly amusing that Rockstar is one of the only third-party AAA (AAAA?) developers to release Grand Theft Auto 6 only on console without a PC companion release, but according to a … [+2688 chars]"
     },
     {
       "source": {
-        "id": null,
-        "name": "Xbox.com"
+        "id": "the-verge",
+        "name": "The Verge"
       },
-      "author": "Danielle Partis, XBOX Wire Editor",
-      "title": "Your Raw Fury Backlog on XBOX Is About to Get a Lot Bigger - XBOX Wire",
-      "description": "We hope you’ve cleared some space in your backlog, because there are a lot of Raw Fury games heading your way on XBOX. From getting lost with friends in the mysterious depths of Deep Dish Dungeon, to collecting and fusing monsters in Cassette Beasts 2002, sol…",
-      "url": "https://news.xbox.com/en-us/2026/10/13/raw-fury-publisher-xbox-update/",
-      "urlToImage": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/10/Header_RawFury-8a776ffeffcaeac0831e.jpg",
-      "publishedAt": "2026-10-13T14:05:36Z",
-      "content": "We hope youve cleared some space in your backlog, because there are a lot of Raw Fury games heading your way on XBOX. From getting lost with friends in the mysterious depths of Deep Dish Dungeon, to … [+6110 chars]"
+      "author": "Tom Warren",
+      "title": "DLSS 5 gets toned down for its Hogwarts Legacy debut next month - The Verge",
+      "description": "DLSS 5 debuts in Hogwarts Legacy and Where Winds Meet next month.",
+      "url": "https://www.theverge.com/news/1009904/dlss-5-hogwarts-legacy-changes-improvements",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/hogwarts-legacy-nvidia-dlss-5-3d-guided-neural-rendering-geforce-rtx-50-series-comparison-001-on.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+      "publishedAt": "2026-10-13T13:55:45Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nDLSS 5 debuts in Hogwarts Legacy and Where Winds Meet next month.\r\nDLSS 5 debuts in Hogwarts Legacy and Where Winds Meet next month.\r\nby\r\nTom WarrenClose\r\nPosts … [+3233 chars]"
     },
     {
       "source": {
@@ -317,32 +369,6 @@
     {
       "source": {
         "id": null,
-        "name": "Techpowerup.com"
-      },
-      "author": null,
-      "title": "NVIDIA Unveils \"Preset C \"DLSS Frame Generation with up to 35% Faster Generation - TechPowerUp",
-      "description": "NVIDIA has updated its DLSS Frame Generation algorithm to be faster and more efficient. In the latest NVIDIA App beta update, rolling out today, the company introduced \"Preset C,\" the fastest Performance Mode for DLSS Frame Generation. NVIDIA demonstrates tha…",
-      "url": "https://www.techpowerup.com/353670/nvidia-unveils-preset-c-dlss-frame-generation-with-up-to-35-faster-generation",
-      "urlToImage": "https://www.techpowerup.com/img/cY0oFaC2JOwVldSW.jpg",
-      "publishedAt": "2026-10-13T13:17:16Z",
-      "content": "Today, via a new NVIDIA app beta update, were introducing a new faster Performance Mode for Frame Generation, for GeForce RTX 40 Series and GeForce RTX 50 Series GPUs, and RTX Spark laptops.DLSS Mult… [+704 chars]"
-    },
-    {
-      "source": {
-        "id": "ign",
-        "name": "IGN"
-      },
-      "author": "Simon Cardy",
-      "title": "‘I Got That Completely Wrong’ — Dan Houser Considers Rockstar’s Max Payne 3 a Failure - IGN",
-      "description": "‘I got that completely wrong’ — Dan Houser explains why he thinks Rockstar’s Max Payne 3 ‘failed’.",
-      "url": "https://www.ign.com/articles/i-got-that-completely-wrong-dan-houser-considers-rockstars-max-payne-3-a-failure",
-      "urlToImage": "https://assets-prd.ignimgs.com/2026/10/13/max-payne-3-1791891616427.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "publishedAt": "2026-10-13T13:15:00Z",
-      "content": "Max Payne and its sequel, Max Payne 2: The Fall of Max Payne, are two of the most genre-defining third-person shooters ever made. They propelled Finnish developer Remedy Entertainment into the spotli… [+3199 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "Pokemon.com"
       },
       "author": null,
@@ -358,26 +384,13 @@
         "id": "the-verge",
         "name": "The Verge"
       },
-      "author": "Jennifer Pattison Tuohy",
-      "title": "The new Apple TV 4K has built-in microphones so you can talk to Siri AI - The Verge",
-      "description": "The fourth-gen streaming box also gets a surround-sound upgrade and the ability to find your Siri remote.",
-      "url": "https://www.theverge.com/tech/1009663/apple-tv-4k-siri-ai-microphones-4th-gen-announced",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Apple-TV-4K.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+      "author": "Tom Warren",
+      "title": "Elgato takes on DJI with a tiny wireless mic for creators on the go - The Verge",
+      "description": "Elgato has created its first-ever wireless microphone. The tiny Wave Go is designed for creators on the go.",
+      "url": "https://www.theverge.com/tech/1009752/elgato-wave-go-microphone-creators-pricing-release-date",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Wave_Go_Close_Up_Magnet_05_kinc3n.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
       "publishedAt": "2026-10-13T13:00:00Z",
-      "content": "<ul><li></li><li></li></ul>\r\nThe fourth-gen streaming box also gets a surround-sound upgrade and the ability to find your Siri remote.\r\nThe fourth-gen streaming box also gets a surround-sound upgrade… [+4626 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Timeextension.com"
-      },
-      "author": "Kris Moyse",
-      "title": "Entertainment Software Association Requests U.S. Trade Investigate Anbernic's 'Superfake' Handheld Emulator Market - Time Extension",
-      "description": "Pocket-sized Politics",
-      "url": "https://www.timeextension.com/news/2026/10/entertainment-software-association-requests-u-s-trade-investigate-anbernics-superfake-handheld-emulator-market",
-      "urlToImage": "https://images.timeextension.com/cb4e8f13bfeb2/1280x720.jpg",
-      "publishedAt": "2026-10-13T13:00:00Z",
-      "content": "Image: Damien McFerran / Time Extension\r\nThe Entertainment Software Association (ESA) has requested that U.S. trade representatives scrutinise the handheld emulation market. The story was initially s… [+2905 chars]"
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Wave Go has broadcast-quality audio and a USB-C receiver designed for mobile.\r\nThe Wave Go has broadcast-quality audio and a USB-C receiver designed for mobi… [+3193 chars]"
     },
     {
       "source": {
@@ -421,45 +434,6 @@
     {
       "source": {
         "id": null,
-        "name": "DC Rainmaker"
-      },
-      "author": "Ray Maker",
-      "title": "Garmin MARQ Gen3 In-Depth Review: Worth $3,100? - DC Rainmaker",
-      "description": "The Garmin MARQ Gen3 is the most expensive Garmin watch you can buy. But is it worth the money? And if so - for whom?",
-      "url": "https://www.dcrainmaker.com/2026/10/garmin-marq-gen3-in-depth-review.html",
-      "urlToImage": "https://media.dcrainmaker.com/images/2026/10/DSC07844-1-scaled.jpg",
-      "publishedAt": "2026-10-13T11:54:35Z",
-      "content": "The first thing to understand about Fight CluberrMARQ Club, is that its oddly not about the price. Nor is it supposed to be a classical timepiece meant to hand down to your grandchildren. Just like p… [+49372 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "GameRant"
-      },
-      "author": "Joshua Duckworth",
-      "title": "Rockstar Officially Comments on GTA 6's Release Date - GameRant",
-      "description": "With just over a month until release, Rockstar is confident in GTA 6's release date.",
-      "url": "https://gamerant.com/gta-6-release-date-rockstar-statement-on-time/",
-      "urlToImage": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/10/ultimate_edition_safehouse_vehicles_01.jpg?w=1600&h=900&fit=crop",
-      "publishedAt": "2026-10-13T11:00:14Z",
-      "content": "Rockstar Games has given players plenty of reasons to be excited about Grand Theft Auto 6, from its sprawling Vice City to its increasingly detailed look at everyday life across Leonida, and it's les… [+2889 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Android Authority"
-      },
-      "author": null,
-      "title": "Survey shows Google's recent Gemini downgrade isn't going down well - Android Authority",
-      "description": "According to a reader poll, Google's downgrade of Gemini perks for free and AI Plus tiers is upsetting plenty of its users.",
-      "url": "https://www.androidauthority.com/google-gemini-downgrade-poll-results-3722506/",
-      "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2026/09/Gemini-app-asking-_Whats-the-vibe-Shimul__-on-Google-Pixel-11.jpg",
-      "publishedAt": "2026-10-13T10:32:00Z",
-      "content": "Earlier this month, Google announced plans to limit access to its newer AI models to those who dont subscribe to its AI services or pay for the base AI Plus tier. The latter, a $4.99/month demand, wi… [+3045 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "BBC News"
       },
       "author": null,
@@ -472,15 +446,15 @@
     },
     {
       "source": {
-        "id": "mashable",
-        "name": "Mashable"
+        "id": null,
+        "name": "Neowin"
       },
-      "author": "Matt Binder",
-      "title": "Adobe software dupe maker takes on Microsoft Office, releasing free versions of Word, Powerpoint, and Excel - Mashable",
-      "description": "AI vibecoded apps are challenging big legacy software.",
-      "url": "https://mashable.com/tech/adobe-creative-suite-clone-app-maker-takes-on-microsoft-office",
-      "urlToImage": "https://helios-i.mashable.com/imagery/articles/0341b7kCCG5QZAUHyZQDUbQ/hero-image.fill.size_1200x675.v1791829879.png",
-      "publishedAt": "2026-10-13T08:54:12Z",
+      "author": "Neowin",
+      "title": "Free clones of Microsoft Word, Excel, PowerPoint out by same angry user who made Adobe's - Neowin",
+      "description": null,
+      "url": "https://www.neowin.net/news/free-clones-of-microsoft-word-excel-powerpoint-out-by-same-angry-user-who-made-adobes/",
+      "urlToImage": null,
+      "publishedAt": "2026-10-13T08:46:00Z",
       "content": null
     },
     {
@@ -512,15 +486,15 @@
     {
       "source": {
         "id": null,
-        "name": "GamesIndustry.biz"
+        "name": "9to5Mac"
       },
-      "author": "Vikki Blake",
-      "title": "Dragon Quest creator Yuji Horii releases game he says he made with AI in about 30 minutes - GamesIndustry.biz",
-      "description": "Yuji Horii, the creator of Dragon Quest, says he has produced a new game using AI in about 30 minutes.",
-      "url": "https://www.gamesindustry.biz/dragon-quest-creator-yuji-horii-releases-game-he-says-he-made-with-ai-in-about-30-minutes",
-      "urlToImage": "https://assetsio.gnwcdn.com/Screenshot-2026-10-12-at-19.25.58.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "publishedAt": "2026-10-12T18:49:25Z",
-      "content": "Yuji Horii, the creator of Dragon Quest, says he has produced a new game using AI in about 30 minutes.\r\nHorii shared the game, a text-based police interrogation game, in a post on X/Twitter. He said … [+1374 chars]"
+      "author": "Ryan Christoffel",
+      "title": "M6 MacBook Pro: Three new upgrades launching later this month - 9to5Mac",
+      "description": "Apple’s new M6 chip is coming to the MacBook Pro soon, here are three upgrades to expect from the new MacBook Pro launching later this month.",
+      "url": "https://9to5mac.com/2026/10/12/m6-macbook-pro-three-new-upgrades-launching-this-fall/",
+      "urlToImage": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/m6-macbook-pro-angle.jpg?quality=82&strip=all&resize=1200,628",
+      "publishedAt": "2026-10-12T20:23:00Z",
+      "content": "Apple has a new M6 MacBook Pro launching later this month with a 14-inch screen and the current industrial design. And with its M6 chip, there are three upgrades we can expect from the new MacBook Pr… [+2153 chars]"
     },
     {
       "source": {
@@ -550,16 +524,16 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "AppleInsider"
+        "id": "google-news",
+        "name": "Google News"
       },
-      "author": "Malcolm Owen",
+      "author": "AppleInsider",
       "title": "M5 Pro MacBook Pro vs Microsoft Surface Laptop Ultra: Compared - AppleInsider",
-      "description": "The Microsoft Surface Laptop Ultra uses Nvidia graphics in a bid to take over from the 14-inch MacBook Pro with M5 Pro as a productivity favorite. Here's how the two powerful notebooks compare.",
-      "url": "https://appleinsider.com/inside/14-inch-macbook-pro/vs/m5-pro-macbook-pro-vs-microsoft-surface-laptop-ultra-compared",
-      "urlToImage": "https://media.appleinsider.com/gallery/69312-146161-mbpslu-xl.jpg",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNQVJ0c2VfdklDQTU2UDVLQ283ZERTTlVTamxvQUQ5WHU0SDhqbXctTlpUWTVrTVc4Zno5TVRRVExyV0ctdzdBT2M2RlRDUDJ0aUJOc1lobmEtWjdFSUpSdkJWV1pxbW41SlBYV3BlYlRyTTctUEdaWTBtYjNaQXQ1enhhb3ZLM0VIOUM2RkU1TnRiVWtaakRMUkdBZ195NElDcng2ei1lSVU3ZE9TUW1JRWx6cmtlLWM?oc=5",
+      "urlToImage": null,
       "publishedAt": "2026-10-12T17:22:00Z",
-      "content": "14-inch MacBook Pro [left] vs Surface Laptop Ultra [right]\r\nIf you buy through our links, we may get a commission. Read our ethics policy.\r\nThe Microsoft Surface Laptop Ultra uses Nvidia graphics in … [+15555 chars]"
+      "content": null
     },
     {
       "source": {
@@ -577,15 +551,15 @@
     {
       "source": {
         "id": null,
-        "name": "9to5google.com"
+        "name": "AppleInsider"
       },
-      "author": "Andrew Romero",
-      "title": "Samsung is now rolling out Android 17 to these older Galaxy devices in the US - 9to5Google",
-      "description": "Samsung’s One UI 9 update is now available for the Galaxy S24 and Z Fold/Flip 6, a month after the...",
-      "url": "http://9to5google.com/2026/10/12/one-ui-9-update-available-galaxy-s24-z-fold-6-flip-6/",
-      "urlToImage": "https://9to5google.com/wp-content/uploads/sites/4/2024/09/Samsung-Galaxy-S24-Ultra-3.jpg?quality=82&strip=all&resize=1200,628",
-      "publishedAt": "2026-10-12T16:07:00Z",
-      "content": "Samsung’s One UI 9 update is now available for the Galaxy S24 and Z Fold/Flip 6, a month after the official rollout was initiated.\r\nSamsung announced that One UI 9 is officially rolling out to device… [+1627 chars]"
+      "author": "William Gallagher",
+      "title": "How to set up your iPhone Duo pre-order to make checkout faster - AppleInsider",
+      "description": "While pre-orders for the iPhone Duo don't start until October 16, Apple now allows you to prepare. You'll need to as demand is expected to be high.",
+      "url": "https://appleinsider.com/inside/iphone-duo/tips/how-to-set-up-your-iphone-duo-pre-order-to-make-checkout-faster",
+      "urlToImage": "https://media.appleinsider.com/gallery/69161-145843-iPhone-Duo-held-xl.jpg",
+      "publishedAt": "2026-10-12T16:23:57Z",
+      "content": "You can \"Get Ready\" to pre-order the iPhone Duo starting October 12.\r\nWhile pre-orders for the iPhone Duo don't start until October 16, Apple now allows you to prepare. You'll need to as demand is ex… [+4842 chars]"
     },
     {
       "source": {
@@ -629,19 +603,6 @@
     {
       "source": {
         "id": null,
-        "name": "9to5Mac"
-      },
-      "author": "Ryan Christoffel",
-      "title": "Apple has reportedly increased its iPhone Duo orders by 30% - 9to5Mac",
-      "description": "A new report indicates Apple is anticipating much higher demand for iPhone Duo than initially expected, despite pre-orders not starting yet.",
-      "url": "https://9to5mac.com/2026/10/12/apple-has-reportedly-increased-its-iphone-duo-orders-by-30/",
-      "urlToImage": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-duo-night-sky-front-back.jpg?quality=82&strip=all&resize=1200,628",
-      "publishedAt": "2026-10-12T14:53:00Z",
-      "content": "A new report by Securities Times in China indicates Apple is now anticipating much higher demand for iPhone Duo than initially expected, despite pre-orders not starting until later this week.\r\nApple … [+1252 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "MacRumors"
       },
       "author": "Mitchel Broussard",
@@ -655,41 +616,15 @@
     {
       "source": {
         "id": null,
-        "name": "Push Square"
-      },
-      "author": "Stephen Tailby",
-      "title": "Retro-Style He-Man Beat-'Em-Up Finally Hits Up PS5 and PS4 in February - Push Square",
-      "description": "By the power of Grayskull",
-      "url": "https://www.pushsquare.com/news/2026/10/retro-style-he-man-beat-em-up-finally-hits-up-ps5-and-ps4-in-february",
-      "urlToImage": "https://images.pushsquare.com/f0617078fd7b7/1280x720.jpg",
-      "publishedAt": "2026-10-12T14:00:00Z",
-      "content": "Publisher Clear River Games has announced a release date for its wonderfully retro side-scrolling brawler, He-Man and the Masters of the Universe: Dragon Pearl of Destruction.\r\nThe game with the long… [+871 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "Slate Magazine"
       },
       "author": "Christina Wyman",
       "title": "One Day, My Mother Disappeared. I Finally Found Out Where She’s Been. It’s Much Worse Than I Was Expecting. - Slate",
       "description": "I'm not one to keep tabs on my mother. But once I saw the stranger's message, I immediately started scrolling.",
       "url": "https://slate.com/life/2026/10/family-estrangement-parent-child-facebook-groups.html",
-      "urlToImage": "https://compote.slate.com/images/846c7f7e-6460-4a35-bbf6-9595a51094fa.jpeg?crop=1560%2C1040%2Cx0%2Cy0&width=1560",
+      "urlToImage": "https://compote.slate.com/images/846c7f7e-6460-4a35-bbf6-9595a51094fa.jpeg?crop=1344%2C896%2Cx43%2Cy0&width=1560",
       "publishedAt": "2026-10-12T14:00:00Z",
-      "content": "Sign up for the Slatest to get the most insightful analysis, criticism, and advice out there, delivered to your inbox daily.\r\nOne evening about a year ago, I was preparing dinner when my sister sent … [+14169 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "404media.co"
-      },
-      "author": "Joseph Cox",
-      "title": "AI Company Lets Cops Pinpoint Specific Houses Based on a Single Interior Photo - 404 Media",
-      "description": "Raven, previously called GeoSpy, lets cops figure out what specific Airbnb or Zillow property a photo was taken in.",
-      "url": "https://www.404media.co/ai-company-lets-cops-pinpoint-specific-houses-based-on-a-single-interior-photo/",
-      "urlToImage": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/10/raven-1.png",
-      "publishedAt": "2026-10-12T13:04:27Z",
-      "content": "An AI company now lets cops take a photo and nearly instantly figure out what specific home it was taken in, using only clues in the photo itself, and is clearly pulling data from sites like Zillow a… [+7179 chars]"
+      "content": "Sign up for the Slatest to get the most insightful analysis, criticism, and advice out there, delivered to your inbox daily.\r\nOne evening about a year ago, I was preparing dinner when my sister sent … [+14240 chars]"
     },
     {
       "source": {
@@ -703,19 +638,6 @@
       "urlToImage": "https://static01.nyt.com/images/2026/10/09/multimedia/09biz-airplane-wifi-jbqv/09biz-airplane-wifi-jbqv-mediumSquareAt3X.jpg",
       "publishedAt": "2026-10-12T12:58:46Z",
       "content": "Mr. Musk, whose company SpaceX owns Starlink, has attacked the top executive of Delta Air Lines for not selecting the internet provider."
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "TrueAchievements"
-      },
-      "author": null,
-      "title": "Gears of War: E-Day's Xbox debut tops Halo, can't surpass Forza Horizon 6 - TrueAchievements",
-      "description": "Gears of War: E-Day's high Xbox player count makes it the second-biggest game to launch on Xbox in 2026, behind only Forza Horizon 6.",
-      "url": "https://www.trueachievements.com/news/gears-of-war-e-day-xbox-player-count",
-      "urlToImage": "https://www.trueachievements.com/imgs/179284/gears-of-war-e-day-xbox-player-count.jpg",
-      "publishedAt": "2026-10-12T12:52:18Z",
-      "content": "Gears of War: E-Day has topped this week's Top 40 Xbox chart news that shouldn't surprise anybody, especially after last week's chart showed that players were so eager to hunt down Gears of War: E-Da… [+3083 chars]"
     },
     {
       "source": {
@@ -733,15 +655,28 @@
     {
       "source": {
         "id": null,
-        "name": "Scalzi.com"
+        "name": "Digitalfoundry.net"
       },
-      "author": "John Scalzi",
-      "title": "First Impressions: Dell XPS Googlebook and the Googlebook OS - John Scalzi's Whatever",
-      "description": "As someone who has, over the years, found himself deep in the Google ecosystem of hardware and services, I had been curious about the Googlebook concept for a while — whether it would be basi…",
-      "url": "https://whatever.scalzi.com/2026/10/12/first-impressions-dell-xps-googlebook-and-the-googlebook-os/",
-      "urlToImage": "https://whatever.scalzi.com/wp-content/uploads/2026/10/PXL_20261012_093142584.jpg",
-      "publishedAt": "2026-10-12T12:45:13Z",
-      "content": "Posted onOctober 12, 2026\r\n  \r\nPosted byJohn Scalzi  \r\n  \r\n6 Comments\r\nAs someone who has, over the years, found himself deep in the Google ecosystem of hardware and services, I had been curious abou… [+13414 chars]"
+      "author": "William Judd",
+      "title": "Report: RTX 5090 GPUs discontinued by Nvidia, as GB202 is reserved for AI workstation cards - Digital Foundry",
+      "description": "Not that I could afford one anyway.",
+      "url": "https://www.digitalfoundry.net/news/2026/10/report-rtx-5090-gpus-discontinued-by-nvidia-as-gb202-is-reserved-for-ai-workstation-cards",
+      "urlToImage": "https://images.digitalfoundry.net/e38a51771a0ae/1280x720.jpg",
+      "publishedAt": "2026-10-12T12:44:00Z",
+      "content": "Nvidia's flagship RTX 5090 graphics card is impossible to buy anywhere near its original price, as its excellent compute performance and VRAM allocation has seen it become a tool for AI workloads ins… [+1201 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Phoronix"
+      },
+      "author": null,
+      "title": "Linus Torvalds \"Did What I Preach\", Used AI To Make Code Decipherable & Uncovered More Bugs - Phoronix",
+      "description": "After using Claude Code to draft code to help make a fundamental improvement to the Linux kernel, Linux creator Linus Torvalds continued using AI this weekend and talking up its benefits",
+      "url": "https://www.phoronix.com/news/Linus-Torvalds-Assoc-Array",
+      "urlToImage": "https://www.phoronix.net/image.php?id=2026&image=assoc_array_fixes_msg",
+      "publishedAt": "2026-10-12T10:03:00Z",
+      "content": "After using Claude Code to draft code to help make a fundamental improvement to the Linux kernel, Linux creator Linus Torvalds continued using AI this weekend and talking up its benefits. Beyond gene… [+1731 chars]"
     },
     {
       "source": {

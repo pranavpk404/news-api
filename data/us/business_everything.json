@@ -1,26 +1,39 @@
 {
-  "source": "rss_fallback",
+  "source": "everything",
   "country": "us",
   "category": "business",
   "providers": [
     "newsapi",
     "rss"
   ],
-  "fetched_at": "2026-10-16T14:21:18.935310+00:00",
-  "articles_count": 49,
+  "fetched_at": "2026-10-16T19:03:19.434304+00:00",
+  "articles_count": 50,
   "articles": [
     {
       "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
-      "author": "Andrew Trunsky",
-      "title": "Lufthansa’s Final A346 Flight Marks the End of an Aviation Love Story",
-      "description": "Lufthansa’s quirky plane, with its extra-long fuselage, four engines and restrooms down a flight of stairs, has a devoted following. Now, the carrier, one of few still flying the model, is taking it out of service.",
-      "url": "https://www.nytimes.com/2026/10/16/travel/lufthansa-a340-600-airbus-retires.html",
-      "urlToImage": null,
-      "publishedAt": "2026-10-16T13:40:40Z",
-      "content": "Lufthansa’s quirky plane, with its extra-long fuselage, four engines and restrooms down a flight of stairs, has a devoted following. Now, the carrier, one of few still flying the model, is taking it out of service."
+      "author": "Alan Rappeport",
+      "title": "U.S. Budget Deficit Nears $2 Trillion, a Reality Check for Trump’s Cost Cutting",
+      "description": "Higher interest rates are inflating borrowing costs as the Trump administration spends on the Iran war and tariff refunds.",
+      "url": "https://www.nytimes.com/2026/10/16/business/us-budget-deficit.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/10/16/multimedia/2026-biz-sept-promos-fed-deficit/2026-biz-sept-promos-fed-deficit-mediumSquareAt3X.png",
+      "publishedAt": "2026-10-16T18:28:21Z",
+      "content": "Higher interest rates are inflating borrowing costs as the Trump administration spends on the Iran war and tariff refunds."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Sui-Lee Wee",
+      "title": "Indonesian Stocks Plunge as MSCI Threatens to Drop Market from Indexes",
+      "description": "The potential downgrade by MSCI, an influential index provider, adds to a deepening crisis of investor confidence in the economic policies of President Prabowo Subianto.",
+      "url": "https://www.nytimes.com/2026/10/16/business/indonesia-stocks-economy.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/10/16/multimedia/16biz-indonesia-crash-vwfq/16biz-indonesia-crash-vwfq-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-10-16T18:18:14Z",
+      "content": "The potential downgrade by MSCI, an influential index provider, adds to a deepening crisis of investor confidence in the economic policies of President Prabowo Subianto."
     },
     {
       "source": {
@@ -32,7 +45,7 @@
       "description": "The Federal Reserve chairman stuck to his pledge to avoid providing guidance about the path forward for interest rates, but did nothing to convey an urgency to raise them later this month.",
       "url": "https://www.nytimes.com/2026/10/16/business/warsh-fed-imf-bangkok.html",
       "urlToImage": "https://static01.nyt.com/images/2026/10/16/multimedia/16biz-warsh-vbgk/16biz-warsh-vbgk-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-10-16T13:35:08Z",
+      "publishedAt": "2026-10-16T18:06:40Z",
       "content": "The Federal Reserve chairman stuck to his pledge to avoid providing guidance about the path forward for interest rates, but did nothing to convey an urgency to raise them later this month."
     },
     {
@@ -40,13 +53,13 @@
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
-      "author": "Sui-Lee Wee",
-      "title": "Indonesian Stocks Plunge as MSCI Threatens to Drop Market from Indexes",
-      "description": "The potential downgrade by MSCI, an influential index provider, adds to a deepening crisis of investor confidence in the economic policies of Indonesian President Prabowo Subianto.",
-      "url": "https://www.nytimes.com/2026/10/16/business/indonesia-stocks-economy.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/10/16/multimedia/16biz-indonesia-crash-vwfq/16biz-indonesia-crash-vwfq-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-10-16T13:03:05Z",
-      "content": "The potential downgrade by MSCI, an influential index provider, adds to a deepening crisis of investor confidence in the economic policies of Indonesian President Prabowo Subianto."
+      "author": "Andrew Trunsky",
+      "title": "Lufthansa’s Final A346 Flight Marks the End of an Aviation Love Story",
+      "description": "Lufthansa’s quirky plane, with its extra-long fuselage, four engines and restrooms down a flight of stairs, has a devoted following. Now, the carrier, one of few still flying the model, is taking it out of service.",
+      "url": "https://www.nytimes.com/2026/10/16/travel/lufthansa-a340-600-airbus-retires.html",
+      "urlToImage": null,
+      "publishedAt": "2026-10-16T18:05:27Z",
+      "content": "Lufthansa’s quirky plane, with its extra-long fuselage, four engines and restrooms down a flight of stairs, has a devoted following. Now, the carrier, one of few still flying the model, is taking it out of service."
     },
     {
       "source": {
@@ -106,7 +119,7 @@
         "name": "The New York Times"
       },
       "author": "Jack Ewing",
-      "title": "Tesla Debuts 2026 Roadster, an EV Sports Car at Least $200,000",
+      "title": "Tesla Debuts 2026 Roadster ‘Flying’ Electric Sports Car",
       "description": "Elon Musk’s company and other automakers, like Jaguar and Bentley, are trying to sell very expensive electric cars to people who usually prefer gasoline-fueled luxury and performance.",
       "url": "https://www.nytimes.com/2026/10/15/business/tesla-roadster-2026-ev-sports-car.html",
       "urlToImage": "https://static01.nyt.com/images/2026/10/16/multimedia/16tesla-vid-covers-02-hpgf/16tesla-vid-covers-02-hpgf-mediumSquareAt3X.jpg",
@@ -242,6 +255,19 @@
       "urlToImage": "https://static01.nyt.com/images/2026/10/14/multimedia/00biz-Prop-45-cfkt/00biz-Prop-45-cfkt-mediumSquareAt3X.jpg",
       "publishedAt": "2026-10-15T16:00:51Z",
       "content": "Among the measures up for a vote in November is one that would amend the state’s landmark environmental law and make it easier to build large housing developments outside cities."
+    },
+    {
+      "source": {
+        "id": "nbc-news",
+        "name": "NBC News"
+      },
+      "author": "Rob Wile",
+      "title": "Cracks are beginning to show in the stock market, as doubts grow about AI investments",
+      "description": "Just a after hitting fresh all-time highs, U.S. stocks are under strain as investors worry about returns on the trillions of dollars that have been put into AI.",
+      "url": "https://www.nbcnews.com/business/markets/stock-market-ai-data-centers-doubts-rcna603710",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/261015-nyse-ch-1131-52532c.jpg",
+      "publishedAt": "2026-10-15T15:38:19Z",
+      "content": "Just one week after hitting fresh all-time highs, U.S. stocks are showing signs of strain as investors begin to fret about returns on the trillions of dollars that have been put into AI. \r\nFor U.S. c… [+3193 chars]"
     },
     {
       "source": {
@@ -632,19 +658,6 @@
       "urlToImage": "https://static01.nyt.com/images/2026/10/13/multimedia/13dc-cook-jkph/13dc-cook-jkph-mediumSquareAt3X.jpg",
       "publishedAt": "2026-10-14T00:04:56Z",
       "content": "A lawyer for Lisa Cook raised “significant concerns” over the “objectivity and fitness of the committee” assembled by President Trump as a way to remove her as a governor at the Federal Reserve."
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "author": "John Koblin",
-      "title": "Lena Dunham’s ‘Girls’ to Return to HBO for 5 New Episodes",
-      "description": "HBO announced that the show created by Lena Dunham will begin production on five new episodes next year, 10 years after the finale.",
-      "url": "https://www.nytimes.com/2026/10/13/business/media/girls-lena-dunham-hbo.html",
-      "urlToImage": null,
-      "publishedAt": "2026-10-13T21:38:31Z",
-      "content": "HBO announced that the show created by Lena Dunham will begin production on five new episodes next year, 10 years after the finale."
     }
   ],
   "query": "market economy finance stock"

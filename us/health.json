@@ -1,7 +1,20 @@
 {
   "status": "ok",
-  "totalResults": 76,
+  "totalResults": 77,
   "articles": [
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Alina Tugend",
+      "title": "Is Retirement Unhealthy? It Depends on How it’s Defined.",
+      "description": "As more Americans live longer and as the population ages, measuring the effect of retirement on physical, cognitive and mental abilities is a complex undertaking.",
+      "url": "https://www.nytimes.com/2026/10/16/well/longevity-retirement-health.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/10/18/multimedia/18sp-longevity-retirement-qfjc/18sp-longevity-retirement-qfjc-mediumSquareAt3X-v2.jpg",
+      "publishedAt": "2026-10-16T16:09:33Z",
+      "content": "As more Americans live longer and as the population ages, measuring the effect of retirement on physical, cognitive and mental abilities is a complex undertaking."
+    },
     {
       "source": {
         "id": "the-new-york-times",
@@ -46,19 +59,6 @@
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
-      "author": "Alina Tugend",
-      "title": "Is Retirement Unhealthy? It Depends on How it’s Defined.",
-      "description": "As more Americans live longer and as the population ages, measuring the effect of retirement on physical, cognitive and mental abilities is a complex undertaking.",
-      "url": "https://www.nytimes.com/2026/10/16/well/longevity-retirement-health.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/10/18/multimedia/18sp-longevity-retirement-qfjc/18sp-longevity-retirement-qfjc-mediumSquareAt3X-v2.jpg",
-      "publishedAt": "2026-10-16T09:00:13Z",
-      "content": "As more Americans live longer and as the population ages, measuring the effect of retirement on physical, cognitive and mental abilities is a complex undertaking."
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
       "author": "The New York Times and Joanna Ni",
       "title": "Ms., Martians and Guacamole: Their First Time in The Times",
       "description": "Our reporters share a compendium of debuts, discoveries and (sometimes overdue) appearances in the paper.",
@@ -66,6 +66,71 @@
       "urlToImage": "https://static01.nyt.com/images/2026/10/14/multimedia/00firsts-promo-tk/00firsts-promo-tk-mediumSquareAt3X-v3.jpg",
       "publishedAt": "2026-10-15T19:50:16Z",
       "content": "Our reporters share a compendium of debuts, discoveries and (sometimes overdue) appearances in the paper."
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "Fox News",
+      "title": "Weight-loss drugs may fight 7 serious health problems before the pounds even come off - Fox News",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPbHdMU0YzWnZ6M0VFM0hmVk1TcVZKY25qTlJKcTJXY0pUdjh1d09KNjBiY2xYQV9kcWl1dC1uNWw2SEtxQWZHODAzSE9zNC1oR1JjbWZJakxhY1dqRlhObXliMjkzQTJuT3RqUFJHX3BxamRlNGtyOWZ4Zlk2NmY0S2JIaEF3YmNBYUxYSkIxOEpVV0F2X0pmRGlwZzhWa2ZodTMxZHJ30gGrAUFVX3lxTE9SS3N1ai1sOHRJUGxtUGdob1l2SUxiSVpxVHhGUDV3Q1JqMFN5dWdOTXF0aEp5bWxNbE1lamNHT0pHMHo3OG56dFhnaE9zWDNpbExuYnAwMHUtVm5NQ01TOFJpQ0Z5Y0ZTNTdYVTFfblplbWgtREZvYldGQ1FneWVQYk1TN3J3QlFtYTZrb0lJNjhra2pKOFk5RUljdWtDV25Id0d4eGNvMGpkcw?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2026-10-15T17:23:25Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "NBC News",
+      "title": "CDC sending a ‘disease detective’ to help stop measles outbreak in Pennsylvania - NBC News",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNS0RfTEN3SldHVXFfdnFZc3l3UHZtb21KZk1Ud245azAzaGtxU0VvaWVoVnJsam1FUDl0MnNnUGRJamFKM2RSV25CR2szb3BJQWRuSEF5eUlWT21va2ZZMTByLUlaY3VnaFlQaG5KaWNySXNMMHJpYVdiV2N5SnpqVUVoMVgtNzRmOVVqS2c1bmx2TU55dFczNDV3?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2026-10-15T17:01:10Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "Yahoo News Canada",
+      "title": "Mom of 6 Sues Doctors, Hospital After Hysterectomy Allegedly Leads to Paralysis, Quadruple Amputations - Yahoo News Canada",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBaR0tqWFgxSXBJUXJYMUVLSnc5c3dpclJyaEFLQXFzaDJkeEUzMWw3N29HWkNYUjd6Nk9VYzJZNkJoUFJmTHNxdE5qTU9xTVNOVWxpN05ES2I1WjZ1Q3E3bUFHMm5HaTU2M2lUMkxfSGtHaEVYb3Fn?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2026-10-15T16:34:02Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "The New York Times",
+      "title": "New Guidelines Strongly Support Hormone Therapy for Common Menopause Symptoms - The New York Times",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOX1lXUVV1TktyNlotVEQyQjlyZ1BGQnRwTGZQQUhjWGFqYU9iNHhrTXpIUzRTajdjS0x1VUFGUzA1eUplRlZJUlVrQTFkSlN2bUJ3ZG5iQk5va0hWb1R6ems4aGpGN0x2c05Jbk0tY0p4cWNEeXdreDNMV1oxdGhabkk3Ukl5QTg?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2026-10-15T15:00:05Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Abcnews.com"
+      },
+      "author": "ABC News - Breaking News, Latest News and Videos",
+      "title": "Big Bear bald eagle Jackie's cause of death revealed - ABC News - Breaking News, Latest News and Videos",
+      "description": null,
+      "url": "https://abcnews.com/GMA/Living/big-bear-bald-eagle-jackies-cause-death-revealed/story?id\\\\u003d137285896",
+      "urlToImage": null,
+      "publishedAt": "2026-10-15T15:00:00Z",
+      "content": null
     },
     {
       "source": {
@@ -82,6 +147,19 @@
     },
     {
       "source": {
+        "id": null,
+        "name": "TODAY"
+      },
+      "author": "A. Pawlowski",
+      "title": "The No. 1 Vegetable a Cardiologist Recommends to Help Lower Blood Pressure - TODAY.com",
+      "description": "How to lower blood pressure naturally with food. Cardiologist explains why beets are the best vegetable to manage hypertension and prevent stiff arteries.",
+      "url": "https://www.today.com/health/diet-fitness/lower-blood-pressure-vegetable-beets-cardiologist-tip-rcna603498",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_social_share_1200x630_center,f_auto,q_auto:best/rockcms/2026-10/best-vegetable-lower-blood-pressure-mh-10142026-dfd645.jpg",
+      "publishedAt": "2026-10-15T12:00:00Z",
+      "content": "High blood pressure is a major risk factor for heart disease, so its important to keep it in check.\r\nIts possible to lower blood pressure without medication by losing weight, exercising and eating a … [+2557 chars]"
+    },
+    {
+      "source": {
         "id": "google-news",
         "name": "Google News"
       },
@@ -95,16 +173,42 @@
     },
     {
       "source": {
-        "id": "google-news",
-        "name": "Google News"
+        "id": "cnn",
+        "name": "CNN"
       },
-      "author": "Fox News",
+      "author": null,
+      "title": "‘Who, us? We’re not anti-vaccine,’ parents tell me. ‘Today just doesn’t work for us’ - CNN",
+      "description": "Despite claiming to support vaccines, more parents are delaying their children’s shots, Dr. Edith Bracho-Sanchez says. She advises doctors to be more blunt about the risks.",
+      "url": "https://www.cnn.com/2026/10/15/health/parents-vaccine-delays-wellness",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-114146985.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2026-10-15T11:00:44Z",
+      "content": "Dr. Edith Bracho-Sanchez is a primary care pediatrician at Columbia University Irving Medical Center in New York City. She hosts the American Academy of Pediatrics Healthy Children podcast for parent… [+5507 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": null,
       "title": "Man claims he went blind after taking Ozempic, shares warning for other users - Fox News",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZzlEeFBORXpLQ2FWdThvOTljQTJlb3h6LU5ZZ1lSdU5YSUVmeFktV0JURnRvc0s1NVRodTUtZlcxc0tqNGt1VnVxXzlpRmFvNC1zVVlZXzc3cUNOMElGeGxza3RXeUZXbUtwXzNITl9FcjFWOVdjeFROeXFad2pGdkR1cUJMOFNubGYwb1BpNXNJY0JVSUFrYi1MZ2V5YUlLQmfSAacBQVVfeXFMTzRES1Rtb29Ca2NpU1NkUVROVkY4aFhyREpnZzNlLVpwUVN4MHpzc09TaFNOSExmOWdkZ3RRVExydWI3LThlcW13a3dDMTFZSUhCaUdWTGsyRktSVWduSklhM1RkRkVTNkhsQ1JWSlBuMlVsSC1TSE1EUEZkZEhFMDhURVRpTXRhMnFJWjgzek1QRnZCVXhFWEdvSUpYVkRzcGh0V3VUWjQ?oc=5",
-      "urlToImage": null,
+      "description": "Todd Engel claims Ozempic caused his total vision loss from NAION and has filed a lawsuit against Novo Nordisk over inadequate drug warnings.",
+      "url": "https://www.foxnews.com/health/man-claims-went-blind-after-taking-ozempic-shares-warning-other-users",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/10/todd-engel-vision-loss.jpg",
       "publishedAt": "2026-10-15T11:00:14Z",
-      "content": null
+      "content": "A Maryland man claims that a popular weight-loss drug caused his total vision loss, leaving him legally blind.\r\nTodd Engel, 63, was first prescribed Ozempic in 2023 to help manage his diabetes. The G… [+7524 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "New York Post"
+      },
+      "author": "Patrice Peck",
+      "title": "I was taken to the hospital in handcuffs and diagnosed as psychotic — my ovaries were actually to blame - New York Post",
+      "description": "The viral TikTok star “Tube Girl” says months of psychiatric treatment, a tumor and a fight for answers changed her life forever.",
+      "url": "https://nypost.com/2026/10/15/health/i-was-diagnosed-as-psychotic-my-ovaries-were-actually-to-blame/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/10/newspress-collage-4rciu3jpp-1791997536325.jpg?quality=75&strip=all&1791983227&w=1200",
+      "publishedAt": "2026-10-15T10:59:00Z",
+      "content": "“Girl, where are you?!? U ok??!”\r\nThat was the message one of Sabrina Bahsoon’s 800,000-plus TikTok followers left after the influencer, better known as “Tube Girl,” disappeared from social media for… [+4947 chars]"
     },
     {
       "source": {
@@ -121,6 +225,19 @@
     },
     {
       "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": null,
+      "title": "Best foods for reducing dangerous belly fat and protecting heart health - Fox News",
+      "description": "Belly fat and visceral fat are linked to serious health issues. A doctor shares how lean protein, fruits and vegetables, and healthy fats can help reduce stomach fat.",
+      "url": "https://www.foxnews.com/food-drink/best-foods-reducing-dangerous-belly-fat-protecting-heart-health",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/09/woman-eating-keto-depression-reduction.jpg",
+      "publishedAt": "2026-10-15T10:00:45Z",
+      "content": "Incorporating a few nutritious staples into the diet can help reduce belly fat and, in turn, lead to underlying health benefits.\r\nA surplus of fat around the stomach area can be an indication of visc… [+3008 chars]"
+    },
+    {
+      "source": {
         "id": null,
         "name": "Phys.Org"
       },
@@ -131,19 +248,6 @@
       "urlToImage": "https://scx2.b-cdn.net/gfx/news/2026/unexpected-discovery-o.jpg",
       "publishedAt": "2026-10-15T09:35:31Z",
       "content": "New research has revealed an unexpected new mechanism through which the killer fungus Candida auris is resisting antifungal drug treatment. A team led by the University of Exeter and City St George's… [+6399 chars]"
-    },
-    {
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": "New York Post",
-      "title": "Arizona university cancer researcher Rachna Shroff dies of disease she was trying to cure - New York Post",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPUXBxLWJibVhJcFlKNGNzSEtUdFM2bk43cWxTTThRdkxPRmliZ3JfWVpGalNzcGRGQkFNcG1MOE5vUjM2bHcxcTZRUzZDVDJGVHJGc18xVlhNUXNwQk0zdHNfTkszOTVpUVNQWEJkVWJ4TWpGVmRQU0xDMVRVOWxZZ2JQUTFFbExrc3cxdy1Gdm5MOGZacUV5dnh4U1N2ZVEtWU9wUnBYWEJDdDktTktpeXZuOUhTeFE2RFpBN0UxbV9hMjVpbEVlZDZrQQ?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2026-10-15T09:09:00Z",
-      "content": null
     },
     {
       "source": {
@@ -173,16 +277,16 @@
     },
     {
       "source": {
-        "id": "google-news",
-        "name": "Google News"
+        "id": null,
+        "name": "Science Daily"
       },
-      "author": "Los Angeles Times",
-      "title": "Cause of death for Jackie the bald eagle revealed; avian icon has been cremated - Los Angeles Times",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNb2pFdlZmU1FfcmN5Rm1sSGR4UzZGaWdVZGR0UGZWTFlmcG1pVTQwcXpGTnpfeWkxRGpqeFJLUDlKQUtxTExUb2I5cElPalhsQjdsQXFQOGxVTEYwbEhwVzAwS2o0OXVXeFpXNFRjb1Q0R2JBNzdWWE9sLWQzQVFQRGNSTlJEOUxJbGV3bGNyWE1xa2ptLTAxTA?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2026-10-15T03:28:00Z",
-      "content": null
+      "author": null,
+      "title": "A 47-year study reveals the age when your body starts losing strength - Science Daily",
+      "description": "A 47-year study has uncovered a surprising turning point in physical aging: fitness and strength begin declining around age 35, even among people who exercise regularly. Researchers found that this decline accelerates as people get older, but starting to exer…",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261014000912.htm",
+      "urlToImage": "https://www.sciencedaily.com/images/1920/tired-asian-man-fitness-running-exercise-looking-at-watch.webp",
+      "publishedAt": "2026-10-15T00:30:14Z",
+      "content": "Aging may begin to affect your physical abilities earlier than you expect. A remarkable 47-year Swedish study found that fitness, muscle endurance, and physical performance generally begin declining … [+8669 chars]"
     },
     {
       "source": {
@@ -251,16 +355,29 @@
     },
     {
       "source": {
-        "id": "nbc-news",
-        "name": "NBC News"
+        "id": "google-news",
+        "name": "Google News"
       },
-      "author": "Erika Edwards",
-      "title": "Pennsylvania doctors are seeing what measles can do to previously healthy, unvaccinated kids - NBC News",
-      "description": "The virus is proving it can attack multiple organs, including the gut, liver, lungs and brain, even in children who were previously healthy.",
-      "url": "https://www.nbcnews.com/health/health-news/pennsylvania-measles-outbreak-kids-severe-cases-doctors-complications-rcna602988",
-      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/261012-child-hospital-stock-mn-1340-e45b81.jpg",
-      "publishedAt": "2026-10-14T20:25:54Z",
-      "content": "Just a moment.\r\nWe are getting your experience ready."
+      "author": "SciTechDaily",
+      "title": "Scientists Tested Diet Drinks for 2 Years. The Results May Surprise You - SciTechDaily",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOVGdjU1pHR2pMcHJyR0NBb2xWaGdBOWJ1T3FKcUgyVG5FVXctMTBaQlZVSHlKbWNfV042X0xaVkV2YjE2S0xHeUhpbWFXWnhoS29IYkswSVgwNGl6Q3NHMVFxTlh1S2d6Zl9fSXdMQ0xNZUFMbWNwaTFKZkJJY3lWcGxJekdVWmtrcGsxeGtuWU5lV2hNSUNzSTc3RjM?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2026-10-14T20:32:40Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Rolling Stone"
+      },
+      "author": "Katherine Eban",
+      "title": "How a Controversial Hepatitis B Study Was Funded by the CDC Amid a Global Swirl of Criticism - Rolling Stone",
+      "description": "As experts questioned the ethics of the study, documents show that expiring funds forced a rushed vote in Denmark, where the researchers’ institute is based",
+      "url": "http://www.rollingstone.com/politics/politics-news/hepatitis-b-vaccine-study-documents-cdc-1235642201/",
+      "urlToImage": "https://www.rollingstone.com/wp-content/uploads/2026/10/controversial-vax-study-docs.jpg?w=1600&h=900&crop=1",
+      "publishedAt": "2026-10-14T19:39:56Z",
+      "content": "Despite widespread criticism, a halted clinical trial of the hepatitis B vaccine in Guinea-Bissau moved forward last month for the most quotidian of reasons: $1.6 million in grant money needed by the… [+10033 chars]"
     },
     {
       "source": {
@@ -291,19 +408,6 @@
     {
       "source": {
         "id": null,
-        "name": "Nature.com"
-      },
-      "author": null,
-      "title": "‘Incredible’: bleached corals thrive within days when touching healthy neighbour - Nature",
-      "description": "A coral fragment can form a tissue bridge with a dying counterpart — and provide it with crucial microalgae.",
-      "url": "https://www.nature.com/articles/d41586-026-03266-x",
-      "urlToImage": "https://media.nature.com/lw1200/magazine-assets/d41586-026-03266-x/d41586-026-03266-x_53851622.jpg",
-      "publishedAt": "2026-10-14T19:15:20Z",
-      "content": "This video shows a bleached coral fragment brought back to health within weeks through fusion with a vibrant fragment from the same individual. Credit: Danny Collins\r\nScientists have rapidly restored… [+2859 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "WRAL.com"
       },
       "author": "WXII staff",
@@ -329,19 +433,6 @@
     },
     {
       "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": "AOL.com",
-      "title": "When is it too late to get a flu shot? - AOL.com",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE85aXVJVEY0Q0c1bmV3SUhnczdnSTgzUk5RdzN2b3VwRHNMMjhRZkR6U3hNSVlINjN0cWctZTJMZXlDbE1SRnAwN0pvNXNwSGxXYUY1d2MwWXBTdm5MbnlveG14VF9IeHM?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2026-10-14T17:30:08Z",
-      "content": null
-    },
-    {
-      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -352,6 +443,19 @@
       "urlToImage": "https://static01.nyt.com/images/2026/10/14/multimedia/14sci-pope-cancer-mutations-01-hzwv/14sci-pope-cancer-mutations-01-hzwv-mediumSquareAt3X.jpg",
       "publishedAt": "2026-10-14T17:02:22Z",
       "content": "Lung cancer is still a leading cause of cancer death, but that rate is half what it was in the 1990s, partly because newly developed treatments are working."
+    },
+    {
+      "source": {
+        "id": "the-washington-post",
+        "name": "The Washington Post"
+      },
+      "author": "Gretchen Reynolds",
+      "title": "Column | At 63, he’s a top knee expert. Here’s his exercise routine for strong knees. - The Washington Post",
+      "description": "These simple moves can help protect and strengthen your knees.",
+      "url": "https://www.washingtonpost.com/wellness/interactive/2026/10/14/7-exercises-an-orthopedic-surgeon-recommends-healthy-knees/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/3GATVXDGZFHDPFIZY2GJGPAZLE.jpg&w=1200",
+      "publishedAt": "2026-10-14T17:00:01Z",
+      "content": "As an orthopedic surgeon, Howard Luks treats aching, aging knees. As a 63-year-old, he also possesses them. Over the decades, his knees have weathered meniscus tears, morning stiffness, thousands of … [+6511 chars]"
     },
     {
       "source": {
@@ -394,19 +498,6 @@
     },
     {
       "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": "WKYT",
-      "title": "More than 150 measles cases now confirmed in Kentucky outbreak - WKYT",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPUERYMkNqTno1d0V6bzZZMGVrcnpWRVdPbEJzUUpkYUVPNW5TUzF6M2JwRXhrd0RFSzYwMEsyd0o2V09CT3lQT3dVSDg1Mnd3TjlieTRsWG9DZzNLYnV2bzl0YU1BQjJ3eWJibGJNLTFwaUhpM3BpcnRuOEtOaTROVVMtaHI?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2026-10-14T16:03:00Z",
-      "content": null
-    },
-    {
-      "source": {
         "id": "the-washington-post",
         "name": "The Washington Post"
       },
@@ -433,16 +524,42 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "ScienceAlert"
+        "id": "google-news",
+        "name": "Google News"
       },
-      "author": "Carly Cassella",
-      "title": "Study Shows Meat Eaters Are More Likely to Survive to 100, But There's a Catch - ScienceAlert",
-      "description": "Humans are living longer than ever before.",
-      "url": "https://www.sciencealert.com/study-shows-meat-eaters-are-more-likely-to-survive-to-100-but-theres-a-catch",
-      "urlToImage": "https://www.sciencealert.com/images/2026/10/MeatEaterLiveLonger.jpg",
-      "publishedAt": "2026-10-14T12:00:36Z",
-      "content": "Humans are living longer than ever before. By 2050, scientists predict that nearly half a billion people could be older than 80.\r\nThe rise in human life expectancy is partly due to improvements in nu… [+5215 chars]"
+      "author": "The Independent",
+      "title": "These are the common infections that can cause cancer - and how to protect yourself - The Independent",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOVXUzMjU5UVFzNHBNbGRqNzZlMWVBZUkwMDJ5aGhBbUlTYS16c2VnbGpoX2VYOFlRaDRtS19hQzU3eE51SW5EZWtJWFVZNEdITEZoRGRKcFB2Y1hibFpjWXJnYWpaZVNKdm9fOUdOR1Q1akdqNUp4WWZyRUxwNk1ucHBpZUc0UE4tOWs1SmJRaFpQSzhTdHE1U3U4NXQ?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2026-10-14T14:52:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "New York Post"
+      },
+      "author": "Allie Yang",
+      "title": "Deadly, brain-liquifying fungus is on the rise in the US — and scientists don’t know why - New York Post",
+      "description": "The fungus kills up to 70% of the people it infects. It’s still rare, but the CDC is warning cases of this infection have jumped four-fold in just two years.",
+      "url": "https://nypost.com/2026/10/14/health/brain-liquifying-fungus-on-the-rise-in-us-scientists-dont-know-why/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/10/newspress-collage-t5su68yz8-1791994038284.jpg?quality=75&strip=all&1791979671&w=1200",
+      "publishedAt": "2026-10-14T14:29:00Z",
+      "content": "A rare fungus found around the world kills up to 70% of the people it infects by liquifying the brain.\r\nNow, the CDC is sounding the alarm that cases of this infection have jumped four-fold in just t… [+3608 chars]"
+    },
+    {
+      "source": {
+        "id": "medical-news-today",
+        "name": "Medical News Today"
+      },
+      "author": "Yasemin Nicola Sakay",
+      "title": "AI scans and ABCDEs: Modern skin cancer screening with a dermatologist - Medical News Today",
+      "description": "Medical News Today speaks with dermatologist Sudan Mayou to discuss the ABCDEs of melanoma and how skin cancer screening has changed over time, and now includes AI-assisted mole checks.",
+      "url": "https://www.medicalnewstoday.com/articles/skin-cancer-checks-what-ai-can-help-catch-how-check-yourself-at-home",
+      "urlToImage": "https://media.post.rvohealth.io/wp-content/uploads/sites/3/2026/10/getty_2153540843_facebook_1200x630-1200x628.jpg",
+      "publishedAt": "2026-10-14T13:39:25Z",
+      "content": "<ul><li>Melanoma can go unnoticed because it can develop in hidden areas or mimic other skin conditions.</li><li>Earlier detection of subtle changes in skin lesions, such as moles, can improve outcom… [+8847 chars]"
     },
     {
       "source": {
@@ -472,42 +589,16 @@
     },
     {
       "source": {
-        "id": "the-washington-post",
-        "name": "The Washington Post"
-      },
-      "author": "Daniel Wu",
-      "title": "These common infections can cause cancer. Here’s what can lower your risk. - The Washington Post",
-      "description": "Recent research indicates that infectious diseases cause around 12 percent of new cancer cases.",
-      "url": "https://www.washingtonpost.com/health/2026/10/13/these-common-infections-can-cause-cancer-heres-what-can-lower-risk/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/FTAJPTLXNJGMW3UUB2XCC7MMJM_size-normalized.jpg&w=1440",
-      "publishedAt": "2026-10-14T10:32:10Z",
-      "content": "About 12 percent of new cancer cases worldwide in 2024 were caused by infectious agents such as viruses and bacteria, according to a recent study by the International Agency for Research on Cancer.\r\n… [+176 chars]"
-    },
-    {
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
+        "id": null,
+        "name": "Abcnews.com"
       },
       "author": "ABC News - Breaking News, Latest News and Videos",
       "title": "GLP-1s may help boost fertility outcomes for hopeful mothers, some women find - ABC News - Breaking News, Latest News and Videos",
       "description": null,
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOSGdwclNSRTlHX25NaFpyeEhaeDlDbEp0WUswcE5vc1Fxd3FvcG1XMHhXTi1rYUgwX3JsNTJiVzNQSkk0WTZZTEpwQVhNOHVGeVNzMWI1QmFnaG1vMU1WZUZwNWlCT3BmVmVTX0ZMVTdUZGZJc0Q5OTJEOFMxR0RkM1AxTUhCcXJMMnQ1eFhnUDhpRmxIbExnNlNUOTg3cms30gGmAUFVX3lxTE5ZSjRmWXZoaXBMcDZfUnJHUE5rZVIzVmVnVjhrRE9XTDBOR0Z1aUJCV042a085VHY3ZUtSeEdmZjBhUU1OMmlaNWdPR1IwdWtEc3hZUXR3R3lET2pLSmoxRHBCaFhjRzVKU2xjTjU3UVNONTdZdFZYLWRhRy0zR2FWN1pxRmp1UDl4Q0F0dTlpWlo4RnlKRkFLQzlwUkR2VDRPV2lkYUE?oc=5",
+      "url": "https://abcnews.com/Health/glp-1s-boost-fertility-outcomes-hopeful-mothers-women/story?id\\\\u003d137227876",
       "urlToImage": null,
       "publishedAt": "2026-10-14T10:18:49Z",
       "content": null
-    },
-    {
-      "source": {
-        "id": "the-washington-post",
-        "name": "The Washington Post"
-      },
-      "author": "Gretchen Reynolds",
-      "title": "Column | At 63, he’s a top knee expert. Here’s his exercise routine for strong knees. - The Washington Post",
-      "description": "These simple moves can help protect and strengthen your knees.",
-      "url": "https://www.washingtonpost.com/wellness/interactive/2026/10/14/7-exercises-an-orthopedic-surgeon-recommends-healthy-knees/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/3GATVXDGZFHDPFIZY2GJGPAZLE.jpg&w=1200",
-      "publishedAt": "2026-10-14T10:03:52Z",
-      "content": "As an orthopedic surgeon, Howard Luks treats aching, aging knees. As a 63-year-old, he also possesses them. Over the decades, his knees have weathered meniscus tears, morning stiffness, thousands of … [+6511 chars]"
     },
     {
       "source": {
@@ -538,6 +629,19 @@
     {
       "source": {
         "id": null,
+        "name": "WLKY Louisville"
+      },
+      "author": "Alex Suckow",
+      "title": "Measles cases surge past 150 in Kentucky; big outbreak identified in one county - WLKY",
+      "description": "Just days after Kentucky's measles case count hit 100, dozens more have been reported.",
+      "url": "https://www.wlky.com/article/measles-kentucky-count-157-lauren-county/74134107",
+      "urlToImage": "https://kubrick.htvapps.com/htv-prod/images/ed1ae693-38ff-4f9f-b61e-53b263c5dfb5.jpg?crop=1.00xw%3A1.00xh%3B0%2C0&resize=1200%3A*",
+      "publishedAt": "2026-10-14T09:20:00Z",
+      "content": "LAUREL COUNTY, Ky.Just days after Kentucky's measles case count hit 100, dozens more have been reported.\r\nAs of Wednesday, the number of cases reported in the Commonwealth is now 157 for 2026.\r\nMost … [+1949 chars]"
+    },
+    {
+      "source": {
+        "id": null,
         "name": "Food & Wine"
       },
       "author": "https://www.facebook.com/foodandwine",
@@ -547,19 +651,6 @@
       "urlToImage": "https://www.foodandwine.com/thmb/sbBjTQxuv-0iiXOUu529uW0cxXI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Everyday-Food-New-Protein-Analysis-FT-DGTL1026-5fe044ec3005410dba0e5ec8ff329298.jpg",
       "publishedAt": "2026-10-14T09:01:00Z",
       "content": "Gone are the days when protein powder and bars were the extent of the protein universe. Now, protein chips, protein coffee (or proffee), and even protein waters are available to consumers just about … [+6030 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Thebrighterside.news"
-      },
-      "author": "Mac Oliveau",
-      "title": "FDA approves once-daily Parkinson’s pill (Juvmo) built on decades of work by husband-and-wife team - The Brighter Side of News",
-      "description": "FDA-approved Juvmo targets D1/D5 receptors to ease Parkinson’s motor symptoms, building on decades of UVA research.",
-      "url": "https://www.thebrighterside.news/post/fda-approves-once-daily-parkinsons-pill-juvmo-built-on-decades-of-work-by-husband-and-wife-team/#article",
-      "urlToImage": "https://www.thebrighterside.news/uploads/2026/10/Parkinsons-pill.png?auto=webp",
-      "publishedAt": "2026-10-14T08:07:00Z",
-      "content": "<ul><li>The FDA approved Juvmo, a once-daily tavapadon pill that selectively activates D1 and D5 dopamine receptors, for adults with Parkinsons disease.</li><li>Trials found improved movement-related… [+9858 chars]"
     },
     {
       "source": {
@@ -603,19 +694,6 @@
     {
       "source": {
         "id": null,
-        "name": "Nantucketcurrent.com"
-      },
-      "author": "",
-      "title": "Alpha-Gal Syndrome Spikes On Nantucket Over Summer As Lone Star Ticks Spread - Nantucket Current",
-      "description": "Nantucket Current is the island's leading online news source. We deliver the news, stories, and people of Nantucket, unbiased and unfiltered.",
-      "url": "https://nantucketcurrent.com/news/alpha-gal-syndrome-spikes-on-nantucket-over-summer-as-lone-star-ticks-spread",
-      "urlToImage": "https://nantucket-current.nyc3.cdn.digitaloceanspaces.com/assets/_1200x630_crop_center-center_82_none/shutterstock_2150130763_e3a40f7172c3e2402cbe8afa5c931de5_2026-10-14-014750_layg.jpg?mtime=1791942470",
-      "publishedAt": "2026-10-14T01:56:00Z",
-      "content": "For years, experts have warned that alpha-gal syndrome, the meat allergy transmitted by Lone Star ticks, is coming for Nantucket. This summer, it may have finally arrived.\r\nNantuckets case numbers ar… [+4293 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "ScienceAlert"
       },
       "author": "Esra Öz",
@@ -625,19 +703,6 @@
       "urlToImage": "https://www.sciencealert.com/images/2026/10/GeneTherapyVision.jpg",
       "publishedAt": "2026-10-14T01:30:36Z",
       "content": "Night vision often fades first, followed by a narrowing of peripheral vision. In retinitis pigmentosa, this progressive loss can eventually lead to blindness. \r\nAn experimental treatment has now help… [+5810 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "AL.com"
-      },
-      "author": "AL.com",
-      "title": "Measles case reported in north Alabama, officials advise to be wary of symptoms - AL.com",
-      "description": null,
-      "url": "https://www.al.com/news/2026/10/measles-case-reported-in-north-alabama-officials-advise-to-be-wary-of-symptoms.html",
-      "urlToImage": null,
-      "publishedAt": "2026-10-13T23:34:00Z",
-      "content": null
     },
     {
       "source": {
@@ -654,29 +719,42 @@
     },
     {
       "source": {
+        "id": null,
+        "name": "WAFF"
+      },
+      "author": "Ryan Hodges, Anjolina  Fantaroni",
+      "title": "Measles case reported in Huntsville - WAFF",
+      "description": "Alabama health officials are warning the public after a case of measles was reported in Huntsville",
+      "url": "https://www.waff.com/2026/10/13/measles-case-reported-huntsville-possible-exposures-bailey-cove-subway-publix/",
+      "urlToImage": "https://gray-waff-prod.gtv-cdn.com/resizer/v2/ZAV35UWAOJDVRFGJIJLOCABS44.jpeg?auth=26c912dcccbfb5e03ef8fcbd5ce21dff8acdd8baa431c8b8ce51845bb4d49504&width=1200&height=600&smart=true",
+      "publishedAt": "2026-10-13T21:28:00Z",
+      "content": "HUNTSVILLE, Ala. (WAFF) - Alabama health officials are warning the public after a case of measles was reported in Huntsville involving an international traveler who visited businesses in the Bailey C… [+2957 chars]"
+    },
+    {
+      "source": {
         "id": "google-news",
         "name": "Google News"
       },
-      "author": "ZME Science",
-      "title": "A Human Brain Gene Has Been Jumping Around Our DNA for 40 Million Years. Scientists Just Found It in a Virus - ZME Science",
+      "author": "Yahoo Health",
+      "title": "Scientists studied 1 million women before menopause—one pattern stood out - Yahoo Health",
       "description": null,
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNRHRXZWZ3SHJYTFZQVkgwS2FOMGhFSnVid183ZEViaEZvWGRnTE5udEdzeTBjU1c0T1ExaVVhTTZoam9fUmpVcGE2YXdJZEhXV3JhVkotZGRFd0dxVUxmVXNHa0QyQjBvb3hMUmE5NkhvbWpLWjNkVW8tN3ZnczUyUHQ4ZWZJa3FlWVdWbkJLbmtIcVVlVnJoeGd3?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQeEpFYi1IRF90Vjh6LUpXY0hvTlVMeEk1U2lvZGU1d1ByUzBza1lGSlFTY2lxVTZtM3Q0UjNjOFhFMlZNcnZIbVpzSGhRS05obW1ENFltSGdoeWVTUG1VTWJRTDZIUjZHNE1TYy14VVdRNEl0VUE4cjYxOUlLRHpZNHg5SEUwcWh1N05UZnpDa3lxSFl3MGIzRjhsUS0wNUZfVGZiNmJjVlo1WlNCX1AxbE1DWEg1Q0xj?oc=5",
       "urlToImage": null,
-      "publishedAt": "2026-10-13T20:53:00Z",
+      "publishedAt": "2026-10-13T18:05:55Z",
       "content": null
     },
     {
       "source": {
         "id": null,
-        "name": "WANE"
+        "name": "Medscape"
       },
-      "author": "Gracie Sherrow",
-      "title": "Measles cases continue to grow in northeast Indiana - WANE 15",
-      "description": "Indiana Department of Health statistics show that measles cases continue to grow in Allen, Adams, DeKalb, and LaGrange counties.",
-      "url": "https://www.wane.com/top-stories/measles-cases-continue-to-grow-in-northeast-indiana/",
-      "urlToImage": "https://www.wane.com/wp-content/uploads/sites/21/2026/02/GettyImages-1359395701.jpg?w=1280",
-      "publishedAt": "2026-10-13T20:08:48Z",
-      "content": "NORTHEAST INDIANA (WANE) – Indiana Department of Health statistics show that measles cases continue to grow in Allen, Adams, DeKalb, and LaGrange counties.\r\nAccording to the department, Allen County … [+1072 chars]"
+      "author": "Nancy A. Melville",
+      "title": "IBS Symptoms Improved by FODMAP-Targeting Enzyme Combo - Medscape",
+      "description": "Participants taking the OTC supplement showed notable improvements in symptoms over 4 weeks, but randomized trials are needed.",
+      "url": "https://www.medscape.com/viewarticle/ibs-symptoms-improved-fodmap-targeting-enzyme-combo-2026a10012ee",
+      "urlToImage": "https://img.medscapestatic.com/vim/live/professional_assets/medscape/images/thumbnail_library/dt-261013-digestive-system-colon-800x450.jpg",
+      "publishedAt": "2026-10-13T17:09:45Z",
+      "content": "NASHVILLE — A commercially available enzyme combination supplement targeting fermentable oligo-, di-, and monosaccharides, and polyols (FODMAPs) — known triggers of irritable bowel syndrome (IBS) — s… [+5584 chars]"
     },
     {
       "source": {
@@ -719,32 +797,6 @@
     },
     {
       "source": {
-        "id": "the-washington-post",
-        "name": "The Washington Post"
-      },
-      "author": "Gretchen Reynolds",
-      "title": "Column | The biggest mistake that people with knee pain make - The Washington Post",
-      "description": "An orthopedic surgeon has built his practice around the idea that our joints can remain strong and functional throughout life, with some basic care and feeding.",
-      "url": "https://www.washingtonpost.com/wellness/2026/10/13/heres-what-knee-arthritis-expert-does-every-day-protect-his-knees/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/KJLTCJU7KZU56NTQWPUSELD5UM.jpg&w=1440",
-      "publishedAt": "2026-10-13T16:00:00Z",
-      "content": "As an orthopedic surgeon for almost 30 years, Howard Luks has come to dislike one string of words that crops up constantly in his work. \r\nBone on bone, he said. I wish we could remove that phrase fro… [+64 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "PEOPLE"
-      },
-      "author": "Vanessa Etienne",
-      "title": "Woman Who Survived Colon Cancer 3 Times Reveals the First Symptom She Noticed at 14: ‘I Hid It From Everyone’ - Yahoo News UK",
-      "description": "“Don’t downplay what you’re seeing,” said Danielle Ripley-Burgess",
-      "url": "https://people.com/woman-survived-colon-cancer-3-times-since-she-was-17-12161043",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/01fc9beb083a68f48e5f4bdbdb5250993685c926c1aea5248eb137e0e4b59f55/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2F40ec0bb12003aab55ad1ded7cbd166d5.jpg",
-      "publishedAt": "2026-10-13T15:55:27Z",
-      "content": "NEED TO KNOW\r\n<ul><li>Danielle Ripley-Burgess first noticed blood in her stool at 14 but waited years to tell anyone\r\n</li><li>She was diagnosed with Lynch syndrome, a genetic condition that raises t… [+4353 chars]"
-    },
-    {
-      "source": {
         "id": null,
         "name": "Nature.com"
       },
@@ -784,32 +836,6 @@
     },
     {
       "source": {
-        "id": "fox-news",
-        "name": "Fox News"
-      },
-      "author": null,
-      "title": "Want to dodge the flu this year? Eat these secret-weapon immunity-boosting foods - Fox News",
-      "description": "Nutrition experts reveal the best immunity-boosting foods for flu season, from fermented foods and fiber-rich beans to vitamin C-packed produce.",
-      "url": "https://www.foxnews.com/food-drink/want-dodge-flu-year-eat-secret-weapon-immunity-boosting-foods",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/10/woman-pouring-kale-smoothie-home.png",
-      "publishedAt": "2026-10-13T10:00:55Z",
-      "content": "As flu season heightens, it's important to prioritize immune system support, which includes eating a balanced diet of nutrient-dense foods, experts say.\r\nThe immune system is directly connected to th… [+3885 chars]"
-    },
-    {
-      "source": {
-        "id": "cnn",
-        "name": "CNN"
-      },
-      "author": "Brenda Goodman",
-      "title": "Could GLP-1 drugs be anti-aging medications? - CNN",
-      "description": "GLP-1 medications for weight loss and diabetes appear to slow the body’s aging processes, a sign that the blockbuster drugs could ultimately help people live longer.",
-      "url": "https://www.cnn.com/2026/10/13/health/glp-1-drugs-anti-aging",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2148794370.jpg?c=16x9&q=w_800,c_fill",
-      "publishedAt": "2026-10-13T10:00:45Z",
-      "content": "GLP-1 medications for weight loss and diabetes appear to slow the bodys aging processes, a sign that the blockbuster drugs could ultimately help people live longer.\r\nThe idea that these medications m… [+8263 chars]"
-    },
-    {
-      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -820,19 +846,6 @@
       "urlToImage": "https://static01.nyt.com/images/2026/09/22/multimedia/00biz-meta-states-htbv/00biz-meta-states-htbv-mediumSquareAt3X.jpg",
       "publishedAt": "2026-10-13T09:00:44Z",
       "content": "Previous agreements with the tobacco and opioid industries show the difficulty of putting the money in the right hands."
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Nature.com"
-      },
-      "author": null,
-      "title": "Hidden signals in sleep can predict future health - Nature",
-      "description": "From a single night of sleep, AI tools can uncover physiological patterns linked to disease and mortality that are missed by conventional sleep measures.",
-      "url": "https://www.nature.com/articles/d41586-026-03207-8",
-      "urlToImage": "https://media.nature.com/lw1200/magazine-assets/d41586-026-03207-8/d41586-026-03207-8_53840454.jpg",
-      "publishedAt": "2026-10-12T15:55:09Z",
-      "content": "<li>Shah, A. S. et al.Am. J. Lifestyle Med. https://doi.org/10.1177/15598276251346752 (2025).\r\nArticle \r\nGoogle Scholar \r\n</li><li>Ramos, A. R., Wheaton, A. G. &amp; Johnson, D. A. Prev. Chronic Dis.… [+751 chars]"
     },
     {
       "source": {
@@ -849,6 +862,19 @@
     },
     {
       "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "Medscape",
+      "title": "Do Sugary Drinks Increase Cancer Risk? It’s Complicated - Medscape",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQUXdvWXF4NENJX3ZWcVRESzN1ZGk1S1F0Q2YwbXFPOEZOWG9HSTZWVG1CRnhoNktQVzVUUWk0d1A5T0RMTVh2YklrRFhuTmtDdkpudzlkTlU5Q0pkLVAzRXFPZzJYNXRsRFZ2TmlvMlNsOTY0SjM1dEpxNzVuQUhTSDEtaHFXcXByLXhreVVCcnpoSDYzVXV3S0VDWmJ6TTZObkVlZHd3?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2026-10-12T13:44:20Z",
+      "content": null
+    },
+    {
+      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -862,6 +888,19 @@
     },
     {
       "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "The New York Times",
+      "title": "How Healthy Is Seaweed? - The New York Times",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQRHZ3SzZJWDYzZzM3b25sSWRwOGFjdmk1dHYtWDREOUlRd2FjTVo3eVRjMDhpQm51UkxpV1VUbWR3YndTOGpHY3Q4Y2dlVDQ5SzNPcUc0RmdZZnRyMTR5RUFpckJma2NvRFFrTnVEaGxYVUNMVVc4X1lvQVk1WnNRQ0VFZFh5RVU?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2026-10-12T09:00:08Z",
+      "content": null
+    },
+    {
+      "source": {
         "id": null,
         "name": "NPR"
       },
@@ -872,6 +911,19 @@
       "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4800x2700+0+0/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fe3%2F03%2Fc627607e45a2a96bb711a7def771%2Fnpr-measles-109.jpg",
       "publishedAt": "2026-10-12T09:00:00Z",
       "content": "Measles is the most contagious disease known. It can rip through a population without immunity like wildfire. Just look at what's happening in Pennsylvania, says Patsy Stinchfield, executive director… [+5540 chars]"
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "ScienceAlert",
+      "title": "Scientists Gave People 2 Nearly Identical Meals. One Triggered Much More Insulin. - ScienceAlert",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNN0dXY0tXZ0FwbUtvSUNpRENCS2pxd2tydWVKNjc0RDF2N1RlaFc2X0dWdFY1X3pIMURBaTdmQ2Q2ZUxWSkRvdGNINnhDbFJzX2M3bGhCNC1NX0YtNHc0QVpvd2Y3T0hYcDVPcnJTWGQ5UDE0YjJkaWhhdS15R2tSVE93djAzVF9ZWVg3Tlp3ZDUwbmVIYU5oeE1SeEt6bHpETXEtbVFsSlZfa2JW?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2026-10-11T10:04:25Z",
+      "content": null
     },
     {
       "source": {
@@ -901,19 +953,6 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "KGW.com"
-      },
-      "author": "Alex Jensen",
-      "title": "‘I fought so hard to survive’: Oregon mom who lost both legs and a hand after hysterectomy infection sues for $68.5M - KGW",
-      "description": "A woman's life was transformed by medical complications after a hysterectomy led to devastating infections, amputations and paralysis.",
-      "url": "https://www.kgw.com/article/news/local/courts-news/oregon-mom-lost-both-legs-hand-after-hysterectomy-infection-sues/283-e54b1c45-530d-4e4d-b6be-8e55f1fa139b",
-      "urlToImage": "https://media.kgw.com/assets/KGW/images/c3f38d17-2990-4936-aebc-cc7b695d15c8/c3f38d17-2990-4936-aebc-cc7b695d15c8_1920x1080.jpg",
-      "publishedAt": "2026-10-09T20:40:00Z",
-      "content": "PORTLAND, Ore. Editor's note: This article contains graphic medical details and an image that may be found disturbing.\r\nA mother of six and her husband are seeking $68.5 million in damages from multi… [+6473 chars]"
-    },
-    {
-      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -924,32 +963,6 @@
       "urlToImage": "https://static01.nyt.com/images/2026/10/09/science/09sci-speedy-vaccines/09sci-speedy-vaccines-mediumSquareAt3X.jpg",
       "publishedAt": "2026-10-09T20:26:30Z",
       "content": "New details have emerged about an initiative that starts in December to fast-track the vaccines, similar to the successful push for the Covid-19 vaccine."
-    },
-    {
-      "source": {
-        "id": "usa-today",
-        "name": "USA Today"
-      },
-      "author": "Melina Khan",
-      "title": "Want weight loss? Drinking diet soda is the same as water, study finds - USA Today",
-      "description": "Trying to lose weight but don't want to give up diet soda? This study found it has the same effect as drinking water.",
-      "url": "https://www.usatoday.com/story/life/health-wellness/2026/10/09/diet-soda-water-weight-loss-study/92172251007/",
-      "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/10/09/USAT/92173562007-getty-images-2283538371.jpg?crop=3839,2159,x0,y0&width=3200&height=1800&format=pjpg&auto=webp",
-      "publishedAt": "2026-10-09T19:54:00Z",
-      "content": "The results of a recent weight loss study won't fall flat with diet soda lovers.\r\nA study from researchers at the University of Liverpool published in August found that diet drinks like diet colas an… [+2849 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Daily Beast"
-      },
-      "author": "Roosa Rahkonen",
-      "title": "Oscar-Winning Actress, 61, Reveals Shocking Diagnosis - The Daily Beast",
-      "description": "She described the news as “the surprise of my life.”",
-      "url": "https://www.thedailybeast.com/viola-davis-61-reveals-shocking-shingles-diagnosis",
-      "urlToImage": "https://media.thedailybeast.com/resizer/v2/P3FMAYXTDREKRKOTG4RJHWR6JY.jpg?auth=b7ca1e0ae4162d3a15da83ce98f231056bc346bbdcaa5b30b8e8e0ccaef0c0a4&width=1200&height=630&focal=1782%2C1003",
-      "publishedAt": "2026-10-08T18:44:12Z",
-      "content": "She described the news as the surprise of my life.\r\nViola Davis is speaking out about the shocking diagnosis she received following her 2012 Academy Award nomination.\r\nThe 61-year-old star told Peopl… [+5576 chars]"
     },
     {
       "source": {

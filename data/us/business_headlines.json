@@ -6,9 +6,22 @@
     "newsapi",
     "rss"
   ],
-  "fetched_at": "2026-10-16T19:03:19.434304+00:00",
-  "articles_count": 98,
+  "fetched_at": "2026-10-16T22:14:15.807985+00:00",
+  "articles_count": 95,
   "articles": [
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Jeff Sommer",
+      "title": "Why Bad News in the Bond Market May Be Good News for Investors",
+      "description": "In the contrarian logic of investing, rising interest rates have made bonds much more attractive, our columnist says.",
+      "url": "https://www.nytimes.com/2026/10/16/business/bonds-investors-interest-rates.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/10/18/business/18bizsun-strategies-illo/18bizsun-strategies-illo-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-10-16T20:55:01Z",
+      "content": "In the contrarian logic of investing, rising interest rates have made bonds much more attractive, our columnist says."
+    },
     {
       "source": {
         "id": "the-new-york-times",
@@ -18,7 +31,7 @@
       "title": "U.S. Budget Deficit Nears $2 Trillion, a Reality Check for Trump’s Cost Cutting",
       "description": "Higher interest rates are inflating borrowing costs as the Trump administration spends on the Iran war and tariff refunds.",
       "url": "https://www.nytimes.com/2026/10/16/business/us-budget-deficit.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/10/16/multimedia/2026-biz-sept-promos-fed-deficit/2026-biz-sept-promos-fed-deficit-mediumSquareAt3X.png",
+      "urlToImage": "https://static01.nyt.com/images/2026/10/16/multimedia/2026-biz-sept-promos-fed-deficit/2026-biz-sept-promos-fed-deficit-mediumSquareAt3X-v3.png",
       "publishedAt": "2026-10-16T18:28:21Z",
       "content": "Higher interest rates are inflating borrowing costs as the Trump administration spends on the Iran war and tariff refunds."
     },
@@ -45,7 +58,7 @@
       "description": "The Federal Reserve chairman stuck to his pledge to avoid providing guidance about the path forward for interest rates, but did nothing to convey an urgency to raise them later this month.",
       "url": "https://www.nytimes.com/2026/10/16/business/warsh-fed-imf-bangkok.html",
       "urlToImage": "https://static01.nyt.com/images/2026/10/16/multimedia/16biz-warsh-vbgk/16biz-warsh-vbgk-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-10-16T18:06:40Z",
+      "publishedAt": "2026-10-16T18:06:41Z",
       "content": "The Federal Reserve chairman stuck to his pledge to avoid providing guidance about the path forward for interest rates, but did nothing to convey an urgency to raise them later this month."
     },
     {
@@ -157,19 +170,6 @@
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
-      "author": "Jeff Sommer",
-      "title": "Why Bad News in the Bond Market May Be Good News for Investors",
-      "description": "In the contrarian logic of investing, rising interest rates have made bonds much more attractive, our columnist says.",
-      "url": "https://www.nytimes.com/2026/10/16/business/bonds-investors-interest-rates.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/10/18/business/18bizsun-strategies-illo/18bizsun-strategies-illo-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-10-16T05:07:20Z",
-      "content": "In the contrarian logic of investing, rising interest rates have made bonds much more attractive, our columnist says."
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
       "author": "John Koblin and Nicole Sperling",
       "title": "Netflix Replaces Bela Bajaria as Chief Content Officer",
       "description": "Peter Rice, a former executive at Disney and Fox, will take over from Bela Bajaria, who had held the job since 2023.",
@@ -177,6 +177,19 @@
       "urlToImage": "https://static01.nyt.com/images/2026/10/15/multimedia/NETFLIX-Bela-Bajaria-qpfh/NETFLIX-Bela-Bajaria-qpfh-mediumSquareAt3X.jpg",
       "publishedAt": "2026-10-16T00:25:01Z",
       "content": "Peter Rice, a former executive at Disney and Fox, will take over from Bela Bajaria, who had held the job since 2023."
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "Reuters",
+      "title": "EXCLUSIVE: Investors temper Anthropic IPO valuation expectations over revenue growth slowdown, sources say - Reuters",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQRW4tSGppV2U0ZWtvaXBsQmlyaDVVLVFCSmJNMWdmMHpod0FWd25kUXRNQzFvZXJPTmhoQUNvMlFrQzI3NjBQVG9McWFPRHdUODhMbVItOGg4S0N3ZmJ4R2psZVd1aWFZM2M0aEY4R3VaYnFZWUxhOFZiRXAxTnc5UG9hMm1ERGpKbURkX3BWYzQ5UWl3THBFTDhWUWR0SVhUSWJsekpMZjM4OUZRQl9BVmY2djVKRENDSldCSUpOWmdvbHVK?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2026-10-15T21:48:03Z",
+      "content": null
     },
     {
       "source": {
@@ -193,6 +206,58 @@
     },
     {
       "source": {
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "author": "Dan Goodin",
+      "title": "Targeted ads delivered 0-click exploits to install mercenary malware - Ars Technica",
+      "description": "The incident is likely 1st confirmation of mercenary spyware delivered by targeted ads.",
+      "url": "https://arstechnica.com/security/2026/10/targeted-ads-delivered-0-click-exploits-to-install-mercenary-malware/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/exploit-vulnerability-security-1.jpg",
+      "publishedAt": "2026-10-15T20:32:41Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Top Gear"
+      },
+      "author": "Top Gear",
+      "title": "Mission… accepted: meet the stunning new mid-engined Porsche Mission S - Top Gear",
+      "description": "And it’s a full production supercar, not a limited-edition hypertoy. Oooft",
+      "url": "https://www.topgear.com/car-news/supercars/mission-accepted-meet-stunning-new-mid-engined-porsche-mission-s",
+      "urlToImage": "https://www.topgear.com/sites/default/files/images/news-article/2026/10/c149b026573089e10069fd87245b0863/CC27X05IX0009_sRGB_072dpi.jpg?w=1280&h=720",
+      "publishedAt": "2026-10-15T20:30:00Z",
+      "content": "SupercarsAnd its a full production supercar, not a limited-edition hypertoy. Oooft\r\nPorsche is on the ropes. Its profits once the envy of many a carmaker fell off a cliff last year, plunging a whoppi… [+3578 chars]"
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "NBC News",
+      "title": "Will the Fed raise interest rates this month? A Kevin Warsh speech could offer clues - NBC News",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUm1YY3gtQVZrcEhOQm9iNE1idzlmNnRZTzQxOXd6dUl2XzBhZTBsZk04a1U1R1VBbEw0VG1keFVhdUNrUEc2N3JlOGVCcDhtLXR6NG1OLTc2OE9RM0hKM1J5N2tCTnVvNEJyR1FhUXA4dFYwMS1BTmszaHZSODNHWjJIQ1NvQU1SMGdzbzZjVHhwTWc1VlJqOWlaTXBvWVRjNHNMXy1CdDM?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2026-10-15T20:28:24Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Investor's Business Daily"
+      },
+      "author": null,
+      "title": "Chip Leader TSMC Delivers Beat-And-Raise Third-Quarter Report - Investor's Business Daily",
+      "description": "TSMC beat estimates for the third quarter and guided above views for the current period. But TSM stock fell after the report.",
+      "url": "https://www.investors.com/news/technology/tsm-stock-taiwan-semiconductor-tsmc-q3-2026-earnings/",
+      "urlToImage": "https://www.investors.com/wp-content/uploads/2026/10/stock-TSMC-VP-symposium-company.jpg",
+      "publishedAt": "2026-10-15T20:24:00Z",
+      "content": "Information in Investors Business Daily is for informational and educational purposes only and should not be construed as an offer, recommendation, solicitation, or rating to buy or sell securities. … [+1064 chars]"
+    },
+    {
+      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -203,6 +268,58 @@
       "urlToImage": "https://static01.nyt.com/images/2026/10/15/multimedia/15biz-oil-stocks-bonds-wpql/15biz-oil-stocks-bonds-wpql-mediumSquareAt3X.jpg",
       "publishedAt": "2026-10-15T20:22:43Z",
       "content": "Tech stocks plunged before reversing course, as concerns over soaring A.I. spending and stubborn inflation fueled a sell-off."
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Lucas Ropek",
+      "title": "Meta launches an open-weight AI model that runs on Macs - TechCrunch",
+      "description": "Meta and Apple have teamed up for the launch of the social media giant's newest model, Muse Spark Open, which will run locally on Apple silicon.",
+      "url": "https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2296215726.jpg?resize=1200,799",
+      "publishedAt": "2026-10-15T20:04:53Z",
+      "content": "Meta has launched what it calls the “most capable” open-weight model in the United States. Dubbed Muse Spark Open, the model also has the distinction of having been designed to work with Macs.\r\nThe n… [+1630 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Amelia Lucas",
+      "title": "KFC to switch to Coca-Cola beverages in U.S. restaurants for the first time in decades - CNBC",
+      "description": "KFC is switching from PepsiCo to Coca-Cola as its beverage supplier for U.S. restaurants.",
+      "url": "https://www.cnbc.com/2026/10/15/kfc-coca-cola-pepsi-switch.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108004225-1720646729678-gettyimages-2161532031-js1_7834_axvogotf.jpeg?v=1792092510&w=1920&h=1080",
+      "publishedAt": "2026-10-15T19:53:16Z",
+      "content": "KFC's U.S. restaurants will ditch PepsiCo and switch to Coca-Cola beverages next year, marking the first time in decades that the Yum Brands chain has changed its drink supplier, the restaurant compa… [+2259 chars]"
+    },
+    {
+      "source": {
+        "id": "associated-press",
+        "name": "Associated Press"
+      },
+      "author": "Matthew Perrone",
+      "title": "Trump administration advances plan for peptide drugs favored by RFK Jr. - AP News",
+      "description": "Federal health officials are moving ahead with plans to broaden access to a class of unproven injectable drugs called peptides. According to a government online posting Thursday, the Department of Health and Human Services submitted a plan to the White House …",
+      "url": "https://apnews.com/article/peptides-kennedy-drugs-trump-bpc157-fb12641dfe791f443f7b7d1eb3bd4a0a",
+      "urlToImage": "https://dims.apnews.com/dims4/default/314f436/2147483647/strip/true/crop/5198x7797+0+0/resize/1200x1800!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fd8%2Fe6%2Fa8f2bea54aad17c74f53e04fc1d3%2Fc33e494050f14d56a40fe46d3f8282de",
+      "publishedAt": "2026-10-15T19:09:00Z",
+      "content": "WASHINGTON (AP) U.S. health officials are moving ahead with a plan to allow specialty pharmacies to produce certain peptides, a class of largely unregulated injections that have become popular among … [+4725 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Lora Kolodny",
+      "title": "Tesla plans next-generation Roadster reveal after almost a decade of delays - CNBC",
+      "description": "Elon Musk first debuted the Roadster refresh concept in 2017 but Tesla has since missed every targeted delivery date.",
+      "url": "https://www.cnbc.com/2026/10/15/tesla-roadster-reveal-what-to-know-about-the-delayed-ev.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108368089-1790695523016-108368089-1790346944343-gettyimages-2296349180-TRUMP_XI.jpg?v=1792098929&w=1920&h=1080",
+      "publishedAt": "2026-10-15T18:19:35Z",
+      "content": "Tesla is planning to show off its long-delayed next-generation Roadster on Thursday, almost a decade after Elon Musk's company started taking deposits for the electric sports car. \r\nThe event will be… [+2791 chars]"
     },
     {
       "source": {
@@ -222,6 +339,32 @@
         "id": "google-news",
         "name": "Google News"
       },
+      "author": "AP News",
+      "title": "Wholesale inflation reaches levels last seen in 2022 - AP News",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQNExzSHEyWDFGWnpSTkR2V3NndkhQTmU1dzE3M2pTWENyU3RPRTAyb0JQQXNqbENPTjJneHRsYWpMMXFPUXg3dnZfekhEM1VoSFNIRTM4U29QR1l0TGhzeVd6WkZIamdXWDkwcmdlR3k5eExLZFd3SUc0MHFQc1NoQlIwRWw5MzM5OVpndWJKa3NIZFNJRGx5YQ?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2026-10-15T18:01:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Ftc.gov"
+      },
+      "author": null,
+      "title": "FTC Sues Ticket Broker Over Unlawful Tactics Used to Buy Millions of Tickets to Popular Live Events - Federal Trade Commission (.gov)",
+      "description": "The Federal Trade Commission sued REPS & Company Inc., alleging the ticket broker illegally circumvents measures designed to limit the number of tickets that can be purchased for a single event",
+      "url": "https://www.ftc.gov/news-events/news/press-releases/2026/10/ftc-sues-ticket-broker-over-unlawful-tactics-used-buy-millions-tickets-popular-live-events",
+      "urlToImage": "https://www.ftc.gov/themes/custom/ftc_uswds/img/ftc_social_share_default_en.jpg",
+      "publishedAt": "2026-10-15T17:50:25Z",
+      "content": "The Federal Trade Commission sued REPS &amp; Company Inc., alleging the ticket broker illegally circumvents measures designed to limit the number of tickets that can be purchased for a single event, … [+4132 chars]"
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
       "author": "The Points Guy",
       "title": "Southwest announces major loyalty shake-up, new elite tiers - The Points Guy",
       "description": null,
@@ -232,28 +375,80 @@
     },
     {
       "source": {
-        "id": "google-news",
-        "name": "Google News"
+        "id": null,
+        "name": "BBC News"
       },
-      "author": "Deadline",
-      "title": "Netflix Layoffs: Unscripted Casting & Development Execs Impacted - Deadline",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOV2lxUnNvQkFuSTlVUk43bGp1Q1MtbVpPZ24ydWNFbEdsUFZjX0ZIVWVwMDdISThReVBEUUtJNjBqV1FDV3VuV0kyUDFZaDU3YTRIY3dWOFR1QXhsYUZteHNqZ3ZJZFhpdF9TZWY2Q3dvQjZJNHFvTm9GYUFRY0xVSTl6RUk0cDNDNXU3MGNXRVA?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2026-10-15T17:08:00Z",
-      "content": null
+      "author": null,
+      "title": "Banks say Healey is planning Budget tax raid on their profits - BBC",
+      "description": "Senior banking executives have told the BBC they expect to be \"on the menu\" in the chancellor's Budget tax later this month.",
+      "url": "https://www.bbc.com/news/articles/c32l4k2xdvrzo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/41e4/live/21134080-c8bd-11f1-bdfb-e3788aeae9ec.jpg",
+      "publishedAt": "2026-10-15T17:14:36Z",
+      "content": "However, the banking sector trade body, UK Finance, warned that \"further increases in bank taxes would weaken competitiveness, discourage investment and job creation, and work against the government'… [+47 chars]"
     },
     {
       "source": {
-        "id": "google-news",
-        "name": "Google News"
+        "id": null,
+        "name": "Deadline"
       },
-      "author": "WSJ",
-      "title": "Stock Market Today: Investors Boost Dow, Treasurys as They Rotate Out of Tech — Live Updates - WSJ",
+      "author": "Peter White",
+      "title": "Netflix Layoffs: Unscripted Casting & Development Execs Impacted - Deadline",
+      "description": "They include Amy Cohen, Rich Leist and Annie Roberts.",
+      "url": "http://deadline.com/2026/10/netflix-layoffs-unscripted-casting-development-1237157847/",
+      "urlToImage": "https://deadline.com/wp-content/uploads/2025/12/GettyImages-2250246799.jpg?w=1024",
+      "publishedAt": "2026-10-15T17:08:00Z",
+      "content": "The layoffs this week at Netflix that saw it cut 1,000 jobs or around 6% of its workforce, have also hit the streamer’s unscripted TV division.\r\nDeadline understands that a number of executives in it… [+1459 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Harvard Crimson"
+      },
+      "author": "Megan L. Blonigen, Graham W. Lee",
+      "title": "Harvard Endowment Soars to $68 Billion After 27 Percent Return - The Harvard Crimson",
+      "description": "Harvard’s endowment surged to nearly $68 billion after posting its strongest investment return in five years, even as the University reduced its workforce and reported a deficit in funds available for general operations.",
+      "url": "https://www.thecrimson.com/article/2026/10/16/harvard-68-billion-endowment/",
+      "urlToImage": "https://thumbnails.thecrimson.com/photos/2024/10/16/210945_1373707.jpg.1500x1000_q95_crop-smart_upscale.jpg",
+      "publishedAt": "2026-10-15T17:01:30Z",
+      "content": "Harvards endowment grew up by more than $11 billion to nearly $68 billion in fiscal year 2026 after posting a roughly 27 percent investment return, its highest since 2021, according to the University… [+6318 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "MarketWatch"
+      },
+      "author": "Isabel Wang, Joseph Adinolfi",
+      "title": "Investors are dumping AI stocks as ‘tech wreck’ worsens. Here’s where they’re turning now. - MarketWatch",
+      "description": "A continued selloff in the AI trade is forcing investors to move from tech names to the relative safety of government bonds and defensive stock sectors",
+      "url": "https://www.marketwatch.com/story/traders-pile-into-bonds-and-defensive-stocks-as-the-tech-wreck-picks-up-steam-48c04374",
+      "urlToImage": "https://images.mktw.net/im-50558528/social",
+      "publishedAt": "2026-10-15T16:53:00Z",
+      "content": "A sharp selloff in shares of companies closely tied to the artificial-intelligence trade is driving investors toward safety, sparking a rotation into defensive stocks and fueling a surprise rally in … [+326 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Michael B. Kelley",
+      "title": "Rocket Lab stock tumbles as effort to take market share from SpaceX slips to 2027 - Yahoo Finance",
+      "description": "Rocket Lab stock tumbled on Thursday after the space company said the first launch of Neutron, its reusable medium-lift rocket, slipped to 2027.",
+      "url": "https://finance.yahoo.com/markets/stocks/article/rocket-lab-stock-tumbles-as-effort-to-take-market-share-from-spacex-slips-to-2027-163503484.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/795d16f8ec94249b804f1ab5c3f0859b1381ac8422d12e3bfd7e1ce551525bdf/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-10%2F45a24f26-82e2-409f-9131-3639b15f3c0b",
+      "publishedAt": "2026-10-15T16:35:03Z",
+      "content": "Rocket Lab (RKLB) stock tumbled as much as 14% on Thursday after the space company said the first launch of Neutron, its reusable medium-lift rocket, slipped to 2027.\r\nThe stock ended Thursday's sess… [+2363 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Abcnews.com"
+      },
+      "author": "ABC News - Breaking News, Latest News and Videos",
+      "title": "Plaza Hotel closure leaves bride scrambling for new wedding venue - ABC News - Breaking News, Latest News and Videos",
       "description": null,
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOX2pSZmFBRTNfZ0ZmczFBcXBBRlUxV3RNTkV6ZzJiN2s4UGhod3RwVVZLbWY2YVNqejB1ZE9adDVyTDBXUnFsY3VGTHI3clVCUmlHUzBIcVFYTmt4T3FxMkxkdkd2eTgwZDNQbENLUGNnU3JJU0JnNW1odEF5bTgzemd3RGphTjg?oc=5",
+      "url": "https://abcnews.com/US/new-york-citys-plaza-hotel-closure-leaves-bride/story?id\\\\u003d137290748",
       "urlToImage": null,
-      "publishedAt": "2026-10-15T17:02:00Z",
+      "publishedAt": "2026-10-15T16:27:38Z",
       "content": null
     },
     {
@@ -324,6 +519,19 @@
     {
       "source": {
         "id": null,
+        "name": "PBS"
+      },
+      "author": null,
+      "title": "A new sunscreen type for Americans hits store shelves - PBS",
+      "description": "For the first time in more than a quarter-century, Americans have a new option when shopping for sunscreen: a skin-protecting chemical that’s long been a go-to option in Europe and other parts of the world.",
+      "url": "https://www.pbs.org/newshour/health/a-new-sunscreen-type-for-americans-hits-store-shelves",
+      "urlToImage": "https://d3i6fh83elv35t.cloudfront.net/static/2026/10/GettyImages-1385318075-1024x683.jpg",
+      "publishedAt": "2026-10-15T15:53:05Z",
+      "content": "WASHINGTON (AP) For the first time in more than a quarter-century, Americans have a new option when shopping for sunscreen: a skin-protecting chemical that's long been a go-to option in Europe and ot… [+6132 chars]"
+    },
+    {
+      "source": {
+        "id": null,
         "name": "Fox Business"
       },
       "author": "Bradford Betz",
@@ -336,29 +544,16 @@
     },
     {
       "source": {
-        "id": "google-news",
-        "name": "Google News"
+        "id": "nbc-news",
+        "name": "NBC News"
       },
-      "author": "Barron's",
-      "title": "Bank of America’s $1.2 Billion Problem Doesn’t End With Its Consent Order - Barron's",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNSXRnSzRJRGVHcnJXX0w5UU9wNXJZc3lwMzJXUUxTV0VGT1kwRkllV3JOalRxYzdEZUxCZHRyaUFOQlRlaDRMWUhkV1ZrTkZ0YjlrZzg1akxfVklxbXI1bk43MUgzeHdSSGNPdzhFaVhBQTBsVVNvTUM3VS1ISVc2cg?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2026-10-15T15:16:00Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": "WSJ",
-      "title": "Investors Turn to Safety of Treasurys as Tech Stocks Extend Selloff - WSJ",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPNlJqX1VNMzFROWFHQWtMOXlXTVkxX1d5dTQtQUVvbGNHTHZMNmxiNGdjQmlNNkxUYm1ucTNlaURJY1MtU2czWjdUQzFUMnpTODVvbC1fb1hIN2J3eS03RFE1em4wLV8wTzFSQ1kwYWJ0YW45bHJZUnRUeWZIV0pqMlhac08yeDhLNWpZU0NmRzkzZ09lQ1NGOVdBYk16SnM?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2026-10-15T14:49:42Z",
-      "content": null
+      "author": "Rob Wile",
+      "title": "Cracks are beginning to show in the stock market, as doubts grow about AI investments - NBC News",
+      "description": "Consumers already face a host of stressors. If AI spending and tech stocks show signs of sustained decline, U.S. economic growth could be at risk.",
+      "url": "https://www.nbcnews.com/business/markets/stock-market-ai-data-centers-doubts-rcna603710",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/261015-nyse-ch-1131-52532c.jpg",
+      "publishedAt": "2026-10-15T15:38:19Z",
+      "content": "Just one week after hitting fresh all-time highs, U.S. stocks are showing signs of strain as investors begin to fret about returns on the trillions of dollars that have been put into AI. \r\nFor U.S. c… [+3179 chars]"
     },
     {
       "source": {
@@ -366,12 +561,38 @@
         "name": "Google News"
       },
       "author": "Bloomberg.com",
-      "title": "Wall Street on Alert for Bessent to Act on Bond Yields Again - Bloomberg.com",
+      "title": "Blackstone’s Jon Gray Plots Once-in-a-Century Bet on the AI Boom - Bloomberg.com",
       "description": null,
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQMnM4MVlSeEFSdmxnM0lwby1XQlByX0FoNVNZTmExQ0lTRDZVTllBUHRoV3lodWV0M0Npa09UZ2x3bW5xZHdCQ050QXN4bEhJNzl4dHhiVVVZRmVBdjdpdGtFYW93UlY0RDl5bVJVZU45RkwtUVJQS1JhaUlWMFJfeWV4X3lsUHdWSE9WTzYyRTl2SElqMHZzU0F4ZEl6bTQteFFuNk9GZWtsVVg0ZHlYc29IVHRmS1pDUWdWR2RIUGR3WmZOZ3NR?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPVzg2Ylo3QXRIeG9mV2o2OEJBX0U4RmhVWWtyczlpMzBmMm5RaWoyME40OGdORTRsRW9oLUczTmhSUllwdFg1WW9aRUdDXzEzbTdiTlo1VFlvV2ViY28zVHFOSFRmYmFVVlpFb3BsSHVwUXpNTEQ2NC1mTmFBYTJ3MzZrd3hqVFllZ2ZIdXdqelBLcUNYOWRXYTU4cWlTWEROcnJUUG9Fd0tBcFUtZWdLZ2J4YUNHTXNDSkRTV1hucGtyRTg?oc=5",
       "urlToImage": null,
-      "publishedAt": "2026-10-15T14:45:45Z",
+      "publishedAt": "2026-10-15T15:25:59Z",
       "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Ines Ferré",
+      "title": "Stock market today: Dow, S&P 500 rise, Nasdaq trims losses as Treasury yields sink - Yahoo Finance",
+      "description": "Tech stocks headed lower on Thursday as fears of debt financing swept through the AI trade.",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-dow-sp-500-rise-nasdaq-trims-losses-as-treasury-yields-sink-153611834.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/d8cdf775c4363eca8b303b116dd28291bde864928e67e4e2a0e75ee6c84f9fe7/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-10%2F0c0e059e-11ee-4209-b2c3-df83ab9b84d1",
+      "publishedAt": "2026-10-15T15:22:48Z",
+      "content": "Defensive sectors are dominating early trading, as chip stocks drag down tech.\r\nLarge-cap health care (XLV) gapped up on the open to an intraday record high its first since mid-August. Pharmaceutical… [+1149 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Barron's"
+      },
+      "author": "Rebecca Ungarino",
+      "title": "Bank of America’s $1.2 Billion Problem Doesn’t End With Its Consent Order - Barron's",
+      "description": "The nation’s second-largest bank must regain credibility with investors after paying a massive fine for not complying with laws meant to prevent financial crimes.",
+      "url": "https://www.barrons.com/articles/bank-america-stock-fine-investors-0113f31b",
+      "urlToImage": "https://images.barrons.com/im-94062355/social",
+      "publishedAt": "2026-10-15T15:16:00Z",
+      "content": "Amazon is launching two new personal AI products alongside Bee, an AI hardware company it acquired in June 2025."
     },
     {
       "source": {
@@ -415,41 +636,15 @@
     {
       "source": {
         "id": null,
-        "name": "Abcnews.com"
+        "name": "Financial Times"
       },
-      "author": "CHRISTOPHER RUGABER AP economics writer",
-      "title": "Wholesale inflation jumped last month by most in four years as gas prices soared - ABC News - Breaking News, Latest News and Videos",
-      "description": "Wholesale inflation rose more quickly than expected last month on a big jump in fuel costs, a sign that stubbornly rising prices remain an economic challenge for consumers and a political problem for Republicans in the midterm elections",
-      "url": "https://abcnews.com/Business/wireStory/wholesale-inflation-jumped-month-years-gas-prices-soared-137283989",
-      "urlToImage": "https://i.abcnewsfe.com/a/5510168e-dbf4-4a77-bed9-f765490ddfb8/wirestory_ff5adf8283a770c2ca9897b10a09dda7_16x9.jpg?w=1600",
-      "publishedAt": "2026-10-15T13:41:04Z",
-      "content": "WASHINGTON -- Wholesale inflation rose more than expected last month on a big jump in fuel costs as rising prices become a bigger economic challenge for millions of Americans, and a growing political… [+2272 chars]"
-    },
-    {
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": "ABC News - Breaking News, Latest News and Videos",
-      "title": "The number of Americans filing for jobless aid remain at historically low levels below 200,000 - ABC News - Breaking News, Latest News and Videos",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOa0sxMlJCME5Uc0FlWUk5azRCNGxFNUV5Zzh3RzdMa1d4cG5kYnZKcTREWVUwaGJyZE5sS19ZdGdqNWc3RGVuREhhZTBodWdHRWZvY3RtN1dIcjFVd3ItNFdvSjBXTUUxWlJhR01mblpYQ3hxZjlMZXFFMUVpNm1QQnlBQlFuWjNOdjdNcW4yaFQ4WHFTeUdqOWllRVNOUExvQnVnYTlOUmRxMUlo0gGyAUFVX3lxTE9zQ0FYV2dGUExlTUtab1FGNlg1ZGN4bDdyNHFodzJ6ZG1aQVZRUVFTRWZSdlNHbFBIaTluUTFELW4zZHNmNUs3cjkyZ3BhT3ZfUW40UmVNTHdnN3NiSzNQVVI1c0dHTHdaTXoyT1pOUEhwR0ExSUFDM2JpRGJhVEgyY04xVWZnRGt4eDJDMVhPWFMxdDZidFlvUzNfbkEzNU1Rem9JWEg2bFdSdG1MVGtMR0E?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2026-10-15T13:36:13Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": "CBS News",
-      "title": "Plaza Hotel in NYC closing for 4-year renovation starting in 2027 - CBS News",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOYWtJT2JYMkh1eEtObmZSTW41Yk9BeU1zaHVlMTFKRXlESVFUM3hZWVVHb3dpalVtR3BLT213UzhXUWFFVWVFd1BUSUthaTRLM3R3MEV6bkJzWnpNTFBsdlBvLXZJeHoya2szMi0yelJYSi1ESkxoalR0Nl8ycDVqamtVQTRrWGM?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2026-10-15T13:32:19Z",
-      "content": null
+      "author": null,
+      "title": "Investors dump data centre bonds as AI borrowers face ‘Darwin moment’ - Financial Times",
+      "description": "Debt issued by AI infrastructure providers and neocloud companies such as CoreWeave has sunk to increasingly stressed levels",
+      "url": "https://www.ft.com/content/678bcd31-6c2a-447b-a68c-ce6dec220bbc?syn-25a6b1a6\\\\u003d1",
+      "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fef825cc6-1924-400d-b896-1f24d681040e.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
+      "publishedAt": "2026-10-15T13:26:08Z",
+      "content": "was $540now $299 for your first year.\r\nSave now on essential digital access to trusted FT journalism on any device. Savings based on monthly annualised price, offer ends 28th October."
     },
     {
       "source": {
@@ -466,19 +661,6 @@
     },
     {
       "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": "AP News",
-      "title": "Wholesale inflation jumped last month by most in four years as gas prices soared - AP News",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQNExzSHEyWDFGWnpSTkR2V3NndkhQTmU1dzE3M2pTWENyU3RPRTAyb0JQQXNqbENPTjJneHRsYWpMMXFPUXg3dnZfekhEM1VoSFNIRTM4U29QR1l0TGhzeVd6WkZIamdXWDkwcmdlR3k5eExLZFd3SUc0MHFQc1NoQlIwRWw5MzM5OVpndWJKa3NIZFNJRGx5YQ?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2026-10-15T12:43:00Z",
-      "content": null
-    },
-    {
-      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -489,45 +671,6 @@
       "urlToImage": "https://static01.nyt.com/images/2026/10/15/multimedia/15db-coreweave-qhtm/15db-coreweave-qhtm-mediumSquareAt3X.jpg",
       "publishedAt": "2026-10-15T12:30:05Z",
       "content": "Investors are newly worried about the health of artificial intelligence infrastructure companies like CoreWeave. That’s weighing on the wider A.I. industry."
-    },
-    {
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": "CNBC",
-      "title": "Memory stocks are getting hammered. China and a 2029 oversupply are the big worries - CNBC",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOUkVqRjgwNHV5dlVabXVfMTAxS3dWaTNvY2VteVo0MnlENXFheFZQY3BUWGllajdxcC1oZGxqblVvQkVoXzg3VW8zZnlWZTRTRkRNRVl4Z1RWcEd5ejcxNUNGOUJtRHVkZ3NURmJJRDRCMHdPY3BtY3FMMmd2ckVJdWQ2X3Z0LUXSAYwBQVVfeXFMTjB4SDdXN2pCUWk4YkN5cm96TFdmdDJNekg2eXhUWHlSb3lUMGYyT0p6ZWxwc2VmNldCV2VuOFBnWGpOWklyendVSTJMZm14RVRuVlZFX3JIMVFNa2prWmZ1dDloOU1DMUpLQ2ZCaE04aGxtcG9pVlJuWnBQRkpMNWZKSU1Ibm9QcE4xT1Y?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2026-10-15T12:15:09Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": "The Guardian",
-      "title": "Online ads weaponised to deliver ‘zero-click’ spyware, researchers say - The Guardian",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQR1RpeTl2ZWhPMDFLZndVR2V4bUJ2U2g4UHN3MXFKN0JaOGdnVnZ1dmJ6RUcxUXd5M3VOakJyV2UtemlGWWhjaTEwR1NmRGVXei1BZnp2eko0V3JReFB3NzFwYmsxNzFaYTFYSFNTSGlJa3pUMC1tM2c0d2dhbUZlZzc5aWloR3U5eHJWUW9WNVcxaWUwb2NueUM1bkRJVGZuRWFiVlU1RTU5VlNHREI1WmduRnNwaHg5ZmhSRTVWanhIaDhqeW4xYXJpMHoxTHdw?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2026-10-15T12:15:00Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Investor's Business Daily"
-      },
-      "author": null,
-      "title": "Rocket Lab Stock Tumbles On Latest Neutron Launch Delay - Investor's Business Daily",
-      "description": "The SpaceX rival announced another delay to its medium-lift Neutron rocket.",
-      "url": "https://www.investors.com/news/rocket-lab-stock-neutron-launch-vehicle-delay-2027-rklb/",
-      "urlToImage": "https://www.investors.com/wp-content/uploads/2021/08/Stock-RocketLabs-F2-29-company.jpg",
-      "publishedAt": "2026-10-15T12:15:00Z",
-      "content": "Information in Investors Business Daily is for informational and educational purposes only and should not be construed as an offer, recommendation, solicitation, or rating to buy or sell securities. … [+1064 chars]"
     },
     {
       "source": {
@@ -544,29 +687,16 @@
     },
     {
       "source": {
-        "id": "google-news",
-        "name": "Google News"
+        "id": null,
+        "name": "Fox Business"
       },
-      "author": "Fox Business",
+      "author": "Bradford Betz",
       "title": "Lisa Cook's lawyer challenges impartiality of Trump panel reviewing Fed mortgage allegations - Fox Business",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOYmliQTR0R2lTUTN1a1ZYb3ZscWo5ckp2a3F2cF82ZGhYM1pOQjY4WlJKVGZ2SnpqQk5WYVVQQ0NZMktydXZLSnNnUkg5VGhEVGVyQm4xVmVhSDVEWU1rNHIwYU9XNnRWUHhYTlFoblJRcDdwWmNKcnFWWmRPdHdiWFBGUGdJSFpJMGZHTmxsWXZZMHQ4eVpiX2pId0Yyc1Z4OFp4YzJodTMxbWliUHpz0gG0AUFVX3lxTE40T3JrX0RSYXZQTDl0c0JReGYyLXg4R0t0Y0c5OHBnQzlpY3F5aldnS0x3YUhnVHItbUdxaGhVUGxTaXhEU2o2ODg3Rlc4LXh5YWFmUVVUR2p6M1c5b1Qya0R3dGluYnBxSWN6cTdnY0hiZlpFRjM5dG5VOHFncGtpaHZBRnRHSTVScE5SOVNWeVNrNEJSRWtDX2pzQ2U5QURJTHlVTHU0U1Fnbi1BQmtRUWhPTQ?oc=5",
-      "urlToImage": null,
+      "description": "Fed Governor Lisa Cook's attorney questions Kevin Hassett's role in a White House mortgage investigation and seeks to delay a hearing scheduled for Nov. 5.",
+      "url": "https://www.foxbusiness.com/politics/lisa-cook-lawyer-challenges-impartiality-trump-fed-mortgage-investigation",
+      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2025/09/0/0/trump-cook-fed-lawsuit.png?ve=1&tl=1",
       "publishedAt": "2026-10-15T11:52:00Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": "CNBC",
-      "title": "How lower fuel economy targets could boost pickups and V-8 engines - CNBC",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE16S2JNV2VLSWpRcmlScFRoN1A4OEo0aE14aG96aFc5S0NjNHZIX3FteFlWRjZ6SldITkVqTkp4cjc0NnlUNzBUS2hkRzR6b0RxbmVwZjd4YnF0cHltV1RmLURxeERQWUR0Y0EwWmNzOG9FUdIBd0FVX3lxTE9kWEFNSnByd0xjMjIzbXdIcG8xd0NCZWlEMUdyWHpSdHdhRGk4ZGd4bEJwaFBDdGNvcV9TYi0wRU5RZHlsT2ZOTjJLclpOaC1mT3JQZll0WGd1VkYzNDFKQnZsOHFMMTFJdGFsZFlaMEt1Q0EzdGNz?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2026-10-15T11:30:01Z",
-      "content": null
+      "content": "Federal Reserve Governor Lisa Cook's attorney is challenging the impartiality of a White House committee investigating mortgage fraud allegations against her, raising concerns about the fairness of P… [+2954 chars]"
     },
     {
       "source": {
@@ -596,42 +726,16 @@
     },
     {
       "source": {
-        "id": "fortune",
-        "name": "Fortune"
+        "id": null,
+        "name": "WXYZ"
       },
-      "author": "Jim Edwards",
-      "title": "Suddenly, Wall Street is worried that the U.S. economy is more ‘vulnerable’ than it looks - Fortune",
-      "description": "The stock market is up 13% this year, unemployment is low, and U.S. GDP is growing, but suddenly it seems like Wall Street thinks this glass is half empty rather than half full.",
-      "url": "https://fortune.com/2026/10/15/suddenly-wall-street-is-worried-that-the-u-s-economy-is-more-vulnerable-than-it-looks/",
-      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/10/GettyImages-2300173652-e1792059378136.jpg?resize=1200,600",
-      "publishedAt": "2026-10-15T10:19:00Z",
-      "content": "Bespoke Investment Group spotted something it did not like in the most recent National Federation of Independent Business survey this week: That small businesses increasingly report their number one … [+4478 chars]"
-    },
-    {
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": "https://www.derekthompson.org/",
-      "title": "I Know Why the Mathematicians Weep - https://www.derekthompson.org/",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5nQ2tEVENlNDJZcERGQm91VW9PUThoNE5ZUTlPMGxoUFoyc0NWWjFESVRycHBIVlN4SU5yUW55Z21qWThPVFp0UEYwa2diM2k0VEpaQ2VOUXQ2dGROdDE4NDJ3WEp3WElFcVBkVzFsakhOc01D?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2026-10-15T10:02:37Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": "Fox News",
-      "title": "This sparsely populated red state quietly climbed to the top of America's financial rankings - Fox News",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPd3ZVM0tsVEZEanRmcjFnd2d0WWVPb3lNbV9jWG1rMjdDdDNaUkJBNG55Wnl2UTJfNW5Pd0dLa1J3Qnk2ZW9KRUFkSXBLZUtmZlRDWVEwRXhBZEVfblRWM1pqRDBwNHdRbTFWRUEwa29jMXVSUWhBOVctZE8yTG1scVBCMmppdGpwLU1qMFhrR3dUblFubTJZREFMbEdpSHZWUjh6NWpmZmlfdUVLbXfSAbMBQVVfeXFMUDFDZkVhMjNfbjVDYzdHOUd6ZkVodkhtQmF4d1pPUEFJWEJqLVRGZ3hWMmRFazJES2ktbnpwVWNNLUFiSlJfcExEM3RPZGlXTjBKUGFxQzlpQ3hNUGgzX2JSS3hLanAycm5YZWZIVmVGcS01Rnd5VDN0TFNYSUE1UjhIZDY4bU9GZXBZdEMyOW5vSW9iakIzNnBRLTl1MEFTNFNqSTZpanotTEJxM3VHTWl1cDg?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2026-10-15T10:00:58Z",
-      "content": null
+      "author": "Sara Molina",
+      "title": "Van Buren Township officials approve plans for controversial Google data center campus - WXYZ 7 News Detroit",
+      "description": "Despite months of opposition from residents, Van Buren Township officials approved plans Wednesday for a controversial Google data center campus.",
+      "url": "https://www.wxyz.com/news/van-buren-township-officials-approve-plans-for-controversial-google-data-center-campus",
+      "urlToImage": "https://ewscripps.brightspotcdn.com/dims4/default/e19bd62/2147483647/strip/true/crop/1864x979+0+16/resize/1200x630!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2Fef%2F1d%2Faf285e6c4e759c3a45b07ed18c68%2Fscreenshot-2026-03-17-at-9-44-30-am.png",
+      "publishedAt": "2026-10-15T10:11:15Z",
+      "content": "VAN BUREN TOWNSHIP, Mich. (WXYZ) Despite months of opposition from residents, Van Buren Township officials approved plans Wednesday for a controversial Google data center campus, clearing the way for… [+4468 chars]"
     },
     {
       "source": {
@@ -643,7 +747,7 @@
       "description": null,
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPYjhiN3cyd3BLTEFKVUhHVEVLWU1RdlBUU2dvVEdWb1JaN3UyU0JfV2I4Qnl4ZWFlcFJsU1J1aW1DR3dvT3E1bnkxemE0R05JT3lRWG41UEo2Nmw1NXg5NER3dDg4SXgwd19mNndCV0xFbFlodVM2TDNRUFpjWE9lV2F3Zw?oc=5",
       "urlToImage": null,
-      "publishedAt": "2026-10-15T09:45:39Z",
+      "publishedAt": "2026-10-15T09:46:45Z",
       "content": null
     },
     {
@@ -687,19 +791,6 @@
     },
     {
       "source": {
-        "id": "al-jazeera-english",
-        "name": "Al Jazeera English"
-      },
-      "author": "John Power",
-      "title": "OpenAI bugging suspect allegedly booked one-way trip to Saudi Arabia - Al Jazeera",
-      "description": "Saudi national Abdulrahman Alfozan was due to fly to Saudi Arabia on October 12, US prosecutors say in court filing.",
-      "url": "https://www.aljazeera.com/economy/2026/10/15/openai-bugging-suspect-allegedly-booked-one-way-trip-to-saudi-arabia",
-      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/10/2026-10-13T221702Z_1434560506_RC2M2OA3JJVN_RTRMADP_3_OPENAI-SPYING-FBI-1792024934_056801-1792025370.jpg?resize=1200%2C630&quality=80",
-      "publishedAt": "2026-10-15T03:30:08Z",
-      "content": "The Saudi national accused of bugging OpenAIs headquarters booked a one-way flight to Saudi Arabia before his arrest, US prosecutors have alleged.\r\nAbdulrahman Alfozan, a former OpenAI engineer, had … [+2401 chars]"
-    },
-    {
-      "source": {
         "id": null,
         "name": "Yahoo Entertainment"
       },
@@ -713,16 +804,16 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "BBC News"
+        "id": "google-news",
+        "name": "Google News"
       },
-      "author": null,
-      "title": "AI giant Anthropic sees revenue surge ahead of stock market listing - BBC",
-      "description": "It comes as some investors have become concerned about the amount of money being spent on AI infrastructure.",
-      "url": "https://www.bbc.com/news/articles/cqzjx448vxkgo",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/91e4/live/ef62d030-c82d-11f1-949e-ffe1bf7985f3.jpg",
-      "publishedAt": "2026-10-15T01:56:32Z",
-      "content": "It comes as some tech stocks, including firms that make the chips and other hardware that power data centres, have fallen in recent days over concerns about the hundreds of billions of dollars being … [+26 chars]"
+      "author": "The New York Times",
+      "title": "OpenAI Engineer, Who Is Charged With Planting Bug, Advised Saudis - The New York Times",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOeDNlZmdxUUtpdjRlWUlycEJKMFdvYk4xUkxiLTNnT2xrLTZPdkRkUU44aVBfU3NleVcxc2tMRTBvd2tQU01MRWJwSnhKelJ4d3ltc0JoUnhza3FqbjhVcndVaGY5ajhfOXhyVXl5dHZmZkY2dUNLek1pdHRuTVRnWVd3Z3ZjSjNpcGtkRUFHemZTWjhScTVGZjhUdmFKUQ?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2026-10-15T02:31:10Z",
+      "content": null
     },
     {
       "source": {
@@ -765,16 +856,16 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "Fox Business"
+        "id": "google-news",
+        "name": "Google News"
       },
-      "author": "Sophia Compton",
-      "title": "Delta One gets a luxury makeover with wagyu burgers, high-end wines and Porsche transfers - Fox Business",
-      "description": "Delta One’s makeover brings wagyu burgers, premium wines and new Missoni amenity kits, with upgrades rolling out this fall before a global expansion in 2027.",
-      "url": "https://www.foxbusiness.com/lifestyle/delta-one-gets-luxury-makeover-wagyu-burgers-high-end-wines-porsche-transfers",
-      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/10/0/0/delta-one-new-food-options.jpg?ve=1&tl=1",
-      "publishedAt": "2026-10-14T23:19:00Z",
-      "content": "Delta Air Lines is revamping its Delta One premium cabin with wagyu burgers, high-end wines and new luxury amenity kits.\r\nThe Atlanta-based airline announced Wednesday that its revamped Delta One exp… [+3421 chars]"
+      "author": "TheStreet",
+      "title": "Elon Musk takes a direct swipe at Broadcom CEO and AI investors - TheStreet",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOV1oxSXk2YVFGdzhZY0dmdEh1cXJHYzY2ZVRVMHpoYWY1MFpvMXEySFhCYXJQMkpWSEJNN0dneFNQX1ZRWGZkcHUxc0J5dU01bU5udVJSQ2JXWGNfVXN0Z1FZU1l1ZFhCRUNCNlBGZlRQcy0ySVhhbWplYkpQUnZRei1qWkxqSE43emV5dm15dm8yc1djeGxF?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2026-10-14T23:47:00Z",
+      "content": null
     },
     {
       "source": {
@@ -791,19 +882,6 @@
     },
     {
       "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": "NBC News",
-      "title": "The first new sunscreen in 25 years is finally arriving in stores in the U.S. - NBC News",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNdktPQVJBdlJ2bkx6bS1SVlowNVlRS2pNQmQzN2djdHVES2FSbXhpd0ZZNklxcUlocXBzRnN3SDlLR2xkN3FCU28xcVdJamktdmgyaktWSmVOUzFEMU5yVGsxY2xLcUxwNXlTZzZrS3lfQlA0VDN4UU9wemhVdS1kck5rYWhiVFFOZDhkQ2kzeDdhR21WZmVZSjVkTjE?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2026-10-14T21:47:26Z",
-      "content": null
-    },
-    {
-      "source": {
         "id": "ars-technica",
         "name": "Ars Technica"
       },
@@ -813,6 +891,19 @@
       "url": "https://arstechnica.com/security/2026/10/fridge-hack-costing-millions-and-sparking-fires-stemmed-from-poor-security/",
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/mass-fridge-hack-1024x648.jpg",
       "publishedAt": "2026-10-14T21:35:09Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
+      },
+      "author": "WSJ",
+      "title": "U.S. Stocks Fall on Hot Inflation Report, AI Sell-Off - WSJ",
+      "description": null,
+      "url": "https://www.wsj.com/finance/stocks/u-s-stocks-fall-on-hot-inflation-report-ai-sell-off-6c98113d",
+      "urlToImage": null,
+      "publishedAt": "2026-10-14T21:32:00Z",
       "content": null
     },
     {
@@ -844,15 +935,15 @@
     {
       "source": {
         "id": null,
-        "name": "Barron's"
+        "name": "WBRC"
       },
-      "author": "Mackenzie Tatananni",
-      "title": "IonQ Stock Tumbles on $2 Billion Equity Offering. Why Other Quantum Names Are Falling Just as Hard. - Barron's",
-      "description": "IonQ stock dropped 9.5% Wednesday. An equity raise isn’t wholly to blame. D-Wave, Quantinuum, and Rigetti Computing also saw substantial declines.",
-      "url": "https://www.barrons.com/articles/ionq-stock-price-equity-offering-quantum-66e7d23a",
-      "urlToImage": "https://images.barrons.com/im-76708127/social",
+      "author": "Haley Williams, Jordan Gartner",
+      "title": "This is the worst-rated McDonald’s in the US. See why customers have reviewed it so poorly - WBRC",
+      "description": "The worst-rated McDonald’s in the country is in Arizona.",
+      "url": "https://www.wbrc.com/2026/10/14/this-is-worst-rated-mcdonalds-us-see-why-customers-have-reviewed-it-so-poorly/",
+      "urlToImage": "https://gray-wbrc-prod.gtv-cdn.com/resizer/v2/W66JXGQ2SJEKHFADQYFYXQXA6E.png?auth=68684cdc93363c3b05acaa5b34f1b8ca32a5994478cf2724f0bffe364b08da02&width=1200&height=600&smart=true",
       "publishedAt": "2026-10-14T20:27:00Z",
-      "content": "Across the country, Fed districts reported that the labor market is at a standstill, with most describing little or no net change in overall employment levels."
+      "content": "SURPRISE, Ariz. (KPHO/Gray News) The worst-rated McDonalds in the country is in Arizona, according to reviews. \r\nWith an average rating of 1.55 stars on Google, the McDonalds on North 163rd Avenue in… [+2033 chars]"
     },
     {
       "source": {
@@ -870,45 +961,6 @@
     {
       "source": {
         "id": null,
-        "name": "Suntimes.com"
-      },
-      "author": "Elvia Malagón",
-      "title": "Endeavor Health, Rush announce proposed merged healthcare system - Chicago Sun-Times",
-      "description": "The combined health care system in the Chicago area could become one of the largest with 12 hospitals in the city and surrounding suburbs.",
-      "url": "https://chicago.suntimes.com/health/2026/10/14/endeavor-health-rush-announce-proposed-merged-healthcare-system",
-      "urlToImage": "https://cst.brightspotcdn.com/dims4/default/3b18939/2147483647/strip/true/crop/3000x1713+0+145/resize/1461x834!/quality/90/?url=https%3A%2F%2Fchorus-production-cst-web.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fd6%2F14%2F9150e44a416da473ad878a3c734b%2Frush-endeavor.jpg",
-      "publishedAt": "2026-10-14T20:19:00Z",
-      "content": "Endeavor Health, including its nine Chicago-area hospitals, announced Wednesday it plans to merge under the umbrella of Rush University System for Health, according to hospital officials.\r\nFor now, n… [+7143 chars]"
-    },
-    {
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": "Investor's Business Daily",
-      "title": "Berkshire's New Bet, Bending Spoons, Is A Company Much Like Itself - Investor's Business Daily",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNWmx5Z01QeEhVWVlmZlpJWWhERWplVVNRSTA3NzdoOXduZG9jYURKYVIxZURaX1NfY29lSXZOYXVGSDFQVUFkX3RlNEloYkdicjVNckIyZTFJZlpkc1Y2RmZxVlpsSUpzcjFyM3VCTm9QemVhODQwS2lTR1dFcHRqa1E5dmIyQ29lUHkwUEhpSHpwUW03?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2026-10-14T20:05:00Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "politico",
-        "name": "Politico"
-      },
-      "author": "Brian Faler",
-      "title": "Democratic tax writers demand Meta explain use of research credits tied to data centers - Politico",
-      "description": "Seven Finance Committee senators led by Ron Wyden signed a letter demanding answers from Meta CEO Mark Zuckerberg.",
-      "url": "https://www.politico.com/live-updates/2026/10/14/congress/democratic-tax-writers-demand-meta-explain-use-of-research-credits-tied-to-data-centers-01118217",
-      "urlToImage": "https://www.politico.com/dims4/default/ae76c19/2147483647/resize/1200x/quality/90/?url=https%3A%2F%2Fstatic.politico.com%2F4c%2F22%2F9c4becce46838e9e8a41b6222aad%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2297257915",
-      "publishedAt": "2026-10-14T19:25:00Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
         "name": "Futurism"
       },
       "author": "Frank Landymore",
@@ -918,19 +970,6 @@
       "urlToImage": "https://futurism.com/wp-content/uploads/2026/10/ai-companies-afraid-characterai-bankrupcy.jpg?w=1200",
       "publishedAt": "2026-10-14T18:52:01Z",
       "content": "Can’t-miss innovations from the bleeding edge of science and tech\r\nSo far, the top AI companies have been sustained by constant injections of massive investment. But what happens when the funds stop … [+3326 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": "Hugh Son",
-      "title": "Bank of America hired 1,000 contractors to patch software flaws exposed by Anthropic's Mythos - CNBC",
-      "description": "Bank of America hired 1,000 contractors to patch software flaws exposed by Anthropic’s Mythos, offering a rare look at costs involved in defending against AI.",
-      "url": "https://www.cnbc.com/2026/10/14/anthropic-mythos-bank-of-america-hiring-cost.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108345330-1785941825072-moy1.jpg?v=1785944224&w=1920&h=1080",
-      "publishedAt": "2026-10-14T18:47:38Z",
-      "content": "Bank of America has hired an army of external contractors to help it patch software vulnerabilities exposed by advanced artificial intelligence models including Anthropic's Mythos, the bank's CEO, Br… [+2296 chars]"
     },
     {
       "source": {
@@ -947,13 +986,13 @@
     },
     {
       "source": {
-        "id": "google-news",
-        "name": "Google News"
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
       },
       "author": "WSJ",
       "title": "With China Facing More Trade Barriers, It Can’t Afford to Lose Europe - WSJ",
       "description": null,
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPTUQzNFBYX1hBcGFYNDNELUppYzROV3VxSjE5Zlg0cHBsSDFacFBTbEY2R011SnRGT3NuMHpDT3RiSGhfOHRnb05WQllxVVk1LVpaUzVoLUpOSlhNa3NRbU1BQmlDb1NGa3o2Tk1hRjRVWkFLeF9NSEdTeG80WC1aUEFPcFV2N2t5NVpISmg3eE01M3pwUlJNMWx3RUoyOFVRMnlGRkxNUTgxWDVuRkdn?oc=5",
+      "url": "https://www.wsj.com/economy/trade/with-china-facing-more-trade-barriers-it-cant-afford-to-lose-europe-d041ab25",
       "urlToImage": null,
       "publishedAt": "2026-10-14T18:39:00Z",
       "content": null
@@ -973,6 +1012,19 @@
     },
     {
       "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "Barron's",
+      "title": "Why Berkshire’s $930 Million Bending Spoons Buy Is Such a Curveball - Barron's",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNSG1uUWlOZFdfTGVsRktNLVdVNG00d2pXUHQ2RFJBaWpnSVhvWnpwZ3phX3psVGlENVZsUGk4NGNTbUxjSjVWUHVPRUZ0LWNqd1hUemQ5VmlPS0pSUlFyRF9Ec3pWVXItWTRHU3RQZmhkQWZSLVV4cldVUVZsVlN2eE51RFFGUQ?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2026-10-14T17:37:00Z",
+      "content": null
+    },
+    {
+      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -986,68 +1038,16 @@
     },
     {
       "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": "Bloomberg.com",
-      "title": "Anduril in Talks to Sell Insider Shares at Roughly $90 Billion Valuation - Bloomberg.com",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOb3N3c2s5T2p5U2FJWHh2Yy1vMUZjWWVsX19jZG0yVVFaeTIzRFJWRldScEpCcU9Lb1FMMWdNWXRkeEdvRFlZS01IRVE3a2JnWkgteXdzRmxIRGVaYXY1N3lyVE5BczhFUUhJZUpTMC04R2JKWUs0UXpJdW03Q2RiSXowdWt4cG00YnM2TW1aWUlLUTR6a0NmZHVvbVBRVi0yTW9YZV9VQlVQMldvUlh2UFVoSmlXNm9MWFhZaDVPbw?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2026-10-14T17:16:53Z",
-      "content": null
-    },
-    {
-      "source": {
         "id": null,
-        "name": "Yahoo Entertainment"
+        "name": "Lawfaremedia.org"
       },
-      "author": "Pras Subramanian",
-      "title": "Tesla's Roadster event is back on for Thursday night. Here's what to expect. - Yahoo Finance",
-      "description": "After a two-week delay, the Tesla Roadster event is back on — for now.",
-      "url": "https://finance.yahoo.com/markets/stocks/article/teslas-roadster-event-is-back-on-for-thursday-night-heres-what-to-expect-164800962.html",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/64ed359e78be06ce2da359b07bfad5886b007420e443ff38b274d31f38ebeae5/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Ftesla-roadster-103_2597.jpg",
-      "publishedAt": "2026-10-14T16:33:58Z",
-      "content": "After a two-week delay, the Tesla (TSLA) Roadster event is back on for now.\r\nThis week, Tesla added a countdown clock to its Tesla Roadster website, stating that the reveal would occur at 7:55 p.m. C… [+2453 chars]"
-    },
-    {
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": "Bring Me The News",
-      "title": "Canadian Pacific Holiday Train announces 25 Minnesota stops for December 2026 - Bring Me The News",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQUU5jUGlQbkxYQmNBVG5oRDZ5S05Uckw0MnBncmVRdWNkQ3dmcl9uWXNvTVQ2UzhRc1RCWldqUEthb3FSZml3YjVIYnlCaV9vY1IxLV8xYzFPTmk2YkNMME5mUUVzdzRXYlJaQVZSazJhdVpsSmtEQmJVTHVMVUZ5elN3RHRfcFF0Uzhpb09rWXQ3NVhvaFVaM2d0X2prcHBOZWt0MUc3RWZUOUxYVWlEcE9aWVhiYU1qcXFma3VnT0MtQQ?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2026-10-14T16:17:05Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": "Lawfare",
+      "author": null,
       "title": "America Didn’t Lose Its Rare Earth Industry. It Sold It. - Lawfare",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOOXkxWTduT1F6Q1RBOVNab2ZWZWdTRWd0Z3RBcmZSWGUwN1I5MThIaExSQzZmYmszcHBHQzNUdXoyQnFHUXVsYkp3VFdKVW1jLUE2TFBPZXdQeGxhVlY4VThpSWVGUE5VRlNfYWtPczktbGdESEJrcVluaF9JemY4azVNY005NjBNSzhOZGhzb1ZOQUFSTk8w?oc=5",
-      "urlToImage": null,
+      "description": "Markets price for cost. China prices for control. The risk of a rare earths cutoff is asymmetric, and the financing to rebuild American supply should be too.",
+      "url": "https://www.lawfaremedia.org/article/america-didn-t-lose-its-rare-earth-industry.-it-sold-it",
+      "urlToImage": "https://lawfare-assets-new.azureedge.net/assets/images/default-source/article-images/rare-earth-2.jpg?sfvrsn=e020d640_5",
       "publishedAt": "2026-10-14T16:04:18Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Barron's"
-      },
-      "author": "Callum Keown",
-      "title": "Intel, AMD, and More Chip Stocks Fall After ASML’s Strong Earnings - Barron's",
-      "description": "Intel, AMD, and Marvel are all lower after ASML's strong earnings Wednesday. Chip stocks are on track for a seventh consecutive day of losses.",
-      "url": "https://www.barrons.com/articles/chip-stocks-slump-asml-earnings-adf7c928",
-      "urlToImage": "https://images.barrons.com/im-78964/social",
-      "publishedAt": "2026-10-14T15:47:00Z",
-      "content": "Technology stocks are approaching their peak as a portion of the S&amp;P 500, which could portend some rough months ahead."
+      "content": "In October 2025, Beijing imposed sweeping controls on its rare earth exports. Since then, those controls have been suspended one short reprieve at a time, in the latest instance until Nov. 10, with a… [+16311 chars]"
     },
     {
       "source": {
@@ -1064,19 +1064,6 @@
     },
     {
       "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": "Fox Business",
-      "title": "Walmart to offer free GLP-1 drugs, more than 250 medications as it expands employee health benefits - Fox Business",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPVmJsbG9wQlQ3SHlwUXVhcEtYTnAyMl9NY1FaMGh4M1phYzFzbHh6WmN3Q0NhbzI5N2Fua2YxdjFXSGhlQ3h3NGtTWXYyTGw2VXJtTHZNbW9oRWFiUVZVUkxyZFVzbk1IN1Y3Njlrdl9MQjdpampJUTJaZXZlYTVqU3FJUExKWDRRY01FMtIBkgFBVV95cUxQRW9YbW41WTB4TXZodUYzc2ZtanphZ3lfY0lfNkRuUDk1dnVVM0VRQ25vRkdZWHg2WGNqNE5HaWxhejhfMlVZSTFjUGp0QXJGeHhTM1gzYk9tZTRqTjFVWVhPSEs1bWlFV1huNkdvd3V1YWYyUU52RENUR2tNSHNuZkExaUpNZG0yYmV3ZzNxOU96QQ?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2026-10-14T15:46:00Z",
-      "content": null
-    },
-    {
-      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -1087,19 +1074,6 @@
       "urlToImage": "https://static01.nyt.com/images/2026/10/14/multimedia/14biz-china-trade-fcvw/14biz-china-trade-fcvw-mediumSquareAt3X.jpg",
       "publishedAt": "2026-10-14T15:41:21Z",
       "content": "China’s exports grew last month at the fastest pace in almost any month since the end of the global financial crisis."
-    },
-    {
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": "Patch",
-      "title": "Power Grid Emergency Declared In PA: What It Means - Patch",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQTmk1ZTl5ZnJWQTlQT1RwZmhnM0pMSjVGTFIwM1piem1jbFFzLXRTcEh6R2ZJOEhRdU00YUJWRTA1cm1tRnNLeGVKTENMakU2ZWdCNnh6Ni1jaC05RXZJTlExQnQxbWp4WE5KMHJQZEstUlNXZHZ4TUdPT0c2dmJiRWVMMlBVWThKZThEU2NwM1DSAaYBQVVfeXFMTmhZTkhKTjdRRkJZMGxaMldlcTY4NFNDeHF5VzFUbzJDTnFCRHNfTGpzdGFuQ2VxRUZoREw1aEI1bnFQRzRIbGl0NHRuYWVvcmlxc2pfRjBBdXBuU3d6cXhLMG11U2dpSzVPUkF5aFVzTmdfdHdUSFJGVVBuX1hPUC1XX3BXelBlVENETHRiWGIyeHUwTW9SV2t5U2REMWY1TFFJZ200Zw?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2026-10-14T15:27:35Z",
-      "content": null
     },
     {
       "source": {
@@ -1129,6 +1103,19 @@
     },
     {
       "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "NBC 5 Chicago",
+      "title": "Major Chicago-area health systems Endeavor, Rush University announce plans to merge - NBC 5 Chicago",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNN3ZVLWR2WnJtUkVLMmRYWVpMbmthZ2RjZGNwUnhGZl9XdEF4eW1GOE95UFBnRUhwbjBJQW5VMEVZTnJKVmpUTU9kYjV3TEx6RldBN2h0Y2JwTFdvRVR2YzI2enNXNHd1R3NFbl9VeDAzQlRBX0VvUGFsdk1jd3V0QWx5Yk5pdk95c1AxUVhZakoyb053WVAzZThQZkhNVVhaMjR0c3lWUmFVdTVWdDlrQzJIeGRzaWPSAb8BQVVfeXFMT0VDNC1TZXBsZkY0R1BFbmNmSjZiYzFZLTJ0aUlPeU54RmVldTZRZnJ0aFJINEQxQjBxaW0xSW51MUR3S3YwZ0VIYU1BMXpEaHhuQ0NXbGkyenlWV25acWpGTF9Ca0FVa3ZDUmdrU3JlM3FsTDlaZFIxMHhtMkk5UjdHNkFLamFOZTF6N1o4VHAwUWdSVlBYams1M29NUVc5bDcyZ3pNWHNtRTUzLWZFYlJTbTA2UEctTzV6RDhjTEk?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2026-10-14T14:43:23Z",
+      "content": null
+    },
+    {
+      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -1152,19 +1139,6 @@
       "urlToImage": "https://static01.nyt.com/images/2026/10/14/multimedia/14biz-ss-cola-qlfw/14biz-ss-cola-qlfw-mediumSquareAt3X.jpg",
       "publishedAt": "2026-10-14T14:31:11Z",
       "content": "The cost of living adjustment, or COLA, for next year will be the largest since 2023. Retirees will see the extra money in their benefit checks starting in January."
-    },
-    {
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": "Fierce Biotech",
-      "title": "Verastem CEO claims RAS drug has 'set a new benchmark' for tricky cancer in early readout - Fierce Biotech",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPRVcxWlBuS2JCME9vRXB0UUVuQWtXc043R29peThCdVQ1YlNYdVh1SThCT2pmeGlEb2tVcmcyVHhMbURNYm82d0VMcjZObFIzYXBnc1NvVlJuaTRuY0xqZTBWbk5UekZzTEFsZmR3WHJuXzRaSW5wWFNJZkRRUnZWWGtRRmdybG5YN2VrLThNT1ExMlJvcnFsQXVDSXAwUXpZNTFheGI5ZXhnRWdW?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2026-10-14T14:27:29Z",
-      "content": null
     },
     {
       "source": {
@@ -1194,19 +1168,6 @@
     },
     {
       "source": {
-        "id": "bloomberg",
-        "name": "Bloomberg"
-      },
-      "author": "Robert Langreth, Rachel Cohrs Zhang",
-      "title": "FDA’s New Leadership Aims to Overhaul Rare Disease Approvals - Bloomberg.com",
-      "description": "The US Food and Drug Administration is kicking off a top-to-bottom review of how it approaches rare disease drug development and approvals.",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-14/fda-aims-to-overhaul-rare-disease-approvals-under-new-leadership",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ivi.1b5.2a18/v3/1200x765.jpg",
-      "publishedAt": "2026-10-14T13:06:25Z",
-      "content": "The US Food and Drug Administration is kicking off a top-to-bottom review of how it approaches rare disease drug development and approvals.\r\nThe Rare Disease Framework Initiative, being announced Wed… [+116 chars]"
-    },
-    {
-      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -1220,16 +1181,16 @@
     },
     {
       "source": {
-        "id": "cbs-news",
-        "name": "CBS News"
+        "id": "google-news",
+        "name": "Google News"
       },
-      "author": "Nicole  Sganga",
-      "title": "AI linked to 84% of ransomware attacks, new report finds - CBS News",
-      "description": "Amid escalating threats to businesses, former White House cyber chief warns autonomous attacks are already here.",
-      "url": "https://www.cbsnews.com/news/ai-linked-ransomeware-attacks-global-cybersecurity-report/",
-      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/10/13/63fab2d8-c9cd-4a8e-92c7-ec924923c5a9/thumbnail/1200x630/31245f072c714698e621190d5ebf3d94/gettyimages-2296886688.jpg",
-      "publishedAt": "2026-10-14T10:00:03Z",
-      "content": "Cybercriminals exploited artificial intelligence in ransomware attacks experienced by 84% of surveyed victims, according to a sweeping new global cybersecurity report, while 44% reported that attacke… [+7303 chars]"
+      "author": "News12 | New Jersey",
+      "title": "Power grid emergency declared for NJ. What does it mean? - News12 | New Jersey",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPM1RtbWNXSlBSa1NMYlZBM3E4MWlqcVYtSGVlV3ZtMVlUUGstNzc4NzVFa3ZadUFBNzR3VTM5U0NTQ2xjcU9Mc3UtN3dLU0J3czBoODlxRmV3QS10bDA3Z3pORFpGTkRLWk9iT0kxMGl5b3p0dVhOeU1kdml0UU0xMFludVdpQ1NZS2Fj?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2026-10-14T12:09:56Z",
+      "content": null
     },
     {
       "source": {

@@ -1,14 +1,53 @@
 {
-  "source": "everything",
+  "source": "rss_fallback",
   "country": "us",
   "category": "business",
   "providers": [
     "newsapi",
     "rss"
   ],
-  "fetched_at": "2026-10-16T02:06:16.736821+00:00",
-  "articles_count": 51,
+  "fetched_at": "2026-10-16T08:31:40.055083+00:00",
+  "articles_count": 50,
   "articles": [
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Patricia Cohen",
+      "title": "Warsh Vows Price Stability as A.I. Delivers ‘Shock’ to Economy",
+      "description": "The Federal Reserve chairman said technological change was complicating the outlook for central banks as policymakers grapple with persistent inflation risks.",
+      "url": "https://www.nytimes.com/2026/10/16/business/warsh-fed-imf-bangkok.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/10/16/multimedia/16biz-warsh-vbgk/16biz-warsh-vbgk-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-10-16T07:41:36Z",
+      "content": "The Federal Reserve chairman said technological change was complicating the outlook for central banks as policymakers grapple with persistent inflation risks."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Jeff Sommer",
+      "title": "Why Bad News in the Bond Market May Be Good News for Investors",
+      "description": "In the contrarian logic of investing, rising interest rates have made bonds much more attractive, our columnist says.",
+      "url": "https://www.nytimes.com/2026/10/16/business/bonds-investors-interest-rates.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/10/18/business/18bizsun-strategies-illo/18bizsun-strategies-illo-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-10-16T05:07:20Z",
+      "content": "In the contrarian logic of investing, rising interest rates have made bonds much more attractive, our columnist says."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Jack Ewing",
+      "title": "Tesla Debuts 2026 Roadster, an EV Sports Car at Least $200,000",
+      "description": "Elon Musk’s company and other automakers, like Jaguar and Bentley, are trying to sell very expensive electric cars to people who usually prefer gasoline-fueled luxury and performance.",
+      "url": "https://www.nytimes.com/2026/10/15/business/tesla-roadster-2026-ev-sports-car.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/10/16/business/15biz-luxury-ev/15biz-luxury-ev-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-10-16T02:34:29Z",
+      "content": "Elon Musk’s company and other automakers, like Jaguar and Bentley, are trying to sell very expensive electric cars to people who usually prefer gasoline-fueled luxury and performance."
+    },
     {
       "source": {
         "id": "the-new-york-times",
@@ -164,19 +203,6 @@
       "urlToImage": "https://static01.nyt.com/images/2026/10/15/multimedia/15db-coreweave-qhtm/15db-coreweave-qhtm-mediumSquareAt3X.jpg",
       "publishedAt": "2026-10-15T12:30:05Z",
       "content": "Investors are newly worried about the health of artificial intelligence infrastructure companies like CoreWeave. That’s weighing on the wider A.I. industry."
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "author": "Jack Ewing",
-      "title": "Tesla Debuts 2026 Roadster, an EV Sports Car at Least $200,000",
-      "description": "Elon Musk’s company and other automakers, like Jaguar and Bentley, are trying to sell very expensive electric cars to people who usually prefer gasoline-fueled luxury and performance.",
-      "url": "https://www.nytimes.com/2026/10/15/business/tesla-roadster-2026-ev-sports-car.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/10/16/business/15biz-luxury-ev/15biz-luxury-ev-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-10-15T12:17:34Z",
-      "content": "Elon Musk’s company and other automakers, like Jaguar and Bentley, are trying to sell very expensive electric cars to people who usually prefer gasoline-fueled luxury and performance."
     },
     {
       "source": {
@@ -599,19 +625,6 @@
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
-      "author": "David Segal",
-      "title": "How Two Crypto Billionaires Are Making British Politics More American",
-      "description": "A pair of low-profile entrepreneurs gave $100 million to Nigel Farage’s Reform U.K. Party. The system may never be the same.",
-      "url": "https://www.nytimes.com/2026/10/13/business/nigel-farage-crypto-uk-politics.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/10/18/business/18biz-sun-Farage-entourage-illo/18biz-sun-Farage-entourage-illo-mediumSquareAt3X-v2.jpg",
-      "publishedAt": "2026-10-13T16:16:30Z",
-      "content": "A pair of low-profile entrepreneurs gave $100 million to Nigel Farage’s Reform U.K. Party. The system may never be the same."
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
       "author": "Lisa Friedman",
       "title": "War Collides With Saudi Ambition at a Gathering of Oil Powers",
       "description": "The tone of the WPC Energy Congress in Riyadh this week was defiant even as delegates were forced to redirect travel or address the audience from afar.",
@@ -645,32 +658,6 @@
       "urlToImage": "https://static01.nyt.com/images/2026/10/13/multimedia/13biz-clinton-podcast-01-vthc/13biz-clinton-podcast-01-vthc-mediumSquareAt3X.jpg",
       "publishedAt": "2026-10-13T09:03:18Z",
       "content": "With “High Stakes,” Mrs. Clinton is teaming up with “Pivot” co-host Kara Swisher to break down the consequential battle for the House and the Senate."
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "author": "Ted Alcorn",
-      "title": "States Now Have to Decide How to Spend Meta’s Settlement Billions",
-      "description": "Previous agreements with the tobacco and opioid industries show the difficulty of putting the money in the right hands.",
-      "url": "https://www.nytimes.com/2026/10/13/business/meta-settlement-children-tobacco-opioids.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/09/22/multimedia/00biz-meta-states-htbv/00biz-meta-states-htbv-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-10-13T09:00:44Z",
-      "content": "Previous agreements with the tobacco and opioid industries show the difficulty of putting the money in the right hands."
-    },
-    {
-      "source": {
-        "id": "cnn",
-        "name": "CNN"
-      },
-      "author": "John Towfighi",
-      "title": "10-year Treasury yield hits 5%, critical threshold for US economy and markets | CNN Business",
-      "description": "The rise in bond yields hit a critical threshold on Monday, with the 10-year Treasury yield rising to 5%, a level briefly touched in 2023 and otherwise not seen since 2007. The move in the key benchmark could mean higher costs for Americans who want to buy a …",
-      "url": "https://www.cnn.com/2026/09/14/investing/bond-yields-market-turmoil",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2290743312.jpg?c=16x9&q=w_800,c_fill",
-      "publishedAt": "2026-09-14T14:21:05Z",
-      "content": "The rise in bond yields hit a critical threshold on Monday, with the 10-year Treasury yield rising to 5%, a level briefly touched in 2023 and otherwise not seen since 2007. The move in the key benchm… [+5052 chars]"
     }
   ],
   "query": "market economy finance stock"

@@ -1,7 +1,20 @@
 {
   "status": "ok",
-  "totalResults": 64,
+  "totalResults": 68,
   "articles": [
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Max Read, Whitney Jones, Vjeran Pavic, Chris Wood, Dan Powell, Rowan Niemisto and Diane Wong",
+      "title": "Why No One Can Look Away From Elizabeth Holmes",
+      "description": "“I felt like there were some moments in the film where she was just brazenly lying.”",
+      "url": "https://www.nytimes.com/2026/10/16/podcasts/hardfork-elizabeth-holmes.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/10/16/podcasts/16hardfork-elizabeth-holmes/16hardfork-elizabeth-holmes-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-10-16T13:00:28Z",
+      "content": "“I felt like there were some moments in the film where she was just brazenly lying.”"
+    },
     {
       "source": {
         "id": "the-new-york-times",
@@ -11,8 +24,8 @@
       "title": "Tesla Debuts 2026 Roadster, an EV Sports Car at Least $200,000",
       "description": "Elon Musk’s company and other automakers, like Jaguar and Bentley, are trying to sell very expensive electric cars to people who usually prefer gasoline-fueled luxury and performance.",
       "url": "https://www.nytimes.com/2026/10/15/business/tesla-roadster-2026-ev-sports-car.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/10/16/business/15biz-luxury-ev/15biz-luxury-ev-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-10-16T02:34:29Z",
+      "urlToImage": "https://static01.nyt.com/images/2026/10/16/multimedia/16tesla-vid-covers-02-hpgf/16tesla-vid-covers-02-hpgf-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-10-16T09:04:12Z",
       "content": "Elon Musk’s company and other automakers, like Jaguar and Bentley, are trying to sell very expensive electric cars to people who usually prefer gasoline-fueled luxury and performance."
     },
     {
@@ -43,6 +56,32 @@
     },
     {
       "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Annie Palmer",
+      "title": "Amazon launches new Bee 'personal AI' devices that listen to conversations - CNBC",
+      "description": "The $75 Bee Frontier is an upgraded version of Amazon's wearable bracelet, while the $100 Bee Eclipse attaches to a user's smartphone.",
+      "url": "https://www.cnbc.com/2026/10/15/amazon-bee-frontier-eclipse-ai-devices.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108411120-1792017144545-BEE_FRONTIER_SH01_1600x900.jpg?v=1792017283&w=1920&h=1080",
+      "publishedAt": "2026-10-15T12:00:01Z",
+      "content": "Amazon on Thursday unveiled two new Bee listening devices, including a wearable and a credit card-sized voice recorder, marking its latest push into the AI gadget market. \r\nThe Bee Frontier is an upg… [+2927 chars]"
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "MacRumors",
+      "title": "Apple Now Inviting Media to October 28 'Launch Experience' - MacRumors",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQNzdlc2JrdWVnZ3dtOGs5RENyNUhjZGpPTkRSTmowN0VhQVJxOVhZSEVGV2ZnNkZMWG9zdG8yUWkzbjdmYVhnQTVmVHhjdnVWcGhwYmJhMVJ2WGN1aE1wX19Uclo3cHZwZmJFcnYwaFhzcVdESHNWWFZMdW9Nc1Q5eXAzMFdqOHYzQmVJ?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2026-10-15T11:13:24Z",
+      "content": null
+    },
+    {
+      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -57,15 +96,41 @@
     {
       "source": {
         "id": null,
-        "name": "ScienceAlert"
+        "name": "Aftermath.site"
       },
-      "author": "Michelle Starr",
-      "title": "Astronomers Have Detected A Mysterious Signal Coming From Empty Space. Nobody Knows What It Is. - ScienceAlert",
-      "description": "In the southern constellation of Fornax lies a tiny patch of sky just like any other.",
-      "url": "https://www.sciencealert.com/astronomers-have-detected-a-mysterious-signal-coming-from-empty-space-nobody-knows-what-it-is",
-      "urlToImage": "https://www.sciencealert.com/images/2026/10/blob.jpg",
-      "publishedAt": "2026-10-15T01:30:45Z",
-      "content": "In the southern constellation of Fornax lies a tiny patch of sky just like any other. Your eyes may have brushed past it a hundred times without a thought.\r\nYet this otherwise unremarkable speck of t… [+7177 chars]"
+      "author": "Aftermath",
+      "title": "Big Walk Isn't On Xbox Because Of The 'Palestinian-Led BDS Movement' - Aftermath",
+      "description": null,
+      "url": "https://aftermath.site/big-walk-xbox-bds-palestine-boycott/",
+      "urlToImage": null,
+      "publishedAt": "2026-10-15T08:29:05Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "GamesIndustry.biz",
+      "title": "Ubisoft to reduce workforce across Düsseldorf, Berlin, and Mainz as part of \"proposed voluntary departure plan\" - GamesIndustry.biz",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQZWVoY2RrYXhrMGMxOTl2eWlXSjVHa2EwTEp2V28tZkVCV3JpbW1JcjBKUTJQUDVKbzFoaUZGc0dtdzlxU29kdHlwQVI4NzJBbmpQNmpfZ1ZLbENZRHR0RHluejB6aTdnQWpON2F5N241OHgzcC1ybUs5RHRjZzdjdGJGb0R3eWx6djJrQjBMS1JScGFXRkJoRHhTdU0zYnVRMlRNT0Y5S004d3NqLUtBMDF4NENRUUR4QmNfVHlPaUdVaS1kQ0Fic080QUNKVU53M3A4?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2026-10-15T08:09:37Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Hackaday"
+      },
+      "author": "Zoe Skyforest",
+      "title": "AI Controls IPhone Via ESP32 - Hackaday",
+      "description": "Do you want to get an AI agent to do something to an iPhone? You could try and jailbreak the device and do some heavy software hacking, or… you could grab a microcontroller off the shelf and …",
+      "url": "https://hackaday.com/2026/10/14/ai-controls-iphone-via-esp32/",
+      "urlToImage": "https://hackaday.com/wp-content/uploads/2026/10/A-7-ESP32-lets-an-AI-set-an-alarm-on-a-stock-iPhone-no-Mac-no-jailbreak-0-20-screenshot-1.png",
+      "publishedAt": "2026-10-15T02:00:00Z",
+      "content": "Do you want to get an AI agent to do something to an iPhone? You could try and jailbreak the device and do some heavy software hacking, or… you could grab a microcontroller off the shelf and have it … [+1020 chars]"
     },
     {
       "source": {
@@ -82,19 +147,6 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "MacRumors"
-      },
-      "author": "Juli Clover",
-      "title": "iPhone Duo's A20 Pro Chip Benchmarked Ahead of Launch - MacRumors",
-      "description": "The iPhone Duo unsurprisingly offers performance similar to the iPhone 18 Pro, according to an early iPhone Duo benchmark shared on Geekbench 7. Both...",
-      "url": "https://www.macrumors.com/2026/10/14/iphone-duo-benchmark/",
-      "urlToImage": "https://images.macrumors.com/t/CF37ey2cPgDxE7XhXnqyT0kz1_Q=/1920x/article-new/2026/10/iphone-duo-feature.jpg",
-      "publishedAt": "2026-10-15T00:20:00Z",
-      "content": "The iPhone Duo unsurprisingly offers performance similar to the iPhone 18 Pro, according to an early iPhone Duo benchmark shared on Geekbench 7. Both devices are equipped with Apple's 2nm A20 Pro chi… [+1101 chars]"
-    },
-    {
-      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -108,16 +160,16 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "Nature.com"
+        "id": "google-news",
+        "name": "Google News"
       },
-      "author": null,
-      "title": "De novo design of cysteine proteases - Nature",
-      "description": "De novo-designed enzymes use an activated cysteine nucleophile to hydrolyse polypeptide backbones in a sequence-dependent manner.",
-      "url": "https://www.nature.com/articles/s41586-026-11143-w",
-      "urlToImage": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-11143-w/MediaObjects/41586_2026_11143_Fig1_HTML.png",
-      "publishedAt": "2026-10-14T22:55:28Z",
-      "content": "<li>Radzicka, A. &amp; Wolfenden, R. Rates of uncatalyzed peptide bond hydrolysis in neutral solution and the transition state affinities of proteases. J. Am. Chem. Soc.118, 61056109 (1996).\r\nArticle… [+9987 chars]"
+      "author": "PhoneArena",
+      "title": "Galaxy S27 and S27 Plus rumored to miss on an exciting camera upgrade - PhoneArena",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZWtUWkpCZlNKcUkwUlh4SnhQOEZBYkpRX1VpMnQ5VHhBemtQZjdZMzQ5YmhKREplU0M0ZjlKSWRrbTdrSHJPcE9OR0swdUJnbDVxNGhrM01lYTRRRU04eGdlYzhDbnJfamFIalB3clRBMHp1T0E4THNnT1U3ampzNV85Ri1aTmZzVWJ1VEJKZ3NXMHoxNXZjeGhrbkdIdVc0Y0ZqY3Q5LTV0U2VybV9B?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2026-10-14T22:41:27Z",
+      "content": null
     },
     {
       "source": {
@@ -134,6 +186,45 @@
     },
     {
       "source": {
+        "id": null,
+        "name": "Electrek"
+      },
+      "author": "Michelle Lewis",
+      "title": "Apple and Schneider’s new smart thermostat could help cut your electric bill - Electrek",
+      "description": "Apple and Schneider's smart thermostat uses your iPhone to adjust temperatures and can shift energy use to cheaper, cleaner hours.",
+      "url": "http://electrek.co/2026/10/14/apple-and-schneiders-new-smart-thermostat-could-help-cut-your-electric-bill/",
+      "urlToImage": "https://electrek.co/wp-content/uploads/sites/3/2026/10/Schneider-Electric-Apple-smart-thermostat.jpg?quality=82&strip=all&resize=1200,628",
+      "publishedAt": "2026-10-14T22:06:00Z",
+      "content": "Image: Michael Bower/Electrek\r\nA new smart thermostat from Apple and Schneider Electric could soon use your iPhone to figure out when youre home and help move heating and cooling to times when electr… [+2932 chars]"
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "9to5Google",
+      "title": "Gemini AI Plus subscribers will lose access to Pro models next month - 9to5Google",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE51SU1Cd0ZISHVIRTRHVWxPd3pSaXFmam1uNVBIWnRGOXhvSGpKNGd0a01nWjJReXZOLUpoY1BrM0xFTW51ZTZBUGVXSmRzQU9DRUU3V2ZqemVrS0dHNWFzbGlRcGpZemtaWjdYb0RFcHZ3YWwtTkZr?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2026-10-14T21:34:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Decrypt"
+      },
+      "author": "Jose Antonio Lanz",
+      "title": "Developer Who Cloned Photoshop With AI Just Did the Same to Microsoft Office - Decrypt",
+      "description": "Developer Brandon Thomas used Anthropic's Claude to build free, open-source replicas of Word, Excel and PowerPoint. They're rough, but they show how cheap cloning software has become.",
+      "url": "https://decrypt.co/380991/developer-cloned-photoshop-ai-just-did-same-microsoft-office",
+      "urlToImage": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/ai-decrypt-style-04-gID_7.png",
+      "publishedAt": "2026-10-14T21:16:03Z",
+      "content": "In brief\r\n<ul><li>Developer Brandon Thomas released WordCraft, GridCraft and DeckCraft, free open-source clones of Microsoft Word, Excel and PowerPoint written in Rust with help from Anthropic's Clau… [+5656 chars]"
+    },
+    {
+      "source": {
         "id": "ars-technica",
         "name": "Ars Technica"
       },
@@ -147,29 +238,55 @@
     },
     {
       "source": {
-        "id": "polygon",
-        "name": "Polygon"
+        "id": null,
+        "name": "Medical Xpress"
       },
-      "author": "Michael McWhertor",
-      "title": "Total War fans are shredding the series' new remaster over bugs, AI slop accusations - Polygon.com",
-      "description": "Total War: Shogun 2 Complete Edition is a bug, genAI-filled mess and a greedy rerelease fans say in Steam reviews of Creative Assembly's game.",
-      "url": "https://www.polygon.com/total-war-shogun-2-complete-edition/",
-      "urlToImage": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/total-war-shogun-2.jpg?w=1600&h=900&fit=crop",
-      "publishedAt": "2026-10-14T20:29:56Z",
-      "content": "Sega and Creative Assembly's new release of Total War: Shogun 2 promised strategy fans an \"updated, enhanced, and complete version of the grand strategy classic.\" But fans of the Total War franchise … [+3175 chars]"
+      "author": null,
+      "title": "Reversing age by reprogramming gene expression networks - Medical Xpress",
+      "description": "Every organ and tissue progressively loses function and integrity as it ages. In fact, researchers have identified \"hallmarks of aging\" that not only present specific processes impacted by age, but are also thought of as levers that, if successfully targeted,…",
+      "url": "https://medicalxpress.com/news/2026-10-reversing-age-reprogramming-gene-networks.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/reversing-age-by-repro.jpg",
+      "publishedAt": "2026-10-14T20:50:06Z",
+      "content": "Every organ and tissue progressively loses function and integrity as it ages. In fact, researchers have identified \"hallmarks of aging\" that not only present specific processes impacted by age, but a… [+8769 chars]"
     },
     {
       "source": {
-        "id": "google-news",
-        "name": "Google News"
+        "id": null,
+        "name": "Chrome Unboxed"
       },
-      "author": "9to5Google",
+      "author": "Robby Payne",
+      "title": "A user has installed Googlebook OS onto a Chromebook Plus, and it runs great - Chrome Unboxed",
+      "description": "Ever since Google officially launched the new Googlebook platform, one of the biggest questions hanging in the air has been what this means for existing Chromebook hardware. While we wait for official transition paths for existing Chromebook hardware, the ent…",
+      "url": "https://chromeunboxed.com/a-user-has-installed-googlebook-os-onto-a-chromebook-plus-and-it-runs-great/",
+      "urlToImage": "https://chromeunboxed.com/wp-content/uploads/2026/10/ChromebookASUSGooglebookOS.webp",
+      "publishedAt": "2026-10-14T20:30:41Z",
+      "content": "Support our independent tech coverage. Chrome Unboxed is written by real people, for real peoplenot search algorithms. Join Chrome Unboxed Plus for just $2 a month to get an ad-free experience, acces… [+3105 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Sheepesports.com"
+      },
+      "author": "https://www.sheepesports.com/en/all/authors/luca-urazov",
+      "title": "League Classic to go offline in January 2027 - Sheep Esports",
+      "description": "The return to old-school League of Legends will be shorter than some fans hoped, as Riot Games prepares to end the current version of League Classic while leaving the door open for a comeback.",
+      "url": "https://www.sheepesports.com/en/articles/league-classic-to-go-offline-in-january-2027/en",
+      "urlToImage": "https://www.sheepesports.com/en/articles/league-classic-to-go-offline-in-january-2027/en/opengraph-image-bcw1d0?0a3a7082f933e9e3",
+      "publishedAt": "2026-10-14T19:50:27Z",
+      "content": "Sheep EsportsYour premier source for esports news, exclusive leaks, and expert analysis. Stay ahead of the game with the latest updates from League of Legends, Valorant, CS2, and Rocket League."
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "9to5google.com"
+      },
+      "author": "Ben Schoon",
       "title": "Google Fitbit Edge hands-on: Pixel Watch Lite, take two - 9to5Google",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOMU55ZV95QTRNMTdZdFVGd1VrSEp6MzlVOTFVamdyRkNDYUFfWC1sM05VWmk4SkRENHdRODhpSDRfbmRFZFQtbzU0bF9oNjlzVTdYU1RLQVNRRjJxUnllalp6NUVIOHJyLWd6cU5hb3NLZmd1ZENXZzdWaDd6TjRva2I5WVJ2SWlEODJtVUJ2QWc0Zw?oc=5",
-      "urlToImage": null,
+      "description": "Google’s new Fitbit Edge tracker launches later this month and, as we get our review together, here’s a quick hands-on...",
+      "url": "http://9to5google.com/2026/10/14/google-fitbit-edge-hands-on-pixel-watch-lite-take-two/",
+      "urlToImage": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/fitbit-edge-1.jpg?quality=82&strip=all&resize=1200,628",
       "publishedAt": "2026-10-14T19:30:00Z",
-      "content": null
+      "content": "Google’s new Fitbit Edge tracker launches later this month and, as we get our review together, here’s a quick hands-on look at the new middle child of Google’s wearable lineup.\r\nThe Fitbit Edge sits … [+2421 chars]"
     },
     {
       "source": {
@@ -199,6 +316,19 @@
     },
     {
       "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "Windows Central",
+      "title": "Microsoft is gauging interest in Fallout, Elder Scrolls, and Minecraft becoming Xbox exclusives — yes, really - Windows Central",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPUUhRWXdMWjJzalUwRE5wZnp1UlBBcTU0bkk4YzFhVHJHZm00LUFqeWxKb2t1ZzY4Ymktdms4TTVkR0drUnBrV1NTbkoxWVR5VkRoTHY5M2YyNmYtdS1BTE9BSVFlUkdvSUJnbmp4ekxjenR1U3VPX0UyUFJuTG84VGFBemh3bGRtLWZiS1VMMXhmMG1ud2NkU0ZaSmlHb0F1a2o5NF9VZ1ByRllEelZSbVNib25Da0ZVd2M0RWZkek52WTBuTGxHU2tnNzdJOUN6c1FTbEZnWENMd3NDaEZIUVhSRFp1SWtWRG5kTk05RVU?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2026-10-14T18:38:36Z",
+      "content": null
+    },
+    {
+      "source": {
         "id": null,
         "name": "Insider-gaming.com"
       },
@@ -209,19 +339,6 @@
       "urlToImage": "https://insider-gaming.com/wp-content/uploads/2026/10/gta-6-gameplay-leaked.jpg",
       "publishedAt": "2026-10-14T18:24:16Z",
       "content": "Insider Gaming has learned that Grand Theft Auto 6’s review estate will go live before the release on November 19. This may come as a surprise to some, as plenty of gamers out there believed that GTA… [+2209 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Lauren Forristal",
-      "title": "YouTube Music launches new labels as AI-generated music floods streaming platforms - TechCrunch",
-      "description": "The label will appear on the player page and include songs entirely generated by AI or partially, such as AI involved in composition and vocals.",
-      "url": "https://techcrunch.com/2026/10/14/youtube-music-launches-new-labels-as-ai-generated-music-floods-streaming-platforms/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/10/youtube-music-gen-ai-labels.png?w=1080",
-      "publishedAt": "2026-10-14T18:23:46Z",
-      "content": "YouTube Music announced Wednesday the rollout of a new labeling system aimed at improving transparency around songs created with the help of generative AI. Now listeners will be able to easily identi… [+2349 chars]"
     },
     {
       "source": {
@@ -251,15 +368,41 @@
     },
     {
       "source": {
-        "id": "google-news",
-        "name": "Google News"
+        "id": null,
+        "name": "Android Authority"
       },
-      "author": "Android Authority",
+      "author": null,
       "title": "Samsung Galaxy phones can't tell if they're connected to Bluetooth or not - Android Authority",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNLXZCZDVTc294UDJJMUZTaC00VGQ0cVdUZjhuMmZOdkJiQXpDY1J0VnNWNThGaWJoRWVmVFlyUTI3a2dHSFEyMzg0NS02OVY2Zmk1b1piajkyakF5VHEyUThKQm9ScWYyaDRKYkY0WkhPOGtXZHE2ZzdLMzZtSzNQZUY2M3k?oc=5",
-      "urlToImage": null,
+      "description": "Samsung Galaxy phones are experiencing a problem that is causing the volume slider to show the incorrect icons.",
+      "url": "https://www.androidauthority.com/samsung-galaxy-phone-volume-icon-bug-3723386/",
+      "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2026/05/Samsung-Galaxy-S26-Ultra-showing-One-UI-lock-screen.jpg",
       "publishedAt": "2026-10-14T17:14:00Z",
+      "content": "<ul><li>Samsung Galaxy phone users are experiencing a strange bug affecting the volume panel.</li><li>When playing audio through the phones speakers, a Bluetooth icon appears at the bottom of the sli… [+1660 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Kotaku"
+      },
+      "author": "Kenneth Shepard",
+      "title": "Zero Escape And Hundred Line Director's New Game Canceled Before He Could Announce New Studio [UPDATE: Something's Off] - Kotaku",
+      "description": "Kotaro Uchikoshi planned to announce new studio Crash Keys alongside its first game",
+      "url": "https://kotaku.com/kotaro-uchikoshi-hundred-line-zero-escape-crash-keys-2000745989",
+      "urlToImage": "https://kotaku.com/app/uploads/2025/12/IMG_0764-1200x675.jpg",
+      "publishedAt": "2026-10-14T17:10:34Z",
+      "content": "Kotaro Uchikoshi is one of the minds behind last years incredible visual novel and strategy game The Hundred Line: Last Defense Academy, but you might also know him for his work on the Zero Escape an… [+5887 chars]"
+    },
+    {
+      "source": {
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "author": "John Timmer",
+      "title": "Researchers use AI to design proteins that cut up other proteins - Ars Technica",
+      "description": "AI design tools make proteins that break bonds that are stable for hundreds of years.",
+      "url": "https://arstechnica.com/science/2026/10/researchers-use-ai-to-design-proteins-that-cut-up-other-proteins/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2298087641-1152x648.jpg",
+      "publishedAt": "2026-10-14T17:10:15Z",
       "content": null
     },
     {
@@ -290,16 +433,16 @@
     },
     {
       "source": {
-        "id": "the-verge",
-        "name": "The Verge"
+        "id": null,
+        "name": "Live Science"
       },
-      "author": "Jay Peters",
-      "title": "Repairing the iPhone Duo’s folding screen costs as much as a new iPhone - The Verge",
-      "description": "If you don’t get AppleCare Plus for the iPhone Duo, any repairs are going to be pretty expensive. Apple published the estimated repair costs for the iPhone Duo without AppleCare Plus today, including $999 for inner display damage.",
-      "url": "https://www.theverge.com/tech/1011245/iphone-duo-repair-costs-applecare",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268734_iPhone_Duo_handson_ADiBenedetto_0005.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "publishedAt": "2026-10-14T16:21:28Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nIf you dont have AppleCare Plus for your iPhone Duo, youll have to shell out $999 for an inner screen repair.\r\nIf you dont have AppleCare Plus for your iPhone Du… [+2124 chars]"
+      "author": "Benjamin Skuse",
+      "title": "Physicists develop early warning system that predicts when an AI is about to go rogue - Live Science",
+      "description": "A new mathematical formula tracks an AI's internal \"compass needle\" to flag undesirable outputs before they happen.",
+      "url": "https://www.livescience.com/technology/artificial-intelligence/simple-math-can-predict-when-ai-is-about-to-go-rogue-physicists-say",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/FbvAfyewLbrd6gain3RCk-2000-80.jpg",
+      "publishedAt": "2026-10-14T16:34:35Z",
+      "content": null
     },
     {
       "source": {
@@ -316,16 +459,16 @@
     },
     {
       "source": {
-        "id": "ars-technica",
-        "name": "Ars Technica"
+        "id": "the-verge",
+        "name": "The Verge"
       },
-      "author": "Kyle Orland",
-      "title": "Legendary FPS level designer Richard \"Levelord\" Gray dies at 68 - Ars Technica",
-      "description": "Tributes pour in for the man behind iconic Duke Nukem 3D levels and much more.",
-      "url": "https://arstechnica.com/gaming/2026/10/legendary-fps-level-designer-richard-levelord-gray-passes-away-at-68/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/levelord-1152x648.png",
-      "publishedAt": "2026-10-14T16:02:08Z",
-      "content": null
+      "author": "Stevie Bonifield",
+      "title": "Now you can call anyone with WhatsApp, even if they don’t have WhatsApp - The Verge",
+      "description": "Meta launched guest calls on WhatsApp, allowing people without an account or the app to join calls just by clicking a link.",
+      "url": "https://www.theverge.com/tech/1011202/meta-whatsapp-guest-calls",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Now-You-Can-Invite-Anyone-to-a-WhatsApp-Call_Header-JPG.jpg?quality=90&strip=all&crop=0%2C6.9226294357184%2C100%2C93.077370564282&w=1200",
+      "publishedAt": "2026-10-14T16:03:10Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nAnyone can click a link and join an end-to-end encrypted WhatsApp call, without installing an app or creating an account.\r\nAnyone can click a link and join an en… [+2192 chars]"
     },
     {
       "source": {
@@ -381,16 +524,16 @@
     },
     {
       "source": {
-        "id": "google-news",
-        "name": "Google News"
+        "id": null,
+        "name": "MacRumors"
       },
-      "author": "Newsshooter",
-      "title": "Sony ECM-W5 Wireless Microphone System with Audio Recording - Newsshooter",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNYmpGdjZXOWo3eldQc1VIWEtuV2hMb1NDT1lVblVJeXF1NUV1MkZzRDJhcEpVR3NOSG1DbVBtdVNBZXpfYm5fbFB6cDRxejNXbXdyYi1TbThwRDB0Y1g0VjBvMVpEYUJxSjF5ajBXVnd4aWhXQmktdkowZ01aVG1ScUctUWdMRFhLcHg2VzNnQ3UyeGllMm90b05HNV9xekNq?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2026-10-14T14:58:47Z",
-      "content": null
+      "author": "Joe Rossignol",
+      "title": "iPhone Duo: Skipping AppleCare+ Could Be $1,499 Mistake - MacRumors",
+      "description": "Apple today listed its estimated repair fees for the iPhone Duo without AppleCare+ coverage, with the maximum fee in the U.S. for \"other...",
+      "url": "https://www.macrumors.com/2026/10/14/iphone-duo-repair-fees/",
+      "urlToImage": "https://images.macrumors.com/t/CF37ey2cPgDxE7XhXnqyT0kz1_Q=/1920x/article-new/2026/10/iphone-duo-feature.jpg",
+      "publishedAt": "2026-10-14T15:13:45Z",
+      "content": "Apple today listed its estimated repair fees for the iPhone Duo without AppleCare+ coverage, with the maximum fee in the U.S. for \"other damage\" set at $1,499.\r\nIf you only damage certain parts of th… [+1436 chars]"
     },
     {
       "source": {
@@ -404,6 +547,32 @@
       "urlToImage": "https://www.thestreet.com/.image/NDA6MDAwMDAwMDAzMjExNDI0/new-york-times-dealbook-summit-held-in-new-york-city.jpg?profile=share16-9",
       "publishedAt": "2026-10-14T14:33:00Z",
       "content": "For years, Amazon made it simple for customers to purchase a Fire tablet: It was inexpensive.\r\nAmazon (AMZN) was able to avoid direct comparisons with Apples iPad and other high-end tablets because o… [+4301 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Road to VR"
+      },
+      "author": "Scott Hayden",
+      "title": "Sandisk is Releasing Official ‘Made for Meta’ Expandable Storage for VR Glasses - Road to VR",
+      "description": "The launch of Meta VR Glasses next year will mark the first time any of the company’s standalone headsets has featured expandable storage. Now, Meta and Sandisk have partnered to offer official ‘Made for Meta’ microSD and USB-C flash drive storage options. Th…",
+      "url": "https://roadtovr.com/sandisk-meta-vr-glasses-microsd-storage/",
+      "urlToImage": "https://roadtovr.com/wp-content/uploads/2026/10/sandisk-meta.png",
+      "publishedAt": "2026-10-14T14:20:15Z",
+      "content": "The launch of Meta VR Glasses next year will mark the first time any of the company’s standalone headsets has featured expandable storage. Now, Meta and Sandisk have partnered to offer official ‘Made… [+2061 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Kotaku"
+      },
+      "author": "John Walker",
+      "title": "Players Are Furious About Total War: Shogun 2's AI-Upscaled 'Enhanced' Edition - Kotaku",
+      "description": "Steam users say it runs worse, looks worse, adds more bugs, and clearly used genAI to enlarge the artwork",
+      "url": "https://kotaku.com/total-war-shogun-2-complete-edition-gen-ai-art-sega-creative-assembly-2000745877",
+      "urlToImage": "https://kotaku.com/app/uploads/2026/10/shogun-slop9-1200x675.jpg",
+      "publishedAt": "2026-10-14T14:00:30Z",
+      "content": "October 13 saw the release of Total War: Shogun 2 – Complete Edition, described as being “the updated, enhanced, and complete version of the grand strategy classic.” Players are describing it as “lit… [+3572 chars]"
     },
     {
       "source": {
@@ -433,68 +602,42 @@
     },
     {
       "source": {
-        "id": "the-verge",
-        "name": "The Verge"
+        "id": null,
+        "name": "GTPlanet"
       },
-      "author": "Jay Peters",
-      "title": "Epic is bringing Fortnite to Linux - The Verge",
-      "description": "Epic is working on bringing Fortnite to Linux through its Epic Games Launcher and is rebuilding its Easy Anti-Cheat software.",
-      "url": "https://www.theverge.com/games/1010808/epic-fortnite-linux-anti-cheat",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/fortnite-reload-elite-zadie-slurp-rush-map-1920x1080-7515cd7aa2e9.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-      "publishedAt": "2026-10-14T13:54:58Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nTheres no timeline on when, but Epic is rebuilding its anti-cheat software so that Fortnite will be playable on Linux.\r\nTheres no timeline on when, but Epic is r… [+3177 chars]"
+      "author": "Andrew Evans",
+      "title": "Gran Turismo Spec IV Update Part 1 Arrives Tomorrow: All Confirmed Features & Content - GTPlanet",
+      "description": "It’s felt like long wait since series creator Kazunori Yamauchi surprisingly announced the Gran Turismo 7 Spec IV update six weeks back, but the first part of it is now in sight with the update confirmed to arrive tomorrow, Thursday October 15...",
+      "url": "https://www.gtplanet.net/gran-turismo-spec-iv-update-part-1-arrives-tomorrow-all-confirmed-features-content-20261014/",
+      "urlToImage": "https://www.gtplanet.net/wp-content/uploads/2026/10/gt7-spec4-172-feature-001-20261014.jpg",
+      "publishedAt": "2026-10-14T13:37:35Z",
+      "content": "It’s felt like long wait since series creator Kazunori Yamauchi surprisingly announced the Gran Turismo 7 Spec IV update six weeks back, but the first part of it is now in sight with the update confi… [+8410 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Gran-turismo.com"
+        "name": "Eurogamer.net"
       },
-      "author": null,
-      "title": "Introducing the 'Gran Turismo 7' Spec IV - Part 1 Update: Adding 6 New Cars, the SUGO Track, and Various New Features! - gran-turismo.com",
-      "description": "Gran Turismo 7 will receive a major update, 'Spec IV' - Part 1, on 15 October 2026.",
-      "url": "https://www.gran-turismo.com/gb/news/00_5741963.html",
-      "urlToImage": "https://www.gran-turismo.com/images/c/i18C8mDXFmeeHO.jpg",
-      "publishedAt": "2026-10-14T13:25:06Z",
-      "content": "14/10/2026\r\nGran Turismo 7 will receive a major update, 'Spec IV' - Part 1, on 15 October 2026.\r\nThe following is a list of contents included with Update 1.72:\r\nThe opening cinematic that plays when … [+3328 chars]"
+      "author": "Robert Purchese",
+      "title": "GTA 6 was originally Project Americas and covered \"big swaths\" of country's north and south, Rockstar reveals, in interview tackling crunch, delays, and leaks - Eurogamer.net",
+      "description": "In a wide-ranging GTA 6 interview, Rockstar has discussed crunch, the game's origins, leaks, delays and more.",
+      "url": "https://www.eurogamer.net/gta-6-project-americas-rockstar-crunch-delays-leaks",
+      "urlToImage": "https://assetsio.gnwcdn.com/Jason_and_Lucia_11.13lmeyci.i-yw.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "publishedAt": "2026-10-14T11:39:03Z",
+      "content": "Rockstar Games has revealed the original codename for Grand Theft Auto 6 was Project Americas, and that its intention was for the game to cover large areas of land in both the north of the country an… [+4939 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "GamesIndustry.biz"
+        "name": "Push Square"
       },
-      "author": "Sophie McEvoy",
-      "title": "Rockstar's next game won't take eight years to make: \"The engine, the tools and the team we've built during GTA 6 will allow us to do things more quickly\" - GamesIndustry.biz",
-      "description": "Developer's team has more than doubled since Red Dead Redemption 2's launch in 2018, with over 4,000 working in development and QA",
-      "url": "https://www.gamesindustry.biz/rockstars-next-game-wont-take-eight-years-to-make-the-engine-the-tools-and-the-team-weve-built-during-gta-6-will-allow-us-to-do-things-more-quickly",
-      "urlToImage": "https://assetsio.gnwcdn.com/gta-lucia-jason-(1).webp?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "publishedAt": "2026-10-14T12:26:32Z",
-      "content": "Rockstar Games has more than doubled its workforce to develop Grand Theft Auto 6, and is adamant that it won't take another eight years to complete its next title.\r\nIn a wide-ranging interview with B… [+3370 chars]"
-    },
-    {
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": "Polygon.com",
-      "title": "10 Years Ago, PlayStation Almost Changed Gaming Forever - Polygon.com",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1GV1UxSlEyVEQyT2xnV0xzM2xSTjdveVF3SDEyT3VnV0Z5Z083ME9Oek9pY09rQXctdkItb2dJTlBlUmxPWDZPaElsX0FYM1lqSHBWT2ZOa1llS3Q2bEVVV2JOQWFkbTVqUFFmdzJR?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2026-10-14T11:01:15Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": "How-To Geek",
-      "title": "5 premium desktop apps that the open-source community cloned for free - How-To Geek",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNMk9wMl9tUHdNTWJrX0pJWkNFSnQyenVkTVJXQVJqVUY4NXR4dVRwYXRNbVdhZUxsNnJqTFZ2cnBVUnZWUWtDU3FLQm9rdW5zcm1qb29hdklQM2tBVzRwaTZvdVJiRGFYNXZkdV9Mc3RlX2RNUnFfVVVYLVc2S2xkLW8tTTVQT1Q2MGFUNmN5a1drdHZiSi1Ud2N3?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2026-10-14T11:00:14Z",
-      "content": null
+      "author": "Stephen Tailby",
+      "title": "Some of Sony's First-Party Games Are Suddenly Missing from PS Store in the US - Push Square",
+      "description": "Update: back to normal",
+      "url": "https://www.pushsquare.com/news/2026/10/sonys-missing-first-party-games-have-returned-to-ps-store-in-the-us",
+      "urlToImage": "https://images.pushsquare.com/8c85266ea5a5b/1280x720.jpg",
+      "publishedAt": "2026-10-14T10:45:00Z",
+      "content": "Update [Wed 14th Oct 2026, 5:45pm]: I'm not sure precisely when, but the PlayStation Studios titles that went missing from the North American PS Store are now back.\r\nGod of War 3 Remastered, Uncharte… [+1577 chars]"
     },
     {
       "source": {
@@ -550,16 +693,16 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "Nintendo Life"
+        "id": "google-news",
+        "name": "Google News"
       },
-      "author": "Liam Doolan",
+      "author": "Nintendo Life",
       "title": "Round Up: The Reviews For Castlevania: Belmont's Curse Are In - Nintendo Life",
-      "description": "Here's what the critics think",
-      "url": "https://www.nintendolife.com/news/2026/10/round-up-the-reviews-for-castlevania-belmonts-curse-are-in",
-      "urlToImage": "https://images.nintendolife.com/cad9476688063/1280x720.jpg",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPdFd5Qjl3RzdZTm5NNkZCbjdYU0RVQXJEcFRPUU1VejhtZGtiWGVUbHpCc0kzZEQxTEp5WkVQbmMtYUQxMEVJTEFyLWFCdVlmZVFLV2lfYks3M3B3N0R6NWF2SFVmR3N5b0szVi1CSzZNcXlhWElVaEFuWFFUYzJqQTM3NVgxNDRheDc3NldTWTBxRzRSdXBsejJIOTRaZmhGdEE?oc=5",
+      "urlToImage": null,
       "publishedAt": "2026-10-13T23:55:00Z",
-      "content": "Image: Konami\r\nIt's been a while, but this week Konami's Castlevania series resurfaces with the new entry, Castlevania: Belmont's Curse.\r\nThis 2D action-exploration title, set 23 years after Castleva… [+5538 chars]"
+      "content": null
     },
     {
       "source": {
@@ -573,19 +716,6 @@
       "urlToImage": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/GoogleBook-App-Cannot-be-installed.jpg?quality=82&strip=all&resize=1200,628",
       "publishedAt": "2026-10-13T23:39:00Z",
       "content": "With Chrome 155, Googlebooks now better support web apps by allowing for expanded installation and system integration.\r\nPreviously, Chrome on Googlebooks (which is the Android version with desktop-le… [+1700 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Dan Thorp-Lancaster",
-      "title": "Should you switch back to wired headphones? Here's why Kylie Jenner and other celebrities are doing so - Yahoo Tech",
-      "description": "Why are so many celebrities using wired headphones? It's not because your AirPods aren't secure.",
-      "url": "https://tech.yahoo.com/audio/article/should-you-switch-back-to-wired-headphones-heres-why-kylie-jenner-and-other-celebrities-are-doing-so-203447708.html",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/52517493a4e391d6188fdb0d258036fd0cff3396ff8243c163f621faf33d88b5/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-10%2F9d34f880-0069-423a-9b8a-4262b2d92006",
-      "publishedAt": "2026-10-13T20:34:47Z",
-      "content": "If you're old like me (or an aging millennial, anyway), you may have noticed a weird tech trend lately wired headphones are making a comeback. Everyone from Kylie Jenner and Hailey Bieber\r\n to Ariana… [+3073 chars]"
     },
     {
       "source": {
@@ -628,16 +758,16 @@
     },
     {
       "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
+        "id": "ars-technica",
+        "name": "Ars Technica"
       },
-      "author": "Sarah Perez",
-      "title": "Google Play now lets anyone build private, vibe-coded apps that run on Android - TechCrunch",
-      "description": "Google is making it easier to build and use personal Android apps created with AI, without having to make them available to everyone on the Play Store.",
-      "url": "https://techcrunch.com/2026/10/13/google-play-now-supports-private-vibe-coded-apps-built-just-for-you/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/10/PersonalApps_desktop_16x9_Static.png?resize=1200,675",
-      "publishedAt": "2026-10-13T17:00:00Z",
-      "content": "Your vibe-coded applications can now be easily run on Android smartphones without having to first go public on the Google Play Store, the tech giant announced on Tuesday. A new feature will allow use… [+3429 chars]"
+      "author": "Ryan Whitwam",
+      "title": "Google wants to host your personal vibe-coded apps in the Play Store - Ars Technica",
+      "description": "Google plans to help turn those personal AI-generated apps into wide releases.",
+      "url": "https://arstechnica.com/google/2026/10/google-wants-to-host-your-personal-vibe-coded-apps-in-the-play-store/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/play-store-1152x648.jpg",
+      "publishedAt": "2026-10-13T17:00:39Z",
+      "content": null
     },
     {
       "source": {
@@ -655,41 +785,15 @@
     {
       "source": {
         "id": null,
-        "name": "The Drive"
+        "name": "TechSpot"
       },
-      "author": "Jerry Perez",
-      "title": "This 245-HP Farm Tractor Just Set a Lap Record at the Red Bull Ring - The Drive",
-      "description": "The sleek-looking tractor is powered by a 7.5-liter six-cylinder engine with 245 hp and enough torque to tow a planet.",
-      "url": "https://www.thedrive.com/news/this-245-hp-farm-tractor-just-set-a-lap-record-at-the-red-bull-ring",
-      "urlToImage": "https://www.thedrive.com/wp-content/uploads/2026/10/Screenshot-2026-10-12-at-9.10.50-PM.png?quality=85&w=1200",
-      "publishedAt": "2026-10-13T15:05:00Z",
-      "content": "The Drive your inbox. Every weekday\r\nThe Daily Brief wraps up the biggest stories and our exclusive reporting on the auto industry and car culture.\r\nTractors aren’t known for their speed or agility, … [+1481 chars]"
-    },
-    {
-      "source": {
-        "id": "ign",
-        "name": "IGN"
-      },
-      "author": "Len Hafer",
-      "title": "Planet Zoo 2 Review - IGN",
-      "description": "A vibrant and thriving sequel full of lovely visual upgrades and expanded mechanics.",
-      "url": "https://www.ign.com/articles/planet-zoo-2-review",
-      "urlToImage": "https://assets-prd.ignimgs.com/2026/10/12/planetzoo2-blogroll-1791838982729.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "publishedAt": "2026-10-13T12:00:00Z",
-      "content": "Running my dream menagerie in Planet Zoo is always going to feel a little different than the entertainment-focused spectacles of Planet Coaster or fantastical dino parks of Jurassic World Evolution. … [+7484 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Nintendo Life"
-      },
-      "author": "Ollie Reynolds",
-      "title": "Random: 2021 Elon Musk SNL Skit \"Was Not Received Well\" By Nintendo - Nintendo Life",
-      "description": "\"It was kind of out of left field\"",
-      "url": "https://www.nintendolife.com/news/2026/10/random-2021-elon-musk-snl-skit-was-not-received-well-by-nintendo",
-      "urlToImage": "https://images.nintendolife.com/c7ecc5e706006/1280x720.jpg",
-      "publishedAt": "2026-10-13T09:45:00Z",
-      "content": "@Olliemar28 I didn't say you specifically, so it's not besides the point, although that does show you didn't read any criticism properly.\r\nThere's barely a story here to begin with; this TV event hap… [+1982 chars]"
+      "author": "Julio Franco",
+      "title": "GTA 6 is reportedly coming to PC in Q1 2027, just months after consoles - TechSpot",
+      "description": "Rockstar plans to release the PC version of Grand Theft Auto VI as soon as Q1 2027, according to a GamesBeat report citing four industry sources. Rockstar...",
+      "url": "https://www.techspot.com/news/114187-gta-6-reportedly-coming-pc-q1-2027-months.html",
+      "urlToImage": "https://www.techspot.com/images2/news/bigimage/2026/10/2026-10-13-image-15.jpg",
+      "publishedAt": "2026-10-13T16:02:00Z",
+      "content": "Crystal ball: Rockstar has always made PC players wait for its big releases, sometimes for a year or two. If a new report proves accurate, however, Grand Theft Auto VI could break that pattern. The r… [+2860 chars]"
     },
     {
       "source": {
@@ -781,58 +885,6 @@
       "urlToImage": "https://static01.nyt.com/images/2026/10/09/multimedia/09biz-anthropic-zptw/09biz-anthropic-zptw-mediumSquareAt3X.jpg",
       "publishedAt": "2026-10-10T18:01:21Z",
       "content": "The Philadelphia Police Department said the agents had also sent in a false homicide tip. The incidents led the White House to call for better disclosure of rogue A.I. behavior."
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "author": "Max Read, Whitney Jones, Vjeran Pavic, Alyssa Moxley, Dan Powell, Chris Wood, Diane Wong and Marion Lozano",
-      "title": "Anthropic’s Quest to Give A.I. Morals",
-      "description": "“For Anthropic, it was part research and part evangelism.”",
-      "url": "https://www.nytimes.com/2026/10/09/podcasts/hardfork-anthropic-ai-morals.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/10/09/podcasts/09hardfork-claude-conscious/09hardfork-claude-conscious-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-10-09T11:01:21Z",
-      "content": "“For Anthropic, it was part research and part evangelism.”"
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "author": "Eli Tan",
-      "title": "Inside Mark Zuckerberg’s Decision to Pull the Trigger on Meta’s A.I. Agent",
-      "description": "Meta had delayed releasing Muse, its A.I. agent app, for months over safety concerns. Then new competition forced Mr. Zuckerberg’s hand.",
-      "url": "https://www.nytimes.com/2026/10/09/technology/inside-mark-zuckerbergs-decision-to-pull-the-trigger-on-metas-ai-agent.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/10/07/multimedia/META-MUSE-1-bwvl/META-MUSE-1-bwvl-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-10-09T09:03:46Z",
-      "content": "Meta had delayed releasing Muse, its A.I. agent app, for months over safety concerns. Then new competition forced Mr. Zuckerberg’s hand."
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "author": "Alissa Wilkinson",
-      "title": "In Alex Gibney’s ‘Musk’, the Answer to the Trillionaire’s Power Is Unsatisfying.",
-      "description": "Alex Gibney’s nearly four-hour documentary is deeply researched. But because the mogul has long been in the spotlight, little is new.",
-      "url": "https://www.nytimes.com/2026/10/09/movies/musk-documentary-alex-gibney.html",
-      "urlToImage": null,
-      "publishedAt": "2026-10-09T09:03:28Z",
-      "content": "Alex Gibney’s nearly four-hour documentary is deeply researched. But because the mogul has long been in the spotlight, little is new."
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "author": "Sarah Bahr",
-      "title": "What to Know About the Facebook Whistle-Blowing Case Depicted in ‘The Social Reckoning’",
-      "description": "Aaron Sorkin’s sort-of sequel to the 2010 “Social Network” dramatizes a whistle-blowing case at Facebook. Here’s what to know.",
-      "url": "https://www.nytimes.com/2026/10/09/arts/the-social-reckoning-movie-meta-facebook-mark-zuckerberg.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/10/09/multimedia/09cul-reckoning-explainer-01-zjvh/09cul-reckoning-explainer-01-zjvh-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-10-09T09:01:00Z",
-      "content": "Aaron Sorkin’s sort-of sequel to the 2010 “Social Network” dramatizes a whistle-blowing case at Facebook. Here’s what to know."
     }
   ]
 }

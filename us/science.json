@@ -1,7 +1,33 @@
 {
   "status": "ok",
-  "totalResults": 81,
+  "totalResults": 82,
   "articles": [
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Elisabeth Bumiller",
+      "title": "‘I’m on a War Footing’: Terry Tao and the Crisis in Math",
+      "description": "The Fields Medalist and celebrated mathematician is on the front lines of a debate about artificial intelligence and the future of his field.",
+      "url": "https://www.nytimes.com/2026/10/16/us/math-ai-terence-tao.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/10/14/us/dc-tao/dc-tao-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-10-16T12:51:55Z",
+      "content": "The Fields Medalist and celebrated mathematician is on the front lines of a debate about artificial intelligence and the future of his field."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Eric Boodman",
+      "title": "Citizen Science Groups Grapple With the Rise of A.I. Slop",
+      "description": "Facing a flood of A.I. slop, groups bent on democratizing science create new checks and balances.",
+      "url": "https://www.nytimes.com/2026/10/16/science/citizen-science-ai-slop.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/10/16/science/16SCI-AI-SLOP/16SCI-AI-SLOP-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-10-16T09:02:58Z",
+      "content": "Facing a flood of A.I. slop, groups bent on democratizing science create new checks and balances."
+    },
     {
       "source": {
         "id": "the-new-york-times",
@@ -30,16 +56,16 @@
     },
     {
       "source": {
-        "id": "al-jazeera-english",
-        "name": "Al Jazeera English"
+        "id": "cnn",
+        "name": "CNN"
       },
-      "author": "Priyanka Shankar",
-      "title": "Clock ticking for leap second: Why timekeeping could change forever - Al Jazeera",
-      "description": "Timekeepers add a leap second occasionally to keep our clocks and the Earth’s rotation in tune. That could now change.",
-      "url": "https://www.aljazeera.com/news/2026/10/15/clock-ticking-for-leap-second-why-timekeeping-could-change-forever",
-      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/10/INTERACTIVE-poster-image-leap-second-1792044493.png?resize=1200%2C630",
-      "publishedAt": "2026-10-15T07:24:33Z",
-      "content": "The worlds timekeepers are meeting on Thursday near Paris to decide whether to scrap the leap second, which could disconnect the clocks we use from the Earths rotation and realign timescales.\r\nThe wo… [+5121 chars]"
+      "author": "Laura Paddison",
+      "title": "Scientists find Doomsday Glacier is melting ‘more aggressively’ than thought, with big impacts for sea level rise - CNN",
+      "description": "The planet’s widest glacier could contribute twice as much to global sea level rise as currently projected, according to new research by glaciologists.",
+      "url": "https://www.cnn.com/2026/10/15/climate/thwaites-melt-study-doomsday-glacier",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/thwaites-main-1280px-90.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2026-10-15T09:36:18Z",
+      "content": "The planets widest glacier is melting more aggressively than previously projected, meaning its impacts on global sea level rise could be double current estimates, according to new research by a team … [+5029 chars]"
     },
     {
       "source": {
@@ -60,12 +86,38 @@
         "name": "Phys.Org"
       },
       "author": null,
+      "title": "Green, pink and purple: Astronomers reveal the surprising true colors of white dwarf stars - Phys.org",
+      "description": "University of Warwick astronomers have shown that white dwarf stars can glow in a range of colors, including the first star ever found that would appear green to the human eye.",
+      "url": "https://phys.org/news/2026-10-green-pink-purple-astronomers-reveal.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/green-pink-and-purple.jpg",
+      "publishedAt": "2026-10-15T00:10:01Z",
+      "content": "University of Warwick astronomers have shown that white dwarf stars can glow in a range of colors, including the first star ever found that would appear green to the human eye.\r\nFor most stars, color… [+6290 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Phys.Org"
+      },
+      "author": null,
       "title": "NASA develops batteries to power humanity's return to moon - Phys.org",
       "description": "If you've ever had your car start sluggishly, or not at all, on a particularly frigid winter morning, you know standard batteries do not like extreme cold. That's why NASA researchers are working to develop a battery that could function in the brutal cold of …",
       "url": "https://phys.org/news/2026-10-nasa-batteries-power-humanity-moon.html",
       "urlToImage": "https://scx2.b-cdn.net/gfx/news/2026/yi-lin-spears-testing.jpg",
       "publishedAt": "2026-10-14T23:40:02Z",
       "content": "If you've ever had your car start sluggishly, or not at all, on a particularly frigid winter morning, you know standard batteries do not like extreme cold. That's why NASA researchers are working to … [+5558 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Phys.Org"
+      },
+      "author": null,
+      "title": "A trip to Mars could come at a heartbreaking cost - Phys.org",
+      "description": "When astronauts first travel to Mars or anywhere else in deep space, they will have to contend with two problems that our planet protects us from on its surface—radiation and weightlessness. Scientists already know both can have a profound impact on the human…",
+      "url": "https://phys.org/news/2026-10-mars-heartbreaking.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/2026/a-trip-to-mars-could-b.jpg",
+      "publishedAt": "2026-10-14T23:00:01Z",
+      "content": "When astronauts first travel to Mars or anywhere else in deep space, they will have to contend with two problems that our planet protects us from on its surfaceradiation and weightlessness. Scientist… [+7141 chars]"
     },
     {
       "source": {
@@ -86,6 +138,19 @@
         "name": "Nature.com"
       },
       "author": null,
+      "title": "Catalytic transfer of carbon atoms enables spirofusion of C–C σ-bonds - Nature",
+      "description": "Nature - Catalytic transfer of carbon atoms enables spirofusion of C–C σ-bonds",
+      "url": "https://www.nature.com/articles/s41586-026-11242-8.pdf",
+      "urlToImage": null,
+      "publishedAt": "2026-10-14T22:55:28Z",
+      "content": "Spirocyclic frameworks, polycyclic structures in which two rings share a single carbon atom, constitute key structural motifs across diverse areas, including optoelectronic and hole-transporting mate… [+1181 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Nature.com"
+      },
+      "author": null,
       "title": "Early tetrapod neck mobility modelled using an extant analogue - Nature",
       "description": "Biomechanical analysis of several early tetrapods using sturgeon as an analogue revealed that early tetrapods&nbsp;had limited neck mobility despite separation of the head and shoulders.",
       "url": "https://www.nature.com/articles/s41586-026-11158-3",
@@ -96,15 +161,15 @@
     {
       "source": {
         "id": null,
-        "name": "ScienceAlert"
+        "name": "Phys.Org"
       },
-      "author": "Carly Cassella",
-      "title": "A Rock Dragged 90 Km Into Earth Came Back With a Temperature Story That Breaks The Models - ScienceAlert",
-      "description": "Scientists have discovered a mysterious rock in eastern Papua New Guinea that traveled to the underworld roughly 4.4 million years ago.",
-      "url": "https://www.sciencealert.com/a-rock-dragged-90-km-into-earth-came-back-with-a-temperature-story-that-breaks-the-models",
-      "urlToImage": "https://www.sciencealert.com/images/2026/10/RockUnderworld.jpg",
-      "publishedAt": "2026-10-14T21:00:37Z",
-      "content": "Scientists have discovered a mysterious rock in eastern Papua New Guinea that traveled to the underworld roughly 4.4 million years ago.\r\nThe story it has to tell is strange indeed.\r\nAs the rock journ… [+4182 chars]"
+      "author": null,
+      "title": "How E. coli eavesdrops on the metabolic activity of other gut bacteria - Phys.org",
+      "description": "The gut microbiome is teeming with hundreds of bacterial species and trillions of bacteria. These microorganisms influence many aspects of health, including digestion, and assist with numerous functions in the body. Gut bacteria compete for the limited nutrie…",
+      "url": "https://phys.org/news/2026-10-coli-eavesdrops-metabolic-gut-bacteria.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/how-escherichia-coli-e.jpg",
+      "publishedAt": "2026-10-14T21:40:05Z",
+      "content": "The gut microbiome is teeming with hundreds of bacterial species and trillions of bacteria. These microorganisms influence many aspects of health, including digestion, and assist with numerous functi… [+6208 chars]"
     },
     {
       "source": {
@@ -161,28 +226,41 @@
     {
       "source": {
         "id": null,
-        "name": "SFGate"
+        "name": "Phys.Org"
       },
-      "author": "Anna FitzGerald Guth",
-      "title": "Stanford discovers way to save ghostly corals from the brink - SFGATE",
-      "description": "This year's El Niño, which is driving up temperatures in the Pacific Ocean to near-record highs, poses a real threat to fragile corals.",
-      "url": "https://www.sfgate.com/bayarea/article/stanford-coral-study-22475321.php",
-      "urlToImage": "https://s.hdnux.com/photos/01/67/47/40/31356930/3/rawImage.jpg",
-      "publishedAt": "2026-10-14T18:03:18Z",
-      "content": "FILE: An underwater shot of a vivid coral reef.\r\nmihtiander/Getty Images/iStockphoto\r\nFor decades, scientists have been anxiously watching corals across the globe turn ghostly white. Heat in the ocea… [+2527 chars]"
+      "author": null,
+      "title": "Superheavy-element compound reveals weaker-than-expected bond due to relativistic effects - Phys.org",
+      "description": "An international collaboration led by a research group from GSI/FAIR in Darmstadt, Germany, has achieved the first measurement of the chemical stability of a superheavy element compound.",
+      "url": "https://phys.org/news/2026-10-superheavy-element-compound-reveals-weaker.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/2026/chemical-bond-of-a-sup.jpg",
+      "publishedAt": "2026-10-14T19:40:02Z",
+      "content": "An international collaboration led by a research group from GSI/FAIR in Darmstadt, Germany, has achieved the first measurement of the chemical stability of a superheavy element compound.\r\nThe focus w… [+6746 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Gizmodo.com"
+        "name": "PCMag.com"
       },
-      "author": "Passant Rabie",
-      "title": "Ocean Water Is Seeping Under the Doomsday Glacier—and Its Sea-Level Threat Just Doubled - Gizmodo",
-      "description": "A new model suggests the Thwaites Glacier could contribute twice as much sea-level rise.",
-      "url": "https://gizmodo.com/ocean-water-is-seeping-under-the-doomsday-glacier-and-its-sea-level-threat-just-doubled-2000825851",
-      "urlToImage": "https://gizmodo.com/app/uploads/2022/01/d1b9867babd2bcf90b3237737cf52ffb.jpg",
-      "publishedAt": "2026-10-14T17:55:24Z",
-      "content": "One of Earth’s most dangerous glaciers is emerging as a potentially greater driver of future sea-level rise than previously understood.\r\nA team of glaciologists at the University of California and NA… [+3210 chars]"
+      "author": "Michael Kan",
+      "title": "Starlink's Gen 3 System Faces Opposition From Radio Astronomers - PCMag",
+      "description": "The federally-funded National Radio Astronomy Observatory says SpaceX's application for a third-gen Starlink constellation spanning 100,000 satellites should be 'withdrawn.'",
+      "url": "https://www.pcmag.com/news/starlinks-gen-3-system-faces-opposition-from-radio-astronomers",
+      "urlToImage": "https://i.pcmag.com/imagery/articles/06i0jxD9PtkXqjQZu5pW81d-1.fit_lim.size_1200x630.v1791993385.jpg",
+      "publishedAt": "2026-10-14T19:30:17Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Live Science"
+      },
+      "author": "Patrick Pester",
+      "title": "Ancient Indigenous people in New Mexico lived through extreme climate change 23,000 years ago, study suggests - Live Science",
+      "description": "Researchers have revealed the climate that some of the first people in North America experienced around 23,000 years ago, during the Last Glacial Maximum.",
+      "url": "https://www.livescience.com/archaeology/americas/ancient-indigenous-people-in-new-mexico-lived-through-extreme-climate-change-23-000-years-ago-study-suggests",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/z5aPj8bYiiSUoMcgDyba7D-2560-80.jpg",
+      "publishedAt": "2026-10-14T18:19:41Z",
+      "content": null
     },
     {
       "source": {
@@ -235,19 +313,6 @@
       "urlToImage": "https://cdn.newser.com/image/1717910-12-20261014111848.jpeg",
       "publishedAt": "2026-10-14T16:01:00Z",
       "content": "Over time, however, a few hardy grasses move in, packed with nutrients that draw hungry grazers—and their waste—back to the site. The effects were still visible near the oldest carcasses surveyed, su… [+301 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Phys.Org"
-      },
-      "author": "Phys.org",
-      "title": "Rocks from hydrothermal vents can spontaneously combust, posing potential risks for deep-sea mining operations - Phys.org",
-      "description": null,
-      "url": "https://phys.org/news/2026-10-hydrothermal-vents-spontaneously-combust-posing.html",
-      "urlToImage": null,
-      "publishedAt": "2026-10-14T15:30:08Z",
-      "content": null
     },
     {
       "source": {
@@ -343,6 +408,19 @@
     {
       "source": {
         "id": null,
+        "name": "Live Science"
+      },
+      "author": "Harry Baker",
+      "title": "One of America's biggest meteor craters is 100 million years younger than we thought — and coincided with a global extinction event - Live Science",
+      "description": "Analysis of tiny zircon crystals buried within the 10-mile-wide Ames crater in northwest Oklahoma suggests that the submerged structure dates back to 370 million years ago, during the Frasnian-Famennian mass extinction event.",
+      "url": "https://www.livescience.com/planet-earth/geology/one-of-americas-biggest-meteor-craters-is-100-million-years-younger-than-we-thought-and-coincided-with-a-global-extinction-event",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/ibG5pxKimhWSRRMtyay2AC-2400-80.jpg",
+      "publishedAt": "2026-10-14T13:08:09Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
         "name": "Phys.Org"
       },
       "author": "Andrew Zinin",
@@ -369,6 +447,19 @@
     {
       "source": {
         "id": null,
+        "name": "The Conversation Africa"
+      },
+      "author": "Orin Lole Durbin, Ross Anderson",
+      "title": "Animal life may be far older than its most ancient fossils – here’s how we uncovered its hidden history - The Conversation",
+      "description": "Scientists have long debated how old animal life is.",
+      "url": "https://theconversation.com/animal-life-may-be-far-older-than-its-most-ancient-fossils-heres-how-we-uncovered-its-hidden-history-294017",
+      "urlToImage": "https://images.theconversation.com/files/765778/original/file-20261013-50-1juoir.jpg?ixlib=rb-4.1.1&rect=0%2C84%2C6144%2C3072&q=45&auto=format&w=1356&h=668&fit=crop",
+      "publishedAt": "2026-10-14T11:46:09Z",
+      "content": "The question of when animals first evolved is one that has confounded scientists since the time of Charles Darwin. Studying rocks in north Wales in the mid-18th century, Darwin found the sudden first… [+4643 chars]"
+    },
+    {
+      "source": {
+        "id": null,
         "name": "Phys.Org"
       },
       "author": "Ingrid Fadelli",
@@ -378,6 +469,19 @@
       "urlToImage": "https://scx2.b-cdn.net/gfx/news/2026/a-new-approach-for-che.jpg",
       "publishedAt": "2026-10-14T11:00:01Z",
       "content": "Quantum networks are systems that connect different users or devices using principles of quantum mechanics. In the future, these networks could help improve the security of communications.\r\nFor entan… [+7709 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Medium"
+      },
+      "author": "Avi Loeb",
+      "title": "The Technological Zone is Closer to Stars Than Superhabitable Exoplanets - Avi Loeb – Medium",
+      "description": "If you live in a house, one out of billions of other houses on your street, it is most likely that you do not have the best living…",
+      "url": "https://avi-loeb.medium.com/the-technological-zone-is-closer-to-stars-than-superhabitable-exoplanets-34415ea9311a",
+      "urlToImage": "https://miro.medium.com/v2/resize:fit:627/1*ufmXzxATGwAhjOVvYFrxlA.jpeg",
+      "publishedAt": "2026-10-14T10:19:36Z",
+      "content": "(Image credit: Greg Wyatt)\r\nIf you live in a house, one out of billions of other houses on your street, it is most likely that you do not have the best living conditions. This logic should apply to h… [+7072 chars]"
     },
     {
       "source": {
@@ -394,16 +498,16 @@
     },
     {
       "source": {
-        "id": "google-news",
-        "name": "Google News"
+        "id": null,
+        "name": "Phys.Org"
       },
-      "author": "Phys.org",
+      "author": null,
       "title": "Trailblazing technique uncovers real shape of scorching-hot exoplanet atmospheres - Phys.org",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNdWNlNUYzZmNVcUNucU02c0FmVDRadGI4Wnh3djNpN2xyTUh3ZEdsN2J3N2g3UlV0Y3dWbWZfN3drNS1zSlZxM2VCYUJzaVFGdkRIYnRCVXNveldSMWZCRmRqUUxyejdWWW1YMk5fLUxPaFZmQ3BTQW1ONThxZXBHZQ?oc=5",
-      "urlToImage": null,
+      "description": "Until now, the alien white-hot worlds of exoplanets have been depicted as circular, but new research has revealed the true shape of their atmospheres to be a deformed sphere rather than a perfect circle.",
+      "url": "https://phys.org/news/2026-10-trailblazing-technique-uncovers-real-hot.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/trailblazing-technique.jpg",
       "publishedAt": "2026-10-14T09:00:18Z",
-      "content": null
+      "content": "Until now, the alien white-hot worlds of exoplanets have been depicted as circular, but new research has revealed the true shape of their atmospheres to be a deformed sphere rather than a perfect cir… [+5225 chars]"
     },
     {
       "source": {
@@ -463,64 +567,12 @@
         "name": "Phys.Org"
       },
       "author": null,
-      "title": "Scientists discover 'D-rex', a giant fungus from Chinese forests whose unique lineage dates back 65 million years - Phys.org",
-      "description": "Deep in the forests of Yunnan, China, scientists have discovered a \"fungal giant\" that challenges our understanding of how large fungi can become. The newly described species, Dianjunus rex, produces vertical fruiting bodies up to 50 cm (20 inches) high and w…",
-      "url": "https://phys.org/news/2026-10-scientists-d-rex-giant-fungus.html",
-      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/scientists-discover-d.jpg",
-      "publishedAt": "2026-10-13T23:20:10Z",
-      "content": "Deep in the forests of Yunnan, China, scientists have discovered a \"fungal giant\" that challenges our understanding of how large fungi can become. The newly described species, Dianjunus rex, produces… [+4866 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ScienceAlert"
-      },
-      "author": "Jess Cockerill",
-      "title": "Dogs Seem to Agree With Humans That 'Bouba' Is Round And 'Kiki' Is Spiky - ScienceAlert",
-      "description": "Picture a shape called 'Bouba'.",
-      "url": "https://www.sciencealert.com/dogs-seem-to-agree-with-humans-that-bouba-is-round-and-kiki-is-spiky",
-      "urlToImage": "https://www.sciencealert.com/images/2026/10/GettyImages-597067015-2560x1440-1.jpg",
-      "publishedAt": "2026-10-13T23:00:36Z",
-      "content": "Picture a shape called 'Bouba'. What features does it have? Is it angular, rounded, soft, hard? What about a shape called 'Kiki'? \r\nThere's no correct answer to this the words are made up. But for so… [+3738 chars]"
-    },
-    {
-      "source": {
-        "id": "associated-press",
-        "name": "Associated Press"
-      },
-      "author": "Philip Marcelo",
-      "title": "Rare fossil of T. rex cousin goes on display in New York before heading to auction - AP News",
-      "description": "A fossilized, distant cousin of Tyrannosaurus rex is on display at a Manhattan auction house ahead of its Oct. 27 auction. The Nanotyrannus nicknamed “Jodi” opened for public viewing Tuesday in the lobby of Sotheby’s headquarters on the Upper East Side. Stand…",
-      "url": "https://apnews.com/article/dinosaur-fossil-auction-nanotyrannus-new-york-29c0d5d21c1c0caa25c04af16f1fe884",
-      "urlToImage": "https://dims.apnews.com/dims4/default/a7ed671/2147483647/strip/true/crop/5930x3951+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F97%2Fb0%2F229358819d174539e351bf29f6a6%2Ff0528cfc31444e1b9d26a7a1cac00dd0",
-      "publishedAt": "2026-10-13T22:01:00Z",
-      "content": "NEW YORK (AP) On quick glance, the fossil unveiled Tuesday at a Manhattan auction house looks like an undersized Tyrannosaurus rex, with its signature gaping jaw filled with razor sharp teeth. But th… [+4395 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Phys.Org"
-      },
-      "author": null,
       "title": "Could meditation reveal an SU(3) symmetry shared by the observer and the universe? - Phys.org",
       "description": "You sit down to meditate. A conversation returns, then thoughts. You bring your attention back to the breath. Sometimes, after many such returns, the effort eases. Thoughts lose their urgency, while awareness remains clear. Less occupies the mind, yet the mom…",
       "url": "https://phys.org/news/2026-10-meditation-reveal-su3-symmetry-universe.html",
       "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/could-meditation-revea.jpg",
       "publishedAt": "2026-10-13T21:40:08Z",
       "content": "You sit down to meditate. A conversation returns, then thoughts. You bring your attention back to the breath. Sometimes, after many such returns, the effort eases. Thoughts lose their urgency, while … [+8428 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Space.com"
-      },
-      "author": "Hanneke Weitering, Tariq Malik",
-      "title": "On this day in space! Oct. 13, 1773: Astronomer Charles Messier discovers the Whirlpool Galaxy before we ever knew it was a galaxy - Space",
-      "description": "The Whirlpool Galaxy is a textbook example of a spiral galaxy, but it didn't look like one when it was found.",
-      "url": "https://www.space.com/space-exploration/on-this-day-in-space-october-13-2026",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/HysbXdLLrhsSef2Qzd4BJW-1920-80.jpg",
-      "publishedAt": "2026-10-13T21:00:00Z",
-      "content": null
     },
     {
       "source": {
@@ -551,15 +603,15 @@
     {
       "source": {
         "id": null,
-        "name": "Phys.Org"
+        "name": "Good News Network"
       },
-      "author": null,
-      "title": "Winged insect evolution: New evidence sheds light on century-old debate - Phys.org",
-      "description": "A new study combining genomic analyses and fossil evidence sheds light on the century-old \"Palaeoptera Problem,\" a longstanding debate over the evolutionary relationships among major groups of winged insects.",
-      "url": "https://phys.org/news/2026-10-winged-insect-evolution-evidence-century.html",
-      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/genomic-and-fossil-evi.jpg",
-      "publishedAt": "2026-10-13T18:20:13Z",
-      "content": "A new study combining genomic analyses and fossil evidence sheds light on the century-old \"Palaeoptera Problem,\" a longstanding debate over the evolutionary relationships among major groups of winged… [+5279 chars]"
+      "author": "Andy Corbley",
+      "title": "Scientists Shocked to Discover ‘D-rex’, a Giant Fungus from Chinese Forests Dating Back 65 Million Years - Good News Network",
+      "description": "The newly described species, Dianjunus rex, or \"King of Dian,\" named for an ancient Chinese kingdom, produces fruits up to 20 inches tall.",
+      "url": "https://www.goodnewsnetwork.org/scientists-shocked-to-discover-d-rex-a-giant-fungus-from-chinese-forests-dating-back-65-million-years/",
+      "urlToImage": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/pictured-the-stromata-of-Dianjunus-rex-in-the-field.jpg",
+      "publishedAt": "2026-10-13T18:30:53Z",
+      "content": "– pictured, the stromata of Dianjunus rex in the field / doi: 10.3389/ffunb.2026.1940464\r\nDeep in the forests of southwest China, scientists have discovered a fungal giant that challenges our underst… [+5468 chars]"
     },
     {
       "source": {
@@ -706,19 +758,6 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "Rutherford Daily Voice"
-      },
-      "author": "Joe Lombardi",
-      "title": "October’s Meteor Show Returns: How To Catch The Orionids' Peak Performance - DailyVoice.com",
-      "description": "One of autumn’s signature meteor showers is approaching its peak, but catching its brightest moments will take more than a quick glance outside. \nThe Orionids peak overnight Wednesday, Oct. 21, into …",
-      "url": "https://dailyvoice.com/article/octobers-meteor-show-returns-how-to-catch-the-orionids-peak-performance/",
-      "urlToImage": "https://edge.dailyvoice.com/upload/NASA.JPL.Orionids.png?width=1280",
-      "publishedAt": "2026-10-13T10:23:01Z",
-      "content": "The Orionids peak overnight Wednesday, Oct. 21, into Thursday, Oct. 22, NASA says. Known for their speed and brightness, the meteors can leave glowing trails and occasionally produce brilliant fireba… [+1894 chars]"
-    },
-    {
-      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -742,19 +781,6 @@
       "urlToImage": null,
       "publishedAt": "2026-10-13T09:01:47Z",
       "content": "Flight was probably more widespread in dinosaurs than previously thought. A newly identified species sheds light on how some achieved liftoff."
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Phys.Org"
-      },
-      "author": null,
-      "title": "Gravity and quantum information linked through a derivation of Einstein's equations - Phys.org",
-      "description": "Recent research shows that gravity and quantum information are deeply connected and that the shape of spacetime can be traced back to the way information is stored in quantum fields.",
-      "url": "https://phys.org/news/2026-10-gravity-quantum-linked-derivation-einstein.html",
-      "urlToImage": "https://scx2.b-cdn.net/gfx/news/2026/new-research-links-gra.jpg",
-      "publishedAt": "2026-10-12T23:20:01Z",
-      "content": "Sketch of a local region , faintly shaded in gray, endowed with a local Rindler horizon, consisting of the null hypersurfaces and intersecting at the horizon cross section . Within , is affinely para… [+8280 chars]"
     },
     {
       "source": {
@@ -794,6 +820,19 @@
       "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/dark-energy.jpg",
       "publishedAt": "2026-10-12T17:40:14Z",
       "content": "For many years, the simplest view of dark energy has been that it remains unchanged. Throughout cosmic history, the mysterious ingredient believed to drive the universe's accelerated expansion is tho… [+9177 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Phys.Org"
+      },
+      "author": null,
+      "title": "Physics Nobel highlights Antarctica's role in exploring the cosmos - Phys.org",
+      "description": "When Belgian American particle physicist Francis Halzen was awarded the 2026 Nobel Prize in physics \"for decisive contributions to the IceCube Neutrino Observatory and the discovery of high-energy neutrinos of astrophysical origin,\" it was a reminder that for…",
+      "url": "https://phys.org/news/2026-10-physics-nobel-highlights-antarctica-role.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/a-building-with-a-towe.jpg",
+      "publishedAt": "2026-10-12T17:20:01Z",
+      "content": "When Belgian American particle physicist Francis Halzen was awarded the 2026 Nobel Prize in physics \"for decisive contributions to the IceCube Neutrino Observatory and the discovery of high-energy ne… [+8611 chars]"
     },
     {
       "source": {
@@ -901,19 +940,6 @@
     },
     {
       "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": "The Weather Channel",
-      "title": "Lake Vostok: The ancient lake no one on Earth has ever seen - The Weather Channel",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPNzV5aWVubzg0MjJhRkU5YlJmZ1hyYmt2MkhEUzhOWnpfY1A3aUJ2QkQxZ0VnbXZrRW1NLV80SVdya21reHY1aTBsOEt5cEFEMDVjLWdmeDZTVEF5Q29Ga3hwX1dNdERxZVBrcXRsX0phQmhsUGhORDlqQTVUTjdmNzNCalVVVUU0bW9JVWp2a3dGQlEwMkkwY3BycXFmQQ?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2026-10-11T11:00:00Z",
-      "content": null
-    },
-    {
-      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -924,6 +950,19 @@
       "urlToImage": "https://static01.nyt.com/images/2026/10/11/science/11SCI-CONVERSATION-VIKINGS-stillpromo/11SCI-CONVERSATION-VIKINGS-stillpromo-mediumSquareAt3X.jpg",
       "publishedAt": "2026-10-11T09:00:35Z",
       "content": "“The Sea-King and the Sorceress” examines the lives and deaths of the diverse people who called themselves Vikings."
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ScienceAlert"
+      },
+      "author": "Carly Cassella",
+      "title": "Scientists Collected Deep-Sea Rocks. They Spontaneously Caught Fire in The Lab. - Yahoo",
+      "description": "What strange physics.",
+      "url": "https://www.sciencealert.com/scientists-collected-deep-sea-rocks-they-spontaneously-caught-fire-in-the-lab",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/6871fdd6aec3655fc183075c78e67692e95feec33b2c38e5f163e6d4724f8bed/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsciencealert_160%2F73ea1433d0ca11c1e7fdb56e0e9774d3.jpg",
+      "publishedAt": "2026-10-11T00:00:00Z",
+      "content": "Scientists investigating the possibility of a 'gold rush' on the bottom of the ocean have hit upon an unforeseen 'landmine'.\r\nResearchers at the United States Geological Survey (USGS) are now warning… [+4779 chars]"
     },
     {
       "source": {
@@ -992,19 +1031,6 @@
     },
     {
       "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "author": "Gina Kolata",
-      "title": "Cancer Vaccines Are the N.I.H.’s Next ‘Big Bet’",
-      "description": "New details have emerged about an initiative that starts in December to fast-track the vaccines, similar to the successful push for the Covid-19 vaccine.",
-      "url": "https://www.nytimes.com/2026/10/09/science/cancer-vaccines-nih-big-bet.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/10/09/science/09sci-speedy-vaccines/09sci-speedy-vaccines-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-10-09T20:26:30Z",
-      "content": "New details have emerged about an initiative that starts in December to fast-track the vaccines, similar to the successful push for the Covid-19 vaccine."
-    },
-    {
-      "source": {
         "id": null,
         "name": "Live Science"
       },
@@ -1014,19 +1040,6 @@
       "url": "https://www.livescience.com/technology/cool-chemistry-trick-allows-new-tattoos-to-turn-on-and-off",
       "urlToImage": "https://cdn.mos.cms.futurecdn.net/M6f4fGcXbRNUcvRWoZqavg-1920-80.jpg",
       "publishedAt": "2026-10-09T15:00:00Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": "CNN",
-      "title": "These origami-inspired rover wheels could help explore the moon’s lava tubes - CNN",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQaUx1X3czdUNuWUt1WThBVUIwUEJuN2VqQW4wY3hGTXZTZDNTV1ZqSTNCQUJ0TzRYSlQ5TjlvMl9fVkdzeXd3aERTYlhFT0M1M1VLeV9mZTRNV1E0ZGZTQ0pJU2VzOE5CUkZHUHppbG9nTWdVdnRVYVRic0twdDRvaHptMUdjbVJmcllvSQ?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2026-10-09T01:30:00Z",
       "content": null
     },
     {

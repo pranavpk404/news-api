@@ -1,7 +1,20 @@
 {
   "status": "ok",
-  "totalResults": 82,
+  "totalResults": 86,
   "articles": [
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Jeré Longman",
+      "title": "A Reporter Who Saw Covid Coming Has Died",
+      "description": "Helen Branswell recognized the threat of the pandemic ahead of the vast majority of journalists and even medical experts. She was 69.",
+      "url": "https://www.nytimes.com/2026/10/17/health/helen-branswell-dead.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/10/16/multimedia/16obit-branswell-lkhw/16obit-branswell-lkhw-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-10-17T17:17:00Z",
+      "content": "Helen Branswell recognized the threat of the pandemic ahead of the vast majority of journalists and even medical experts. She was 69."
+    },
     {
       "source": {
         "id": "the-new-york-times",
@@ -51,7 +64,7 @@
       "description": "Earth’s rotation subtly changes the length of the day. Now our clocks won’t change with it — at least not for a very long time.",
       "url": "https://www.nytimes.com/2026/10/16/science/leap-second-abolished-vote.html",
       "urlToImage": "https://static01.nyt.com/images/2026/10/16/16SCI-LEAP-SECOND-42587-cover/16SCI-LEAP-SECOND-42587-cover-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-10-16T20:13:01Z",
+      "publishedAt": "2026-10-16T20:13:02Z",
       "content": "Earth’s rotation subtly changes the length of the day. Now our clocks won’t change with it — at least not for a very long time."
     },
     {
@@ -69,6 +82,32 @@
     },
     {
       "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Jack Guy, Lauren Young",
+      "title": "Astronomers say they’ve discovered the first green star - CNN",
+      "description": "Astronomers analyzing white dwarf stars have found the first-ever star that would appear green to human eyes, according to a new study.",
+      "url": "https://www.cnn.com/2026/10/16/science/green-star-discovery-scli-intl",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/green-wd-credit-mark-garlick-university-of-warwick.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2026-10-16T16:45:36Z",
+      "content": "Astronomers analyzing white dwarf stars have for the first time found a star that would appear green to human eyes, according to a new study.\r\nWhile for most stars, color is temperature-dependent and… [+5407 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Discoverwildlife.com"
+      },
+      "author": "Daniel Graham",
+      "title": "'Ghost moose' footage shows huge, white animal wandering through forest - BBC Wildlife Magazine",
+      "description": "The videos of the white moose were captured in the Värmland region of Sweden.",
+      "url": "https://www.discoverwildlife.com/animal-facts/mammals/white-moose-varmland-sweden",
+      "urlToImage": "https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/9ac494a4-627d-4fea-a827-dcf588dd6f96/edc6076c-394a-4260-b601-780ff6ebbb51/thumbnails/5f7a7aee-feed-41ff-99e0-c351107db1cb.jpeg?appId=f347d34d-c1a6-4a00-b570-b78c2dcb3211&platform=WEB&w=1200",
+      "publishedAt": "2026-10-16T13:52:58Z",
+      "content": "A pure-white moose foraging within the lush undergrowth of a Swedish forest. It might sound like something from a fairy tale, but this mythical-looking creature is in fact very real.\r\nAccording to ex… [+847 chars]"
+    },
+    {
+      "source": {
         "id": "google-news",
         "name": "Google News"
       },
@@ -83,6 +122,19 @@
     {
       "source": {
         "id": null,
+        "name": "Esa.int"
+      },
+      "author": null,
+      "title": "Earth from Space: West Antarctica - European Space Agency",
+      "description": "This image over part of West Antarctica was captured by Copernicus Sentinel-3 on 30 September 2026.",
+      "url": "https://www.esa.int/ESA_Multimedia/Images/2026/10/Earth_from_Space_West_Antarctica",
+      "urlToImage": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/earth_from_space_west_antarctica/27579693-1-eng-GB/Earth_from_Space_West_Antarctica_pillars.jpg",
+      "publishedAt": "2026-10-16T08:15:03Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
         "name": "Discoverwildlife.com"
       },
       "author": "Oliver Hurley",
@@ -92,6 +144,19 @@
       "urlToImage": "https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/9ac494a4-627d-4fea-a827-dcf588dd6f96/2b27cdc1-f172-488a-87e6-3641a1726817/thumbnails/fd994a74-e5d5-4dce-a734-e759df21e455.png?appId=f347d34d-c1a6-4a00-b570-b78c2dcb3211&platform=WEB&w=1200",
       "publishedAt": "2026-10-16T08:09:38Z",
       "content": "A project to document endangered mammals in the Amazon has resulted in an incredibly rare video of a baby giant armadillo in the wild. The camera trap that captured the footage was set up by Amazon R… [+2251 chars]"
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "Spaceflight Now",
+      "title": "SpaceX launches a classified payload for U.S. Space Force - Spaceflight Now",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQbTJqVk80c3hvMk1tTlNiTUg4cTY1cmdQWjVGMllseTVuUExPQl9BWDFRVllnSjlYS1BkNDI1MVBVV0NlX3VFZFpDWDdjREN1VG9OTlJBaFhESGlpeHlVcFBNWEJzbkJFYUhnVmsySVhMZExONTA0MVlOWWJENV9FWU45ajJlVi1ZaklKdTlZLWR6THZDT2JTMGJvajdLeGpsUVlSZ2hYU181X1Q3?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2026-10-16T01:06:54Z",
+      "content": null
     },
     {
       "source": {
@@ -134,6 +199,32 @@
     },
     {
       "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "Phys.org",
+      "title": "New spectroscopy method enables direct comparisons of nuclear sizes across heavy elements - Phys.org",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQRVRXOTJLeVF6OHAyNS1XcjNUR2tPSGZaanNpalhHTWdTMzBvcFNrbEFVaDNHV1hRbnktaUNmXzRSeC1CRXhUaDlzdDEzcUhjSjdRSWwzVk9iQzVLd3F1SkwyNU1QWE5wdU5xLWJkdGdjU2J3WGhkMUxOcFVQMTIyN3Q1Z2pTOWtZSUE?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2026-10-15T23:00:01Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Phys.Org"
+      },
+      "author": null,
+      "title": "Electron density check offers better starting point for chemistry's most difficult metal molecules - Phys.org",
+      "description": "New materials and catalysts have the potential to transform everything from food production and medicine to batteries and stainless steel. Computer simulations help scientists narrow down promising candidates before testing them in a lab, but those simulation…",
+      "url": "https://phys.org/news/2026-10-electron-density-chemistry-difficult-metal.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/the-right-starting-pla.jpg",
+      "publishedAt": "2026-10-15T22:00:10Z",
+      "content": "New materials and catalysts have the potential to transform everything from food production and medicine to batteries and stainless steel. Computer simulations help scientists narrow down promising c… [+6440 chars]"
+    },
+    {
+      "source": {
         "id": null,
         "name": "PEOPLE"
       },
@@ -144,6 +235,19 @@
       "urlToImage": "https://hermes.media.static.aol.com/media/2026/10/15/eb709d14-f4fd-3f89-8fec-a37feda088cd/837e665c-5958-486d-8412-e8497ec57e9d.jpg",
       "publishedAt": "2026-10-15T20:28:34Z",
       "content": "<ul><li>NOAA forecasts below-storm-level activity despite coronal mass ejections reaching Earth\r\n</li><li>Viewers in Alaska, northern Canada and some upper Midwest states have the best chance of seei… [+3130 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ScienceAlert"
+      },
+      "author": "Jess Cockerill",
+      "title": "Scientists Uncover D. Rex: Gigantic New 'King' Fungus From China Traces Its Roots to 65 Million Years - ScienceAlert",
+      "description": "Yunnan Province in China is famous for its mushrooms and fungi, but somehow, scientists have only just come across a new species that has rightly earned the name 'king'.",
+      "url": "https://www.sciencealert.com/scientists-uncover-d-rex-gigantic-new-king-fungus-from-china-traces-its-roots-to-65-million-years",
+      "urlToImage": "https://www.sciencealert.com/images/2026/10/Weixin-Image_2025-07-15_230638_553-2560x1440-1.jpg",
+      "publishedAt": "2026-10-15T20:00:38Z",
+      "content": "Yunnan Province in China is famous for its mushrooms and fungi, but somehow, scientists have only just come across a new species that has rightly earned the name 'king'. \r\nNamed Dianjunus rex (or D. … [+4138 chars]"
     },
     {
       "source": {
@@ -209,6 +313,19 @@
       "urlToImage": "https://www.jalopnik.com/img/gallery/all-four-artemis-ii-astronauts-have-now-retired-from-spaceflight-heres-what-theyre-doing-now/l-intro-1792086412.jpg",
       "publishedAt": "2026-10-15T17:47:52Z",
       "content": "Mission specialist Christina Koch will have the highest profile post-astronaut job, at least currently. Staying at NASA, she is being promoted all the way up to acting deputy chief engineer of the en… [+2604 chars]"
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Laura Paddison, CNN",
+      "title": "Scientists knew the Doomsday Glacier was melting. They didn’t realize how ‘aggressively’ - Yahoo",
+      "description": "The planet’s widest glacier could contribute twice as much to global sea level rise as currently projected, according to new research by glaciologists.",
+      "url": "https://www.cnn.com/2026/10/15/climate/thwaites-melt-study-doomsday-glacier",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/be1cfdec8e5eb9e4721bdbf0a27cbf954f749451a23d4686e2da2e965966aad0/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcnn_articles_875%2F637c2ca5c0ff176512624ffe0b035eab.jpg",
+      "publishedAt": "2026-10-15T16:47:16Z",
+      "content": "The planet's widest glacier is melting \"more aggressively\" than previously projected, meaning its impacts on global sea level rise could be double current estimates, according to new research by a te… [+5109 chars]"
     },
     {
       "source": {
@@ -316,6 +433,19 @@
     },
     {
       "source": {
+        "id": null,
+        "name": "The Conversation Africa"
+      },
+      "author": "Matthew Robert Bennett, Sally Christine Reynolds",
+      "title": "Early humans in America endured climate chaos – new research - The Conversation",
+      "description": "People who lived in New Mexico more than 20,000 years ago experienced rapid climate change.",
+      "url": "https://theconversation.com/early-humans-in-america-endured-climate-chaos-new-research-293174",
+      "urlToImage": "https://images.theconversation.com/files/762900/original/file-20260929-60-k8ytbv.jpg?ixlib=rb-4.1.1&rect=0%2C351%2C4032%2C2016&q=45&auto=format&w=1356&h=668&fit=crop",
+      "publishedAt": "2026-10-15T13:57:18Z",
+      "content": "Some 23,000 years ago, during the coldest part of the last ice age, people walked across the muddy margins of an ancient lake in what is now White Sands national park, New Mexico. \r\nThe footprints th… [+6426 chars]"
+    },
+    {
+      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -326,6 +456,19 @@
       "urlToImage": null,
       "publishedAt": "2026-10-15T13:20:19Z",
       "content": "After sick corals were placed in direct contact with healthy ones of the same genetic makeup, they recovered at “incredible” speed, scientists found."
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "MakeUseOf",
+      "title": "I finally found a better way to save things from the internet - MakeUseOf",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdVNzRVFuMV82bzQ5WEFhUkFsWk5kZTFkZkdSd0VyZUx5WGVGUDAwMEw2aEVIVnEtVG9Dak9ONTI5ckJ1ak1wZmE2NjhXNkNLYVlnM2tsLTR6WE5xTkpSR05MS0dzclEtM2JRZ0FjTHZtenZ3N291TUFuZl9oalFiTWktMmo5ZmZB?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2026-10-15T12:30:14Z",
+      "content": null
     },
     {
       "source": {
@@ -343,19 +486,6 @@
     {
       "source": {
         "id": null,
-        "name": "ScienceAlert"
-      },
-      "author": "Michelle Starr",
-      "title": "Axolotls Have a Surprisingly Clever Ability, Even in Complete Darkness - ScienceAlert",
-      "description": "You might think axolotls don't have a lot going on.",
-      "url": "https://www.sciencealert.com/axolotls-have-a-surprisingly-clever-ability-even-in-complete-darkness",
-      "urlToImage": "https://www.sciencealert.com/images/2026/10/axolotl.jpg",
-      "publishedAt": "2026-10-15T11:04:47Z",
-      "content": "You might think axolotls don't have a lot going on.\r\nThese strange amphibians seem to spend their days languidly lolling around muddy waters, only stirring when it's time for snacks simple creatures … [+6868 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "Phys.Org"
       },
       "author": "Ingrid Fadelli",
@@ -365,32 +495,6 @@
       "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/a-quantum-sensor-could.jpg",
       "publishedAt": "2026-10-15T10:40:01Z",
       "content": "Einstein's theory of general relativity describes gravity as the bending of spacetime, a mathematical model that combines three-dimensional space and time into a single, four-dimensional continuum. T… [+8000 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "SpaceNews"
-      },
-      "author": "Jeff Foust",
-      "title": "Lunar lander companies planning precision landing demonstrations - SpaceNews",
-      "description": "Two companies are planning robotic lunar lander missions that will attempt to land near other spacecraft, demonstrating precision landing technologies.",
-      "url": "https://spacenews.com/lunar-lander-companies-planning-precision-landing-demonstrations/",
-      "urlToImage": "https://spacenews.com/wp-content/uploads/2025/03/bgm1-landing-landershadow-scaled.jpeg",
-      "publishedAt": "2026-10-15T10:32:48Z",
-      "content": "Register now to read3 free articles this month.\r\nYou’ll also receive our weekly Editor’s Choice, SpaceNews This Week and Opinions newsletters. Opt-out at any time.\r\nSign in to an existing account"
-    },
-    {
-      "source": {
-        "id": "cnn",
-        "name": "CNN"
-      },
-      "author": "Laura Paddison",
-      "title": "Scientists find Doomsday Glacier is melting ‘more aggressively’ than thought, with big impacts for sea level rise - CNN",
-      "description": "The planet’s widest glacier could contribute twice as much to global sea level rise as currently projected, according to new research by glaciologists.",
-      "url": "https://www.cnn.com/2026/10/15/climate/thwaites-melt-study-doomsday-glacier",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/thwaites-main-1280px-90.jpg?c=16x9&q=w_800,c_fill",
-      "publishedAt": "2026-10-15T09:36:18Z",
-      "content": "The planets widest glacier is melting more aggressively than previously projected, meaning its impacts on global sea level rise could be double current estimates, according to new research by a team … [+5029 chars]"
     },
     {
       "source": {
@@ -421,19 +525,6 @@
     {
       "source": {
         "id": null,
-        "name": "Esa.int"
-      },
-      "author": null,
-      "title": "Swarming robots to tackle space debris - European Space Agency",
-      "description": "Test setup in a robotics laboratory",
-      "url": "https://www.esa.int/ESA_Multimedia/Images/2026/10/Swarming_robots_to_tackle_space_debris",
-      "urlToImage": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/swarming_robots_to_tackle_space_debris/27577419-1-eng-GB/Swarming_robots_to_tackle_space_debris_pillars.jpg",
-      "publishedAt": "2026-10-15T08:06:03Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
         "name": "Space.com"
       },
       "author": "Josh Dinner",
@@ -447,28 +538,15 @@
     {
       "source": {
         "id": null,
-        "name": "Phys.Org"
+        "name": "ScienceAlert"
       },
-      "author": null,
-      "title": "NASA develops batteries to power humanity's return to moon - Phys.org",
-      "description": "If you've ever had your car start sluggishly, or not at all, on a particularly frigid winter morning, you know standard batteries do not like extreme cold. That's why NASA researchers are working to develop a battery that could function in the brutal cold of …",
-      "url": "https://phys.org/news/2026-10-nasa-batteries-power-humanity-moon.html",
-      "urlToImage": "https://scx2.b-cdn.net/gfx/news/2026/yi-lin-spears-testing.jpg",
-      "publishedAt": "2026-10-14T23:40:02Z",
-      "content": "If you've ever had your car start sluggishly, or not at all, on a particularly frigid winter morning, you know standard batteries do not like extreme cold. That's why NASA researchers are working to … [+5558 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Sci.news"
-      },
-      "author": "Enrico de Lazaro",
-      "title": "New Species of Predatory Dinosaur Identified in UK - Sci.News",
-      "description": "A fossilized braincase that sat in in the collection of the Natural History Museum in London for a century has been identified as Europe’s first megaraptoran dinosaur, a lineage once thought to have flourished mainly in the southern hemisphere.",
-      "url": "https://www.sci.news/paleontology/invictibellatrix-amberina-15131.html",
-      "urlToImage": "https://cdn.sci.news/images/2026/10/image_15131f-Invictibellatrix-amberina.jpg",
-      "publishedAt": "2026-10-14T23:16:33Z",
-      "content": "A fossilized braincase that sat in in the collection of the Natural History Museum in London for a century has been identified as Europes first megaraptoran dinosaur, a lineage once thought to have f… [+3125 chars]"
+      "author": "Michelle Starr",
+      "title": "Astronomers Have Detected A Mysterious Signal Coming From Empty Space. Nobody Knows What It Is. - ScienceAlert",
+      "description": "In the southern constellation of Fornax lies a tiny patch of sky just like any other.",
+      "url": "https://www.sciencealert.com/astronomers-have-detected-a-mysterious-signal-coming-from-empty-space-nobody-knows-what-it-is",
+      "urlToImage": "https://www.sciencealert.com/images/2026/10/blob.jpg",
+      "publishedAt": "2026-10-15T01:30:45Z",
+      "content": "In the southern constellation of Fornax lies a tiny patch of sky just like any other. Your eyes may have brushed past it a hundred times without a thought.\r\nYet this otherwise unremarkable speck of t… [+7177 chars]"
     },
     {
       "source": {
@@ -502,12 +580,12 @@
         "name": "Nature.com"
       },
       "author": null,
-      "title": "Hidden reaction pathways inform additive engineering for perovskite LEDs - Nature",
-      "description": "Resolution and control of the hidden solution-phase chemistry of 5-aminovaleric acid added to perovskite&nbsp;precursor solutions is described for producing films with&nbsp;a near-unity mean peak photoluminescence quantum yield and near-infrared perovskite LE…",
-      "url": "https://www.nature.com/articles/s41586-026-11120-3",
-      "urlToImage": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-11120-3/MediaObjects/41586_2026_11120_Fig1_HTML.png",
+      "title": "Targeted stimulation of motor cortex ensembles drives learned movements - Nature",
+      "description": "Optogenetic stimulation of motor-cortex neuron ensembles shows that precisely timed activity in the primary motor cortex can generate learned neural patterns and movements, demonstrating an active role in skilled motor control.",
+      "url": "https://www.nature.com/articles/s41586-026-11174-3",
+      "urlToImage": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-11174-3/MediaObjects/41586_2026_11174_Fig1_HTML.png",
       "publishedAt": "2026-10-14T22:55:28Z",
-      "content": "<li>Kim, J. S. et al. Ultra-bright, efficient and stable perovskite light-emitting diodes. Nature611, 688694 (2022).\r\nArticle \r\n CAS \r\n PubMed \r\n ADS \r\nGoogle Scholar \r\n</li><li>Liu, X.-K. et al. Met… [+8166 chars]"
+      "content": "Animals\r\nAll procedures were conducted in compliance with protocols approved by the UCSD Institutional Animal Care and Use Committee and guidelines of the National Institutes of Health (NIH). C57BL/6… [+25077 chars]"
     },
     {
       "source": {
@@ -515,12 +593,12 @@
         "name": "Nature.com"
       },
       "author": null,
-      "title": "Targeted stimulation of motor cortex ensembles drives learned movements - Nature",
-      "description": "Optogenetic stimulation of motor-cortex neuron ensembles shows that precisely timed activity in the primary motor cortex can generate learned neural patterns and movements, demonstrating an active role in skilled motor control.",
-      "url": "https://www.nature.com/articles/s41586-026-11174-3",
-      "urlToImage": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-11174-3/MediaObjects/41586_2026_11174_Fig1_HTML.png",
+      "title": "Hidden reaction pathways inform additive engineering for perovskite LEDs - Nature",
+      "description": "Resolution and control of the hidden solution-phase chemistry of 5-aminovaleric acid added to perovskite&nbsp;precursor solutions is described for producing films with&nbsp;a near-unity mean peak photoluminescence quantum yield and near-infrared perovskite LE…",
+      "url": "https://www.nature.com/articles/s41586-026-11120-3",
+      "urlToImage": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-11120-3/MediaObjects/41586_2026_11120_Fig1_HTML.png",
       "publishedAt": "2026-10-14T22:55:28Z",
-      "content": "Animals\r\nAll procedures were conducted in compliance with protocols approved by the UCSD Institutional Animal Care and Use Committee and guidelines of the National Institutes of Health (NIH). C57BL/6… [+25077 chars]"
+      "content": "<li>Kim, J. S. et al. Ultra-bright, efficient and stable perovskite light-emitting diodes. Nature611, 688694 (2022).\r\nArticle \r\n CAS \r\n PubMed \r\n ADS \r\nGoogle Scholar \r\n</li><li>Liu, X.-K. et al. Met… [+8166 chars]"
     },
     {
       "source": {
@@ -589,32 +667,6 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "Space.com"
-      },
-      "author": "Robert Lea",
-      "title": "Planetary genealogy: Milky Way worlds belong to 1 of 2 ‘families,’ scientists find - Space",
-      "description": "\"There is a genetic link between planetary systems and their stars, and that, depending on the star around which they are born, this link also determines their fate.\"",
-      "url": "https://www.space.com/astronomy/exoplanets/planetary-genealogy-milky-way-worlds-belong-to-1-of-2-families-scientists-find",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/2hhjsHRacj2LrS7kazdKDZ-2000-80.png",
-      "publishedAt": "2026-10-14T21:00:00Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Medical Xpress"
-      },
-      "author": null,
-      "title": "Reversing age by reprogramming gene expression networks - Medical Xpress",
-      "description": "Every organ and tissue progressively loses function and integrity as it ages. In fact, researchers have identified \"hallmarks of aging\" that not only present specific processes impacted by age, but are also thought of as levers that, if successfully targeted,…",
-      "url": "https://medicalxpress.com/news/2026-10-reversing-age-reprogramming-gene-networks.html",
-      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/reversing-age-by-repro.jpg",
-      "publishedAt": "2026-10-14T20:50:06Z",
-      "content": "Every organ and tissue progressively loses function and integrity as it ages. In fact, researchers have identified \"hallmarks of aging\" that not only present specific processes impacted by age, but a… [+8769 chars]"
-    },
-    {
-      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -625,19 +677,6 @@
       "urlToImage": null,
       "publishedAt": "2026-10-14T20:43:56Z",
       "content": "SpudCells may one day produce new medicines and materials. But first scientists have to improve them — and make sure they aren’t misused."
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "BroBible"
-      },
-      "author": "Braden Bjella",
-      "title": "Man Spots Ginormous Gator On Hilton Head Golf Course In South Carolina: ‘This Is Literally A Dinosaur’ - BroBible",
-      "description": "An enormous alligator was spotted roaming around a golf course in South Carolina. Thanks to a big ol’ meteor about 66 million years ago, we can drive to",
-      "url": "https://brobible.com/culture/article/south-carolina-huge-alligator/",
-      "urlToImage": "https://brobible.com/wp-content/uploads/2026/10/Man-Spots-Ginormous-Gator-On-Hilton-Head-Golf-Course.jpg",
-      "publishedAt": "2026-10-14T20:00:47Z",
-      "content": "An enormous alligator was spotted roaming around a golf course in South Carolina.\r\nThanks to a big ol meteor about 66 million years ago, we can drive to Dunkin‘ every morning without fear that our ca… [+4546 chars]"
     },
     {
       "source": {
@@ -677,6 +716,19 @@
       "urlToImage": "https://static01.nyt.com/images/2026/10/08/science/00SCI-EMP/00SCI-EMP-mediumSquareAt3X.jpg",
       "publishedAt": "2026-10-14T16:59:11Z",
       "content": "For more than a decade, conservative activists held that a single atomic bomb could, without killing Americans directly, lay waste to the country — a claim that built fervor for war with Iran."
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "CBS News",
+      "title": "New dinosaur species, a T. rex cousin that \"would have chased us,\" identified from fossil found 100 years ago - CBS News",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPM1dkc2hQU2VPVHhSSHJ3aTVHWnBoZXp5QVF1YXBxZ0ladGQ1bWxTUWdQeGFHR3BQMENpZTVfQ3c5ajVYWFJPRndUUnk2ME1LMGxRTlF4eUxzQUtmdFFPQUhuVjJYMWFKa0xfYnU4SURUX19feENmTnlQSUFqVEoxVXFuUGpHSHpHUEh4LTN6RFZ3d0JwSE9HTUNSOWs5ZGRERzVFWTFxSQ?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2026-10-14T16:35:00Z",
+      "content": null
     },
     {
       "source": {
@@ -733,19 +785,6 @@
     {
       "source": {
         "id": null,
-        "name": "The Conversation Africa"
-      },
-      "author": "Orin Lole Durbin, Ross Anderson",
-      "title": "Animal life may be far older than its most ancient fossils – here’s how we uncovered its hidden history - The Conversation",
-      "description": "Scientists have long debated how old animal life is.",
-      "url": "https://theconversation.com/animal-life-may-be-far-older-than-its-most-ancient-fossils-heres-how-we-uncovered-its-hidden-history-294017",
-      "urlToImage": "https://images.theconversation.com/files/765778/original/file-20261013-50-1juoir.jpg?ixlib=rb-4.1.1&rect=0%2C84%2C6144%2C3072&q=45&auto=format&w=1356&h=668&fit=crop",
-      "publishedAt": "2026-10-14T11:46:09Z",
-      "content": "The question of when animals first evolved is one that has confounded scientists since the time of Charles Darwin. Studying rocks in north Wales in the mid-18th century, Darwin found the sudden first… [+4643 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "Space.com"
       },
       "author": "Robert Lea",
@@ -754,6 +793,19 @@
       "url": "https://www.space.com/astronomy/stars/scientists-discover-that-some-of-the-universes-biggest-explosions-may-never-have-happened",
       "urlToImage": "https://cdn.mos.cms.futurecdn.net/9oB2YMPPjbPTy2zrC3uv9D-2000-80.png",
       "publishedAt": "2026-10-14T10:00:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "South China Morning Post",
+      "title": "China tests a Dune-like iron-harvesting crawler robot in the Taklamakan Desert - South China Morning Post",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNR1VvcVRvVUllZjlrcGxMRzFLODlJYXhESzBFVUxRZ2tlRkRadUJMTkVHWnBjMk5DNkh5amJYaVZYcGU5OFR1dkNNZk5KRUdTYWpETmQ5M3B1US1ZY1FoVFJTV2VPdHZjRmlyYjVRQlNDaDE1cWlNYkNWYWZ4T2p5cU11aGQ5SFJ5TDVDUEVaZldfXzBnRzBOMTlNNFVQTFRUOHZQVXZ3MnlfRlRDOEVRUXFwRWhrcXZ3TW9oLTF2QjJQbnfSAcMBQVVfeXFMUGZqM21XeWdzYXpMVy12RUpOQjBRRUdTZ3lieEp1WnNYSC1HWk1IQkNLY1V4UHdham13U1RJZTRQelMxcEFkRWJFN0F5TVh6Mi1BMVpPMnptTk1LZFBrYlBXX3JWNFNZd2NtLUIzTmpSMkoxSkU5ZUN4aWdFY245SXBGakZvQThYYVphdDkxdUhjSmxRMUJuQzBvNTdTRXhWal9yelVmRkQxendLa3FTVkFPME45TFZHcC0tcTBHQ3RmX0tJ?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2026-10-14T06:00:11Z",
       "content": null
     },
     {
@@ -824,6 +876,19 @@
     {
       "source": {
         "id": null,
+        "name": "Phys.Org"
+      },
+      "author": "Sam Jarman",
+      "title": "'Atmospheric rivers' helped open a Portugal-sized hole in Antarctica's winter sea ice - Phys.org",
+      "description": "Polynyas are patches of open water surrounded by sea ice, where heat and moisture can pass freely between the ocean and atmosphere. In August 2024, a vast polynya opened up in Breid Bay, off the coast of East Antarctica, in the depths of winter. The region ha…",
+      "url": "https://phys.org/news/2026-10-atmospheric-rivers-portugal-sized-hole.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/atmospheric-rivers-ope.jpg",
+      "publishedAt": "2026-10-13T17:40:15Z",
+      "content": "Polynyas are patches of open water surrounded by sea ice, where heat and moisture can pass freely between the ocean and atmosphere. In August 2024, a vast polynya opened up in Breid Bay, off the coas… [+3772 chars]"
+    },
+    {
+      "source": {
+        "id": null,
         "name": "Retractionwatch.com"
       },
       "author": null,
@@ -833,19 +898,6 @@
       "urlToImage": "https://retractionwatch.com/wp-content/uploads/2026/10/physics-of-fluids-cover-shadow.png",
       "publishedAt": "2026-10-13T15:09:03Z",
       "content": "In March, Thomas Harvey sat in on a talk at the American Physical Societys summit in Denver on a new model of the universe that claimed to eliminate the need for dark matter and dark energy. William … [+7455 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Popular Mechanics"
-      },
-      "author": "Darren Orf",
-      "title": "A Man Says He Found Bigfoot’s Dead Body in New York—and Has the DNA to Prove It - Yahoo",
-      "description": "One hunter’s fantastical find in the Adirondacks has Cornell University—and fellow Bigfoot believers—crying foul.",
-      "url": "https://www.popularmechanics.com/science/animals/a74096116/bigfoot-drama/",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/a004cc6f48c21377ac238378bc54dfa67ca4c9a5ec081d43a43c9be92889fc82/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpopular_mechanics_642%2F4412dc2fd3f674d9ef8913ea99b84daf.jpg",
-      "publishedAt": "2026-10-13T13:30:00Z",
-      "content": "\"Hearst Magazines and Yahoo may earn commission or revenue on some items through these links.\"\r\nHere's what you'll learn when you read this story:\r\n As long as there have been legends of a Bigfoot, t… [+4101 chars]"
     },
     {
       "source": {
@@ -901,16 +953,16 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "Geekspin.co"
+        "id": "google-news",
+        "name": "Google News"
       },
-      "author": "Mary Dada",
-      "title": "Scientists discover genetic code that breaks rules of life - Yahoo",
-      "description": "A microscopic organism from a freshwater pond is playing by a different set of genetic rules. The newly identified protist, Oligohymenophorea sp. PL0344, whi...",
-      "url": "https://geekspin.co/scientists-discover-genetic-code-that-breaks-rules-of-life/",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/3c73f9b3b14428bce7d9ca2f922575a70f2e61e2cb1e64ad52ef6893d8609e5d/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fgeekspin_390%2Fbefc76091687277103b7bfd5b6196e23.jpg",
+      "author": "geekspin",
+      "title": "Scientists discover genetic code that breaks rules of life - geekspin",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQV2dGdzhVdlhhUDhSSkE4elRvdGV5OUFCQllPVDlWZjVyU3dvN3pURS1EeTJwX084TWNFcXBmaEZ1VEtzTmowb2RfQUZndGs3VzMxck1LcV9TZnVPM18xeGtheUp0VXZRaTg2cjJMQ256U2dRcUgzcmhUc25HS2tlY19ZN2pyQQ?oc=5",
+      "urlToImage": null,
       "publishedAt": "2026-10-12T22:00:01Z",
-      "content": "A microscopic organism from a freshwater pond is playing by a different set of genetic rules. The newly identified protist, Oligohymenophorea sp. PL0344, which scientists stumbled across while testin… [+7251 chars]"
+      "content": null
     },
     {
       "source": {

@@ -6,9 +6,22 @@
     "newsapi",
     "rss"
   ],
-  "fetched_at": "2026-10-17T14:28:44.631433+00:00",
-  "articles_count": 78,
+  "fetched_at": "2026-10-17T17:58:54.483074+00:00",
+  "articles_count": 77,
   "articles": [
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Jeré Longman",
+      "title": "A Reporter Who Saw Covid Coming Has Died",
+      "description": "Helen Branswell recognized the threat of the pandemic ahead of the vast majority of journalists and even medical experts. She was 69.",
+      "url": "https://www.nytimes.com/2026/10/17/health/helen-branswell-dead.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/10/16/multimedia/16obit-branswell-lkhw/16obit-branswell-lkhw-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-10-17T17:17:00Z",
+      "content": "Helen Branswell recognized the threat of the pandemic ahead of the vast majority of journalists and even medical experts. She was 69."
+    },
     {
       "source": {
         "id": "the-new-york-times",
@@ -50,6 +63,32 @@
     },
     {
       "source": {
+        "id": "cbs-news",
+        "name": "CBS News"
+      },
+      "author": "Kerry  Breen",
+      "title": "New guidelines back use of hormone therapy for menopause, perimenopause symptoms. Here's what to know. - CBS News",
+      "description": "A leading OB-GYN organization now recommends hormone replacement therapy for many women experiencing common menopause symptoms including hot flashes.",
+      "url": "https://www.cbsnews.com/news/menopause-perimenopause-hormone-replacement-therapy-guidelines-acog/",
+      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/10/16/6da978ca-ca15-4c4c-921b-b5bb811b17e6/thumbnail/1200x630/7470aa2cc2b1221173f1c6499afdc88f/cbsn-fusion-what-to-know-about-new-guidelines-for-menopause-and-perimenopause-treatment-thumbnail.jpg",
+      "publishedAt": "2026-10-16T15:01:00Z",
+      "content": "The American College of Obstetricians and Gynecologists has released new guidance for the treatment of common menopause and perimenopause symptoms, including recommending hormone replacement therapy … [+3066 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Abcnews.com"
+      },
+      "author": "ABC News - Breaking News, Latest News and Videos",
+      "title": "More than 4,400 measles cases reported in US as CDC plans to send 'disease detective' to Pennsylvania - ABC News - Breaking News, Latest News and Videos",
+      "description": null,
+      "url": "https://abcnews.com/Health/4400-measles-cases-reported-us-cdc-plans-send/story?id\\\\u003d137315190",
+      "urlToImage": null,
+      "publishedAt": "2026-10-16T14:54:57Z",
+      "content": null
+    },
+    {
+      "source": {
         "id": null,
         "name": "Arizona Daily Star"
       },
@@ -63,6 +102,45 @@
     },
     {
       "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Steven Ross Johnson",
+      "title": "Sickle cell gene therapies offer new hope, but access remains a major challenge - CNBC",
+      "description": "FDA-approved gene therapies for sickle cell disease offer a chance to help patients, but factors including cost and access have slowed their use.",
+      "url": "https://www.cnbc.com/2026/10/16/sickle-cell-gene-therapies-offer-new-hope-accessing-them-is-hard.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108415090-1792083266137-107344708-1701972953198-AP23320388297314.webp?v=1792083320&w=1920&h=1080",
+      "publishedAt": "2026-10-16T13:19:09Z",
+      "content": "This microscope photo provided on Oct. 25, 2023, by the Centers for Disease Control and Prevention shows crescent-shaped red blood cells from a sickle cell disease patient in 1972. Britains medicines… [+12495 chars]"
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "ScienceAlert",
+      "title": "Drinking 'Very' Hot Tea or Coffee Could Triple Your Risk of This Cancer, Huge Study Finds - ScienceAlert",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONmZqLTVobEI1djdWbDVRUlJ3b0Zzajl1YVZGeVZQZTNNdzJ6V2cyVWdRdnhZaWNyN1ptVmJOWXFrbzVpa0xXME5WQjFFNzNOcm5WN3QySGEtVmpKMlFSc1VvTEwtM1gzQ3Z1ejM5UVV5WFBDUjBhMXY2T2Ytd3lMalhFVDVTdDh5dHhTUVRGY1pNRFpmRkpMcjV4Tk1haTBIcVgtNS1lYk5vMnhTUnZrQzNtN1Z2Zw?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2026-10-16T13:00:38Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Science Daily"
+      },
+      "author": null,
+      "title": "USC scientists discover how to create a never-ending supply of cancer-fighting cells - Science Daily",
+      "description": "USC scientists have discovered a way to create a potentially renewable supply of genetically engineered immune cells that can attack cancer and strengthen the body&apos;s natural defenses. By growing and modifying immature immune cells rather than mature ones…",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261015003803.htm",
+      "urlToImage": "https://www.sciencedaily.com/images/1920/body-immune-response-lymphocytes-t-cells-cancer-immunotherapy.webp",
+      "publishedAt": "2026-10-16T12:47:28Z",
+      "content": "Scientists at the University of Southern California (USC) have discovered a way to produce a potentially renewable supply of cancer-fighting immune cells, opening a promising new direction for cancer… [+12519 chars]"
+    },
+    {
+      "source": {
         "id": "business-insider",
         "name": "Business Insider"
       },
@@ -73,6 +151,19 @@
       "urlToImage": "https://ocdn.eu/pulscms-transforms/1/n5_ktkpTURBXy84NjJhOGE1YmEwYWMwNWZkMGE5YTgxYzE5NTQ4Y2I4Mi5qcGeSlQMAPM0HgM0EOJMFzQSwzQJ2",
       "publishedAt": "2026-10-16T12:00:00Z",
       "content": "The WHO Regional Validation Committee formally endorsed Egypt's progress following an in-depth review of health data from 2023 through 2025.\r\nEgypt's success represents one of the most rapid turnarou… [+1589 chars]"
+    },
+    {
+      "source": {
+        "id": "medical-news-today",
+        "name": "Medical News Today"
+      },
+      "author": "James McIntosh",
+      "title": "Hypertension treatment could avert over 500,000 heart disease deaths - Medical News Today",
+      "description": "Research has found that hundreds of thousand of deaths a year could be prevented through appropriate blood pressure management, cholesterol and blood sugar management, and colon cancer screenings.",
+      "url": "https://www.medicalnewstoday.com/articles/over-500000-deaths-a-year-could-be-prevented-by-managing-blood-pressure",
+      "urlToImage": "https://media.post.rvohealth.io/wp-content/uploads/sites/3/2026/10/getty_1422499146_facebook_1200x630-1200x628.jpg",
+      "publishedAt": "2026-10-16T11:46:04Z",
+      "content": "<ul><li>Analysis of data from 20 countries suggests that improved preventive care for hypertension could prevent over 500,000 deaths a year from cardiovascular disease.</li><li>Improved cholesterol a… [+6844 chars]"
     },
     {
       "source": {
@@ -181,6 +272,19 @@
     {
       "source": {
         "id": null,
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "Toddler's 'second chance at life' after stem cell transplant - BBC",
+      "description": "Ronnie was diagnosed with aplastic anaemia just before his first birthday.",
+      "url": "https://www.bbc.com/news/articles/cqev34nzj7r2o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/3982/live/22f1f3c0-c88a-11f1-a2e8-f71844f8002e.jpg",
+      "publishedAt": "2026-10-16T05:27:43Z",
+      "content": "She said: \"Thank you will never be enough for him [the donor], but I think to say it face to face and even if he was able to meet our little boy, that he's given a second chance at life, it would be … [+7 chars]"
+    },
+    {
+      "source": {
+        "id": null,
         "name": "KTRK-TV"
       },
       "author": "Mycah Hatfield, Sarah Rafique",
@@ -216,19 +320,6 @@
       "urlToImage": "https://img.ksl.com/slc/3205/320566/32056623.jpg?filter=kslv2/responsive_story_lg",
       "publishedAt": "2026-10-16T00:17:31Z",
       "content": "BIG BEAR LAKE, Calif. Bird flu caused the death of a bald eagle named Jackie who had become an internet sensation and a symbol of the species' recovery in California, officials said.\r\nA necropsy and … [+1862 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ScienceAlert"
-      },
-      "author": "Peter Dockrill",
-      "title": "Millions of Americans Use Cannabis to Help Them Sleep. It Could Be Doing The Opposite. - ScienceAlert",
-      "description": "An estimated 22 million Americans currently use cannabis as a form of sleep aid, and almost one in four says they're likely to try the drug to help them sleep.",
-      "url": "https://www.sciencealert.com/millions-of-americans-use-cannabis-to-help-them-sleep-it-could-be-doing-the-opposite",
-      "urlToImage": "https://www.sciencealert.com/images/2026/10/man-sleeping.jpg",
-      "publishedAt": "2026-10-16T00:00:38Z",
-      "content": "An estimated 22 million Americans currently use cannabis as a form of sleep aid, and almost one in four says they're likely to try the drug to help them sleep.\r\nBut despite the widespread view that c… [+6476 chars]"
     },
     {
       "source": {
@@ -271,16 +362,16 @@
     },
     {
       "source": {
-        "id": "nbc-news",
-        "name": "NBC News"
+        "id": "google-news",
+        "name": "Google News"
       },
-      "author": "Erika Edwards",
-      "title": "CDC sending a ‘disease detective’ to help stop measles outbreak in Pennsylvania - NBC News",
-      "description": "The move follows a public battle between Health Secretary Robert F. Kennedy Jr and Gov. Josh Shapiro over measles-related deaths.",
-      "url": "https://www.nbcnews.com/health/health-news/cdc-measles-outbreak-pennsylvania-rkf-jr-rcna603665",
-      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/261015-vaccine-rs-4c96db.jpg",
-      "publishedAt": "2026-10-15T20:34:33Z",
-      "content": "The Centers for Disease Control and Prevention is sending one of its scientists to Pennsylvania to help curb the states growing measles outbreak, a CDC spokesperson said Thursday. That person, a dise… [+823 chars]"
+      "author": "Yahoo",
+      "title": "‘He’s a Cabinet Secretary!’ Reporter Snaps At RFK Jr. Aide Trying to Stop Question on Measles Deaths - Yahoo",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxObXZVNEl4NHNzUnZXZVR5UlV2MWcwZEtKOUZmVHVsSlJPaWdFdENLV01YbEtKZDlDTFhPM2xGR0JIYWR0aWxoQzdubktVbXBEYmRYUWFmOXRveEg4Z1ZaNjdXRUl6VnBvN3RsR2FEWkQwS3VqaEdsaGNTcFliSTM0ZkJUYUlqYWpwbjZiRm1rZmJhbV96YkhQd3o3LUg?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2026-10-15T21:10:56Z",
+      "content": null
     },
     {
       "source": {
@@ -297,16 +388,16 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "Medical Xpress"
+        "id": "google-news",
+        "name": "Google News"
       },
-      "author": "Sanjukta Mondal",
-      "title": "Popular sports supplement may help shield the brain from damage linked to gut inflammation - Medical Xpress",
-      "description": "The gut-brain axis is a two-way biochemical hotline, with messages zipping back and forth all day long. When the gut is chronically inflamed, inflammatory signals travel through the body to the brain and trigger neuroinflammation. The hippocampus, which gover…",
-      "url": "https://medicalxpress.com/news/2026-10-popular-sports-supplement-shield-brain.html",
-      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/creatine-selectively-s.jpg",
-      "publishedAt": "2026-10-15T19:20:15Z",
-      "content": "The gut-brain axis is a two-way biochemical hotline, with messages zipping back and forth all day long. When the gut is chronically inflamed, inflammatory signals travel through the body to the brain… [+5214 chars]"
+      "author": "MassLive",
+      "title": "Raccoon found in Mass. town tests positive for rabies - MassLive",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOVWZOZktfR0UxRElwcTFBR3Z2V2Z4UXZRV3MwWmNFMVhYdWlWeFBCQ19xb3lKM1JTM0JzNGMtMzNKamNVeU9qWndrbHd1MnRaQW5kU3lSUTNheTN1WHVDXzE1OE4wbkpLS3NVQzZGR1V1TFR4MURiSkFQNVZkMVVldi0wLWRXSTRQMDJnMVZOSHBTWjl2elduMUdDNNIBrwFBVV95cUxPYkFjc3BwNndyX1JOaS1DN3hWcndzdldDb01yZDdZeW1lc0NDMy1sUFZPRGZvQ2NVcnBJWXpSUUxfR0JFVHhRTnFaamZidmkzMHdwSllyNm82aktMRDhzOE5KS09HMERqQ2dsQ2F0aENqZUJpblJ3YUJNWlFJRFdTXzRHV0djckJjWkpxTnBPODhsbW9FTWRBTlJDeExYVWFSbm1BMWxfWE1SdkxKUFhB?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2026-10-15T18:47:00Z",
+      "content": null
     },
     {
       "source": {
@@ -336,16 +427,16 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "WCVB Boston"
+        "id": "the-washington-post",
+        "name": "The Washington Post"
       },
-      "author": "Veronica Haynes",
-      "title": "Town issues rabies advisory after raccoon tests positive - WCVB",
-      "description": "Marion officials are warning residents after a raccoon near Point Road tested positive for rabies.",
-      "url": "https://www.wcvb.com/article/marion-rabies-warning-wildlife/74148248",
-      "urlToImage": "https://kubrick.htvapps.com/htv-prod/ibmig/cms/image/wcvb/36573580-rabies-raccoon-no-copyright-flickr-jpg.jpg?crop=1.00xw%3A0.834xh%3B0%2C0.0841xh&resize=1200%3A*",
-      "publishedAt": "2026-10-15T17:56:00Z",
-      "content": "MARION, Mass.A raccoon found in Marion, Massachusetts, has tested positive for rabies, prompting the town to issue a rabies advisory.\r\nAccording to the Marion Board of Health, a raccoon that was \"act… [+1599 chars]"
+      "author": "Leana S. Wen",
+      "title": "Opinion | I moved up my flu shot appointment. You should, too. - The Washington Post",
+      "description": "Influenza season arrived early this year. Don’t wait to get vaccinated.",
+      "url": "https://www.washingtonpost.com/opinions/2026/10/15/early-flu-season-means-people-should-get-their-shots-now/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/S4UYVPB2QUI6XKWZRFMSE4UAYQ.jpg&w=1440",
+      "publishedAt": "2026-10-15T18:00:00Z",
+      "content": "Youre reading The Checkup With Dr. Wen, a newsletter on how to navigate medical and public health challenges. Click here to get the full newsletter in your inbox, including answers to reader question… [+267 chars]"
     },
     {
       "source": {
@@ -376,6 +467,19 @@
     {
       "source": {
         "id": null,
+        "name": "Colorado Public Radio"
+      },
+      "author": "John Daley",
+      "title": "A Colorado child died from flu, the first pediatric death of the viral respiratory season - Colorado Public Radio",
+      "description": "The case comes after the state recorded eight last year amid low vaccination rates.",
+      "url": "https://www.cpr.org/2026/10/15/colorado-child-died-flu-viral-respiratory-season/",
+      "urlToImage": "https://www.cpr.org/cdn-cgi/image/width=1200,height=630,fit=crop,gravity=auto,quality=75,format=auto/https://wp-cpr.s3.amazonaws.com/uploads/2025/12/AP19340532991088-768x532.jpg",
+      "publishedAt": "2026-10-15T17:01:29Z",
+      "content": "Colorado has confirmed the state's first pediatric influenza death of the respiratory virus season. \r\nThe state health department said Wednesday the elementary-aged child is from outside the Denver m… [+2886 chars]"
+    },
+    {
+      "source": {
+        "id": null,
         "name": "PEOPLE"
       },
       "author": "Cara Lynn Shultz",
@@ -388,16 +492,16 @@
     },
     {
       "source": {
-        "id": "google-news",
-        "name": "Google News"
+        "id": null,
+        "name": "Theexamination.org"
       },
-      "author": "Gizmodo",
-      "title": "Cancer Spread From One Identical Twin to the Other in the Womb, Scientists Find - Gizmodo",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNRjlyUjY1RXNWRzdNWnRheXpOWWRXVFAxc1QzaU9kc1QtWW5zRTc3aWdVdUtDdTlZQTBwRjIzM1RxeEx0dll0ZUFVYjZMLU9mZTUyMmwyeG5FVTQwZ1BjTnQ5SVFDV2VlNWNkdUNGUjVEZzFibmNCNmpobUFITDUxb3BQVEFyWHp4SGJsemMxX1JtcHlpYTZ3TzctTjJUc0lEazJzYjd1dl9qemREOFE?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2026-10-15T16:25:46Z",
-      "content": null
+      "author": "Sasha Chavkin",
+      "title": "Nine in ten research papers disputing definition of ultraprocessed foods have industry ties, study finds - The Examination",
+      "description": "The finding comes as policymakers are grappling with how to handle ultraprocessed foods.",
+      "url": "https://www.theexamination.org/articles/nova-ultraprocessed-foods-industry-ties-study",
+      "urlToImage": "https://www.theexamination.org/api/ogimage?image=https%3A%2F%2Fa.storyblok.com%2Ff%2F212662%2F5838x3892%2Fe71eb563e4%2Fnova-and-industry-funding-study.jpg&title=Nine+in+ten+research+papers+disputing+definition+of+ultraprocessed+foods+have+industry+ties%2C+study+finds&theme=blue&date=2026-10-15T09%3A00%3A00.942Z",
+      "publishedAt": "2026-10-15T14:36:21Z",
+      "content": "As efforts to limit ultraprocessed foods gather momentum around the world, a critical side-debate is creeping into the spotlight. The dispute centers on whether the leading standard for defining thes… [+6152 chars]"
     },
     {
       "source": {
@@ -414,16 +518,16 @@
     },
     {
       "source": {
-        "id": "google-news",
-        "name": "Google News"
+        "id": "newsweek",
+        "name": "Newsweek"
       },
-      "author": "Newsweek",
+      "author": "Daniella Gray",
       "title": "Autism Affects Boys 4 Times More Often Than Girls. Study Finds Clue to Why - Newsweek",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNSU0wNVRsb1J2a250UnJ1c2tTYkpXM2R5RmsyRUpJbFVKQ096ZGxpbWVVeTRlMTYtM2FIOWhPXzAxd045U3B2NTQyZ1lJNkhYeVdYSnYxbnJWb1NkUzhSWmxaaVBpcnF2a2trMGs4TTlQWWJZTUhVdWJST2d6UFpTVkhHTnJYZ0dtUW5SeEN3OUo3TGlGQmxmalZTQ1lyN25VZUxvSkU1Qk1GY0k?oc=5",
-      "urlToImage": null,
+      "description": "Autism is diagnosed far more often in boys than girls. New research may help explain the long-standing gender gap.",
+      "url": "https://www.newsweek.com/autism-affects-boys-4-times-more-often-than-girls-study-finds-clue-to-why-12571290",
+      "urlToImage": "https://assets.newsweek.com/wp-content/uploads/2026/10/Autism-is-diagnosed-4-times-more-often-in-boys.png?w=1200&crop=1",
       "publishedAt": "2026-10-15T11:48:00Z",
-      "content": null
+      "content": "Autism is diagnosed around four times more often in boys than girls, a striking disparity that has puzzled scientists for years. \r\nNow, new research may offer a clue as to what is driving the gap. \r\n… [+4079 chars]"
     },
     {
       "source": {
@@ -492,19 +596,6 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "SciTechDaily"
-      },
-      "author": null,
-      "title": "Same Calories, Same Nutrients – but One Meal Triggered a Surprising Reaction in the Body - SciTechDaily",
-      "description": "Two meals looked nearly identical nutritionally, yet the ultraprocessed option triggered more insulin release in healthy adults, hinting at differences nutrition labels may miss.",
-      "url": "https://scitechdaily.com/same-calories-same-nutrients-but-one-meal-triggered-a-surprising-reaction-in-the-body/",
-      "urlToImage": null,
-      "publishedAt": "2026-10-15T10:26:50Z",
-      "content": "Researchers at Virginia Techs Fralin Biomedical Research Institute at VTC found that two meals with the same carbohydrates, fats, proteins, water, calories, salt, and weight but that differed in thei… [+8415 chars]"
-    },
-    {
-      "source": {
         "id": "fox-news",
         "name": "Fox News"
       },
@@ -557,6 +648,19 @@
     },
     {
       "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "Nature",
+      "title": "Artificial intelligence-enabled clinical phenotyping of human brown fat - Nature",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9GZTlIVXVnazYxNTFrWEppcUVrV3ZIVUVNY2RQQURkSGtDR29wcnJ1SUxqSnNlc0ZTVFpnN0RORDBqNFRHWFZBTXZiMWp0TnBPMC1uZnZIWkJwTHI2UGJn?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2026-10-14T22:55:28Z",
+      "content": null
+    },
+    {
+      "source": {
         "id": "usa-today",
         "name": "USA Today"
       },
@@ -567,19 +671,6 @@
       "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/10/14/USAT/92253635007-getty-images-1434992041.jpg?crop=2119,1193,x0,y110&width=2119&height=1193&format=pjpg&auto=webp",
       "publishedAt": "2026-10-14T21:07:00Z",
       "content": "The number of people developing dementia each year worldwide is expected to more than double by 2050, with women and people in lower-income countries facing higher rates, according to new research.\r\n… [+3227 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Umn.edu"
-      },
-      "author": null,
-      "title": "New CDC report details deadly toll of delayed measles complication in kids - CIDRAP",
-      "description": null,
-      "url": "https://www.cidrap.umn.edu/new-cdc-report-details-deadly-toll-delayed-measles-complication-kids",
-      "urlToImage": "https://www.cidrap.umn.edu/sites/default/files/styles/layout_large/public/article/Young%20child%20with%20headache.jpg?itok=303bh2zm",
-      "publishedAt": "2026-10-14T20:54:00Z",
-      "content": "Measles is sometimes dismissed as an unserious disease or just a rash. But the highly contagious virus can cause serious illness not just during initial infection but years later, after patients appe… [+2794 chars]"
     },
     {
       "source": {
@@ -609,45 +700,6 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "Abcnews.com"
-      },
-      "author": "ABC News - Breaking News, Latest News and Videos",
-      "title": "2 West Nile virus deaths reported in North Carolina: Officials - ABC News - Breaking News, Latest News and Videos",
-      "description": null,
-      "url": "https://abcnews.com/Health/2-west-nile-virus-deaths-reported-north-carolina/story?id\\\\u003d137253100",
-      "urlToImage": null,
-      "publishedAt": "2026-10-14T19:38:08Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "New York Post"
-      },
-      "author": "Allie Yang",
-      "title": "Flu season started earlier than expected — what to know about the brand new vaccine - New York Post",
-      "description": "The FDA has approved mFLUSIVA, the first mRNA flu vaccine for adults aged 50 and older.",
-      "url": "https://nypost.com/2026/10/14/health/flu-season-started-early-what-to-know-about-new-vaccine/",
-      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/10/newspress-collage-1xldh7kza-1792004329091.jpg?quality=75&strip=all&1791989947&w=1200",
-      "publishedAt": "2026-10-14T19:16:00Z",
-      "content": "Now is around the time when flu season usually starts to pick up except this year, cases have been rising since late summer.\r\nSome data shows current flu activity is similar to when flu activity peak… [+3555 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "News-Medical.Net"
-      },
-      "author": null,
-      "title": "Common blood pressure drug boosts brown adipose tissue activity and metabolism - News-Medical",
-      "description": "Scientists have discovered that the drug losartan, commonly prescribed for high blood pressure, boosts brown adipose tissue activity in mice, enhancing their metabolism.",
-      "url": "https://www.news-medical.net/news/20261014/Common-blood-pressure-drug-boosts-brown-adipose-tissue-activity-and-metabolism.aspx",
-      "urlToImage": "https://www.news-medical.net/image-handler/picture/2014/7/High_Blood_Pressure-620x480.jpg",
-      "publishedAt": "2026-10-14T18:48:00Z",
-      "content": "Scientists have discovered that the drug losartan, commonly prescribed for high blood pressure, boosts brown adipose tissue activity in mice, enhancing their metabolism. This indicates that repurposi… [+4978 chars]"
-    },
-    {
-      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -674,19 +726,6 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "Katiecouric.com"
-      },
-      "author": "Katie Arnold-Ratliff",
-      "title": "Want to Keep Your Brain Healthy? Here Are the Foods to Avoid - AOL.com",
-      "description": "Your diet plays a bigger role in how your mind functions than you may realize.",
-      "url": "https://katiecouric.com/health/worst-foods-for-brain-health/",
-      "urlToImage": "https://hermes.media.static.aol.com/media/2026/10/14/ae75a508-7836-3b8c-86ac-248ba5ae82f9/5bbee3bd-c4d9-46cb-bfaa-9a4beab21098.png",
-      "publishedAt": "2026-10-14T16:41:33Z",
-      "content": "We all know that what we eat affects our hearts, our waistlines, and our overall health. But what about our ability to think clearly, regulate our mood, and remember where we put our keys? \r\nAs resea… [+7321 chars]"
-    },
-    {
-      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -700,16 +739,16 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "I Love the Upper West Side"
+        "id": "google-news",
+        "name": "Google News"
       },
-      "author": "Mike Mishkin",
-      "title": "The Old Gracious Home Space on Broadway Finally Has a New Tenant - iLovetheUpperWestSide.com",
-      "description": "The former Gracious Home space has sat empty since 2016, but not anymore.",
-      "url": "https://www.ilovetheupperwestside.com/the-old-gracious-home-space-on-broadway-finally-has-a-new-tenant/",
-      "urlToImage": "https://www.ilovetheupperwestside.com/material/media/media/old-gracious-home.jpg",
-      "publishedAt": "2026-10-14T14:53:16Z",
-      "content": "Google Maps\r\nThe former Gracious Home space on the corner of 67th and Broadway, which has sat vacant since the beloved home goods store closed in 2016, finally has a new occupant. And it isn’t a stor… [+2029 chars]"
+      "author": "The Washington Post",
+      "title": "These common infections can cause cancer. Here’s what can lower your risk. - The Washington Post",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPVS1uWEVvQS0tQkU5dG43X2JNV2szU3E5LVBpV1IzRTdfNVI1N2VKdklwYXBEX0RkdUxyZlBqU2JpbTN1alZLQkhTYlB6cEZOZTZ6XzNybktldjNqTmlYeW9uaUFUWk1XMkRhOTR5UncyenFDcmZ5OS1Dd2FCTnZpZVdUWEdwYXpWckZlTnF3STMwWkJnanR6Rm82OHJOem15NDcybl94dlhLbmZPdngtSXZiZVpQX2c?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2026-10-14T16:00:00Z",
+      "content": null
     },
     {
       "source": {
@@ -817,29 +856,16 @@
     },
     {
       "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": "TODAY.com",
-      "title": "Is it Healthy to Eat Tofu Every Day? A Dietitian Weighs In - TODAY.com",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQM0hkVzJSRXkyZ0VCcWZGTFBVTDNHb3Y2UnUwcG1kZlhRWnEzQXBjelZPdVpRUzdfVmduc3M0LXlqcUtGQXRkeDdZaDJfUzl2el9RVFRTQmVnaENlakhxdlZuNGVnTFpfclprUmN2cC1SUjF1dVRJRFpXY2l0TDVvSE1BemZWMWd6RzFJTEJweFN0S2s?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2026-10-13T16:14:43Z",
-      "content": null
-    },
-    {
-      "source": {
         "id": null,
         "name": "PEOPLE"
       },
       "author": "Vanessa Etienne",
-      "title": "Woman Who Survived Colon Cancer 3 Times Reveals the First Symptom She Noticed at 14: ‘I Hid It From Everyone’ - Yahoo News UK",
+      "title": "Woman Who Survived Colon Cancer 3 Times Reveals the First Symptom She Noticed at 14: ‘I Hid It From Everyone’ - AOL.com",
       "description": "“Don’t downplay what you’re seeing,” said Danielle Ripley-Burgess",
       "url": "https://people.com/woman-survived-colon-cancer-3-times-since-she-was-17-12161043",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/01fc9beb083a68f48e5f4bdbdb5250993685c926c1aea5248eb137e0e4b59f55/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2F40ec0bb12003aab55ad1ded7cbd166d5.jpg",
+      "urlToImage": "https://hermes.media.static.aol.com/media/2026/10/13/71b13315-03c0-36d5-91d3-b255466f37ca/c7b3ff8c-ad5c-4d5f-b71e-d0b632d5544b.jpg",
       "publishedAt": "2026-10-13T15:55:27Z",
-      "content": "NEED TO KNOW\r\n<ul><li>Danielle Ripley-Burgess first noticed blood in her stool at 14 but waited years to tell anyone\r\n</li><li>She was diagnosed with Lynch syndrome, a genetic condition that raises t… [+4353 chars]"
+      "content": "<ul><li>Danielle Ripley-Burgess first noticed blood in her stool at 14 but waited years to tell anyone\r\n</li><li>She was diagnosed with Lynch syndrome, a genetic condition that raises the risk of sev… [+4245 chars]"
     },
     {
       "source": {
@@ -879,19 +905,6 @@
       "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_social_share_1200x630_center,f_auto,q_auto:best/rockcms/2026-10/fruits-prevent-cancer-mh-10122026-52d4f0.jpg",
       "publishedAt": "2026-10-13T12:06:09Z",
       "content": "Think of fruit as part of your strategy to prevent cancer.\r\nDr. Heather Zinkin, a radiation oncologist who treats all different types of cancers, says shes passionate about using lifestyle to improve… [+5868 chars]"
-    },
-    {
-      "source": {
-        "id": "cnn",
-        "name": "CNN"
-      },
-      "author": "Dr. Jamin Brahmbhatt",
-      "title": "Why a debate on declining sperm counts can spur conversations about overall health - CNN",
-      "description": "Large studies have reported falling sperm counts, but the findings vary across populations. A urologist explains what the results mean for individual men.",
-      "url": "https://www.cnn.com/2026/10/13/health/sperm-counts-worldwide-wellness",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1350595340.jpg?c=16x9&q=w_800,c_fill",
-      "publishedAt": "2026-10-13T11:00:45Z",
-      "content": "Dr. Jamin Brahmbhatt is a urologist and robotic surgeon with Orlando Health and an assistant professor at the University of Central Floridas College of Medicine.\r\nThere are two times I see men get hy… [+9560 chars]"
     },
     {
       "source": {
@@ -996,32 +1009,6 @@
       "urlToImage": "https://static01.nyt.com/images/2026/10/09/science/09sci-speedy-vaccines/09sci-speedy-vaccines-mediumSquareAt3X.jpg",
       "publishedAt": "2026-10-09T20:26:30Z",
       "content": "New details have emerged about an initiative that starts in December to fast-track the vaccines, similar to the successful push for the Covid-19 vaccine."
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Medical Xpress"
-      },
-      "author": null,
-      "title": "Gut microbes help set the body's inflammatory response to vaccination - Medical Xpress",
-      "description": "Vaccination is one of the most important tools for preventing infectious diseases and protecting public health. However, immune responses after vaccination vary dramatically from person to person: If you give many people the exact same vaccine, some will expe…",
-      "url": "https://medicalxpress.com/news/2026-10-gut-microbes-body-inflammatory-response.html",
-      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/gut-microbes-help-set.jpg",
-      "publishedAt": "2026-10-09T18:40:01Z",
-      "content": "Vaccination is one of the most important tools for preventing infectious diseases and protecting public health. However, immune responses after vaccination vary dramatically from person to person: If… [+7584 chars]"
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "author": "Emily Baumgaertner Nunn and Annie Flanagan",
-      "title": "For Two Sisters, a “Biological Age Test” Measured More Than Their DNA",
-      "description": "They thought it might explain why their health had diverged. Instead, it stirred up feelings that weren’t so easily quantified.",
-      "url": "https://www.nytimes.com/2026/10/08/science/truage-biological-age-test-genetics-sisters.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/10/08/science/08SCI-BIO-AGE/08SCI-BIO-AGE-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-10-08T15:06:25Z",
-      "content": "They thought it might explain why their health had diverged. Instead, it stirred up feelings that weren’t so easily quantified."
     }
   ]
 }

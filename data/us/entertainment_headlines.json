@@ -6,9 +6,22 @@
     "newsapi",
     "rss"
   ],
-  "fetched_at": "2026-10-17T17:58:54.483074+00:00",
+  "fetched_at": "2026-10-17T20:02:41.077143+00:00",
   "articles_count": 100,
   "articles": [
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Will Heinrich",
+      "title": "Peter Nagy, Visionary Artist Turned Art Dealer, Dies at 66",
+      "description": "After an early career in New York City, where he co-founded one of the first artist-run galleries, he fell in love with India and uprooted his life.",
+      "url": "https://www.nytimes.com/2026/10/17/arts/peter-nagy-dead.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/10/16/obituaries/16obit-nagy/16obit-nagy-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-10-17T19:41:54Z",
+      "content": "After an early career in New York City, where he co-founded one of the first artist-run galleries, he fell in love with India and uprooted his life."
+    },
     {
       "source": {
         "id": "the-new-york-times",
@@ -21,19 +34,6 @@
       "urlToImage": null,
       "publishedAt": "2026-10-17T17:31:14Z",
       "content": "“You Can See Everything” has been described as “bonkers.” Our critics have their own thoughts, and we’d like to hear your reactions in the comments, too."
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "author": "Will Heinrich",
-      "title": "Peter Nagy, Visionary Artist Turned Art Dealer, Dies at 66",
-      "description": "After an early career in New York City, where he co-founded one of the first artist-run galleries, he fell in love with India and uprooted his life.",
-      "url": "https://www.nytimes.com/2026/10/17/arts/peter-nagy-dead.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/10/16/obituaries/16obit-nagy/16obit-nagy-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-10-17T17:04:16Z",
-      "content": "After an early career in New York City, where he co-founded one of the first artist-run galleries, he fell in love with India and uprooted his life."
     },
     {
       "source": {
@@ -245,6 +245,19 @@
     },
     {
       "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "Yahoo",
+      "title": "Selma Blair Breaks Her Silence on Plane Arrest in Lengthy Statement from Rep: ‘Selma Did Not Intend to Harm Anyone’ (Exclusive) - Yahoo",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPVVp1SEJ6UElGZVhGUS1jeHZVZnNFQzZ5YlRVRldRQ1NwYTE5bVdZczdhNDlib01kUS1FbVloVFlwWDJSeHVmU0ltQjA4WDRUWGxXekx3aTdwRW5pbVN4NGw4TC1oZGx3RVdXTC03RkhGUFpGTUZXVXIyTklBdVgtT0RIMjhSUnBfdmo1Z2RyZVl4ajNMMElmS2xkVFVGTTVrUWc?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2026-10-16T18:49:51Z",
+      "content": null
+    },
+    {
+      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -255,6 +268,19 @@
       "urlToImage": null,
       "publishedAt": "2026-10-16T18:15:33Z",
       "content": "This month’s picks include a French seaside comedy, a true-crime docudrama from Mexico, a mordant satire from Iran and more."
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "Sean 'Diddy' Combs moves from New Jersey prison to facility in Pennsylvania - BBC",
+      "description": "The decision to move the rap mogul while he is serving out his 50-month sentence was made with 'safety and security in mind'.",
+      "url": "https://www.bbc.com/news/articles/cmwy4qnyjg4zo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/2447/live/f8aa0720-c982-11f1-b646-2b044167639a.jpg",
+      "publishedAt": "2026-10-16T17:36:18Z",
+      "content": "\"For privacy, safety, and security reasons, we do not comment on the conditions of confinement for any incarcerated individual, including whether a particular individual is the subject of allegations… [+74 chars]"
     },
     {
       "source": {
@@ -271,6 +297,19 @@
     },
     {
       "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "The Hollywood Reporter",
+      "title": "DC Studios’ James Gunn and Peter Safran Recall Detailing Long-Term Plans to New Boss David Ellison - The Hollywood Reporter",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOOEZoVnFXZE5JRjk4Y0trZGRfQVlaMmNGRGRTbGJNYVphNmtvOHdiQzJYdXlsVGY5ZlBRaHF4V1pfVzhYUVc1U2VwMmxTWGhkZWhvUTNfMUR4RnN2aERDZnlqS1J5cy1kSXE3d0dSM08yTGdLWE5za3c2b2xSUW9EQUo3X0dacXRMejlLbGJPVGtMMW9maThEbWxRblFJLUdWWUk3WDF0dFFzczdpU1pJMDh6b1RBTFlfUC13dlJB?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2026-10-16T17:32:31Z",
+      "content": null
+    },
+    {
+      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -284,29 +323,81 @@
     },
     {
       "source": {
+        "id": null,
+        "name": "Hollywood Reporter"
+      },
+      "author": "Molly the Bird, as told to Joel Stein",
+      "title": "Hello, Molly? The $15 Million Bird Kelly Clarkson Coveted Finally Breaks Her Silence (Exclusive) - The Hollywood Reporter",
+      "description": "As the showdown between the pop star and the Brooklyn toy store continues, the costly contraption at the center of the scandal would like to get something off its (wooden) chest.",
+      "url": "http://www.hollywoodreporter.com/lifestyle/lifestyle-news/kelly-clarkson-art-of-play-bird-molly-speaks-out-1236733601/",
+      "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2026/10/SPLASH-Stein-Clarkson-d_a0f53b.jpg?w=1440&h=810&crop=1",
+      "publishedAt": "2026-10-16T16:46:56Z",
+      "content": "I don’t watch television. I mostly read, go to shows, see some clown. So I had only a vague idea of who Kelly Clarkson was. I knew she was on some talent show with Justin Guarini, whom I know from th… [+4650 chars]"
+    },
+    {
+      "source": {
         "id": "google-news",
         "name": "Google News"
       },
-      "author": "The Hollywood Reporter",
-      "title": "Hello, Molly? The $15 Million Bird Kelly Clarkson Coveted Finally Breaks Her Silence (Exclusive) - The Hollywood Reporter",
+      "author": "Variety",
+      "title": "Ruaridh Mollica on VisionQuest and Playing a Bisexual Character - Variety",
       "description": null,
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNWnBDZlF1VU1qWWs1Ny1ZMnc2QnlPUWRYOGxMR1ZGcjhYd01BckwzX3pDLVJTYnlsTk5GRXN5Vjd6TVpxU3lHREU2LUNiUW11Q3BIMWw2R2ZpUlAtM29XV1J0NDhONVZWZlJBQlBUMzJ2QklIUlMzWjVYaHptYm55czg5d0ZpQ2pUUTRvQnBPVWZNTzNQakNsQW5ZYnBKaWJUQnNISHltOE9CTlpkbGRyY3l3bHJKVjl0OUZ3?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNd2tkeUdzRHZPdWpES0lUSTJVRm5sX25lZS1sUVNjeFR0bE5vMEZuMmFqdWVVWjBYVmZpUlZ3ZGNmdEp4bVMyMm5PM1ZHY1V5UkNjNnNnTF9YaUFtY3F5WlFnRFJ3R2trdk1ZeUFPUjZqSW0yQS1wMklJX3NuNUpMY3lXY3p6bzNKZEZSdnl3U3ZzeHRhVkZCNk5JQTZDQQ?oc=5",
       "urlToImage": null,
-      "publishedAt": "2026-10-16T16:46:56Z",
+      "publishedAt": "2026-10-16T16:42:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "Page Six",
+      "title": "‘Breaking Bad’ star RJ Mitte’s mom recounts agonizing moment she found actor dead - Page Six",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQWkUtbmVwVlQ0QjlCeWZ6TmN3QkJjTEFYSjU5NC1kaTlNWjRGb2N1ZmY4cElLS0N2MkY1NS16UHM5ZFJGT3QtS3ljdkhkOW5vLTljR3V1Y2JWTmcwTVhSaGljd281LTlSQTJ0c1JFdklDOHUxWnFoMlk5QUFMVW1qSnRpLWlKSEpDaERQQlhJNklZZWlRRmR5bnd2bHJvV0UtT29xVHB3QW5jaWFEY2ZISll1cVUxaEJxakw4WjFkRDlTQ0dOa0J2RDJQOFc?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2026-10-16T16:25:00Z",
       "content": null
     },
     {
       "source": {
         "id": null,
-        "name": "WYFF4 Greenville"
+        "name": "Billboard"
       },
-      "author": "Douglas McGlynn",
-      "title": "'I can't do performances': Billy Joel gives health update after recent brain surgery - WYFF",
-      "description": "\"I'm not allowed to drive. And I can't do performances.\" | Billy Joel opened up about his health in a recent interview, saying that while he is better now, he doesn't know if he'll be able to perform again.",
-      "url": "https://www.wyff4.com/article/billy-joel-gives-health-update-after-brain-surgery/74158985",
-      "urlToImage": "https://kubrick.htvapps.com/htv-prod/images/88330e0d-8a06-4651-bfc8-53a503d1b916.jpg?crop=1.00xw%3A0.804xh%3B0%2C0.0845xh&resize=1200%3A*",
-      "publishedAt": "2026-10-16T16:06:34Z",
-      "content": "\"Piano Man\" singer Billy Joel, 77, may be itching to get back on stage, but his doctors have an important message for him:\r\n\"Slow down, you're doin' fine.\"\r\nJoel is still recovering from a recent bra… [+2163 chars]"
+      "author": "Lyndsey Havens, Kyle Denis, Melinda Newman, Katie Bain, Sophie Williams, Isabela Raygoza, Jessica Roiz, Jessica Nicholson",
+      "title": "Olivia Rodrigo feat. Chappell Roan, Tate McRae, Zach Bryan & Angèle: New Music Friday Guide - Billboard",
+      "description": "Olivia Rodrigo with Chappell Roan, Tate McRae and Zach Bryan lead Billboard's new music guide this week, along with more artists across genres.",
+      "url": "http://www.billboard.com/music/music-news/olivia-rodrigo-tate-mcrae-zach-bryan-new-music-friday-guide-1236361399/",
+      "urlToImage": "https://www.billboard.com/wp-content/uploads/2026/10/olivia-rodrigo-chappell-roan-expectations-Phoenix-Johnson-billboard-1800.jpg?w=1024",
+      "publishedAt": "2026-10-16T16:13:02Z",
+      "content": "Billboard’sFriday Music Guide serves as a handy guide to New Music Friday’s most essential releases each week — the key music that everyone will be talking about today, and that will be dominating pl… [+10790 chars]"
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "WBAL-TV",
+      "title": "'I can't do performances': Billy Joel gives health update after recent brain surgery - WBAL-TV",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNNU1aNWNqekVyYUdxTTR1WV9NXzZ5VDltUWszTm5VMEVtaTJCYUNBMkNNVGFRWHRRei1BaXJxdDJNbldaV2RtQnd2bGwtUlVXUWRoZkRuSDhJOVBmRUptQWdFT3duVEVSaVdqb01zT2w3YkVmb0ZtMENTZ2ZyUDBreVVwemJxUlRMdVl3QTE4LTZiaExV?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2026-10-16T16:01:22Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Amanda Silberling",
+      "title": "In ‘You Can See Everything,’ Elizabeth Holmes meets her equal in comedian Nathan Fielder - TechCrunch",
+      "description": "Nathan Fielder's documentary about disgraced Theranos CEO Elizabeth Holmes has created a constellation of colliding personas that interrogate the very nature of authenticity.",
+      "url": "https://techcrunch.com/2026/10/16/in-you-can-see-everything-elizabeth-holmes-meets-her-equal-in-comedian-nathan-fielder/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/10/V8_PHASE-1_LOBTS.jpg?resize=1200,900",
+      "publishedAt": "2026-10-16T16:00:00Z",
+      "content": "“Isn’t it weird that I, like, did a TV show about kind of a business scam, and you got in trouble for like  a business scam?” comedian and filmmaker Nathan Fielder gently asks Elizabeth Holmes.\r\nOne … [+6303 chars]"
     },
     {
       "source": {
@@ -323,29 +414,42 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "Rolling Stone"
+        "id": "google-news",
+        "name": "Google News"
       },
-      "author": "Cheyenne Roundtree",
-      "title": "Sean Combs Transferred to Pennsylvania Prison After Contraband Bust - Rolling Stone",
-      "description": "Sean Combs was transferred to a low-security prison in Pennsylvania after he was reportedly caught with a contraband cellphone.",
-      "url": "http://www.rollingstone.com/music/music-news/sean-combs-transferred-pennsylvania-prison-contraband-bust-1235643063/",
-      "urlToImage": "https://www.rollingstone.com/wp-content/uploads/2026/10/Diddy-prison-transferred.jpg?crop=0px%2C18px%2C1800px%2C1014px&resize=1600%2C900",
-      "publishedAt": "2026-10-16T15:15:02Z",
-      "content": "Sean Combs has been transferred to a low-security prison facility in Pennsylvania after he was reportedly caught with a contraband cellphone and suffered a head injury while placed in solitary confin… [+2671 chars]"
+      "author": "The Guardian",
+      "title": "Russell Brand was ‘wild-eyed maniac’ when trying to drag woman into toilets, court told - The Guardian",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOeXJiNXVoc0xuTGJGZWJTZk9nNkxfX2xSRV9jbjNxREV0MkNGMGtBak5RRUxLRVNHYUlhajZCRGNvV3RiMUdSWVVfM1Y4RHdiOXlhaEJSTkpGT1htTlJoLXgtb21TRzdaNE5MV3pic2RtNnpEckVHOG9TUHY2cU82eHRYejFua3JtQlIyU00wZVlzd0tnZFB2RDZqejk1SXlmcEw5aUt3R3JJSm1D?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2026-10-16T15:21:00Z",
+      "content": null
     },
     {
       "source": {
-        "id": null,
-        "name": "Entertainment Weekly"
+        "id": "google-news",
+        "name": "Google News"
       },
-      "author": "Shelby Stivale",
-      "title": "“Breaking Bad” star RJ Mitte’s mom details his final morning, thinks suicide was a ‘spur of the moment’ decision - Yahoo",
-      "description": "The actor died on Oct. 12. He was 34.",
-      "url": "https://ew.com/rj-mitte-mom-details-actors-final-moments-12177315",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/16c03dedaac4ef2d5bdf087aa83ae18629be83c13f105570e643fb0835c80fa0/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fentertainment_weekly_785%2F15e9ca6e7b071497a59648c0e694385d.jpg",
-      "publishedAt": "2026-10-16T14:59:18Z",
-      "content": "Key Points\r\n<ul><li>RJ Mitte's mom is opening up about the actor's \"tough\" final moments.\r\n</li><li>The Breaking Bad star died on Oct. 12. He was 34.\r\n</li><li>Mitte's rep previously confirmed that h… [+2833 chars]"
+      "author": "Variety",
+      "title": "Julia Stiles Is ‘Crying’ at ‘DWTS’ Rehearsals Ahead of Heath Ledger Tribute: ‘Bringing Back So Many Memories’ - Variety",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNVndKRGdMazBTWVFJSW84ZXI0cmZINzNfdnRwNks5QjV1Mm9KT1RpR2prRV91dkptRHNMVjdNSnRGMUdnTWdxX3VWa0NTMlRjdG9PdEw0ZlQzLTlPM0NKSnU5UW1lWFhKMjFvSUVTM2VlZ2Q2LWd0U1NUaUJfVks1WmN5ZGxseEN6Qm52RGVKMEVUazdCb2N1ZHJoVW53Y2hHdjhVNDhSUkhUUQ?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2026-10-16T15:13:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "TODAY.com",
+      "title": "Hilary Swank, 52, Addresses Backlash Over Having a Baby Later in Life - TODAY.com",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPa2pyNlBKZkVaLTd3VUdqbXpaTFlQQWZzYkNVLUVJRDNqeGlEYmlNWjU4Y2pKYkNVQTFaS09rMWt1dThXTnJfeGcyeFhnc0JoZENfVmRJRkFrWllyTXJoYlNRSlNQXy1pQ2tWbkVSVUIyNFBMQkZaS3E2NDRBV3dSZ2RSX2g2cnpURVRWUGJnTjVjVjdQSFR0azQ4VVlzT0NB?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2026-10-16T14:58:32Z",
+      "content": null
     },
     {
       "source": {
@@ -375,16 +479,16 @@
     },
     {
       "source": {
-        "id": "google-news",
-        "name": "Google News"
+        "id": null,
+        "name": "Yahoo Entertainment"
       },
-      "author": "BBC",
-      "title": "Woman says she was left 'bewildered and confused' by alleged Russell Brand assault - BBC",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5PaFBzYUh5Vmxtcm1CT0I4YmlRZWFMbGVtWGFwMUlkY0tra1BtMjVBdkJUNnNIbThGZjFUVG9EdkNMQVpuR1AxdkYxaE5WZWs5b1ZTSzRmRl9EMjQ?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2026-10-16T14:06:59Z",
-      "content": null
+      "author": "Brett Arnold",
+      "title": "New movies to watch this weekend: See 'You Can See Everything' and 'Whalefall' in theaters, rent or buy 'Practical Magic 2' stream 'Love of Your Life' on Prime Video - Yahoo",
+      "description": "Plus, \"Street Fighter\" gets another big-screen adaptation, while new documentaries center on Norm Macdonald and the Wu-Tang Clan.",
+      "url": "https://www.yahoo.com/entertainment/movies/article/new-movies-to-watch-this-weekend-see-you-can-see-everything-and-whalefall-in-theaters-rent-or-buy-practical-magic-2-stream-love-of-your-life-on-prime-video-141039036.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/a23ee70df994268800f1b78f8b9d6743f222bb5ce3b1b0bc1bc7835e2e54a3d3/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Flead-badge-top-left-2_4860.png",
+      "publishedAt": "2026-10-16T14:10:39Z",
+      "content": "Welcome to Trust Me, I Watch Everything, a weekly guide to notable new movies opening or becoming available each Friday.\r\nThis week brings one of the buzziest releases of the year to the big screen: … [+20619 chars]"
     },
     {
       "source": {
@@ -404,26 +508,26 @@
         "id": "google-news",
         "name": "Google News"
       },
-      "author": "InStyle",
-      "title": "Prince Harry and Meghan Markle’s Friend Says They “Never Agreed” to This Royal Ban Amid U.K. Return - InStyle",
+      "author": "Variety",
+      "title": "Chris Pratt, Pope Leo Explore St. Peter's Tomb in Vatican Doc Trailer - Variety",
       "description": null,
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNZ0x6QkVzTmdjaEpUWWxFM1hPeWJ1Y19yaEx0dFNQZFJiQ3UxZGI3YU5iT1VQMEhZS3VlMmhxSUVVU3lVb01CZ1NScGpnSzBlQ0JaLVNBd3p6eGloTkhTMzZOWWxPTkU0Z2NfYWxGTU9oMEtBTllnUS01OXNZMTQ3b0t6T0ZiMTJ1ODJUSnN1N3hYd3REUWJtbzVNSQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMWJzVDBKZzhoQnlJTUtpR0phbndLUmNsYjdvYWRoNm96VDRobjk0WW5pdVk0ZEdObDBQcjJfWFYxVmpRUEZ3X19sYW9iUWZHSEhzUVRIQ0c4aFVVNWNtV2VlWENZb213RVpEQ2c5aGdqR3Z5QjZqeDdwSEJjUXZPOFBRMVFoWlJ5YTFtaUFXRjA2cktDVko1QVBsRDR3TWVwQS1ERmEzTQ?oc=5",
       "urlToImage": null,
-      "publishedAt": "2026-10-16T13:56:10Z",
+      "publishedAt": "2026-10-16T13:35:00Z",
       "content": null
     },
     {
       "source": {
-        "id": null,
-        "name": "PEOPLE"
+        "id": "google-news",
+        "name": "Google News"
       },
-      "author": "Luke Chinman",
-      "title": "Cause of Death for Influencer Jennifer Burnham’s 4-Year-Old Son Revealed - Yahoo",
-      "description": "The content creator’s child died on Oct. 5, she previously shared on Instagram",
-      "url": "https://people.com/cause-of-death-for-influencer-jennifer-burnham-4-year-old-son-revealed-12175707",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/9409635a25f6345f34d6b1013d2e541e6ae79e6f13b2683245bcfdd194391bfc/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2F23844059dea5dce56b87ab860e6ead78.jpg",
-      "publishedAt": "2026-10-16T13:23:25Z",
-      "content": "NEED TO KNOW\r\n<ul><li>Influencer Jennifer Burnham shared the cause of death of her 4-year-old son Baxter\r\n</li><li>The content creator's child died on Oct. 5, as she previously shared on Instagram\r\n<… [+3932 chars]"
+      "author": "InStyle",
+      "title": "Jon Gosselin Breaks His Silence on Son Collin’s Explosive Memoir Claims About His Mother Kate - InStyle",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZHd1VXdWSTJOQmJSNnNlYVJRNkg5WkdpTlg1M2ZUaWxHeUJLdWsxZWRlQWRreFFjRjM4d1lKaVo2NC1IaHQtY1JxeTlBekpsdUhFb0RiQUNrSV9TMlN0amNiRzBZNmJYOEs0eFppNjJqZmtBNXRHMC02OFJWa2QzXzRMSnBqRGlDWXJHZUJ3ME9lUkNt?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2026-10-16T13:18:26Z",
+      "content": null
     },
     {
       "source": {
@@ -437,19 +541,6 @@
       "urlToImage": "https://variety.com/wp-content/uploads/2022/10/GettyImages-953254538.jpg?w=1000&h=563&crop=1",
       "publishedAt": "2026-10-16T13:14:00Z",
       "content": "“Mom” star Anna Faris acknowledged that “of course it hurts” how show creator Chuck Lorre wrote about her in his recent memoir, in which he said he was “in fact, correct” about his initial reluctance… [+1800 chars]"
-    },
-    {
-      "source": {
-        "id": "cnn",
-        "name": "CNN"
-      },
-      "author": "Charlotte Reck",
-      "title": "Esther McGregor and Emilio Sakraya reportedly set to star in ‘Fourth Wing’ TV series - CNN",
-      "description": "Esther McGregor and Emilio Sakraya are set to star in the small-screen adaptation of Rebecca Yarros’ hit romantasy novel “Fourth Wing” when it lands on Prime Video, industry outlets reported Thursday.",
-      "url": "https://www.cnn.com/2026/10/16/entertainment/fourth-wing-series-cast-prime-scli-intl",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/20261016-esther-mcgregor-emilio-sakraya-split.jpg?c=16x9&q=w_800,c_fill",
-      "publishedAt": "2026-10-16T13:08:14Z",
-      "content": "Esther McGregor and Emilio Sakraya are set to star in the small-screen adaptation of Rebecca Yarros hit romantasy novel Fourth Wing when it lands on Prime Video, industry outlets reported Thursday.\r\n… [+2031 chars]"
     },
     {
       "source": {
@@ -480,19 +571,6 @@
     {
       "source": {
         "id": null,
-        "name": "Eonline.com"
-      },
-      "author": null,
-      "title": "Pregnant Hilary Swank, 52, Reacts to Criticism Over Having Kids Later in Life - E! News",
-      "description": "Hilary Swank—who is pregnant with her third baby at 52—responded to criticism she's gotten for starting to have children in her late 40s.",
-      "url": "https://www.eonline.com/news/1437148/hilary-swank-reacts-to-backlash-for-having-children-older",
-      "urlToImage": "https://akns-images.eonline.com/eol_images/Entire_Site/20261014/d8f19d28-668e-4338-86f9-c011e97b3893_1792014799.jpg?fit=around%7C1200:1200&output-quality=90&crop=1200:1200;center,top",
-      "publishedAt": "2026-10-16T12:21:00Z",
-      "content": "P.S. Hilary Swank has something to say.\r\nThe 52-year-oldwho shares 3-year-old twins, son Ohm and daughter Aya, with husband Philip Schneiderdiscussed the criticism she's received starting her family … [+822 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "BBC News"
       },
       "author": null,
@@ -502,19 +580,6 @@
       "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/3700/live/1bf0f100-c95e-11f1-9a39-31b474234113.jpg",
       "publishedAt": "2026-10-16T12:06:22Z",
       "content": "Dr Nicola Kemp of the Froebel Trust, which supports early years education research, said: \"A growing body of evidence shows that regular contact with nature can support children's development in many… [+90 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Tom Parfitt",
-      "title": "Julia Stiles to honor Heath Ledger with 'really special' tribute on 'Dancing With the Stars' - Yahoo",
-      "description": "The actor will revisit a beloved moment from their 1999 movie \"10 Things I Hate About You\" during the show's Dedication Night.",
-      "url": "https://www.yahoo.com/entertainment/tv/article/julia-stiles-to-honor-heath-ledger-with-really-special-tribute-on-dancing-with-the-stars-105559952.html",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/8e5c1a51b3b38276f2b832cb7256327fa59f98efead8c521b91df7c807469d42/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fheath-ledger-julia-stiles_0058.png",
-      "publishedAt": "2026-10-16T11:05:09Z",
-      "content": "Julia Stiles will pay tribute to her late 10 Things I Hate About You costar Heath Ledger on the next episode of ABC's Dancing With the Stars.\r\nStiles and her professional dance partner, Ezra Sosa, wi… [+2123 chars]"
     },
     {
       "source": {
@@ -544,29 +609,16 @@
     },
     {
       "source": {
-        "id": "google-news",
-        "name": "Google News"
+        "id": null,
+        "name": "Themirror.com"
       },
-      "author": "The Mirror US",
+      "author": "Chiara Fiorillo",
       "title": "Jimmy Kimmel fans say 'this is wild' as Kim Kardashian drops bombshell admission on OJ Simpson - The Mirror US",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNRXJod2pQTmxTMGdmNWp1SmFjTVJrTnlkWkt3RDdEdERlNXJFRXpndE9xcEZfQU5OU0J0RFRXdHJxVC1uWWt0TWY2d1A3MmllZzZ5QXNFSTlVeUpPSWpBM08yM1FNTVc5TWxyWmkzWXB0TDBuVUozWnpDdmJhd0tHalkwWGJjZXJZZjVZN1ln0gGTAUFVX3lxTFBwNHpJSDFnNlNXdmt4Zkh2QzBDZF9mdVdEM1dUdU1IVFdtX2xXUkhDcXo3bmJCbGdjaGdzVmE5eG5GRFRrMnZDTF9hSFYtQThCRTM5ZzNkLU1qTU1UYXlYbE9WWkRqdjNZNHROUmRDb3ZGSUo4clJLVjJJQzZLSHZKVFp1ZE83YW8yY0ZxdmctM05qNA?oc=5",
-      "urlToImage": null,
+      "description": "Kim Kardashian recalled an anecdote from 1994, when OJ Simpson stayed at her home during his murder trial - following her admission, Jimmy Kimmel Live! viewers were left surprised",
+      "url": "https://www.themirror.com/entertainment/kim-kardashian-jimmy-kimmel-interview-2071723",
+      "urlToImage": "https://i2-prod.themirror.com/article2071727.ece/ALTERNATES/s1200d/0_Screenshot-2026-10-16-at-094607.jpg",
       "publishedAt": "2026-10-16T10:38:00Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "business-insider",
-        "name": "Business Insider"
-      },
-      "author": "Callie Ahlgrim",
-      "title": "The scariest thing about Elizabeth Holmes' new documentary is how much I wanted to believe her - Business Insider",
-      "description": "Nathan Fielder's new documentary \"You Can See Everything\" is far stranger than it appears, showing a new side to Theranos founder Elizabeth Holmes.",
-      "url": "https://www.businessinsider.com/nathan-fielder-elizabeth-holmes-documentary-you-can-see-everything-review-2026-10#article",
-      "urlToImage": "https://i.insider.com/6ace776cadb77227909a4e5d?width=1200&format=jpeg",
-      "publishedAt": "2026-10-16T10:00:00Z",
-      "content": "Elizabeth Holmes famously does not blink, whether she's pitching investors or, by her own admission, flirting with a guy.\r\nIs her moony gaze haunting or hypnotic? A calculated act or proof of her nai… [+5044 chars]"
+      "content": "Kim Kardashian appeared on Jimmy Kimmel Live! on October 15\r\nFans of Jimmy Kimmel were left shocked after Kim Kardashian made a \"wild\" admission about OJ Simpson.\r\nThe Kardashians star, 45, revealed … [+3150 chars]"
     },
     {
       "source": {
@@ -593,6 +645,19 @@
       "urlToImage": null,
       "publishedAt": "2026-10-16T09:02:38Z",
       "content": "While Halloween and the Day of the Dead provide many ways to celebrate, this season offers other reasons to gather, too. Better yet, these events don’t cost a dime."
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "The New York Times",
+      "title": "In 1971, This Film Was a Scandal. In 2026, It’s a Respected Period Piece. - The New York Times",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxONVNYT19uMXRKUGpjR3g0WGZMYWxDcHRkeFdUM0hZQ2dxcDhubWJ5YUs4NlZaZGVxU2Y1aVRLMGU4VGhRYU1kSE0tT0xlNG1fNXQyckdDSXFvOHFmWHRQSGFJNlhTajFidTNiR0hlOWJRbFlyeWl2eVg1SkI4emsyU0xqN0gtSnM?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2026-10-16T09:02:30Z",
+      "content": null
     },
     {
       "source": {
@@ -703,12 +768,12 @@
         "id": "google-news",
         "name": "Google News"
       },
-      "author": "E! News",
-      "title": "James McAvoy Reveals Movie That Still Earns Him “Bonkers” Residuals—And It's Not What You'd Think - E! News",
+      "author": "AP News",
+      "title": "Prince Harry and Meghan cheered as they make first joint appearances since returning to UK - AP News",
       "description": null,
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQeGRHcnlvRi1aLXV4QmVINjJMUHlqUl9pcmpzMU9hQ29vUzNhUGdxRTJSWGRzTWJ4VVB0UVVFY2UwZzRzR3RsbFhVY3oyR3FlN3NpOWVUUHF2MlZVQWNndWlqdGtKNnZSRFdQc3VkV0FiZy1hNVpzWGQ3RkJPcENndXhVeVZHbGZCYnJEY083bDZwQ1RmTEE?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOelpPeUtTVGdaZXFENkhqYzlHNGc0RHBqbUg0T3JGSlFkXzNLUjY4bFVTek9QemtpME94emFKSjg4X09qcllWdUR5TkNoZWw2dnZycE1uS3NrTllVSUhkSzhDMl90WkszdkVTM1AyckxQWHJmTHlmSmVMSnVWdEF1UnZyT3JvNWpUWnFLbkdkYmE?oc=5",
       "urlToImage": null,
-      "publishedAt": "2026-10-16T04:11:00Z",
+      "publishedAt": "2026-10-16T04:30:00Z",
       "content": null
     },
     {
@@ -739,29 +804,55 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "Page Six"
+        "id": "google-news",
+        "name": "Google News"
       },
-      "author": "Antoinette Bueno",
-      "title": "Jon Gosselin speaks out in defense of son Collin’s bombshell memoir, threatens legal action - Page Six",
-      "description": "The former reality star fired back at his ex-wife’s claim that Collin is mentally ill.",
-      "url": "https://pagesix.com/2026/10/15/celebrity-news/jon-gosselin-speaks-out-in-defense-of-son-collins-bombshell-memoir-threatens-legal-action/",
-      "urlToImage": "https://pagesix.com/wp-content/uploads/sites/3/2026/10/145216823.jpg?quality=75&strip=all&w=1200",
-      "publishedAt": "2026-10-16T02:08:00Z",
-      "content": "Jon Gosselin fiercely defended his son Collin after the 22-year-old’s new memoir made shocking allegations against his mother, Kate Gosselin.\r\nJon said he was proud of Collin’s bombshell book, In the… [+4021 chars]"
+      "author": "Entertainment Weekly",
+      "title": "Candace Cameron Bure says being gassed on ‘Special Forces’ was the ‘worst thing’ she’s ever experienced - Entertainment Weekly",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBhSTNFR3pmRV9DTEdEeGJXTDJwWnBLdVc4WmMxd1pEX3A1S3ozZE9iS2FQREFmVlEyS29KVV9OLTZuaThuWFh2cjVxcEZCQmoyNjFxYzJzVllqSEFsOXZ1MFFqNDRwajU1SjdJcjhScnVGeThjeHBaZA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2026-10-16T02:15:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "Entertainment Weekly",
+      "title": "‘DWTS’ pro Val Chmerkovskiy apologizes to Carrie Ann Inaba for ‘careless post’ - Entertainment Weekly",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQdENkaXVPbV93UWt2bXNhVUp3X3NibnNDbm1IV3lneEZNc2ZRVUdiR004YzRMWlR2ZTBEY0hOc1o2YmJQNS1hdjVEenRrb2lVcFhNcFZJVFM0NDlCejk3UVBlajM1VkhwVDY1UGtDbDZMSmdqTGZ2a3dPWVVpRkt5SlVmZUowWVdVS2RaaGI3ekVVc2c1Mi1WeFZSMjVKdjBrNzhVbWlCLVBJeWJaZlE?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2026-10-16T02:13:29Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "The Hollywood Reporter",
+      "title": "‘SNL’ Star Michael Che Reacts to Shane Gillis’ Controversial Monologue: “That’s Comedy” - The Hollywood Reporter",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPSnJLa195cDYyRjM1U3RmT3dqNFkyX2pIZFRYVEQtNWdhME9tbjVHeTg3eWRLeXl6TEJSVWJIalFzaFhGdnZfS2kxRGJxLXpudXBGQUZja3hidk1fbFduYkVJaGNxNzd3QkRwVWJQRGJ0WDZyZW93Nl9fYU04alEwajBCV29BWWZaeFd4ZVg4X1JuWk9MdThONVFlNXlPWFljTXhReUF3S2JGVGgtbElqSG00anlkNkE?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2026-10-16T01:27:42Z",
+      "content": null
     },
     {
       "source": {
         "id": null,
-        "name": "Hollywood Reporter"
+        "name": "9to5Mac"
       },
-      "author": "McKinley Franklin",
-      "title": "‘DWTS’ Pro Val Chmerkovskiy Apologizes to Carrie Ann Inaba for “Careless” Will Smith Oscars Slap Reference: “I Will Do Better” - The Hollywood Reporter",
-      "description": "The dancer made a post writing, “You almost saw Fresh Prince enter the ballroom last night,\" which prompted the judge to respond with her own social post that read, \"So this is what we are doing now?\"",
-      "url": "http://www.hollywoodreporter.com/tv/tv-news/dwts-val-apologizes-carrie-ann-inaba-will-smith-oscars-slap-1236733459/",
-      "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2026/10/CAI-Val-GettyDisney-H-2026.jpg?w=1296&h=730&crop=1",
-      "publishedAt": "2026-10-16T01:18:45Z",
-      "content": "Dancing With the Stars professional dancer Val Chmerkovskiy has apologized to Carrie Ann Inaba for his “careless” reference to Will Smith’s infamous Oscars slap in a since-deleted TikTok Story post. … [+2889 chars]"
+      "author": "Marcus Mendes",
+      "title": "‘Tenzing’ premieres on Apple TV, starring Genden Phuntsok, Tom Hiddleston and Willem Dafoe - 9to5Mac",
+      "description": "The newest Apple Original Films feature, “Tenzing,” is now available to Apple TV subscribers. Watch the trailer below.",
+      "url": "https://9to5mac.com/2026/10/15/tenzing-premieres-on-apple-tv-starring-tom-hiddleston-and-willem-dafoe/",
+      "urlToImage": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/tenzing-leads.jpg?quality=82&strip=all&resize=1200,628",
+      "publishedAt": "2026-10-16T01:00:00Z",
+      "content": "The newest Apple Original Films feature, Tenzing, is now available to Apple TV subscribers. Watch the trailer below.\r\nA few days ago, Apple Original Films held a limited theatrical premiere of Tenzin… [+2113 chars]"
     },
     {
       "source": {
@@ -775,19 +866,6 @@
       "urlToImage": "https://static01.nyt.com/images/2026/10/15/multimedia/NETFLIX-Bela-Bajaria-qpfh/NETFLIX-Bela-Bajaria-qpfh-mediumSquareAt3X.jpg",
       "publishedAt": "2026-10-16T00:25:01Z",
       "content": "Peter Rice, a former executive at Disney and Fox, will take over from Bela Bajaria, who had held the job since 2023."
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Variety"
-      },
-      "author": "Steven J. Horowitz",
-      "title": "Olivia Rodrigo and Chappell Roan Team for 'Expectations' Remix Video - Variety",
-      "description": "The pop stars link for a retro video featuring guest appearances from David Byrne and Dan Nigro.",
-      "url": "https://variety.com/2026/music/news/olivia-rodrigo-chappell-roan-expectations-video-david-byrne-1236913618/",
-      "urlToImage": "https://variety.com/wp-content/uploads/2026/10/Credit_PhoenixJohnson-e1792109845279.jpg?w=1000&h=563&crop=1",
-      "publishedAt": "2026-10-16T00:25:00Z",
-      "content": "Olivia Rodrigo and Chappell Roan appear on vintage game shows in the retro music video for the “Expectations” remix, featuring appearances from musician David Byrne and producer Dan Nigro.\r\nThe clip,… [+2351 chars]"
     },
     {
       "source": {
@@ -817,55 +895,29 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "Deadline"
+        "id": "google-news",
+        "name": "Google News"
       },
-      "author": "Armando Tinoco",
-      "title": "'Klara And The Sun' Red Carpet Premiere Photos: Jenna Ortega, Amy Adams, Florence Pugh, Aran Murphy & More - Deadline",
-      "description": "Taika Waititi's Klara and the Sun premiered at the 70th BFI London Film Festival at BFI Southbank in London, England, and its stars came out to celebrate.",
-      "url": "https://deadline.com/gallery/klara-and-the-sun-red-carpet-premiere-photos/",
-      "urlToImage": "https://deadline.com/wp-content/uploads/2026/10/klara-and-the-sun-red-carpet-premiere-photos.jpg?w=1024",
-      "publishedAt": "2026-10-15T22:10:00Z",
-      "content": "Taika Waititi’s Klara and the Sun premiered at the 70th BFI London Film Festival at BFI Southbank in London, England, and its stars came out to celebrate.\r\nAmy Adams, Jenna Ortega, Rachel Foreman, Ar… [+9377 chars]"
+      "author": "The Verge",
+      "title": "The tech backlash is now in theaters - The Verge",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOSm5fZmNTWGdKY21icE1SZk5yb3UzM3JVSXktaTFVeVh2Zm5WOXFFMzVMeXdid1ZUOHdIRGpBMzZMbWlpcFRvbDBOY3hiRFNnMW5HeDFBOWJJVXpJWFM2Y2N3cnRlMDI2bC1xM0J2anpzYnpSZ2dPYzZ3YzB4RkhOX2RIaXl1cTV3aTRSdElndjMxUmwwYkhzMll4ODFkblF0VF9Wd3pkdjFXYlJmQ0s5aGFOckNWeFV6RXhFSlB5Y1QwNlhzUFE5Vk9R?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2026-10-15T21:39:52Z",
+      "content": null
     },
     {
       "source": {
         "id": null,
-        "name": "IndieWire"
+        "name": "TheWrap"
       },
-      "author": "Alison Foreman",
-      "title": "Danny Trejo’s Son Explains His Dad’s Pro-ICE Movie Controversy: ‘People Are Not Turning Down Work’ - IndieWire",
-      "description": "Gilbert Trejo explains his dad’s 'Pawn Shop' backlash, financial pressures, and what he knew about Ben Shapiro and The Daily Wire before now.",
-      "url": "https://www.indiewire.com/features/interviews/danny-trejo-son-explains-pawn-shop-ice-controversy-1235221712/",
-      "urlToImage": "https://www.indiewire.com/wp-content/uploads/2026/10/GettyImages-1322421065-e1792097962648.jpg?w=650",
-      "publishedAt": "2026-10-15T21:45:00Z",
-      "content": "Danny Trejo was excited to play the good guy.\r\nHis son, filmmaker Gilbert Trejo, remembers being with the 82-year-old actor when his agent pitched “Pawn Shop” a few weeks before filming began. The mo… [+11066 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "/FILM"
-      },
-      "author": "Ryan Scott",
-      "title": "Crystal Lake Showrunner Defends Controversial Jason Voorhees Twist In Friday The 13th Series - SlashFilm",
-      "description": "Brad Caleb Kane, the showrunner of Crystal Lake, has defended the wild swing and big twist in the Peacock horror series.",
-      "url": "https://www.slashfilm.com/2288297/crystal-lake-showrunner-jason-voorhees-twist-defence-friday-the-13th-series/",
-      "urlToImage": "https://www.slashfilm.com/img/gallery/crystal-lake-showrunner-defends-controversial-jason-voorhees-twist-in-friday-the-13th-series/l-intro-1792100109.jpg",
-      "publishedAt": "2026-10-15T21:37:05Z",
-      "content": "The larger point of this show is to help fill in gaps in our understanding of this 46-year-old horror series. We have a much better understanding of Pamela Voorhees, who was revealed to be the killer… [+1630 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "inTouch Weekly"
-      },
-      "author": "Mona Khalifeh",
-      "title": "Casey Anthony Appears to Sound Off on Shane Gillis Following ‘SNL’ Monologue, Tells Men to ‘Do Better’ - Yahoo",
-      "description": "Casey Anthony appears to be the latest public figure to weigh in on Shane Gillis‘ controversial Saturday Night Live monologue. In his third time hosting the...",
-      "url": "https://intouchweekly.com/casey-anthony-appears-to-sound-off-on-shane-gillis-following-snl-monologue-tells-men-to-do-better/",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/d2bad58c4a70e56e89f7bb3657542c33e64661c81f799de2334cb64a77358fe5/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fin_touch_weekly_articles_766%2Fca5bba50239cdfad6be29296ddffb211.jpg",
-      "publishedAt": "2026-10-15T21:30:26Z",
-      "content": "Casey Anthony appears to be the latest public figure to weigh in on Shane Gillis' controversial Saturday Night Live monologue.\r\nIn his third time hosting the live sketch show on October 10, Gillis, 3… [+1820 chars]"
+      "author": "Tess Patton",
+      "title": "Prime Video’s ‘Fourth Wing’ Adaptation Finds Leads in Esther McGregor and Emilio Sakraya - TheWrap",
+      "description": "The duo will star as Violet and Xaden in the romantasy BookTok favorite from showrunner and EP Meredith Averill.",
+      "url": "https://www.thewrap.com/creative-content/tv-shows/fourth-wing-show-violet-xaden-actors-esther-mcgregor-emilio-sakraya/",
+      "urlToImage": "https://www.thewrap.com/wp-content/uploads/2026/10/Ester-and-Emilio.jpeg",
+      "publishedAt": "2026-10-15T21:19:24Z",
+      "content": "One of BookTok’s romantasy favorites “Fourth Wing” has found its Violet and Xaden in Esther McGregor and Emilio Sakraya. McGregor, who gained popularity in “We Were Liars,” will star as Violet Sorren… [+1957 chars]"
     },
     {
       "source": {
@@ -882,28 +934,15 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "Hollywood Reporter"
-      },
-      "author": "Chris Gardner",
-      "title": "Selma Blair Is Accused of Assaulting Four People. Can Her Career Survive Another Scandal? - The Hollywood Reporter",
-      "description": "The 54-year-old is being backed by feature film collaborators amid the latest turmoil: “My heart hurts for her right now, and I want to support her anyway I can, as well as all involved in this very sad incident.”",
-      "url": "http://www.hollywoodreporter.com/news/general-news/selma-blair-airplane-assault-case-history-apology-career-1236730613/",
-      "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2026/10/GettyImages-2282544167.jpg?crop=0px%2C52px%2C3552px%2C1988px&resize=1440%2C810",
-      "publishedAt": "2026-10-15T20:56:38Z",
-      "content": "Things were finally looking up for Selma Blair.\r\nHer multiple sclerosis, in remission for close to five years thanks to intensive treatment that included chemotherapy and a stem cell transplant, seem… [+11121 chars]"
-    },
-    {
-      "source": {
         "id": "google-news",
         "name": "Google News"
       },
-      "author": "Block Club Chicago",
-      "title": "Rat Hole In A Cage? Smashing Pumpkins Display Famed Concrete Slab At United Center Show - Block Club Chicago",
+      "author": "The New York Times",
+      "title": "‘Whalefall’ Review: In the Belly of the Beast - The New York Times",
       "description": null,
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPXzNjWXVUbjRxZzhCdDNhcWpjT2RXbVJSb29hT0o5SUdiSFU4UC1SemZRanJnbHJWVjRRX3dKSzgwWlBfY2NaZ3VMNkJ5Z3ktdWYxMklLZmhnOW9LcUVDZHllMWM0QTUzYy1oQlB6WFFxNExWV09RMXhubm9qcDVfMnZGek9kejNFOXVtcDFxaXhjQnRtU3o3eVE2UEtQbmU0T2lDVFRYRXlyV3l6UjkzOEd1MUFuVjVySWpMcTRld04xb1A0eWc?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA4bzFWTmFIMDNHWVBxcTF4LWJ5eFRDWUp4UjVNYUJuZWV6dFpBcWVRS3BQbFZwUTQ1T2ZrdXlsejdXbU5jU3NrOWx4UkMxSE5lU1ZFWnVBaUhRdkI4Y2ZrRFg1azFYeVdnZFk4LVlOVGI?oc=5",
       "urlToImage": null,
-      "publishedAt": "2026-10-15T20:25:37Z",
+      "publishedAt": "2026-10-15T20:07:39Z",
       "content": null
     },
     {
@@ -960,32 +999,6 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "Vulture"
-      },
-      "author": "Alison Willmore",
-      "title": "You’re Eaten by a Whale, and the Whale Is Toxic Masculinity - Vulture",
-      "description": "Imagine being eaten by a whale, and the whale is toxic masculinity. That’s ‘Whalefall,’ the new film starring Austin Abrams.",
-      "url": "http://www.vulture.com/article/whalefall-review-the-whale-is-toxic-masculinity-okay.html",
-      "urlToImage": "https://pyxis.nymag.com/v1/imgs/426/94f/6d949bbfa9c487858e05d34aada246159c-whalefall.1x.rsocial.w1200.jpg",
-      "publishedAt": "2026-10-15T19:12:40Z",
-      "content": "Whalefall is a movie that primarily takes place in the heaving guts of a sperm whale. Before getting into the how and the why of the stomach-centric predicament its hero finds himself in, its worth n… [+5466 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Hollywood Reporter"
-      },
-      "author": "Alex Weprin",
-      "title": "Disney Inks Major Creator Deal With Dude Perfect (Exclusive) - The Hollywood Reporter",
-      "description": "The Texas-based sports creators and the media company have signed a wide-ranging partnership that will span entertainment, sports, consumer products and experiences.",
-      "url": "http://www.hollywoodreporter.com/business/digital/disney-inks-major-creator-deal-dude-perfect-1236732988/",
-      "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2026/10/Disney_Dude-Perfect.jpeg?crop=0px%2C475px%2C8103px%2C4534px&resize=1440%2C810",
-      "publishedAt": "2026-10-15T19:03:07Z",
-      "content": "The Walt Disney Co. is cutting another major creator deal, this time with the prolific sports-focused Dude Perfect, The Hollywood Reporter has learned.\r\nThe deal, which the company is framing as a “c… [+2310 chars]"
-    },
-    {
-      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -1000,28 +1013,41 @@
     {
       "source": {
         "id": null,
-        "name": "Playbill.com"
+        "name": "Deadline"
       },
-      "author": "",
-      "title": "Rhinoceros, With John Turturro, Replaces The Full Monty Revival in Roundabout Broadway Season - Playbill",
-      "description": "The production has now been postponed indefinitely due to cast availability.",
-      "url": "https://playbill.com/article/diane-paulus-directed-rhinoceros-replaces-the-full-monty-revival-in-roundabout-broadway-season",
-      "urlToImage": "https://assets.playbill.com/editorial/_facebookOpenGraph/Tatiana-Maslany-Tony-Shalhoub-and-John-Turturro.jpg",
-      "publishedAt": "2026-10-15T18:59:00Z",
+      "author": "Glenn Garner",
+      "title": "Brad Caleb Kane On Making 'Crystal Lake' In Same NJ Town As 'Friday the 13th' - Deadline",
+      "description": "As 'Crystal Lake' brings Jason Voorhees fans to his roots, the Peacock prequel series takes the 'Friday the 13th' franchise back to where it all began.",
+      "url": "http://deadline.com/2026/10/brad-caleb-kane-crystal-lake-same-nj-locations-friday-the-13th-season-2-1237157829/",
+      "urlToImage": "https://deadline.com/wp-content/uploads/2026/10/NUP_208267_00235.jpg?w=948",
+      "publishedAt": "2026-10-15T18:40:00Z",
+      "content": "SPOILERS: This post contains details about Peacock‘s Crystal Lake\r\nAs Crystal Lake brings Jason Voorhees fans to his roots, the Peacock prequel series takes the Friday the 13th franchise back to wher… [+4831 chars]"
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "TVLine",
+      "title": "What To Watch This Holiday Season: Every New Christmas Movie Premiere Across Hallmark, Netflix, And Beyond - TVLine",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOTnFKVUxvTHNta2VJTll0cXFHbHYxQnZuTnlBNnNXVTBhQXJaQWlMeVpSLUhCeFR3dXhSQkgyZ0JkUWlyN25sVDFPalM2NkhTYXExTTYzX0U0bE84d1dUN3kxN2ZPejdma0cwNUZsMFh3U0kxLXhhSE5MM2dGSXV3TFhiQTh0eExjUndLMmlDcHF0S1lC?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2026-10-15T18:05:04Z",
       "content": null
     },
     {
       "source": {
-        "id": null,
-        "name": "Page Six"
+        "id": "google-news",
+        "name": "Google News"
       },
-      "author": "Amanda Rubio",
-      "title": "Engaged Joe Manganiello thinks he’d still be married to Sofía Vergara if not for mystery illness - Page Six",
-      "description": "The actor, who reveals in his new memoir that he battled “autoimmune-related illnesses” for seven years, finalized his divorce from Vergara in February 2024.",
-      "url": "https://pagesix.com/2026/10/15/celebrity-news/joe-manganiello-says-mystery-illness-may-have-played-a-role-in-sofia-vergara-divorce/",
-      "urlToImage": "https://pagesix.com/wp-content/uploads/sites/3/2026/10/145163171.jpg?quality=75&strip=all&w=1200",
-      "publishedAt": "2026-10-15T18:55:00Z",
-      "content": "Joe Manganiello thinks he and ex-wife Sofía Vergara “possibly” could have stayed married if not for the mystery illness he suffered from during their relationship.\r\nThe 49-year-old actor got candid a… [+5412 chars]"
+      "author": "E! News",
+      "title": "Mauricio Umansky Professes His Love for Ex Kyle Richards in Rare Divorce Update - E! News",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPR2o1bWdJRmwyemc4LVV0ZVk5Rmc1QlJIQzdEd2ZLWmdwVVZUU0RSMjZILWs5MzNzUDUzV2xtZmg4eWljUHlLODU0cWVGY0dLWXg1bV92RFcyWVNEaWZ4UEZiZzJrU0VtYmowM2E5UTRkdzRoa2NFMXE3aVU0QnFfNVh3cWQ0ZExaaDhCak1EamhPX0U?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2026-10-15T18:00:00Z",
+      "content": null
     },
     {
       "source": {
@@ -1194,71 +1220,6 @@
     },
     {
       "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": "Reuters",
-      "title": "Prince Harry and wife Meghan make first joint appearance since UK return - Reuters",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQWWRpS29iTXprM2w3Z19wY0xITWVabHJwYi1qclpkU085VHQ3eGhlM0xscWRTVVNLLUJuN1pxazRiS05HM25oTThUXzE5eEV1RkZVcllpRHVpcVg2QjY3MWI1QXYySnI4ZjdzQWJoWlFxQk9SSTFTRFJmN21YWHFtc0UwV0ZmYUtxbFB4OW5QbGNoTTRoOXNmMzRZeHBlWUJ0MHhyeW1kUXE2RW5PM216THJOaw?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2026-10-15T15:05:20Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": "The Hollywood Reporter",
-      "title": "New York Poised to Overtake California as Top State for Movie and TV Production - The Hollywood Reporter",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPU3N6NVdUT3EzM1RGU19ib1VQQVJTeW1LYVRCRzc3YkJnZ3VYRmxPSEdrQ3VYTWJBYjVUZzhJbF9GSGVfNEtTQV9kZ1B0d2c1Y2gzTHVCelo1OXJwYXF1Vk1UeGtNRVhkUFgyczRqMGRiS2pCRFg4VG9zQmx6X19kN3JKalE3ZUNodDAzTWdoUnZ4X2hneWVXTzlLZ3p5R0dHeHdDbHZWRTdpNnpC?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2026-10-15T15:00:59Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": "Variety",
-      "title": "CAA, WME and UTA Lead Coalition Pushing for Law to Force Streamers to Spend 50% of Budgets on Indie Productions - Variety",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxORFhjOWRMUzJqRkpiN3d0ZUpJaU9LamQxWTQzZVE1M0NkRUtYNmlVTkd4SmNEb3ktSXNxT2F6RWI2ckxvNmxLOHdPZEtSYUc0LXhLc2djR3JXMFVJb1I5TGk4bHBLUGhERWROUEN5dkZHQ2JVZmJkei1Ta2xwa1d5c2gxUmVHVUU5RUliaUNHWUh4V3FtRm5nZVV5QURrQUZXWE0xUVIzbE5RUWM1RnQ0TVdUUEppblk?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2026-10-15T14:55:00Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": "Page Six",
-      "title": "‘Today’ show co-host Dylan Dreyer confirms she’s officially divorced from Brian Fichera - Page Six",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNamlMbGlEY2pBNmhsWDM2aUh3b3E5bDkzQjBmMXV4VmtMMEFJcTlVQVNiUTRJc3pneF80dlVzRG1pM24zaF9BVUt5OWllMWx1TnJzSGd4VVZPS04xc0tMdHhwUXhKVFdZdTRQM180SkNfTGVCVHp4MU1xTFBCZFJSb0xreV9XRFBibm1zTDNQUHRxUEVzdkp0NjhJQVdfc1JzUlZ1N3ZmS2I2ZTMxQnZRNXdB?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2026-10-15T14:10:00Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Mia Sato",
-      "title": "Nobody is safe from celebrity AI deepfakes - The Verge",
-      "description": "On Instagram and other social media platforms, AI-generated imagery of celebrities is everywhere. A recent fake post depicting actress Mia Goth shows how it can spiral into confusion.",
-      "url": "https://www.theverge.com/report/1011927/instagram-celebrity-ai-slop-likeness-taylor-swift-mia-goth",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268810_Social_media_is_filled_with_celebrity_deepfakes._Do_platforms_care__CVirginia.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "publishedAt": "2026-10-15T14:03:42Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nAI photos and videos of celebrities are racking up millions of views on social media.\r\nby\r\nMia SatoClose\r\nFeatures Writer, The Verge\r\nPosts from this author will… [+10428 chars]"
-    },
-    {
-      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -1269,19 +1230,6 @@
       "urlToImage": "https://static01.nyt.com/images/2026/10/14/arts/15cul-chicks-qa-1/15cul-chicks-qa-1-mediumSquareAt3X.jpg",
       "publishedAt": "2026-10-15T13:31:52Z",
       "content": "A new tour celebrates the 20th anniversary of “Taking the Long Way,” the trio’s Grammy-winning response to political backlash."
-    },
-    {
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": "The New York Times",
-      "title": "The Chicks Still Won’t Make Nice - The New York Times",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQZ0FfQi1RS2tHRXRHNDN6eVFzcVEyUmJoZDFYc0VpdG93bmNXbU1hdVpOem9DcTdHTDd5WjFITnBJYndTMjFwXzVMMWU4VFhBWEViMjV0YUI5R0pEamxKODRkN1pEdnhiVGcwTEt2d3k5bS1kUGlpa0F1V0djWVZiX3lhYTB6U1l0NjhSdFpiSQ?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2026-10-15T09:04:04Z",
-      "content": null
     },
     {
       "source": {
@@ -1308,6 +1256,58 @@
       "urlToImage": null,
       "publishedAt": "2026-10-15T09:03:41Z",
       "content": "A lush new adaptation of Jane Austen’s novel leans into youth and money troubles."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Glenn Kenny",
+      "title": "‘California Schemin’’ Review: Two Lads Take the Low Road to Fame",
+      "description": "A hip-hop duo from Scotland tries to convince U.K. record executives that they hail from Los Angeles in this film, based on a true story.",
+      "url": "https://www.nytimes.com/2026/10/15/movies/california-schemin-review.html",
+      "urlToImage": null,
+      "publishedAt": "2026-10-15T09:03:34Z",
+      "content": "A hip-hop duo from Scotland tries to convince U.K. record executives that they hail from Los Angeles in this film, based on a true story."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Natalia Winkelman",
+      "title": "‘Love of Your Life’ Review: Living Through Heartbreak",
+      "description": "Margaret Qualley plays a nurse in Boston who finds love and then loses it in this fine romantic tragedy.",
+      "url": "https://www.nytimes.com/2026/10/15/movies/love-of-your-life-review.html",
+      "urlToImage": null,
+      "publishedAt": "2026-10-15T09:03:28Z",
+      "content": "Margaret Qualley plays a nurse in Boston who finds love and then loses it in this fine romantic tragedy."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Kin Woo and Mari Maeda-Oboshi and Yuji Oboshi",
+      "title": "The Thrillingly Intricate Art of Cut Paper",
+      "description": "A new generation is putting a fresh — and sometimes subversive — spin on the ancient practice.",
+      "url": "https://www.nytimes.com/2026/10/15/t-magazine/cut-paper-art.html",
+      "urlToImage": null,
+      "publishedAt": "2026-10-15T09:02:52Z",
+      "content": "A new generation is putting a fresh — and sometimes subversive — spin on the ancient practice."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "John Scalzi",
+      "title": "Best Sci-Fi Books With Monsters and Other Creature Features",
+      "description": "The best-selling author John Scalzi recommends his favorite alien thrillers, mad scientist tales and an intergalactic spin on “Moby Dick.”",
+      "url": "https://www.nytimes.com/2026/10/15/books/monster-books-sci-fi.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/10/13/books/13TBR-SciFiList-SCALZI/13TBR-SciFiList-SCALZI-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-10-15T09:00:51Z",
+      "content": "The best-selling author John Scalzi recommends his favorite alien thrillers, mad scientist tales and an intergalactic spin on “Moby Dick.”"
     }
   ]
 }

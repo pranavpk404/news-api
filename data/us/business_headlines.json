@@ -6,7 +6,7 @@
     "newsapi",
     "rss"
   ],
-  "fetched_at": "2026-10-18T23:48:13.059823+00:00",
+  "fetched_at": "2026-10-19T01:55:10.991025+00:00",
   "articles_count": 100,
   "articles": [
     {
@@ -84,7 +84,7 @@
       "description": "Scott Kirby of United Airlines said that “it’s expensive to fly airplanes” and that airfares may have further to rise.",
       "url": "https://www.nytimes.com/2026/10/18/business/scott-kirby-united-airlines.html",
       "urlToImage": "https://static01.nyt.com/images/2026/10/18/multimedia/18bizsun-corneroffice-united-lphc/18bizsun-corneroffice-united-lphc-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-10-18T09:00:17Z",
+      "publishedAt": "2026-10-18T09:00:18Z",
       "content": "Scott Kirby of United Airlines said that “it’s expensive to fly airplanes” and that airfares may have further to rise."
     },
     {
@@ -115,6 +115,19 @@
     },
     {
       "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "Electrek",
+      "title": "Electric Mercedes-AMG GT SUV unveiled with 1,153 hp and 710 kW charging - Electrek",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPQ1RUdmsyb1VWMzNTblJCRTNCdnlsN0JZLUFYUUdCZ0VQckYzc3lGNjM2UlNjSlRCYVcwMURxTlhqODVWTTBEUGhfYmhsMnhIME5yT2pEWnlrRkNHRFlwOFNta2QzSW9LS3BjZVBwLXliRkZfc0MtLUxDR2JhVThPd0tOblhnUnpuMlI1NQ?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2026-10-17T20:37:00Z",
+      "content": null
+    },
+    {
+      "source": {
         "id": "techcrunch",
         "name": "TechCrunch"
       },
@@ -125,19 +138,6 @@
       "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2278736523.jpeg?resize=1200,798",
       "publishedAt": "2026-10-17T20:21:19Z",
       "content": "The composition of Anthropics workforce and the type of work getting done have changed significantly in the past year, according to a report that the AI company published on Friday.\r\nAnthropic argues… [+2435 chars]"
-    },
-    {
-      "source": {
-        "id": "mashable",
-        "name": "Mashable"
-      },
-      "author": "Chase DiBenedetto",
-      "title": "How to track Flock cameras using MapQuest - Mashable",
-      "description": "Want to avoid Flock cameras on your commute? MapQuest can help.",
-      "url": "https://mashable.com/tech/mapquest-fusers-can-find-nearby-flock-cameras",
-      "urlToImage": "https://helios-i.mashable.com/imagery/articles/01MJ6zF3OpPaYLZwE1f7Yds/hero-image.fill.size_1200x675.v1792178263.jpg",
-      "publishedAt": "2026-10-17T20:11:14Z",
-      "content": null
     },
     {
       "source": {
@@ -154,19 +154,6 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "New York Post"
-      },
-      "author": "Katie Jerkovich",
-      "title": "Legendary LA beachfront bar announces shocking service change: ‘Such a shame’ - New York Post",
-      "description": "The announcement angered regulars of the longtime watering hole.",
-      "url": "https://nypost.com/2026/10/17/lifestyle/venice-beach-bar-the-whaler-announces-shocking-service-change/",
-      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/10/newspress-collage-kf3snavxp-1792265882440.jpg?quality=75&strip=all&1792251630&w=1200",
-      "publishedAt": "2026-10-17T19:46:00Z",
-      "content": "A historic Venice Beach bar shocked customers after announcing it was no longer serving alcohol, frustrating thirsty regulars of the longtime watering hole.\r\nThe Venice Whaler, located near the famou… [+2367 chars]"
-    },
-    {
-      "source": {
         "id": "the-wall-street-journal",
         "name": "The Wall Street Journal"
       },
@@ -176,6 +163,19 @@
       "url": "https://www.wsj.com/business/deals/softbank-in-early-talks-to-buy-allied-universal-2d582a66",
       "urlToImage": null,
       "publishedAt": "2026-10-17T18:14:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "TheStreet"
+      },
+      "author": "TheStreet",
+      "title": "Bank of America CEO addresses a troubling banking problem - TheStreet",
+      "description": null,
+      "url": "https://www.thestreet.com/investing/stocks/bac-bank-of-america-ceo-moynihan-responds-to-1-2-billion-money-laundering-fine",
+      "urlToImage": null,
+      "publishedAt": "2026-10-17T18:03:00Z",
       "content": null
     },
     {
@@ -216,19 +216,6 @@
       "urlToImage": "https://images.wsj.net/im-66565752/social",
       "publishedAt": "2026-10-17T17:04:00Z",
       "content": null
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Andrew J. Hawkins",
-      "title": "Mercedes-AMG’s first ground-up SUV is a 1,150hp electric beast - The Verge",
-      "description": "Mercedes-AMG announced the new GT SUV, its first electric SUV built in-house, from the ground up.",
-      "url": "https://www.theverge.com/transportation/1013088/mercedes-amg-gt-suv-price-specs-performance",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/26C0332_071.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "publishedAt": "2026-10-17T17:00:00Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nIt may even out-muscle the Porsche Cayenne Turbo Electric and Lucid Gravity.\r\nIt may even out-muscle the Porsche Cayenne Turbo Electric and Lucid Gravity.\r\nby\r\nA… [+5731 chars]"
     },
     {
       "source": {
@@ -333,6 +320,19 @@
       "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i8M5D5Tzd_0g/v1/1200x800.jpg",
       "publishedAt": "2026-10-17T14:27:13Z",
       "content": "Junk bond buyers are increasingly freezing out tech startups looking for financing, as CoreWeave Inc.s pain raises bigger questions about how artificial intelligence companies will fund themselves.\r\n… [+272 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Annie Nova",
+      "title": "Trump's student loan overhaul could lead to more bankruptcy filings, former judge says - CNBC",
+      "description": "After nearly three decades as a bankruptcy judge, Sarah Sharer Curley writes about the legal process in her new book, \"The Price of Forgiveness.\"",
+      "url": "https://www.cnbc.com/2026/10/17/trump-student-loans-bankruptcy.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108374015-1791379227205-gettyimages-672597056-si33-1.jpeg?v=1792153940&w=1920&h=1080",
+      "publishedAt": "2026-10-17T13:30:01Z",
+      "content": "A sign points to the U.S. Bankruptcy Court in Lower Manhattan, New York City.\r\nIn Judge Sarah Sharer Curley's nearly three decades presiding over bankruptcy cases, some were especially painful to wit… [+7749 chars]"
     },
     {
       "source": {
@@ -700,19 +700,6 @@
     },
     {
       "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": "The Verge",
-      "title": "Tesla driver says he was asleep and using FSD when he crashed into highway patrol cars - The Verge",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1kajRCcnhqcVF4cnVLWC1YZW9kVC1uSEw5eGJDakpDQzNDVHlMbkNIellhTmdfODVFVFI4bUtTWGxMSkpObkZtY1BXaEk4T0ZGM29GVzkybXdMOFNxZEdWb0MzQXVvaEdlclF0T215YWZHRnRQV3c?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2026-10-16T20:49:04Z",
-      "content": null
-    },
-    {
-      "source": {
         "id": "the-hill",
         "name": "The Hill"
       },
@@ -723,6 +710,19 @@
       "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2026/09/AP26207813029050-e1788958119145.jpg?w=1280",
       "publishedAt": "2026-10-16T20:48:00Z",
       "content": "Skip to content\r\nAn international oil benchmark hit $110 per barrel on Friday, as the industry faces persistent shocks from the U.S.-Iran and Russia-Ukraine wars.\r\nThe price of Brent crude oil, the i… [+1672 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Barron's"
+      },
+      "author": "Anita Hamilton",
+      "title": "Blue Origin’s Latest Move Shows How It’s Quietly Taking On SpaceX - Barron's",
+      "description": "Jeff Bezos’ Blue Origin is expanding rocket production in Florida as it works to challenge SpaceX’s launch business.",
+      "url": "https://www.barrons.com/articles/blue-origin-spacex-new-glenn-rocket-expansion-da658330",
+      "urlToImage": "https://images.barrons.com/im-07514590/social",
+      "publishedAt": "2026-10-16T20:23:00Z",
+      "content": "SpaceXhas sucked up most of the oxygen lately when it comes to space companies, thanks in large part to its blockbuster initial public offering this summer. But lets not forget about the other heavyw… [+135 chars]"
     },
     {
       "source": {
@@ -765,6 +765,19 @@
     },
     {
       "source": {
+        "id": "nbc-news",
+        "name": "NBC News"
+      },
+      "author": "Bethany Heitman",
+      "title": "The coziest holiday pajamas for everyone in your family — including your fur baby - NBC News",
+      "description": "Shop the best holiday pajamas of 2026, including matching family sets, flannel classics and festive prints from Hanna Andersson, Burt’s Bees Baby, Target and more.",
+      "url": "https://www.nbcnews.com/select/shopping/best-holiday-pajamas-rcna603904",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/261015-holiday-pajamas-oo-main-eff6a9.jpg",
+      "publishedAt": "2026-10-16T19:15:00Z",
+      "content": "Few holiday traditions are as cozy as slipping into a fresh pair of festive pajamas. Whether youre opening presents, lounging through a movie marathon or posing for the annual family photo, the right… [+5589 chars]"
+    },
+    {
+      "source": {
         "id": null,
         "name": "American Banker"
       },
@@ -775,6 +788,19 @@
       "urlToImage": "https://arizent.brightspotcdn.com/dims4/default/afbe2ce/2147483647/strip/true/crop/1709x897+0+406/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.us-east-1.amazonaws.com%2Ffb%2F6b%2Fbeb607ee4b86ab506cbf742a8674%2Fmichael-lyons-truist-1x1.jpg",
       "publishedAt": "2026-10-16T19:01:00Z",
       "content": "<ul><li>Key insight: Mike Lyons, who took the reins as Truist's CEO last month, announced several changes Friday that he believes will better position the bank for success.</li><li>What's at stake: T… [+8855 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Fox Business"
+      },
+      "author": "Matthew Kazin",
+      "title": "Hyundai recalls more than 94,000 vehicles over fire risk - Fox Business",
+      "description": "The National Highway Traffic Safety Administration reports Hyundai is recalling more than 94,000 Genesis G80 and Hyundai Genesis sedans over a fire risk.",
+      "url": "https://www.foxbusiness.com/lifestyle/hyundai-recalls-more-than-94000-vehicles-over-fire-risk",
+      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/10/0/0/genesis-g80-2017.jpg?ve=1&tl=1",
+      "publishedAt": "2026-10-16T19:00:00Z",
+      "content": "Hyundai is recalling 94,622 vehicles over a fire risk associated with the overheating of motors on powered front seats, according to a National Highway Traffic Safety Administration recall report.\r\n\"… [+1910 chars]"
     },
     {
       "source": {
@@ -856,16 +882,29 @@
     },
     {
       "source": {
-        "id": "cbs-news",
-        "name": "CBS News"
+        "id": null,
+        "name": "Financial Times"
       },
-      "author": "Aki  Nace",
-      "title": "Credit union, sports bar discriminated against Native Americans using Tribal IDs, MDHR says - CBS News",
-      "description": "The Minnesota Department of Human Rights says a credit union in Coon Rapids and a bar in Minneapolis discriminated against two Native Americans when they refused to accept Tribal identification cards.",
-      "url": "https://www.cbsnews.com/minnesota/news/tribal-id-discrimination-minnesota-department-of-human-rights/",
-      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2022/04/27/b477de8f-2bbe-4f39-86aa-da99a0f15ef1/thumbnail/1200x630/585d07c5300ca62e8082b060c0541570/INX-MN-Department-of-Human-Rights-MPD-042722_1.jpg",
-      "publishedAt": "2026-10-16T16:35:57Z",
-      "content": "The Minnesota Department of Human Rights says a credit union in Coon Rapids and a bar in Minneapolis discriminated against two Native Americans when they refused to accept Tribal identification cards… [+1153 chars]"
+      "author": null,
+      "title": "Fuel-price surge turbocharges global EV sales and spells end for diesel in Europe - Financial Times",
+      "description": "Repercussions from Iran war help reshape auto industry as hydrocarbon prices rise",
+      "url": "https://www.ft.com/content/30f95850-4ff1-4669-acf8-06edc79c9457?syn-25a6b1a6\\\\u003d1",
+      "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F82bbec76-f176-403e-811a-5619dbff6486.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
+      "publishedAt": "2026-10-16T17:33:56Z",
+      "content": "was $540now $299 for your first year.\r\nSave now on essential digital access to trusted FT journalism on any device. Savings based on monthly annualised price, offer ends 28th October."
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Electrek"
+      },
+      "author": "Fred Lambert",
+      "title": "Tesla driver says he was asleep on FSD when he hit CHP car, 2 officers hurt - Electrek",
+      "description": "A Tesla driver told CHP he was asleep with Full Self-Driving on when his car hit a patrol car at an I-80 crash scene, seriously injuring two officers.",
+      "url": "http://electrek.co/2026/10/16/tesla-fsd-crash-chp-patrol-car-driver-asleep-fairfield/",
+      "urlToImage": "https://electrek.co/wp-content/uploads/sites/3/2026/10/Tesla-FSD-CHP-crash.jpeg?quality=82&strip=all&resize=1200,628",
+      "publishedAt": "2026-10-16T17:14:00Z",
+      "content": "Two California Highway Patrol officers are recovering from serious injuries after a Tesla drove into their patrol car at a crash scene on Interstate 80 in Fairfield. The 22-year-old driver told inves… [+5140 chars]"
     },
     {
       "source": {
@@ -908,19 +947,6 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "Fox Business"
-      },
-      "author": "Sophia Compton",
-      "title": "Southwest unveils new perks for flyers in rewards program shake-up - Fox Business",
-      "description": "Southwest is overhauling Rapid Rewards with a new top-tier status, expanded Companion Pass perks and more ways for travelers to earn and use points.",
-      "url": "https://www.foxbusiness.com/lifestyle/southwest-unveils-new-perks-flyers-rewards-program-shake-up",
-      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/10/0/0/southwest-airlines-plane-2.jpg?ve=1&tl=1",
-      "publishedAt": "2026-10-16T13:11:00Z",
-      "content": "Southwest Airlines is overhauling its loyalty program, adding a new top-tier status with unlimited Companion Pass trips and giving travelers more ways to earn and redeem points.\r\nStarting Jan. 1, 202… [+2718 chars]"
-    },
-    {
-      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -931,19 +957,6 @@
       "urlToImage": null,
       "publishedAt": "2026-10-16T13:00:05Z",
       "content": "The bank was required to hold the certificate of deposit only for a limited time, and now has no record of the money. Experts offer tips to avoid having this happen to you."
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "VentureBeat"
-      },
-      "author": "Matt Marshall",
-      "title": "Reflection's Beam aims to undercut Chinese open models with fewer tokens, not cheaper tokens - VentureBeat",
-      "description": "Reflection's chief technology officer explains how Beam was trained to finish tasks in fewer tokens, a day after Meta released its own, larger open model.",
-      "url": "https://venturebeat.com/technology/reflections-beam-aims-to-undercut-chinese-open-models-with-fewer-tokens-not-cheaper-tokens",
-      "urlToImage": "https://images.ctfassets.net/jdtwqhzvc2n1/60XdpofkKXOlwgLeGGMwgj/6127e682223008b6224a81b1231184da/lead-v3.png?w=800&q=75",
-      "publishedAt": "2026-10-16T13:00:00Z",
-      "content": "Reflection AI today released the weights of Beam, its first open model, and is pitching it against the Chinese open models that many U.S. companies are already embracing because of their lower costs.… [+20632 chars]"
     },
     {
       "source": {
@@ -1126,19 +1139,6 @@
       "urlToImage": "https://www.bleepstatic.com/content/hl-images/2026/10/16/court-gavel.jpg",
       "publishedAt": "2026-10-16T07:37:35Z",
       "content": "The Administrative Office of the US Courts (AOUSC) says a cyberattack on government contractor BAE Systems has taken down the notice system used by federal bankruptcy courts.\r\nIn a Thursday press rel… [+2730 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Abcnews.com"
-      },
-      "author": "ABC News - Breaking News, Latest News and Videos",
-      "title": "Soaring diesel prices taking a toll on Oklahoma rancher - ABC News - Breaking News, Latest News and Videos",
-      "description": null,
-      "url": "https://abcnews.com/Politics/soaring-diesel-prices-taking-toll-oklahoma-rancher/story?id\\\\u003d137288017",
-      "urlToImage": null,
-      "publishedAt": "2026-10-16T02:03:29Z",
-      "content": null
     },
     {
       "source": {

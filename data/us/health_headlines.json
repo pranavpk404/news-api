@@ -6,20 +6,33 @@
     "newsapi",
     "rss"
   ],
-  "fetched_at": "2026-10-20T13:03:26.561828+00:00",
-  "articles_count": 78,
+  "fetched_at": "2026-10-20T18:07:42.473773+00:00",
+  "articles_count": 80,
   "articles": [
     {
       "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
+      "author": "Andrew Jacobs",
+      "title": "Why Drug Companies Are Rushing to Market Ketamine Medicines",
+      "description": "Spurred on by the Trump administration’s embrace of psychedelic medicine, researchers are experimenting with new — and not so new — forms of the anesthetic.",
+      "url": "https://www.nytimes.com/2026/10/20/science/ketamine-fda-spravato-ketafree.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/09/14/science/14SCI-KETAMINE-FDA/14SCI-KETAMINE-FDA-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-10-20T17:49:20Z",
+      "content": "Spurred on by the Trump administration’s embrace of psychedelic medicine, researchers are experimenting with new — and not so new — forms of the anesthetic."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
       "author": "Carl Zimmer",
-      "title": "Start-Up Claims to Treat a Patient With A.I.-Created Viruses",
+      "title": "Start-Up Claims to Use A.I.-Created Viruses to Treat a Patient",
       "description": "Certain viruses attack bacteria and can sometimes clear antibiotic-resistant infections. Researchers said they had tailored a virus to attack one patient’s illness.",
       "url": "https://www.nytimes.com/2026/10/20/science/ai-virus-bacteria-radical-numerics.html",
       "urlToImage": null,
-      "publishedAt": "2026-10-20T12:50:56Z",
+      "publishedAt": "2026-10-20T16:48:14Z",
       "content": "Certain viruses attack bacteria and can sometimes clear antibiotic-resistant infections. Researchers said they had tailored a virus to attack one patient’s illness."
     },
     {
@@ -32,8 +45,21 @@
       "description": "Jeffrey Schmalz wrote unsparingly about why the political and medical cavalry would not arrive in time for him.",
       "url": "https://www.nytimes.com/2026/10/20/health/aids-hiv-jeffrey-schmalz-new-york-times-history.html",
       "urlToImage": "https://static01.nyt.com/images/2026/10/13/multimedia/00PROJECTS-175-EYEWITNESS-DOWD-gjwk/00PROJECTS-175-EYEWITNESS-DOWD-gjwk-mediumSquareAt3X-v2.jpg",
-      "publishedAt": "2026-10-20T12:18:20Z",
+      "publishedAt": "2026-10-20T16:00:58Z",
       "content": "Jeffrey Schmalz wrote unsparingly about why the political and medical cavalry would not arrive in time for him."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "The New York Times",
+      "title": "Readers Offer Lessons on the Way to 100",
+      "description": "We asked people who aspire to live long lives about how they hoped to do it and who might have inspired them along the way.",
+      "url": "https://www.nytimes.com/2026/10/15/health/longevity-aging-experiences.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/10/18/multimedia/18sp-longevity-readers-10-tcwb/18sp-longevity-readers-10-tcwb-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-10-20T13:55:10Z",
+      "content": "We asked people who aspire to live long lives about how they hoped to do it and who might have inspired them along the way."
     },
     {
       "source": {
@@ -45,7 +71,7 @@
       "description": "From childbirth to miscarriages, women’s health care in the state has become increasingly dangerous.",
       "url": "https://www.nytimes.com/2026/10/20/magazine/idaho-abortion-ban-ob-gyns.html",
       "urlToImage": "https://static01.nyt.com/images/2026/11/01/magazine/01mag-idaho-2/01mag-idaho-2-mediumSquareAt3X-v2.jpg",
-      "publishedAt": "2026-10-20T09:00:06Z",
+      "publishedAt": "2026-10-20T13:40:27Z",
       "content": "From childbirth to miscarriages, women’s health care in the state has become increasingly dangerous."
     },
     {
@@ -58,7 +84,7 @@
       "description": "The effort comes as Republicans are struggling to win over female voters two weeks before the midterm elections.",
       "url": "https://www.nytimes.com/2026/10/19/us/politics/melania-trump-women-health.html",
       "urlToImage": "https://static01.nyt.com/images/2026/10/19/multimedia/19dc-womens-health-fhpj/19dc-womens-health-fhpj-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-10-20T01:10:09Z",
+      "publishedAt": "2026-10-20T01:10:10Z",
       "content": "The effort comes as Republicans are struggling to win over female voters two weeks before the midterm elections."
     },
     {
@@ -76,6 +102,19 @@
     },
     {
       "source": {
+        "id": null,
+        "name": "The Boston Globe"
+      },
+      "author": null,
+      "title": "Dana-Farber, Beth Israel begin construction of new $1.68 billion cancer hospital - The Boston Globe",
+      "description": "The groundbreaking marks a new phase in the competition with Mass General Brigham. About 2,400 workers will be hired at the facility over the next four years.",
+      "url": "https://www.bostonglobe.com/2026/10/19/business/dana-farber-cancer-hospital/",
+      "urlToImage": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/v2/SI6MWOOAUBJ5YOF2VLHACQFPWE.jpg?auth=a00ef9a1f3bd9d2c8eca02665264fc3afeca693d9ac236a63cd1d1b08802e813&width=1440",
+      "publishedAt": "2026-10-19T18:19:58Z",
+      "content": "The 300-bed, 450,000-square-foot hospital is set to open in 2031 for patients who need inpatient care during treatment. It will sit on the site of the former Joslin Diabetes Center on Brookline Avenu… [+7222 chars]"
+    },
+    {
+      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -89,6 +128,240 @@
     },
     {
       "source": {
+        "id": null,
+        "name": "13WMAZ.com"
+      },
+      "author": "13WMAZ",
+      "title": "Person infected with measles visits Perry restaurant, causing exposure: DPH - 13WMAZ",
+      "description": null,
+      "url": "https://www.13wmaz.com/article/news/local/perry/potential-measles-exposure-perry-restaurant-dph/93-dda932d3-69b3-470e-a0f6-bff11784a4bb",
+      "urlToImage": null,
+      "publishedAt": "2026-10-19T14:53:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "New York Post"
+      },
+      "author": "Rachel Sacks",
+      "title": "Love late-night snacking? It raises your risk of a serious disease by 20% to 30% - New York Post",
+      "description": "A little meal before bedtime may curb your hunger in the short term, but could raise the risk of a severe condition.",
+      "url": "https://nypost.com/2026/10/19/health/late-night-snacking-raises-risk-of-a-serious-disease-by-20-to-30/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/10/newspress-collage-8oo5941c9-1792425023869.jpg?quality=75&strip=all&1792410632&w=1200",
+      "publishedAt": "2026-10-19T14:36:00Z",
+      "content": "A late-night snack attack that’s more like a nightmare.\r\nThe jury’s still out on late-night snacking: some foods boost health while you sleep, while others cause not-so-sweet dreams.\r\nAnd while a lit… [+3235 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Verywellhealth.com"
+      },
+      "author": "https://www.facebook.com/verywell",
+      "title": "5 Coffee Sweeteners Dietitians Recommend If You Don’t Want to Use Table Sugar - Verywell Health",
+      "description": "Table sugar can negatively impact your health. If you’re adding it to coffee multiple times a day, you might want to consider an alternative like stevia. Here, experts recommend their favorites.",
+      "url": "https://www.verywellhealth.com/best-sweetener-for-your-coffee-12164477",
+      "urlToImage": "https://www.verywellhealth.com/thmb/rAqPixc4036T2o0bFW39KeaC7OU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/VWH-GettyImages-2243086305-27668d2a6e88499b99af52ee932f6eab.jpg",
+      "publishedAt": "2026-10-19T14:00:00Z",
+      "content": "<ul><li>Choose pure stevia without sugar alcohols, since it does not raise blood sugar levels.</li><li>Limit dates in coffee because two to three dates can add 32 to 48 grams of sugar.</li><li>Use no… [+3464 chars]"
+    },
+    {
+      "source": {
+        "id": "usa-today",
+        "name": "USA Today"
+      },
+      "author": "Madeline Mitchell",
+      "title": "She was paralyzed in a car crash that killed her parents. Now, she's a mom of twins - USA Today",
+      "description": "Jessie Owen fell in love, got married and had twin boys all after the car crash that changed her life forever.",
+      "url": "https://www.usatoday.com/story/life/health-wellness/2026/10/19/paralyzed-twin-mom/92261880007/",
+      "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/10/16/USAT/92284368007-img-4284.JPG?crop=1534,864,x1,y278&width=1534&height=864&format=pjpg&auto=webp",
+      "publishedAt": "2026-10-19T13:54:00Z",
+      "content": "At 27, Jessie Owen loved her life. She was a 6th grade teacher in Seattle. She lived in a \"cute little apartment,\" went out with friends on the weekends, ran triathlons and enjoyed Sunday dinners at … [+5857 chars]"
+    },
+    {
+      "source": {
+        "id": "the-washington-post",
+        "name": "The Washington Post"
+      },
+      "author": "Gretchen Reynolds",
+      "title": "Try these 4 things for healthier knees - The Washington Post",
+      "description": "Knees can stay intact and healthy for your whole life — if you take care of them.",
+      "url": "https://www.washingtonpost.com/wellness/2026/10/19/try-these-4-things-healthier-knees/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https%3A%2F%2Farc-anglerfish-washpost-prod-washpost.s3.amazonaws.com%2Fpublic%2F6LJUA7OJMD43K2KKAY7AOBIBDA_size-normalized.jpg&w=1200",
+      "publishedAt": "2026-10-19T13:31:40Z",
+      "content": "East Potomac Golf Links has undergone plenty of changes since golfers first teed off there more than a century ago. Few, though, have transformed the landscape as quickly as what happened last weeken… [+2853 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Seattle Times"
+      },
+      "author": "Elise Takahama",
+      "title": "Early flu season lands in WA as COVID numbers also rise - The Seattle Times",
+      "description": "Flu season is hitting WA, along with other West Coast states, earlier than usual. Experts don't know why yet, but are urging people to get their flu shots now.",
+      "url": "https://www.seattletimes.com/seattle-news/health/early-flu-season-lands-in-wa-as-covid-numbers-also-rise/",
+      "urlToImage": "https://images.seattletimes.com/wp-content/uploads/2026/10/10162026_tzr_tzr_143113.jpg?d=1200x630",
+      "publishedAt": "2026-10-19T13:00:00Z",
+      "content": "Dr. Mary Fairchok was surprised when, almost a month ago, a young boy was admitted to Mary Bridge Childrens Hospital with the flu. It was unusual to see a child so sick with influenza in early Septem… [+6009 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Seattle Times"
+      },
+      "author": "Carrie Dennett",
+      "title": "Can how we eat turn back the clock on aging and help us live forever? - The Seattle Times",
+      "description": "Recently, scientists have turned their attention to how epigenetics — changes in gene expression that happen without altering DNA — affect the aging process.",
+      "url": "https://www.seattletimes.com/life/wellness/can-how-we-eat-turn-back-the-clock-on-aging-and-help-us-live-forever/",
+      "urlToImage": "https://images.seattletimes.com/wp-content/uploads/2026/10/10122026_tzr_tzr_210825.jpg?d=1200x630",
+      "publishedAt": "2026-10-19T13:00:00Z",
+      "content": "For centuries, humanity has searched for the elusive fountain of youth. In modern times, the quest for longevity originally shifted from mythical springs to a focus on our underlying genetic code and… [+6042 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": "Joanne Writtle - West Midlands health correspondent",
+      "title": "'We didn't know a cold sore could kill a baby' - Yahoo News Canada",
+      "description": "Ben Brookes and Meg Edmonds want to raise awareness of HSV after losing their daughter.",
+      "url": "https://www.bbc.com/news/articles/c6x2we04jnvpo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bnews%5D-%5Bbizdev%5D-%5Bisapi%5D",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/36254c3b1dd4d73c5311bee15475dc32fcbf9eb0d4d1a0ab90a1a1f752ff4aeb/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2Fcc3fec94061aceacfcc5c7a21f031a8d.jpg",
+      "publishedAt": "2026-10-19T12:38:29Z",
+      "content": "Meg Edmonds and Ben Brookes want to raise awareness of HSV and the danger it can pose to new babies\r\nA bereaved mother whose newborn daughter died after contracting the herpes simplex virus (HSV) is … [+4529 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Conversation Africa"
+      },
+      "author": "Garrett M. Broad",
+      "title": "The science and politics behind the panic over ultraprocessed foods - The Conversation",
+      "description": "There’s no doubt that the modern food environment needs to be healthier. But are ultraprocessed foods as evil as their reputation suggests?",
+      "url": "https://theconversation.com/the-science-and-politics-behind-the-panic-over-ultraprocessed-foods-292661",
+      "urlToImage": "https://images.theconversation.com/files/766598/original/file-20261015-50-qn8cgl.jpeg?ixlib=rb-4.1.1&rect=0%2C288%2C8332%2C4166&q=45&auto=format&w=1356&h=668&fit=crop",
+      "publishedAt": "2026-10-19T12:36:28Z",
+      "content": "Ultraprocessed foods have a terrible reputation. \r\nStudies have linked them with multiple chronic diseases. Journalists and health influencers characterize them as poison. Some public health experts … [+8870 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "HuffPost"
+      },
+      "author": null,
+      "title": "My Daughter’s Therapist Said She Was ‘Parentified.’ It Crushed Me. - HuffPost",
+      "description": "“I called my friend, Carrie, and told her through tears what Astrid’s therapist said.”",
+      "url": "https://www.huffpost.com/entry/parentified-child-parent-mental-illness_n_6ad0c96de4b08a0fe8562250",
+      "urlToImage": "https://img.huffingtonpost.com/asset/6ad0c9f11c0000d32026561f.jpg?cache=ZdzObYAhLs&ops=1200_630",
+      "publishedAt": "2026-10-19T12:24:32Z",
+      "content": "The author and daughter, age 7, at the bus stop for the first day of 2nd grade.\r\nMy daughter Astrid and I were on the couch getting ready to watch Backrooms. She had already seen the horror movie in … [+8814 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Verywellhealth.com"
+      },
+      "author": "https://www.facebook.com/verywell",
+      "title": "A Dietitian Shares the Best Snack for Lower Blood Pressure - Verywell Health",
+      "description": "A dietitian shares her number one pick for the best snack to lower blood pressure.",
+      "url": "https://www.verywellhealth.com/snack-to-lower-blood-pressure-12177133",
+      "urlToImage": "https://www.verywellhealth.com/thmb/e2QyTXgvlS0QsybBR22yIqiLKvM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/VWH-GettyImages-1398874943-5a3b474bbd114840a38db9580dd62e46.jpg",
+      "publishedAt": "2026-10-19T12:02:00Z",
+      "content": "<ul><li>Try low-fat, low-sugar Greek yogurt with unsalted walnuts and fresh or frozen berries.</li><li>Choose snacks low in sodium and high in fruits, vegetables, low-fat dairy, lean protein, whole g… [+2980 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Eatingwell.com"
+      },
+      "author": "https://www.facebook.com/EatingWell/",
+      "title": "3 Supplements You Should Take on an Empty Stomach for Better Absorption - EatingWell",
+      "description": "Discover which supplements are better absorbed on an empty stomach, plus expert tips on safe supplement use.",
+      "url": "https://www.eatingwell.com/supplements-absorbed-on-an-empty-stomach-12173488",
+      "urlToImage": "https://www.eatingwell.com/thmb/r9k-RaNm4SW13PzbgT3rn5Kexzg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/3-Supplements-You-Should-Take-on-an-Empty-Stomach-for-Better-Absorption-63fa6d6cd5fb48a9b48df503f2d7b420.jpg",
+      "publishedAt": "2026-10-19T12:00:00Z",
+      "content": "While many supplement labels say to take them with food, some require an empty stomach for maximum absorption. Thats because various compounds in food can reduce your bodys ability to absorb certain … [+5124 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Nature.com"
+      },
+      "author": null,
+      "title": "How pregnancy reshapes the brain throughout life - Nature",
+      "description": "Neuroscience is mapping changes in the brain during pregnancy. What they mean for future health is yet to be pinned down.",
+      "url": "https://www.nature.com/articles/d41586-026-03312-8",
+      "urlToImage": "https://media.nature.com/lw1200/magazine-assets/d41586-026-03312-8/d41586-026-03312-8_53855976.jpg",
+      "publishedAt": "2026-10-19T11:43:25Z",
+      "content": "A Mothers Brain: The New Science of the Neuro-Maternal RevolutionSusana Carmona MIT Press (2026)\r\nWhen I acquired a copy of the book A Mothers Brain by neuroscientist Susana Carmona, I thought: at la… [+6336 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ScienceAlert"
+      },
+      "author": "Esra Öz",
+      "title": "How Many Steps a Day Does It Take to Sharpen Your Attention? A 14-Year Study Hints at The Range - ScienceAlert",
+      "description": "A daily step count is a simple way to keep track of how much we move.",
+      "url": "https://www.sciencealert.com/how-many-steps-a-day-does-it-take-to-sharpen-your-attention-a-14-year-study-hints-at-the-range",
+      "urlToImage": "https://www.sciencealert.com/images/2026/10/StepsForAttention-1200x675.png",
+      "publishedAt": "2026-10-19T11:01:39Z",
+      "content": "A daily step count is a simple way to keep track of how much we move. It may also offer clues about our attention and decision-making skills.\r\nResearchers examined activity records and cognitive test… [+4434 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Futura"
+      },
+      "author": "Futura Team, Pia Gray, Futura Team and Pia Gray",
+      "title": "A woman in Romania used a rock as a doorstop for decades. It was a 7.7 pound piece of amber worth an estimated $1 million - Futura, le média qui explore le monde",
+      "description": "She picked it up in a stream near her village. It outlived her, a burglary and a change of owner before anyone thought to ask what it was.",
+      "url": "https://www.futura-sciences.com/en/a-woman-in-romania-used-a-rock-to-hold-her-door-open-for-decades-it-was-3-5-kilograms-of-amber-worth-about-1-million-g001_900538/",
+      "urlToImage": "https://www.futura-sciences.com/en/wp-content/uploads/2026/09/iStock-1446565656.jpg",
+      "publishedAt": "2026-10-19T10:46:24Z",
+      "content": "The woman had originally picked up the stone from a stream bed near Coli, a small village in Buzu County. The region is in the Carpathian foothills, where natural erosion regularly exposes raw amber … [+3548 chars]"
+    },
+    {
+      "source": {
+        "id": "the-washington-post",
+        "name": "The Washington Post"
+      },
+      "author": "Michael Eisenstein",
+      "title": "Researchers have uncovered a likely origin of our allergies - The Washington Post",
+      "description": "While bacteria and viruses set off immediate alarm in our immune system, allergies follow a different path.",
+      "url": "https://www.washingtonpost.com/health/2026/10/19/why-seasonal-allergies-may-be-linked-with-sensitive-nerves/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/PSAWY7XJYNGWNB5SR2NMWF36UE.jpg&w=1440",
+      "publishedAt": "2026-10-19T10:33:22Z",
+      "content": "If you suffer from seasonal allergies, a move to a far-flung location can deliver a reprieve from the pollens and molds that caused you torment. But in many cases, its only a matter of time before th… [+161 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Minneapolis Star Tribune"
+      },
+      "author": "Jeremy Olson",
+      "title": "This at-home pill dispenser could help fill rural Minnesota’s pharmacy gap - Star Tribune",
+      "description": "Bloomington-based startup Omcare is studying if the device helps keep older adults on their medication schedule.",
+      "url": "https://www.startribune.com/this-at-home-pill-dispenser-could-help-fill-rural-minnesotas-pharmacy-gap/601900705",
+      "urlToImage": "https://arc.stimg.co/startribunemedia/72BRB6CGHGDSD7YQTQD5NB7ZRM.jpg?&w=1200&ar=1.91:1&fit=crop",
+      "publishedAt": "2026-10-19T10:00:00Z",
+      "content": "A Bloomington startup is testing whether its interactive prescription drug dispenser can help older Minnesotans take their medications on schedule especially in rural areas that lack pharmacies. \r\nOm… [+1942 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Science Daily"
+      },
+      "author": null,
+      "title": "\"Mind-blowing\" Alzheimer’s breakthrough: Two hours of sleep restored without clearing brain plaques - Science Daily",
+      "description": "Scientists have uncovered an unexpected culprit behind sleep loss in Alzheimer’s disease: overactive immune cells in the brain. By temporarily removing these cells, researchers restored more than two hours of sleep per day in mice, revealing a promising new t…",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261018084421.htm",
+      "urlToImage": "https://www.sciencedaily.com/images/1920/sleep-man-brain-spine-nervous-system.webp",
+      "publishedAt": "2026-10-19T09:20:46Z",
+      "content": "Scientists have discovered an unexpected reason why Alzheimer's disease disrupts sleep, and their findings suggest that the problem may be reversible. In experiments involving mice with Alzheimer's-l… [+17220 chars]"
+    },
+    {
+      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -99,19 +372,6 @@
       "urlToImage": "https://static01.nyt.com/images/2026/10/05/multimedia/00dc-IdahoHealth-lfbw/00dc-IdahoHealth-lfbw-mediumSquareAt3X.jpg",
       "publishedAt": "2026-10-19T09:01:35Z",
       "content": "These doctors and community health workers are a safety net for patients losing coverage as premiums soar and Medicaid cuts mount, even as their clinic struggles to stay afloat."
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ScienceAlert"
-      },
-      "author": "Esra Öz",
-      "title": "A Saline Injection Could Offer Longer Relief From Carpal Tunnel Pain - ScienceAlert",
-      "description": "Typing with numb fingers, struggling to hold a pen, or waking with an aching hand can make everyday life exhausting for people with carpal tunnel syndrome.",
-      "url": "https://www.sciencealert.com/a-saline-injection-could-offer-longer-relief-from-carpal-tunnel-pain",
-      "urlToImage": "https://www.sciencealert.com/images/2026/10/carpal-tunnel.jpg",
-      "publishedAt": "2026-10-19T00:01:32Z",
-      "content": "Typing with numb fingers, struggling to hold a pen, or waking with an aching hand can make everyday life exhausting for people with carpal tunnel syndrome.\r\nThe condition develops when a nerve supply… [+4393 chars]"
     },
     {
       "source": {
@@ -129,6 +389,19 @@
     {
       "source": {
         "id": null,
+        "name": "Eatingwell.com"
+      },
+      "author": "https://www.facebook.com/EatingWell/",
+      "title": "What Happens to Your Brain When You Stop Drinking Alcohol - EatingWell",
+      "description": "Dietitians explain the benefits that giving up alcohol has on your brain and overall health, along with fun nonalcoholic drinks to enjoy.",
+      "url": "https://www.eatingwell.com/brain-health-and-alcohol-12173631",
+      "urlToImage": "https://www.eatingwell.com/thmb/BPrTJ1SzeszYTz9ZbA11Ys0HXJs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/What-Happens-to-Your-Brain-When-You-Stop-Drinking-Alcohol-cc280e09e54944b38efdece0c91d3b1c.jpg",
+      "publishedAt": "2026-10-18T23:00:00Z",
+      "content": "Changing recommendations for alcohol consumption over the years have left people more confused than ever. From research suggesting that light drinking could protect your heart and cognition to the re… [+6990 chars]"
+    },
+    {
+      "source": {
+        "id": null,
         "name": "Monseyscoop.com"
       },
       "author": "Sruly, Sruly",
@@ -141,16 +414,16 @@
     },
     {
       "source": {
-        "id": "newsweek",
-        "name": "Newsweek"
+        "id": "fox-news",
+        "name": "Fox News"
       },
-      "author": "Alyce Collins",
-      "title": "Woman Thought She Had a Crick in Her Neck, One Scan Changed Everything - Newsweek",
-      "description": "\"One minute, you’re living your normal life, and suddenly, the future you pictured feels uncertain,\" Sarah Esposito, 26 said.",
-      "url": "https://www.newsweek.com/woman-thought-she-had-crick-in-neck-scan-changed-everything-12577432",
-      "urlToImage": "https://assets.newsweek.com/wp-content/uploads/2026/10/Copy-of-New-Split-Pic-Template-2026-10-16T102430-751.png?w=1200&crop=1",
-      "publishedAt": "2026-10-18T21:00:00Z",
-      "content": "A lash technician who developed a lump in her neck told herself it was nothing, and she thought her shoulder pain was simply caused by the physical strain of her work, only for scans to reveal the de… [+6947 chars]"
+      "author": "Fox News",
+      "title": "Ultra-processed foods causing hidden damage in healthy adults, researchers caution - New York Post",
+      "description": "Researchers say the link between ultra-processed foods and brain health problems may be detectable before symptoms appear",
+      "url": "https://www.foxnews.com/health/popular-foods-americans-eat-every-day-linked-silent-brain-damage-alarming-study-finds",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/10/145618902.jpg?quality=75&strip=all&w=1200",
+      "publishedAt": "2026-10-18T21:41:00Z",
+      "content": "A recent study conducted by Canadian researchers found a correlation between high consumption of ultra-processed foods and an increased risk of stroke and future memory problems in healthy adults.\r\nU… [+4090 chars]"
     },
     {
       "source": {
@@ -171,12 +444,12 @@
         "name": "ScienceAlert"
       },
       "author": "Michelle Starr",
-      "title": "One Blood Type Seems to Carry a Higher Risk of Type 2 Diabetes - ScienceAlert",
-      "description": "Depending on your blood type, it's possible you could carry a higher diabetes risk, research suggests.",
+      "title": "One Blood Type Seems to Carry a Higher Risk of Type 2 Diabetes - Yahoo Health",
+      "description": "Here's what we know.",
       "url": "https://www.sciencealert.com/one-blood-type-seems-to-carry-a-higher-risk-of-type-2-diabetes",
-      "urlToImage": "https://www.sciencealert.com/images/2026/10/BloodTypeDiabetes-1200x675.png",
-      "publishedAt": "2026-10-18T20:02:50Z",
-      "content": "Depending on your blood type, it's possible you could carry a higher diabetes risk, research suggests.\r\nAccording to a 2024 review, people with blood type B either positive or negative face a slightl… [+4627 chars]"
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/7148b2c7a380e27234d84282af7e51eb4d2cfebb434b25c84ddb25d9288853f0/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsciencealert_160%2Fb6345fe4bffac94442eea8b9adddff55.png",
+      "publishedAt": "2026-10-18T20:00:00Z",
+      "content": "Depending on your blood type, it's possible you could carry a higher diabetes risk, research suggests.\r\nAccording to a 2024 review, people with blood type B either positive or negative face a slightl… [+4588 chars]"
     },
     {
       "source": {
@@ -216,32 +489,6 @@
       "urlToImage": "https://static01.nyt.com/images/2026/10/17/multimedia/17int-kenya-ebola-mkhg/17int-kenya-ebola-mkhg-mediumSquareAt3X.jpg",
       "publishedAt": "2026-10-18T17:58:54Z",
       "content": "Seven Ebola infections have now been confirmed in Kenya, which before this month had never recorded cases of the deadly virus."
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Medical Xpress"
-      },
-      "author": "Ingrid Fadelli",
-      "title": "A poorly understood brain region tracks the gap between expectations and reality - Medical Xpress",
-      "description": "Adapting to changing situations requires people to continuously revise their expectations about what might happen next when new information becomes available. These expectations are believed to be represented by mental models that help the brain predict outco…",
-      "url": "https://medicalxpress.com/news/2026-10-poorly-understood-brain-region-tracks.html",
-      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/a-poorly-understood-br-1.jpg",
-      "publishedAt": "2026-10-18T17:40:01Z",
-      "content": "Adapting to changing situations requires people to continuously revise their expectations about what might happen next when new information becomes available. These expectations are believed to be re… [+6154 chars]"
-    },
-    {
-      "source": {
-        "id": "fox-news",
-        "name": "Fox News"
-      },
-      "author": null,
-      "title": "Popular foods Americans eat every day linked to silent brain damage, alarming study finds - Fox News",
-      "description": "MRI scans of 9,000 Canadians revealed hidden brain damage linked to ultra-processed foods like soft drinks and sugary cereals, with women at higher risk.",
-      "url": "https://www.foxnews.com/health/popular-foods-americans-eat-every-day-linked-silent-brain-damage-alarming-study-finds",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/06/man_eating_chips_with_beer.jpeg",
-      "publishedAt": "2026-10-18T17:07:23Z",
-      "content": "A recent study conducted by Canadian researchers found a correlation between high consumption of ultra-processed foods and an increased risk of stroke and future memory problems in healthy adults.\r\nU… [+4041 chars]"
     },
     {
       "source": {
@@ -285,32 +532,6 @@
     {
       "source": {
         "id": null,
-        "name": "PsyPost"
-      },
-      "author": "Karina Petrova",
-      "title": "Exclusive breastfeeding for six months linked to fewer ADHD symptoms in children - PsyPost",
-      "description": "A large-scale study suggests that infants who exclusively receive breast milk for their first six months may show fewer symptoms of ADHD in early childhood, even when accounting for the child's genetic risks and family socioeconomic background.",
-      "url": "https://www.psypost.org/exclusive-breastfeeding-for-six-months-linked-to-fewer-adhd-symptoms-in-children/",
-      "urlToImage": "https://www.psypost.org/wp-content/uploads/2025/11/breastfeeding.jpg",
-      "publishedAt": "2026-10-18T14:21:33Z",
-      "content": "A new study suggests that infants who receive only breast milk for their first six months tend to show fewer symptoms of attention deficit hyperactivity disorder in early childhood. The research indi… [+7696 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Eatingwell.com"
-      },
-      "author": "https://www.facebook.com/EatingWell/",
-      "title": "5 Foods Men Should Eat Every Week for Better Blood Sugar - EatingWell",
-      "description": "Discover which foods dietitians say can lead to better blood sugar and more energy for men.",
-      "url": "https://www.eatingwell.com/foods-men-should-eat-for-better-blood-sugar-12173501",
-      "urlToImage": "https://www.eatingwell.com/thmb/R6GTieliPDjqPzAnKncicgsWCqw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/TK-Foods-Men-Should-Eat-Every-Week-for-Better-Blood-Sugar-dbc119c415074e20a4477f2bcbada069.jpg",
-      "publishedAt": "2026-10-18T14:00:00Z",
-      "content": "Blood sugar management isnt a concern just for people living with diabetes. According to the Centers for Disease Control and Prevention, more than 2 in 5 U.S. adults (thats roughly 115.2 million peop… [+5572 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "Science Daily"
       },
       "author": null,
@@ -324,15 +545,28 @@
     {
       "source": {
         "id": null,
-        "name": "Science Daily"
+        "name": "Verywellhealth.com"
       },
-      "author": null,
-      "title": "Scientists link a strange sugar in red meat to a 63% higher diabetes risk - Science Daily",
-      "description": "A study of nearly 90,000 adults found that people consuming the most of a little-known sugar found in red meat had a 63% higher risk of developing type 2 diabetes. Scientists suspect the sugar may trigger chronic inflammation, potentially revealing a hidden c…",
-      "url": "https://www.sciencedaily.com/releases/2026/10/261017230031.htm",
-      "urlToImage": "https://www.sciencedaily.com/images/1920/fresh-japanese-kobe-beef-steak.webp",
-      "publishedAt": "2026-10-18T13:10:18Z",
-      "content": "A sugar naturally present in red meat may help explain why eating these foods has been associated with a higher risk of type 2 diabetes. Preliminary findings from a large observational study suggest … [+12859 chars]"
+      "author": "https://www.facebook.com/verywell",
+      "title": "We Asked a Doctor If There’s a Right Time to Start Taking Vitamin D This Fall - Verywell Health",
+      "description": "Vitamin D levels decline from late summer to early spring. Learn when to start supplements, how to take them, and who may need more.",
+      "url": "https://www.verywellhealth.com/best-time-to-start-taking-vitamin-d-12149753",
+      "urlToImage": "https://www.verywellhealth.com/thmb/5US0QZLmIojbfoFoJaAbh_wGzGQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/VHW-GettyImages-2291009203-6c31c2b63b7441ab8e24b8a7bd761e60.jpg",
+      "publishedAt": "2026-10-18T13:20:00Z",
+      "content": "Your body gets vitamin D from three sources: the sun, food, and supplements. There are only a few foods that provide vitamin D, so most of it comes from sun exposure.\r\nBut when daylight hours decline… [+3424 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Futurism"
+      },
+      "author": "Joe Wilkins",
+      "title": "This New Research About Microplastics Is Pretty Damn Scary - Futurism",
+      "description": "New research found that microplastics are much more chemically reactive in water-rich environments than was previously known.",
+      "url": "https://futurism.com/health-medicine/microplastics-research-food-water-consumption-packaging",
+      "urlToImage": "https://futurism.com/wp-content/uploads/2026/10/microplastics-research-food-water-consumption-packaging.jpg?quality=85&w=1200",
+      "publishedAt": "2026-10-18T12:47:00Z",
+      "content": "Can’t-miss innovations from the bleeding edge of science and tech\r\nA new piece of research is pushing back on the long-held belief that plastic is a harmless and chemically inert material.\r\nThe new s… [+2461 chars]"
     },
     {
       "source": {
@@ -346,19 +580,6 @@
       "urlToImage": "https://static.toiimg.com/thumb/msid-135028823,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
       "publishedAt": "2026-10-18T12:37:00Z",
       "content": "View All Comments \r\nShare your thoughts in the comments\r\nInsightfulAgreeDisagreeSkepticalConcerningPromisingWorth ReadingBig Development\r\nBe respectful · TOI community guidelines"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Vox"
-      },
-      "author": "Jonquilyn Hill",
-      "title": "The dark side of optimizing fertility - Vox",
-      "description": "The dark side of optimizing fertility, explained.",
-      "url": "https://www.vox.com/explain-it-to-me/506710/fertility-ivf-genetic-testing-embryos-eugenics",
-      "urlToImage": "https://platform.vox.com/wp-content/uploads/sites/2/2026/10/gettyimages-2149287420.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "publishedAt": "2026-10-18T12:30:00Z",
-      "content": "We live in an era of endless optimization. Fitness trackers help us measure our lifespan, people are consuming piles of protein in an attempt to be their best selves, and theres even an urge to maxim… [+6830 chars]"
     },
     {
       "source": {
@@ -385,6 +606,19 @@
       "urlToImage": "https://www.sciencealert.com/images/2026/10/BrownFatCell.jpg",
       "publishedAt": "2026-10-18T12:00:38Z",
       "content": "Body fat can bring health benefits as well as health problems, depending on where it is and how much of it there is.\r\nBrown fat in particular is thought to be mostly good for us burning up excess sug… [+4136 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "NDTV News"
+      },
+      "author": "Srishti Singh Sisodia",
+      "title": "'She Only Had Hours': Man Uses AI To Solve Mother's Mysterious Illness - NDTV",
+      "description": "She experienced a life-threatening syndrome sometimes caused by seizures, known as rhabdomyolysis - a condition that causes your muscles to break down",
+      "url": "https://www.ndtv.com/feature/she-only-had-hours-man-uses-ai-to-solve-mothers-mysterious-illness-12202766",
+      "urlToImage": "https://c.ndtvimg.com/2026-10/pp601gdc_chatgpt_625x300_18_October_26.jpeg",
+      "publishedAt": "2026-10-18T11:48:35Z",
+      "content": "Edward Patrick, a man in the United Kingdom, recently opened up about turning to artificial intelligence (AI) to figure out what was wrong with her mother, who was suffering from several puzzling med… [+2275 chars]"
     },
     {
       "source": {
@@ -415,28 +649,15 @@
     {
       "source": {
         "id": null,
-        "name": "mlive.com"
+        "name": "ScienceAlert"
       },
-      "author": "Rose White | rwhite@mlive.com",
-      "title": "Overdoses surged in Michigan prisons. Drug-soaked paper is to blame. - MLive.com",
-      "description": "Paper soaked with deadly drugs is being smuggled into Michigan prisons, driving up overdoses and killing inmates, as officials struggle to contain the threat.",
-      "url": "https://www.mlive.com/news/2026/10/overdoses-surged-in-michigan-prisons-drug-soaked-paper-is-to-blame.html",
-      "urlToImage": "https://www.mlive.com/resizer/v2/FWJ2Q3V6CVEGBKRZDJLX3OIRGE.png?auth=afe94f6c8da8a874c348d692c143932b780f926d8a946f0cb166d40346d8da21&width=1280&smart=true&quality=90",
-      "publishedAt": "2026-10-18T10:00:00Z",
-      "content": "Wisps of smoke curled from the cell. \r\nA Michigan inmate had been caught smoking a strip of rolled up paper. A corrections officer confiscated it and brought it back to an office where the smoldering… [+11420 chars]"
-    },
-    {
-      "source": {
-        "id": "wired",
-        "name": "Wired"
-      },
-      "author": "Adam Obr",
-      "title": "Magnesium May Not Reach Your Brain, Despite Supplement Label Promises - WIRED",
-      "description": "Some of the many variants sold today promise to penetrate our gray matter, but biology isn’t in the habit of respecting marketing declarations.",
-      "url": "https://www.wired.com/story/magnesium-may-not-reach-your-brain-despite-supplement-label-promises/",
-      "urlToImage": "https://media.wired.com/photos/6acf777ced16e31e6734c24b/191:100/w_1280,c_limit/GettyImages-2281567983.jpg",
-      "publishedAt": "2026-10-18T09:00:00Z",
-      "content": "Most of us probably dont think about how much magnesium were consuming, but our bodies couldnt function without it. We each typically contain about 25 grams of magnesium, more than half of which is s… [+3122 chars]"
+      "author": "Peter Dockrill",
+      "title": "Breathwork Really Can Induce an Altered State of Consciousness, Experiment Shows - ScienceAlert",
+      "description": "Breathing is something we do every moment of our lives, usually without giving it a second thought.",
+      "url": "https://www.sciencealert.com/breathwork-really-can-induce-an-altered-state-of-consciousness-experiment-shows",
+      "urlToImage": "https://www.sciencealert.com/images/2026/10/breathing.jpg",
+      "publishedAt": "2026-10-18T09:00:32Z",
+      "content": "Breathing is something we do every moment of our lives, usually without giving it a second thought.\r\nWhile it's easy to take breathing for granted, changing the way we breathe can actually have profo… [+5172 chars]"
     },
     {
       "source": {
@@ -453,32 +674,6 @@
     },
     {
       "source": {
-        "id": "medical-news-today",
-        "name": "Medical News Today"
-      },
-      "author": "Corrie Pelc",
-      "title": "High-fiber diet better than metformin for diabetes, weight loss - Medical News Today",
-      "description": "Recent research suggests that following a healthy high-fiber diet may be more effective at controlling blood sugar and promoting weight loss than metformin in people with diabetes and obesity.",
-      "url": "https://www.medicalnewstoday.com/articles/high-fiber-diet-vs-metformin-blood-sugar-control-weight-loss",
-      "urlToImage": "https://media.post.rvohealth.io/wp-content/uploads/sites/3/2026/10/getty_1349163007_facebook_1200x630-1200x628.jpg",
-      "publishedAt": "2026-10-18T06:40:59Z",
-      "content": "<ul><li>For many years, weve known that there is a strong link between type 2 diabetes and obesity, also known as diabesity. </li><li>Diabesity is currently treated through a combination of different… [+7083 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Hackaday"
-      },
-      "author": "Maya Posch",
-      "title": "Busting The Myth That Plastics Are Chemically Inert In Water - Hackaday",
-      "description": "One of the often made claims about plastics is that they are chemically inert under most conditions, such as when exposed to water. This long-held belief has also challenged the notion that micro- …",
-      "url": "https://hackaday.com/2026/10/17/busting-the-myth-that-plastics-are-chemically-inert-in-water/",
-      "urlToImage": "https://hackaday.com/wp-content/uploads/2026/10/intrinsic_physicochemical_activity_at_microplastic-water_interfaces_naixin_qian_et_al_2026_nature.jpg",
-      "publishedAt": "2026-10-18T02:00:00Z",
-      "content": "One of the often made claims about plastics is that they are chemically inert under most conditions, such as when exposed to water. This long-held belief has also challenged the notion that micro- an… [+1958 chars]"
-    },
-    {
-      "source": {
         "id": null,
         "name": "WTOP"
       },
@@ -489,19 +684,6 @@
       "urlToImage": "https://wtop.com/wp-content/uploads/2026/10/856148341_1103201332298051_8982127598382798622_n.jpeg",
       "publishedAt": "2026-10-17T20:43:32Z",
       "content": "A cat in Virginia “known to socialize” with other cats and people has tested positive for rabies, according to Prince William County police.\r\nPolice said in an alert that the cat was found in the 155… [+962 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "New York Post"
-      },
-      "author": "Katie Jerkovich",
-      "title": "Urgent warning as super-drug 10 times more powerful than fentanyl claims first LA victim - New York Post",
-      "description": "Officials said a fatality in February has been tied to the drug cychlorphine, a powerful synthetic opioid.",
-      "url": "https://nypost.com/2026/10/17/us-news/urgent-warning-as-drug-10-times-more-powerful-than-fentanyl-claims-first-la-victim/",
-      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/10/newspress-collage-mv3oi2c11-1792259243762.jpg?quality=75&strip=all&1792244923&w=1200",
-      "publishedAt": "2026-10-17T17:51:00Z",
-      "content": "Los Angeles health authorities have issued an urgent warning about an opioid that is 10 times more powerful than fentanyl after it claimed its first victim in LA County.\r\nOfficials with the LA Depart… [+2044 chars]"
     },
     {
       "source": {
@@ -519,32 +701,6 @@
     {
       "source": {
         "id": null,
-        "name": "Newser"
-      },
-      "author": "Jenn Gidman",
-      "title": "CDC: Deadly Brain Fungus in Healthy Americans Is Rising - Newser",
-      "description": "Data shows quadrupling of C. bantiana cases, calls for national tracking",
-      "url": "https://www.newser.com/story/398324/cdc-deadly-brain-fungus-in-healthy-americans-is-rising.html",
-      "urlToImage": "https://cdn.newser.com/image/1718621-12-20261017120003.jpeg",
-      "publishedAt": "2026-10-17T16:30:00Z",
-      "content": "An obscure fungus that targets the brain is no longer staying so obscure. A CDC report says cases of Cladophialophora bantiana, a black, melanin-containing mold, have climbed sharply in recent years,… [+939 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Eatingwell.com"
-      },
-      "author": "https://www.facebook.com/EatingWell/",
-      "title": "The #1 Surprising Carb You Should Eat for Weight Loss, According to Dietitians - EatingWell",
-      "description": "Dietitians explain why carbohydrates belong in a diet that supports weight loss, alongside their top pick for which carb takes the cake (and why!).",
-      "url": "https://www.eatingwell.com/the-best-carb-for-weight-loss-12175182",
-      "urlToImage": "https://www.eatingwell.com/thmb/zErp-q6cSf8OPNnsApGmlKbPmIQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/The-1-Surprising-Carb-You-Should-Eat-for-Weight-Loss-According-to-Dietitians-01be3653dc2545f9879178b903bfdc59.jpg",
-      "publishedAt": "2026-10-17T14:00:00Z",
-      "content": "Many adults ages 20 and older follow a special diet, and weight loss is one of the most common reasons. With so much advice about how to lose weight, misconceptions surrounding how to achieve it are … [+5631 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "Health.com"
       },
       "author": "https://www.facebook.com/Health/",
@@ -554,19 +710,6 @@
       "urlToImage": "https://www.health.com/thmb/QbKTDw5aQKL3vd4BPi3nzwTbTZo=/6016x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1146536318-53844aa9ed154876be9fa13759833949.jpg",
       "publishedAt": "2026-10-17T12:45:00Z",
       "content": "High blood pressure can raise your risk of heart disease and kidney problems, but your numbers arent set in stone. While factors like your genes can have an influence, so can your everyday decisions.… [+4929 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Prevention.com"
-      },
-      "author": "Kayla Blanton",
-      "title": "Loneliness May Cost You Up to 6 Years of Good Health, New Study Finds - Prevention",
-      "description": "A new study links loneliness and social isolation earlier development of heart disease, diabetes, anxiety, and depression.",
-      "url": "https://www.prevention.com/health/a74150958/loneliness-chronic-disease-study/",
-      "urlToImage": "https://hips.hearstapps.com/hmg-prod/images/de5189e3-af49-4f1a-b572-bd787c5ef999.jpeg?crop=1xw:0.75xh;0xw,0.142xh&resize=1200:*",
-      "publishedAt": "2026-10-17T12:08:52Z",
-      "content": "Its pretty well known that loneliness\r\n can affect your mental health. Whats less discussed is how it can wear on your body, too. Now, a new study digs deeper into the physiological effects, looking … [+6711 chars]"
     },
     {
       "source": {
@@ -596,6 +739,19 @@
     },
     {
       "source": {
+        "id": null,
+        "name": "Avon, CT Patch"
+      },
+      "author": "Chris Lindahl",
+      "title": "Deadly New Drug More Potent Than Fentanyl Found In LA County - Patch",
+      "description": "Officials are warning about a powerful synthetic opioid that can cause fatal overdoses and cannot be detected by fentanyl test strips.",
+      "url": "https://patch.com/california/los-angeles/deadly-new-drug-more-potent-fentanyl-found-la-county",
+      "urlToImage": "https://patch.com/img/cdn20/shutterstock/26494162/20261016/070412/styles/patch_image/public/shutterstock-324566462___16190210876.jpg",
+      "publishedAt": "2026-10-16T23:04:13Z",
+      "content": "Although cychlorphine has been more prevalent in other parts of the country, Los Angeles County health officials said they are monitoring for changes in its presence in the local drug supply. \r\n Publ… [+1063 chars]"
+    },
+    {
+      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -606,19 +762,6 @@
       "urlToImage": "https://static01.nyt.com/images/2026/10/16/multimedia/16DC-NIH-KENNEDY-tcml/16DC-NIH-KENNEDY-tcml-mediumSquareAt3X.jpg",
       "publishedAt": "2026-10-16T22:38:47Z",
       "content": "The board that oversees the N.I.H. Clinical Center voted unanimously to support a statement accusing Health Secretary Robert F. Kennedy Jr. of undermining trust in the hospital’s work."
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ScienceAlert"
-      },
-      "author": "Carly Cassella",
-      "title": "This Diet And Exercise Combination Put Early-Onset Diabetes Into Remission in Half of Participants - ScienceAlert",
-      "description": "Type 2 diabetes is not necessarily a lifelong diagnosis or a disease that gets progressively worse over time.",
-      "url": "https://www.sciencealert.com/this-diet-and-exercise-combination-put-early-onset-diabetes-into-remission-in-half-of-participants",
-      "urlToImage": "https://www.sciencealert.com/images/2026/10/GettyImages-1726909113-2560x1440-1.jpg",
-      "publishedAt": "2026-10-16T20:00:38Z",
-      "content": "Type 2 diabetes is not necessarily a lifelong diagnosis or a disease that gets progressively worse over time.\r\nToday, there is strong evidence to suggest that the risk of developing this metabolic di… [+4910 chars]"
     },
     {
       "source": {
@@ -649,28 +792,15 @@
     {
       "source": {
         "id": null,
-        "name": "Medical Xpress"
+        "name": "Newser"
       },
-      "author": null,
-      "title": "New drug-delivery method offers promise in fight against neurodegenerative diseases - Medical Xpress",
-      "description": "For patients battling neurodegenerative diseases like ALS, Parkinson's, Alzheimer's and other dementias, delivering disease-fighting antibody drugs directly to the brain has proven to be a difficult task. Our bodies set up tight walls to prevent infections fr…",
-      "url": "https://medicalxpress.com/news/2026-10-drug-delivery-method-neurodegenerative-diseases.html",
-      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/neurodegenerative.jpg",
-      "publishedAt": "2026-10-16T18:20:01Z",
-      "content": "For patients battling neurodegenerative diseases like ALS, Parkinson's, Alzheimer's and other dementias, delivering disease-fighting antibody drugs directly to the brain has proven to be a difficult … [+3668 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Medical Xpress"
-      },
-      "author": null,
-      "title": "How psychological stress can trigger arthritis flares via an inflammatory pathway - Medical Xpress",
-      "description": "Psychological stress has long been associated with worsening symptoms in rheumatoid arthritis (RA). However, the underlying mechanism connecting psychological stress to the occurrence of joint inflammation has remained poorly understood. In particular, how ps…",
-      "url": "https://medicalxpress.com/news/2026-10-psychological-stress-trigger-arthritis-flares.html",
-      "urlToImage": "https://scx2.b-cdn.net/gfx/news/2026/how-psychological-stre.jpg",
-      "publishedAt": "2026-10-16T18:00:10Z",
-      "content": "Psychological stress has long been associated with worsening symptoms in rheumatoid arthritis (RA). However, the underlying mechanism connecting psychological stress to the occurrence of joint inflam… [+4855 chars]"
+      "author": "Jenn Gidman",
+      "title": "Looks Like We'll See a Lot More Dementia Cases Going Forward - Newser",
+      "description": "New research says cases globally are set to more than double by the year 2050",
+      "url": "https://www.newser.com/story/398265/dementia-cases-globally-set-to-more-than-double-by-2050.html",
+      "urlToImage": "https://cdn.newser.com/image/1718407-12-20261018104700.jpeg",
+      "publishedAt": "2026-10-16T17:48:00Z",
+      "content": "If current trends hold, the world is heading toward roughly 25 million new dementia cases every year by the year 2050. That's more than double the 11.4 million people estimated to have developed the … [+802 chars]"
     },
     {
       "source": {
@@ -805,41 +935,15 @@
     {
       "source": {
         "id": null,
-        "name": "Medical Xpress"
-      },
-      "author": "Sanjukta Mondal",
-      "title": "Intensive blood pressure control protects the heart—with no added kidney failure risk detected - Medical Xpress",
-      "description": "High blood pressure forces the heart to work harder to pump blood. Over time, this extra strain can thicken the heart muscle and narrow the arteries, further complicating cardiovascular health. Even in people with no other health conditions, a 20 mmHg rise in…",
-      "url": "https://medicalxpress.com/news/2026-10-intensive-blood-pressure-heart-added.html",
-      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/intensive-blood-pressu.jpg",
-      "publishedAt": "2026-10-15T17:20:14Z",
-      "content": "High blood pressure forces the heart to work harder to pump blood. Over time, this extra strain can thicken the heart muscle and narrow the arteries, further complicating cardiovascular health. Even … [+4883 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "KTLA Los Angeles"
       },
-      "author": "Jocelyn Fiset",
+      "author": "KTLA",
       "title": "Jackie the Big Bear bald eagle’s cause of death revealed in necropsy - KTLA",
-      "description": "Necropsy results released Wednesday provided long-awaited answers about the illness that led to the death of Jackie the beloved Big Bear bald eagle following weeks of intensive medical care. Jackie became one of the most recognizable bald eagles in North Amer…",
+      "description": null,
       "url": "https://ktla.com/news/california/jackie-big-bear-bald-eagle-necropsy-results/",
-      "urlToImage": "https://ktla.com/wp-content/uploads/sites/4/2026/10/jackie-bald-eagle-fobbv.jpg?w=1280",
+      "urlToImage": null,
       "publishedAt": "2026-10-15T15:46:35Z",
-      "content": "Necropsy results released Wednesday provided long-awaited answers about the illness that led to the death of Jackie the beloved Big Bear bald eagle following weeks of intensive medical care.\r\nJackie … [+6396 chars]"
-    },
-    {
-      "source": {
-        "id": "usa-today",
-        "name": "USA Today"
-      },
-      "author": "Anthony Thompson",
-      "title": "Dementia cases to double by 2050. Here's why - USA Today",
-      "description": "New research projects dementia cases will more than double worldwide by 2050, with women and people in low- and middle-income countries facing higher rates.",
-      "url": "https://www.usatoday.com/story/news/health/2026/10/14/millions-more-dementia-cases-expected-by-2050-study-finds/92253617007/",
-      "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/10/14/USAT/92253635007-getty-images-1434992041.jpg?crop=2119,1193,x0,y110&width=2119&height=1193&format=pjpg&auto=webp",
-      "publishedAt": "2026-10-15T15:22:00Z",
-      "content": "The number of people developing dementia each year worldwide is expected to more than double by 2050, with women and people in lower-income countries facing higher rates, according to new research.\r\n… [+3228 chars]"
+      "content": null
     },
     {
       "source": {
@@ -882,29 +986,29 @@
     },
     {
       "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
+        "id": "cnn",
+        "name": "CNN"
       },
-      "author": "The New York Times",
-      "title": "Readers Offer Lessons on the Way to 100",
-      "description": "We asked people who aspire to live long lives about how they hoped to do it and who might have inspired them along the way.",
-      "url": "https://www.nytimes.com/2026/10/15/health/longevity-aging-experiences.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/10/18/multimedia/18sp-longevity-readers-10-tcwb/18sp-longevity-readers-10-tcwb-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-10-15T09:03:21Z",
-      "content": "We asked people who aspire to live long lives about how they hoped to do it and who might have inspired them along the way."
+      "author": "Anna Cooban",
+      "title": "An industry is prescribing weight-loss drugs to people with anorexia, devastating lives - CNN",
+      "description": "For AJ Jasper, drugs hailed as miracles have proven nothing short of a curse.",
+      "url": "https://www.cnn.com/2026/10/15/business/weight-loss-drugs-eating-disorders-impact-intl",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/20260814-glp-1-annorexia-final.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2026-10-15T10:00:47Z",
+      "content": "For AJ Jasper, drugs hailed as miracles have proven nothing short of a curse.\r\nIn 2024, a hard-won truce between Jasper and the anorexia he had battled, on and off, since childhood collapsed, sending… [+12008 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "BBC News"
+        "name": "Nature.com"
       },
       "author": null,
-      "title": "I'm 12 and I want to try protein powder - should I? - BBC",
-      "description": "We asked experts how safe it is for children and teenagers to take protein supplements.",
-      "url": "https://www.bbc.com/news/articles/cm158555dq1go",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/8554/live/d1f10220-c26e-11f1-bc2e-018d645d8d21.jpg",
-      "publishedAt": "2026-10-15T00:00:35Z",
-      "content": "In recent years, there's been an explosion of products marketed as \"high protein\", including milk, yoghurt, breads, cereals, bars and powders."
+      "title": "Transcriptomic reprogramming screen identifies SRSF1 as a regulator of aging - Nature",
+      "description": "Plesa, Jung and colleagues conduct an in vitro transcriptomic reprogramming screen and identify splicing factor SRSF1 as capable of reducing transcriptomic age without loss of cell identity; they then implicate SRSF1 as a regulator of aging in worms and mice.",
+      "url": "https://www.nature.com/articles/s43587-026-01234-8",
+      "urlToImage": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs43587-026-01234-8/MediaObjects/43587_2026_1234_Fig1_HTML.png",
+      "publishedAt": "2026-10-14T17:49:35Z",
+      "content": "<li>Rando, T. A. &amp; Chang, H. Y. Aging, rejuvenation, and epigenetic reprogramming: resetting the aging clock. Cell148, 4657 (2012).\r\nArticle \r\n PubMed Central \r\n CAS \r\n PubMed \r\nGoogle Scholar \r\n… [+18264 chars]"
     },
     {
       "source": {
@@ -934,94 +1038,16 @@
     },
     {
       "source": {
-        "id": "the-washington-post",
-        "name": "The Washington Post"
-      },
-      "author": "Gretchen Reynolds",
-      "title": "Column | At 63, he’s a top knee expert. Here’s his exercise routine for strong knees. - The Washington Post",
-      "description": "These simple moves can help protect and strengthen your knees.",
-      "url": "https://www.washingtonpost.com/wellness/interactive/2026/10/14/7-exercises-an-orthopedic-surgeon-recommends-healthy-knees/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/3GATVXDGZFHDPFIZY2GJGPAZLE.jpg&w=1200",
-      "publishedAt": "2026-10-14T17:00:01Z",
-      "content": "As an orthopedic surgeon, Howard Luks treats aching, aging knees. As a 63-year-old, he also possesses them. Over the decades, his knees have weathered meniscus tears, morning stiffness, thousands of … [+6511 chars]"
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "author": "Erik Vance",
-      "title": "The Surfer’s Guide to Living a Longer, More Active Life",
-      "description": "Some of the best lessons for remaining active in later years can be found on a surfboard.",
-      "url": "https://www.nytimes.com/2026/10/13/well/surfing-living-longer.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/10/18/multimedia/18sp-longevity-nathanson-01-ctpk/18sp-longevity-nathanson-01-ctpk-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-10-14T16:04:56Z",
-      "content": "Some of the best lessons for remaining active in later years can be found on a surfboard."
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Health.com"
-      },
-      "author": "Christina Manian, RDN",
-      "title": "Cardiologists Share the 7 Foods They Eat for Lower Blood Pressure - AOL.com",
-      "description": "Diet plays a major role in managing blood pressure. Learn which foods experts eat and why they might be smart choices for you.",
-      "url": "https://www.health.com/foods-cardiologists-eat-blood-pressure-12138257",
-      "urlToImage": "https://hermes.media.static.aol.com/media/2026/10/14/da075771-fa05-3fa2-988c-b4aa8a2fe964/07bbb665-9a55-4cfd-a4c8-e137049a5427.jpg",
-      "publishedAt": "2026-10-14T13:35:00Z",
-      "content": "Fact checked by Nick Blackmer\r\n<ul><li>Why this matters: Nearly half of U.S. adults have high blood pressure, and what you eat can play a major role in managing it.\r\n</li><li>What you can do: Eat mor… [+3464 chars]"
-    },
-    {
-      "source": {
         "id": null,
         "name": "ScienceAlert"
       },
       "author": "Jess Cockerill",
-      "title": "Ovaries Develop an Intriguing Second Role After Menopause - Yahoo",
-      "description": "There's still so much to learn about ovaries.",
+      "title": "Ovaries Develop an Intriguing Second Role After Menopause - ScienceAlert",
+      "description": "Menopause has long been thought of as a terminal moment for the female reproductive system, when ovaries stop releasing eggs and presumably call it a day.",
       "url": "https://www.sciencealert.com/ovaries-develop-an-intriguing-second-role-after-menopause",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/06c15fdafe8f1c300c5a1432ee3ec135dcc070a10234a7bd283e8bcdc137c42c/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsciencealert_160%2F9b8b754e8f5b8f9f226166b53a75529f.jpg",
-      "publishedAt": "2026-10-14T05:00:00Z",
-      "content": "Menopause has long been thought of as a terminal moment for the female reproductive system, when ovaries stop releasing eggs and presumably call it a day.\r\nBut this simplified image of ovarian retire… [+4022 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "STAT"
-      },
-      "author": "Andrew Joseph",
-      "title": "Helen Branswell, whose reporting on infectious diseases and public health drew acclaim, dies at 69 - STAT",
-      "description": "Helen Branswell, STAT's infectious disease reporter who earned the respect of experts and public health officials with her accessible, prescient dispatches, has died at age 69.",
-      "url": "https://www.statnews.com/2026/10/13/helen-branswell-stat-reporter-obituary/",
-      "urlToImage": "https://www.statnews.com/wp-content/uploads/2026/10/STAT_Boston_DayOne_122-1-1024x576.jpg",
-      "publishedAt": "2026-10-13T18:13:54Z",
-      "content": "Helen Branswell, a renowned infectious disease reporter who earned the respect of experts and public health officials around the world with her accessible, prescient dispatches on scourges from influ… [+10743 chars]"
-    },
-    {
-      "source": {
-        "id": "cnn",
-        "name": "CNN"
-      },
-      "author": "Brenda Goodman",
-      "title": "Could GLP-1 drugs be anti-aging medications? - CNN",
-      "description": "GLP-1 medications for weight loss and diabetes appear to slow the body’s aging processes, a sign that the blockbuster drugs could ultimately help people live longer.",
-      "url": "https://www.cnn.com/2026/10/13/health/glp-1-drugs-anti-aging",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2148794370.jpg?c=16x9&q=w_800,c_fill",
-      "publishedAt": "2026-10-13T10:00:45Z",
-      "content": "GLP-1 medications for weight loss and diabetes appear to slow the bodys aging processes, a sign that the blockbuster drugs could ultimately help people live longer.\r\nThe idea that these medications m… [+8263 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "New York Post"
-      },
-      "author": "Christopher Edwards",
-      "title": "West Coast mom of six loses both legs, hand after doctors ignored her complaints: bombshell lawsuit - New York Post",
-      "description": "The alleged negligence nightmare reportedly began in 2024.",
-      "url": "https://nypost.com/2026/10/12/health/west-coast-woman-loses-both-legs-hand-due-to-medical-negligence-lawsuit/",
-      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/10/144768248.jpg?quality=75&strip=all&w=1200",
-      "publishedAt": "2026-10-12T19:11:00Z",
-      "content": "After a undergoing a routine hysterectomy, Trisha Stevens was eager to return to normal. \r\nBut just weeks later, the Oregon mother of six would battle a debilitating infection  leading her to lose bo… [+5747 chars]"
+      "urlToImage": "https://www.sciencealert.com/images/2026/10/GettyImages-687786413-2560x1440-2.jpg",
+      "publishedAt": "2026-10-14T05:00:36Z",
+      "content": "Menopause has long been thought of as a terminal moment for the female reproductive system, when ovaries stop releasing eggs and presumably call it a day.\r\nBut this simplified image of ovarian retire… [+4066 chars]"
     }
   ]
 }

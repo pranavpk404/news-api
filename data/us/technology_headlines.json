@@ -6,9 +6,22 @@
     "newsapi",
     "rss"
   ],
-  "fetched_at": "2026-10-20T00:44:47.070688+00:00",
+  "fetched_at": "2026-10-20T06:44:29.428224+00:00",
   "articles_count": 78,
   "articles": [
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Emmy Martin",
+      "title": "Saudis Aided Family of Engineer Accused of Bugging OpenAI, Prosecutors Say",
+      "description": "Saudi officials paid for his wife and son to fly out of the U.S. and offered to cover his bail, according to court filings. A judge ordered the engineer to remain in custody.",
+      "url": "https://www.nytimes.com/2026/10/19/technology/saudis-aided-family-openai-engineer.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/10/19/multimedia/19biz-openai-suspect-jbhc/19biz-openai-suspect-jbhc-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-10-20T02:27:46Z",
+      "content": "Saudi officials paid for his wife and son to fly out of the U.S. and offered to cover his bail, according to court filings. A judge ordered the engineer to remain in custody."
+    },
     {
       "source": {
         "id": "the-new-york-times",
@@ -27,19 +40,6 @@
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
-      "author": "Emmy Martin",
-      "title": "Saudis Aided Family of Engineer Accused of Bugging OpenAI, Prosecutors Say",
-      "description": "Saudi officials paid for his wife and son to fly out of the U.S. and offered to cover his bail, according to court filings. A judge ordered the engineer to remain in custody.",
-      "url": "https://www.nytimes.com/2026/10/19/technology/saudis-aided-family-openai-engineer.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/10/19/multimedia/19biz-openai-suspect-jbhc/19biz-openai-suspect-jbhc-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-10-19T21:17:42Z",
-      "content": "Saudi officials paid for his wife and son to fly out of the U.S. and offered to cover his bail, according to court filings. A judge ordered the engineer to remain in custody."
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
       "author": "Max Read, Whitney Jones, Vjeran Pavic, Chris Wood, Dan Powell, Rowan Niemisto and Diane Wong",
       "title": "Why No One Can Look Away From Elizabeth Holmes",
       "description": "“I felt like there were some moments in the film where she was just brazenly lying.”",
@@ -50,16 +50,68 @@
     },
     {
       "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "9to5Mac",
+      "title": "Not upgrading to iPhone 18 Pro or Duo? Here’s what’s coming next year - 9to5Mac",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE44RVJoc2pDbHg3S0lzUFN6QXJSTmlzOTF4aFNBOF9XMndmUE1kcGE1dUNkdEJsSHV6d2lPaTV4WFk1eUJLT1VxOW1oeUpmUWV4dy16N1JQTVFkSjB2ZXJCNzFGM09kODU0amJtRU94dVlyNFU2Wm96MFFzT0ViUQ?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2026-10-19T02:16:00Z",
+      "content": null
+    },
+    {
+      "source": {
         "id": null,
-        "name": "Techpowerup.com"
+        "name": "BBC News"
       },
       "author": null,
-      "title": "New Tools Let Users Edit and Load Modified VBIOS on GeForce RTX GPUs Without Flashing - TechPowerUp",
-      "description": "A developer who goes by Panchovix has released three tools that let NVIDIA GeForce RTX 50, RTX 40, and RTX 30-series owners run a modified VBIOS without writing anything to the card's flash chip. The first is a VBIOS editor for Windows and Linux that can chan…",
-      "url": "https://www.techpowerup.com/353849/new-tools-let-users-edit-and-load-modified-vbios-on-geforce-rtx-gpus-without-flashing",
-      "urlToImage": "https://www.techpowerup.com/img/SB1pKTE8BfCEeWMc.jpg",
-      "publishedAt": "2026-10-18T18:35:00Z",
-      "content": "A developer who goes by Panchovix has released three tools that let NVIDIA GeForce RTX 50, RTX 40, and RTX 30-series owners run a modified VBIOS without writing anything to the card's flash chip. The… [+2074 chars]"
+      "title": "GTA 6: Can you cheat on someone with a video game character? - BBC",
+      "description": "Grand Theft Auto VI lets you build and nurture a romantic relationship but some say dates with a fictional character are a step too far.",
+      "url": "https://www.bbc.com/news/articles/ckn9wrr75dyeo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/e828/live/0110bda0-bb78-11f1-bc1f-3f186ca4140c.jpg",
+      "publishedAt": "2026-10-19T00:09:25Z",
+      "content": "\"The more sophisticated games get, the less likely it is that players get pulled out of the experience,\" says Arienne Ferchaud, an associate professor at Florida State University who studies how peop… [+45 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Kotaku"
+      },
+      "author": "Zack Kotzer",
+      "title": "MrBeast Joins Shark Tank, Invests Quarter Million In AI-Powered ‘Ball 2’ - Kotaku",
+      "description": "Mr. Wonderful inversely appeared uninterested in the foam orb, not seeing how it could distinguish itself among other, more popular balls",
+      "url": "https://kotaku.com/mrbeast-joins-shark-tank-invests-quarter-million-in-ai-powered-ball-2-2000747308",
+      "urlToImage": "https://kotaku.com/app/uploads/2026/10/ball2-1200x675.jpg",
+      "publishedAt": "2026-10-18T22:24:42Z",
+      "content": "James Stephen Donaldson, the algorithm ruling, product hustling, normal smile having YouTube superstar better known as MrBeast recently made his debut on Shark Tank. During his first episode on the s… [+2760 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "MakeUseOf"
+      },
+      "author": "Tashreef Shareef",
+      "title": "I updated my Galaxy to One UI 9 and immediately changed these 5 settings - MakeUseOf",
+      "description": "Bigger sliders, live network speed, per-app internet blocking, and a fix for car sickness.",
+      "url": "https://www.makeuseof.com/update-change-one-ui-9-galaxy-settings/",
+      "urlToImage": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/10/samsung-galaxy-phone-displaying-one-ui-9-0-update-ready-to-install.jpg?w=1600&h=900&fit=crop",
+      "publishedAt": "2026-10-18T20:30:17Z",
+      "content": "The One UI 9.0 (Android 17) update landed on my Z Flip 6 a few days ago. I'm used to my Z Flip 6 getting the One UI love late, but it's finally here. This time, it's less about AI and more about feat… [+6751 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Kotaku"
+      },
+      "author": "Zack Kotzer",
+      "title": "The Year’s Most Compelling Horror Game Is About Cute Penguins - Kotaku",
+      "description": "Penguin Colony tears down colonial overtones of H.P. Lovecraft's works by removing the player from any anthropological sensibilities, exhuming the genre instead of excusing it",
+      "url": "https://kotaku.com/the-most-compelling-lovecraft-video-game-is-about-hundreds-of-adorable-penguins-2000747293",
+      "urlToImage": "https://kotaku.com/app/uploads/2026/10/penguincolonysc-1200x675.jpg",
+      "publishedAt": "2026-10-18T19:49:55Z",
+      "content": "While his politics and bigotry have long been part of the parsing, Lovecraftian scholars benefit a great deal by the fact that the namesake died before 1939. Tales of unfathomable beings, the reaches… [+3590 chars]"
     },
     {
       "source": {
@@ -125,19 +177,6 @@
       "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25544255/2162439650.jpg?quality=90&strip=all&crop=0%2C10.746068936881%2C100%2C78.507862126237&w=1200",
       "publishedAt": "2026-10-18T16:27:51Z",
       "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Power To The Players Act would guarantee buying a game means you own it, not license it.\r\nThe Power To The Players Act would guarantee buying a game means yo… [+2613 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "MacRumors"
-      },
-      "author": "Joe Rossignol",
-      "title": "Apple Reveals iPhone Duo's Battery Capacity - MacRumors",
-      "description": "Apple on Friday published an EU energy label for the iPhone Duo that reveals the device has a total battery capacity of 4,883 mAh.   The document...",
-      "url": "https://www.macrumors.com/2026/10/18/iphone-duo-battery-capacity/",
-      "urlToImage": "https://images.macrumors.com/t/HyAEO6I-nDaqTyyr4AZQMr7GPdQ=/1600x/article-new/2026/09/iphone-duo-closed-1.jpg",
-      "publishedAt": "2026-10-18T15:06:57Z",
-      "content": "Apple on Friday published an EU energy label for the iPhone Duo that reveals the device has a total battery capacity of 4,883 mAh.\r\nThe document appears to confirm a previous leak that showed the iPh… [+423 chars]"
     },
     {
       "source": {
@@ -220,28 +259,54 @@
     {
       "source": {
         "id": null,
-        "name": "Abcnews.com"
+        "name": "PEOPLE"
       },
-      "author": "ABC News - Breaking News, Latest News and Videos",
-      "title": "Hot Wheels' female executive wants more girls to be part of the brand - ABC News - Breaking News, Latest News and Videos",
+      "author": "Toria Sheffield",
+      "title": "Daredevil Jumped 25,000 Feet Without a Parachute. Now He Wants to Leap from Space: ‘That’s the Dream, the Drop-the-Mic Thing’ - Yahoo",
+      "description": "“Impossible is just an opinion,” said Luke Aikins, who hopes to jump from a rocket 330,000 feet above Earth",
+      "url": "https://people.com/professional-daredevil-plans-space-jump-from-space-12178275",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/9b9f40ac11cc39c56ffbda4016b9144de54ca6193263445d6b846faacc8c9a58/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2F0219502a1290eadd9ee005136fe598c9.jpg",
+      "publishedAt": "2026-10-18T10:30:00Z",
+      "content": "NEED TO KNOW\r\n<ul><li>Daredevil Luke Aikins, 52, hopes to jump from a rocket 330,000 feet above Earth, a decade after his record-setting skydive without a parachute\r\n</li><li>In 2016, Aikins jumped f… [+5255 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Outside"
+      },
+      "author": "Jim Cotton",
+      "title": "Tadej Pogačar's Secretive Lactate Energy Gel Hits the Market – But There’s a Catch - Outside Magazine",
+      "description": "Enervit gel mix developed with Team UAE and used at the Tour de France joins a wave of new-era lactate fuels available to amateurs. Can they justify the price tag?",
+      "url": "https://velo.outsideonline.com/road/road-gear/tadej-pogacars-secretive-lactate-energy-gel-hits-the-market-but-theres-a-catch/#article",
+      "urlToImage": "https://velo-cdn.outsideonline.com/wp-content/uploads/2026/07/001-ph-credits-Alan-Bucar-Vuksic-e1784222656226.jpeg",
+      "publishedAt": "2026-10-18T10:23:52Z",
+      "content": "Updated October 18, 2026 05:05AM\r\nRemember the mysterious lactate energy products Tadej Pogaar was trialing at the Tour de France?\r\nTheyre on sale for you to buy.\r\nThis week, the Enervit 2:1 Lactate … [+4797 chars]"
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "RPGFan",
+      "title": "Tales of Eternia Remastered Review - RPGFan",
       "description": null,
-      "url": "https://abcnews.com/Business/hot-wheels-female-executive-girls-part-brand/story?id\\\\u003d137287611",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBxc0FZcXRVTl9QMzFEemFkZElfRHVGUEwxbnhLVjJCRVNuaExfZnhTeFF2dG1pMm85OVJVZHd0TkhyOGZmTEM1U2FDdnpCanVMY0k4OXNqQjc3c0k2U3dWNnhXcGN0bE40ZUE?oc=5",
       "urlToImage": null,
-      "publishedAt": "2026-10-18T10:33:38Z",
+      "publishedAt": "2026-10-18T10:21:06Z",
       "content": null
     },
     {
       "source": {
-        "id": "buzzfeed",
-        "name": "Buzzfeed"
+        "id": "google-news",
+        "name": "Google News"
       },
-      "author": "Dannica Ramirez",
-      "title": "\"I Regretted It After Two Weeks\": Homeowners Are Revealing The Popular Home Fads That Aren't Worth Trying Out - BuzzFeed",
-      "description": "\"TikTok really made me think it looked modern and chic, but instead, it made everything so dull and boring...\"",
-      "url": "https://www.buzzfeed.com/dannicaramirez/design-trends-homeowners-followed-and-regret-fs2",
-      "urlToImage": "https://img.buzzfeed.com/buzzfeed-static/static/2025-01/26/19/enhanced/d0c864bcc0b1/original-10358-1737921337-2.jpg?crop=2000:1047;0,311%26downsize=1250:*",
-      "publishedAt": "2026-10-18T10:31:01Z",
-      "content": "TikTok really made me think it looked modern and chic, but instead, it made everything so dull and boring..."
+      "author": "Tom's Guide",
+      "title": "I tried Ray-Ban Meta's camera-free AI glasses — 5 unexpected uses that surprised me - Tom's Guide",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOYnAxMlFQcHRrLThGQ1RBdktRVVFfVE1ZUC0xXzN3aWRtMU5wX0ZNRkZ1S1BDVnlncGx5dHBEenVnS0g2U3V6Y2lnclV6dkdqVXJFa2tqLXp6VXprSDFiVXZwWVRDVE95OG9HZktmUVlwMEVhWG54OHVuT3p5bUg1ZXNUUUJ4ZjQ0WllocG12VFVBeTdkemJFS0tvRFVJQlBSOWRKSFVUMUpJYjBjRWc?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2026-10-18T10:00:00Z",
+      "content": null
     },
     {
       "source": {
@@ -255,6 +320,19 @@
       "urlToImage": null,
       "publishedAt": "2026-10-18T09:32:00Z",
       "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "TrueAchievements"
+      },
+      "author": null,
+      "title": "Xbox gets 30 new games next week, including Call of Duty: Modern Warfare 4 - TrueAchievements",
+      "description": "Next week, Call of Duty: Modern Warfare 4, Peak, Final Fantasy Resonance, and 27 more new games launch across Xbox consoles and Xbox PC.",
+      "url": "https://www.trueachievements.com/news/new-xbox-games-october-19",
+      "urlToImage": "https://www.trueachievements.com/imgs/179632/xbox-gets-30-new-games-next-week-including-call-of-duty-modern-warfare-4.jpg",
+      "publishedAt": "2026-10-18T09:03:36Z",
+      "content": "Another big wave of Xbox games is heading your way! Over the next seven days, a whopping 20 new games come to Xbox Series X|S, Xbox One, and PC, including a few heavy hitters. Some of the more notabl… [+20680 chars]"
     },
     {
       "source": {
@@ -298,6 +376,19 @@
     {
       "source": {
         "id": null,
+        "name": "Wccftech"
+      },
+      "author": "Omar Sohail",
+      "title": "RTX 5090 Shipments Worth $500,000 Vanished Into Thin Air At São Paulo Airport, Distributor Says This Has Never Happened In Nearly Four Decades Of Operation - Wccftech",
+      "description": "A $500,000 shipment of RTX 5090 graphics cards mysteriously vanished after reaching Guarulhos Airport, according to distributor Oderço",
+      "url": "https://wccftech.com/rtx-5090-shipment-missing-guarulhos-airport/",
+      "urlToImage": "https://cdn.wccftech.com/wp-content/uploads/2026/10/RTX-5090-shipments-stolen-from-airport.jpg",
+      "publishedAt": "2026-10-18T06:47:29Z",
+      "content": "Two pallets of ZOTAC-made RTX 5090 GPUs arrived at the Guarulhos International Airport terminal in São Paulo, worth around $500,000, but according to the latest report, the flagship GPU shipments had… [+2906 chars]"
+    },
+    {
+      "source": {
+        "id": null,
         "name": "Sheepesports.com"
       },
       "author": "https://www.sheepesports.com/en/all/authors/rabia-sayal",
@@ -314,11 +405,11 @@
         "name": "Mashable"
       },
       "author": "Mashable Team",
-      "title": "NYT Strands hints, answers for October 17, 2026 - Mashable",
+      "title": "NYT Strands hints, answers for October 18, 2026 - Mashable",
       "description": "Every hint, nudge and outright answer you need to complete today's NYT Strands puzzle.",
-      "url": "https://mashable.com/entertainment/strands-nyt-hint-october-17-2026",
-      "urlToImage": "https://helios-i.mashable.com/imagery/articles/02ZD0zMWRadGBqCFVmvXJ6A/hero-image.fill.size_1200x675.v1792098298.jpg",
-      "publishedAt": "2026-10-18T02:07:47Z",
+      "url": "https://mashable.com/entertainment/strands-nyt-hint-october-18-2026",
+      "urlToImage": "https://helios-i.mashable.com/imagery/articles/05oYk6bwg6KSMTeevfZU6Eh/hero-image.fill.size_1200x675.v1792099583.jpg",
+      "publishedAt": "2026-10-18T04:27:30Z",
       "content": null
     },
     {
@@ -389,6 +480,32 @@
     {
       "source": {
         "id": null,
+        "name": "TheGamer"
+      },
+      "author": "George Foster",
+      "title": "Castlevania: Belmont's Curse - Complete Weapon Unlock Guide - TheGamer",
+      "description": "Paris is teeming with new weapons for Rose to find. Here's how to unlock all 28 of them.",
+      "url": "https://www.thegamer.com/castlevania-belmonts-curse-weapons-how-to-unlock-find-all-complete-location-guide/",
+      "urlToImage": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/wm/2026/10/castlevaniabelmontscurseexcalibur.jpg?w=1600&h=900&fit=crop",
+      "publishedAt": "2026-10-17T16:42:19Z",
+      "content": "As you'd expect, Castlevania: Belmont's Curse is absolutely stuffed with collectibles, secrets, bosses, items, and much more for the player to spend hours tracking down as they uncover the map.\r\nThe … [+9198 chars]"
+    },
+    {
+      "source": {
+        "id": "ign",
+        "name": "IGN"
+      },
+      "author": "Virginia Glaze",
+      "title": "[UPDATE] Super Smash Bros. Player Mew2King Responds After Tournament Bans Him Over Bug Bite Concerns - IGN",
+      "description": "Professional Super Smash Bros. player Jason 'Mew2King' Zimmerman has responded after his post about a bug infestation in his home resulted in him being banned from a competitive tournament.",
+      "url": "https://www.ign.com/articles/super-smash-bros-player-mew2king-banned-from-tournament-after-bug-bites-spark-health-concerns",
+      "urlToImage": "https://assets-prd.ignimgs.com/2026/10/16/smash-bros-player-banned-from-tournament-bug-bites-1792187389080.jpg?width=1280&format=jpg&auto=webp&quality=80",
+      "publishedAt": "2026-10-17T16:29:54Z",
+      "content": "UPDATE October 17, 2026, 9:30am PT: Professional Super Smash Bros. player Jason 'Mew2King' Zimmerman has responded after his post about a bug infestation in his home resulted in him being banned from… [+5114 chars]"
+    },
+    {
+      "source": {
+        "id": null,
         "name": "Nintendo Life"
       },
       "author": "Matthew Reynolds",
@@ -428,45 +545,6 @@
     {
       "source": {
         "id": null,
-        "name": "Kotaku"
-      },
-      "author": "Zack Kotzer",
-      "title": "Smash Bros. Player Barred From Austin Competition Following Bed Bug Concern - Kotaku",
-      "description": "Announcing a hiatus, Melee pro Jason ‘Mew2King’ Zimmerman says he regrets posting the now viral photos and would have stepped back if he believed the community was at risk",
-      "url": "https://kotaku.com/smash-bros-player-barred-from-austin-competition-following-bed-bug-concern-2000747055",
-      "urlToImage": "https://kotaku.com/app/uploads/2026/10/parasitequeen-1200x675.jpg",
-      "publishedAt": "2026-10-17T15:38:45Z",
-      "content": "Super Smash Bros. Melee pro Jason Zimmerman, better known as Mew2King, was scheduled to appear at Austins Xtreme Fighters Showdown this weekend. That was until yesterday, when event staff decided to … [+3349 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Bespinbulletin.com"
-      },
-      "author": "Bespin Bulletin",
-      "title": "Star Wars Galactic Racer Devs Reveal They Have Big Plans For More Content - Bespin Bulletin",
-      "description": "Star Wars Galactic Racer is going to get more content and developers Fuse Games will be making sure the community's requests are a priority.",
-      "url": "https://bespinbulletin.com/star-wars-galactic-racer-devs-reveal-they-have-big-plans-for-more-content/",
-      "urlToImage": "https://bespinbulletin.com/wp-content/uploads/2026/06/sebulba_wip.webp",
-      "publishedAt": "2026-10-17T14:22:42Z",
-      "content": "Star Wars Galactic Racer is going to get more content and developers Fuse Games will be making sure the community’s requests are a priority. \r\nIn a new interview with The Games Business, Fuse Games c… [+3645 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Pure Xbox"
-      },
-      "author": "Fraser Gilbert",
-      "title": "These 20+ Games Are Coming To Xbox Next Week (October 19-23) - Pure Xbox",
-      "description": "Including one of the biggest Xbox first-party releases of 2026!",
-      "url": "https://www.purexbox.com/features/these-20plus-games-are-coming-to-xbox-next-week-october-19-23",
-      "urlToImage": "https://images.purexbox.com/6cfd6f70ca793/1280x720.jpg",
-      "publishedAt": "2026-10-17T14:08:51Z",
-      "content": "Welcome to your Xbox games roundup for October 19-23! We're starting to feel the presence of GTA 6 around the corner as the major new releases begin to dry up, but there are still some really interes… [+6944 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "Futurism"
       },
       "author": "Victor Tangermann",
@@ -492,15 +570,15 @@
     },
     {
       "source": {
-        "id": "google-news",
-        "name": "Google News"
+        "id": null,
+        "name": "GameRant"
       },
-      "author": "Wccftech",
-      "title": "NVIDIA Denies RTX 5090 Discontinuation Reports; Jeff Fisher Confirms Flagship GPU Will Continue Shipping - Wccftech",
+      "author": "GameRant",
+      "title": "PS Plus Bonus Freebies Officially Confirmed for October 20 - GameRant",
       "description": null,
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9nLVQxMjZUdDNBOVN3dHFIQ3ptaUc3bmxDclhvOWJsRHVHcFJYTWI3eG5HeGp1d3VXeW92NkhDeHV5MUd1UXJYcGVmSmJQVVBWNTRNQlI1M2ZPWTBQQk1pTVdZNm94WndTVExQTUM3OXNZel9mdG1j0gF8QVVfeXFMTWl1aGhYSFIwaUpBOTdHSzBqMXNCRlFiYnF0anRiVm1zNllRWUhEcnhlR29wYV9xdUdMQ2QzUDhTTFZvVW5XdlY3OE9iWnFxcXNWcjRpUjlaeWplZXJqZ0NDVGVhUnJXelBTS25yWUh2YzBLVy1MMFhfNjA4Yw?oc=5",
+      "url": "https://gamerant.com/ps-plus-free-demos-october-2026/",
       "urlToImage": null,
-      "publishedAt": "2026-10-17T13:28:00Z",
+      "publishedAt": "2026-10-17T13:00:17Z",
       "content": null
     },
     {
@@ -583,19 +661,6 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "Gear Patrol"
-      },
-      "author": "Tucker Bowe",
-      "title": "Sony Just Put Audiophiles on Notice with Its New Portable Hi-Fi Players - Gear Patrol",
-      "description": "The iconic audio brand says the three new premium Walkman models are \"engineered to deliver exceptional sound.\"",
-      "url": "https://www.gearpatrol.com/audio/sony-walkman-portable-hi-fi-players-2026/",
-      "urlToImage": "https://www.gearpatrol.com/wp-content/uploads/sites/2/2026/10/Sony-WM1AM3-16x9-Lead-1.webp",
-      "publishedAt": "2026-10-16T20:09:01Z",
-      "content": "All three new portable hi-fi players are equipped with Sony’s S-Master HX digital amplification technology, which has been specifically developed for Walkman to help “deliver powerful, detailed sound… [+499 chars]"
-    },
-    {
-      "source": {
         "id": "ign",
         "name": "IGN"
       },
@@ -609,19 +674,6 @@
     },
     {
       "source": {
-        "id": "polygon",
-        "name": "Polygon"
-      },
-      "author": "Ryan Epps",
-      "title": "GTA 6 Recaptures What Made GTA’s Best DLC So Great - Polygon.com",
-      "description": "Vice City's lavish clubs, high-speed getaways, and over-the-top heists recall GTA's most extravagant era.",
-      "url": "https://www.polygon.com/gta-6-ballad-of-gay-tony/",
-      "urlToImage": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/lucia_caminos_10.jpg?w=1600&h=900&fit=crop",
-      "publishedAt": "2026-10-16T18:00:18Z",
-      "content": "If theres one word that describes GTA 6, its sexy. Since its debut trailer, the new open-world game appears to be a drastic detour from Rockstars previous entries, in its enhanced version of Vice Cit… [+6009 chars]"
-    },
-    {
-      "source": {
         "id": null,
         "name": "Kotaku"
       },
@@ -632,19 +684,6 @@
       "urlToImage": "https://kotaku.com/app/uploads/2026/10/GettyImages-51330963-e1792157827612.jpg",
       "publishedAt": "2026-10-16T16:00:45Z",
       "content": "Ken Kutaragi practically willed the PlayStation into existence against the wishes and judgment of many others at Sony. His tenacity paid off. Decades after the PS1 launched, the PlayStation brand is … [+2011 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Carrie McCabe",
-      "title": "The best Amazon deals this weekend: Score big brands like Yeti, Lego, Apple and more for up to 70% off - Yahoo",
-      "description": "We found fabulous fall discounts on everything from kitchenware and vacuums to holiday gifts, headphones, skin care and more.",
-      "url": "https://shopping.yahoo.com/deals/article/the-best-amazon-deals-this-weekend-score-big-brands-like-yeti-lego-apple-and-more-for-up-to-70-off-155756887.html",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/bcd8e5117512e70eab5784574af187b3e8f41621fd3397a0c8d8fafc925cd044/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Famazon-ru-images_0505.png",
-      "publishedAt": "2026-10-16T15:57:56Z",
-      "content": "The great Nathaniel Hawthorne once said, I cannot endure to waste anything so precious as autumnal sunshine by staying in the house. And while I can definitely relate, I also know that the indoors se… [+18134 chars]"
     },
     {
       "source": {
@@ -752,19 +791,6 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "Videocardz.com"
-      },
-      "author": null,
-      "title": "Steam Client now launches faster than Epic’s new launcher - VideoCardz.com",
-      "description": "Steam's October 13 update includes startup improvements. The release arrived one day before Epic promoted its new launcher with a 1.8x speed advantage.",
-      "url": "https://videocardz.com/newz/steam-client-now-launches-faster-than-epics-new-launcher",
-      "urlToImage": "https://cdn.videocardz.com/1/2026/10/STEAM-EPIC-GAMES-HERO.jpg",
-      "publishedAt": "2026-10-15T09:06:00Z",
-      "content": "Valve has released a Steam Client update that improves startup performance, arriving just as Epic Games announced its rebuilt launcher. The timing is interesting because Epic is now advertising its n… [+1787 chars]"
-    },
-    {
-      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -817,6 +843,19 @@
     },
     {
       "source": {
+        "id": null,
+        "name": "Rock Paper Shotgun"
+      },
+      "author": "Mark Warren",
+      "title": "\"We vibe coded a new Epic Games Launcher\" because \"programming is hard\", announce company we're somehow supposed to see as a serious Steam competitor - Rock Paper Shotgun",
+      "description": "Epic Games have released a new \"vibe coded\" launcher for their store, because of course they have.",
+      "url": "https://www.rockpapershotgun.com/we-vibe-coded-a-new-epic-games-launcher-because-programming-is-hard-announce-company-were-somehow-supposed-to-see-as-a-serious-steam-competitor",
+      "urlToImage": "https://assetsio.gnwcdn.com/tim-sweeney-unreal-engine-6-01-(1)-(1).jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "publishedAt": "2026-10-14T15:32:37Z",
+      "content": "Days after a report emerged about them imposing an \"AI-first\" production model on the devs of a new Disney shooter, Epic Games have released a new version of their launcher in preview form. It's been… [+2116 chars]"
+    },
+    {
+      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -843,19 +882,6 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "SamMobile"
-      },
-      "author": "Abid Iqbal Shaik",
-      "title": "Galaxy S23 stable One UI 9.0 (Android 17) update is out - SamMobile",
-      "description": "Samsung has released the stable version of One UI 9.0 (Android 17) for the Galaxy S23, Galaxy S23+, and Galaxy S23 Ultra.",
-      "url": "https://www.sammobile.com/news/galaxy-s23-stable-one-ui-9-0-android-17-update-out/",
-      "urlToImage": "https://www.sammobile.com/wp-content/uploads/2025/01/Galaxy-S23-Ultra-update.jpg",
-      "publishedAt": "2026-10-14T08:20:00Z",
-      "content": null
-    },
-    {
-      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -866,19 +892,6 @@
       "urlToImage": "https://static01.nyt.com/images/2026/10/13/multimedia/13biz-openai-security-fzgm/13biz-openai-security-fzgm-mediumSquareAt3X.jpg",
       "publishedAt": "2026-10-14T01:33:22Z",
       "content": "OpenAI said that the employee had placed a device built to evade detection and that he had planned to secretly record meetings in other sensitive spaces."
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "PCMag.com"
-      },
-      "author": "Eric Zeman",
-      "title": "Inside the iPhone Duo and 18 Pro Cooling System: Apple Engineers Reveal a Simple Trick - PCMag",
-      "description": "In an exclusive interview with PCMag, Apple’s silicon and thermal teams explain the engineering that lets the A20 Pro chip run hotter and faster without cooking your phone.",
-      "url": "https://www.pcmag.com/news/exclusive-iphone-duo-18-pro-cooling-system-apple-engineers-reveal-trick",
-      "urlToImage": "https://i.pcmag.com/imagery/articles/05CFtM0xshDMMISMadtyPt5-1.fit_lim.size_1200x630.v1791903125.jpg",
-      "publishedAt": "2026-10-13T22:28:30Z",
-      "content": null
     },
     {
       "source": {
@@ -895,16 +908,16 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "TechSpot"
+        "id": "google-news",
+        "name": "Google News"
       },
-      "author": "Kishalaya Kundu",
+      "author": "TechSpot",
       "title": "The developer who cloned Photoshop using AI has now created Word, Excel, and PowerPoint replicas with Claude - TechSpot",
-      "description": "Called WordCraft, GridCraft, and DeckCraft, respectively, the open-source applications are written in Rust with Anthropic's Claude Opus 5.5, as the Adobe replicas were, and are available for...",
-      "url": "https://www.techspot.com/news/114179-developer-who-cloned-photoshop-using-ai-has-now.html",
-      "urlToImage": "https://www.techspot.com/images2/news/bigimage/2026/10/2026-10-13-image-23.jpg",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQdVBoNzZ0ejJGWEVZWjRaQlc5SWoxMUFRUTNZVHZBb2thR0hvMlZVdWNzYlNLVVJENkliNy1CSm5iS0M2VENabFAxX2tyNHZ5OWhDZHV1STBxTmZKSXMxRzlHRERuLW9DeG5jV1Q4SHRTRDh3M19xU3Y2V2RzYUd4QnlFRVMzTS1pNlFQRXZnQ1IwVm8?oc=5",
+      "urlToImage": null,
       "publishedAt": "2026-10-13T18:53:00Z",
-      "content": "First look: Though vibe-coded apps are often slammed as \"AI slop\" by users and developers alike, generative AI can now produce complex productivity apps that rival market leaders. After building free… [+2489 chars]"
+      "content": null
     },
     {
       "source": {
@@ -918,19 +931,6 @@
       "urlToImage": "https://static01.nyt.com/images/2026/10/13/multimedia/13BIZ-APPLE-SUB-01-gbmj/13BIZ-APPLE-SUB-01-gbmj-mediumSquareAt3X.jpg",
       "publishedAt": "2026-10-13T17:23:29Z",
       "content": "Apple unveiled the device as it continues its foray into artificial intelligence and tries to prove it can still innovate."
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Gamesbeat.com"
-      },
-      "author": "Alexander Lee",
-      "title": "Grand Theft Auto VI’s PC release is slated for Q1 2027 - GamesBeat",
-      "description": "The PC version of Grand Theft Auto is slated to come out in the first three months of 2027, according to sources familiar with the matter.",
-      "url": "https://gamesbeat.com/grand-theft-auto-vis-pc-release-is-slated-for-q1-2027/",
-      "urlToImage": "https://gamesbeat.com/wp-content/uploads/2025/06/GB_Default.png",
-      "publishedAt": "2026-10-13T13:01:57Z",
-      "content": "Join independent journalists and industry decision-makers at GamesBeat NEXT, returning to San Francisco November 23. The event brings together 500 executives, founders, investors and tech leaders sha… [+4110 chars]"
     },
     {
       "source": {
@@ -986,16 +986,16 @@
     },
     {
       "source": {
-        "id": "ign",
-        "name": "IGN"
+        "id": "google-news",
+        "name": "Google News"
       },
-      "author": "Wesley Yin-Poole",
+      "author": "IGN",
       "title": "Latest Leaked GTA 6 Video Shows Lucia Fully Naked, Sparks Fan Skepticism - IGN",
-      "description": "The GTA 6 leaker has reportedly released yet another unauthorized gameplay video, this time allegedly showing Lucia fully naked in a bid to push their crypto scheme. However, some now suspect Cyberleek is using a developer build or cheats to make Jason and Lu…",
-      "url": "https://www.ign.com/articles/latest-leaked-gta-6-video-shows-lucia-fully-naked-sparks-fan-skepticism",
-      "urlToImage": "https://assets-prd.ignimgs.com/2026/10/12/ultimate-edition-stock-305-04-1791796445495.jpg?width=1280&format=jpg&auto=webp&quality=80",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNUF9HSTFKal9zMkNKdWVGSGktRWdEWnNTWngtZkVaWFdvREZ2NEZTOVcwVEI1NEdoQjk0Y1YzbUdXLXBmclFjOGI3M1QwYVk3bWZzYXE4TU95SWRrRlZGQzBsZVlQaGptWXB5VVB5TmRZY2tjZy1CSjF4X2ZrMFRuWl81ZkwtTUsyN3diN2Nyc25XNFJyN0VSYjN5OVdScjhXR3c?oc=5",
+      "urlToImage": null,
       "publishedAt": "2026-10-12T13:16:39Z",
-      "content": "UPDATE: Cyberleek has reportedly followed through on their threat to release a Lucia closeup 4k video, and is once again tying further leaks to crypto market cap targets, ranging from $5 million to $… [+4825 chars]"
+      "content": null
     },
     {
       "source": {

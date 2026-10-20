@@ -1,7 +1,20 @@
 {
   "status": "ok",
-  "totalResults": 78,
+  "totalResults": 82,
   "articles": [
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Leo Sands",
+      "title": "Google Reports Cloud Disruptions in Europe Region",
+      "description": "The disruptions began around 7 a.m. in London, the tech giant said. The cause of the outage was not immediately clear.",
+      "url": "https://www.nytimes.com/2026/10/20/technology/google-cloud-down-outage-europe.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/10/20/multimedia/20xp-cloudoutage-mpgb/20xp-cloudoutage-mpgb-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-10-20T11:34:52Z",
+      "content": "The disruptions began around 7 a.m. in London, the tech giant said. The cause of the outage was not immediately clear."
+    },
     {
       "source": {
         "id": "the-new-york-times",
@@ -12,7 +25,7 @@
       "description": "Saudi officials paid for his wife and son to fly out of the U.S. and offered to cover his bail, according to court filings. A judge ordered the engineer to remain in custody.",
       "url": "https://www.nytimes.com/2026/10/19/technology/saudis-aided-family-openai-engineer.html",
       "urlToImage": "https://static01.nyt.com/images/2026/10/19/multimedia/19biz-openai-suspect-jbhc/19biz-openai-suspect-jbhc-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-10-20T02:27:46Z",
+      "publishedAt": "2026-10-20T02:27:47Z",
       "content": "Saudi officials paid for his wife and son to fly out of the U.S. and offered to cover his bail, according to court filings. A judge ordered the engineer to remain in custody."
     },
     {
@@ -43,29 +56,68 @@
     },
     {
       "source": {
-        "id": "google-news",
-        "name": "Google News"
+        "id": "mashable",
+        "name": "Mashable"
       },
-      "author": "9to5Mac",
-      "title": "Not upgrading to iPhone 18 Pro or Duo? Here’s what’s coming next year - 9to5Mac",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE44RVJoc2pDbHg3S0lzUFN6QXJSTmlzOTF4aFNBOF9XMndmUE1kcGE1dUNkdEJsSHV6d2lPaTV4WFk1eUJLT1VxOW1oeUpmUWV4dy16N1JQTVFkSjB2ZXJCNzFGM09kODU0amJtRU94dVlyNFU2Wm96MFFzT0ViUQ?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2026-10-19T02:16:00Z",
+      "author": "Alex Perry",
+      "title": "Cyberleek drops more NSFW Lucia videos, threatens to release 'GTA 6' in full - Mashable",
+      "description": "Only about a month until the game is out.",
+      "url": "https://mashable.com/entertainment/gta-grand-theft-auto-6-cyberleek-lucia-leaked-gameplay-videos",
+      "urlToImage": "https://helios-i.mashable.com/imagery/articles/03sZ0A4BYrf77U0A6HR6KhF/hero-image.fill.size_1200x675.v1791815910.jpg",
+      "publishedAt": "2026-10-19T10:12:20Z",
       "content": null
     },
     {
       "source": {
         "id": null,
-        "name": "BBC News"
+        "name": "Eurogamer.net"
       },
-      "author": null,
-      "title": "GTA 6: Can you cheat on someone with a video game character? - BBC",
-      "description": "Grand Theft Auto VI lets you build and nurture a romantic relationship but some say dates with a fictional character are a step too far.",
-      "url": "https://www.bbc.com/news/articles/ckn9wrr75dyeo",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/e828/live/0110bda0-bb78-11f1-bc1f-3f186ca4140c.jpg",
-      "publishedAt": "2026-10-19T00:09:25Z",
-      "content": "\"The more sophisticated games get, the less likely it is that players get pulled out of the experience,\" says Arienne Ferchaud, an associate professor at Florida State University who studies how peop… [+45 chars]"
+      "author": "Sherif Saed",
+      "title": "Players on Steam so far seem delighted with Modern Warfare 4's campaign, making it one of the most well-received Call of Dutys in recent history - Eurogamer.net",
+      "description": "Modern Warfare 4 may signal Call of Duty's return to form, at least judging by player sentiment on Steam so far.",
+      "url": "https://www.eurogamer.net/call-of-duty-modern-warfare-4-campaign-steam-review-rating",
+      "urlToImage": "https://assetsio.gnwcdn.com/modern-warfare-4-campaign-crop-2.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "publishedAt": "2026-10-19T08:36:43Z",
+      "content": "It may be hard to believe, given all the Call of Duty: Modern 4 pre-launch community drama and the beta's lower-than-expected numbers on PC, but the final game may have turned things around - so far,… [+2133 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BGR"
+      },
+      "author": "Faith Leroux",
+      "title": "What Is The Most Affordable Gaming Console In 2026? - BGR",
+      "description": "On paper, Nintendo ties Xbox for the cheapest console to date, but it also has the weakest hardware, and owning one of its systems comes with hidden costs.",
+      "url": "https://www.bgr.com/2287528/most-affordable-gaming-console-2026/",
+      "urlToImage": "https://www.bgr.com/img/gallery/what-is-the-most-affordable-gaming-console-in-2026/l-intro-1792072426.jpg",
+      "publishedAt": "2026-10-19T04:17:00Z",
+      "content": "In 2026, the big three gaming industry brands, Microsoft Xbox, Nintendo, and Sony, all have a finger in the pie when it comes to a consumer's decision to buy a console. Sadly economic shifts happen; … [+1382 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BGR"
+      },
+      "author": "Matthew Sholtz",
+      "title": "3 Essential Tools Every PC Gamer Should Install - BGR",
+      "description": "You have a lot of tools available to you to maintain and monitor your PC, but these three, in particular, are must-haves for any gamer.",
+      "url": "https://www.bgr.com/2286870/essential-tools-every-pc-gamer-should-install/",
+      "urlToImage": "https://www.bgr.com/img/gallery/3-essential-tools-every-pc-gamer-should-install/l-intro-1792001568.jpg",
+      "publishedAt": "2026-10-19T01:17:00Z",
+      "content": "If you want to log as many of your sensors as possible, HWiNFO 64 is the tool to use. It goes well beyond GPU-Z for GPU and video memory, and it also includes reports for your CPU and RAM, all in one… [+1258 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Softonic"
+      },
+      "author": "Chema Carvajal Sarabia",
+      "title": "Epic Games shifts to automation-first development: Tim Sweeney sees a “golden age of gaming” - Softonic",
+      "description": "Epic Games is moving teams toward automation-first development. Tim Sweeney says generative tools could speed up production, lower costs, and open what he calls a “golden age of gaming.” Epic Games Download He says coding assistants now measure up ag",
+      "url": "https://en.softonic.com/articles/epic-games-shifts-to-automation-first-development-tim-sweeney-sees-a-golden-age-of-gaming",
+      "urlToImage": "https://articles-img.sftcdn.net/t_article_cover_xl/auto-mapping-folder/sites/3/2026/10/epic-games-shifts-to-automation-first-development-tim-sweene-20261018.jpg",
+      "publishedAt": "2026-10-19T00:48:05Z",
+      "content": "Epic Games is moving teams toward automation-first development. Tim Sweeney says generative tools could speed up production, lower costs, and open what he calls a golden age of gaming.\r\nHe says codin… [+1314 chars]"
     },
     {
       "source": {
@@ -79,6 +131,58 @@
       "urlToImage": "https://kotaku.com/app/uploads/2026/10/ball2-1200x675.jpg",
       "publishedAt": "2026-10-18T22:24:42Z",
       "content": "James Stephen Donaldson, the algorithm ruling, product hustling, normal smile having YouTube superstar better known as MrBeast recently made his debut on Shark Tank. During his first episode on the s… [+2760 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "How-To Geek"
+      },
+      "author": "Monica J. White",
+      "title": "Your USB-C cables might need a firmware update. I'm serious - How-To Geek",
+      "description": "Great, yet another firmware update to forget about.",
+      "url": "https://www.howtogeek.com/your-usb-c-cables-might-need-a-firmware-update-im-serious/",
+      "urlToImage": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/07/usbccables2-2.jpg?w=1600&h=900&fit=crop",
+      "publishedAt": "2026-10-18T21:30:16Z",
+      "content": "USB-C cables, while super confusing, are also utterly forgettable. I really don't think you spend hours pondering the fate of your USB-C cables, and neither do I.\r\nAt least not until something breaks… [+4820 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "9to5Mac"
+      },
+      "author": "Chance Miller",
+      "title": "Three Phone app features worth turning on right now - 9to5Mac",
+      "description": "Hold Assist and Call Screening are available today, with Call Context arriving in iOS 27. Here's how each one works.",
+      "url": "https://9to5mac.com/2026/10/18/apple-keeps-making-the-phone-app-better-heres-how/",
+      "urlToImage": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/phone-app-icon-fi-ios-27.jpg?quality=82&strip=all&resize=1200,628",
+      "publishedAt": "2026-10-18T21:19:00Z",
+      "content": "9to5Mac is brought to you by Tello Mobile. Switching to Tello Mobile can bring the cost of your plan down to as little as $5 a month, or an unlimited plan for just $25 a month, all on America’s large… [+3016 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Android Police"
+      },
+      "author": "Ben Khalesi",
+      "title": "Google is renaming Gemini again; here's what each feature does now - Android Police",
+      "description": "Gems, Skills, Spark, Scheduled Actions: a field guide to renamed features",
+      "url": "https://www.androidpolice.com/googles-renamed-gemini-features-field-guide/",
+      "urlToImage": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2026/10/gemini-gems-spark-and-scheduled-actions-icons-floating-on-a-light-blue-gradient-background.png?w=1600&h=900&fit=crop",
+      "publishedAt": "2026-10-18T21:00:13Z",
+      "content": "Google loves building several tools for one job and giving them names that blur together.\r\nDon't believe me? This is the company that gave us Talk, Hangouts, Allo, Duo, Meet, and Chat. On November 17… [+5574 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Kotaku"
+      },
+      "author": "Zack Kotzer",
+      "title": "Video Game Decomp Hub Closes Due To AI: ‘The Community Aspect Of Decompilation Has Been Broken’ - Kotaku",
+      "description": "An integral step towards mods, ports and patches, the popular decomp.dev decided the platform has been rendered obsolete by 'drive-by contributions'",
+      "url": "https://kotaku.com/video-game-decomp-hub-closes-due-to-ai-the-community-aspect-of-decompilation-has-been-broken-2000747302",
+      "urlToImage": "https://kotaku.com/app/uploads/2026/10/neuroman2-1063x675.jpg",
+      "publishedAt": "2026-10-18T20:51:52Z",
+      "content": "When the major AI models updated in September, it seemed to usher in a tide of vibe coded havoc. The use of it in the modding community was divisive enough. Now dedicated platforms have been flushed … [+1967 chars]"
     },
     {
       "source": {
@@ -109,6 +213,19 @@
     {
       "source": {
         "id": null,
+        "name": "Techpowerup.com"
+      },
+      "author": null,
+      "title": "New Tools Let Users Edit and Load Modified VBIOS on GeForce RTX GPUs Without Flashing - TechPowerUp",
+      "description": "A developer who goes by Panchovix has released three tools that let NVIDIA GeForce RTX 50, RTX 40, and RTX 30-series owners run a modified VBIOS without writing anything to the card's flash chip. The first is a VBIOS editor for Windows and Linux that can chan…",
+      "url": "https://www.techpowerup.com/353849/new-tools-let-users-edit-and-load-modified-vbios-on-geforce-rtx-gpus-without-flashing",
+      "urlToImage": "https://www.techpowerup.com/img/SB1pKTE8BfCEeWMc.jpg",
+      "publishedAt": "2026-10-18T18:35:15Z",
+      "content": "A developer who goes by Panchovix has released three tools that let NVIDIA GeForce RTX 50, RTX 40, and RTX 30-series owners run a modified VBIOS without writing anything to the card's flash chip. The… [+2074 chars]"
+    },
+    {
+      "source": {
+        "id": null,
         "name": "MacRumors"
       },
       "author": "Joe Rossignol",
@@ -135,41 +252,41 @@
     {
       "source": {
         "id": null,
-        "name": "Eurogamer.net"
+        "name": "The Drive"
       },
-      "author": "Vikki Blake",
-      "title": "Battlefield 6 devs to fix \"Secuty\" skin typo, but five-pistol outfit was intentional - Eurogamer.net",
-      "description": "Battlefield Studios says a typo on a Season 5 skin will be fixed, but the outfit with five pistols was deliberate.",
-      "url": "https://www.eurogamer.net/battlefield-6-secuty-typo-five-pistol-skin-devs-respond",
-      "urlToImage": "https://assetsio.gnwcdn.com/Screenshot-2026-10-18-at-18.30.22.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "publishedAt": "2026-10-18T17:37:38Z",
-      "content": "Battlefield Studios has responded after fans accused it of using AI to generate cosmetics after spotting a \"Secuty\" typo on a Battlefield 6 Season 5 skin.\r\nThe studio acknowledged \"candid feedback\" f… [+2274 chars]"
+      "author": "Stephen Edelstein",
+      "title": "This Is Why Everyone Hates V6 Engines - The Drive",
+      "description": "The V6 has powered all kinds of cars and trucks, including many enthusiast favorites. But it has few defenders.",
+      "url": "https://www.thedrive.com/news/this-is-why-everyone-hates-v6-engines",
+      "urlToImage": "https://www.thedrive.com/wp-content/uploads/2026/10/V6-Hero.jpg?quality=85&w=1200",
+      "publishedAt": "2026-10-18T16:00:00Z",
+      "content": "The Drive your inbox. Every weekday\r\nThe Daily Brief wraps up the biggest stories and our exclusive reporting on the auto industry and car culture.\r\nIf you’re a child of the 1990s, a V6 is probably p… [+3344 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "411mania.com"
+        "name": "Kotaku"
       },
-      "author": null,
-      "title": "Latest On AEW Status of Keith Lee - 411MANIA",
-      "description": "Keith Lee hasn't been seen in AEW in almost three years, but he is still reportedly with the company.",
-      "url": "https://411mania.com/wrestling/latest-aew-status-keith-lee/",
-      "urlToImage": "https://411mania.com/wp-content/uploads/2021/09/Keith-Lee-Raw-Talk.jpg",
-      "publishedAt": "2026-10-18T17:08:43Z",
-      "content": "Keith Lee hasn’t been seen in AEW in almost three years, but he is still reportedly with the company. Lee last competed on AEW TV at the December 23rd, 2023 Holiday Bash episode of AEW Collision. Sin… [+802 chars]"
+      "author": "Lewis Parker",
+      "title": "Devs Of Needle In A Haystack Clone Angry It's Been Cloned By AI - Kotaku",
+      "description": "The developers of the Needle In A Haystack Simulator clone accused another clone of being a 'byte-for-byte identical' rip-off of their work",
+      "url": "https://kotaku.com/devs-behind-needle-in-a-haystack-clone-complain-their-clone-has-been-cloned-by-vibe-coder-2000747284",
+      "urlToImage": "https://kotaku.com/app/uploads/2026/10/A-screenshot-of-NoGlyphs-Needle-In-A-Haystack-on-Steam-1200x675.jpg",
+      "publishedAt": "2026-10-18T15:12:35Z",
+      "content": "This is gonna get confusing real fast, so I need everyone to lock in for the sentence youre about to read: the devs behind Needle In A Haystack, which is a clone of the original viral haystack game, … [+4306 chars]"
     },
     {
       "source": {
-        "id": "the-verge",
-        "name": "The Verge"
+        "id": null,
+        "name": "MacRumors"
       },
-      "author": "Terrence O'Brien",
-      "title": "Video game ownership bill introduced in Congress - The Verge",
-      "description": "The Power To The Players Act would guarantee buying a game means you own it, not license it.",
-      "url": "https://www.theverge.com/policy/1013521/video-game-ownership-bill-congress-power-to-the-players-act",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25544255/2162439650.jpg?quality=90&strip=all&crop=0%2C10.746068936881%2C100%2C78.507862126237&w=1200",
-      "publishedAt": "2026-10-18T16:27:51Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Power To The Players Act would guarantee buying a game means you own it, not license it.\r\nThe Power To The Players Act would guarantee buying a game means yo… [+2613 chars]"
+      "author": "Joe Rossignol",
+      "title": "Apple Reveals iPhone Duo's Battery Capacity - MacRumors",
+      "description": "Apple on Friday published an EU energy label for the iPhone Duo that reveals the device has a total battery capacity of 4,883 mAh.   The document...",
+      "url": "https://www.macrumors.com/2026/10/18/iphone-duo-battery-capacity/",
+      "urlToImage": "https://images.macrumors.com/t/HyAEO6I-nDaqTyyr4AZQMr7GPdQ=/1600x/article-new/2026/09/iphone-duo-closed-1.jpg",
+      "publishedAt": "2026-10-18T15:06:57Z",
+      "content": "Apple on Friday published an EU energy label for the iPhone Duo that reveals the device has a total battery capacity of 4,883 mAh.\r\nThe document appears to confirm a previous leak that showed the iPh… [+423 chars]"
     },
     {
       "source": {
@@ -187,6 +304,19 @@
     {
       "source": {
         "id": null,
+        "name": "Wccftech"
+      },
+      "author": "Sebastian Castellanos",
+      "title": "Oblivion Remastered Mod Built Using Claude AI Boosts FPS By Over 40% And Drastically Reduces Stuttering Without Sacrificing Visual Quality - Wccftech",
+      "description": "AI-assisted mod Oblivion Remastered Performance Fix boosts FPS by over 40% while enhancing visuals on Ryzen 7 5800X/RX 9070 XT systems.",
+      "url": "https://wccftech.com/oblivion-remastered-mod-built-using-claude-ai-boosts-fps-by-over-40-and-drastically-reduces-stuttering-without-sacrificing-visual-quality/",
+      "urlToImage": "https://cdn.wccftech.com/wp-content/uploads/2026/10/Feature-Image-15.jpg",
+      "publishedAt": "2026-10-18T14:24:09Z",
+      "content": "The Elder Scrolls IV: Oblivion Remastered has struggled with CPU bottlenecks, inconsistent frame rates and frame times, not to mention traversal stuttering since launch, especially on NVIDIA GPUs. Ho… [+3613 chars]"
+    },
+    {
+      "source": {
+        "id": null,
         "name": "Hindustan Times"
       },
       "author": "Bhavya Sukheja",
@@ -200,6 +330,32 @@
     {
       "source": {
         "id": null,
+        "name": "Hardcoregamer.com"
+      },
+      "author": "Jacob Bukacek",
+      "title": "Director Naoki Hamaguchi Confirms Hard Mode in FFVII Revelation, Gives Us the Details! - Hardcore Gamer",
+      "description": "Director Naoki Hamaguchi sits down with Hardcore Gamer to talk everything from Hard Mode and FITS to his thoughts here at the journey's end.",
+      "url": "https://hardcoregamer.com/ffvii-revelation-director-interview-tgs/",
+      "urlToImage": "https://static0.hardcoregamerimages.com/wordpress/wp-content/uploads/2026/10/final-fantasy-vii-revelation-vincent-dash.jpg?w=1600&h=900&fit=crop",
+      "publishedAt": "2026-10-18T14:03:10Z",
+      "content": "Even though Final Fantasy VII Revelation is looking like itll serve as a very satisfying conclusion to the Remake trilogy, concerns have been floating around that it wont feature a hard mode along wi… [+10620 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Windows Central"
+      },
+      "author": "Mauro Huculak",
+      "title": "Windows 11’s new Search experience raises big questions — we break down what’s coming and why it matters - Windows Central",
+      "description": "Microsoft's new Windows 11 Search adds inline actions and a cleaner interface, with richer results planned. Here's what you need to know and how to try it.",
+      "url": "https://www.windowscentral.com/microsoft/windows-11/windows-11-will-get-a-new-search-experience-faq",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/TcPJtLFYZofM6nJEgTcACf-1680-80.jpg",
+      "publishedAt": "2026-10-18T13:59:00Z",
+      "content": "On Windows 11, Microsoft is overhauling the Windows Search feature to make it faster, more accurate, and more useful. The experience will go beyond finding apps, files, and settings by letting users … [+8238 chars]"
+    },
+    {
+      "source": {
+        "id": null,
         "name": "Gizmodo.com"
       },
       "author": "Ece Yildirim",
@@ -209,19 +365,6 @@
       "urlToImage": "https://gizmodo.com/app/uploads/2026/10/GettyImages-2238403181-1200x675.jpg",
       "publishedAt": "2026-10-18T13:39:01Z",
       "content": "People’s trust in AI is taking a dangerous new turn. Researchers are saying that AI-generated photos and summaries are successfully distorting people’s own memories.\r\nMIT scientist Pattie Maes spoke … [+3564 chars]"
-    },
-    {
-      "source": {
-        "id": "bloomberg",
-        "name": "Bloomberg"
-      },
-      "author": "Samantha Kelly",
-      "title": "Google debuts $180 Fitbit Edge tracker in continued health push - The Seattle Times",
-      "description": "The new device gives Google another way to promote its redesigned health app, which debuted in May and replaced the old Fitbit user experience.",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-12/google-debuts-180-fitbit-edge-tracker-replacing-the-fitbit-charge-6",
-      "urlToImage": "https://images.seattletimes.com/wp-content/uploads/2026/10/Google-Fitbit-Edge-1-2048x1351-1.jpg?d=1200x630",
-      "publishedAt": "2026-10-18T13:02:02Z",
-      "content": "Google introduced an updated premium fitness band with a screen, a device that’s a cross between a smartwatch and the more discreet health gadgets that offer continuous tracking.\r\nThe $180 Fitbit Edg… [+3034 chars]"
     },
     {
       "source": {
@@ -252,6 +395,58 @@
     {
       "source": {
         "id": null,
+        "name": "Futurism"
+      },
+      "author": "Frank Landymore",
+      "title": "Man’s Meta Muse Agent Sends Him Message So Bizarre That He Permanently Quits - Futurism",
+      "description": "A software engineer was stunned by an unexpected message he received from his Muse agent, convincing him to quit it for good.",
+      "url": "https://futurism.com/artificial-intelligence/man-quits-meta-muse-creepy",
+      "urlToImage": "https://futurism.com/wp-content/uploads/2026/10/man-quits-meta-muse-creepy.jpg?quality=85&w=1200",
+      "publishedAt": "2026-10-18T11:50:00Z",
+      "content": "Can’t-miss innovations from the bleeding edge of science and tech\r\nA software engineer says that his Muse AI agent said something so strange and eerie that it convinced him to quit using it entirely.… [+3028 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Videocardz.com"
+      },
+      "author": null,
+      "title": "REDMAGIC announces 5K 180Hz MiniLED monitor with 5,184 dimming zones and 330Hz dual-mode support - VideoCardz.com",
+      "description": "REDMAGIC is upgrading its 2023 MiniLED monitor with a 5K panel and dual refresh rate modes. The new version has 5,184 dimming zones, up from 5,088 on the earlier model.",
+      "url": "https://videocardz.com/newz/redmagic-announces-5k-180hz-miniled-monitor-with-5184-dimming-zones-and-330hz-dual-mode-support",
+      "urlToImage": "https://cdn.videocardz.com/1/2026/10/RED-MAGIC-5K-MINILED-MONITOR-HERO.webp",
+      "publishedAt": "2026-10-18T11:18:13Z",
+      "content": "REDMAGIC 5K MiniLED monitor features 5,184 dimming zones, costs $970\r\nREDMAGIC is preparing a new gaming monitor with more than 5,000 local dimming zones and two resolution modes.\r\nREDMAGIC has intro… [+2447 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "HuffPost"
+      },
+      "author": null,
+      "title": "Does Charging Your Phone To 100% Ruin Your Battery? Here's The Truth. - HuffPost",
+      "description": "Read this if you're constantly plugging in your device overnight.",
+      "url": "https://www.huffpost.com/entry/does-charging-your-phone-to-100-ruin-your-battery-heres-the-truth-g_n_6ad10000e4b0bfd2565501df",
+      "urlToImage": "https://img.huffingtonpost.com/asset/67a4e6c01600002400636fff.jpeg?cache=FYPH5VrsUs&ops=1200_630",
+      "publishedAt": "2026-10-18T11:00:18Z",
+      "content": "Many of us are in the habit of plugging our phones in to charge overnight so we start each day at 100%. However, you might not be doing yourself or your battery any favors in the long run.\r\nYou might… [+4360 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Android Police"
+      },
+      "author": "Parth Shah",
+      "title": "I turned Google Keep into my personal assistant with Gemini; it's awesome - Android Police",
+      "description": "A smarter way to stay organized",
+      "url": "https://www.androidpolice.com/turned-google-keep-into-my-personal-assistant-with-gemini/",
+      "urlToImage": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2025/11/floating-google-keep-icons-surrounded-by-gemini-stars-on-a-colorful-blue-to-purple-gradient-background.png?w=1600&h=900&fit=crop",
+      "publishedAt": "2026-10-18T11:00:13Z",
+      "content": "I have always liked Google Keep for its simplicity, but I often wished it could do more than store my notes and lists.\r\nAfter all, most of the information I need is already scattered across Gmail, Go… [+4535 chars]"
+    },
+    {
+      "source": {
+        "id": null,
         "name": "PEOPLE"
       },
       "author": "Toria Sheffield",
@@ -261,6 +456,19 @@
       "urlToImage": "https://s.yimg.com/lo/mysterio/api/9b9f40ac11cc39c56ffbda4016b9144de54ca6193263445d6b846faacc8c9a58/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2F0219502a1290eadd9ee005136fe598c9.jpg",
       "publishedAt": "2026-10-18T10:30:00Z",
       "content": "NEED TO KNOW\r\n<ul><li>Daredevil Luke Aikins, 52, hopes to jump from a rocket 330,000 feet above Earth, a decade after his record-setting skydive without a parachute\r\n</li><li>In 2016, Aikins jumped f… [+5255 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Windows Central"
+      },
+      "author": "Jez Corden",
+      "title": "Xbox is hiring a \"Physical Games Strategist\" — will Helix have discs? - Windows Central",
+      "description": "Microsoft's positioning on physical games is still unclear ... but this latest job vacancy might offer a hint. What's going on?",
+      "url": "https://www.windowscentral.com/gaming/xbox/xbox-is-hiring-a-physical-games-supply-strategist-is-it-swerving-left-on-playstations-anti-disc-stance",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/wzgdz5sQpFaHrBfHPvreWE-2560-80.jpg",
+      "publishedAt": "2026-10-18T10:27:09Z",
+      "content": "Microsoft might be planning to take a sharp left turn on the whole digital games argument, with this new Xbox job vacancy.\r\nThe summer has been quite fractious for the gaming industry. Xbox has laid … [+4784 chars]"
     },
     {
       "source": {
@@ -277,29 +485,16 @@
     },
     {
       "source": {
-        "id": "google-news",
-        "name": "Google News"
+        "id": null,
+        "name": "RPGFan"
       },
-      "author": "RPGFan",
+      "author": "Audra Bowling",
       "title": "Tales of Eternia Remastered Review - RPGFan",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBxc0FZcXRVTl9QMzFEemFkZElfRHVGUEwxbnhLVjJCRVNuaExfZnhTeFF2dG1pMm85OVJVZHd0TkhyOGZmTEM1U2FDdnpCanVMY0k4OXNqQjc3c0k2U3dWNnhXcGN0bE40ZUE?oc=5",
-      "urlToImage": null,
+      "description": "I can safely call Tales of Eternia Remastered the definitive version for newcomers, so long as they don't mind a few dated gameplay mechanics.",
+      "url": "https://www.rpgfan.com/review/tales-of-eternia-remastered/",
+      "urlToImage": "https://www.rpgfan.com/wp-content/uploads/2026/06/Tales-of-Eternia-Remastered-Screenshot-009.webp",
       "publishedAt": "2026-10-18T10:21:06Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": "Tom's Guide",
-      "title": "I tried Ray-Ban Meta's camera-free AI glasses — 5 unexpected uses that surprised me - Tom's Guide",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOYnAxMlFQcHRrLThGQ1RBdktRVVFfVE1ZUC0xXzN3aWRtMU5wX0ZNRkZ1S1BDVnlncGx5dHBEenVnS0g2U3V6Y2lnclV6dkdqVXJFa2tqLXp6VXprSDFiVXZwWVRDVE95OG9HZktmUVlwMEVhWG54OHVuT3p5bUg1ZXNUUUJ4ZjQ0WllocG12VFVBeTdkemJFS0tvRFVJQlBSOWRKSFVUMUpJYjBjRWc?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2026-10-18T10:00:00Z",
-      "content": null
+      "content": "Tales of Eternia Remastered is only my second foray into the luminous Tales series. Originally released on PlayStation in Japan as Tales of Eternia and in North America as Tales of Destiny II, Tales … [+8047 chars]"
     },
     {
       "source": {
@@ -317,15 +512,15 @@
     {
       "source": {
         "id": null,
-        "name": "TrueAchievements"
+        "name": "Geeky Gadgets"
       },
-      "author": null,
-      "title": "Xbox gets 30 new games next week, including Call of Duty: Modern Warfare 4 - TrueAchievements",
-      "description": "Next week, Call of Duty: Modern Warfare 4, Peak, Final Fantasy Resonance, and 27 more new games launch across Xbox consoles and Xbox PC.",
-      "url": "https://www.trueachievements.com/news/new-xbox-games-october-19",
-      "urlToImage": "https://www.trueachievements.com/imgs/179632/xbox-gets-30-new-games-next-week-including-call-of-duty-modern-warfare-4.jpg",
-      "publishedAt": "2026-10-18T09:03:36Z",
-      "content": "Another big wave of Xbox games is heading your way! Over the next seven days, a whopping 20 new games come to Xbox Series X|S, Xbox One, and PC, including a few heavy hitters. Some of the more notabl… [+20680 chars]"
+      "author": "Roland Hutchinson",
+      "title": "The new Apple TV 4K looks way too expensive—until you look inside - Geeky Gadgets",
+      "description": "Apple TV 4K upgrades like the A19 chip, AV1 decoding, and a precision-finding remote offer massive improvements. See if you should upgrade from 2022.",
+      "url": "https://www.geeky-gadgets.com/new-apple-tv-4k-worth-it/",
+      "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2026/10/apple-tv-4k-3.webp",
+      "publishedAt": "2026-10-18T09:03:09Z",
+      "content": "The Apple TV 4K (2023) has entered the market with a price tag of $299, sparking discussions about its value proposition. While this represents a noticeable increase compared to its predecessors, the… [+6921 chars]"
     },
     {
       "source": {
@@ -368,32 +563,6 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "Wccftech"
-      },
-      "author": "Omar Sohail",
-      "title": "RTX 5090 Shipments Worth $500,000 Vanished Into Thin Air At São Paulo Airport, Distributor Says This Has Never Happened In Nearly Four Decades Of Operation - Wccftech",
-      "description": "A $500,000 shipment of RTX 5090 graphics cards mysteriously vanished after reaching Guarulhos Airport, according to distributor Oderço",
-      "url": "https://wccftech.com/rtx-5090-shipment-missing-guarulhos-airport/",
-      "urlToImage": "https://cdn.wccftech.com/wp-content/uploads/2026/10/RTX-5090-shipments-stolen-from-airport.jpg",
-      "publishedAt": "2026-10-18T06:47:29Z",
-      "content": "Two pallets of ZOTAC-made RTX 5090 GPUs arrived at the Guarulhos International Airport terminal in São Paulo, worth around $500,000, but according to the latest report, the flagship GPU shipments had… [+2906 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Sheepesports.com"
-      },
-      "author": "https://www.sheepesports.com/en/all/authors/rabia-sayal",
-      "title": "Riot Games reveals Agent 31 Hush as VALORANT’s new Duelist - Sheep Esports",
-      "description": "Riot Games has unveiled Hush, the newest Duelist joining VALORANT’s Agent roster. The publisher revealed her through a cinematic trailer following the Opening Ceremony of the VALORANT Champions Shanghai Grand Final.",
-      "url": "https://www.sheepesports.com/en/articles/riot-games-reveals-agent-31-hush-as-valorant-s-new-duelist/en",
-      "urlToImage": "https://www.sheepesports.com/en/articles/riot-games-reveals-agent-31-hush-as-valorant-s-new-duelist/en/opengraph-image-bcw1d0?0a3a7082f933e9e3",
-      "publishedAt": "2026-10-18T06:03:13Z",
-      "content": null
-    },
-    {
-      "source": {
         "id": "mashable",
         "name": "Mashable"
       },
@@ -417,19 +586,6 @@
       "urlToImage": "https://www.slashgear.com/img/gallery/every-major-usb-c-cable-brand-ranked-worst-to-best/l-intro-1791995351.jpg",
       "publishedAt": "2026-10-18T01:55:08Z",
       "content": "Anker doesn't outshine the other USB-C cable brands at everything, but it balances variety, durability, and performance to earn the top spot. Cable options include USB-C to USB-C, Lightning, HDMI, th… [+1369 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Techpowerup.com"
-      },
-      "author": null,
-      "title": "Call of Duty: Modern Warfare 4 Gets a Warm Steam Welcome With 90% Positive Reviews - TechPowerUp",
-      "description": "Call of Duty: Modern Warfare 4 is off to an unusually good start on Steam. The campaign early access went live for pre-order customers on October 16, and at the time of writing, 1,630 of the game's 1,812 Steam user reviews are positive, giving it a \"Very Posi…",
-      "url": "https://www.techpowerup.com/353835/call-of-duty-modern-warfare-4-gets-a-warm-steam-welcome-with-90-positive-reviews",
-      "urlToImage": "https://www.techpowerup.com/img/IsFjpFuaHLAhbxGU.jpg",
-      "publishedAt": "2026-10-18T00:05:15Z",
-      "content": "BoxCutterFrom Call of Duty 4: Modern Warfare to Call of Duty: Modern Warfare 4. How did it get here?\r\nFunnily enough might be one of the best CoD games along with MW2019. The main problem with CoD is… [+708 chars]"
     },
     {
       "source": {
@@ -485,19 +641,6 @@
     },
     {
       "source": {
-        "id": "ign",
-        "name": "IGN"
-      },
-      "author": "Virginia Glaze",
-      "title": "[UPDATE] Super Smash Bros. Player Mew2King Responds After Tournament Bans Him Over Bug Bite Concerns - IGN",
-      "description": "Professional Super Smash Bros. player Jason 'Mew2King' Zimmerman has responded after his post about a bug infestation in his home resulted in him being banned from a competitive tournament.",
-      "url": "https://www.ign.com/articles/super-smash-bros-player-mew2king-banned-from-tournament-after-bug-bites-spark-health-concerns",
-      "urlToImage": "https://assets-prd.ignimgs.com/2026/10/16/smash-bros-player-banned-from-tournament-bug-bites-1792187389080.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "publishedAt": "2026-10-17T16:29:54Z",
-      "content": "UPDATE October 17, 2026, 9:30am PT: Professional Super Smash Bros. player Jason 'Mew2King' Zimmerman has responded after his post about a bug infestation in his home resulted in him being banned from… [+5114 chars]"
-    },
-    {
-      "source": {
         "id": null,
         "name": "Nintendo Life"
       },
@@ -538,6 +681,19 @@
     {
       "source": {
         "id": null,
+        "name": "Kotaku"
+      },
+      "author": "Zack Kotzer",
+      "title": "Smash Bros. Pro Barred From Event Following Bed Bug Concern - Kotaku",
+      "description": "Announcing a hiatus, Melee pro Jason ‘Mew2King’ Zimmerman says he regrets posting the now viral photos and would have stepped back if he believed the community was at risk",
+      "url": "https://kotaku.com/smash-bros-player-barred-from-austin-competition-following-bed-bug-concern-2000747055",
+      "urlToImage": "https://kotaku.com/app/uploads/2026/10/parasitequeen-1200x675.jpg",
+      "publishedAt": "2026-10-17T15:38:45Z",
+      "content": "Super Smash Bros. Melee pro Jason Zimmerman, better known as Mew2King, was scheduled to appear at Austins Xtreme Fighters Showdown this weekend. That was until yesterday, when event staff decided to … [+3349 chars]"
+    },
+    {
+      "source": {
+        "id": null,
         "name": "Futurism"
       },
       "author": "Victor Tangermann",
@@ -564,28 +720,15 @@
     {
       "source": {
         "id": null,
-        "name": "GameRant"
+        "name": "road.cc"
       },
-      "author": "GameRant",
-      "title": "PS Plus Bonus Freebies Officially Confirmed for October 20 - GameRant",
-      "description": null,
-      "url": "https://gamerant.com/ps-plus-free-demos-october-2026/",
-      "urlToImage": null,
-      "publishedAt": "2026-10-17T13:00:17Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "What Hi-Fi? US"
-      },
-      "author": "Lewis Empson",
-      "title": "I've waited years for a new Apple TV 4K, but I won't be buying the 4th Generation streaming box – here's why - What Hi-Fi?",
-      "description": "The shine of Apple's new streaming box has worn off...",
-      "url": "https://www.whathifi.com/streaming-entertainment/streaming-hardware/ive-waited-years-for-a-new-apple-tv-4k-but-i-wont-be-buying-the-4th-generation-streaming-box-heres-why",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/cGkDVUC8SABGZxACbzpDJe-2560-80.jpg",
-      "publishedAt": "2026-10-17T11:08:10Z",
-      "content": "I've covered more Apple launches than I'd care to admit in the past four years. From the annual iPhone unveilings in September to WWDC in June, and many miscellaneous events in between, there's been … [+3855 chars]"
+      "author": null,
+      "title": "Check out Silca's retro-looking bike computer, the AI coaching system that promises real-world rewards, new shoes to keep your feet comfy this winter, and the rest of the week’s bike tech news - Road.cc",
+      "description": "We’re cramming in a whole load of tech news for you this week, including an app designed to avoid finding your drivetrain and sensors out of charge, AI-powered coaching that offers real-world rewards and Northwave’s shoes to help you get through winter comfor…",
+      "url": "https://road.cc/tech-news/check-out-silcas-retro-looking-bike-computer-ai-coaching-system-promises-real-world-rewards-new-shoes-to-keep-your-feet-comfy-this-winter-and-the-rest-of-the-weeks-bike-tech-news",
+      "urlToImage": "https://cdn.road.cc/wp-content/uploads/2026/10/2026-Tech-of-the-Week-opener-16-October-2026.jpeg",
+      "publishedAt": "2026-10-17T11:05:52Z",
+      "content": "We’re cramming in a whole load of tech news for you this week, including an app designed to avoid finding your drivetrain and sensors out of charge, AI-powered coaching that offers real-world rewards… [+10623 chars]"
     },
     {
       "source": {
@@ -612,19 +755,6 @@
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/NWN-header-1152x648.jpg",
       "publishedAt": "2026-10-17T11:00:21Z",
       "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Videocardz.com"
-      },
-      "author": null,
-      "title": "Microsoft updates Windows 11 Xbox mode with easier access to desktop and power controls - VideoCardz.com",
-      "description": "Microsoft is making it easier to return to Windows from Xbox mode. The latest Insider builds introduce a refreshed Gaming Task View with desktop and power shortcuts.",
-      "url": "https://videocardz.com/newz/microsoft-updates-windows-11-xbox-mode-with-easier-access-to-desktop-and-power-controls",
-      "urlToImage": "https://cdn.videocardz.com/1/2026/10/XBOX-MODE-UPDATE.webp",
-      "publishedAt": "2026-10-17T10:52:05Z",
-      "content": "© Microsoft\r\nMicrosoft is introducing a refreshed Gaming Task View for Xbox mode on Windows 11. The update adds a navigation bar with shortcuts to Exit to Desktop and Power Options, making it easier … [+1326 chars]"
     },
     {
       "source": {
@@ -706,19 +836,6 @@
     },
     {
       "source": {
-        "id": "cnn",
-        "name": "CNN"
-      },
-      "author": "Lisa Eadicicco",
-      "title": "What happens if AI agents start speaking their own language? - CNN",
-      "description": "Humans’ ability to check up on AI agents depends on being able to communicate in a shared language.",
-      "url": "https://www.cnn.com/2026/10/16/tech/ai-speaking-own-language",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2285958393.jpg?c=16x9&q=w_800,c_fill",
-      "publishedAt": "2026-10-16T11:00:44Z",
-      "content": "Part of Chris Painters job is to help figure out what happened when AI goes rogue, then publish the results in public reports.\r\nHe and METR, the nonprofit AI research group he helps lead, have been b… [+6465 chars]"
-    },
-    {
-      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -759,15 +876,15 @@
     {
       "source": {
         "id": null,
-        "name": "Videocardz.com"
+        "name": "Notebookcheck.net"
       },
-      "author": null,
-      "title": "Redditor runs FurMark on NVIDIA RTX Spark laptop at a store, nearly gets kicked out - VideoCardz.com",
-      "description": "A Redditor installed FurMark on an ASUS ProArt P16 RTX Spark display laptop in France. The 1080p benchmark ran before the user was nearly kicked out of the store.",
-      "url": "https://videocardz.com/newz/redditor-runs-furmark-on-nvidia-rtx-spark-laptop-at-a-store-nearly-gets-kicked-out",
-      "urlToImage": "https://cdn.videocardz.com/1/2026/10/RTX-SPARK-ASUS-FURMARK-TEST.webp",
-      "publishedAt": "2026-10-15T11:15:00Z",
-      "content": "ASUS ProArt P16 with 24GB memory gets an unexpected benchmark before retail availability.\r\n© KOYASHIFTERPRO\r\nNVIDIA RTX Spark laptops are arriving in stores, and someone has already found a way to be… [+2077 chars]"
+      "author": "Andreas Osthoff",
+      "title": "Nvidia RTX Spark Analysis - Finally an answer to Apple's M5 Pro & M5 Max? - Notebookcheck",
+      "description": "Notebookcheck review/analysis of Nvidia RTX Spark 20-core CPU and Blackwell 6144-core GPU.",
+      "url": "https://www.notebookcheck.net/Nvidia-RTX-Spark-Analysis-Finally-an-answer-to-Apple-s-M5-Pro-M5-Max.1422820.0.html",
+      "urlToImage": "https://www.notebookcheck.net/fileadmin/Notebooks/Asus/ProArt_P16_H7607/rtx_spark_chip.png",
+      "publishedAt": "2026-10-15T14:25:00Z",
+      "content": "The new Nvidia RTX Spark N1X is a very solid effort overall and offers a great solution for users that work with AI and create content, but also want to play games all on one very sleek machine. Whil… [+1341 chars]"
     },
     {
       "source": {
@@ -901,19 +1018,6 @@
     },
     {
       "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": "TechSpot",
-      "title": "The developer who cloned Photoshop using AI has now created Word, Excel, and PowerPoint replicas with Claude - TechSpot",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQdVBoNzZ0ejJGWEVZWjRaQlc5SWoxMUFRUTNZVHZBb2thR0hvMlZVdWNzYlNLVVJENkliNy1CSm5iS0M2VENabFAxX2tyNHZ5OWhDZHV1STBxTmZKSXMxRzlHRERuLW9DeG5jV1Q4SHRTRDh3M19xU3Y2V2RzYUd4QnlFRVMzTS1pNlFQRXZnQ1IwVm8?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2026-10-13T18:53:00Z",
-      "content": null
-    },
-    {
-      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -924,19 +1028,6 @@
       "urlToImage": "https://static01.nyt.com/images/2026/10/13/multimedia/13BIZ-APPLE-SUB-01-gbmj/13BIZ-APPLE-SUB-01-gbmj-mediumSquareAt3X.jpg",
       "publishedAt": "2026-10-13T17:23:29Z",
       "content": "Apple unveiled the device as it continues its foray into artificial intelligence and tries to prove it can still innovate."
-    },
-    {
-      "source": {
-        "id": "bloomberg",
-        "name": "Bloomberg"
-      },
-      "author": "Jason Schreier",
-      "title": "Epic Games Delays Disney Project, Asks Developers to Use More AI - Bloomberg.com",
-      "description": "The company told the team behind the upcoming shooter that it will now be an ‘AI first’ production",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-12/epic-games-delays-disney-project-asks-developers-to-use-more-ai",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iossy07bgwis/v0/1200x826.jpg",
-      "publishedAt": "2026-10-12T18:24:41Z",
-      "content": "Epic Games Inc. delayed the release of an upcoming video-game collaboration with Walt Disney Co. and told its developers to use more artificial intelligence tools to finish the game, according to peo… [+235 chars]"
     },
     {
       "source": {
@@ -966,32 +1057,6 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "Pokemon.com"
-      },
-      "author": null,
-      "title": "Pokémon Pokopia Version 2.0.0 Adds New Quality of Life Improvements - Pokemon.com",
-      "description": "The game’s recent version 2.0.0 patch adds a variety of helpful quality-of-life improvements.",
-      "url": "https://www.pokemon.com/us/news/pokemon-pokopia-version-2-0-0-adds-new-quality-of-life-improvements",
-      "urlToImage": "https://mcdn.pokemon.com/pokemon-prod/image/upload/c_limit,w_1920/f_auto/v1/live/pcom-cms/static-assets/cms3/us/img/video-games/tiles/pokemon-pokopia/2026/10/12/pokemon-pokopia-169.png",
-      "publishedAt": "2026-10-12T16:03:44Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": "IGN",
-      "title": "Latest Leaked GTA 6 Video Shows Lucia Fully Naked, Sparks Fan Skepticism - IGN",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNUF9HSTFKal9zMkNKdWVGSGktRWdEWnNTWngtZkVaWFdvREZ2NEZTOVcwVEI1NEdoQjk0Y1YzbUdXLXBmclFjOGI3M1QwYVk3bWZzYXE4TU95SWRrRlZGQzBsZVlQaGptWXB5VVB5TmRZY2tjZy1CSjF4X2ZrMFRuWl81ZkwtTUsyN3diN2Nyc25XNFJyN0VSYjN5OVdScjhXR3c?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2026-10-12T13:16:39Z",
-      "content": null
-    },
-    {
-      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -1002,19 +1067,6 @@
       "urlToImage": null,
       "publishedAt": "2026-10-11T18:14:28Z",
       "content": "On the Science desk, Victoria Jaggard spends her days pondering the universe’s most pressing mysteries."
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "author": "Alissa Wilkinson",
-      "title": "Three Mark Zuckerbergs, Three Surprisingly Different Men",
-      "description": "Jeremy Strong in “The Social Reckoning,” Jesse Eisenberg in “The Social Network” and the real Meta executive are all playing parts. But only one has changed his approach.",
-      "url": "https://www.nytimes.com/2026/10/11/movies/mark-zuckerberg-social-network-reckoning.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/10/11/arts/11cul-zuckerberg-film/11cul-zuckerberg-film-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-10-11T09:01:17Z",
-      "content": "Jeremy Strong in “The Social Reckoning,” Jesse Eisenberg in “The Social Network” and the real Meta executive are all playing parts. But only one has changed his approach."
     }
   ]
 }

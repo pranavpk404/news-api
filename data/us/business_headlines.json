@@ -6,9 +6,61 @@
     "newsapi",
     "rss"
   ],
-  "fetched_at": "2026-10-20T06:44:29.428224+00:00",
+  "fetched_at": "2026-10-20T13:03:26.561828+00:00",
   "articles_count": 100,
   "articles": [
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Andrew Ross Sorkin, Bernhard Warner, Sarah Kessler, Michael J. de la Merced, Niko Gallogly, Brian O’Keefe, Sri Muppidi and Vivienne Walt",
+      "title": "Investors in Anticipation Over Musk’s Next Big SpaceX Deal",
+      "description": "Ahead of SpaceX’s quarterly earnings report, many on Wall Street are wondering whether Elon Musk will combine it with Tesla.",
+      "url": "https://www.nytimes.com/2026/10/20/business/dealbook/musk-spacex-deal-tesla.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/10/20/multimedia/20db-musk-wgvh/20db-musk-wgvh-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-10-20T12:38:10Z",
+      "content": "Ahead of SpaceX’s quarterly earnings report, many on Wall Street are wondering whether Elon Musk will combine it with Tesla."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Kevin Draper",
+      "title": "Trump Announces $8 Billion Plan to Cover Farm Losses",
+      "description": "Under the Harvest Fuel Relief program, the Agriculture Department will provide economic aid for farmers hurt by high diesel prices.",
+      "url": "https://www.nytimes.com/2026/10/20/business/trump-farmer-bailout.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/10/20/multimedia/20biz-farmer-bailout-klvz/20biz-farmer-bailout-klvz-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-10-20T12:12:44Z",
+      "content": "Under the Harvest Fuel Relief program, the Agriculture Department will provide economic aid for farmers hurt by high diesel prices."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Tania Ganguli",
+      "title": "Knicks Ticket Prices Are Soaring After Last Season’s Championship",
+      "description": "Knicks tickets have never been cheap, but prices for the first game alone are soaring after last season’s championship — more than a trip to Paris.",
+      "url": "https://www.nytimes.com/2026/10/20/business/knicks-tickets.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/10/20/multimedia/20biz-knicks-tickets-1-pmlk/20biz-knicks-tickets-1-pmlk-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-10-20T09:02:00Z",
+      "content": "Knicks tickets have never been cheap, but prices for the first game alone are soaring after last season’s championship — more than a trip to Paris."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Gabe Castro-Root and Lexi Parra",
+      "title": "How Do Airports Prepare for a Plane Crash? Go Inside JFK’s Disaster Drill.",
+      "description": "U.S. airports are required to hold a full-scale disaster drill every three years. Go inside a simulated plane crash at Kennedy Airport last weekend.",
+      "url": "https://www.nytimes.com/2026/10/20/travel/jfk-airport-drill-plane-crash.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/10/20/multimedia/20trav-jfk-drill-08-jcpb/20trav-jfk-drill-08-jcpb-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-10-20T09:01:09Z",
+      "content": "U.S. airports are required to hold a full-scale disaster drill every three years. Go inside a simulated plane crash at Kennedy Airport last weekend."
+    },
     {
       "source": {
         "id": "the-new-york-times",
@@ -180,6 +232,45 @@
     },
     {
       "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Hugh Son",
+      "title": "Robot factories and hypersonic missiles: JPMorgan Chase’s first $5 billion of defense investments - CNBC",
+      "description": "With $5 billion already deployed off its balance sheet, JPMorgan Chase is racing ahead on direct investments in defense tech, hardware and supply chains.",
+      "url": "https://www.cnbc.com/2026/10/19/jpmorgan-security-defense-investments.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/106310265-1577120438176gettyimages-488164285.jpeg?v=1765554150&w=1920&h=1080",
+      "publishedAt": "2026-10-19T10:00:01Z",
+      "content": "Todd Combs, portfolio manager at Berkshire Hathaway Inc., waits for the start of the \"Berkshire Hathaway Invest In Yourself 5K\" race presented by Brooks Sports, a Berkshire Hathaway Inc. company, on … [+4246 chars]"
+    },
+    {
+      "source": {
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
+      },
+      "author": "WSJ",
+      "title": "French Government-Bond Yields Rise on Protests, Budget Concerns; Treasury Yields Fall - WSJ",
+      "description": null,
+      "url": "https://www.wsj.com/finance/investing/u-s-treasury-yields-fall-in-asian-trade-e5171539",
+      "urlToImage": null,
+      "publishedAt": "2026-10-19T09:21:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "associated-press",
+        "name": "Associated Press"
+      },
+      "author": "Wyatte Grantham-Philips",
+      "title": "AI agents are only as good as the personal information you share. That raises privacy concerns - AP News",
+      "description": "Downloads of new artificial intelligence agents — like Meta's Muse and OpenAI's dots — are booming. Many have quickly welcomed AI agents into much of their online lives, and raved about the ways they can take care of everyday tasks with ease from snagging a d…",
+      "url": "https://apnews.com/article/meta-muse-openai-dot-ai-privacy-449734d41d3750aad7038b761faa49c9",
+      "urlToImage": "https://dims.apnews.com/dims4/default/df5bbe2/2147483647/strip/true/crop/5121x3414+0+0/resize/1200x800!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Ffb%2F88%2F85d226562163e21104ad3d896e44%2F16df45a0d7844b48964e67eb130c4875",
+      "publishedAt": "2026-10-19T09:20:58Z",
+      "content": "Matt Robb wanted to sell his computer keyboard.\r\nSo he made a listing on Facebook Marketplace and, as an experiment late last month, he put Metas new artificial intelligence agent Muse in the drivers… [+7083 chars]"
+    },
+    {
+      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -190,6 +281,19 @@
       "urlToImage": "https://static01.nyt.com/images/2026/10/20/multimedia/19cul-art-basel-02-ckfg/19cul-art-basel-02-ckfg-mediumSquareAt3X.jpg",
       "publishedAt": "2026-10-19T09:03:57Z",
       "content": "After 18 months of negotiations and warnings that it might relocate to Nevada, the Art Basel fair will remain in Miami Beach through 2031."
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Brian Sozzi",
+      "title": "Elon Musk says he is going to give SpaceX stock away to kids - Yahoo Finance",
+      "description": "Kids getting a share of the Muskverse.",
+      "url": "https://finance.yahoo.com/markets/stocks/article/elon-musk-says-he-is-going-to-give-spacex-stock-away-to-kids-090305874.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/fa1c5af5a1841e8078e0f6790da271c19e133f54f134f1b0b96d243973e522ae/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-10%2Fcb539bcd-2c5e-4306-8d73-5ce28232da39",
+      "publishedAt": "2026-10-19T09:03:05Z",
+      "content": "Kids will soon have a financial interest in the future of space.\r\n\"Next year, I will give one of my SpaceX (SPCX) shares to every kid in America. This will be the first of many,\" SpaceX founder and C… [+1078 chars]"
     },
     {
       "source": {
@@ -207,6 +311,71 @@
     {
       "source": {
         "id": null,
+        "name": "Investing.com"
+      },
+      "author": "Roushni Nair",
+      "title": "Asian stocks mixed as KOSPI rebounds, Indonesia selloff deepens on MSCI risks - Investing.com",
+      "description": "Asian stocks mixed as KOSPI rebounds, Indonesia selloff deepens on MSCI risks",
+      "url": "https://www.investing.com/news/stock-market-news/asia-stocks-edge-lower-despite-stronger-china-growth-as-ai-jitters-persist-4956316",
+      "urlToImage": "https://content-media.investing.com/news/LYNXMPEB1H0YB_L.jpg",
+      "publishedAt": "2026-10-19T08:00:52Z",
+      "content": "Investing.com -- Asian stocks were mixed on Monday as South Koreas KOSPI rebounded from last weeks technology-led rout, while Indonesian equities extended their slump amid concerns over a possible lo… [+4067 chars]"
+    },
+    {
+      "source": {
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "author": "Bernadette Toh, Karl Lester Yap, Prima Wirayani",
+      "title": "Indonesia’s Selloff Deepens Across Stocks, Bonds on MSCI Risk - Bloomberg.com",
+      "description": "Indonesian markets extended their selloff, with stocks deepening their worst rout in almost 30 years and losses spreading to bonds and the rupiah after MSCI Inc. warned the country may face a two-step downgrade.",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-19/indonesian-stocks-tumble-to-lowest-since-2020-after-msci-warning",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iaoTPy2VZo3k/v0/1200x800.jpg",
+      "publishedAt": "2026-10-19T06:57:00Z",
+      "content": "Indonesian markets extended their selloff, with stocks deepening their worst routBloomberg Terminal\r\nin almost 30 years and losses spreading to bonds and the rupiah after MSCI Inc. warned the country… [+349 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Dan Mangan",
+      "title": "OpenAI bugging suspect WhatsApp'ed Saudi royal days before arrest, feds reveal - CNBC",
+      "description": "Saudi national Abdulrahman Alfozan is accused of planting a recording device in an executive conference room at OpenAI headquarters in San Francisco.",
+      "url": "https://www.cnbc.com/2026/10/19/openai-bugging-suspect-alfozan-saudi-royal-family.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108405226-1792009363242-2026-10-13T224936Z_547248141_RC2F2OAXO3WE_RTRMADP_3_OPENAI-SPYING-FBI.JPG?v=1792009377&w=1920&h=1080",
+      "publishedAt": "2026-10-19T06:03:03Z",
+      "content": "The Saudi national charged with planting a recording device in a sensitive OpenAI executive conference room in San Francisco was \"in frequent communications via WhatsApp with a member of the Saudi Ro… [+9292 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Semianalysis.com"
+      },
+      "author": "Jeremie Eliahou Ontiveros, Reyk Knuhtsen, Dylan Patel",
+      "title": "Datacenters 2027: The Year of Acceleration, +50GW in a Single Year - SemiAnalysis",
+      "description": "60GW Under Construction, SemiAnalysis Leading Indicators, 1.3T of Lease Contracts Signed YTD, The Shortage Could Move to Chips",
+      "url": "https://newsletter.semianalysis.com/p/datacenters-2027-the-year-of-acceleration",
+      "urlToImage": "https://substackcdn.com/image/fetch/$s_!yNnq!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd0f59757-0f4d-46af-858f-de75498b900f_1376x768.jpeg",
+      "publishedAt": "2026-10-19T05:39:38Z",
+      "content": "Not a week goes without another piece of datacenter FUD. Weve already debunked in depth why moratoriums arent as impactful as one may think. Despite that, many still misunderstand the pace of the glo… [+9480 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "Anthropic says it will commit 5% of its shares to 'public benefit fund' - BBC",
+      "description": "The announcement comes as Anthropic lays the ground for a blockbuster stock market listing.",
+      "url": "https://www.bbc.com/news/articles/cm2kez327gdko",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/87fa/live/537946d0-cb5d-11f1-a1ba-9502012907ad.jpg",
+      "publishedAt": "2026-10-19T04:30:59Z",
+      "content": "Companies around the world, primarily technology firms, have cut thousands of jobs after investing in AI, with many pointing to higher efficiencies from its adoption."
+    },
+    {
+      "source": {
+        "id": null,
         "name": "WRAL.com"
       },
       "author": "Delaney Tarpley, WRAL reporter",
@@ -220,15 +389,15 @@
     {
       "source": {
         "id": null,
-        "name": "Financial Times"
+        "name": "Motley Fool"
       },
-      "author": null,
-      "title": "Anthropic commits 5% of shares to ‘public benefit’ fund - Financial Times",
-      "description": "AI start-up has faced growing public backlash over safety and economic concerns",
-      "url": "https://www.ft.com/content/3beab58d-4269-4722-b299-8fa5a93f5a52?syn-25a6b1a6\\\\u003d1",
-      "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F2291f0fd-0964-46ec-9b96-62cf5fd39f87.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
-      "publishedAt": "2026-10-19T01:36:09Z",
-      "content": "was $540now $299 for your first year.\r\nSave now on essential digital access to trusted FT journalism on any device. Savings based on monthly annualised price, offer ends 28th October."
+      "author": "Keithen Drury",
+      "title": "Here Is What a $5,000 Investment in Micron Could Be Worth by 2028 - The Motley Fool",
+      "description": "The memory-chip maker is severely undervalued relative to its outlook.",
+      "url": "https://www.fool.com/investing/2026/10/18/here-is-what-a-5000-investment-in-micron-could-be/",
+      "urlToImage": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F890267%2Fmu.png&w=1200&op=resize",
+      "publishedAt": "2026-10-19T00:33:00Z",
+      "content": "Micron(MU-5.63%) is undergoing one of the biggest shifts of nearly any stock in the market. It's seeing unprecedented demand for its memory chips and is also helping to transform its industry at the … [+3932 chars]"
     },
     {
       "source": {
@@ -285,67 +454,41 @@
     {
       "source": {
         "id": null,
-        "name": "BBC News"
+        "name": "CNBC"
       },
-      "author": null,
-      "title": "Don't fall for this - how to protect yourself from AI scams - BBC",
-      "description": "Trading standards officers say AI is \"super-charging\" existing scams through clones and fake websites.",
-      "url": "https://www.bbc.com/news/articles/c60rl1xvjv89o",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/8f70/live/9a6f8400-c98c-11f1-adc3-01d8629f0470.jpg",
-      "publishedAt": "2026-10-18T23:24:59Z",
-      "content": "If you order you're likely to find a product either never arrives, or is a cheap, mass-produced item from a country such as China, trading standards officers say."
+      "author": "Priyanka Salve",
+      "title": "India’s Finance Minister blames easy exits and excess liquidity for equity market's underperformance - CNBC",
+      "description": "Sitharaman identified fuel, fertilizer and access to capital as risks for India’s economy in 2027.",
+      "url": "https://www.cnbc.com/2026/10/18/india-ai-nifty50-sensex-investors.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108419553-1792155192930-gettyimages-2299704856-THAILAND_IMF_WORLD_BANK.jpeg?v=1792155212&w=1920&h=1080",
+      "publishedAt": "2026-10-18T23:00:01Z",
+      "content": "Nirmala Sitharaman, India's finance minister, during the International Monetary Fund (IMF) and World Bank annual meetings in Bangkok, Thailand, on Thursday, Oct. 15, 2026.\r\nThe high degree of liquidi… [+2869 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "CoinDesk"
+        "name": "CNBC"
       },
-      "author": "Omkar Godbole",
-      "title": "Wall Street freaked out Friday, but VIX and bitcoin trades say the fear may fade Monday. - CoinDesk",
-      "description": "Wall Street's fear gauge, the VIX index, spiked on Friday as stocks dropped. History says Friday panics usually fade on Monday. Seasonality and calm bitcoin markets suggest the same.",
-      "url": "https://www.coindesk.com/markets/2026/10/18/wall-street-freaked-out-friday-vix-and-bitcoin-say-it-may-not-last",
-      "urlToImage": "https://cdn.sanity.io/images/s3y3vcno/production/432658a603b65b72bd0b963f39af9806b80609d5-1600x900.jpg?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
-      "publishedAt": "2026-10-18T23:24:37Z",
-      "content": "Seasonality also favors the VIX bears, and by extension stock market stability. \r\nThe VIX has declined in November in 25 of the last 36 years, with a median drop of 7.2%. From October end to the end … [+1129 chars]"
-    },
-    {
-      "source": {
-        "id": "the-wall-street-journal",
-        "name": "The Wall Street Journal"
-      },
-      "author": "WSJ",
-      "title": "Exclusive | Some Wall Street Leaders Are Weighing Bailing on ‘Davos in the Desert’ After Attacks on Riyadh - WSJ",
-      "description": null,
-      "url": "https://www.wsj.com/finance/some-wall-street-leaders-are-weighing-bailing-on-davos-in-the-desert-after-attacks-on-riyadh-f0be73b4",
-      "urlToImage": null,
-      "publishedAt": "2026-10-18T23:01:00Z",
-      "content": null
+      "author": "Fred Imbert",
+      "title": "Nasdaq futures gain as investors buy the dip in the AI trade: Live updates - CNBC",
+      "description": "The S&P 500 lost nearly 2% last week, its biggest weekly decline since late June. The Nasdaq fell 4.5%, snapping a four-week winning streak.",
+      "url": "https://www.cnbc.com/2026/10/18/stock-market-today-live-updates.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108333447-1783696403691-Traders-Photo-20260710-KK-PRESS-002.jpg?v=1783696610&w=1920&h=1080",
+      "publishedAt": "2026-10-18T22:15:15Z",
+      "content": "Stock futures rebounded on Sunday night as traders cautiously dipped a toe back in following last week's rout in shares linked to the artificial intelligence trend.\r\nNasdaq-100 futures added 0.4%. Do… [+2505 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "BBC News"
+        "name": "OilPrice.com"
       },
-      "author": null,
-      "title": "Home sellers cut asking prices on 3,000 properties a day, says Rightmove - BBC",
-      "description": "More property asking prices are being cut than at any time in 15 years, data shared with the BBC shows.",
-      "url": "https://www.bbc.com/news/articles/c84g13z6xx4eo",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/8aed/live/7786ae90-c712-11f1-9a5a-91141f7a4b0e.jpg",
-      "publishedAt": "2026-10-18T23:00:45Z",
-      "content": "\"Once a home has been on the market for a while and then has a price reduction, some buyers start asking questions, even when there is nothing wrong with the property,\" said Colleen Babcock of Rightm… [+3 chars]"
-    },
-    {
-      "source": {
-        "id": "bloomberg",
-        "name": "Bloomberg"
-      },
-      "author": "Anand Krishnamoorthy",
-      "title": "US Stock Futures Rise Ahead of Busy Earnings Week: Markets Wrap - Bloomberg.com",
-      "description": "US equity-index futures rebounded from last week’s chip rout, offering some respite ahead of key earnings that may set the market’s direction amid mounting pressure on the artificial intelligence trade. Oil fell.",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-18/stock-market-today-dow-s-p-live-updates",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iKXvdnHSz.4w/v0/1200x800.jpg",
-      "publishedAt": "2026-10-18T22:07:25Z",
-      "content": "US equity-index futures rebounded from last weeks chip rout, offering some respite ahead of key earnings that may set the markets direction amid mounting pressure on the artificial intelligence trade… [+386 chars]"
+      "author": "Cyril Widdershoven",
+      "title": "Hormuz Is Turning Shipping's Fuel Bill Into a Supply Crisis - Crude Oil Prices Today | OilPrice.com",
+      "description": "The Hormuz crisis is tightening global bunker fuel supplies, with disrupted Middle Eastern and Russian exports driving shortages and longer delivery times.",
+      "url": "https://oilprice.com/Geopolitics/Middle-East/Hormuz-Is-Turning-Shippings-Fuel-Bill-Into-a-Supply-Crisis.html",
+      "urlToImage": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-10-18_mfeknzuvt0.jpg",
+      "publishedAt": "2026-10-18T21:00:00Z",
+      "content": "A surge in attacks by…\r\nRussia and Iran are reportedly…\r\nOverall, for the month of…\r\nSet us as your preferred Google source\r\nBy Cyril Widdershoven - Oct 18, 2026, 4:00 PM CDTThe Hormuz crisis is not … [+7850 chars]"
     },
     {
       "source": {
@@ -362,6 +505,19 @@
     },
     {
       "source": {
+        "id": null,
+        "name": "Barron's"
+      },
+      "author": "Al Root",
+      "title": "Tesla’s Flying Roadster and the SpaceX Halo - Barron's",
+      "description": "Tesla's impressive flying Roadster isn’t about building cars at all. It’s about this.",
+      "url": "https://www.barrons.com/articles/tesla-flying-car-roadster-spacex-1b845812",
+      "urlToImage": "https://images.barrons.com/im-91473771/social",
+      "publishedAt": "2026-10-18T20:23:00Z",
+      "content": "Its a heavy week for earnings, with reports also coming from Lockheed Martin, Spotify, Abbott, and many more. This week will also bring data on manufacturing, services, and new homes."
+    },
+    {
+      "source": {
         "id": "the-wall-street-journal",
         "name": "The Wall Street Journal"
       },
@@ -372,6 +528,19 @@
       "urlToImage": null,
       "publishedAt": "2026-10-18T20:23:00Z",
       "content": null
+    },
+    {
+      "source": {
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "author": "Angus Whitley",
+      "title": "Sydney’s New $4 Billion Airport Opens With Barely Any Flights - Bloomberg.com",
+      "description": "After more than half a century of political procrastination, environmental protests and funding shortfalls, Sydney finally has a second airport. But the new A$5.6 billion ($4 billion) site’s commercial prospects are already in question.",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-18/sydney-s-new-4-billion-airport-opens-with-barely-any-flights",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iu01VBas.DWk/v1/1200x800.jpg",
+      "publishedAt": "2026-10-18T20:00:00Z",
+      "content": "After more than half a century of political procrastination, environmental protests and funding shortfalls, Sydney finally has a second airport. But the new A$5.6 billion ($4 billion) sites commercia… [+385 chars]"
     },
     {
       "source": {
@@ -427,16 +596,29 @@
     },
     {
       "source": {
-        "id": "fox-news",
-        "name": "Fox News"
+        "id": null,
+        "name": "TheStreet"
       },
-      "author": null,
-      "title": "Nearly 800,000 travelers just voted to name the absolute best cruise lines of 2026 - Fox News",
-      "description": "Princess Cruises topped the megaship category in Condé Nast Traveler's Readers' Choice Awards, beating Royal Caribbean International and MSC Cruises.",
-      "url": "https://www.foxnews.com/travel/nearly-800000-travelers-just-voted-name-absolute-best-cruise-lines-2026",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/10/people-watching-princess-cruises.jpg",
-      "publishedAt": "2026-10-18T18:16:51Z",
-      "content": "Travelers have named their favorite cruise lines for sailing aboard some of the biggest ships at sea.\r\nNearly 800,000 votes were cast in Condé Nast Traveler's 2026 Readers' Choice Awards, which ranke… [+2802 chars]"
+      "author": "TheStreet",
+      "title": "Cathie Wood buys $11.8 million of tumbling tech stock - TheStreet",
+      "description": null,
+      "url": "https://www.thestreet.com/investing/stocks/cathie-wood-buys-11-8-million-of-tumbling-tech-stock-coreweave-crwv",
+      "urlToImage": null,
+      "publishedAt": "2026-10-18T18:11:56Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "21alivenews.com"
+      },
+      "author": "WPTA Staff",
+      "title": "Car dealership set to open in Fort Wayne at former McDonald’s - WPTA | 21Alive | Fort Wayne, IN",
+      "description": "A used car dealership is opening its doors in Fort Wayne at the former McDonald’s at Coliseum Blvd. and Goshen Road.",
+      "url": "https://www.21alivenews.com/2026/10/18/car-dealership-set-open-fort-wayne-former-mcdonalds/",
+      "urlToImage": "https://gray-wpta-prod.gtv-cdn.com/resizer/v2/TER2RHIOBRG4FGAEJPMLX3BWTY.jpeg?auth=c505945ba14028d5a747c1469435bb131c4547eb1bc09cc57e182d06f06a3f04&width=1200&height=600&smart=true",
+      "publishedAt": "2026-10-18T17:14:00Z",
+      "content": "FORT WAYNE, Ind. (WPTA) - A used car dealership is opening its doors in Fort Wayne at the former McDonalds at Coliseum Blvd. and Goshen Road.\r\nCar City currently has seven locations throughout Michig… [+767 chars]"
     },
     {
       "source": {
@@ -480,19 +662,6 @@
     {
       "source": {
         "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Ines Ferré",
-      "title": "'Just another scare': Wall Street sees the AI trade strong despite tech's latest rout - Yahoo Finance",
-      "description": "Wall Street still sees more gains for stocks heading into the end of the year.",
-      "url": "https://finance.yahoo.com/markets/article/just-another-scare-wall-street-sees-the-ai-trade-strong-despite-techs-latest-rout-155930040.html",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/5678069b1f2b1fe68189a6069a71483532c0b60fd59779c910d263b412f875e0/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-10%2Fe66d3c9d-5a9e-496b-b9ae-3be84b277e87",
-      "publishedAt": "2026-10-18T15:59:30Z",
-      "content": "Technology (XLK) took a hit this week as financing concerns mounted, dragging down key AI trade players and sending the S&amp;P 500 (^GSPC) and Nasdaq (^IXIC) into negative territory for the week.\r\nC… [+2386 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "The Information"
       },
       "author": "Phoebe Liu",
@@ -505,39 +674,39 @@
     },
     {
       "source": {
-        "id": "fox-news",
-        "name": "Fox News"
+        "id": null,
+        "name": "TheStreet"
       },
-      "author": null,
-      "title": "Tesla Roadster flies, flips and hits 60 mph in a flash - Fox News",
-      "description": "The new Tesla Roadster drove upside down and launched into the air at SpaceX's Texas facility, but a 2028 production target remains unconfirmed.",
-      "url": "https://www.foxnews.com/tech/tesla-roadster-flies-flips-hits-60-mph-flash",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/10/tesla-roadster-unveiled.jpg",
-      "publishedAt": "2026-10-18T15:16:28Z",
-      "content": "I've watched plenty of car unveilings over the years, but Tesla's latest Roadster demonstration had me doing a double take. A sleek white sports car climbed a towering curved ramp until it was comple… [+13437 chars]"
-    },
-    {
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": "Bloomberg.com",
-      "title": "Microsoft Scraps UK Data Center Deal With Nscale, Telegraph Says - Bloomberg.com",
+      "author": "TheStreet",
+      "title": "Social Security’s 3.6% raise may finally match inflation - TheStreet",
       "description": null,
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNYXhlWkpqYnAwNVVYQjBLWTdQdi1HYm50VjhBQ3UwTkNhc0gtTGhoMnluWGxuMVdmZWM3eFRjVFA5dWZ0STlFRVJ6S090WVFveFF1RVNjcHFpd2ZNTFJfamxDNGl6YTNrSmkta2pteXpnMElHVXVjcUI5WDNlemltdVRSZURQUXBmcTFrV0NyY2R0a3J1clFlOGU2RjRTbVRnbzRnU3NvRktJR3g3RUw4Zm9vTnE?oc=5",
+      "url": "https://www.thestreet.com/retirement/social-security-3-6-percent-cola-2027-inflation",
       "urlToImage": null,
-      "publishedAt": "2026-10-18T15:00:14Z",
+      "publishedAt": "2026-10-18T15:17:00Z",
       "content": null
     },
     {
       "source": {
-        "id": "google-news",
-        "name": "Google News"
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "author": "Olivia Solon",
+      "title": "Microsoft Scraps UK Data Center Deal With Nscale, Telegraph Says - Bloomberg.com",
+      "description": "Microsoft Corp. has pulled out of a UK data center deal with Nscale, the British neocloud firm said, marking a setback for the startup’s initial public offering hopes.",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-18/microsoft-scraps-uk-data-center-deal-with-nscale-telegraph-says",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iA3jo4WrNvFg/v0/1200x800.jpg",
+      "publishedAt": "2026-10-18T15:00:14Z",
+      "content": "Microsoft Corp. has pulled out of a UK data center deal with Nscale, the British neocloud firm said, marking a setback for the startups initial public offering hopes.\r\nNscale didnt provide a specific… [+320 chars]"
+    },
+    {
+      "source": {
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
       },
       "author": "WSJ",
       "title": "Toilet Paper and Honey Pots: Spy Games in Silicon Valley | Technology for Oct. 18 - WSJ",
       "description": null,
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5weHJPUkVXMGI2aE1ZUjMzNEd4eXlvZ0dBTy1sbUtPOXJYZUJ4Zi16MHNQNG5nU2tieDlrTXFkUTd0UGZYSXJiUHF1SWZUQldvWkJYMm9uZDNNWnJaTlBJaFBybnJSU2ZYVXdBQTNiWkpJZw?oc=5",
+      "url": "https://www.wsj.com/tech/ai/spy-games-in-silicon-valley-0f5eb1a3",
       "urlToImage": null,
       "publishedAt": "2026-10-18T14:55:00Z",
       "content": null
@@ -558,6 +727,19 @@
     {
       "source": {
         "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Suraj Santlani",
+      "title": "Oracle (ORCL) Has Fallen 54% and 80% of Analysts Still Say Buy. Why? - Yahoo Finance",
+      "description": "Oracle Corporation (NYSE:ORCL) closed at $134.47 on October 15. The stock returned -24.60% over the last 6 months, compared with a 15.4% return for the Insid...",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/oracle-orcl-fallen-54-80-143038953.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/2fbc1eefa16d1a45433f835664255dfb2664027a1266ae45b9283086a9188ba1/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2F929b40cac95e8e50f8e4ac06abbb4453.jpg",
+      "publishedAt": "2026-10-18T14:30:38Z",
+      "content": "Oracle Corporation (NYSE:ORCL) closed at $134.47 on October 15. The stock returned -24.60% over the last 6 months, compared with a 15.4% return for the Insider Monkey Billionaire Index and 11.4% for … [+3832 chars]"
+    },
+    {
+      "source": {
+        "id": null,
         "name": "Forbes"
       },
       "author": "Forbes",
@@ -567,19 +749,6 @@
       "urlToImage": null,
       "publishedAt": "2026-10-18T14:06:44Z",
       "content": null
-    },
-    {
-      "source": {
-        "id": "bloomberg",
-        "name": "Bloomberg"
-      },
-      "author": "Christian Dass",
-      "title": "Option Traders Brace for Volatility Surge as AI Jitters Jolt Market - Bloomberg.com",
-      "description": "Accelerating US inflation and tremors across the AI sector jolted stocks in recent days, and some investors are now betting that bigger swings in tech shares will finally spread to the broader market.",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-18/option-traders-brace-for-vix-surge-as-ai-jitters-jolt-market",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i7DyWZLCJN9I/v0/1200x800.jpg",
-      "publishedAt": "2026-10-18T14:00:00Z",
-      "content": "Accelerating US inflation and tremors across the AI sector jolted stocks in recent days, and some investors are now betting that bigger swings in tech shares will finally spread to the broader market… [+214 chars]"
     },
     {
       "source": {
@@ -635,32 +804,6 @@
     },
     {
       "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": "Reuters",
-      "title": "Samsung to use TSMC technology for Nvidia's next-generation memory chips, Seoul newspaper reports - Reuters",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQLVd3RU5QdzNwZHd0cUNCbUQxM3B6M2JOTXZZbEE4b3Y4czkxSjBuNklIRXU2S1VyRld6WTlRQUdlZkN3TGNRcng5cjR6ZEViNXNqcHh2RnlRU2hWVXRPUVFjVXRvd2FaaTVkd002aUk4WHlEQ2wxTGk3alF5S0FUTGNMUXF2dV9QUjk4eThjcWVPaVBLYzc2c0NUaUN4UUVMcVZTSERiMDE5VXp0NDdoVFpuS2E0TGZoUnBrRTExcnZDRlJia1VNcU40SUxQcE1y?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2026-10-18T12:09:43Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Jared Blikre",
-      "title": "Inflation is retreating from most of the store — why your biggest bills are the holdouts: Chart of the Day - Yahoo Finance",
-      "description": "Inflation is reaching fewer corners of the economy. That doesn't mean life is getting cheaper.",
-      "url": "https://finance.yahoo.com/economy/article/inflation-is-retreating-from-most-of-the-store--why-your-biggest-bills-are-the-holdouts-chart-of-the-day-113303438.html",
-      "urlToImage": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
-      "publishedAt": "2026-10-18T11:33:03Z",
-      "content": "Inflation is reaching fewer corners of the economy. That doesn't mean life is getting cheaper.\r\nOnly about 38% of the roughly 175 categories in the Consumer Price Index rose faster than a 3% annual p… [+3381 chars]"
-    },
-    {
-      "source": {
         "id": "the-wall-street-journal",
         "name": "The Wall Street Journal"
       },
@@ -671,19 +814,6 @@
       "urlToImage": "https://images.wsj.net/im-90420698/social",
       "publishedAt": "2026-10-18T11:00:00Z",
       "content": "Copyright ©2026 Dow Jones &amp; Company, Inc. All Rights Reserved. 87990cbe856818d5eddac44c7b1cdeb8"
-    },
-    {
-      "source": {
-        "id": "the-wall-street-journal",
-        "name": "The Wall Street Journal"
-      },
-      "author": "WSJ",
-      "title": "A Princeton Ph.D. Applied to 2,300 Jobs. He Still Can’t Get One. - WSJ",
-      "description": null,
-      "url": "https://www.wsj.com/lifestyle/careers/labor-market-freeze-phd-graduate-f8e17d7c",
-      "urlToImage": null,
-      "publishedAt": "2026-10-18T10:31:40Z",
-      "content": null
     },
     {
       "source": {
@@ -701,15 +831,15 @@
     {
       "source": {
         "id": null,
-        "name": "WLWT Cincinnati"
+        "name": "Financial Times"
       },
-      "author": "Katrina Ventura",
-      "title": "How far does your gas money go now? Check with our new calculator - WLWT",
-      "description": "Gasoline is up 34.2% year over year, and our new calculator shows how far your money goes at the pump now.",
-      "url": "https://www.wlwt.com/article/gas-money-calculator/74146634",
-      "urlToImage": "https://kubrick.htvapps.com/htv-prod/images/15221021-6624-4922-a541-65fafd6eed27.png?crop=0.998xw%3A1.00xh%3B0.00160xw%2C0&resize=1200%3A*",
-      "publishedAt": "2026-10-18T10:03:45Z",
-      "content": "NEW YORKGas prices have sharply risen since the U.S. war with Iran began in February.\r\nConsumers are seeing it at the pump, where the average price of regular gasoline in September was $4.36, accordi… [+943 chars]"
+      "author": null,
+      "title": "Accenture looks to sell Chinese operations for up to $1.5bn - Financial Times",
+      "description": "Shares in world’s largest IT consultancy have fluctuated in recent months over questions about the impact of AI",
+      "url": "https://www.ft.com/content/2dfdd513-26a6-4a10-9cae-5242eb4ee3ed?syn-25a6b1a6\\\\u003d1",
+      "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F0e8b6e05-e10a-4282-9a1f-1cc8a016cfe7.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
+      "publishedAt": "2026-10-18T10:00:09Z",
+      "content": "was $540now $299 for your first year.\r\nSave now on essential digital access to trusted FT journalism on any device. Savings based on monthly annualised price, offer ends 28th October."
     },
     {
       "source": {
@@ -781,13 +911,13 @@
         "id": null,
         "name": "Motley Fool"
       },
-      "author": "Geoffrey Seiler",
-      "title": "$3,000 Split Across Nvidia, Broadcom, and TSMC Could Be Worth This Much by 2030 - The Motley Fool",
+      "author": "Geoffrey Seiler, The Motley Fool",
+      "title": "$3,000 Split Across Nvidia, Broadcom, and TSMC Could Be Worth This Much by 2030 - Yahoo Finance",
       "description": "A portfolio of these three leading AI stocks would triple by 2030.",
       "url": "https://www.fool.com/investing/2026/10/17/3000-split-across-nvidia-broadcom-and-tsmc-could-b/",
-      "urlToImage": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F890694%2Fgettyimages-174691675.jpg&w=1200&op=resize",
-      "publishedAt": "2026-10-18T01:00:00Z",
-      "content": "If you're looking to build a portfolio of artificial intelligence (AI) stocks with $3,000, you can't go wrong with buying shares of Nvidia(NVDA-1.43%), Broadcom(AVGO-4.53%), and Taiwan Semiconductor … [+4320 chars]"
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/c4258cf68bfb1ba0b096efca001dcb71b48bb9bb8918d4fcdc1015ee8e86467f/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmotleyfool.com%2Fcaf13ec20e3de5b9ed05050d8d5dcbab.jpg",
+      "publishedAt": "2026-10-18T00:20:00Z",
+      "content": "If you're looking to build a portfolio of artificial intelligence (AI) stocks with $3,000, you can't go wrong with buying shares of Nvidia (NASDAQ: NVDA), Broadcom (NASDAQ: AVGO), and Taiwan Semicond… [+4763 chars]"
     },
     {
       "source": {
@@ -801,19 +931,6 @@
       "urlToImage": "https://cmg-cmg-tv-10050-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FOH6EQ5LWTJAKBN6TZTKO365BVE.png?auth=811f934e1d5c0ab68facbc9ab5d2705750beb962e24a0e61c804b41468fa0964&width=1200&height=630&smart=true",
       "publishedAt": "2026-10-17T22:10:38Z",
       "content": "JACKSONVILLE, Fla. — The Jacksonville firefighter who helped grow a sandwich shop he opened with his brother in 1994 into a national chain worth $1 billion died this week.\r\nChris Sorensen was 65.\r\nSo… [+1455 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Motley Fool"
-      },
-      "author": "Bram Berkowitz, The Motley Fool",
-      "title": "CoreWeave Is Projected to Have a 6.3x Gross Leverage Ratio by Year End. The Market Is Worried About the Neocloud's Balance Sheet. - Yahoo Finance",
-      "description": "CoreWeave is the largest neocloud helping to power the artificial intelligence revolution.",
-      "url": "https://www.fool.com/investing/2026/10/17/coreweave-is-projected-to-have-a-63x-gross-leverag/",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/28524845e0a411b1716f906a8608626c1086c5d2c2cf7a7cb02f0aa115837b23/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmotleyfool.com%2F4106ecd3e49db0a2e6e5abd0b7342ff8.png",
-      "publishedAt": "2026-10-17T21:50:00Z",
-      "content": "Investor concerns are starting to weigh on some artificial intelligence stocks, particularly those trading at high valuations and lacking fortress balance sheets to navigate what could become a very … [+5772 chars]"
     },
     {
       "source": {
@@ -908,16 +1025,16 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "CNBC"
+        "id": "fortune",
+        "name": "Fortune"
       },
-      "author": "Amelia Lucas, Lisa Kim",
-      "title": "Semiconductor market to remain solid ‘at least through next year,’ South Korea finance minister says - CNBC",
-      "description": "South Korea's finance minister said semiconductor growth can last at least through 2027 as supply remains tight despite a global chip sell-off.",
-      "url": "https://www.cnbc.com/2026/10/17/south-korea-semiconductor-outlook-lee-hyoung-il.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108425005-17922519932026-09-15t041703z_540430742_rc2djnamnvdo_rtrmadp_0_southkorea-politics-finance.jpeg?v=1792252039&w=1920&h=1080",
-      "publishedAt": "2026-10-17T16:31:29Z",
-      "content": "The semiconductor boom will last at least through 2027, South Korean finance minister Lee Hyoung-Il said on Saturday. \r\n\"For now, our view is that we can sustain this growth at least through next yea… [+1567 chars]"
+      "author": "Jason Ma",
+      "title": "US debt interest costs hit $3 billion a day and jumped 8% in 2026—faster than spending, revenue, GDP - Fortune",
+      "description": "Net interest payments rose 8% to $1.05 trillion in fiscal year 2026, while revenue increased 3% to $5.4 trillion and spending grew 6% to $7.4 trillion.",
+      "url": "https://fortune.com/2026/10/17/us-debt-interest-payments-fiscal-2026-1-trillion-federal-spending-revenue-gdp-growth-treasury-yields/",
+      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/10/GettyImages-2299090069-e1792250419589.jpg?resize=1200,600",
+      "publishedAt": "2026-10-17T16:50:00Z",
+      "content": "The federal governments fiscal year ended last month, and the final tally offered another stark warning about the trajectory of U.S. debt.According to Treasury Department data released on Friday, the… [+4370 chars]"
     },
     {
       "source": {
@@ -956,19 +1073,6 @@
       "url": "https://www.thestreet.com/technology/apples-new-ceo-teams-up-with-mark-zuckerberg",
       "urlToImage": null,
       "publishedAt": "2026-10-17T13:17:00Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": "CNBC",
-      "title": "Berkshire shares buck market sell-off, rally to highest since Buffett said he would step down as CEO - CNBC",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNMFl2aE8xUUxSZjlhZWhuMFpBMWdyeUhCaEJiZF84RnlvNGp0d2stQTJ2LXB3TFpHSklWYzZTUDQ4dGV1TVpvMEdJTWNlV29aWnlIX0VicGo5TFNKTXBiQUJadjJmZGFwVm1CZUJlTUlhUFRBZG02amsxT0JSNWpTVUN4ekpFck9uX2ROWXRxWnFDM1lB0gGaAUFVX3lxTE1Hamt5QTRYaWZuYzRySkVoMUJMQTRSR3NwYzJFb3lxY1k5V2l5enRiZjNMYlNhMDlEYTdFdV9oQ19idExvajZhV1gtNm5QdUt1cnl0dVQwYnlyOXh5OTdmOXNaZ3RnQWhHYlB4aW9Ld0hRYjJRdFFMcENSZndvalpuQ2hDUG14cFZ4WkVZZjdQcHFaTDBPOENjYlE?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2026-10-17T12:46:21Z",
       "content": null
     },
     {
@@ -1013,15 +1117,15 @@
     {
       "source": {
         "id": null,
-        "name": "Yahoo Entertainment"
+        "name": "24/7 Wall St."
       },
-      "author": "Yash Roy",
-      "title": "US Interest Costs Hit Record $1 Trillion, Risking Debt Snowball - Yahoo Finance",
-      "description": "The US government’s debt interest burden reached a record high for fiscal 2026, eating up a growing share of federal revenue and risking a snowballing of bor...",
-      "url": "https://finance.yahoo.com/economy/policy/articles/us-interest-costs-hit-record-120000074.html",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/07d8a5cc31bf2137fc262d93c8cfdae2ff6f032faa7d9c6f1ab6999a0d591ea6/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbloomberg_holding_pen_162%2F4d6c9bc1e91ffac78468d8b448d2548f.jpg",
-      "publishedAt": "2026-10-17T12:00:00Z",
-      "content": "(Bloomberg) -- The US government's debt interest burden reached a record high for fiscal 2026, eating up a growing share of federal revenue and risking a snowballing of borrowing that could leave the… [+5509 chars]"
+      "author": "Omor Ibne Ehsan",
+      "title": "Nvidia’s CEO Says “All of This Is Going to Pass” After Tech Lost $1 Trillion in a Day - Yahoo Finance",
+      "description": "Tech stocks shed over a trillion dollars in a single session while oil and Treasury yields climbed, yet Nvidia's CEO stood in Berlin projecting calm certaint...",
+      "url": "https://247wallst.com/investing/2026/10/17/nvidias-ceo-says-all-of-this-is-going-to-pass-after-tech-lost-1-trillion-in-a-day/",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/177d92f3ef258281969f554c1c23029f86cac37167bb5b4ccac01f7b572d1918/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2F2910101cc21c09b5511bbd4f5302618c.jpg",
+      "publishedAt": "2026-10-17T11:15:15Z",
+      "content": "Quick Read\r\n<ul><li>Huang declared \"all of this is going to pass\" as Nvidia slid just 1% while the broader tech sector lost over $1 trillion in a single day.\r\n</li><li>AMD and Intel each fell nearly … [+5878 chars]"
     },
     {
       "source": {
@@ -1039,15 +1143,15 @@
     {
       "source": {
         "id": null,
-        "name": "Motley Fool"
+        "name": "Futurism"
       },
-      "author": "Sean Williams",
-      "title": "President Donald Trump Claims Gasoline Prices Will \"Drop Like a Rock\" When the Iran War Ends, but He's Completely Missed the Bigger Picture - The Motley Fool",
-      "description": "Donald Trump’s victory lap on energy prices will almost certainly prove premature.",
-      "url": "https://www.fool.com/investing/2026/10/17/donald-trump-claims-gas-prices-drop-like-a-rock-when-iran-war-ends-completely-miss-bigger-picture/",
-      "urlToImage": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2Fef8e0718edd2748c5e3c75d2ff8dfcee35332843-3072x2048.jpg%3Fw%3D800%26q%3D75%26fit%3Dmax%26auto%3Dformat&w=1200&op=resize",
-      "publishedAt": "2026-10-17T09:06:00Z",
-      "content": "The stock market has endured some of its wildest volatility under President Donald Trump, including the five-week COVID-19 crash in February-March 2020 and the week-long tariff tantrum in April 2025.… [+6612 chars]"
+      "author": "Joe Wilkins",
+      "title": "Investors Disturbed by Anthropic’s Financial Data - Futurism",
+      "description": "A new investor presentation now has once-faithful backers doubting Anthropic can ever hit its lofty $2 trillion target.",
+      "url": "https://futurism.com/future-society/anthropic-investors-ai-financial-revenue",
+      "urlToImage": "https://futurism.com/wp-content/uploads/2026/10/anthropic-investors-ai-financial-revenue.jpg?quality=85&w=1200",
+      "publishedAt": "2026-10-17T10:50:00Z",
+      "content": "Can’t-miss innovations from the bleeding edge of science and tech\r\nWhen your company is gearing up for one of the hottest IPOs in stock market history, you’d better believe investors and outside expe… [+2154 chars]"
     },
     {
       "source": {
@@ -1204,110 +1308,6 @@
       "urlToImage": "https://static01.nyt.com/images/2026/10/16/realestate/16trav-expedia-lawsuit1/16trav-expedia-lawsuit1-mediumSquareAt3X.jpg",
       "publishedAt": "2026-10-16T09:04:21Z",
       "content": "The booking giant is accused of breaking federal antitrust laws and forcing millions of customers to overspend on stays by as much as 30 percent."
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "author": "Jack Ewing",
-      "title": "Tesla Debuts 2026 Roadster ‘Flying’ Electric Sports Car",
-      "description": "Elon Musk’s company and other automakers, like Jaguar and Bentley, are trying to sell very expensive electric cars to people who usually prefer gasoline-fueled luxury and performance.",
-      "url": "https://www.nytimes.com/2026/10/15/business/tesla-roadster-2026-ev-sports-car.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/10/16/multimedia/16tesla-vid-covers-02-hpgf/16tesla-vid-covers-02-hpgf-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-10-16T09:04:12Z",
-      "content": "Elon Musk’s company and other automakers, like Jaguar and Bentley, are trying to sell very expensive electric cars to people who usually prefer gasoline-fueled luxury and performance."
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "author": "Rebecca Robbins",
-      "title": "Trump Hasn’t Lowered Drug Prices for These Voters",
-      "description": "President Trump has been promoting his efforts to reduce drug prices, but many Americans have not seen relief from rising costs for prescriptions and insurance premiums.",
-      "url": "https://www.nytimes.com/2026/10/16/business/midterms-election-trump-drug-prices-affordability.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/10/16/multimedia/16biz-drug-prices-01-lzfk/16biz-drug-prices-01-lzfk-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-10-16T09:01:22Z",
-      "content": "President Trump has been promoting his efforts to reduce drug prices, but many Americans have not seen relief from rising costs for prescriptions and insurance premiums."
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "author": "Eilene Zimmerman",
-      "title": "Is Longevity Medicine Going Mainstream?",
-      "description": "As major health systems open their own programs, longevity medicine is gaining credibility and becoming more accessible.",
-      "url": "https://www.nytimes.com/2026/10/16/business/longevity-medicine-mainstream.html",
-      "urlToImage": null,
-      "publishedAt": "2026-10-16T09:00:20Z",
-      "content": "As major health systems open their own programs, longevity medicine is gaining credibility and becoming more accessible."
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "author": "John Koblin and Nicole Sperling",
-      "title": "Netflix Replaces Bela Bajaria as Chief Content Officer",
-      "description": "Peter Rice, a former executive at Disney and Fox, will take over from Bela Bajaria, who had held the job since 2023.",
-      "url": "https://www.nytimes.com/2026/10/15/business/media/netflix-bela-bajaria-peter-rice.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/10/15/multimedia/NETFLIX-Bela-Bajaria-qpfh/NETFLIX-Bela-Bajaria-qpfh-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-10-16T00:25:01Z",
-      "content": "Peter Rice, a former executive at Disney and Fox, will take over from Bela Bajaria, who had held the job since 2023."
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "author": "Peter Eavis",
-      "title": "Gulf Oil Is Still Flowing Despite a Surge in Attacks on Ships",
-      "description": "Shipping operators are braving the Strait of Hormuz, but the risks are high and transportation costs have skyrocketed.",
-      "url": "https://www.nytimes.com/2026/10/15/business/hormuz-oil-tanker-attacks.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/10/15/world/middleeast/15vid-container-hormuz-screengrab/15vid-container-hormuz-screengrab-mediumSquareAt3X.png",
-      "publishedAt": "2026-10-15T20:32:46Z",
-      "content": "Shipping operators are braving the Strait of Hormuz, but the risks are high and transportation costs have skyrocketed."
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "author": "Joe Rennison",
-      "title": "Tech Stocks Drop Further Amid Doubts Over AI Spending",
-      "description": "Tech stocks plunged before reversing course, as concerns over soaring A.I. spending and stubborn inflation fueled a sell-off.",
-      "url": "https://www.nytimes.com/2026/10/15/business/chip-stocks-technology.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/10/15/multimedia/15biz-oil-stocks-bonds-wpql/15biz-oil-stocks-bonds-wpql-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-10-15T20:22:43Z",
-      "content": "Tech stocks plunged before reversing course, as concerns over soaring A.I. spending and stubborn inflation fueled a sell-off."
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "author": "Sydney Ember",
-      "title": "Homeownership Drifts Further Out of Reach as Mortgage Rates Rise",
-      "description": "Mortgage rates have pushed above 7 percent and home prices remain elevated, hurting the prospects of would-be buyers.",
-      "url": "https://www.nytimes.com/2026/10/15/business/economy/housing-market-mortgage-rates.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/10/17/multimedia/15biz-rates-econ-hvkw/15biz-rates-econ-hvkw-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-10-15T18:12:20Z",
-      "content": "Mortgage rates have pushed above 7 percent and home prices remain elevated, hurting the prospects of would-be buyers."
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "author": "Ryan Mac and Ivan Nechepurenko",
-      "title": "Data Centers Become Targets in Wars in Ukraine, Russia and the Middle East",
-      "description": "Military forces have sought to damage the computing hubs that power online services and artificial intelligence systems.",
-      "url": "https://www.nytimes.com/2026/10/15/business/russia-ukraine-data-centers-war.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/10/14/multimedia/00biz-war-data-centers--02-pcbg/00biz-war-data-centers--02-pcbg-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-10-15T16:22:27Z",
-      "content": "Military forces have sought to damage the computing hubs that power online services and artificial intelligence systems."
     }
   ]
 }

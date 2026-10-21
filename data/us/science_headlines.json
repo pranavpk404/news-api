@@ -6,9 +6,48 @@
     "newsapi",
     "rss"
   ],
-  "fetched_at": "2026-10-21T08:54:22.892311+00:00",
-  "articles_count": 82,
+  "fetched_at": "2026-10-21T14:42:25.232467+00:00",
+  "articles_count": 83,
   "articles": [
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Emily Anthes",
+      "title": "Is Rabies Making a Comeback?",
+      "description": "As several states report surges in animal cases, federal officials are warning about an apparent increase in human exposures.",
+      "url": "https://www.nytimes.com/2026/10/21/science/rabies-virus-animals.html",
+      "urlToImage": null,
+      "publishedAt": "2026-10-21T14:00:07Z",
+      "content": "As several states report surges in animal cases, federal officials are warning about an apparent increase in human exposures."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Andrew Jacobs",
+      "title": "Why Drug Companies Are Rushing to Market Ketamine Medicines",
+      "description": "Spurred on by the Trump administration’s embrace of psychedelic medicine, researchers are experimenting with new — and not so new — forms of the anesthetic.",
+      "url": "https://www.nytimes.com/2026/10/20/science/ketamine-fda-spravato-ketafree.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/09/14/science/14SCI-KETAMINE-FDA/14SCI-KETAMINE-FDA-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-10-21T12:41:58Z",
+      "content": "Spurred on by the Trump administration’s embrace of psychedelic medicine, researchers are experimenting with new — and not so new — forms of the anesthetic."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Katrina Miller",
+      "title": "How to Catch the Orionids, a Meteor Shower From Halley’s Comet",
+      "description": "It’s a fall favorite among stargazers, known for bright, speedy streaks that can sometimes linger in the sky for minutes.",
+      "url": "https://www.nytimes.com/2026/10/21/science/space/orionids-meteor-shower-halleys-comet.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/10/21/science/21SCI-ORIONIDS/21SCI-ORIONIDS-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-10-21T09:00:05Z",
+      "content": "It’s a fall favorite among stargazers, known for bright, speedy streaks that can sometimes linger in the sky for minutes."
+    },
     {
       "source": {
         "id": "the-new-york-times",
@@ -40,19 +79,6 @@
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
-      "author": "Andrew Jacobs",
-      "title": "Why Drug Companies Are Rushing to Market Ketamine Medicines",
-      "description": "Spurred on by the Trump administration’s embrace of psychedelic medicine, researchers are experimenting with new — and not so new — forms of the anesthetic.",
-      "url": "https://www.nytimes.com/2026/10/20/science/ketamine-fda-spravato-ketafree.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/09/14/science/14SCI-KETAMINE-FDA/14SCI-KETAMINE-FDA-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-10-20T17:49:20Z",
-      "content": "Spurred on by the Trump administration’s embrace of psychedelic medicine, researchers are experimenting with new — and not so new — forms of the anesthetic."
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
       "author": "Carl Zimmer",
       "title": "Start-Up Claims to Use A.I.-Created Viruses to Treat a Patient",
       "description": "Certain viruses attack bacteria and can sometimes clear antibiotic-resistant infections. Researchers said they had tailored a virus to attack one patient’s illness.",
@@ -76,16 +102,42 @@
     },
     {
       "source": {
-        "id": "associated-press",
-        "name": "Associated Press"
+        "id": null,
+        "name": "Orlando Sentinel"
       },
-      "author": "Marcia Dunn",
-      "title": "Japan launches spacecraft to mysterious moons of Mars in a bold mission to bring home soil samples - AP News",
-      "description": "A Japanese spacecraft is rocketing toward Mars on a quest to explore its mysterious moons and bring back samples. Japan launched it before dawn Tuesday from the country's main spaceport. Five of the world's space agencies have joined forces for the five-year …",
-      "url": "https://apnews.com/article/japan-mars-moon-mission-fb51fbbf90374631e8ae658f9ca46154",
-      "urlToImage": "https://dims.apnews.com/dims4/default/d154e5d/2147483647/strip/true/crop/5000x3333+0+0/resize/1200x800!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F03%2Fc8%2F74f94c06c2f9dc728a4dc0076561%2F56afc53021e14e81bef8d90739489942",
-      "publishedAt": "2026-10-20T04:20:00Z",
-      "content": "A Japanese spacecraft rocketed toward Mars on Tuesday on a quest to explore its mysterious moons and bring back samples.\r\nFive of the worlds space agencies joined forces for the five-year mission tha… [+5206 chars]"
+      "author": "Richard Tribou",
+      "title": "Space jellyfish encore possible as weather clears for SpaceX launch today - Orlando Sentinel",
+      "description": "SpaceX is back and the weather is clear for a predawn launch attempt Tuesday morning that could offer viewers another serving of space jellyfish after calling off an attempt Monday.",
+      "url": "https://www.orlandosentinel.com/2026/10/20/monday-morning-spacex-launch-could-serve-up-space-jellyfish-encore/",
+      "urlToImage": "https://www.orlandosentinel.com/wp-content/uploads/2026/10/TOS-L-SpaceX-Jellyfish-04.jpg?w=7810&h=5207",
+      "publishedAt": "2026-10-20T10:26:23Z",
+      "content": "SpaceX is back and the weather is clear for a predawn launch attempt Tuesday morning that could offer viewers another serving of space jellyfish after calling off an attempt Monday.\r\nWatch Falcon 9 l… [+3248 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Weather Channel"
+      },
+      "author": "Caitlin Kaiser",
+      "title": "Orionid meteor shower 2026: cloud cover forecast by region - The Weather Channel",
+      "description": "The best night to see the orionids is Wednesday into Thursday, but could the weather get in your way? Here is the forecast.",
+      "url": "https://weather.com/2026/10/20/science/space/orionid-meteor-shower-weather-forecast-rain-cloud-cover",
+      "urlToImage": "https://s.w-x.co/wxnext/img/OrionidForecastClean-edd252.png",
+      "publishedAt": "2026-10-20T09:39:00Z",
+      "content": "A meteor streaks across the sky over a desert in China during the Orionid meteor shower on Oct. 22, 2023.\r\n(VCG/VCG via Getty Images)\r\nThe Orionid meteor shower is peaking this week, and it promises … [+3366 chars]"
+    },
+    {
+      "source": {
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "author": "Stephen Clark",
+      "title": "Japan launches mission to bring home a piece of the Martian moon Phobos - Ars Technica",
+      "description": "The climax for MMX will come in 2029, when the spacecraft will attempt up to two landings on Phobos.",
+      "url": "https://arstechnica.com/space/2026/10/japan-launches-mission-to-bring-home-a-piece-of-the-martian-moon-phobos/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/52568167027_27ac36afb5_o-1152x648.jpg",
+      "publishedAt": "2026-10-20T05:59:58Z",
+      "content": null
     },
     {
       "source": {
@@ -129,15 +181,15 @@
     {
       "source": {
         "id": null,
-        "name": "The Weather Channel"
+        "name": "WTOL"
       },
-      "author": "Caitlin Kaiser",
-      "title": "Orionid meteor shower 2026: cloud cover forecast by region - The Weather Channel",
-      "description": "The best night to see the orionids is Oct. 21-22, but could the weather get in your way? Here is the forecast.",
-      "url": "https://weather.com/2026/10/19/science/space/orionid-meteor-shower-weather-forecast-rain-cloud-cover",
-      "urlToImage": "https://s.w-x.co/wxnext/img/OrionidForecastClean-edd252.png",
-      "publishedAt": "2026-10-19T22:00:00Z",
-      "content": "A meteor streaks across the sky over a desert in China during the Orionid meteor shower on Oct. 22, 2023.\r\n(VCG/VCG via Getty Images)\r\nThe Orionid meteor shower is peaking this week, and it promises … [+3366 chars]"
+      "author": "WTOL",
+      "title": "Trash drone tackles pollution in northwest Ohio waterways - WTOL",
+      "description": null,
+      "url": "https://www.wtol.com/article/tech/science/environment/trash-drone-tackles-northwest-ohio-waterway-pollution/512-6210ec6f-b2cb-423a-9aca-18b2d771ba56",
+      "urlToImage": null,
+      "publishedAt": "2026-10-19T22:21:00Z",
+      "content": null
     },
     {
       "source": {
@@ -155,15 +207,15 @@
     {
       "source": {
         "id": null,
-        "name": "ScienceAlert"
+        "name": "Phys.Org"
       },
-      "author": "David Nield",
-      "title": "The Universe Seems to Be Stuck in Place by a Strange Quantum Phenomenon - ScienceAlert",
-      "description": "There's a profound worry underlying the fundamental physics of existence: The Universe may not be quite as stable as we'd ideally like it to be.",
-      "url": "https://www.sciencealert.com/the-universe-seems-to-be-stuck-in-place-by-a-strange-quantum-phenomenon",
-      "urlToImage": "https://www.sciencealert.com/images/2026/10/CosmicValleys.jpg",
-      "publishedAt": "2026-10-19T20:01:17Z",
-      "content": "There's a profound worry underlying the fundamental physics of existence: The Universe may not be quite as stable as we'd ideally like it to be.\r\nQuantum field theory describes invisible quantum fiel… [+4495 chars]"
+      "author": null,
+      "title": "Cosmic 'hamburger' offers rare edge-on view of where giant planets may take shape - Phys.org",
+      "description": "Astronomers using the Atacama Large Millimeter/submillimeter Array (ALMA) were surprised to discover the earliest phases of giant planet formation between the dense layers of gas and dust in the \"Gomez's Hamburger\" system, referred to as GoHam.",
+      "url": "https://phys.org/news/2026-10-cosmic-hamburger-rare-edge-view.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/2026/cosmic-hamburger-has-t.jpg",
+      "publishedAt": "2026-10-19T20:20:01Z",
+      "content": "Astronomers using the Atacama Large Millimeter/submillimeter Array (ALMA) were surprised to discover the earliest phases of giant planet formation between the dense layers of gas and dust in the \"Gom… [+4486 chars]"
     },
     {
       "source": {
@@ -177,6 +229,32 @@
       "urlToImage": "https://scx2.b-cdn.net/gfx/news/2026/a-swirling-vortex-of-h.jpg",
       "publishedAt": "2026-10-19T20:00:15Z",
       "content": "The gas orbiting Sagittarius A (Sgr A*), the supermassive black hole at the center of the Milky Way galaxy, is rich in metals, researchers at McGill University's Trottier Space Institute have found. … [+3678 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ScienceAlert"
+      },
+      "author": "David Nield",
+      "title": "The Universe Seems to Be Stuck in Place by a Strange Quantum Phenomenon - Yahoo",
+      "description": "We're in 'cosmic lockdown'.",
+      "url": "https://www.sciencealert.com/the-universe-seems-to-be-stuck-in-place-by-a-strange-quantum-phenomenon",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/8c2df62202f44a0bfb3caf63508e1a322880661c81f09e1f92f483972fd8bcfa/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsciencealert_160%2F1b20237e2a420bfa43f28b22d442ccf2.jpg",
+      "publishedAt": "2026-10-19T20:00:00Z",
+      "content": "There's a profound worry underlying the fundamental physics of existence: The Universe may not be quite as stable as we'd ideally like it to be.\r\nQuantum field theory describes invisible quantum fiel… [+4457 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Space.com"
+      },
+      "author": "Chelsea Gohd",
+      "title": "The moon is shrinking. 10,000 cracks on the lunar surface reveal by how much - Space",
+      "description": "One new study shows how much the moon has diminished over time.",
+      "url": "https://www.space.com/astronomy/moon/the-moon-is-shrinking-10-000-cracks-on-the-lunar-surface-reveal-by-how-much",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/6FgJftCLQSeJfevpuXDnxJ-2000-80.png",
+      "publishedAt": "2026-10-19T19:00:00Z",
+      "content": null
     },
     {
       "source": {
@@ -229,19 +307,6 @@
       "urlToImage": "https://static01.nyt.com/images/2026/10/19/multimedia/19nat-ca-climate-kfvm/19nat-ca-climate-kfvm-mediumSquareAt3X.jpg",
       "publishedAt": "2026-10-19T17:09:21Z",
       "content": "The dire projections come from the state’s Climate Change Assessment, which analyzes the impacts of changing weather patterns on the nation’s most-populous state."
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "author": "Carl Zimmer",
-      "title": "They Created a Cell That’s Almost Alive. What to Do With It Now?",
-      "description": "SpudCells may one day produce new medicines and materials. But first scientists have to improve them — and make sure they aren’t misused.",
-      "url": "https://www.nytimes.com/2026/10/14/science/spudcell-adamala-biotic.html",
-      "urlToImage": null,
-      "publishedAt": "2026-10-19T16:56:19Z",
-      "content": "SpudCells may one day produce new medicines and materials. But first scientists have to improve them — and make sure they aren’t misused."
     },
     {
       "source": {
@@ -326,13 +391,13 @@
         "id": null,
         "name": "Phys.Org"
       },
-      "author": "Ingrid Fadelli",
-      "title": "Algae fossils from Cambrian explosion hint at sophisticated reproductive system - Phys.org",
-      "description": "The Cambrian explosion was a major diversification of animal life that unfolded early in the Cambrian period, which began around 538.8 million years ago. During this interval, marine animals became much more varied, building the foundations for current marine…",
-      "url": "https://phys.org/news/2026-10-algae-fossils-cambrian-explosion-hint.html",
-      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/study-hints-at-a-sophi.jpg",
-      "publishedAt": "2026-10-19T14:30:01Z",
-      "content": "The holotype of Polyostiosphaera operculata gen. et sp. nov. from the early Cambrian Kuanchuanpu Biota (NIGP210977). (a, b) Light microscopy images. (c, d) Scanning electron microscopy images. (eg, j… [+7443 chars]"
+      "author": null,
+      "title": "Frozen in action: Visualizing how a cancer drug scaffold is built - Phys.org",
+      "description": "A joint research group led by Ryo Tanifuji and Hiroki Oguri from the University of Tokyo and Yoshikazu Tanaka from Tohoku University has visualized SacC, an enzyme that plays a key role in building the complex five-ring core of safracin B. This core structure…",
+      "url": "https://phys.org/news/2026-10-frozen-action-visualizing-cancer-drug.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/frozen-in-action-visua.jpg",
+      "publishedAt": "2026-10-19T15:00:12Z",
+      "content": "A joint research group led by Ryo Tanifuji and Hiroki Oguri from the University of Tokyo and Yoshikazu Tanaka from Tohoku University has visualized SacC, an enzyme that plays a key role in building t… [+4030 chars]"
     },
     {
       "source": {
@@ -372,19 +437,6 @@
       "urlToImage": "https://static01.nyt.com/images/2026/10/19/multimedia/19SCI-UNKNOWNS-ORIGINS-top-gbkw/19SCI-UNKNOWNS-ORIGINS-top-gbkw-mediumSquareAt3X-v2.jpg",
       "publishedAt": "2026-10-19T12:56:27Z",
       "content": "Where did it start? How did it grow complex? Why did it get big? Three moments in Earth’s early history when evolution suddenly, inexplicably turned up the dial."
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "WKMG News 6 & ClickOrlando"
-      },
-      "author": "Chris Raines",
-      "title": "SpaceX launch could create ‘space jellyfish’ over Central Florida skies - WKMG",
-      "description": "SpaceX is targeting a 1-hour window that opens at 6:30 a.m. Tuesday to launch the Bandwagon-5 mission aboard a Falcon 9 rocket.",
-      "url": "https://www.clickorlando.com/news/space-news/2026/10/19/spacex-launch-could-create-space-jellyfish-over-central-florida-skies/",
-      "urlToImage": "https://bc.gmg.io/image/upload/c_thumb,q_auto,w_700,f_jpg/media/video/wkmg/03ccc87e-db62-4bc3-983f-af3cc9130ca6/image.jpg?api_key=clickorlando_488cff2bcc157b2e",
-      "publishedAt": "2026-10-19T12:16:19Z",
-      "content": "BREVARD COUNTY, Fla. Looking to the sky over Central Florida on Tuesday morning, youll have a chance to see a rocket heading to orbit from Cape Canaveral, and potentially a beautiful sight. \r\nSpaceX … [+1622 chars]"
     },
     {
       "source": {
@@ -999,19 +1051,6 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "Nature.com"
-      },
-      "author": null,
-      "title": "Targeted stimulation of motor cortex ensembles drives learned movements - Nature",
-      "description": "Optogenetic stimulation of motor-cortex neuron ensembles shows that precisely timed activity in the primary motor cortex can generate learned neural patterns and movements, demonstrating an active role in skilled motor control.",
-      "url": "https://www.nature.com/articles/s41586-026-11174-3",
-      "urlToImage": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-11174-3/MediaObjects/41586_2026_11174_Fig1_HTML.png",
-      "publishedAt": "2026-10-14T22:55:28Z",
-      "content": "<li>Peters, A. J., Chen, S. X. &amp; Komiyama, T. Emergence of reproducible spatiotemporal activity during motor learning. Nature510, 263267 (2014).\r\nArticle \r\n ADS \r\n CAS \r\n PubMed \r\nGoogle Scholar … [+9975 chars]"
-    },
-    {
-      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -1025,19 +1064,6 @@
     },
     {
       "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "author": "William J. Broad",
-      "title": "How Top Trump Officials Stoked Fears of a Nuke That Could Fry the Power Grid",
-      "description": "For more than a decade, conservative activists held that a single atomic bomb could, without killing Americans directly, lay waste to the country — a claim that built fervor for war with Iran.",
-      "url": "https://www.nytimes.com/2026/10/14/science/electromagnetic-pulse-nuke-trump-officials.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/10/08/science/00SCI-EMP/00SCI-EMP-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-10-14T16:59:11Z",
-      "content": "For more than a decade, conservative activists held that a single atomic bomb could, without killing Americans directly, lay waste to the country — a claim that built fervor for war with Iran."
-    },
-    {
-      "source": {
         "id": "cbs-news",
         "name": "CBS News"
       },
@@ -1048,19 +1074,6 @@
       "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/10/14/ceaa11fd-f103-427e-b731-f9be8a2df180/thumbnail/1200x630/231e074d55404e64d7a3f83fd42d1eeb/invictibellatrix-amberina.png",
       "publishedAt": "2026-10-14T16:35:00Z",
       "content": "London —  A previously unknown species of dinosaur — a \"long-clawed predator the size of a tiger\" and a cousin of the Tyrannosaurus rex — has been identified from a fossil originally found 100 years … [+2663 chars]"
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "author": "Karen Zraick and Gabby Sobelman",
-      "title": "Amit Forlit, the Israeli Private Eye at the Heart of a Climate Hacking Scandal",
-      "description": "He’s been linked to someone called “The Hawk.” He named his company “This Isn’t a Dentist’s Office.” The feds say he hacked American environmentalists.",
-      "url": "https://www.nytimes.com/2026/10/14/climate/amit-forlit-climate-hacking-allegations.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/10/14/multimedia/14cli-forlit-stillpromo/14cli-forlit-02-fghb-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-10-14T14:13:49Z",
-      "content": "He’s been linked to someone called “The Hawk.” He named his company “This Isn’t a Dentist’s Office.” The feds say he hacked American environmentalists."
     },
     {
       "source": {

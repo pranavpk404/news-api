@@ -1,7 +1,20 @@
 {
   "status": "ok",
-  "totalResults": 80,
+  "totalResults": 68,
   "articles": [
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Karla Adam and Dustin Volz",
+      "title": "What Is PHP? Why Are Government and Business Websites Going Offline?",
+      "description": "A critical security flaw in the programming language underpinning much of the web has prompted a global rush to patch vulnerable systems.",
+      "url": "https://www.nytimes.com/2026/10/22/technology/what-is-php-vulnerability-risks.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/10/22/multimedia/22xp-PHP-fjtz/22xp-PHP-fjtz-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-10-22T21:31:29Z",
+      "content": "A critical security flaw in the programming language underpinning much of the web has prompted a global rush to patch vulnerable systems."
+    },
     {
       "source": {
         "id": "the-new-york-times",
@@ -40,19 +53,6 @@
       "urlToImage": "https://static01.nyt.com/images/2026/10/22/multimedia/22int-website-flaws-qvzg/22int-website-flaws-qvzg-mediumSquareAt3X.jpg",
       "publishedAt": "2026-10-22T16:01:35Z",
       "content": "Governments and businesses around the world scrambled to prevent hackers from exploiting a vulnerability in PHP, a popular programming language."
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "author": "Karla Adam and Dustin Volz",
-      "title": "What Is PHP? Why Are Government and Business Websites Going Offline?",
-      "description": "A critical security flaw in the programming language underpinning much of the web has prompted a global rush to patch vulnerable systems.",
-      "url": "https://www.nytimes.com/2026/10/22/technology/what-is-php-vulnerability-risks.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/10/22/multimedia/22xp-PHP-fjtz/22xp-PHP-fjtz-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-10-22T15:55:08Z",
-      "content": "A critical security flaw in the programming language underpinning much of the web has prompted a global rush to patch vulnerable systems."
     },
     {
       "source": {
@@ -121,16 +121,42 @@
     },
     {
       "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
+        "id": null,
+        "name": "http://mp1st.com/category/news"
       },
-      "author": "The New York Times and Joanna Ni",
-      "title": "Ms., Martians and Guacamole: Their First Time in The Times",
-      "description": "Our reporters share a compendium of debuts, discoveries and (sometimes overdue) appearances in the paper.",
-      "url": "https://www.nytimes.com/2026/10/15/us/175-anniversary-history-corrections-pulitzer-martian.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/10/14/multimedia/00firsts-promo-tk/00firsts-promo-tk-mediumSquareAt3X-v3.jpg",
-      "publishedAt": "2026-10-21T19:41:25Z",
-      "content": "Our reporters share a compendium of debuts, discoveries and (sometimes overdue) appearances in the paper."
+      "author": "Efrain",
+      "title": "PlayStation Store “Planet of the Deals” Sale Now Live With Over 3,500 Entries - MP1st",
+      "description": "The latest PlayStation Store Sale is live and is called \"Planet of the Deals,\" and there are over 3,500 entries.",
+      "url": "https://mp1st.com/news/playstation-store-planet-of-the-deals-sale-now-live-with-over-3500-entries",
+      "urlToImage": "https://mp1st.com/wp-content/uploads/2026/10/planet-600x338.png",
+      "publishedAt": "2026-10-21T20:41:59Z",
+      "content": "Sony has launched a new PlayStation Store sale for November, and this one is called Planet of Deals.\r\nThere are over 3,500 items in total for the sale, with a lot of AAA titles available. For the com… [+213657 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "MacRumors"
+      },
+      "author": "Juli Clover",
+      "title": "What 32,000 Folds Did to the iPhone Duo's Hinge - MacRumors",
+      "description": "Apple hasn't shared iPhone Duo hinge tests or given a lifetime fold number like Samsung, but Joanna Stern used a custom device to subject her...",
+      "url": "https://www.macrumors.com/2026/10/21/iphone-duo-fold-test-hinge/",
+      "urlToImage": "https://images.macrumors.com/t/8yz_RbDSIOInfvzgfALDsbhOvRc=/1800x/article-new/2026/10/joanna-stern-fold-test.jpg",
+      "publishedAt": "2026-10-21T20:05:18Z",
+      "content": "Apple hasn't shared iPhone Duo hinge tests or given a lifetime fold number like Samsung, but Joanna Stern used a custom device to subject her review unit to more than 32,000 folds over four nights.\r\n… [+1422 chars]"
+    },
+    {
+      "source": {
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "author": "Kyle Orland",
+      "title": "RIP BioWare: EA shuts down storied RPG studio after over three decades - Ars Technica",
+      "description": "Next Mass Effect project canceled as parent company lays off 400.",
+      "url": "https://arstechnica.com/gaming/2026/10/rip-bioware-ea-shuts-down-storied-rpg-studio-after-over-three-decades/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/me3ending-1152x648.webp",
+      "publishedAt": "2026-10-21T19:12:16Z",
+      "content": null
     },
     {
       "source": {
@@ -144,6 +170,32 @@
       "urlToImage": "https://static01.nyt.com/images/2026/10/21/multimedia/21dc-flaw-fcbk/21dc-flaw-fcbk-mediumSquareAt3X.jpg",
       "publishedAt": "2026-10-21T19:04:36Z",
       "content": "The disclosure heightened concerns about A.I.’s potential to upend cybersecurity unless shortcomings are addressed."
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Internet"
+      },
+      "author": "The Hacker News",
+      "title": "Critical GitLab Flaw (CVSS 10.0) Could Allow Unauthenticated RCE Across 12 Years of Releases - The Hacker News",
+      "description": "GitLab fixes CVE-2026-110264, a critical flaw that could allow unauthenticated code execution on self-managed versions dating back to 7.0.",
+      "url": "https://thehackernews.com/2026/10/critical-gitlab-flaw-cvss-100-could.html",
+      "urlToImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEig4Pkd5r0GeWGSaCoHaEsZVVoh5Y6xBkFvMTGYKvD5oONYnczQGAUqpjD6eCiA6sxiiel6Zs0kPiBEWOZJ21URkE59iJm-LDUFPYwPEf8o8d8lnyiMOR53H7IeXGKn3tTG9pusA-HKwYo0n04WQ1m8kg8dxIWEtxFGMDiBzrV-zzqAH2R2OVT2E1ViX_U/s1600/git-rce.jpg",
+      "publishedAt": "2026-10-21T18:57:00Z",
+      "content": "GitLab released fixes on October 21 for a flaw that lets an attacker run code on a self-managed server without logging in, and it affects every version of the software going back to 7.0, released in … [+4238 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "MacRumors"
+      },
+      "author": "Juli Clover",
+      "title": "iPhone Duo's Hidden FaceTime Camera Takes 'Trash' Photos - MacRumors",
+      "description": "The iPhone Duo's inner screen has an under-display front camera that's largely hidden from view. It's the first time we've seen an...",
+      "url": "https://www.macrumors.com/2026/10/21/iphone-duo-facetime-camera/",
+      "urlToImage": "https://images.macrumors.com/t/oYobdeOGVfIucWLVGbOd_YT6Zkk=/1600x/article-new/2026/09/iphone-duo-facetime.jpg",
+      "publishedAt": "2026-10-21T18:36:40Z",
+      "content": "The iPhone Duo's inner screen has an under-display front camera that's largely hidden from view. It's the first time we've seen an under-display camera on an iPhone, and it turns out there's a reason… [+1216 chars]"
     },
     {
       "source": {
@@ -200,15 +252,15 @@
     {
       "source": {
         "id": null,
-        "name": "Variety"
+        "name": "Simscommunity.info"
       },
-      "author": "Todd Spangler",
-      "title": "Electronic Arts Laying Off 3% of Employees in Studios Restructuring: BioWare Shutting Down, Respawn and DICE to Team on ‘Star Wars: Battlefront 3’ - Variety",
-      "description": "EA is restructuring its studios, laying off 3% of employees. BioWare is shutting down, while Respawn and DICE are teaming for 'Star Wars: Battlefront 3.'",
-      "url": "https://variety.com/2026/digital/news/ea-layoffs-bioware-shutting-down-respawn-dice-star-wars-battlefront-3-1236918715/",
-      "urlToImage": "https://variety.com/wp-content/uploads/2026/10/Electronic-Arts-Logo.png?w=726&h=484&crop=1",
-      "publishedAt": "2026-10-21T17:05:00Z",
-      "content": "Videogame giant Electronic Arts, in its first major move since going private this summer, is restructuring its studios business — which will result in layoffs of about 3% of global workforce. \r\nThe u… [+10895 chars]"
+      "author": null,
+      "title": "The Sims Project Rene IS PAUSED – The Sims Project Evergreen / Project X IS NEXT! - Sims Community",
+      "description": "Instead, we're getting full focus on The Sims Project Evergreen. Which sounds very much like all The Sims Project X news we've been reporting for more than a",
+      "url": "https://simscommunity.info/2026/10/21/the-sims-project-evergreen-x-rene/",
+      "urlToImage": "https://simscommunity.info/wp-content/uploads/2026/10/PROJECTX-ANNOUNCED-EVERGREEN-14863c.jpg",
+      "publishedAt": "2026-10-21T17:31:09Z",
+      "content": "ARTICLE UPDATE: The official quote has now appeared on the EA website. Previous references from Variety stated that \"Project Lotus is cancelled\" however that doesn't reflect the internal memo shared … [+5275 chars]"
     },
     {
       "source": {
@@ -216,25 +268,12 @@
         "name": "Warhammer-community.com"
       },
       "author": null,
-      "title": "Huge Warhammer 40,000: Dawn of War IV game overview trailer revealed - Warhammer Community",
-      "description": "Discover the factions, missions, maps, and more for the video game.",
-      "url": "https://www.warhammer-community.com/articles/0ruvpa79/huge-warhammer-40000-dawn-of-war-iv-game-overview-trailer-revealed",
-      "urlToImage": "https://assets.warhammer-community.com/dow_gametrailer-oct21-1-feature-dscknvvdp5.jpg",
-      "publishedAt": "2026-10-21T16:37:09Z",
+      "title": "Warhammer Tone Pro: One paint, many techniques - Warhammer Community",
+      "description": "Learn how flexible the new range of paints can be.",
+      "url": "https://www.warhammer-community.com/articles/pnew5hva/warhammer-tone-pro-one-paint-many-techniques",
+      "urlToImage": "https://assets.warhammer-community.com/articles/0-2026/october/wc-19-10/tonepro_keyfeatures2-oct21-2-share-7w6ppratop.jpg",
+      "publishedAt": "2026-10-21T17:06:59Z",
       "content": "© Copyright Games Workshop Limited 2026. GW, Games Workshop, Citadel, White Dwarf, Space Marine, 40K, Warhammer, Warhammer 40,000, the Aquila Double-headed Eagle logo, Warhammer Age of Sigmar, Battle… [+1391 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tmo.report"
-      },
-      "author": null,
-      "title": "Set Your Calendar, T-Mobile Giving Out Free iPads For One Day Only - The Mobile Report",
-      "description": "In an unusual move, T-Mobile appears to be giving out free iPad A16s for one day only next week, with qualifying service plan.",
-      "url": "https://tmo.report/2026/10/t-mobile-is-giving-away-free-ipad-a16s-for-one-day-only/",
-      "urlToImage": "https://i0.wp.com/tmo.report/wp-content/uploads/2026/10/tmobileipada16featured.png?fit=1280%2C720&ssl=1",
-      "publishedAt": "2026-10-21T16:07:52Z",
-      "content": "A rare opportunity will soon be available for T-Mobile customers interested in a new iPad.\r\nAs spotted in the T-Life app, T-Mobile will soon be offering the Apple iPad A16 tablet for free (“On Us”) n… [+1132 chars]"
     },
     {
       "source": {
@@ -265,19 +304,6 @@
     {
       "source": {
         "id": null,
-        "name": "Pcguide.com"
-      },
-      "author": null,
-      "title": "Smash Bros and Kirby creator Masahiro Sakurai says AI usage will lead to unoriginal and \"unprofitable\" games - PC Guide",
-      "description": "Masahiro Sakurai believes AI could contribute to an even bigger flood of games that players simply don't want.",
-      "url": "https://www.pcguide.com/news/smash-bros-and-kirby-creator-masahiro-sakurai-says-ai-usage-will-lead-to-unoriginal-and-unprofitable-games/",
-      "urlToImage": "https://www.pcguide.com/wp-content/uploads/2026/10/Masahiro-Sakurai.jpg",
-      "publishedAt": "2026-10-21T14:50:22Z",
-      "content": "The use of AI in game development has become a controversial topic across the industry. Some studios are experimenting with the technology to speed up parts of the development process, while others h… [+3487 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "9to5google.com"
       },
       "author": "Ben Schoon",
@@ -287,19 +313,6 @@
       "urlToImage": "https://9to5google.com/wp-content/uploads/sites/4/2024/11/Face-Unlock-screen-on-Pixel-9.jpg?quality=82&strip=all&resize=1200,628",
       "publishedAt": "2026-10-21T14:30:00Z",
       "content": "Google’s Face Unlock feature on Pixel phones works really well, until the lights go out. The company appears to be building out a new upgrade to this with “active illumination” which is… just turning… [+2302 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "MacRumors"
-      },
-      "author": "Mitchel Broussard",
-      "title": "iPhone Duo Accessories Roundup: Cases and Screen Protectors From OtterBox, ZAGG, and More - MacRumors",
-      "description": "iPhone Duo will start arriving to pre-order customers this Friday, and in anticipation of the launch we've gathered all of the best cases and...",
-      "url": "https://www.macrumors.com/2026/10/21/iphone-duo-accessories-roundup/",
-      "urlToImage": "https://images.macrumors.com/t/spU9ZPin6fQCkfTL46EFZ5M-jCo=/2500x/article-new/2026/09/iphone-18-duo-cases-new-blue.jpeg",
-      "publishedAt": "2026-10-21T14:25:41Z",
-      "content": "iPhone Duo will start arriving to pre-order customers this Friday, and in anticipation of the launch we've gathered all of the best cases and screen protectors you can get for your new iPhone Duo. Th… [+2051 chars]"
     },
     {
       "source": {
@@ -317,6 +330,19 @@
     {
       "source": {
         "id": null,
+        "name": "9to5Mac"
+      },
+      "author": "Ryan Christoffel",
+      "title": "iPhone Duo will add Reachability feature ‘later this year’ - 9to5Mac",
+      "description": "iPhone Duo launches this Friday, but there’s one software feature Apple says won’t be ready until later this year: Reachability.",
+      "url": "https://9to5mac.com/2026/10/21/iphone-duo-will-add-reachability-feature-later-this-year/",
+      "urlToImage": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-duo-front-display-hand.jpg?quality=82&strip=all&resize=1200,628",
+      "publishedAt": "2026-10-21T14:10:00Z",
+      "content": "iPhone Duo launches this Friday (read our full review here), but theres one software feature Apple says wont be ready until later this year: Reachability.\r\nReachability is an iPhone feature first int… [+1277 chars]"
+    },
+    {
+      "source": {
+        "id": null,
         "name": "Eurogamer.net"
       },
       "author": "Connor Makar",
@@ -326,6 +352,19 @@
       "urlToImage": "https://assetsio.gnwcdn.com/stranger-than-heaven-header-2.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "publishedAt": "2026-10-21T14:00:41Z",
       "content": "Who doesn't love a big swing, a bold new direction, especially when so many video game publishers seem increasingly determined to walk the safest route? While Stranger Than Heaven might look familiar… [+6511 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "GameSpot"
+      },
+      "author": "Darryn Bonthuys",
+      "title": "New PS5 Update Is Out Now, And Sony May Be Tightening Security Before GTA 6 - GameSpot",
+      "description": "Is there more to this new PS5 firmware update than just improved stability?",
+      "url": "https://www.gamespot.com/articles/new-ps5-update-is-out-now-and-sony-may-be-tightening-security-before-gta-6/",
+      "urlToImage": "https://www.gamespot.com/wp-content/uploads/original/1601/16018044/4686929-ps5-pro.jpg",
+      "publishedAt": "2026-10-21T13:47:57Z",
+      "content": "GameSpot may receive revenue from affiliate and advertising partnerships for sharing this content and from purchases through links.\r\nAnother day, another PS5 update, as Sony tweaks its system with an… [+1428 chars]"
     },
     {
       "source": {
@@ -395,28 +434,15 @@
     {
       "source": {
         "id": null,
-        "name": "MacRumors"
+        "name": "Digitalfoundry.net"
       },
-      "author": "Joe Rossignol",
-      "title": "Apple Says 'Reachability' Feature Coming to iPhone Duo Later This Year - MacRumors",
-      "description": "Apple plans to add Reachability support to the iPhone Duo in a software update coming later this year, according to WIRED's Julian Chokkattu. The...",
-      "url": "https://www.macrumors.com/2026/10/21/iphone-duo-reachability-later-this-year/",
-      "urlToImage": "https://images.macrumors.com/t/CF37ey2cPgDxE7XhXnqyT0kz1_Q=/1920x/article-new/2026/10/iphone-duo-feature.jpg",
-      "publishedAt": "2026-10-21T12:43:33Z",
-      "content": "Its simply not ready. This product has promise, iterations down the line, but it is completely half-baked in execution this time around.The software (3rd party devs primarily) is not ready, and here … [+389 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Push Square"
-      },
-      "author": "Liam Croft",
-      "title": "First-Person Soulslike Valor Mortis an Official Success, Now Turning a Profit - Push Square",
-      "description": "Game breaks even after one week",
-      "url": "https://www.pushsquare.com/news/2026/10/first-person-soulslike-valor-mortis-an-official-success-now-turning-a-profit",
-      "urlToImage": "https://images.pushsquare.com/d4da48a82bd0b/1280x720.jpg",
-      "publishedAt": "2026-10-21T12:15:00Z",
-      "content": "Valor Mortis is now officially making a profit for developer One More Level and publisher Lyrical Games, as revealed by the latter on social media. It took just one week on the market for it to break… [+1615 chars]"
+      "author": "William Judd",
+      "title": "Microsoft: FSR 4.1 Coming \"Very Soon\" to Xbox Game Developers for Series X, Series S - Digital Foundry",
+      "description": "How will FSR 4.1 stack up against PS5's QSSR and Pro's PSSR 2?",
+      "url": "https://www.digitalfoundry.net/news/2026/10/microsoft-fsr-4-1-coming-very-soon-to-xbox-game-developers-for-series-x-series-s",
+      "urlToImage": "https://images.digitalfoundry.net/848f3e853ecff/1280x720.jpg",
+      "publishedAt": "2026-10-21T12:37:00Z",
+      "content": "Xbox vice president Jason Ronald has confirmed that game developers on Xbox will get access to FSR 4.1 support \"very soon\", following up on AMD's announcement of its latest-gen FSR coming to five new… [+1808 chars]"
     },
     {
       "source": {
@@ -430,6 +456,19 @@
       "urlToImage": "https://nintendoeverything.com/wp-content/uploads/Final-Fantasy-Resonance-Nintendo-Switch-1-vs.-2-.jpg",
       "publishedAt": "2026-10-21T12:14:04Z",
       "content": "Final Fantasy Resonance is coming to both Nintendo Switch 2 and Switch, but some of you might be wondering what’s different between the two versions. Performance, resolution, loading times, and the h… [+2675 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "GameSpot"
+      },
+      "author": "Tom Caswell",
+      "title": "Warhammer 40,000: Dawn of War IV Looks To Right The Wrongs Of Its Predecessor - GameSpot",
+      "description": "While developer King Art Games is billing Dawn of War IV as a modern interpretation of the first game, there are lessons from the second and third entries shap…",
+      "url": "https://www.gamespot.com/articles/warhammer-40000-dawn-of-war-iv-looks-to-right-the-wrongs-of-its-predecessor/",
+      "urlToImage": "https://www.gamespot.com/wp-content/uploads/2026/10/DOW_IV_KEYART_250701_3840x2160_BR_8efeff.jpg",
+      "publishedAt": "2026-10-21T12:00:00Z",
+      "content": "GameSpot may receive revenue from affiliate and advertising partnerships for sharing this content and from purchases through links.\r\nWarhammer 40,000: Dawn of War IV is arriving nearly a decade after… [+6735 chars]"
     },
     {
       "source": {
@@ -462,19 +501,6 @@
         "id": null,
         "name": "Eurogamer.net"
       },
-      "author": "Chris Tapsell",
-      "title": "Football Manager 27 will be free to play for five days before its full release, in \"industry first\" for a game of its kind - Eurogamer.net",
-      "description": "FM27 is getting a free trial period with saves that carry over to the full game, with pre-orders not opening until the trial starts.",
-      "url": "https://www.eurogamer.net/football-manager-27-free-to-play-five-days",
-      "urlToImage": "https://assetsio.gnwcdn.com/FMPlayForFree.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "publishedAt": "2026-10-21T11:00:00Z",
-      "content": "You can play Football Manager 27 on PC and Mac for free this year for five full days later this month, in a first for the series and apparently an \"industry first\" for games of its kind.\r\nThe free pe… [+2239 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Eurogamer.net"
-      },
       "author": "Sherif Saed",
       "title": "Xbox reportedly planning three more rounds of layoffs, with the first wave coming as early as this month - Eurogamer.net",
       "description": "Xbox is said to be laying off some employees this month, with two more waves planned for the near future.",
@@ -485,29 +511,16 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "Eurogamer.net"
+        "id": "ign",
+        "name": "IGN"
       },
-      "author": "Connor Makar",
-      "title": "More copies of Resident Evil: Requiem were sold on PlayStation discs than on Xbox in total, reportedly, as Sony's march to a discless future continues - Eurogamer.net",
-      "description": "Single-player blockbuster PlayStation games still sell in notable quantities on disc, statistics show. In Japan, the desire for physical is even higher.",
-      "url": "https://www.eurogamer.net/playstation-physical-disc-sales-statistics-alinea",
-      "urlToImage": "https://assetsio.gnwcdn.com/resident-evil-requiem-nostalgia-26.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "publishedAt": "2026-10-21T09:21:49Z",
-      "content": "Physical disc-based copies of Resident Evil: Requiem on PlayStation consoles may have been more popular than all versions of the game on Xbox, a new report has found, while unearthing a trove of othe… [+2785 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Push Square"
-      },
-      "author": "Liam Croft",
-      "title": "Crimson Desert Reveals Just How Big Its PS5 DLC Really Is in New Trailer - Push Square",
-      "description": "Get a full overview of Charting the Unknown",
-      "url": "https://www.pushsquare.com/news/2026/10/crimson-desert-reveals-just-how-big-its-ps5-dlc-really-is-in-new-trailer",
-      "urlToImage": "https://images.pushsquare.com/f82fe3de274f6/1280x720.jpg",
-      "publishedAt": "2026-10-21T08:45:00Z",
-      "content": "Crimson Desert studio Pearl Abyss doesn't do things by halves; it's demonstrated how it's the literal embodiment of the phrase \"go big or go home\" in the video game industry. After a stupidly large b… [+2216 chars]"
+      "author": "Kirk McKeand",
+      "title": "'Those Swamp Graphics Better Be Baller' — Fans React to Shrek 2 Remastered's Surprising PC Requirements - IGN",
+      "description": "Shrek 2 isn’t exactly pushing the bounds of PC graphics, but the recommended specs for the remaster are surprisingly hefty.",
+      "url": "https://www.ign.com/articles/shrek-2-remastered-surprising-pc-requirements",
+      "urlToImage": "https://assets-prd.ignimgs.com/2026/10/21/shrek-2-remasterd-screenshot-farfaraway-1792575980552.jpg?width=1280&format=jpg&auto=webp&quality=80",
+      "publishedAt": "2026-10-21T09:53:35Z",
+      "content": "Shrek 2\r\n isnt exactly pushing the bounds of PC graphics, but the recommended specs for the remaster are surprisingly hefty. Originally released in 2004, this remaster boasts better textures, enhance… [+1730 chars]"
     },
     {
       "source": {
@@ -521,19 +534,6 @@
       "urlToImage": "https://www.gematsu.com/wp-content/uploads/2026/10/Apothecary-Diaries_10-21-26.jpg",
       "publishedAt": "2026-10-21T08:05:50Z",
       "content": "Mystery solving adventure game The Apothecary Diaries: The False Imperial Brother will launch for PlayStation 5, Switch 2, Switch, and PC via Steam on March 18, 2027 worldwide, publisher Koei Tecmo a… [+2649 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Nintendo Life"
-      },
-      "author": "Liam Doolan",
-      "title": "The Legend Of Zelda: Ocarina Of Time Switch 2 Estimated File Size Revealed - Nintendo Life",
-      "description": "Update: File size spotted on download card",
-      "url": "https://www.nintendolife.com/news/2026/10/the-legend-of-zelda-ocarina-of-time-switch-2-estimated-file-size-revealed",
-      "urlToImage": "https://images.nintendolife.com/3cae3dc49f114/1280x720.jpg",
-      "publishedAt": "2026-10-21T04:32:42Z",
-      "content": "Image: Nintendo\r\nUpdate [Wed 21st Oct 2026, 4:30am]: We've got an update that seemingly reconfirms the file size of The Legend of Zelda: Ocarina of Time on Switch 2.\r\nAccording to game download cards… [+1508 chars]"
     },
     {
       "source": {
@@ -576,32 +576,6 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "Droid Life"
-      },
-      "author": "Kellen",
-      "title": "Android 17 QPR3 Beta 2 Released for Pixel Phones - Droid Life",
-      "description": "Google released Android 17 QPR3 Beta 2 to all of its still-supported Pixel devices today. If you own a Pixel 6a up through the new Pixel 11 series, you can get an update with fresh software. This latest update has at least 20 fixes and improvements, which is …",
-      "url": "https://www.droid-life.com/2026/10/20/android-17-qpr3-beta-2-released-for-pixel-phones/",
-      "urlToImage": "https://www.droid-life.com/wp-content/uploads/2026/09/Pixel-11-Pro-Fold-Review-10.jpg",
-      "publishedAt": "2026-10-20T20:36:39Z",
-      "content": "Google released Android 17 QPR3 Beta 2 to all of its still-supported Pixel devices today. If you own a Pixel 6a up through the new Pixel 11 series, you can get an update with fresh software.\r\nThis la… [+3486 chars]"
-    },
-    {
-      "source": {
-        "id": "bleacher-report",
-        "name": "Bleacher Report"
-      },
-      "author": "Doric Sam",
-      "title": "EA Sports Announces Return of 'Fight Night' Boxing Video Game, 'The Fight Is Never Over' - Bleacher Report",
-      "description": "Retro gaming fans were given a treat on Tuesday.",
-      "url": "https://bleacherreport.com/articles/25513665-ea-sports-announces-return-fight-night-boxing-video-game-fight-never-over",
-      "urlToImage": "https://gsp-image-cdn.wmsports.io/cms/prod/bleacher-report/getty_images/2026-10/2297293547_large_cropped.jpg?w=1121&h=630",
-      "publishedAt": "2026-10-20T20:09:34Z",
-      "content": "Retro gaming fans were given a treat on Tuesday.\r\nEA Sports announced that it is reviving its famed Fight Night video game series, declaring, \"The fight is never over.\"\r\nFight Night followed EA Sport… [+1174 chars]"
-    },
-    {
-      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -638,58 +612,6 @@
       "urlToImage": "https://cdn.mos.cms.futurecdn.net/9JVimAkkRWnuGvKE3tcxCM-2560-80.jpg",
       "publishedAt": "2026-10-20T19:42:01Z",
       "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "MacRumors"
-      },
-      "author": "Juli Clover",
-      "title": "Apple's Touchscreen OLED MacBook Pro: Everything We Know - MacRumors",
-      "description": "Apple is working on a high-end MacBook Pro, and it's nearly ready to launch. It will have several firsts in a Mac, including an OLED display and...",
-      "url": "https://www.macrumors.com/guide/touchscreen-macbook-pro/",
-      "urlToImage": "https://images.macrumors.com/t/r-a84FeRhyCsmSrCJOuSvSywz14=/2100x/article-new/2026/10/MacBook-Pro-Dynamic-Island-multicolor.jpg",
-      "publishedAt": "2026-10-20T19:40:41Z",
-      "content": "Apple is working on a high-end MacBook Pro, and it's nearly ready to launch. It will have several firsts in a Mac, including an OLED display and a touchscreen.\r\nDesign\r\nApple hasn't redesigned the ‌M… [+4774 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Aftermath.site"
-      },
-      "author": "Nathan Grayson",
-      "title": "Dear Tim Sweeney, You Could Learn A Thing Or Two From The Xbox Exec Who Posted So Bad That He Had To Delete His Account - Aftermath",
-      "description": "A better world is possible",
-      "url": "https://aftermath.site/xbox-brandon-stirrup-ai-twitter-delete-tim-sweeney/",
-      "urlToImage": "https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/size/w1200/2026/10/tim5.png",
-      "publishedAt": "2026-10-20T19:39:30Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Gameinformer.com"
-      },
-      "author": "Marcus Stewart",
-      "title": "Here's A Recap Of The October 2026 ID@Xbox Showcase - Game Informer",
-      "description": "Check out all of the new and upcoming indies heading to Xbox platforms. And also Shrek. - Game Informer",
-      "url": "https://gameinformer.com/2026/10/20/heres-a-recap-of-the-october-2026-idxbox-showcase",
-      "urlToImage": "https://gameinformer.com/sites/default/files/styles/og_image/public/2026/10/20/7173a7ec/shrek-2-remastered-screen-1.jpg.webp",
-      "publishedAt": "2026-10-20T19:35:00Z",
-      "content": "If you're an Xbox owner looking for new indie games to play, today's ID@Xbox showcase provided 30 minutes of new, upcoming, and existing indie games coming to Microsoft's platforms. We've rounded up … [+6680 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Xbox.com"
-      },
-      "author": "Will Fulton, XBOX Wire Editor",
-      "title": "Grounded 2: 100 Reasons to Run in the Rot and Ruin Update - XBOX Wire",
-      "description": "The Rot and Ruin Update expands Grounded 2 with a new area to explore, dangerous creatures to face, another Buggy to saddle up on, and more:",
-      "url": "https://news.xbox.com/en-us/2026/10/20/grounded-2-rot-and-ruin/",
-      "urlToImage": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/10/g2-HERO-env-woodpile-max-002-62ab2edb0d25e588218a.jpg",
-      "publishedAt": "2026-10-20T19:00:40Z",
-      "content": "Brookhollow Park is getting a little more rotten. The Rot and Ruin Update expands Grounded 2 with a new area to explore, dangerous creatures to face, another Buggy to saddle up on, and new ways to cu… [+2167 chars]"
     },
     {
       "source": {
@@ -758,6 +680,19 @@
     },
     {
       "source": {
+        "id": "polygon",
+        "name": "Polygon"
+      },
+      "author": "Willa Rowe",
+      "title": "Zelda: Ocarina of Time remake file size confirms it’s the biggest Zelda game yet - Polygon.com",
+      "description": "Nintendo Switch 2 players will need to clear a lot of space on their systems to accommodate The Legend of Zelda: Ocarina of Time remake's file size",
+      "url": "https://www.polygon.com/legend-of-zelda-ocarina-of-time-remake-nintendo-switch-2-file-size/",
+      "urlToImage": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/ns2_thelegendofzeldaocarinaoftime_scrn_15.png?w=1600&h=900&fit=crop",
+      "publishedAt": "2026-10-20T17:54:55Z",
+      "content": "When the original Nintendo 64 version ofThe Legend of Zelda: Ocarina of Timewas released in 1998, the entire game fit on a 32 MB cartridge. The upcoming Nintendo Switch 2 remake does not; in fact, th… [+2018 chars]"
+    },
+    {
+      "source": {
         "id": null,
         "name": "Space.com"
       },
@@ -772,15 +707,15 @@
     {
       "source": {
         "id": null,
-        "name": "Gematsu"
+        "name": "Push Square"
       },
-      "author": "Sal Romano",
-      "title": "DreamWorks Shrek 2 Remastered announced for PS5, Xbox Series, Switch 2, Switch, and PC - Gematsu",
-      "description": "Aspyr has announced DreamWorks Shrek 2 Remastered for PlayStation 5, Xbox Series, Switch 2, Switch, and PC (Steam, Epic Games Store). It will launch on November 10 for $29.99.",
-      "url": "https://www.gematsu.com/2026/10/dreamworks-shrek-2-remastered-announced-for-ps5-xbox-series-switch-2-switch-and-pc",
-      "urlToImage": "https://www.gematsu.com/wp-content/uploads/2026/10/Shrek-2-Remastered-Announced_10-20-26.jpg",
-      "publishedAt": "2026-10-20T17:33:18Z",
-      "content": "Aspyr has announced DreamWorks Shrek 2 Remastered for PlayStation 5, Xbox Series, Switch 2, Switch, and PC (Steam, Epic Games Store). It will launch on November 10 for $29.99. \r\nAs the title suggest,… [+1635 chars]"
+      "author": "Robert Ramsey",
+      "title": "Free Fallout 4 DLC Sees Modders Bring Back Original Voice Actors for a Spooky Adventure on PS5 - Push Square",
+      "description": "FEVer Dreams out now",
+      "url": "https://www.pushsquare.com/news/2026/10/free-fallout-4-dlc-sees-modders-bring-back-original-voice-actors-for-a-spooky-adventure-on-ps5",
+      "urlToImage": "https://images.pushsquare.com/36bea2e13d2c4/1280x720.jpg",
+      "publishedAt": "2026-10-20T17:30:00Z",
+      "content": "Bethesda definitely seems to be going a bit harder on bringing its official Creations to PS5.\r\nJust like with Skyrim earlier in the month, modding team Kinggath Creations has released a new DLC for F… [+606 chars]"
     },
     {
       "source": {
@@ -794,19 +729,6 @@
       "urlToImage": "https://assets-prd.ignimgs.com/2022/11/23/xboxseriesx-3-blogroll-1648735732292-1669247511678.jpeg?width=1280&format=jpg&auto=webp&quality=80",
       "publishedAt": "2026-10-20T17:13:11Z",
       "content": "Xbox is sending emails to customers reminding them that they can trade in their Series X and S consoles if theyve been collecting dust. The email has reportedly been sent to customers in the U.S. who… [+2267 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theautopian.com"
-      },
-      "author": "David Tracy",
-      "title": "I Bought This Low-Mileage Jeep Grand Cherokee For Only $1,700 After Realizing My 'Holy Grail' Project Is Doomed - The Autopian",
-      "description": "David has brought home another Jeep project, so a previous Grail must go",
-      "url": "https://www.theautopian.com/i-bought-this-low-mileage-jeep-grand-cherokee-for-only-1700-after-realizing-my-holy-grail-project-is-doomed/",
-      "urlToImage": "https://images-stag.jazelc.com/uploads/theautopian-m2en/Jeep_Zj_Had_to_TS.jpg",
-      "publishedAt": "2026-10-20T16:47:42Z",
-      "content": null
     },
     {
       "source": {
@@ -836,81 +758,16 @@
     },
     {
       "source": {
-        "id": "polygon",
-        "name": "Polygon"
-      },
-      "author": "Patricia Hernandez",
-      "title": "'GTA 6' at Risk as PS5 Hackers Officially Claim Major New Breakthrough - Polygon.com",
-      "description": "Fans are hoping Grand Theft Auto 6 will be playable on PC soon, but PS5 jailbreak hackers still face hurdles placed by Sony and Rockstar",
-      "url": "https://www.polygon.com/ps5-jailbreak-gta-6-piracy-firmware-update-hypervisor-sony-rockstar/",
-      "urlToImage": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/vice_city_09-1.jpg?w=1600&h=900&fit=crop",
-      "publishedAt": "2026-10-20T16:09:44Z",
-      "content": "2026 has been a year of tremendous progress for the PlayStation 5 jailbreaking scene, which can now free consoles from the PS5 ecosystem without a convoluted workaround. As footage of unofficial port… [+3013 chars]"
-    },
-    {
-      "source": {
-        "id": "mashable",
-        "name": "Mashable"
-      },
-      "author": "Olivia Tauber",
-      "title": "Spotify Family plan QR checks: Rules, deadlines, and penalties - Mashable",
-      "description": "Spotify’s QR code checks could complicate your shared subscription — and make listening more expensive.",
-      "url": "https://mashable.com/tech/spotify-family-plan-qr-code-verification",
-      "urlToImage": "https://helios-i.mashable.com/imagery/articles/02nZreND1AFQ5DcJRFS1cgu/hero-image.fill.size_1200x675.v1792509807.jpg",
-      "publishedAt": "2026-10-20T15:48:50Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "ign",
-        "name": "IGN"
-      },
-      "author": "Wesley Yin-Poole",
-      "title": "Bethesda Reveals What's Coming Next to Fallout 4 With First-Look at a Trio of New Mods - IGN",
-      "description": "Bethesda has put its weight behind a trio of new Fallout 4 mods as part of the ongoing Fallout Day celebrations.",
-      "url": "https://www.ign.com/articles/bethesda-reveals-whats-coming-next-to-fallout-4-with-first-look-at-a-trio-of-new-mods",
-      "urlToImage": "https://assets-prd.ignimgs.com/2026/10/20/robco-3-1792510165775.png?width=1280&format=jpg&auto=webp&quality=80",
-      "publishedAt": "2026-10-20T15:36:56Z",
-      "content": "Bethesda has put its weight behind a trio of new Fallout 4 mods as part of the ongoing Fallout Day celebrations.\r\nThe Verified Creations label sees Bethesda support modders in an official capacity as… [+2222 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "GSMArena.com"
-      },
-      "author": "Peter",
-      "title": "The iPhone Duo may not have a visible crease, but the display is soft in that area - GSMArena.com news - GSMArena.com",
-      "description": "The part of the display that is over the hinge is soft and gives way when you press it with your finger. The part of the iPhone Duo display that is above...",
-      "url": "https://www.gsmarena.com/the_iphone_duo_may_not_have_a_visible_crease_but_the_display_is_soft_in_that_area-news-75127.php",
-      "urlToImage": "https://fdn.gsmarena.com/imgroot/news/26/10/iphone-duo-squishy-crease/-952x498w6/gsmarena_000.jpg",
-      "publishedAt": "2026-10-20T15:33:02Z",
-      "content": "The part of the iPhone Duo display that is above the hinge is squishy this can be seen in a video originally posted by Weibo user Kang that was shared by Ice Universe. This is not entirely unexpected… [+2428 chars]"
-    },
-    {
-      "source": {
-        "id": "fox-news",
-        "name": "Fox News"
-      },
-      "author": null,
-      "title": "Here's how to preorder Apple's HomeView smart display — plus alternatives to shop now - Fox News",
-      "description": "Preorder Apple HomeView, the brand's newest smart home innovation, before it releases on Nov. 13.",
-      "url": "https://www.foxnews.com/deals/apple-homeview-preorder",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/10/untitled-design-11.png",
-      "publishedAt": "2026-10-20T15:06:10Z",
-      "content": "Meet Apple's newest innovation and the brand's first smart home display the Apple HomeView. Officially launching on Nov. 13, the new device is available for preorder now on Amazon. The new device kee… [+2754 chars]"
-    },
-    {
-      "source": {
         "id": null,
         "name": "Warhammer-community.com"
       },
       "author": null,
-      "title": "On Warhammer TV this week – Devastation and drybrushing - Warhammer Community",
-      "description": "Enjoy lore, painting challenges, and episode two of Arkanaut.",
-      "url": "https://www.warhammer-community.com/articles/thujy0zv/on-warhammer-tv-this-week-devastation-and-drybrushing",
-      "urlToImage": "https://assets.warhammer-community.com/articles/0-2026/october/wc-19-10/whplus-oct20-2-share-nqkocmwgay.jpg",
-      "publishedAt": "2026-10-20T14:56:52Z",
-      "content": "© Copyright Games Workshop Limited 2026. GW, Games Workshop, Citadel, White Dwarf, Space Marine, 40K, Warhammer, Warhammer 40,000, the Aquila Double-headed Eagle logo, Warhammer Age of Sigmar, Battle… [+1391 chars]"
+      "title": "Designers’ notes: creating the new Tomb Kings of Khemri miniatures - Warhammer Community",
+      "description": "The Warhammer: The Old World team tells us about making the new models.",
+      "url": "https://www.warhammer-community.com/articles/jaled9ld/designers-notes-creating-the-new-tomb-kings-of-khemri-miniatures",
+      "urlToImage": "https://assets.warhammer-community.com/articles/0-2026/october/wc-19-10/tow_tkdesign-oct20-2-share-wudeftbn2m.jpg",
+      "publishedAt": "2026-10-20T14:57:23Z",
+      "content": "Keith: Much of the original Tomb Kings range was made a long time ago, using very different technology to what we have today. The original Skeleton Warriors, for example, combined the basic Warhammer… [+5470 chars]"
     },
     {
       "source": {
@@ -928,19 +785,6 @@
     {
       "source": {
         "id": null,
-        "name": "BikeRadar.com"
-      },
-      "author": "Ashley Quinlan",
-      "title": "Garmin launches Edge 1060 bike computer with voice control, alongside new Edge Explore computers and Tacx Nēra smart trainer - BikeRadar",
-      "description": "New Edge 1060 heads up trio of new computers and trainer refresh from Garmin",
-      "url": "https://www.bikeradar.com/news/garmin-edge-1060-bike-computer",
-      "urlToImage": "https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/049bfbab-1534-41ac-9377-8960ec146e4a/fd24c031-6c89-476e-8e64-29dd19084fda/thumbnails/ef7b83d6-a9ac-49e3-a8c0-2a60190c0110.jpg?appId=32337f2f-7841-4ef6-a233-d1f001580530&platform=WEB&w=1200",
-      "publishedAt": "2026-10-20T12:03:07Z",
-      "content": "Garmin has launched the Edge 1060, a new flagship cycling computer with voice control, updated navigation tools and a greater focus on keeping riders connected while on the move.\r\nThe new computer fe… [+9801 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "Videocardz.com"
       },
       "author": null,
@@ -950,6 +794,19 @@
       "urlToImage": "https://cdn.videocardz.com/1/2026/10/ASUS-RTX-SPARK-LAPTOP-JENSEN-HERO.webp",
       "publishedAt": "2026-10-20T10:40:56Z",
       "content": "© NVIDIA/ASUS\r\nAn ASUS ProArt laptop reportedly won during NVIDIA’s RTX Spark launch event in Istanbul has already appeared on the second-hand market. According to a post shared by Alkan Adakaner on … [+1715 chars]"
+    },
+    {
+      "source": {
+        "id": "ign",
+        "name": "IGN"
+      },
+      "author": "Jacqueline Thomas",
+      "title": "'If I'm Fired Tomorrow It Will Be Because I Told You the Truth' — Xbox Business Strategist Deletes Social Media Account After Accusing the Game Industry of 'Pretending to Not Use AI' - IGN",
+      "description": "An Xbox staff member went viral this week for taking to social media to tell \"the truth that nobody wants you to know\": that the video game industry is \"pretending\" to not use AI.",
+      "url": "https://www.ign.com/articles/xbox-business-strategist-claims-video-game-industry-is-pretending-to-not-use-ai-deletes-twitter-account-after-deluge-of-replies",
+      "urlToImage": "https://assets-prd.ignimgs.com/2026/05/06/screenshot-2026-05-06-162907-1778081413883.png?width=1280&format=jpg&auto=webp&quality=80",
+      "publishedAt": "2026-10-20T09:30:26Z",
+      "content": "An Xbox staff member went viral this week for taking to social media to tell \"the truth that nobody wants you to know\": that the video game industry is \"pretending\" to not use AI.\r\nXbox Business Stra… [+3841 chars]"
     },
     {
       "source": {
@@ -1002,19 +859,6 @@
       "urlToImage": "https://static01.nyt.com/images/2026/10/19/multimedia/19biz-musk-shares-vfqm/19biz-musk-shares-vfqm-mediumSquareAt3X.jpg",
       "publishedAt": "2026-10-19T22:12:02Z",
       "content": "Anthropic, an A.I. rival to SpaceX, earlier said it would form a “public benefit fund” and other tech moguls have contributed to savings accounts for children."
-    },
-    {
-      "source": {
-        "id": "ign",
-        "name": "IGN"
-      },
-      "author": "Jacqueline Thomas",
-      "title": "Steam Fans Are Begging for a No-AI Filter as Steam Next Fest Is Filled With Slop - IGN",
-      "description": "Steam Next Fest, Valve's festival for indie games and demos, started earlier today, and while there are usually a ton of low-effort games, there seems to be more than usual this time around.",
-      "url": "https://www.ign.com/articles/steam-fans-are-begging-for-a-no-ai-filter-as-steam-next-fest-is-filled-with-slop",
-      "urlToImage": "https://assets-prd.ignimgs.com/2023/07/01/steam-blogroll-logos-1663887576752-1673156937925-1688244430676.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "publishedAt": "2026-10-19T21:38:28Z",
-      "content": "Steam Next Fest, Valve's festival for indie games and demos, started earlier today, and while there are usually a ton of low-effort games included, there seems to be more than usual this time around.… [+3097 chars]"
     },
     {
       "source": {

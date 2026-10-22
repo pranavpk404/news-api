@@ -1,7 +1,20 @@
 {
   "status": "ok",
-  "totalResults": 81,
+  "totalResults": 79,
   "articles": [
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Jan Hoffman and Erin Schaff",
+      "title": "At a Last-Hope Health Clinic, Desperation, Kindness and Fear for What’s Next",
+      "description": "These doctors and community health workers are a safety net for patients losing coverage as premiums soar and Medicaid cuts mount, even as their clinic struggles to stay afloat.",
+      "url": "https://www.nytimes.com/2026/10/19/us/idaho-health-clinic-medicaid.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/10/05/multimedia/00dc-IdahoHealth-lfbw/00dc-IdahoHealth-lfbw-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-10-22T03:40:31Z",
+      "content": "These doctors and community health workers are a safety net for patients losing coverage as premiums soar and Medicaid cuts mount, even as their clinic struggles to stay afloat."
+    },
     {
       "source": {
         "id": "the-new-york-times",
@@ -69,16 +82,29 @@
     },
     {
       "source": {
-        "id": "fox-news",
-        "name": "Fox News"
+        "id": "cnn",
+        "name": "CNN"
       },
-      "author": null,
-      "title": "Common disorder linked to 70% higher death rate, but medication may offer protection - Fox News",
-      "description": "ADHD medication was tied to a 25% lower mortality risk in a JAMA Network Open review examining nearly 16 million people across three continents.",
-      "url": "https://www.foxnews.com/health/common-disorder-linked-70-higher-death-rate-medication-may-offer-protection",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/08/common-pain-killer-contributes-antibiotic-resistance.jpg",
-      "publishedAt": "2026-10-20T22:05:00Z",
-      "content": "People diagnosed with attention-deficit/hyperactivity disorder (ADHD) face a roughly 71% higher overall risk of early death compared to those without the condition, according to a new review publishe… [+3851 chars]"
+      "author": "Jacqueline Howard",
+      "title": "How a photo of a person’s face could help predict whether they’ll survive cancer treatment - CNN",
+      "description": "A simple selfie could hold surprising clues to your overall health and longevity, especially among people with cancer.",
+      "url": "https://www.cnn.com/2026/10/20/health/ai-models-cancer-survival-biological-age",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/faceage-cancer-survival-biological-age.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2026-10-21T01:33:00Z",
+      "content": "A simple selfie could hold surprising clues to your overall health and longevity, especially among people with cancer.\r\nResearchers at Mass General Brigham in Boston have developed artificial intelli… [+6614 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "KOIN.com"
+      },
+      "author": "KOIN.com",
+      "title": "Another customer accuses Portland nail salon of exposing them to herpes - KOIN.com",
+      "description": null,
+      "url": "https://www.koin.com/local/multnomah-county/another-customer-accuses-portland-nail-salon-of-exposing-them-to-herpes/",
+      "urlToImage": null,
+      "publishedAt": "2026-10-20T23:00:24Z",
+      "content": null
     },
     {
       "source": {
@@ -109,6 +135,45 @@
     {
       "source": {
         "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Ed Cara",
+      "title": "People With ADHD Face a 70% Higher Risk of Early Death. This Seems to Help - Gizmodo",
+      "description": "A large review finds that ADHD is linked to a higher risk of dying from any cause, but also that treatment can lower this risk.",
+      "url": "https://gizmodo.com/people-with-adhd-face-a-70-higher-risk-of-early-death-this-seems-to-help-2000828356",
+      "urlToImage": "https://gizmodo.com/app/uploads/2026/10/ADHD-medication-1200x675.jpg",
+      "publishedAt": "2026-10-20T21:25:30Z",
+      "content": "Living with attention deficit hyperactivity disorder can exact a heavy toll on people’s health and longevity. Research out this week, however, shows that timely ADHD treatment may claw back some of t… [+4390 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Medical Xpress"
+      },
+      "author": null,
+      "title": "Nutritional supplement may help ease 'brain fog' after breast cancer treatment - Medical Xpress",
+      "description": "A new study led by researchers at the UCLA Health Jonsson Comprehensive Cancer Center found that a nutritional supplement containing oxaloacetate, a molecule naturally found in the body that helps cells produce energy, may help improve cognitive function and …",
+      "url": "https://medicalxpress.com/news/2026-10-nutritional-supplement-ease-brain-fog.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/brain-fog.jpg",
+      "publishedAt": "2026-10-20T20:00:18Z",
+      "content": "A new study led by researchers at the UCLA Health Jonsson Comprehensive Cancer Center found that a nutritional supplement containing oxaloacetate, a molecule naturally found in the body that helps ce… [+5584 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Colorado Public Radio"
+      },
+      "author": "John Daley",
+      "title": "The work of four CU Anschutz doctors is kind of a big deal - Colorado Public Radio",
+      "description": "National Academy of Medicine nominations puts Anschutz on par with places like Harvard and Johns Hopkins — the recognition is considered among highest in the field.",
+      "url": "https://www.cpr.org/2026/10/20/cu-anschutz-doctors-national-academy-medicine/",
+      "urlToImage": "https://www.cpr.org/cdn-cgi/image/width=1200,height=630,fit=crop,gravity=auto,quality=75,format=auto/https://wp-cpr.s3.amazonaws.com/uploads/2026/10/CU-ANSCHUTZ-DOCTORS-NATIONAL-ACADEMY-OF-MEDICINE-COURTESY-01-B.jpg",
+      "publishedAt": "2026-10-20T19:46:50Z",
+      "content": "Filmmakers have the Oscars. Authors have the Pulitzer. For physicians and researchers, its the National Academy of Medicine.\r\nNow, four faculty members from the University of Colorado Anschutz have b… [+6472 chars]"
+    },
+    {
+      "source": {
+        "id": null,
         "name": "New York Post"
       },
       "author": "Allie Yang",
@@ -135,12 +200,12 @@
     {
       "source": {
         "id": null,
-        "name": "WPBF West Palm Beach"
+        "name": "WLWT Cincinnati"
       },
       "author": "Katrina Ventura",
-      "title": "Colon cancer is now the second-leading cause of cancer death - WPBF",
+      "title": "Colon cancer is now the second-leading cause of cancer death - WLWT",
       "description": "Colon cancer is now the second-leading cause of cancer death — and rates are rising in people under 50.",
-      "url": "https://www.wpbf.com/article/colon-cancer-deaths-rise-under-50/74122443",
+      "url": "https://www.wlwt.com/article/colon-cancer-deaths-rise-under-50/74122443",
       "urlToImage": "https://kubrick.htvapps.com/htv-prod/images/f954116f-9cb7-4b77-80b0-1b4f012b6594.png?crop=0.998xw%3A1.00xh%3B0.00160xw%2C0&resize=1200%3A*",
       "publishedAt": "2026-10-20T18:39:00Z",
       "content": "NEW YORKColon cancer deaths are rising, and patients are getting younger.\r\nAccording to the National Cancer Institute, colorectal cancer, also known as colon cancer, is now the second-leading cause o… [+3595 chars]"
@@ -225,19 +290,6 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "KATU"
-      },
-      "author": "Jeff  Kirsch",
-      "title": "Lawsuit: Portland nail salon gave a customer herpes for second time in two years - KATU",
-      "description": "An employee failed to wear gloves while giving a customer a set of acrylic nails, and the customer got herpes, according to a lawsuit filed Monday in Multnomah",
-      "url": "https://katu.com/news/local/lawsuit-portland-nail-salon-gave-a-customer-herpes-for-second-time-in-two-years",
-      "urlToImage": "https://katu.com/resources/media2/16x9/398/1320/0x4/90/e5970c57-23e8-4cf6-a795-799d6d9c40fc-PDXNAILS.png",
-      "publishedAt": "2026-10-20T15:04:49Z",
-      "content": "PORTLAND, Ore. (KATU) An employee failed to wear gloves while giving a customer a set of acrylic nails, and the customer got herpes, according to a lawsuit filed Monday in Multnomah County Court. \r\nA… [+2194 chars]"
-    },
-    {
-      "source": {
         "id": "the-washington-post",
         "name": "The Washington Post"
       },
@@ -248,6 +300,19 @@
       "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/RGBAGE6P7MEFYUKE3XQJZGSDSA_size-normalized.jpg&w=1440",
       "publishedAt": "2026-10-20T14:32:59Z",
       "content": "Emerging research suggests extended sedentary time, in and of itself, could increase certain cancer risks regardless of your weight or physical activity level.\r\nOctober 20, 2026 at 6:00 a.m. EDT6 min… [+7 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Live Science"
+      },
+      "author": "Lauren Schneider",
+      "title": "Ultrasound waves that jiggle deep brain structures may relieve delusions in schizophrenia, small trial hints - Live Science",
+      "description": "In a new pilot study, 10 minutes of transcranial ultrasound stimulation reduced patients' delusion severity, scientists report.",
+      "url": "https://www.livescience.com/health/neuroscience/ultrasound-waves-that-jiggle-deep-brain-structures-may-relieve-delusions-in-schizophrenia-small-trial-hints",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/PdKSnTq9KAnGCraXZ7kGaP-2000-80.jpg",
+      "publishedAt": "2026-10-20T14:10:00Z",
+      "content": null
     },
     {
       "source": {
@@ -287,45 +352,6 @@
       "urlToImage": "https://www.eatthis.com/wp-content/uploads/sites/4/2026/10/fit-woman-straight-leg-raises-exercise_454160146.jpg?quality=82&strip=all",
       "publishedAt": "2026-10-20T13:04:11Z",
       "content": "Do your knees a solid and kick off the morning with these simple moves.\r\nBuilding strength in the muscles that support your knees can help reduce stress on the knee joint. According to OrthoInfo, str… [+3006 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Science Daily"
-      },
-      "author": null,
-      "title": "Scientists finally uncover why statins can cause muscle pain - Science Daily",
-      "description": "Scientists have uncovered a surprising reason why statins, the widely prescribed cholesterol-lowering drugs that help prevent heart attacks and strokes, can sometimes cause muscle pain, weakness, and even severe muscle damage. Using advanced imaging technolog…",
-      "url": "https://www.sciencedaily.com/releases/2026/10/261019093447.htm",
-      "urlToImage": "https://www.sciencedaily.com/images/1920/human-muscle-fibers-pain-healing.webp",
-      "publishedAt": "2026-10-20T13:01:47Z",
-      "content": "Statins are among the most important medications for preventing cardiovascular disease. By lowering cholesterol, they have helped save millions of lives and reduce the likelihood of heart attacks and… [+4622 chars]"
-    },
-    {
-      "source": {
-        "id": "the-washington-post",
-        "name": "The Washington Post"
-      },
-      "author": "Margaret Hetherman",
-      "title": "How a photo of a patient’s face could predict whether they’ll survive cancer - The Washington Post",
-      "description": "Researchers say they’ve developed an AI model trained on more than 40 million photographs that can help predict mortality risk.",
-      "url": "https://www.washingtonpost.com/health/2026/10/20/how-photo-patients-face-could-predict-whether-theyll-survive-cancer/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/HH5FHP5HMXKRFCZOUBGSUUPLYM.png&w=1440",
-      "publishedAt": "2026-10-20T12:39:19Z",
-      "content": "Researchers say theyve developed a new AI foundation model trained on more than 40 million facial photographs that can help predict mortality risk in patients with cancer.\r\nThe technology is based on… [+253 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Science Daily"
-      },
-      "author": null,
-      "title": "Your aging brain may be trading memory for something more valuable - Science Daily",
-      "description": "The aging brain may be undergoing a remarkable transformation rather than simply losing its abilities, shifting its focus from remembering details to understanding the bigger picture. Scientists suggest this change could be an evolutionary adaptation that hel…",
-      "url": "https://www.sciencedaily.com/releases/2026/10/261019093357.htm",
-      "urlToImage": "https://www.sciencedaily.com/images/1920/head-brain-puzzle-pieces-mental-health.webp",
-      "publishedAt": "2026-10-20T11:33:20Z",
-      "content": "Growing older is often associated with memory loss and declining mental abilities. However, scientists are questioning whether these changes tell the whole story. Rather than simply becoming less cap… [+8680 chars]"
     },
     {
       "source": {
@@ -433,6 +459,45 @@
     },
     {
       "source": {
+        "id": null,
+        "name": "WAFF"
+      },
+      "author": "Anjolina  Fantaroni",
+      "title": "195 contacts identified in confirmed Huntsville measles case - WAFF",
+      "description": "The Alabama Department of Public Health says 195 contacts have been identified across different exposure locations connected to a confirmed measles case in Huntsville.",
+      "url": "https://www.waff.com/2026/10/20/195-contacts-identified-confirmed-huntsville-measles-case/",
+      "urlToImage": "https://gray-waff-prod.gtv-cdn.com/resizer/v2/3CJR2QX2NFFUPFYYOTH6YJ6DYQ.jpg?auth=37449661c3053c3e60631952bb6965eade5cf39765ee2709816f898a98985306&width=1200&height=600&smart=true",
+      "publishedAt": "2026-10-20T03:23:00Z",
+      "content": "HUNTSVILLE, Ala. (WAFF) - The Alabama Department of Public Health says 195 contacts have been identified across different exposure locations connected to a confirmed measles case in Huntsville.\r\nThe … [+726 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "KSL.com"
+      },
+      "author": "Carter Williams, KSL",
+      "title": "Invasive 'yellow fever mosquito' found in Davis County for the first time - KSL News",
+      "description": "An invasive species introduced to southern Utah nearly a decade ago has now made its way to northern Utah.",
+      "url": "https://www.ksl.com/article/51638420/invasive-yellow-fever-mosquito-found-in-davis-county-for-the-first-time",
+      "urlToImage": "https://img.ksl.com/slc/3206/320608/32060855.jpeg?filter=kslv2/responsive_story_lg",
+      "publishedAt": "2026-10-20T02:41:21Z",
+      "content": "CLEARFIELD An invasive species introduced to southern Utah nearly a decade ago has now made its way to northern Utah.\r\nAn Aedes aegypti mosquito, commonly referred to as the \"yellow fever mosquito,\" … [+2808 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "WWMT-TV"
+      },
+      "author": "Mackenize Dekker | News Channel 3",
+      "title": "Survivor urges testing after getting stage 3 diagnosis months after clear mammogram - WWMT",
+      "description": "After overcoming her own cancer diagnosis, one Kalamazoo woman is sharing her story.",
+      "url": "https://wwmt.com/news/local/breast-cancer-survivor-kalamazoo-mammogram-testing-test-mitzi-fitzpatrick-health-healthcare-radiation-michigan-wwmt",
+      "urlToImage": "https://wwmt.com/resources/media2/16x9/1170/1320/0x144/90/4f624e3d-02c8-47ce-b927-9497becbc357-IMG_2247.jpeg",
+      "publishedAt": "2026-10-20T02:06:27Z",
+      "content": "KALAMAZOO, Mich. After overcoming her own cancer diagnosis, one Kalamazoo woman is sharing her story, hoping that by raising awareness, she can stop others from having to go through what she did.\r\nA … [+3356 chars]"
+    },
+    {
+      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -446,29 +511,16 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "SciTechDaily"
-      },
-      "author": null,
-      "title": "Researchers Discover What Reading for Pleasure May Be Doing to Your Brain - SciTechDaily",
-      "description": "Reading for pleasure may offer surprising benefits for the brain, with research linking the habit to better mental health, stronger cognitive abilities, and a lower risk of dementia.",
-      "url": "https://scitechdaily.com/researchers-discover-what-reading-for-pleasure-may-be-doing-to-your-brain/",
-      "urlToImage": null,
-      "publishedAt": "2026-10-20T00:37:11Z",
-      "content": "From classic novels to graphic novels, reading offers countless ways to explore new ideas, perspectives, and experiences. As recreational reading declines among younger generations, researchers are t… [+6744 chars]"
-    },
-    {
-      "source": {
         "id": "buzzfeed",
         "name": "Buzzfeed"
       },
       "author": "Krista Torres",
-      "title": "People Are Sharing Wild Things About The Human Body That Most People Don't Know - Yahoo",
+      "title": "\"When My Mom Had Her Varicose Veins Removed She Said They Pulled Em Out Like A Spaghetti Noodle 😩\": People Are Sharing Wild Things About The Human Body That Most People Don't Know, And They're So Unsettling They're Going Viral - BuzzFeed",
       "description": "\"Made a post about how teeth aren’t bones. That one made people real mad. But hey, teeth aren’t bones.\"",
-      "url": "https://www.buzzfeed.com/kristatorres/bizarre-human-body-facts-threads?origin=bf-yahoo",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/6292dc5a500e6662daff854a52f9c28d80628818209318481926e044929c8e15/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbuzzfeed_articles_778%2F21afb14bacc608eb1618c4399910722d.jpg",
+      "url": "https://www.buzzfeed.com/kristatorres/bizarre-human-body-facts-threads",
+      "urlToImage": "https://img.buzzfeed.com/buzzfeed-static/static/2026-10/19/20/thumb/lOSNpVvNp.jpg?crop=1250:654;0,176%26downsize=1250:*",
       "publishedAt": "2026-10-19T23:38:11Z",
-      "content": "You can't always believe everything you read on the internet.\r\nBut that doesn't mean some of the most bizarre-sounding claims aren't true. For example, this:\r\nSo, when Threads user @shellyybabyy rece… [+4729 chars]"
+      "content": "by Krista TorresBuzzFeed\r\nBuzzFeed StaffAs a Senior Writer and Content Creator for BuzzFeed and Tasty, I specialize in lifestyle reporting, viral human-interest stories, and travel/food media."
     },
     {
       "source": {
@@ -495,19 +547,6 @@
       "urlToImage": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/10/19/9d5095c3-0737-4788-961d-ab8c0d1d9b64_63791f2c.jpg?itok=7ywZGopv&v=1792405744",
       "publishedAt": "2026-10-19T23:15:05Z",
       "content": "The disease, which weakens bones by making them thinner, less dense and more likely to break, advances slowly and silently, says Dr Edith Lau, founding president of the Asian Pacific Osteoporosis Fou… [+382 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Medical Xpress"
-      },
-      "author": null,
-      "title": "DNA once dismissed as 'noise' reveals new bacterial species in prostate cancer patients - Medical Xpress",
-      "description": "University of East Anglia researchers have discovered the genetic blueprints of 18 new bacterial species collected from prostate cancer patients.",
-      "url": "https://medicalxpress.com/news/2026-10-dna-dismissed-noise-reveals-bacterial.html",
-      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2019/5-bacteria.jpg",
-      "publishedAt": "2026-10-19T23:00:06Z",
-      "content": "University of East Anglia researchers have discovered the genetic blueprints of 18 new bacterial species collected from prostate cancer patients.\r\nMost came from the mouth, including new types of Por… [+9573 chars]"
     },
     {
       "source": {
@@ -560,19 +599,6 @@
       "urlToImage": "https://hips.hearstapps.com/hmg-prod/images/8cc85fd8-b7f6-44f1-a06f-9ee19a9315b9.jpeg?crop=1xw:0.75xh;0xw,0.032xh&resize=1200:*",
       "publishedAt": "2026-10-19T16:34:51Z",
       "content": "Whether you ate an early dinner or just crave a little something sweet before bed, weve all been known to engage in some after-dinner grazing. But the findings from a new study in Clinical Gastroente… [+5512 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "KING5.com"
-      },
-      "author": "KING5.com",
-      "title": "Bird flu detected in Washington dairy cattle for first time, with 1 human case reported - KING5.com",
-      "description": null,
-      "url": "https://www.king5.com/article/news/health/bird-flu-washington-dairy-cattle-first-time-human-case-reported/281-1ef6fe33-3859-470c-afc9-26602d551ac4",
-      "urlToImage": null,
-      "publishedAt": "2026-10-19T16:09:00Z",
-      "content": null
     },
     {
       "source": {
@@ -642,19 +668,6 @@
     {
       "source": {
         "id": null,
-        "name": "Eatingwell.com"
-      },
-      "author": "https://www.facebook.com/EatingWell/",
-      "title": "The #1 Snack to Eat During Cancer Treatment to Soothe an Upset Stomach - EatingWell",
-      "description": "Oncology dietitians share a protein-rich snack to try during cancer treatment, plus tips for managing nausea and getting enough nutrition.",
-      "url": "https://www.eatingwell.com/the-best-snack-to-eat-during-cancer-treatment-12175061",
-      "urlToImage": "https://www.eatingwell.com/thmb/6tyi2MH-SpJaFKUl2GoDR9i1TRc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/The-1-Snack-to-Eat-During-Cancer-Treatment-to-Soothe-an-Upset-Stomach-39a8fb3f0a4f47e1bbe24d9decbeda00.jpg",
-      "publishedAt": "2026-10-19T13:30:00Z",
-      "content": "Cancer treatment can cause a number of unpleasant side effects, with an upset stomach being one of the most common. Thats because chemotherapy not only attacks cancer cells but also other rapidly div… [+6258 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "POLITICO.eu"
       },
       "author": "Claudia Chiappa",
@@ -706,19 +719,6 @@
     },
     {
       "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "author": "Jan Hoffman and Erin Schaff",
-      "title": "At a Last-Hope Health Clinic, Desperation, Kindness and Fear for What’s Next",
-      "description": "These doctors and community health workers are a safety net for patients losing coverage as premiums soar and Medicaid cuts mount, even as their clinic struggles to stay afloat.",
-      "url": "https://www.nytimes.com/2026/10/19/us/idaho-health-clinic-medicaid.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/10/05/multimedia/00dc-IdahoHealth-lfbw/00dc-IdahoHealth-lfbw-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-10-19T09:01:35Z",
-      "content": "These doctors and community health workers are a safety net for patients losing coverage as premiums soar and Medicaid cuts mount, even as their clinic struggles to stay afloat."
-    },
-    {
-      "source": {
         "id": null,
         "name": "Medscape"
       },
@@ -729,19 +729,6 @@
       "urlToImage": "https://img.medscapestatic.com/vim/live/professional_assets/medscape/images/thumbnail_library/gty-261016-100-years-old-elderly-800x450.jpg",
       "publishedAt": "2026-10-19T07:00:42Z",
       "content": "Some people reach 100 without developing the diseases that kill most of us. Whether they pass that resistance to their children has been an open question for two decades, mostly because the studies d… [+12276 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "BBC News"
-      },
-      "author": null,
-      "title": "'We didn't know a cold sore could kill a baby' - BBC",
-      "description": "Ben Brookes and Meg Edmonds want to raise awareness of HSV after losing their daughter.",
-      "url": "https://www.bbc.com/news/articles/c6x2we04jnvpo",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/48ec/live/ed6bf6a0-cbb9-11f1-9a39-31b474234113.jpg",
-      "publishedAt": "2026-10-19T05:13:35Z",
-      "content": "\"But I'd never ever seen anything about cold sores, HSV, neonatal herpes, nothing, and it's only since that I've found so much out that I just wish I'd known before.\""
     },
     {
       "source": {
@@ -969,13 +956,13 @@
         "id": null,
         "name": "KTLA Los Angeles"
       },
-      "author": "KTLA",
+      "author": "Jocelyn Fiset",
       "title": "Jackie the Big Bear bald eagle’s cause of death revealed in necropsy - KTLA",
-      "description": null,
+      "description": "Necropsy results released Wednesday provided long-awaited answers about the illness that led to the death of Jackie the beloved Big Bear bald eagle following weeks of intensive medical care. Jackie became one of the most recognizable bald eagles in North Amer…",
       "url": "https://ktla.com/news/california/jackie-big-bear-bald-eagle-necropsy-results/",
-      "urlToImage": null,
+      "urlToImage": "https://ktla.com/wp-content/uploads/sites/4/2026/10/jackie-bald-eagle-fobbv.jpg?w=1280",
       "publishedAt": "2026-10-15T15:46:35Z",
-      "content": null
+      "content": "Necropsy results released Wednesday provided long-awaited answers about the illness that led to the death of Jackie the beloved Big Bear bald eagle following weeks of intensive medical care.\r\nJackie … [+6396 chars]"
     },
     {
       "source": {
@@ -989,6 +976,19 @@
       "urlToImage": "https://static01.nyt.com/images/2026/10/20/multimedia/15SCI-INSIDE-PLAGUE-LAB-01-hfwt/15SCI-INSIDE-PLAGUE-LAB-01-hfwt-mediumSquareAt3X.jpg",
       "publishedAt": "2026-10-15T14:12:01Z",
       "content": "A Russian researcher, who died from an unknown illness, worked at a remote anti-plague facility. Few foreigners have visited these labs, which dot the former Soviet states, and are shrouded in secrecy."
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Abcnews.com"
+      },
+      "author": "ABC News - Breaking News, Latest News and Videos",
+      "title": "New FDA-cleared AI tool could help predict if breast cancer will return - ABC News - Breaking News, Latest News and Videos",
+      "description": null,
+      "url": "https://abcnews.com/GMA/Wellness/new-fda-cleared-ai-tool-predict-breast-cancer/story?id\\\\u003d137268417",
+      "urlToImage": null,
+      "publishedAt": "2026-10-15T12:13:26Z",
+      "content": null
     },
     {
       "source": {
@@ -1028,32 +1028,6 @@
       "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_social_share_1200x630_center,f_auto,q_auto:best/rockcms/2026-10/rachna-shroff-death-cancer-01-mh-10132026-31f578.jpg",
       "publishedAt": "2026-10-14T17:17:59Z",
       "content": "Dr. Rachna Shroff, a physician-scientist who spent much of her career researching treatments for gastrointestinal cancers, has died at the age of 47. She briefly battled an aggressive form of the dis… [+3541 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ScienceAlert"
-      },
-      "author": "Jess Cockerill",
-      "title": "Ovaries Develop an Intriguing Second Role After Menopause - ScienceAlert",
-      "description": "Menopause has long been thought of as a terminal moment for the female reproductive system, when ovaries stop releasing eggs and presumably call it a day.",
-      "url": "https://www.sciencealert.com/ovaries-develop-an-intriguing-second-role-after-menopause",
-      "urlToImage": "https://www.sciencealert.com/images/2026/10/GettyImages-687786413-2560x1440-2.jpg",
-      "publishedAt": "2026-10-14T05:00:36Z",
-      "content": "Menopause has long been thought of as a terminal moment for the female reproductive system, when ovaries stop releasing eggs and presumably call it a day.\r\nBut this simplified image of ovarian retire… [+4066 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Science Daily"
-      },
-      "author": null,
-      "title": "New knee arthritis treatment delivers lasting pain relief without surgery - Science Daily",
-      "description": "A promising new treatment for knee arthritis uses tiny, dissolvable particles to block abnormal blood vessels, easing inflammation and pain without joint replacement surgery. In a study of 194 patients, 80% experienced clinically meaningful pain relief lastin…",
-      "url": "https://www.sciencedaily.com/releases/2026/10/261013234801.htm",
-      "urlToImage": "https://www.sciencedaily.com/images/1920/arthritic-knee-joint-pain-inflammation-x-ray.webp",
-      "publishedAt": "2026-10-14T04:42:27Z",
-      "content": "A minimally invasive procedure that targets abnormal blood vessels in the knee could provide lasting relief for people struggling with osteoarthritis, offering a potential alternative to joint replac… [+14034 chars]"
     }
   ]
 }

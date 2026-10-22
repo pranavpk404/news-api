@@ -1,7 +1,33 @@
 {
   "status": "ok",
-  "totalResults": 87,
+  "totalResults": 85,
   "articles": [
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Christina Jewett",
+      "title": "Key Trump Health Adviser Resigns Ahead of Midterm Elections",
+      "description": "Calley Means, who helped unite Robert F. Kennedy Jr. and President Trump, pushed food reforms but grew frustrated with stalled progress on the MAHA agenda.",
+      "url": "https://www.nytimes.com/2026/10/22/us/politics/calley-means-resigns-rfk-trump.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/10/22/multimedia/22dc-means-mkpj/22dc-means-mkpj-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-10-22T18:34:04Z",
+      "content": "Calley Means, who helped unite Robert F. Kennedy Jr. and President Trump, pushed food reforms but grew frustrated with stalled progress on the MAHA agenda."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Scott Dance",
+      "title": "Trump Ties Disaster Aid to Votes as Midterm Fight Heats Up",
+      "description": "President Trump and Vice President JD Vance have dangled FEMA money to disaster-struck states during recent campaign rallies.",
+      "url": "https://www.nytimes.com/2026/10/21/climate/disaster-aid-politics-trump-north-carolina.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/10/21/multimedia/00cli-disaster-politics-01-btvg/00cli-disaster-politics-01-btvg-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-10-22T17:33:24Z",
+      "content": "President Trump and Vice President JD Vance have dangled FEMA money to disaster-struck states during recent campaign rallies."
+    },
     {
       "source": {
         "id": "the-new-york-times",
@@ -95,16 +121,16 @@
     },
     {
       "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
+        "id": null,
+        "name": "Nature.com"
       },
-      "author": "Scott Dance",
-      "title": "Trump Ties Disaster Aid to Votes as Midterm Fight Heats Up",
-      "description": "President Trump and Vice President JD Vance have dangled FEMA money to disaster-struck states during recent campaign rallies.",
-      "url": "https://www.nytimes.com/2026/10/21/climate/disaster-aid-politics-trump-north-carolina.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/10/21/multimedia/00cli-disaster-politics-01-btvg/00cli-disaster-politics-01-btvg-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-10-21T19:29:56Z",
-      "content": "President Trump and Vice President JD Vance have dangled FEMA money to disaster-struck states during recent campaign rallies."
+      "author": null,
+      "title": "A single antimatter particle in a cage opens door to ‘revolutionary’ physics - Nature",
+      "description": "Physicists trap and cool down positron for months to measure its ‘magnetic moment’ with extraordinary precision.",
+      "url": "https://www.nature.com/articles/d41586-026-03342-2",
+      "urlToImage": "https://media.nature.com/lw1200/magazine-assets/d41586-026-03342-2/d41586-026-03342-2_53887176.jpg",
+      "publishedAt": "2026-10-21T19:03:08Z",
+      "content": "The researchers devised a one-positron quantum cyclotron to probe the particle's properties.Credit: Gerald Gabrielse/Northwestern University\r\nPhysicists have now suspended a single positron the antim… [+2704 chars]"
     },
     {
       "source": {
@@ -134,6 +160,45 @@
     },
     {
       "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Passant Rabie",
+      "title": "Astronomers Pointed Webb at an Empty Spot in Space. Something 'Highly Unusual' Flashed Back - Gizmodo",
+      "description": "Its origin remains unknown.",
+      "url": "https://gizmodo.com/astronomers-pointed-webb-at-an-empty-spot-in-space-something-highly-unusual-shone-back-2000828848",
+      "urlToImage": "https://gizmodo.com/app/uploads/2026/10/mysterious_signal-1200x675.jpg",
+      "publishedAt": "2026-10-21T18:25:03Z",
+      "content": "A team of astronomers scouring the distant universe for ancient objects that formed shortly after the Big Bang stumbled upon an unexpected discovery: a single emission line coming from an unidentifie… [+3231 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Phys.Org"
+      },
+      "author": "Ingrid Fadelli",
+      "title": "Giant Jurassic fossil sheds light on the evolution of a six-legged predator - Phys.org",
+      "description": "Insects belong to a broader group of six-legged animals called hexapods. This group also includes other less well-known, small animals, including diplurans or two-pronged bristletails, wingless relatives of insects with two rear projections called cerci that …",
+      "url": "https://phys.org/news/2026-10-giant-jurassic-fossil-evolution-legged.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/giant-jurassic-fossil-1.jpg",
+      "publishedAt": "2026-10-21T14:00:01Z",
+      "content": "Insects belong to a broader group of six-legged animals called hexapods. This group also includes other less well-known, small animals, including diplurans or two-pronged bristletails, wingless relat… [+6192 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Space.com"
+      },
+      "author": "Josh Dinner",
+      "title": "When will SpaceX and Blue Origin fly to the moon? NASA reveals lunar lander timelines (and an Artemis III update) - Space",
+      "description": "If NASA's timeline holds, there are going to be some exciting launches over the next 12 months.",
+      "url": "https://www.space.com/space-exploration/artemis/when-will-spacex-and-blue-origin-fly-to-the-moon-nasa-reveals-lunar-lander-timelines-and-an-artemis-iii-update",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/ySjXaUojZJ8Piuq3edDhbn-2241-80.webp",
+      "publishedAt": "2026-10-21T13:00:00Z",
+      "content": null
+    },
+    {
+      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -144,6 +209,19 @@
       "urlToImage": "https://static01.nyt.com/images/2026/09/14/science/14SCI-KETAMINE-FDA/14SCI-KETAMINE-FDA-mediumSquareAt3X.jpg",
       "publishedAt": "2026-10-21T12:41:58Z",
       "content": "Spurred on by the Trump administration’s embrace of psychedelic medicine, researchers are experimenting with new — and not so new — forms of the anesthetic."
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Space.com"
+      },
+      "author": "Anthony Wood",
+      "title": "Orionid meteor shower peaks tonight: Here's the best time to spot shooting stars - Space",
+      "description": "The Orionid meteor shower peaks tonight (Oct. 21-22) in the light of a waxing moon. Here's what to expect from one of Autumn's greatest natural light shows.",
+      "url": "https://www.space.com/stargazing/meteor-showers/orionid-meteor-shower-peaks-oct-21-22-2026-heres-the-best-time-to-spot-shooting-stars",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/kgXg2AeS2DcyNUkHJsyx8-2000-80.jpg",
+      "publishedAt": "2026-10-21T12:00:00Z",
+      "content": null
     },
     {
       "source": {
@@ -160,19 +238,6 @@
     },
     {
       "source": {
-        "id": "cnn",
-        "name": "CNN"
-      },
-      "author": "Ashley Strickland",
-      "title": "Early birds will have the best chance to see the Orionid meteor shower - CNN",
-      "description": "October’s Orionid meteor shower is an annual favorite for sky-gazers, but it may face competition from the bright moon. Here’s how to see it.",
-      "url": "https://www.cnn.com/2026/10/21/science/orionid-meteor-shower",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/shutterstock-editorial-15571921a.jpg?c=16x9&q=w_800,c_fill",
-      "publishedAt": "2026-10-21T10:00:47Z",
-      "content": "The Orionid meteor shower creates one of the most brilliant displays in the night sky each fall but this years celestial event may have a dimmer showing due to a bright moon.\r\nUnlike the recent Draco… [+2586 chars]"
-    },
-    {
-      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -183,6 +248,19 @@
       "urlToImage": "https://static01.nyt.com/images/2026/10/21/science/21SCI-ORIONIDS/21SCI-ORIONIDS-mediumSquareAt3X.jpg",
       "publishedAt": "2026-10-21T09:00:05Z",
       "content": "It’s a fall favorite among stargazers, known for bright, speedy streaks that can sometimes linger in the sky for minutes."
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Weather Network"
+      },
+      "author": "Scott Sutherland",
+      "title": "Antarctica's Doomsday Glacier is melting twice as fast as we previously thought - The Weather Network",
+      "description": "Already considered one of the biggest climate threats in the world, the melting of Thwaites glacier is much worse that we thought.",
+      "url": "https://www.theweathernetwork.com/en/news/climate/impacts/antarctica-thwaites-doomsday-glacier-sea-level-rise-doubles-in-new-study",
+      "urlToImage": "https://images.twnmm.com/c55i45ef3o2a/5Rp058I4CEzjQ6qIpwMRJQ/aec85063c0d2c72c81e73a46780b0274/Thwaites-Glacier-NASA-OIB-Jeremy-Harbeck.jpg?fm=jpg&q=80",
+      "publishedAt": "2026-10-21T08:03:49Z",
+      "content": "The collapse of Antarctica's Thwaites Glacier is already a major concern as the world continues to warm, but new research has revealed that ocean water is eating away at the underside of the glacier … [+4868 chars]"
     },
     {
       "source": {
@@ -235,6 +313,32 @@
       "urlToImage": "https://www.sciencealert.com/images/2026/10/image-38-1200x675.png",
       "publishedAt": "2026-10-21T02:01:17Z",
       "content": "To us mortals, the flow of time goes one way.\r\nYesterday is gone, tomorrow is yet to come, and no matter how precisely and faithfully a clock marks the passing seconds, we can never return to a momen… [+8270 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Phys.Org"
+      },
+      "author": null,
+      "title": "Forgotten samples from Greenland's Cold War base reveal warmer summers during ancient ice-free period - Phys.org",
+      "description": "The site of a former U.S. military base in Greenland was ice-free at a time when summers were a few degrees warmer than today, according to a new University at Buffalo–led study of ancient sediment recovered from beneath the site in the 1960s.",
+      "url": "https://phys.org/news/2026-10-forgotten-samples-greenland-cold-war.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/vegetation-is-seen-in.jpg",
+      "publishedAt": "2026-10-20T23:40:01Z",
+      "content": "The site of a former U.S. military base in Greenland was ice-free at a time when summers were a few degrees warmer than today, according to a new University at Buffaloled study of ancient sediment re… [+5661 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "SciTechDaily"
+      },
+      "author": null,
+      "title": "NASA’s Roman Space Telescope Is Sharper Than Anyone Expected - SciTechDaily",
+      "description": "NASA’s Roman Space Telescope has achieved nearly 30% better optical performance than required, promising stunningly sharp views of the universe and its greatest mysteries.",
+      "url": "https://scitechdaily.com/nasas-roman-space-telescope-is-sharper-than-anyone-expected/",
+      "urlToImage": null,
+      "publishedAt": "2026-10-20T23:25:14Z",
+      "content": "NASAs Nancy Grace Roman Space Telescope is already exceeding expectations after engineers made incredibly precise adjustments to sharpen its view of the universe. Credit: NASA’s Goddard Space Flight … [+6997 chars]"
     },
     {
       "source": {
@@ -304,6 +408,19 @@
     {
       "source": {
         "id": null,
+        "name": "Live Science"
+      },
+      "author": "Ivan Farkas",
+      "title": "James Webb telescope discovers a 12.5 billion-year-old supernova erupting near the dawn of time - Live Science",
+      "description": "Astronomers using the James Webb Space Telescope may have discovered a supernova erupting just 1.1 billion years after the Big Bang.",
+      "url": "https://www.livescience.com/space/cosmology/the-james-webb-telescope-is-watching-one-of-the-earliest-supernovas-in-the-universe-unfold",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/jptntZxmBk3y44kq5S4vRi-1920-80.jpg",
+      "publishedAt": "2026-10-20T21:24:33Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
         "name": "Phys.Org"
       },
       "author": null,
@@ -313,6 +430,19 @@
       "urlToImage": "https://scx2.b-cdn.net/gfx/news/2026/illustration-shows-bac.jpg",
       "publishedAt": "2026-10-20T21:20:01Z",
       "content": "New results from the STAR experiment at the Relativistic Heavy Ion Collider (RHIC) provide strong evidence that smashing oxygen nuclei together at nearly the speed of light generates a quark-gluon pl… [+10197 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Phys.Org"
+      },
+      "author": null,
+      "title": "'Smoking gun' may help solve mystery of high-temperature superconductivity - Phys.org",
+      "description": "Superconductivity has many important practical applications, including creating powerful magnets used in high-resolution medical scans, transporting electricity efficiently and building ultrasensitive measuring devices. Until now, understanding exactly what l…",
+      "url": "https://phys.org/news/2026-10-gun-mystery-high-temperature-superconductivity.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/researchers-discover-s-3.jpg",
+      "publishedAt": "2026-10-20T20:00:07Z",
+      "content": "Superconductivity has many important practical applications, including creating powerful magnets used in high-resolution medical scans, transporting electricity efficiently and building ultrasensitiv… [+6262 chars]"
     },
     {
       "source": {
@@ -368,6 +498,19 @@
     },
     {
       "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Gayoung Lee",
+      "title": "Uranus and Neptune Look Like Twins. Scientists Now Think It’s a Coincidence - Gizmodo",
+      "description": "“Uranus and Neptune may resemble twins today, but their chemistry is telling us that they are more like cousins with very different histories.”",
+      "url": "https://gizmodo.com/uranus-and-neptune-look-like-twins-scientists-now-think-its-a-coincidence-2000828216",
+      "urlToImage": "https://gizmodo.com/app/uploads/2026/10/uranus-neptune-dynamic-atmosphere-hubble-1200x675.jpg",
+      "publishedAt": "2026-10-20T16:55:54Z",
+      "content": "Despite the iconic documentary, Uranus and Neptune are arguably the real blue planets in our solar system. And their visual similarities in part convinced astronomers that they were evolutionary and … [+4204 chars]"
+    },
+    {
+      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -382,6 +525,19 @@
     {
       "source": {
         "id": null,
+        "name": "Teslarati"
+      },
+      "author": "Gene",
+      "title": "SpaceX just launched its secret Starfall saucer again - Teslarati",
+      "description": "SpaceX launched its Starfall capsule again on Bandwagon-5, this time listed openly beside rideshare customers.",
+      "url": "https://www.teslarati.com/spacex-starfall-capsule-launch-bandwagon-5/",
+      "urlToImage": "https://www.teslarati.com/wp-content/uploads/2026/10/spacex-starfall-capsule-1000x600.jpg",
+      "publishedAt": "2026-10-20T16:16:08Z",
+      "content": "SpaceX gave its clearest look yet at how it plans to catch a Starship upper stage, playing a roughly 80 second animation of the maneuver during its third quarter earnings webcast on Tuesday. The clip… [+3064 chars]"
+    },
+    {
+      "source": {
+        "id": null,
         "name": "Hackaday"
       },
       "author": "Navarre Bartz",
@@ -391,19 +547,6 @@
       "urlToImage": "https://hackaday.com/wp-content/uploads/2026/10/Screenshot-2026-10-19-at-12.14.20-PM.png",
       "publishedAt": "2026-10-20T15:30:00Z",
       "content": "Coral bleaching is a major problem for ocean ecosystems as the ocean gets warmer. Researchers at Stanford have found a new method for regenerating bleached corals.\r\nScientists working on coral found … [+1008 chars]"
-    },
-    {
-      "source": {
-        "id": "national-geographic",
-        "name": "National Geographic"
-      },
-      "author": null,
-      "title": "Sunbathing | Nat Geo Photo of the Day - National Geographic",
-      "description": "An American alligator (Alligator mississippiensis) lies on a log amongst ancient water tupelos (Nyssa aquatica) in the Beidler Forest in Harleyville, South Carolina. Light barely penetrates beneath the dense canopy of the old growth forest, but ectotherms lik…",
-      "url": "https://www.nationalgeographic.com/photo-of-the-day/media-spotlight/american-alligator-water-tupelos-south-carolina",
-      "urlToImage": "https://i.natgeofe.com/n/1309b5a7-5a49-4b77-88d2-bd92004fe659/MacStone-23.JPG",
-      "publishedAt": "2026-10-20T15:21:13Z",
-      "content": null
     },
     {
       "source": {
@@ -430,6 +573,19 @@
       "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/peat-bogs-the-natural.jpg",
       "publishedAt": "2026-10-20T14:20:12Z",
       "content": "For thousands of years, humans shaped their world with stone, wood and bone. Metallurgy, the art and science of working with metals such as copper, bronze and iron, marked a turning point in human hi… [+6077 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Defector.com"
+      },
+      "author": "Barry Petchesky",
+      "title": "I Love The Colorful Stars - Defector",
+      "description": "A Weird Star is a classic place-setter in fiction. Put a Weird Star in the sky, even if it never has anything to do with the plot, and you know we’re somewhere different and alien. Anything that’s clearly not our Sun, and you’re cooking with gas. Maybe it’s a…",
+      "url": "https://defector.com/i-love-the-colorful-stars",
+      "urlToImage": "https://lede-admin.defector.com/wp-content/uploads/sites/28/2026/10/wd_colours_final_credit_mark-hollands_university-of-warwick.jpeg",
+      "publishedAt": "2026-10-20T14:17:00Z",
+      "content": "A Weird Star is a classic place-setter in fiction. Put a Weird Star in the sky, even if it never has anything to do with the plot, and you know we're somewhere different and alien. Anything that's cl… [+4110 chars]"
     },
     {
       "source": {
@@ -495,19 +651,6 @@
       "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/the-sun-may-have-strip-2.jpg",
       "publishedAt": "2026-10-20T12:10:01Z",
       "content": "The interstellar comet 3I/ATLAS brought material from another planetary system within reach of our telescopes, but reading its chemistry poses a problem. Energetic particles encountered during its jo… [+5081 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Space.com"
-      },
-      "author": "Mike Wall",
-      "title": "SpaceX launches its 'Starfall' return capsule for 2nd time ever - Space",
-      "description": "Starfall went up today (Oct. 20) on SpaceX's Bandwagon-5 rideshare mission.",
-      "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starfall-return-capsule-launch-bandwagon-5-rideshare-mission",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/357C7FjvMFXnP6krGTgWxH-1582-80.png",
-      "publishedAt": "2026-10-20T11:16:37Z",
-      "content": null
     },
     {
       "source": {
@@ -654,45 +797,6 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "Phys.Org"
-      },
-      "author": null,
-      "title": "Planetary 'twins' Uranus and Neptune may have different origin stories - Phys.org",
-      "description": "By indirectly probing the depths of Uranus and Neptune's atmospheres, an international team of scientists has revealed a significant contrast in their chemical composition. Neptune appears to be more enriched in oxygen than Uranus. These results suggest that …",
-      "url": "https://phys.org/news/2026-10-planetary-twins-uranus-neptune-stories.html",
-      "urlToImage": "https://scx2.b-cdn.net/gfx/news/2026/uranus-and-neptune-may.jpg",
-      "publishedAt": "2026-10-19T22:40:06Z",
-      "content": "By indirectly probing the depths of Uranus and Neptune's atmospheres, an international team of scientists has revealed a significant contrast in their chemical composition. Neptune appears to be more… [+4034 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "WTOL"
-      },
-      "author": "WTOL",
-      "title": "Trash drone tackles pollution in northwest Ohio waterways - WTOL",
-      "description": null,
-      "url": "https://www.wtol.com/article/tech/science/environment/trash-drone-tackles-northwest-ohio-waterway-pollution/512-6210ec6f-b2cb-423a-9aca-18b2d771ba56",
-      "urlToImage": null,
-      "publishedAt": "2026-10-19T22:21:00Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CBM (Comic Book Movie)"
-      },
-      "author": "GBest",
-      "title": "Green Lantern Fans, Astronomers Have Found A Real Green Star And It Is Powered By Destroyed Planets - ComicBookMovie.com",
-      "description": "Green Lantern Fans, Astronomers Have Found A Real Green Star And It Is Powered By Destroyed Planets",
-      "url": "https://comicbookmovie.com/green-lantern/green-lantern-fans-astronomers-have-found-a-real-green-star-and-it-is-powered-by-destroyed-planets-a230505",
-      "urlToImage": "https://comicbookmovie.com/images/articles/banners/green-lantern-fans-astronomers-have-found-a-real-green-star-and-it-is-powered-by-destroyed-planets-ab230505.jpg",
-      "publishedAt": "2026-10-19T21:10:00Z",
-      "content": "In brightest day, in blackest night, there is now a real green star. Astronomers at the University of Warwick have identified the first known star that would glow green to human eyes, and it is hard … [+3640 chars]"
-    },
-    {
-      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -703,32 +807,6 @@
       "urlToImage": "https://static01.nyt.com/images/2026/10/19/multimedia/19sci-mars-moons1-mbjw/19sci-mars-moons1-mbjw-mediumSquareAt3X.jpg",
       "publishedAt": "2026-10-19T20:41:50Z",
       "content": "The mission, which launched on Monday, is headed to Phobos, the larger of the two moons of Mars. It could carry back the first samples from the Martian system."
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Phys.Org"
-      },
-      "author": null,
-      "title": "Cosmic 'hamburger' offers rare edge-on view of where giant planets may take shape - Phys.org",
-      "description": "Astronomers using the Atacama Large Millimeter/submillimeter Array (ALMA) were surprised to discover the earliest phases of giant planet formation between the dense layers of gas and dust in the \"Gomez's Hamburger\" system, referred to as GoHam.",
-      "url": "https://phys.org/news/2026-10-cosmic-hamburger-rare-edge-view.html",
-      "urlToImage": "https://scx2.b-cdn.net/gfx/news/2026/cosmic-hamburger-has-t.jpg",
-      "publishedAt": "2026-10-19T20:20:01Z",
-      "content": "Astronomers using the Atacama Large Millimeter/submillimeter Array (ALMA) were surprised to discover the earliest phases of giant planet formation between the dense layers of gas and dust in the \"Gom… [+4486 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Phys.Org"
-      },
-      "author": null,
-      "title": "Webb reveals metal-rich gas around Milky Way's central black hole - Phys.org",
-      "description": "The gas orbiting Sagittarius A (Sgr A*), the supermassive black hole at the center of the Milky Way galaxy, is rich in metals, researchers at McGill University's Trottier Space Institute have found. The metal enrichment probably resulted from stars that explo…",
-      "url": "https://phys.org/news/2026-10-webb-reveals-metal-rich-gas.html",
-      "urlToImage": "https://scx2.b-cdn.net/gfx/news/2026/a-swirling-vortex-of-h.jpg",
-      "publishedAt": "2026-10-19T20:00:15Z",
-      "content": "The gas orbiting Sagittarius A (Sgr A*), the supermassive black hole at the center of the Milky Way galaxy, is rich in metals, researchers at McGill University's Trottier Space Institute have found. … [+3678 chars]"
     },
     {
       "source": {
@@ -771,19 +849,6 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "Phys.Org"
-      },
-      "author": null,
-      "title": "Euclid discovers its first new comet 810 million miles from Earth - Phys.org",
-      "description": "The European Space Agency's Euclid space telescope has discovered its first previously unknown comet in images taken between Sept. 16 and 24, 2026.",
-      "url": "https://phys.org/news/2026-10-euclid-comet-million-miles-earth.html",
-      "urlToImage": "https://scx2.b-cdn.net/gfx/news/2026/euclid-discovers-new-c.jpg",
-      "publishedAt": "2026-10-19T17:20:01Z",
-      "content": "The European Space Agency's Euclid space telescope has discovered its first previously unknown comet in images taken between Sept. 16 and 24, 2026.\r\nThe discovery is impressive for a mission that is … [+3656 chars]"
-    },
-    {
-      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -798,15 +863,15 @@
     {
       "source": {
         "id": null,
-        "name": "Defector.com"
+        "name": "Popular Science"
       },
-      "author": "Sabrina Imbler",
-      "title": "Rolling Snakes Reinvent The Wheel - Defector",
-      "description": "For eons, roly-polies have rightfully dominated the rolling space, at least in our imagination. The crustaceans’ astonishing ability to transform from a legged arthropod into a perfect sphere, a behavior called volvation, earned the bugs their nickname. But t…",
-      "url": "https://defector.com/rolling-snakes-reinvent-the-wheel",
-      "urlToImage": "https://lede-admin.defector.com/wp-content/uploads/sites/28/2026/10/wheel-snake.gif",
-      "publishedAt": "2026-10-19T15:39:00Z",
-      "content": "For eons, roly-polies have rightfully dominated the rolling space, at least in our imagination. The crustaceans' astonishing ability to transform from a legged arthropod into a perfect sphere, a beha… [+6623 chars]"
+      "author": "Andrew Paul",
+      "title": "This snake cartwheels to escape danger - Yahoo",
+      "description": "Watch a dwarf reed snake make its dizzying getaway in slow-motion.",
+      "url": "https://www.popsci.com/environment/dwarf-reed-snake-rolling-video/",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/7ac06f05523af4b765ba25b13b5625b4ed9f4d79988f02bf5a0467e9f829a357/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpopular_science_109%2F81cb38a5d72698cb0b18e6a464d2cea3.png",
+      "publishedAt": "2026-10-19T15:00:00Z",
+      "content": "Snakes will bite, rattle their tails, and even spit venom to escape danger. But of all the world's species, southeast Asia's dwarf reed snake (Pseudorabdion longiceps) relies on an especially fascina… [+1979 chars]"
     },
     {
       "source": {
@@ -840,7 +905,7 @@
         "name": "Theregister.com"
       },
       "author": "Brandon Vigliarolo",
-      "title": "In space, 'We've gone from exploration to exploitation,' says original Voyager team member - The Register",
+      "title": "Original Voyager team member talks to us about the astonishing scientific info the 50-year-old probe gathered - The Register",
       "description": "Voyager imaging team member Dr. Garry Hunt joins The Reg's Kettle podcast to talk about his role in the mission as probe approaches one light day's distance from Earth",
       "url": "https://www.theregister.com/offbeat/2026/10/19/in-space-weve-gone-from-exploration-to-exploitation-says-original-voyager-team-member/5303632",
       "urlToImage": "https://image.theregister.com/249462.jpg?imageId=249462&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
@@ -872,19 +937,6 @@
       "urlToImage": "https://static01.nyt.com/images/2020/05/15/insider/19xp-earhart-wwk-top/merlin_153558765_214636da-aed5-433e-93cd-c6001de8ab5e-mediumSquareAt3X.jpg",
       "publishedAt": "2026-10-19T10:47:20Z",
       "content": "A satellite image sent researchers to a remote Pacific atoll, but their findings brought no resolution to the decades-old search. Here’s what to know."
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Thetransmitter.org"
-      },
-      "author": "Bence Ölveczky",
-      "title": "What to do when traditional mechanistic approaches no longer work - The Transmitter",
-      "description": "Many complex behaviors have stubbornly resisted mechanistic explanations. Deciphering them will require new approaches—and perhaps a new concept of “understanding.”",
-      "url": "https://www.thetransmitter.org/methods/what-to-do-when-traditional-mechanistic-approaches-no-longer-work/",
-      "urlToImage": "https://www.thetransmitter.org/wp-content/uploads/2026/10/cropped-Brain-Mechanisms-525.png",
-      "publishedAt": "2026-10-19T04:00:31Z",
-      "content": "Our worldview is mechanistic, so naturally we want our explanations to be too. That’s why, when faced with a complex system such as the brain, we break it down into parts and build understanding by a… [+4686 chars]"
     },
     {
       "source": {
@@ -940,19 +992,6 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "Science Daily"
-      },
-      "author": null,
-      "title": "Scientists who discovered a third form of magnetism win major physics prize - Science Daily",
-      "description": "Physicists have uncovered a hidden third form of magnetism that challenges more than 100 years of established physics. Called altermagnetism, the discovery could transform future computing and electronics while opening an entirely new frontier in quantum rese…",
-      "url": "https://www.sciencedaily.com/releases/2026/10/261017230035.htm",
-      "urlToImage": "https://www.sciencedaily.com/images/1920/altermagnetic-crystal.webp",
-      "publishedAt": "2026-10-18T09:43:43Z",
-      "content": "Scientists have uncovered a previously unknown form of magnetism, overturning an understanding of magnetic behavior that had stood for more than a century. The discovery, known as altermagnetism, has… [+7266 chars]"
-    },
-    {
-      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -976,19 +1015,6 @@
       "urlToImage": "https://s.yimg.com/lo/mysterio/api/8419c51dbcad0fe00782432a0e400eb2ac80d6e7342aed8d065646325b04d4a9/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ffodmap_everyday_588%2Fe7ecc15a194441a3a4b25a29bce6c81a.jpg",
       "publishedAt": "2026-10-17T14:03:13Z",
       "content": "Scientists have developed a new way to coat mitochondria, the tiny structures that power our cells, while preserving much of their function.\r\nResearchers at two Italian institutions found that coated… [+5142 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Futurism"
-      },
-      "author": "Victor Tangermann",
-      "title": "Scientists Puzzled as James Webb Detects Signal From Completely Empty Void in Space - Futurism",
-      "description": "Scientists used NASA's James Webb Space Telescope to hunt for new distant objects. They detected an emission line they didn't expect.",
-      "url": "https://futurism.com/future-society/scientists-puzzled-james-webb-detects-signal-empty",
-      "urlToImage": "https://futurism.com/wp-content/uploads/2026/10/scientists-puzzled-james-webb-detects-signal-empty.jpg?quality=85&w=1200",
-      "publishedAt": "2026-10-17T12:51:00Z",
-      "content": "Can’t-miss innovations from the bleeding edge of science and tech\r\nUsing the NASA’s James Webb Space Telescope, a team of researchers led by University of Minnesota astrophysicist Mason Huberty had a… [+2256 chars]"
     },
     {
       "source": {
@@ -1058,19 +1084,6 @@
     {
       "source": {
         "id": null,
-        "name": "Nature.com"
-      },
-      "author": null,
-      "title": "Unprecedented atlas explores mitochondria across the tree of life - Nature",
-      "description": "The mitoproteomes of five parasites and a plant hold medical potential — and reignite the question of just when the mitochondrion evolved.",
-      "url": "https://www.nature.com/articles/d41586-026-03195-9",
-      "urlToImage": "https://media.nature.com/lw1200/magazine-assets/d41586-026-03195-9/d41586-026-03195-9_53831462.jpg",
-      "publishedAt": "2026-10-16T12:11:00Z",
-      "content": "The protein catalogue gives a dynamic picture of the mitochondria, beyond what was known from humans and yeast. Credit: Dr David Furness/Keele University/SPL\r\nScientists have mapped in unprecedented … [+4973 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "Archaeologymag.com"
       },
       "author": "Dario Radley",
@@ -1084,54 +1097,15 @@
     {
       "source": {
         "id": null,
-        "name": "The Conversation Africa"
+        "name": "Gizmodo.com"
       },
-      "author": "Heidi Jane Allen",
-      "title": "Earth’s oldest evidence of life is written in stone – but it’s at risk of disappearing - The Conversation",
-      "description": "Despite a fossil record that spans billions of years, microbialites are surprisingly fragile.",
-      "url": "https://theconversation.com/earths-oldest-evidence-of-life-is-written-in-stone-but-its-at-risk-of-disappearing-293101",
-      "urlToImage": "https://images.theconversation.com/files/763276/original/file-20261001-50-lgjo14.JPEG?ixlib=rb-4.1.1&rect=2539%2C1%2C7786%2C3893&q=45&auto=format&w=1356&h=668&fit=crop",
-      "publishedAt": "2026-10-15T23:22:10Z",
-      "content": "Today, our planet is teeming with life, but it has not always looked the same. Long before forests reached skyward, animals walked on land, and the rise and fall of dinosaurs, our planet was shaped b… [+6252 chars]"
-    },
-    {
-      "source": {
-        "id": "cnn",
-        "name": "CNN"
-      },
-      "author": "Laura Paddison, CNN",
-      "title": "Scientists knew the Doomsday Glacier was melting. They didn’t realize how ‘aggressively’ - Yahoo",
-      "description": "The planet’s widest glacier could contribute twice as much to global sea level rise as currently projected, according to new research by glaciologists.",
-      "url": "https://www.cnn.com/2026/10/15/climate/thwaites-melt-study-doomsday-glacier",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/be1cfdec8e5eb9e4721bdbf0a27cbf954f749451a23d4686e2da2e965966aad0/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcnn_articles_875%2F637c2ca5c0ff176512624ffe0b035eab.jpg",
-      "publishedAt": "2026-10-15T16:47:16Z",
-      "content": "The planet's widest glacier is melting \"more aggressively\" than previously projected, meaning its impacts on global sea level rise could be double current estimates, according to new research by a te… [+5109 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Nature.com"
-      },
-      "author": null,
-      "title": "De novo design of cysteine proteases - Nature",
-      "description": "De novo-designed enzymes use an activated cysteine nucleophile to hydrolyse polypeptide backbones in a sequence-dependent manner.",
-      "url": "https://www.nature.com/articles/s41586-026-11143-w",
-      "urlToImage": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-11143-w/MediaObjects/41586_2026_11143_Fig1_HTML.png",
-      "publishedAt": "2026-10-14T22:55:28Z",
-      "content": "<li>Radzicka, A. &amp; Wolfenden, R. Rates of uncatalyzed peptide bond hydrolysis in neutral solution and the transition state affinities of proteases. J. Am. Chem. Soc.118, 61056109 (1996).\r\nArticle… [+9987 chars]"
-    },
-    {
-      "source": {
-        "id": "cbs-news",
-        "name": "CBS News"
-      },
-      "author": "Archie  Clarke",
-      "title": "New dinosaur species, a T. rex cousin that \"would have chased us,\" identified from fossil found 100 years ago - CBS News",
-      "description": "A fossil discovered 100 years ago in the U.K. has been identified as a previously unknown cousin of the T. rex, and it \"definitely would have chased us.\"",
-      "url": "https://www.cbsnews.com/news/new-dinosaur-species-invictibellatrix-amberina-fossil-overlooked-100-years/",
-      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/10/14/ceaa11fd-f103-427e-b731-f9be8a2df180/thumbnail/1200x630/231e074d55404e64d7a3f83fd42d1eeb/invictibellatrix-amberina.png",
-      "publishedAt": "2026-10-14T16:35:00Z",
-      "content": "London —  A previously unknown species of dinosaur — a \"long-clawed predator the size of a tiger\" and a cousin of the Tyrannosaurus rex — has been identified from a fossil originally found 100 years … [+2663 chars]"
+      "author": "Webb Wright",
+      "title": "Researchers Stranded an AI Agent on a Virtual Island. Things Got Very Weird. - Gizmodo",
+      "description": "A new MIT study found that when left to their own devices, AI agents will invent games, build temples, draw mandalas, and playfully investigate the world around them.",
+      "url": "https://gizmodo.com/researchers-stranded-an-ai-agent-on-a-virtual-island-things-got-very-weird-2000825998",
+      "urlToImage": "https://gizmodo.com/app/uploads/2026/10/Eko-1200x675.jpg",
+      "publishedAt": "2026-10-15T19:15:47Z",
+      "content": "Life, it seems, wants to play. Anyone who’s ever spent ten minutes with a five-year-old knows this perfectly well: very young children are masters at make-believe. And it’s not just peopleplay comes … [+10207 chars]"
     }
   ]
 }

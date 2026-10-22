@@ -6,9 +6,35 @@
     "newsapi",
     "rss"
   ],
-  "fetched_at": "2026-10-21T22:48:59.163112+00:00",
+  "fetched_at": "2026-10-22T02:00:48.742029+00:00",
   "articles_count": 89,
   "articles": [
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Eli Tan and Theodore Schleifer",
+      "title": "How Mark Zuckerberg Pushed Meta to Shield Him From California’s Proposed Wealth Tax",
+      "description": "The billionaire told Meta’s board that he planned to list his Silicon Valley home for sale. The company remade its stock structure to help him pay the tax if voters pass it.",
+      "url": "https://www.nytimes.com/2026/10/21/technology/mark-zuckerberg-meta-california-wealth-tax.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/10/21/multimedia/biz-zuckerberg-california-tpwf/biz-zuckerberg-california-tpwf-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-10-22T01:21:13Z",
+      "content": "The billionaire told Meta’s board that he planned to list his Silicon Valley home for sale. The company remade its stock structure to help him pay the tax if voters pass it."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Eli Tan and Cecilia Kang",
+      "title": "Meta Ordered to Pay $25 Billion Over Cambridge Analytica Privacy Violations",
+      "description": "The penalty, one of the largest levied against a tech giant, stemmed from a lawsuit by New Mexico claiming the social media company had misled users about their data privacy.",
+      "url": "https://www.nytimes.com/2026/10/21/technology/meta-penalty-new-mexico.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/10/01/multimedia/01biz-meta-ruling-bgvc/01biz-meta-ruling-bgvc-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-10-21T22:57:53Z",
+      "content": "The penalty, one of the largest levied against a tech giant, stemmed from a lawsuit by New Mexico claiming the social media company had misled users about their data privacy."
+    },
     {
       "source": {
         "id": "the-new-york-times",
@@ -34,19 +60,6 @@
       "urlToImage": "https://static01.nyt.com/images/2026/10/21/multimedia/21biz-meta-earnings-hfo-1-jzvc/21biz-meta-earnings-hfo-1-jzvc-mediumSquareAt3X.jpg",
       "publishedAt": "2026-10-21T22:42:39Z",
       "content": "The spending has hurt the Silicon Valley giant’s cash flow, which turned negative. Meta said it would issue a new class of stock to help it raise more money."
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "author": "Eli Tan and Cecilia Kang",
-      "title": "Meta Ordered to Pay $25 Billion Over Cambridge Analytica Privacy Violations",
-      "description": "The penalty, one of the largest levied against the tech giant, stemmed from a lawsuit by New Mexico claiming the social media company had misled users about their data privacy.",
-      "url": "https://www.nytimes.com/2026/10/21/technology/meta-penalty-new-mexico.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/10/01/multimedia/01biz-meta-ruling-bgvc/01biz-meta-ruling-bgvc-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-10-21T22:35:46Z",
-      "content": "The penalty, one of the largest levied against the tech giant, stemmed from a lawsuit by New Mexico claiming the social media company had misled users about their data privacy."
     },
     {
       "source": {
@@ -128,6 +141,19 @@
     },
     {
       "source": {
+        "id": "mashable",
+        "name": "Mashable"
+      },
+      "author": "Olivia Tauber",
+      "title": "Smart TV owners have found a new use for AI: Removing home-screen clutter - Mashable",
+      "description": "Some TV owners are asking Claude Code to clear out the junk so they can just watch their shows.",
+      "url": "https://mashable.com/tech/smart-tv-ads-claude-code-ai-cleanup",
+      "urlToImage": "https://helios-i.mashable.com/imagery/articles/025cv7tAoEhRR4j8vCxOaLH/hero-image.fill.size_1200x675.v1792435214.jpg",
+      "publishedAt": "2026-10-20T22:59:09Z",
+      "content": null
+    },
+    {
+      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -151,6 +177,45 @@
       "urlToImage": "https://static01.nyt.com/images/2026/10/20/multimedia/20biz-spacex-earnings-khqm/20biz-spacex-earnings-khqm-mediumSquareAt3X.jpg",
       "publishedAt": "2026-10-20T22:37:38Z",
       "content": "Elon Musk’s rocket company said its artificial intelligence spending had soared, but revenue more than doubled from its Starlink internet satellite service and A.I. products."
+    },
+    {
+      "source": {
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "author": "Kyle Orland",
+      "title": "Report: Microsoft's Project Helix planned for 2028 at $1,200 to $1,800 price - Ars Technica",
+      "description": "Xbox maker is also apparently planning its own gaming handheld for next year.",
+      "url": "https://arstechnica.com/gaming/2026/10/report-microsofts-project-helix-planned-for-2028-at-1200-to-1800-price/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/xbox-dominoes-1152x648.jpg",
+      "publishedAt": "2026-10-20T21:14:33Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BleepingComputer"
+      },
+      "author": "Lawrence Abrams",
+      "title": "PHP warns admins of two critical flaws, emergency patches coming tomorrow - BleepingComputer",
+      "description": "The PHP security team is warning administrators to prepare for emergency security updates tomorrow to address two critical vulnerabilities, as information about the flaws has reportedly leaked ahead of their scheduled disclosure.",
+      "url": "https://www.bleepingcomputer.com/news/security/php-warns-admins-of-two-critical-flaws-emergency-patches-coming-tomorrow/",
+      "urlToImage": "https://www.bleepstatic.com/content/hl-images/2021/03/29/PHP-headpic.jpg",
+      "publishedAt": "2026-10-20T20:56:43Z",
+      "content": "The PHP security team is warning administrators to prepare for emergency security updates tomorrow to address two critical vulnerabilities, as information about the flaws has reportedly leaked ahead … [+3643 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "9to5google.com"
+      },
+      "author": "Abner Li",
+      "title": "Android 17 QPR3 Beta 2 for Pixel rolling out with 21 fixes - 9to5Google",
+      "description": "The Android 17 QPR3 preview ahead of the March 2027 launch continues today with Beta 2 for Google Pixel devices....",
+      "url": "http://9to5google.com/2026/10/20/android-17-qpr3-beta-2-pixel/",
+      "urlToImage": "https://9to5google.com/wp-content/uploads/sites/4/2026/06/Android-17-launch-logo-1.jpg?quality=82&strip=all&resize=1200,628",
+      "publishedAt": "2026-10-20T20:31:00Z",
+      "content": "The Android 17 QPR3 preview ahead of the March 2027 launch continues today with Beta 2 for Google Pixel devices.\r\nHeres everything new in Android 17 QPR3 Beta 2 [Gallery]\r\nThe following issues have b… [+3393 chars]"
     },
     {
       "source": {
@@ -180,16 +245,81 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "Kotaku"
+        "id": "techcrunch",
+        "name": "TechCrunch"
       },
-      "author": "Ethan Gach",
-      "title": "A Big Overhaul Of Xbox Game Pass Is In The Works - Kotaku",
-      "description": "The service will reportedly move to a more à la carte model",
-      "url": "https://kotaku.com/a-big-overhaul-of-xbox-game-pass-is-in-the-works-2000748041",
-      "urlToImage": "https://kotaku.com/app/uploads/2023/10/1a76617ac1879ca471869afe5a2cfec4.jpg",
-      "publishedAt": "2026-10-20T19:52:34Z",
-      "content": "It sounds like Microsoft isn’t done making big changes to its big subscription service. Xbox Game Pass already lost day-one Call of Duty earlier this year in exchange for a price cut, but the Netflix… [+1542 chars]"
+      "author": "Kirsten Korosec",
+      "title": "Google is bringing a more personal version of its Gemini AI assistant to your car - TechCrunch",
+      "description": "Google is bringing Gemini's Personal Intelligence feature to cars, allowing its AI assistant to draw on information from Gmail, Calendar, Maps, YouTube, and other Google services to deliver more personalized responses while driving.",
+      "url": "https://techcrunch.com/2026/10/20/google-is-bringing-a-more-personal-version-of-its-gemini-ai-assistant-to-your-car/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/04/Gemini-google-vehicles.jpeg?w=1200",
+      "publishedAt": "2026-10-20T20:00:00Z",
+      "content": "Google is making the Gemini AI assistant that’s already in millions of cars, trucks, and SUVs a lot more personal a move that could push consumers even deeper into the company’s ecosystem of products… [+2090 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "9to5Mac"
+      },
+      "author": "Ryan Christoffel",
+      "title": "John Ternus talks his involvement with design teams at Apple - 9to5Mac",
+      "description": "John Ternus was interviewed by TIME and addressed a question about his ongoing involvement as CEO with Apple’s design teams.",
+      "url": "https://9to5mac.com/2026/10/20/john-ternus-talks-his-involvement-with-design-teams-at-apple/",
+      "urlToImage": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/john-ternus-iphone-event-hub.jpg?quality=82&strip=all&resize=1200,628",
+      "publishedAt": "2026-10-20T19:51:00Z",
+      "content": "Last week TIME shared select quotes from a new interview with Apple CEO John Ternus, but today the full video has been published, including a discussion on Ternuss involvement with Apples design team… [+1633 chars]"
+    },
+    {
+      "source": {
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "author": "Dan Goodin",
+      "title": "The Internet goes on high alert after discovery of 8 compromised TLS certs - Ars Technica",
+      "description": "Intermediate certs allow anyone to mint web credentials for any Internet server.",
+      "url": "https://arstechnica.com/security/2026/10/the-internet-goes-on-high-alert-after-discovery-of-8-compromised-tls-certs/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/broken-encryption-lock-1152x648.jpg",
+      "publishedAt": "2026-10-20T19:47:35Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "MacRumors"
+      },
+      "author": "Juli Clover",
+      "title": "Apple's Touchscreen OLED MacBook Pro: Everything We Know - MacRumors",
+      "description": "Apple is working on a high-end MacBook Pro, and it's nearly ready to launch. It will have several firsts in a Mac, including an OLED display and...",
+      "url": "https://www.macrumors.com/guide/touchscreen-macbook-pro/",
+      "urlToImage": "https://images.macrumors.com/t/r-a84FeRhyCsmSrCJOuSvSywz14=/2100x/article-new/2026/10/MacBook-Pro-Dynamic-Island-multicolor.jpg",
+      "publishedAt": "2026-10-20T19:40:41Z",
+      "content": "Apple is working on a high-end MacBook Pro, and it's nearly ready to launch. It will have several firsts in a Mac, including an OLED display and a touchscreen.\r\nDesign\r\nApple hasn't redesigned the ‌M… [+4774 chars]"
+    },
+    {
+      "source": {
+        "id": "ign",
+        "name": "IGN"
+      },
+      "author": "Ryan McCaffrey",
+      "title": "Xbox Game Pass Reportedly Getting 'Major Overhaul,' Will Feature 'À La Carte' Options - IGN",
+      "description": "Microsoft is reportedly planning a substantial revamp of Xbox Game Pass that will allow subscribers to choose the features they want in an à la carte fashion. The report comes by way of a new Fortune profile piece on Xbox CEO Asha Sharma.",
+      "url": "https://www.ign.com/articles/xbox-game-pass-reportedly-getting-major-overhaul-will-feature-la-carte-options",
+      "urlToImage": "https://assets-prd.ignimgs.com/2026/10/20/image-2-1792525205185.png?width=1280&format=jpg&auto=webp&quality=80",
+      "publishedAt": "2026-10-20T19:40:16Z",
+      "content": "Microsoft is reportedly planning a substantial revamp of Xbox Game Pass that will allow subscribers to choose the features they want in an à la carte fashion. The report comes by way of a new Fortune… [+1804 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Aftermath.site"
+      },
+      "author": "Nathan Grayson",
+      "title": "Dear Tim Sweeney, You Could Learn A Thing Or Two From The Xbox Exec Who Posted So Bad That He Had To Delete His Account - Aftermath",
+      "description": "A better world is possible",
+      "url": "https://aftermath.site/xbox-brandon-stirrup-ai-twitter-delete-tim-sweeney/",
+      "urlToImage": "https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/size/w1200/2026/10/tim5.png",
+      "publishedAt": "2026-10-20T19:39:30Z",
+      "content": null
     },
     {
       "source": {
@@ -219,16 +349,42 @@
     },
     {
       "source": {
-        "id": "the-verge",
-        "name": "The Verge"
+        "id": "techcrunch",
+        "name": "TechCrunch"
       },
-      "author": "Tom Warren",
-      "title": "Microsoft reportedly plans Xbox handheld in 2027, next-gen console in 2028 - The Verge",
-      "description": "The next Xbox could cost between $1,200 and $1,800 if Microsoft doesn’t subsidize it.",
-      "url": "https://www.theverge.com/news/1014666/xbox-project-helix-launch-2028-rumor",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25290359/STK048_XBOX_C.jpg?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200",
-      "publishedAt": "2026-10-20T18:45:39Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nThe next Xbox could cost between $1,200 and $1,800 if Microsoft doesnt subsidize it.\r\nThe next Xbox could cost between $1,200 and $1,800 if Microsoft doesnt subs… [+3596 chars]"
+      "author": "Aisha Malik",
+      "title": "ChatGPT now lets you lock your chats - TechCrunch",
+      "description": "The company says the feature is designed for situations where users might be discussing something personal or planning a surprise and want to keep those conversations private when handing their device to friends or family to show them something in another cha…",
+      "url": "https://techcrunch.com/2026/10/20/chatgpt-now-lets-you-lock-your-chats/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/09/openai-getty.jpg?resize=1200,800",
+      "publishedAt": "2026-10-20T18:36:53Z",
+      "content": "OpenAI announced on Tuesday that users can now lock ChatGPT conversations to keep sensitive chats private when others may have access to their screen or device. Users can secure their locked chats wi… [+2197 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Kotaku"
+      },
+      "author": "Zack Zwiezen",
+      "title": "Steam Next Fest Has Become A Massive Disaster And A Grim Look At The Future - Kotaku",
+      "description": "The vibes are rotten this time around as Next Fest features thousands of AI slop demos",
+      "url": "https://kotaku.com/steam-next-fest-has-become-a-massive-disaster-and-a-grim-look-at-the-future-2000748008",
+      "urlToImage": "https://kotaku.com/app/uploads/2026/10/steam-nextfest-1200x675.jpg",
+      "publishedAt": "2026-10-20T18:36:06Z",
+      "content": "In years past, I’ve enjoyed checking out Steam Next Fests. These regularly scheduled Valve-sanctioned events encourage devs working on indie games to put together a demo and share it as part of a lar… [+4234 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Digitalfoundry.net"
+      },
+      "author": "William Judd",
+      "title": "GTA 6 Platform Poll: 36% of DF Viewers to Play on PS5 Pro after 30,000 Votes - Digital Foundry",
+      "description": "With only one in five planning to play on Xbox - and thousands of comments in favour of PC.",
+      "url": "https://www.digitalfoundry.net/news/2026/10/gta-6-platform-poll-36percent-of-df-viewers-to-play-on-ps5-pro-after-30000-votes",
+      "urlToImage": "https://images.digitalfoundry.net/1232faadcda27/1280x720.jpg",
+      "publishedAt": "2026-10-20T18:24:00Z",
+      "content": "Yesterday we polled the Digital Foundry viewership on YouTube to see where Grand Theft Auto 6 players would actually play the game when it's released worldwide on November 19th. The results are surpr… [+2087 chars]"
     },
     {
       "source": {
@@ -298,6 +454,19 @@
     {
       "source": {
         "id": null,
+        "name": "Space.com"
+      },
+      "author": "Chelsea Gohd",
+      "title": "A supercomputer is about to launch to the moon for the 1st time, aboard a rover named FLIP - Space",
+      "description": "And yes, it has AI.",
+      "url": "https://www.space.com/space-exploration/a-supercomputer-is-about-to-launch-to-the-moon-for-the-1st-time-aboard-a-rover-named-flip",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/W5R5YipbnMTdEMGxiifAjZ-1920-80.jpg",
+      "publishedAt": "2026-10-20T17:42:41Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
         "name": "Gematsu"
       },
       "author": "Sal Romano",
@@ -311,15 +480,15 @@
     {
       "source": {
         "id": null,
-        "name": "Internet"
+        "name": "Theautopian.com"
       },
-      "author": "The Hacker News",
-      "title": "Eight eMudhra CA Keys Compromised, Triggering Emergency Fixes Across Browsers and Software - The Hacker News",
-      "description": "Eight eMudhra CA keys were compromised, prompting browser blocks and software fixes. Chrome found no rogue certificates in CT logs.",
-      "url": "https://thehackernews.com/2026/10/eight-emudhra-ca-keys-compromised.html",
-      "urlToImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJOWLzgriXXM626bAOaX_LEoNH97Ab_XV4oQ0GxBeY3-PqkdXdcae52-wrl8r0LipTFBsvl4R7Y5j6jFsiG_9V8ZAwHOkAlsZaRcOAswStHhAG1FYm9W6kjA4FmOz0bXgVXO6LyEs9Fv75UrRFphZEzhXodKdTlYzfPK8sqW3DpxKBnD7OFQfqJJ_ay2c/s1600/ecert.jpg",
-      "publishedAt": "2026-10-20T17:09:00Z",
-      "content": "The private keys of eight eMudhra intermediate certificate authority (CA) certificates are compromised, Mozilla and Google's Chrome Root Program confirms on October 20.\r\nAn intermediate CA signs the … [+8393 chars]"
+      "author": "David Tracy",
+      "title": "I Bought This Low-Mileage Jeep Grand Cherokee For Only $1,700 After Realizing My 'Holy Grail' Project Is Doomed - The Autopian",
+      "description": "“David, can you please fix the garage?” my wife Elise asked me on Sunday. “You barely have any time to do house stuff, and today you’re free.” She’s right about the first part — The Autopian really does take up all of my time, and the garage does need to be f…",
+      "url": "https://www.theautopian.com/i-bought-this-low-mileage-jeep-grand-cherokee-for-only-1700-after-realizing-my-holy-grail-project-is-doomed/",
+      "urlToImage": "https://images-stag.jazelc.com/uploads/theautopian-m2en/Jeep_Zj_Had_to_TS.jpg",
+      "publishedAt": "2026-10-20T16:47:42Z",
+      "content": null
     },
     {
       "source": {
@@ -375,16 +544,16 @@
     },
     {
       "source": {
-        "id": "fortune",
-        "name": "Fortune"
+        "id": "polygon",
+        "name": "Polygon"
       },
-      "author": "Sebastian Herrera",
-      "title": "The non-gamer CEO racing to save Microsoft’s Xbox - Fortune",
-      "description": "Asha Sharma has cut thousands of jobs, consolidated studios, and rewritten the playbook. Insiders wonder if she’s saving the brand or preparing it for a non-Microsoft future.",
-      "url": "https://fortune.com/2026/10/20/the-non-gamer-ceo-racing-to-save-microsofts-xbox/",
-      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/10/XBOX_Asha-Sharma-social-thumbnail.jpg?resize=1200,600",
-      "publishedAt": "2026-10-20T16:10:00Z",
-      "content": "Asha Sharma returns from one of her walking meetings around Microsofts sprawling campus in Redmond, Wash., to her relatively new office in the Xbox building, reached via a 1,100-foot-long bridge from… [+20162 chars]"
+      "author": "Patricia Hernandez",
+      "title": "'GTA 6' at Risk as PS5 Hackers Officially Claim Major New Breakthrough - Polygon.com",
+      "description": "Fans are hoping Grand Theft Auto 6 will be playable on PC soon, but PS5 jailbreak hackers still face hurdles placed by Sony and Rockstar",
+      "url": "https://www.polygon.com/ps5-jailbreak-gta-6-piracy-firmware-update-hypervisor-sony-rockstar/",
+      "urlToImage": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/vice_city_09-1.jpg?w=1600&h=900&fit=crop",
+      "publishedAt": "2026-10-20T16:09:44Z",
+      "content": "2026 has been a year of tremendous progress for the PlayStation 5 jailbreaking scene, which can now free consoles from the PS5 ecosystem without a convoluted workaround. As footage of unofficial port… [+3013 chars]"
     },
     {
       "source": {
@@ -414,6 +583,45 @@
     },
     {
       "source": {
+        "id": "ign",
+        "name": "IGN"
+      },
+      "author": "Wesley Yin-Poole",
+      "title": "Bethesda Reveals What's Coming Next to Fallout 4 With First-Look at a Trio of New Mods - IGN",
+      "description": "Bethesda has put its weight behind a trio of new Fallout 4 mods as part of the ongoing Fallout Day celebrations.",
+      "url": "https://www.ign.com/articles/bethesda-reveals-whats-coming-next-to-fallout-4-with-first-look-at-a-trio-of-new-mods",
+      "urlToImage": "https://assets-prd.ignimgs.com/2026/10/20/robco-3-1792510165775.png?width=1280&format=jpg&auto=webp&quality=80",
+      "publishedAt": "2026-10-20T15:36:56Z",
+      "content": "Bethesda has put its weight behind a trio of new Fallout 4 mods as part of the ongoing Fallout Day celebrations.\r\nThe Verified Creations label sees Bethesda support modders in an official capacity as… [+2222 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": null,
+      "title": "Here's how to preorder Apple's HomeView smart display — plus alternatives to shop now - Fox News",
+      "description": "Preorder Apple HomeView, the brand's newest smart home innovation, before it releases on Nov. 13.",
+      "url": "https://www.foxnews.com/deals/apple-homeview-preorder",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/10/untitled-design-11.png",
+      "publishedAt": "2026-10-20T15:06:10Z",
+      "content": "Meet Apple's newest innovation and the brand's first smart home display the Apple HomeView. Officially launching on Nov. 13, the new device is available for preorder now on Amazon. The new device kee… [+2754 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Warhammer-community.com"
+      },
+      "author": null,
+      "title": "Designers’ notes: creating the new Tomb Kings of Khemri miniatures - Warhammer Community",
+      "description": "The Warhammer: The Old World team tells us about making the new models.",
+      "url": "https://www.warhammer-community.com/articles/jaled9ld/designers-notes-creating-the-new-tomb-kings-of-khemri-miniatures",
+      "urlToImage": "https://assets.warhammer-community.com/articles/0-2026/october/wc-19-10/tow_tkdesign-oct20-2-share-wudeftbn2m.jpg",
+      "publishedAt": "2026-10-20T14:57:23Z",
+      "content": "Keith: Much of the original Tomb Kings range was made a long time ago, using very different technology to what we have today. The original Skeleton Warriors, for example, combined the basic Warhammer… [+5470 chars]"
+    },
+    {
+      "source": {
         "id": null,
         "name": "Warhammer-community.com"
       },
@@ -428,19 +636,6 @@
     {
       "source": {
         "id": null,
-        "name": "9to5Mac"
-      },
-      "author": "Ryan Christoffel",
-      "title": "Apple explains why HomeView couldn’t launch until now - 9to5Mac",
-      "description": "Apple’s HomeView was reportedly delayed significantly from its initial launch target, here’s why it couldn’t launch until now per Apple.",
-      "url": "https://9to5mac.com/2026/10/20/apple-explains-why-homeview-couldnt-launch-until-now/",
-      "urlToImage": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/Apple-HomeView-lifestyle-living-room-261013_big.jpg.large_2x-2.jpg?quality=82&strip=all&resize=1200,628",
-      "publishedAt": "2026-10-20T14:47:00Z",
-      "content": "Apples new HomeView was reportedly mostly finished for years, but kept getting delayed. Heres why HomeView couldnt launch until now, per quotes from key Apple execs.\r\nApple touts Siri AI with persona… [+2515 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "MacRumors"
       },
       "author": "Joe Rossignol",
@@ -450,6 +645,32 @@
       "urlToImage": "https://images.macrumors.com/t/6kTPQ-tp1oamZ2yy5GLrcHaJNb0=/2234x/article-new/2026/10/surround_mixed_16x9.jpg",
       "publishedAt": "2026-10-20T14:02:04Z",
       "content": "The new fourth-generation Apple TV 4K announced last week can connect to up to four HomePods in front-left, front-right, rear-left, and rear-right positions, enabling an all-Apple surround sound syst… [+2606 chars]"
+    },
+    {
+      "source": {
+        "id": "ign",
+        "name": "IGN"
+      },
+      "author": "Corey DeMoss",
+      "title": "Stupid Never Dies Blends a Wacky Tone with Aggressive Gameplay to Create a Unique Pop-Punk Action Game - IGN",
+      "description": null,
+      "url": "https://www.ign.com/articles/stupid-never-dies-blends-a-wacky-tone-with-aggressive-gameplay-to-create-a-unique-pop-punk-action-game",
+      "urlToImage": "https://assets-prd.ignimgs.com/2026/10/01/davy-ss-1790878121756.jpg?width=1280&format=jpg&auto=webp&quality=80",
+      "publishedAt": "2026-10-20T14:00:00Z",
+      "content": "Stupid Never Dies is a single-player action game built on one philosophy: attack, attack, and attack some more. After playing the demo, its clear that all the games mechanics are built around rewardi… [+5850 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "9to5Mac"
+      },
+      "author": "Marcus Mendes",
+      "title": "Apple now selling repair parts for iPhone 18 Pro, latest Mac Studio and Mac mini models - 9to5Mac",
+      "description": "Apple today began selling repair parts for the iPhone 18 Pro and iPhone 18 Pro Max, as well as the M5 Max and M5 Ultra Mac Studio and the M6 or M5 Pro Mac mini models.",
+      "url": "https://9to5mac.com/2026/10/20/apple-now-selling-repair-parts-for-iphone-18-pro-latest-mac-studio-and-mac-mini-models/",
+      "urlToImage": "https://9to5mac.com/wp-content/uploads/sites/6/2025/08/DIY-Apple-device-repairs-now-fully-supported-in-Canada.jpg?quality=82&strip=all&resize=1200,628",
+      "publishedAt": "2026-10-20T13:48:00Z",
+      "content": "Apple today began selling repair parts for the iPhone 18 Pro and iPhone 18 Pro Max, as well as the M5 Max and M5 Ultra Mac Studio and the M6 or M5 Pro Mac mini models. Here are the details.\r\nApple la… [+2185 chars]"
     },
     {
       "source": {
@@ -492,19 +713,6 @@
     },
     {
       "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Andrew Webster",
-      "title": "Wii Sports is back on the Switch 2, and it rules - The Verge",
-      "description": "Nintendo Switch Sports Resort is a continuation of the Wii Sports series, bringing motion-controlled bowling and tennis to the Switch 2.",
-      "url": "https://www.theverge.com/entertainment/1013753/nintendo-switch-sports-resort-review-switch-2",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/NS2_NintendoSwitchSportsResort_scrn_17.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-      "publishedAt": "2026-10-20T13:00:00Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nNintendo Switch Sports Resort is quietly one of the consoles most important games.\r\nNintendo Switch Sports Resort is quietly one of the consoles most important g… [+6425 chars]"
-    },
-    {
-      "source": {
         "id": null,
         "name": "Windows Central"
       },
@@ -515,32 +723,6 @@
       "urlToImage": "https://cdn.mos.cms.futurecdn.net/cWkkxjj74xpy2HTvXQxgNW-1536-80.jpg",
       "publishedAt": "2026-10-20T12:55:25Z",
       "content": "The console industry continues to reel from the RAMpocalypse, and Xbox is certainly feeling it.\r\nCircana analysis suggested a few weeks ago that Xbox hardware sales are at their lowest level ever, wi… [+3305 chars]"
-    },
-    {
-      "source": {
-        "id": "polygon",
-        "name": "Polygon"
-      },
-      "author": "Ashely Claudino",
-      "title": "PlayStation Founder Understands Why Players Want to Keep Physical Media Alive - Polygon.com",
-      "description": "PlayStation founder Ken Kutaragi speaks out about Sony's stance on physical media and shows sympathy for upset fans.",
-      "url": "https://www.polygon.com/playstation-founder-ken-kutaragi-physical-media-sony/",
-      "urlToImage": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/marvel-s-wolverine-sentinel.png?w=1600&h=900&fit=crop",
-      "publishedAt": "2026-10-20T12:39:20Z",
-      "content": "Ken Kutaragi, PlayStation founder and former Sony chairman, has voiced his opinion on a hot topic in the gaming community: the end of physical media. As a businessman, Kutaragi believes that there is… [+2229 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "BGR"
-      },
-      "author": "Christian de Looper",
-      "title": "Alexa Tablet 12 Pro Review: Amazon Comes Out Swinging At The iPad - BGR",
-      "description": "Amazon's Alexa Tablet 12 Pro is an entirely different beast than the Fire tablet lineup, and its more premium build and specs make it a legit iPad competitor.",
-      "url": "https://www.bgr.com/2291175/alexa-tablet-12-pro-review/",
-      "urlToImage": "https://www.bgr.com/img/gallery/alexa-tablet-12-pro-review-amazon-comes-out-swinging-at-the-ipad/l-intro-1792448715.jpg",
-      "publishedAt": "2026-10-20T12:30:00Z",
-      "content": "Software is one of the bigger stories of this tablet. That's because Amazon has finally ditched its self-built Android fork in favor of tried and true full Android 16, including Google Play services.… [+2494 chars]"
     },
     {
       "source": {
@@ -610,19 +792,6 @@
     {
       "source": {
         "id": null,
-        "name": "9to5google.com"
-      },
-      "author": "Daniel Bader",
-      "title": "Foldables are about to get huge - 9to5Google",
-      "description": "iPhone Duo demand meets a long delivery queue, giving Samsung's Galaxy Z Fold 8 an opening. Plus the latest Google and Android news.",
-      "url": "http://9to5google.com/2026/10/20/foldables-are-about-to-get-huge/",
-      "urlToImage": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/iphone-duo-1.jpg?quality=82&strip=all&resize=1200,628",
-      "publishedAt": "2026-10-20T11:00:00Z",
-      "content": "As a reminder, Inbox is the tech newsletter that goes beyond the news cycle. We cover the most important 9to5Google stories from the last couple of days along with a few highlights from around the we… [+9971 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "Nintendo Life"
       },
       "author": "Jim Norman",
@@ -648,29 +817,16 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "GamesIndustry.biz"
+        "id": "the-verge",
+        "name": "The Verge"
       },
-      "author": "Lewis Packwood",
-      "title": "Sensor Tower data shows the yawning gap between GTA 6 and everything else - GamesIndustry.biz",
-      "description": "In terms of preorder numbers, Rockstar's game is 148% head of 2022's Call of Duty: Modern Warfare 2 at this point from launch",
-      "url": "https://www.gamesindustry.biz/sensor-tower-data-shows-the-yawning-gap-between-gta-6-and-everything-else",
-      "urlToImage": "https://assetsio.gnwcdn.com/Jason_and_Lucia_09.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "publishedAt": "2026-10-20T10:00:57Z",
-      "content": "An analysis from Sensor Tower shows just how far ahead GTA 6 is in terms of preorders when compared with some of the biggest AAA games of the past six years.\r\nThe analytics firm collected preorder da… [+1726 chars]"
-    },
-    {
-      "source": {
-        "id": "ign",
-        "name": "IGN"
-      },
-      "author": "Jacqueline Thomas",
-      "title": "'If I'm Fired Tomorrow It Will Be Because I Told You the Truth' — Xbox Business Strategist Deletes Social Media Account After Accusing the Game Industry of 'Pretending to Not Use AI' - IGN",
-      "description": "An Xbox staff member went viral this week for taking to social media to tell \"the truth that nobody wants you to know\": that the video game industry is \"pretending\" to not use AI.",
-      "url": "https://www.ign.com/articles/xbox-business-strategist-claims-video-game-industry-is-pretending-to-not-use-ai-deletes-twitter-account-after-deluge-of-replies",
-      "urlToImage": "https://assets-prd.ignimgs.com/2026/05/06/screenshot-2026-05-06-162907-1778081413883.png?width=1280&format=jpg&auto=webp&quality=80",
-      "publishedAt": "2026-10-20T09:30:26Z",
-      "content": "An Xbox staff member went viral this week for taking to social media to tell \"the truth that nobody wants you to know\": that the video game industry is \"pretending\" to not use AI.\r\nXbox Business Stra… [+3841 chars]"
+      "author": "Jess Weatherbed",
+      "title": "Some Google Home Speakers caught downloading hundreds of gigs of data - The Verge",
+      "description": "A bug impacting some Google Home Speakers is making them continuously download masses of data in the background.",
+      "url": "https://www.theverge.com/tech/1014209/google-home-speaker-bug-continuous-download",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268614_Google_Home_Speaker_JTuohy_0010.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2026-10-20T10:16:47Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nThe issue might be tied to failed attempts to install a firmware update.\r\nThe issue might be tied to failed attempts to install a firmware update.\r\nby\r\nJess Weat… [+2316 chars]"
     },
     {
       "source": {
@@ -714,19 +870,6 @@
     {
       "source": {
         "id": null,
-        "name": "BBC News"
-      },
-      "author": "Melissa Hogenboom",
-      "title": "What to eat for younger-looking skin - BBC",
-      "description": "Plants, fats, and fermented foods can reduce wrinkles, boost collagen and improve the texture of our skin.",
-      "url": "https://www.bbc.com/future/article/20261015-what-can-i-eat-for-younger-skin",
-      "urlToImage": "https://ychef.files.bbci.co.uk/624x351/p0pgz2lr.jpg",
-      "publishedAt": "2026-10-20T08:45:46Z",
-      "content": "Surprisingly, the study found that eating around 250g (8.8oz) of mango per day increased wrinkles. One of the co-authors of the research, Robert Hackman, a professor of nutrition also at University o… [+124 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "MusicRadar"
       },
       "author": "Matt Mullen",
@@ -749,19 +892,6 @@
       "urlToImage": "https://static01.nyt.com/images/2026/10/19/multimedia/19biz-openai-suspect-jbhc/19biz-openai-suspect-jbhc-mediumSquareAt3X.jpg",
       "publishedAt": "2026-10-20T02:27:47Z",
       "content": "Saudi officials paid for his wife and son to fly out of the U.S. and offered to cover his bail, according to court filings. A judge ordered the engineer to remain in custody."
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "PlayStation LifeStyle"
-      },
-      "author": "Zarmena Khan",
-      "title": "Games Leaving PlayStation Plus in November 2026 Confirmed - PlayStation LifeStyle",
-      "description": "PS Store has revealed the initial list of games leaving PS Plus Extra and Premium in November 2026 as the October lineup is rolling out.",
-      "url": "https://www.playstationlifestyle.net/2026/10/19/games-leaving-ps-plus-extra-premium-november-2026",
-      "urlToImage": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2024/08/games-leaving-ps-plus-last-chance-to-play.jpg?resize=1200,630",
-      "publishedAt": "2026-10-20T02:24:22Z",
-      "content": "PS Store has revealed the list of games leaving PS Plus Extra and Premium in November 2026, as the October lineup has begun rolling out in regions where its midday Tuesday, the 20th. As we recently s… [+1267 chars]"
     },
     {
       "source": {
@@ -791,32 +921,6 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "9to5google.com"
-      },
-      "author": "Abner Li",
-      "title": "Some Google Home Speakers downloading massive amounts of data in the background - 9to5Google",
-      "description": "The new Google Home Speaker has an issue where it downloads hundreds of gigabytes of data in the background for some owners.",
-      "url": "http://9to5google.com/2026/10/19/google-home-speaker-downloads/",
-      "urlToImage": "https://9to5google.com/wp-content/uploads/sites/4/2026/06/Google-Home-Speaker-6.jpg?quality=82&strip=all&resize=1200,628",
-      "publishedAt": "2026-10-19T22:54:00Z",
-      "content": "The new Google Home Speaker has an issue where it downloads hundreds of gigabytes of data in the background for some owners.\r\nOver the past week, severalreports have emerged about how the Google Home… [+1411 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "XDA Developers"
-      },
-      "author": "Simon Batt",
-      "title": "People are now vibe-coding their smart TVs to strip them of ads and unwanted features - XDA",
-      "description": "The manufacturers aren't going to be pleased.",
-      "url": "https://www.xda-developers.com/people-are-now-vibe-coding-their-smart-tvs-to-strip-them-of-ads-and-unwanted-features/",
-      "urlToImage": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/fire-tv-stick-with-projectivy-sideloaded-on-fire-os.JPEG?w=1600&h=900&fit=crop",
-      "publishedAt": "2026-10-19T22:12:35Z",
-      "content": "Summary\r\n<ul><li>\r\n Vibe coders use LLMs to strip smart TVs down to just the apps, HDMI, and no ads or tracking.\r\n </li><li>\r\n Open GitHub projects like CleanYourTV and DumbTV automate reversible TV … [+1740 chars]"
-    },
-    {
-      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -827,32 +931,6 @@
       "urlToImage": "https://static01.nyt.com/images/2026/10/19/multimedia/19biz-musk-shares-vfqm/19biz-musk-shares-vfqm-mediumSquareAt3X.jpg",
       "publishedAt": "2026-10-19T22:12:02Z",
       "content": "Anthropic, an A.I. rival to SpaceX, earlier said it would form a “public benefit fund” and other tech moguls have contributed to savings accounts for children."
-    },
-    {
-      "source": {
-        "id": "polygon",
-        "name": "Polygon"
-      },
-      "author": "Giovanni Colantonio",
-      "title": "Stupid Never Dies Is Easily the Worst Game of 2026 - Polygon.com",
-      "description": "Stupid Never Dies stumbles through its 30-hour runtime thanks to sluggish action and a rotten story.",
-      "url": "https://www.polygon.com/stupid-never-dies-review/",
-      "urlToImage": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/stupid-never-dies-golem-fight.png?w=1600&h=900&fit=crop",
-      "publishedAt": "2026-10-19T22:00:17Z",
-      "content": "If you went back in time and asked my teenage self to picture what video games would look like in 20 years, my vision would likely resemble Stupid Never Dies. In many ways, it feels like the logical … [+12810 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "9to5Mac"
-      },
-      "author": "Justin Kahn",
-      "title": "Best iPhone 18 Pro accessories: Solid-state power banks, MagSafe, chargers, more - 9to5Mac",
-      "description": "The iPhone 18 Pro has arrived and the Duo will very soon as well, so let’s scope out some notable...",
-      "url": "https://9to5mac.com/2026/10/19/best-iphone-18-pro-accessories-solid-state-power-bank/",
-      "urlToImage": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/Apple-iPhone-18-Pro-accessories-best-2026.jpg?quality=82&strip=all&resize=1200,628",
-      "publishedAt": "2026-10-19T20:58:00Z",
-      "content": "The iPhone 18 Pro has arrived and the Duo will very soon as well, so lets scope out some notable accessory pickups to elevate the experience. From safety and reliability-focused Qi2 Solid-State Power… [+4044 chars]"
     },
     {
       "source": {
@@ -883,15 +961,15 @@
     {
       "source": {
         "id": null,
-        "name": "GameSpot"
+        "name": "Notebookcheck.net"
       },
-      "author": "Eddie Makuch",
-      "title": "You Don't Need An Expensive Console Or High-End PC To Play Call Of Duty: Modern Warfare 4 - GameSpot",
-      "description": "There is a way.",
-      "url": "https://www.gamespot.com/articles/you-dont-need-an-expensive-console-or-high-end-pc-to-play-call-of-duty-modern-warfare-4/",
-      "urlToImage": "https://www.gamespot.com/wp-content/uploads/2026/10/COD1.jpg",
-      "publishedAt": "2026-10-19T19:12:24Z",
-      "content": "GameSpot may receive revenue from affiliate and advertising partnerships for sharing this content and from purchases through links.\r\nCall of Duty: Modern Warfare 4 releases this week, and with gaming… [+3669 chars]"
+      "author": "Andreas Osthoff",
+      "title": "Microsoft Surface Laptop Ultra RTX Spark Review - The 2000-nits Mini-LED panel is a problem - Notebookcheck",
+      "description": "Notebookcheck review of the Microsoft Surface Laptop Ultra with Nvidia RTX Spark N1X, 64 GB RAM and 2000-nits Mini-LED panel.",
+      "url": "https://www.notebookcheck.net/Microsoft-Surface-Laptop-Ultra-RTX-Spark-Review-The-2000-nits-Mini-LED-panel-is-a-problem.1426103.0.html",
+      "urlToImage": "https://www.notebookcheck.net/fileadmin/Notebooks/Microsoft/Surface_Laptop_Ultra_2026/surface_laptop_ultra_case_13.JPG",
+      "publishedAt": "2026-10-19T19:42:00Z",
+      "content": "Microsoft Surface Laptop Ultra 2026 audio analysis\r\n(+) | speakers can play relatively loud (83.7 dB)Bass 100 - 315 Hz(±) | reduced bass - on average 5.9% lower than median(±) | linearity of bass is … [+4092 chars]"
     },
     {
       "source": {
@@ -905,6 +983,19 @@
       "urlToImage": "https://assetsio.gnwcdn.com/PEGI-age-rating-logos.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "publishedAt": "2026-10-19T19:12:21Z",
       "content": "Existing digital-only games that include paid random items, such as loot boxes, are being re-rated PEGI 16 if they currently carry a PEGI 3, 7, or 12 rating.\r\nGames Rating Authority policy manager Co… [+798 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Chrome Unboxed"
+      },
+      "author": "Robby Payne",
+      "title": "Controversial Adobe clones prove desktop Googlebook apps are closer than I thought - Chrome Unboxed",
+      "description": "If you have spent any time following tech news or developer forums over the past couple of weeks, you have likely run into the massive controversy surrounding ArtCraft. Created by developer Brandon Thomas, the project set out to create a clean-room, open-sour…",
+      "url": "https://chromeunboxed.com/controversial-adobe-clones-prove-desktop-googlebook-apps-are-closer-than-i-thought/",
+      "urlToImage": "https://chromeunboxed.com/wp-content/uploads/2026/10/ArtCraftAndroidAPKGooglebookDesktopApps.webp",
+      "publishedAt": "2026-10-19T18:37:06Z",
+      "content": "Support our independent tech coverage. Chrome Unboxed is written by real people, for real peoplenot search algorithms. Join Chrome Unboxed Plus for just $2 a month to get an ad-free experience, acces… [+4009 chars]"
     },
     {
       "source": {
@@ -935,58 +1026,6 @@
     {
       "source": {
         "id": null,
-        "name": "How-To Geek"
-      },
-      "author": "Rich Hein",
-      "title": "A developer used AI to build 7 free Adobe alternatives, and subscription software has a new problem - How-To Geek",
-      "description": "A small team used AI to build free Adobe alternatives in days. The results are rough, but they could signal trouble for subscription software.",
-      "url": "https://www.howtogeek.com/a-developer-used-ai-to-build-7-free-adobe-alternatives-and-subscription-software-has-a-new-problem/",
-      "urlToImage": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/10/artcraft-hero-1.jpeg?w=1600&h=900&fit=crop",
-      "publishedAt": "2026-10-19T17:30:14Z",
-      "content": "By now youve probably heard of ArtCraft and developer Brandon Thomas, who created open-source alternatives to seven applications in Adobe's Creative Cloud suite. Thomas said on Hacker News that he wa… [+5876 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "UploadVR"
-      },
-      "author": "Mike Johnson",
-      "title": "Steam Next Fest October 2026 Features Over 40 PC VR Demos - UploadVR",
-      "description": "The final Steam Next Fest of 2026 is live, with over 40 PC VR demos available, and we have the full rundown.",
-      "url": "https://www.uploadvr.com/steam-next-fest-october-2026-features-over-40-pc-vr-demos/",
-      "urlToImage": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/size/w1200/2026/10/english--1-.jpg",
-      "publishedAt": "2026-10-19T17:01:32Z",
-      "content": "The final Steam Next Fest of 2026 has kicked off and we've got the full list of new PC VR demos right here. The event runs through October 26.\r\nNext Fest is a chance for players to go hands-on with a… [+2189 chars]"
-    },
-    {
-      "source": {
-        "id": "ars-technica",
-        "name": "Ars Technica"
-      },
-      "author": "Kyle Orland",
-      "title": "AI game clones are making indie developers afraid to show their work - Ars Technica",
-      "description": "Delayed Steam Next Fest demo is a sign of a growing problem for indie devs.",
-      "url": "https://arstechnica.com/gaming/2026/10/ai-game-clones-are-making-indie-developers-afraid-to-show-their-work/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/ss_c6067e139d8dd2cbf79c41a9c4e41e3bb088c95a.1920x1080-1152x648.jpg",
-      "publishedAt": "2026-10-19T16:59:22Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "bloomberg",
-        "name": "Bloomberg"
-      },
-      "author": "Mark Gurman",
-      "title": "Apple Announces Oct. 28 Event for Touch-Screen MacBook Pro - Bloomberg.com",
-      "description": "Apple Inc. on Monday confirmed that it’s holding a product launch event on Oct. 28, where the company is planning to debut its first touch-screen MacBook.",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-19/apple-announces-oct-28-event-for-touch-screen-macbook-pro",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iXPHCBrfj4kg/v0/1200x800.jpg",
-      "publishedAt": "2026-10-19T16:10:12Z",
-      "content": "Apple Inc. on Monday confirmed that its holding a product launch event on Oct. 28, where the company is planning to debut its first touch-screen MacBook. \r\nThe event, which will take place in Los Ang… [+224 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "Video Games Chronicle"
       },
       "author": "Jordan Middler",
@@ -1009,6 +1048,19 @@
       "urlToImage": "https://assets-prd.ignimgs.com/2026/10/19/vintage-vice-city-pack-exclusive-looks-01-1792422938955.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "publishedAt": "2026-10-19T15:16:56Z",
       "content": "GTA 6\r\n is coming in November and focuses on a relationship between its dual protagonists, Jason and Lucia. The recent GTA 6 launch trailer\r\n featured three steamy intimate scenes in the shower, and,… [+3562 chars]"
+    },
+    {
+      "source": {
+        "id": "ign",
+        "name": "IGN"
+      },
+      "author": "Simon Cardy",
+      "title": "‘It's a Good Question, and You'll Not Love the Answer’ — Is Call of Duty: Modern Warfare 4 Really the End of the Rebooted Modern Warfare Story? Infinity Ward Responds - IGN",
+      "description": "Is Call of Duty: Modern Warfare 4 really the end of the rebooted Modern Warfare story? We asked Infinity Ward.",
+      "url": "https://www.ign.com/articles/is-call-of-duty-modern-warfare-4-really-the-end-of-the-rebooted-modern-warfare-story-infinity-ward-responds",
+      "urlToImage": "https://assets-prd.ignimgs.com/2026/10/19/maxresdefault-22-1792416144161.jpg?width=1280&format=jpg&auto=webp&quality=80",
+      "publishedAt": "2026-10-19T14:35:47Z",
+      "content": "Call of Duty: Modern Warfare 4s campaign is available now in early access, and is arguably the strongest the series has been since its 2019 revival\r\n. Those who have played it will be aware that a lo… [+6271 chars]"
     },
     {
       "source": {
@@ -1038,19 +1090,6 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "Forbes"
-      },
-      "author": "Forbes",
-      "title": "The No. 1 Mistake Most Intelligent People Make, By A Psychologist - Forbes",
-      "description": null,
-      "url": "https://www.forbes.com/sites/traversmark/2026/10/19/the-no-1-mistake-most-intelligent-people-make-by-a-psychologist/",
-      "urlToImage": null,
-      "publishedAt": "2026-10-19T13:15:23Z",
-      "content": null
-    },
-    {
-      "source": {
         "id": "the-next-web",
         "name": "The Next Web"
       },
@@ -1064,19 +1103,6 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "Gamingbible.com"
-      },
-      "author": "Richard Breslin",
-      "title": "Sony’s PS6 faces a bigger problem than its rumoured $1,000 price tag - GAMINGbible",
-      "description": "PlayStation might need more than a price cut to win gamers back 🎮",
-      "url": "https://www.gamingbible.com/news/platform/playstation/sony-ps6-1000-price-xbox-next-gen-console-war-388613-20261019",
-      "urlToImage": "https://resizer.ladbiblegroup.com/ogimage/v3/assets/bltbc1876152fcd9f07/blta9ba758b9a85d568/6ad5f5ec5132a252b6801180/sony-playstation-ps5-ps6-19102026.jpg",
-      "publishedAt": "2026-10-19T11:29:00Z",
-      "content": null
-    },
-    {
-      "source": {
         "id": "fox-news",
         "name": "Fox News"
       },
@@ -1087,19 +1113,6 @@
       "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/03/2-fbi-warns-about-free-document-conversion-sites-spreading-malware.jpg",
       "publishedAt": "2026-10-19T10:45:24Z",
       "content": "Your iPhone probably holds more personal information than your wallet. Think about the passwords you've saved, the photos you never intended to share and the private notes you keep handy. Now, securi… [+14658 chars]"
-    },
-    {
-      "source": {
-        "id": "ign",
-        "name": "IGN"
-      },
-      "author": "Kirk McKeand",
-      "title": "'Pure Luck' — Call of Duty: Modern Warfare 4 Player Reveals How They Beat the Campaign on One-Life YOLO Difficulty - IGN",
-      "description": "One Modern Warfare 4 campaign player has already finished YOLO mode, an ultra hard setting with realistic damage, where you go right back to the start when you die. Here's how they did it.",
-      "url": "https://www.ign.com/articles/modern-warfare-4-player-finished-yolo-mode",
-      "urlToImage": "https://assets-prd.ignimgs.com/2026/10/09/mw4-dmz-ea-1791562031815.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "publishedAt": "2026-10-19T09:40:46Z",
-      "content": "One Call of Duty: Modern Warfare 4\r\n campaign player has already finished YOLO mode, an ultra hard setting with realistic damage, where you go right back to the start when you die. Unlocked once youv… [+2533 chars]"
     },
     {
       "source": {
@@ -1152,19 +1165,6 @@
       "urlToImage": "https://static01.nyt.com/images/2026/10/15/multimedia/15caregiving-apps_LISA_GREEN-01-wtqj/15caregiving-apps_LISA_GREEN-01-wtqj-mediumSquareAt3X.jpg",
       "publishedAt": "2026-10-15T10:52:08Z",
       "content": "Even as alarm grows over the risks, families are embracing bots and agents to tackle the spiraling administrative tasks of modern child rearing."
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "author": "Lauren Hirsch and Sri Muppidi",
-      "title": "Anthropic Says Revenue Jumped 45% to $16.8 Billion in Third Quarter",
-      "description": "The company held an investor meeting on Wednesday as it plans a blockbuster initial public offering as soon as next month.",
-      "url": "https://www.nytimes.com/2026/10/14/technology/anthropic-ipo-revenue-profit.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/10/13/multimedia/ANTHROPIC-INVESTORS-HFO-zgtc/ANTHROPIC-INVESTORS-HFO-zgtc-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-10-14T23:57:26Z",
-      "content": "The company held an investor meeting on Wednesday as it plans a blockbuster initial public offering as soon as next month."
     }
   ]
 }

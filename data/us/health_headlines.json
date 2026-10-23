@@ -6,9 +6,22 @@
     "newsapi",
     "rss"
   ],
-  "fetched_at": "2026-10-23T14:28:49.886024+00:00",
-  "articles_count": 76,
+  "fetched_at": "2026-10-23T19:34:26.063503+00:00",
+  "articles_count": 77,
   "articles": [
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Andrew Jacobs",
+      "title": "Why Drug Companies Are Rushing to Market Ketamine Medicines",
+      "description": "Spurred on by the Trump administration’s embrace of psychedelic medicine, researchers are experimenting with new — and not so new — forms of the anesthetic.",
+      "url": "https://www.nytimes.com/2026/10/20/science/ketamine-fda-spravato-ketafree.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/09/14/science/14SCI-KETAMINE-FDA/14SCI-KETAMINE-FDA-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-10-23T17:47:20Z",
+      "content": "Spurred on by the Trump administration’s embrace of psychedelic medicine, researchers are experimenting with new — and not so new — forms of the anesthetic."
+    },
     {
       "source": {
         "id": "the-new-york-times",
@@ -19,7 +32,7 @@
       "description": "Beyond melanoma, scientists are studying cancer vaccines for glioblastoma, pancreatic cancer and more.",
       "url": "https://www.nytimes.com/2026/10/23/well/cancer-vaccine-melanoma-study.html",
       "urlToImage": "https://static01.nyt.com/images/2026/10/23/well/23Well-CANCER-VAX/23Well-CANCER-VAX-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-10-23T09:00:39Z",
+      "publishedAt": "2026-10-23T17:43:05Z",
       "content": "Beyond melanoma, scientists are studying cancer vaccines for glioblastoma, pancreatic cancer and more."
     },
     {
@@ -63,6 +76,19 @@
     },
     {
       "source": {
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "author": "Beth Mole",
+      "title": "US-backed vaccine trial on babies canceled after international outcry - Ars Technica",
+      "description": "The decried trial was canceled last week before police seized vaccine doses.",
+      "url": "https://arstechnica.com/health/2026/10/unethical-vaccine-trial-on-babies-backed-by-rfk-jr-is-formally-canceled/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/GettyImages-629400903-1152x648.jpg",
+      "publishedAt": "2026-10-22T16:37:00Z",
+      "content": null
+    },
+    {
+      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -86,6 +112,58 @@
       "urlToImage": "https://static01.nyt.com/images/2026/10/13/multimedia/00PROJECTS-175-EYEWITNESS-DOWD-gjwk/00PROJECTS-175-EYEWITNESS-DOWD-gjwk-mediumSquareAt3X-v2.jpg",
       "publishedAt": "2026-10-22T15:25:26Z",
       "content": "Jeffrey Schmalz wrote unsparingly about why the political and medical cavalry would not arrive in time for him."
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "New York Post"
+      },
+      "author": "Allie Yang",
+      "title": "The unusual reason women are turning to Viagra — and it’s not for sex - New York Post",
+      "description": "The “little blue pill” has an interesting emerging use for a condition that affects far more women than men.",
+      "url": "https://nypost.com/2026/10/22/health/why-women-are-turning-to-viagra-for-cold-hands-and-raynauds/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/10/crop-41460316_b6426b.jpg?quality=75&strip=all&w=1200",
+      "publishedAt": "2026-10-22T14:54:00Z",
+      "content": "For almost 30 years, the “little blue pill” has helped men perform in the bedroom.\r\nHowever, this medication is only approved for men, and despiterecentinnovations, there’s still no equivalent altern… [+3921 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "menshealth.com"
+      },
+      "author": "Rebecca Strong",
+      "title": "GLP-1s Are Dramatically Shifting People’s Sex Drives. Scientists Are Finally Figuring Out Why. - Men's Health",
+      "description": "Can weight loss drugs affect your sex life? Doctors explain how GLP-1s may influence libido, erectile function, and sexual health.",
+      "url": "https://www.menshealth.com/health/a74122272/glp1-sex-drive/",
+      "urlToImage": "https://hips.hearstapps.com/hmg-prod/images/739b4407-7729-430c-ae93-5fd91b0d398e.jpg?crop=1xw:0.75xh;center,top&resize=1200:*",
+      "publishedAt": "2026-10-22T13:20:00Z",
+      "content": "JOSH*, 35, COULD easily go weeksor even monthswithout sex. That is, until he started Mounjaro two years ago. Within a few months hed lost 11 pounds, while gaining the raging libido and erections of a… [+9878 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ScienceAlert"
+      },
+      "author": "Carly Cassella",
+      "title": "A Common Supplement Displays a Concerning Link to Heart Failure - ScienceAlert",
+      "description": "One of the most popular supplements sold in the US could be having an unintended side effect, research suggests.",
+      "url": "https://www.sciencealert.com/a-common-supplement-displays-a-concerning-link-to-heart-failure",
+      "urlToImage": "https://www.sciencealert.com/images/2026/10/Melatonin_web.png",
+      "publishedAt": "2026-10-22T13:02:03Z",
+      "content": "One of the most popular supplements sold in the US could be having an unintended side effect, research suggests.\r\nOften promoted as a safe sleep aid, melatonin is a hormone-based supplement that many… [+5165 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Science Daily"
+      },
+      "author": null,
+      "title": "Millions take fish oil for brain health. A two-year study found no benefit - Science Daily",
+      "description": "A surprising two-year clinical trial found that fish oil supplements successfully delivered omega-3s to the brain but failed to improve memory or protect against Alzheimer&apos;s-related brain shrinkage. Researchers suspect that getting these nutrients throug…",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261020085427.htm",
+      "urlToImage": "https://www.sciencedaily.com/images/1920/fish-oil-omega-3-capsules-dha-epa.webp",
+      "publishedAt": "2026-10-22T12:48:28Z",
+      "content": "Millions of Americans take fish oil supplements in hopes of protecting their memory and keeping their brains healthy as they age. These products have become a major business, with Americans spending … [+8350 chars]"
     },
     {
       "source": {
@@ -125,6 +203,19 @@
       "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/K2NNXPAX4VSIG7GGR22DZNFGCA_size-normalized.jpg&w=1440",
       "publishedAt": "2026-10-22T11:41:16Z",
       "content": "Have you ever caught yourself randomly rubbing your chin, searching for a rogue hair?\r\nThose often coarser, darker, unwanted chin hairs are common affecting nearly half of women and are determined by… [+230 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ScienceAlert"
+      },
+      "author": "Peter Dockrill",
+      "title": "Herpes Virus Appears to Hijack The Brain's Immune Cells, And It Could Have Serious Consequences - ScienceAlert",
+      "description": "For many, the herpes virus is a pervasive pest that causes painful and unsightly blisters.",
+      "url": "https://www.sciencealert.com/herpes-virus-appears-to-hijack-the-brains-immune-cells-and-it-could-have-serious-consequences",
+      "urlToImage": "https://www.sciencealert.com/images/2026/10/cold-sore.jpg",
+      "publishedAt": "2026-10-22T11:02:02Z",
+      "content": "For many, the herpes virus is a pervasive pest that causes painful and unsightly blisters.\r\nBut the truth is far more concerning than any crusty cold sore.\r\nResearch shows the herpes simplex virus (H… [+4748 chars]"
     },
     {
       "source": {
@@ -207,15 +298,15 @@
     {
       "source": {
         "id": null,
-        "name": "DogTime"
+        "name": "NPR"
       },
-      "author": "Ritika Singh",
-      "title": "Toddler Hugs Golden Retriever, Then Lies Down Next to Him Like It’s the Safest Place She Knows - Yahoo",
-      "description": "The bond between kids and dogs cannot be described in a few words. The little humans find their comfort place in the warmth of these furry creatures. A recen...",
-      "url": "https://dogtime.com/dog-blog/235981-golden-retriever-toddler-hug-comfort-safe-place-bond",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/dab77b85d1c8e7a64f2ad0b717f541afe0540c06bfddaf0a713603a4f7978c36/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdog_time_927%2Ffc9bc311277b046ba7d70f82e8cb3b2d.jpg",
-      "publishedAt": "2026-10-22T07:09:16Z",
-      "content": "The bond between kids and dogs cannot be described in a few words. The little humans find their comfort place in the warmth of these furry creatures. A recent social media post has captured this inst… [+1724 chars]"
+      "author": "Allison Aubrey",
+      "title": "Can a dream help you solve a problem? Here's how to try tonight - NPR",
+      "description": "What can you learn from dreams and how can you remember them and steer them to the topics you wish to dream about. Allison Aubrey and A Martinez discuss the resurgance in dream research and how dreams are a tool for self-discovery.",
+      "url": "https://www.npr.org/2026/10/22/nx-s1-6008129/dream-incubation-research-self-discovery",
+      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2850x1603+0+148/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fbd%2F9d%2F910a152f4dbdb2517adab93ea70a%2Fgettyimages-1615047026.jpg",
+      "publishedAt": "2026-10-22T09:00:00Z",
+      "content": "We spend about two hours every night making home movies in our minds. Over a lifetime, that adds up to about seven years of dreaming.\r\nFor most of human history, those movies were considered sacred. … [+3794 chars]"
     },
     {
       "source": {
@@ -233,19 +324,6 @@
     {
       "source": {
         "id": null,
-        "name": "Eatingwell.com"
-      },
-      "author": "https://www.facebook.com/EatingWell/",
-      "title": "6 Best Cereals for a Late-Night Snack, According to Dietitians - EatingWell",
-      "description": "Dietitians share the 6 best cereals for a late-night snack, and other tips on how to pick out a late-night snack.",
-      "url": "https://www.eatingwell.com/best-cereals-for-late-night-snack-12184416",
-      "urlToImage": "https://www.eatingwell.com/thmb/GD_jFSdKuIaN__kf1O83nzK-ijA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Best-Cereals-for-a-Late-Night-Snack-According-to-Dietitians-b892e09086b24e4cafeb7eaad86e1f6c.jpg",
-      "publishedAt": "2026-10-22T02:00:00Z",
-      "content": "Dipping your spoon into some cereal and milk is a nostalgic experience that brings many of us back to enjoying a bowl as kids. And while cereal is usually considered a breakfast staple, it can also d… [+6109 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "New York Post"
       },
       "author": "Daniel Farr",
@@ -255,6 +333,19 @@
       "urlToImage": "https://s.yimg.com/lo/mysterio/api/e8b91a5125eee64bcdd8d6b1a40741b59604b980d4dd35df7bc878c74c29360f/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcalifornia_post_772%2F5255c7d03746b21d57348cc3ea1f0343.jpg",
       "publishedAt": "2026-10-21T23:55:46Z",
       "content": "The airborne bacteria that causes deadly Legionnaires' disease was discovered at the Los Angeles County Medical Examiner's Office, with an employee later testing positive for the disease.\r\nThe bacter… [+2580 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Endpoints.news"
+      },
+      "author": "Ryan Cross",
+      "title": "China biotech RiboX reveals first data of circular RNA therapies in people - Endpoints News",
+      "description": "RiboX Therapeutics published first circular RNA clinical data in NEJM, showing RXRG001 improved saliva in xerostomia patients, ahead of Orna, Orbital, and Sail Biomedicines.",
+      "url": "https://endpoints.news/china-biotech-ribox-reveals-first-data-of-circular-rna-therapies-in-people/",
+      "urlToImage": "https://endpoints.news/wp-content/uploads/2025/04/RNA-Shutterstock.jpg",
+      "publishedAt": "2026-10-21T23:19:00Z",
+      "content": "Biotech in­vestors and phar­ma com­pa­nies have poured bil­lions in­to three Boston-re­gion star­tups com­pet­ing to de­vel­op a next-gen­er­a­tion ver­sion of mR­NA tech­nol­o­gy that could make for"
     },
     {
       "source": {
@@ -311,6 +402,32 @@
     {
       "source": {
         "id": null,
+        "name": "Medianewsgroup.com"
+      },
+      "author": "Rachel Fobar, Tony Saavedra",
+      "title": "Deaths mount as West Nile virus hotspots emerge in LA, Orange counties - Orange County Register",
+      "description": "The two counties account for at least 63% of the infections reported by the state. The Inland Empire, meanwhile, has been virtually unscathed.",
+      "url": "https://wpdash.medianewsgroup.com/2026/10/21/deaths-mount-as-west-nile-virus-hotspots-emerge-in-la-orange-counties/",
+      "urlToImage": "https://www.ocregister.com/wp-content/uploads/2026/10/OCR-L-WESTNILE-10XX-JG-05.jpg?w=2000&h=1465",
+      "publishedAt": "2026-10-21T20:16:46Z",
+      "content": "More people are contracting mosquito-borne West Nile virus and dying in Los Angeles and Orange counties than anywhere else in California, pushing state levels to a five-year high.\r\nThe two counties c… [+8812 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Newser"
+      },
+      "author": "Rob Quinn",
+      "title": "Expert Say Risk of Rabies Could Be Rising - Newser",
+      "description": "'We're building subdivisions into former wildlife areas'",
+      "url": "https://www.newser.com/story/398566/expert-say-risk-of-rabies-could-be-rising.html",
+      "urlToImage": "https://cdn.newser.com/image/1719418-12-20261021152803.jpeg",
+      "publishedAt": "2026-10-21T19:58:00Z",
+      "content": "What is clear, they say, is that rabies remains a shape-shifting danger in wildlife, from raccoons on the East Coast to skunks in the central states and foxes in Texas, where a skunk-associated varia… [+1080 chars]"
+    },
+    {
+      "source": {
+        "id": null,
         "name": "UpperMichigansSource.com"
       },
       "author": "TV6 News Team",
@@ -327,7 +444,7 @@
         "name": "Yahoo Entertainment"
       },
       "author": "Kerry Justich",
-      "title": "She survived breast cancer at 42 and brought 2 million followers along. Now her mother is facing the same diagnosis. - Yahoo",
+      "title": "She survived breast cancer and brought 2 million followers along. Now her mother is facing the same diagnosis. - Yahoo",
       "description": "After documenting her breast cancer treatment for millions of followers, fashion influencer Bridget Bahl is opening up about the complicated reality of life...",
       "url": "https://www.yahoo.com/lifestyle/article/she-survived-breast-cancer-and-brought-2-million-followers-along-now-her-mother-is-facing-the-same-diagnosis-142141770.html",
       "urlToImage": "https://s.yimg.com/lo/mysterio/api/8c75fcde492ad8741f18948cbd4be87046b3b1a8dc7e20a80b1ba313ecff8088/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Flead-bridget-bahl_6049.jpg",
@@ -372,6 +489,19 @@
       "urlToImage": "https://media.nature.com/lw1200/magazine-assets/d41586-026-03334-2/d41586-026-03334-2_53886862.jpg",
       "publishedAt": "2026-10-21T19:03:08Z",
       "content": "The region called the insula is buried deep beneath the brains wrinkled surface (artists illustration).Credit: Alexander Leemans/UMC Utrecht/Science Photo Library\r\nScientists have mapped one of the m… [+2755 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Medical Xpress"
+      },
+      "author": null,
+      "title": "Pancreatic cancer study highlights body's natural molecules as potential treatment tools - Medical Xpress",
+      "description": "Pancreatic cancer cells are remarkably good at doing one thing: growing. But new Texas A&amp;M research suggests that two tiny molecules already present in the body may help slow them down.",
+      "url": "https://medicalxpress.com/news/2026-10-pancreatic-cancer-highlights-body-natural.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/tiny-molecules-may-hel.jpg",
+      "publishedAt": "2026-10-21T19:00:01Z",
+      "content": "Pancreatic cancer cells are remarkably good at doing one thing: growing. But new Texas A&amp;M research suggests that two tiny molecules already present in the body may help slow them down.\r\nResearch… [+6252 chars]"
     },
     {
       "source": {
@@ -441,15 +571,28 @@
     {
       "source": {
         "id": null,
-        "name": "Phys.Org"
+        "name": "Futurism"
       },
-      "author": null,
-      "title": "Newly identified metabolic pathway helps explain how cold extends lifespan - Phys.org",
-      "description": "Moderately cold temperatures have proven to effectively extend lifespan and delay age-related decline in animals. However, how cold temperatures trigger these beneficial effects at the molecular level has remained largely unclear.",
-      "url": "https://phys.org/news/2026-10-newly-metabolic-pathway-cold-lifespan.html",
-      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/mechanism-revealed-beh.jpg",
-      "publishedAt": "2026-10-21T15:00:34Z",
-      "content": "Moderately cold temperatures have proven to effectively extend lifespan and delay age-related decline in animals. However, how cold temperatures trigger these beneficial effects at the molecular leve… [+3975 chars]"
+      "author": "Joe Wilkins",
+      "title": "Startup Deploys AI-Engineered Virus on Human Patient - Futurism",
+      "description": "A buzzy new startup called Radical Numerics claims to have found a novel way to treat bacterial infections with AI, though questions abound.",
+      "url": "https://futurism.com/health-medicine/startup-human-patient-ai-engineered-virus",
+      "urlToImage": "https://futurism.com/wp-content/uploads/2026/10/startup-human-patient-ai-engineered-virus.jpg?w=1200",
+      "publishedAt": "2026-10-21T15:03:26Z",
+      "content": "Can’t-miss innovations from the bleeding edge of science and tech\r\nWhen it comes to putting strange substances into your body in 2026, the sky’s the limit.\r\nFirst there were black-market Russian pept… [+1904 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Eatingwell.com"
+      },
+      "author": "https://www.facebook.com/EatingWell/",
+      "title": "Hard-Boiled Eggs vs. Cottage Cheese: Which Is Better for Heart Health? - EatingWell",
+      "description": "Compare hard-boiled eggs and cottage cheese for heart health. Learn about protein, cholesterol, sodium and tips for a heart-healthy eating.",
+      "url": "https://www.eatingwell.com/hard-boiled-eggs-vs-cottage-cheese-heart-health-12177787",
+      "urlToImage": "https://www.eatingwell.com/thmb/T5yPjTYRrzx9Qy_MynRBXUrszlU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/hard-boiled-egg-vs-cottage-cheese-c0ff208d74af4a90af319304404ddb7e.jpg",
+      "publishedAt": "2026-10-21T14:00:00Z",
+      "content": "Heart disease is the leading cause of death among adults in the U.S. But your risk of developing heart disease can be lowered with adjustments to your lifestyle and diet. Small adjustments, such as w… [+5884 chars]"
     },
     {
       "source": {
@@ -479,29 +622,16 @@
     },
     {
       "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "author": "Andrew Jacobs",
-      "title": "Why Drug Companies Are Rushing to Market Ketamine Medicines",
-      "description": "Spurred on by the Trump administration’s embrace of psychedelic medicine, researchers are experimenting with new — and not so new — forms of the anesthetic.",
-      "url": "https://www.nytimes.com/2026/10/20/science/ketamine-fda-spravato-ketafree.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/09/14/science/14SCI-KETAMINE-FDA/14SCI-KETAMINE-FDA-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-10-21T12:41:58Z",
-      "content": "Spurred on by the Trump administration’s embrace of psychedelic medicine, researchers are experimenting with new — and not so new — forms of the anesthetic."
-    },
-    {
-      "source": {
         "id": null,
-        "name": "Foxweather.com"
+        "name": "Thetimes.com"
       },
-      "author": null,
-      "title": "Rabies concerns grow after record number of infected bats found in Los Angeles - FOX Weather",
-      "description": "A record-breaking number of rabies-positive bats have been detected across Los Angeles County, prompting public health officials to urge residents to take precautions to protect themselves and their pets from the potentially deadly virus.",
-      "url": "https://www.foxweather.com/earth-space/rabies-concerns-grow-after-record-number-infected-bats-found-los-angeles",
-      "urlToImage": "https://images.foxweather.com/static.foxweather.com/www.foxweather.com/content/uploads/2026/10/1024/512/gettyimages-1210661698-scaled.jpg?ve=1&tl=1",
-      "publishedAt": "2026-10-21T11:49:00Z",
-      "content": "THE TAKEAWAY: \r\n<ul><li>A record-breaking number of rabies-positive bats have been detected across Los Angeles County.</li><li>76 bats tested positive for rabies in 2026, surpassing the previous reco… [+3782 chars]"
+      "author": "Eleanor Hayward",
+      "title": "Drinking seven cups of tea a day linked to better heart health - The Times",
+      "description": "A study of almost 486,000 people in China found that regular tea drinking led to a 11 per cent decrease in risk of developing vascular disease",
+      "url": "https://www.thetimes.com/uk/healthcare/article/seven-cups-tea-day-better-heart-health-study-9f6dvv8v8",
+      "urlToImage": "https://www.thetimes.com/imageserver/image/aef0efa1-e500-4ad2-95c9-d943b16ff915.jpg?strip=all&format=webp&crop=5960px%2C3353px%2C868px%2C1237px&resize=1200",
+      "publishedAt": "2026-10-21T12:15:00Z",
+      "content": null
     },
     {
       "source": {
@@ -531,6 +661,19 @@
     },
     {
       "source": {
+        "id": "cbs-news",
+        "name": "CBS News"
+      },
+      "author": "Norah  O'Donnell",
+      "title": "10 years ago I was diagnosed with melanoma. Here's what my dermatologist wants you to know. - CBS News",
+      "description": "More people are diagnosed with skin cancer each year in the U.S. than all other cancers combined.",
+      "url": "https://www.cbsnews.com/news/melanoma-skin-cancer-dermatologist-norah-odonnell-healthful/",
+      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/10/20/f547c21c-98ac-4059-9a71-fc090c43ab31/thumbnail/1200x630/4cedcf8e72060f6faf15bb266b24ab22/norah-hale.jpg",
+      "publishedAt": "2026-10-21T11:00:00Z",
+      "content": "Ten years ago, I was at a routine dermatologist appointment when my doctor found two concerning spots on my back. Soon after, Dr. Elizabeth Hale told me my biopsy revealed I had melanoma, the deadlie… [+5600 chars]"
+    },
+    {
+      "source": {
         "id": null,
         "name": "The Boston Globe"
       },
@@ -557,19 +700,6 @@
     },
     {
       "source": {
-        "id": "usa-today",
-        "name": "USA Today"
-      },
-      "author": "Madeline Mitchell",
-      "title": "She went to the ER for food poisoning. She was given 6 months to live - USA Today",
-      "description": "Nicole Leon was sure she had food poisoning when she went to the emergency room. Instead, she was given a cancer diagnosis and six months to live.",
-      "url": "https://www.usatoday.com/story/life/health-wellness/2026/10/21/food-poisoning-liver-cancer/92327936007/",
-      "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/10/20/USAT/92350000007-img-1445.jpeg?crop=1512,850,x0,y351&width=1512&height=850&format=pjpg&auto=webp",
-      "publishedAt": "2026-10-21T10:27:00Z",
-      "content": "After a week of suffering, Nicole Leon took herself to the emergency room.\r\nShe was sure it was food poisoning. The then 32-year-old said everything in her stomach had been \"coming out of both ends\" … [+5616 chars]"
-    },
-    {
-      "source": {
         "id": "fox-news",
         "name": "Fox News"
       },
@@ -580,32 +710,6 @@
       "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/10/crop-41434851.jpg?quality=75&strip=all&w=1200",
       "publishedAt": "2026-10-21T10:13:00Z",
       "content": "People diagnosed with attention-deficit/hyperactivity disorder (ADHD) face a roughly 71% higher overall risk of early death compared to those without the condition, according to a new review publishe… [+3600 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "TOI Lifestyle Desk",
-      "title": "A happy marriage may hide a health risk: How couples’ daily routines influence biological ageing; what pa - The Times of India",
-      "description": "A couple may be happy together, enjoy their evenings on the sofa and look forward to sharing meals after work.",
-      "url": "https://timesofindia.indiatimes.com/life-style/relationships/a-happy-marriage-may-hide-a-health-risk-how-couples-daily-routines-influence-biological-ageing-what-partners-can-change-together-to-stay-healthier-for-longer/articleshow/135088754.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-135088862,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-10-21T10:09:00Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Vox"
-      },
-      "author": "Ananya Rupanagunta",
-      "title": "This chart shows just how rapidly Ebola is spreading - Vox",
-      "description": "﻿No previous Ebola outbreak has grown this quickly.",
-      "url": "https://www.vox.com/future-perfect/507074/ebola-spread-rapid-congo",
-      "urlToImage": "https://platform.vox.com/wp-content/uploads/sites/2/2026/10/gettyimages-2298469559.jpg?quality=90&strip=all&crop=0%2C10.729535279956%2C100%2C78.540929440087&w=1200",
-      "publishedAt": "2026-10-21T10:00:00Z",
-      "content": "The Ebola virus is spreading at an unprecedented rate this year.\r\nIn the first five months since the outbreak began in the Democratic Republic of Congo (DRC), the World Health Organization (WHO) has … [+4676 chars]"
     },
     {
       "source": {
@@ -622,16 +726,16 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "Medical Xpress"
+        "id": "usa-today",
+        "name": "USA Today"
       },
-      "author": null,
-      "title": "Can drinking tea help protect against cardiovascular disease? - Medical Xpress",
-      "description": "In a Journal of Internal Medicine study, people who drank tea had a lower risk of vascular disease than non-tea drinkers.",
-      "url": "https://medicalxpress.com/news/2026-10-tea-cardiovascular-disease.html",
-      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2021/tea-drinking.jpg",
-      "publishedAt": "2026-10-21T07:00:02Z",
-      "content": "In a Journal of Internal Medicine study, people who drank tea had a lower risk of vascular disease than non-tea drinkers.\r\nAmong 485,934 adults in China followed for a median of 9.05 years, there wer… [+1476 chars]"
+      "author": "Madeline Mitchell, USA TODAY",
+      "title": "She went to the ER for food poisoning. She was given 6 months to live - Yahoo",
+      "description": "Nicole Leon was sure she had food poisoning when she went to the emergency room. Instead, she was given a cancer diagnosis and six months to live.",
+      "url": "https://www.usatoday.com/story/life/health-wellness/2026/10/21/food-poisoning-liver-cancer/92327936007/",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/8941561e2597107ae242ffcd91c35188a2044a691d02175f3bfa8509b9001c2a/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fusa_today_life_698%2F55815926353a0237526f44f9d5a51fa0.jpg",
+      "publishedAt": "2026-10-21T09:03:55Z",
+      "content": "After a week of suffering, Nicole Leon took herself to the emergency room.\r\nShe was sure it was food poisoning. The then 32-year-old said everything in her stomach had been \"coming out of both ends\" … [+6242 chars]"
     },
     {
       "source": {
@@ -714,41 +818,15 @@
     {
       "source": {
         "id": null,
-        "name": "PsyPost"
+        "name": "Parade"
       },
-      "author": "Eric W. Dolan",
-      "title": "New study suggests touch is a key ingredient in dogs’ stress-buffering power - PsyPost",
-      "description": "Petting a dog after a stressful task didn’t speed recovery, but in a new experiment it was followed by calmer brain and heart responses when dog owners faced a second stress test soon after.",
-      "url": "https://www.psypost.org/new-study-suggests-touch-is-a-key-ingredient-in-dogs-stress-buffering-power/",
-      "urlToImage": "https://www.psypost.org/wp-content/uploads/2026/10/petting-dog.jpg",
-      "publishedAt": "2026-10-20T18:20:13Z",
-      "content": "Stroking a pet dog may not immediately erase the physical toll of a stressful experience, but it appears to prepare the body to handle the next challenge more calmly. A new study published in Biologi… [+14875 chars]"
-    },
-    {
-      "source": {
-        "id": "the-washington-post",
-        "name": "The Washington Post"
-      },
-      "author": "Leana S. Wen",
-      "title": "Opinion | Want to reduce chronic diseases? Invest in vaccines. - The Washington Post",
-      "description": "A new study shows that 1 in 8 cancers worldwide are due to infections.",
-      "url": "https://www.washingtonpost.com/opinions/2026/10/20/chronic-infectious-diseases-are-not-separate-health-priorities/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ARFPIEGQSQI7BEWLKYPOJZVHOE_size-normalized.jpg&w=1440",
-      "publishedAt": "2026-10-20T17:45:00Z",
-      "content": "A central argument of Robert F. Kennedy Jr.s Make America Healthy Again movement is that public health has devoted too much attention to infectious diseases while neglecting chronic conditions such a… [+243 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Abcnews.com"
-      },
-      "author": "ABC News - Breaking News, Latest News and Videos",
-      "title": "Teen shares the impact taking a GLP-1 drug has on his daily life - ABC News - Breaking News, Latest News and Videos",
-      "description": null,
-      "url": "https://abcnews.com/GMA/Wellness/teen-shares-impact-taking-glp-1-drug-daily/story?id\\\\u003d137406739",
-      "urlToImage": null,
-      "publishedAt": "2026-10-20T17:19:06Z",
-      "content": null
+      "author": "Beth Ann Mayer",
+      "title": "Doctors Reveal a 10-Second Balance Test to Assess Your Aging Health - AOL.com",
+      "description": "Plus, ways to feel stronger as you age.",
+      "url": "https://parade.com/health/test-that-can-reveal-how-you-are-aging-according-to-doctors",
+      "urlToImage": "https://hermes.media.static.aol.com/media/2026/10/20/4fec9807-ef90-3df8-aa95-fdc144f93c53/4ca84dad-7037-4e59-81f3-b8903bd8d7ee.jpg",
+      "publishedAt": "2026-10-20T18:50:00Z",
+      "content": "If youre luckyyes, luckyaging is inevitable. It means youre living and hopefully loving life. That said, more birthdays bring changes (and challenges), and often, youll want to know how youre aging.\r… [+7406 chars]"
     },
     {
       "source": {
@@ -762,45 +840,6 @@
       "urlToImage": null,
       "publishedAt": "2026-10-20T16:48:15Z",
       "content": "Certain viruses attack bacteria and can sometimes clear antibiotic-resistant infections. Researchers said they had tailored a virus to attack one patient’s illness."
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The Boston Globe"
-      },
-      "author": null,
-      "title": "You can now upload a selfie to a Mass General Brigham AI tool and it’ll estimate your biological age - The Boston Globe",
-      "description": "Facial appearance offers a non-invasive window into health. Anyone can now upload photos to try Mass General’s FaceAge tool.",
-      "url": "https://www.bostonglobe.com/2026/10/20/metro/ai-biological-age-face-selfie-free-tool/",
-      "urlToImage": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/v2/NEMF4LGBABCKTOIQSSYP6THV5I.jpg?auth=ec71d2780ca4d9024675fd959b17163feee7fae55ae2e1559a70f1787663450b&width=1440",
-      "publishedAt": "2026-10-20T15:23:00Z",
-      "content": "Within seconds, FaceAge posts the participants biological age an estimate of how old their body appears. Participants can add new images to track how they age over time. \r\nResearchers are using the u… [+5114 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Medscape"
-      },
-      "author": "Megan Brooks",
-      "title": "Ultraprocessed Foods Linked to Silent Brain Injury - Medscape",
-      "description": "Higher consumption of ultraprocessed foods was associated with silent vascular brain injury in middle age, even in the absence of measurable cognitive deficits.",
-      "url": "https://www.medscape.com/viewarticle/ultraprocessed-foods-linked-silent-brain-injury-2026a10013en",
-      "urlToImage": "https://img.medscapestatic.com/vim/live/professional_assets/b/d/2/12d76248-aa0a-459d-857a-077129ef92db/dt-261020-fast-food-driver-800x450.jpg",
-      "publishedAt": "2026-10-20T14:08:40Z",
-      "content": "Higher ultraprocessed food (UPF) intake was associated with silent vascular brain injury in middle-aged adults without cardiovascular disease, with no apparent effect on cognition. \r\nIn a cross-secti… [+6219 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Nature.com"
-      },
-      "author": null,
-      "title": "Transcranial ultrasound stimulation of the right globus pallidus interna in schizophrenia: A randomized, sham-controlled pilot study | npj Acoustics - Nature",
-      "description": "npj Acoustics - Transcranial ultrasound stimulation of the right globus pallidus interna in schizophrenia: A randomized, sham-controlled pilot study",
-      "url": "https://www.nature.com/articles/s44384-026-00076-3",
-      "urlToImage": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs44384-026-00076-3/MediaObjects/44384_2026_76_Fig1_HTML.png",
-      "publishedAt": "2026-10-20T11:11:28Z",
-      "content": "Study design and assessments\r\nThe study was approved by the New York University Grossman School of Medicine Institutional Review Board and registered at ClinicalTrials.gov (NCT05643196; full protocol… [+12483 chars]"
     },
     {
       "source": {
@@ -840,6 +879,19 @@
       "urlToImage": "https://static01.nyt.com/images/2026/10/19/multimedia/19dc-womens-health-fhpj/19dc-womens-health-fhpj-mediumSquareAt3X.jpg",
       "publishedAt": "2026-10-20T01:10:10Z",
       "content": "The effort comes as Republicans are struggling to win over female voters two weeks before the midterm elections."
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Lancet"
+      },
+      "author": null,
+      "title": "Foundation artificial intelligence models for health recognition by use of face photographs (FAHR-Face): a model development and validation study - The Lancet",
+      "description": "A single foundation model can generate inexpensive, scalable facial biomarkers that\ncapture both biological ageing and disease-related mortality risk. The foundation\nmodel enabled effective training by use of relatively small clinical datasets. Routine\nquanti…",
+      "url": "https://www.thelancet.com/journals/landig/article/PIIS2589-7500(26)00079-8/fulltext",
+      "urlToImage": "https://www.thelancet.com/cms/asset/204d80e1-67cc-495e-8dce-9560ab24536a/gr3g.jpg",
+      "publishedAt": "2026-10-20T00:01:47Z",
+      "content": "The content on this site is intended for science and health care professionals.\r\nAll content on this site: Copyright © 2026 Elsevier Ltd., its licensors, and contributors. \r\nAll rights are reserved, … [+236 chars]"
     },
     {
       "source": {
@@ -935,32 +987,6 @@
     {
       "source": {
         "id": null,
-        "name": "TODAY"
-      },
-      "author": "Caroline Kee",
-      "title": "This Is the No. 1 Risk Factor for Dementia That You Can Actually Prevent, According to a Geriatrician - TODAY.com",
-      "description": "As we get older, the world gradually starts looking and sounding a little different.",
-      "url": "https://www.today.com/health/aging/hearing-loss-dementia-risk-factor-geriatrician-tip-rcna603562",
-      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_social_share_1200x630_center,f_auto,q_auto:best/rockcms/2026-10/dementia-risk-factor-hearing-loss-tip-mh-10152026-7cdfcf.jpg",
-      "publishedAt": "2026-10-16T12:00:00Z",
-      "content": "As we get older, the world gradually starts looking and sounding a little different. Our vision may not be as sharp as it once was, and we may need to hit the increase volume button on the remote a f… [+4193 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "HuffPost"
-      },
-      "author": null,
-      "title": "What The Sit-To-Stand Test Reveals About How Well You're Aging - HuffPost",
-      "description": "It may seem like a very simple task, but it actually requires several systems to work together. Here’s what to know.",
-      "url": "https://www.huffpost.com/entry/sit-stand-test-chair-aging_l_6ace83ffe4b0447f8d4a94fa",
-      "urlToImage": "https://img.huffingtonpost.com/asset/6acf89e327000026649899f9.jpeg?cache=qw9rByGkSa&ops=500_281%2Cscalefit_1200_630",
-      "publishedAt": "2026-10-16T11:00:17Z",
-      "content": "What does it mean to be healthy? Lab work results, body mass index and even the ability to run a mile can offer insight, but with so many measures of well-being, getting a definite answer is complica… [+6641 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "News-Medical.Net"
       },
       "author": "Hugo Francisco de Souza",
@@ -970,19 +996,6 @@
       "urlToImage": "https://www.news-medical.net/images/news/ImageForNews_848948_17921139212287148.jpg",
       "publishedAt": "2026-10-16T01:26:00Z",
       "content": "What can more than 100,000 medical scans reveal about the fat that burns energy, and why are researchers examining an everyday blood pressure medication?\r\nStudy: Artificial intelligence-enabled clini… [+6091 chars]"
-    },
-    {
-      "source": {
-        "id": "nbc-news",
-        "name": "NBC News"
-      },
-      "author": "Aria Bendix",
-      "title": "Large study finds no link between ultra-processed food and colorectal cancer - NBC News",
-      "description": "Ultra-processed food wasn’t associated with colorectal cancer in a lengthy study of older adults. But scientists are left wondering: Which foods are safe to eat?",
-      "url": "https://www.nbcnews.com/health/health-news/ultra-processed-food-no-link-colorectal-cancer-study-rcna603552",
-      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/261014-chips-vl-510p-405426.jpg",
-      "publishedAt": "2026-10-15T18:00:41Z",
-      "content": "Just a moment.\r\nWe are getting your experience ready."
     },
     {
       "source": {

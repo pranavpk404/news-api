@@ -6,9 +6,22 @@
     "newsapi",
     "rss"
   ],
-  "fetched_at": "2026-10-25T23:37:53.786348+00:00",
-  "articles_count": 78,
+  "fetched_at": "2026-10-26T01:52:27.059619+00:00",
+  "articles_count": 80,
   "articles": [
+    {
+      "source": {
+        "id": "usa-today",
+        "name": "USA Today"
+      },
+      "author": "Anthony Thompson",
+      "title": "Marijuana legalization tied to rise in heart hospitalizations, study finds - USA Today",
+      "description": "A study of 50 million hospital records found heart-related admissions rose faster after recreational marijuana sales became legal in 13 Western states.",
+      "url": "https://www.usatoday.com/story/news/health/2026/10/24/heart-hospitalizations-climb-after-marijuana-legalization/92417385007/",
+      "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/10/24/USAT/92417620007-getty-images-2274922311.jpg?crop=2120,1193,x0,y110&width=2120&height=1193&format=pjpg&auto=webp",
+      "publishedAt": "2026-10-24T19:34:00Z",
+      "content": "Recreational marijuana legalization in the United States has been linked to faster increases in hospitalizations for three cardiovascular conditions, according to a new study examining more than 50 m… [+3418 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -86,6 +99,19 @@
       "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/10/crop-41498886_d2303a.jpg?quality=75&strip=all&w=1200",
       "publishedAt": "2026-10-24T14:52:00Z",
       "content": "About one in nine people over 65 have Alzheimer’s and the number is growing quickly.\r\nWithout an existing cure, researchers are racing to find ways to prevent and treat the disease, which kills more … [+3543 chars]"
+    },
+    {
+      "source": {
+        "id": "buzzfeed",
+        "name": "Buzzfeed"
+      },
+      "author": "Amy Glover",
+      "title": "Resarchers Asked Middle-Aged Women Why They Stopped Having Sex – It Wasn't Menopause - Yahoo",
+      "description": "When asked, unsatisfied women overwhelmingly mentioned a factor “not captured” by surveys.",
+      "url": "https://www.buzzfeed.com/aglover/why-women-have-less-sex-midlife-not-menopause?origin=bf-yahoo",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/2c4c612f432083ae571bb2e88db8d4bde8b014aed8f92f4e5b74981a38d73ed1/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbuzzfeed_articles_778%2F58adc73045dd37cbf5ad7c7516fb65d1.jpg",
+      "publishedAt": "2026-10-24T14:31:03Z",
+      "content": "It's common for women to notice changes in their drive and sex lives in their 40s and 50s, sexologist and author at Passionerad, Sofie Roos, previously told HuffPost UK.\r\nSometimes, these can be caus… [+4277 chars]"
     },
     {
       "source": {
@@ -190,32 +216,6 @@
       "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/09/24/6470290c-4da4-4997-8763-799e6bea2555/thumbnail/1200x630/eeeb17f9c0b6e5429ff6c2cb0f5c58bb/screenshot-2026-09-24-at-1-34-09-pm.png",
       "publishedAt": "2026-10-24T12:00:20Z",
       "content": "Ryan Goepel knew he didn't always treat his gout as well as he should. The inflammatory condition can be triggered by diet and lifestyle factors, and flare-ups can cause pain and discomfort.\r\nWhen th… [+6541 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "HuffPost"
-      },
-      "author": null,
-      "title": "Trump's Nickname For GLP-1s Has Doctors And Patients Raising An Important Concern - HuffPost",
-      "description": "Despite the president’s comments, patients say these medications have been life-changing, and their effectiveness cannot be ignored.",
-      "url": "https://www.huffpost.com/entry/trump-glp1-fat-drugs-g_l_6ada299de4b04f71533fb449",
-      "urlToImage": "https://img.huffingtonpost.com/asset/6a5fb340190000fe653309d9.jpeg?cache=GiIyBMfLQA&ops=500_281%2Cscalefit_1200_630",
-      "publishedAt": "2026-10-24T11:00:17Z",
-      "content": "The use of GLP-1s is skyrocketing throughout the world; 11% of American adults report taking the medications, up from just 3% in 2024, according to a Gallup poll.\r\nThe prescription can be used to tre… [+8587 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "HuffPost"
-      },
-      "author": null,
-      "title": "Why Your Glutes Are A Tell-Tale Sign of How Fast You Are Aging - HuffPost",
-      "description": "Physical rehabilitation experts share the unexpected sign of poor longevity — and what you can do to fix it at any age.",
-      "url": "https://www.huffpost.com/entry/body-part-aging-glutes-g_l_6ada2814e4b0ba084e152904",
-      "urlToImage": "https://img.huffingtonpost.com/asset/6aa98807170000c2b6201818.jpeg?cache=FmI8mNzqo4&ops=500_281%2Cscalefit_1200_630",
-      "publishedAt": "2026-10-24T11:00:17Z",
-      "content": "Many of us look for the obvious signs of aging. Gray hair. New lines around the eyes. Doing things a little slower than we used to.\r\nBut the mobility experts who work with older adults look at one pa… [+5648 chars]"
     },
     {
       "source": {
@@ -363,15 +363,15 @@
     {
       "source": {
         "id": null,
-        "name": "KABC-TV"
+        "name": "TODAY"
       },
-      "author": null,
-      "title": "First 2 flu-related deaths of 2026 season confirmed in Los Angeles County - ABC7 Los Angeles",
-      "description": "Los Angeles County health officials Thursday announced the first two flu-related deaths of the season.",
-      "url": "https://abc7.com/post/first-2-flu-related-deaths-2026-season-confirmed-los-angeles-county/19973288/",
-      "urlToImage": "https://cdn.abcotvs.com/dip/images/19910656_AP26072587709727.jpg?w=1600",
-      "publishedAt": "2026-10-23T19:26:53Z",
-      "content": "LOS ANGELES (CNS) -- Los Angeles County health officials Thursday announced the first two flu-related deaths of the season.\r\nBoth people who died were older adults who had pre-existing medication con… [+1348 chars]"
+      "author": "Caroline Kee",
+      "title": "Flu Activity is Ramping Up Early This Year. Is a Mutated H1N1 Strain to Blame? - TODAY.com",
+      "description": "The 2026-2027 flu season is starting early, fueled by an H1N1 strain with a new mutation. Here’s where flu activity is surging and how to protect yourself.",
+      "url": "https://www.today.com/health/cold-flu/early-flu-season-2026-mutated-virus-spreading-rcna605013",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_social_share_1200x630_center,f_auto,q_auto:best/rockcms/2026-10/early-flu-activity-h1n1-as10232026-514a9f.jpg",
+      "publishedAt": "2026-10-23T19:27:15Z",
+      "content": "If youre surprised to hear about people getting sick with the flu before Halloween, youre not alone. The 2026-2027 flu season appears to be off to an early and strong start, experts say.\r\nInfluenza a… [+7953 chars]"
     },
     {
       "source": {
@@ -440,6 +440,19 @@
     },
     {
       "source": {
+        "id": "the-washington-post",
+        "name": "The Washington Post"
+      },
+      "author": "Meeri Kim",
+      "title": "Beyond cigarettes: Uncovering the causes of lung cancer in nonsmokers - The Washington Post",
+      "description": "The disease’s rising incidence among nonsmokers is prompting greater research into its unique characteristics and hopes for more targeted screening and treatment.",
+      "url": "https://www.washingtonpost.com/health/2026/10/23/beyond-cigarettes-uncovering-causes-lung-cancer-nonsmokers/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/G3FPFQASYCK5DSVEZWOENXB5YM_size-normalized.jpg&w=1440",
+      "publishedAt": "2026-10-23T16:59:22Z",
+      "content": "Bryant Lins persistent, hacking cough had lasted for six weeks, with no sign of improvement. As a clinical professor and primary care physician at Stanford University, he tried the usual treatments f… [+79 chars]"
+    },
+    {
+      "source": {
         "id": "ars-technica",
         "name": "Ars Technica"
       },
@@ -463,19 +476,6 @@
       "urlToImage": "https://s.yimg.com/lo/mysterio/api/1c381afde279e0b540276ffaac872e654d18c5d3fd8b6245e47647552b458a78/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2F358fce68c0d22daeb77770c2adcc7385.jpg",
       "publishedAt": "2026-10-23T15:37:15Z",
       "content": "NEED TO KNOW\r\n<ul><li>Nearly 100 students and staff have been linked to a norovirus outbreak at Bentwood Elementary School in Olathe, Kansas\r\n</li><li>Health officials said no hospitalizations were r… [+3813 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Medical Xpress"
-      },
-      "author": null,
-      "title": "Children who eat more ultraprocessed foods show stronger brain responses to appetizing foods - Medical Xpress",
-      "description": "Children who eat more ultraprocessed foods (UPFs) show stronger responses in the brain's reward network when viewing images of appetizing foods—and these brain responses are linked to increases in body fat one year later.",
-      "url": "https://medicalxpress.com/news/2026-10-children-ultraprocessed-foods-stronger-brain.html",
-      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/ultraprocessed-foods.jpg",
-      "publishedAt": "2026-10-23T15:00:01Z",
-      "content": "Children who eat more ultraprocessed foods (UPFs) show stronger responses in the brain's reward network when viewing images of appetizing foodsand these brain responses are linked to increases in bod… [+4692 chars]"
     },
     {
       "source": {
@@ -541,6 +541,19 @@
       "urlToImage": "https://scx2.b-cdn.net/gfx/news/2026/study-finds-lower-rate.jpg",
       "publishedAt": "2026-10-23T12:30:02Z",
       "content": "A large-scale survey has found cats fed vegan diets had lower rates of obesity and related health problems than those fed conventional meat-based diets.\r\nAn online survey analyzed caregiver-reported … [+3586 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tribunecontentagency.com"
+      },
+      "author": "dpa",
+      "title": "Junk food linked to ‘silent stroke’ by middle age - The Seattle Times",
+      "description": "Silent strokes show no obvious symptoms, but cause permanent damage and are seen as early warning signs that can appear years before a major stroke.",
+      "url": "https://delivery.tribunecontentagency.com/preview/202610230415MCT_____NEWS_SVC_29848_knibc",
+      "urlToImage": "https://images.seattletimes.com/wp-content/uploads/2026/10/10232026_candy102326-tzr_tzr_034156.jpg?d=1200x630",
+      "publishedAt": "2026-10-23T11:31:49Z",
+      "content": "WASHINGTON Instant noodles, soft drinks, sweetened breakfast cereals and ready meals: Ultra-processed food means not only missing recommended grains and proteins, it can also leave you at risk of “si… [+1809 chars]"
     },
     {
       "source": {
@@ -635,6 +648,19 @@
     },
     {
       "source": {
+        "id": "buzzfeed",
+        "name": "Buzzfeed"
+      },
+      "author": "Gabrielle LaFrank",
+      "title": "Women On GLP-1s Are Revealing The Side Effects And Experiences No One Told Them About - BuzzFeed",
+      "description": "\"I took GLP-1s and was miserable the whole time. I basically felt like I was pregnant.\"",
+      "url": "https://www.buzzfeed.com/gabriellelafrank/glp-1-side-effects-women-wish-they-knew-about",
+      "urlToImage": "https://img.buzzfeed.com/buzzfeed-static/static/2026-10/21/20/thumb/fx4sV628T.jpg?crop=2999:1570;0,2%26downsize=1250:*",
+      "publishedAt": "2026-10-22T23:31:02Z",
+      "content": "u/plecomom\r\n\"Yes! It felt a lot like morning sickness. Nausea, constipation, food aversions. Sure, I lost a little weight, but only because I felt so awful I didnt want to eat. Sadly, it left me so i… [+107 chars]"
+    },
+    {
+      "source": {
         "id": null,
         "name": "KSDK.com"
       },
@@ -671,19 +697,6 @@
       "urlToImage": "https://static01.nyt.com/images/2026/10/22/multimedia/22cli-europe-heat-deaths-gfbw/22cli-europe-heat-deaths-gfbw-mediumSquareAt3X.jpg",
       "publishedAt": "2026-10-22T23:01:06Z",
       "content": "This summer’s heat was the continent’s deadliest by far this century, according to new peer-reviewed estimates."
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "New York Post"
-      },
-      "author": "Patrice Peck",
-      "title": "Marijuana legalization linked to troubling health trend in landmark new study - New York Post",
-      "description": "A first-of-its-kind study uncovered a rise in hospital admissions for several deadly conditions.",
-      "url": "https://nypost.com/2026/10/22/health/marijuana-legalization-linked-to-troubling-health-trend-study/",
-      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/10/146107700.jpg?quality=75&strip=all&w=1200",
-      "publishedAt": "2026-10-22T22:30:00Z",
-      "content": "You might want to give that joint a second thought.\r\nRecreational cannabis is legal in 24 states, with advocates hailing the shift as a victory.\r\nBut new research suggests the monumental move may com… [+3947 chars]"
     },
     {
       "source": {
@@ -905,6 +918,19 @@
       "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_social_share_1200x630_center,f_auto,q_auto:best/rockcms/2026-10/osteoporosis-symptom-check-mh-10202026-788dd1.png",
       "publishedAt": "2026-10-20T15:28:49Z",
       "content": "If youre a woman in your 40s, its time to think about osteoporosis.\r\nThe bone disease may bring to mind an elderly patient, but the process that weakens the skeleton and makes a person vulnerable to … [+6688 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "HuffPost"
+      },
+      "author": null,
+      "title": "Cardiologists Reveal The Overlooked Signs Of Heart Disease They Wish Everyone Would Know - HuffPost",
+      "description": "Cardiologists say these common symptoms are often overlooked or mistaken for something else.",
+      "url": "https://www.huffpost.com/entry/cardiologists-signs-heart-disease-people-miss_l_6ab6cf6ce4b075a3d285e9d2",
+      "urlToImage": "https://img.huffingtonpost.com/asset/6ad675411c00004070265b6d.jpeg?cache=wn5q5xzXRx&ops=500_281%2Cscalefit_1200_630",
+      "publishedAt": "2026-10-20T12:49:47Z",
+      "content": "When we think of cardiac issues, we tend to imagine a dramatic moment with someone grasping at their chest in pain. Thats not always how it looks.\r\nHeart disease doesnt always present with the classi… [+12979 chars]"
     },
     {
       "source": {

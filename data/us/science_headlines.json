@@ -6,9 +6,35 @@
     "newsapi",
     "rss"
   ],
-  "fetched_at": "2026-10-26T20:46:11.681501+00:00",
-  "articles_count": 68,
+  "fetched_at": "2026-10-27T00:56:26.757989+00:00",
+  "articles_count": 70,
   "articles": [
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Michael Janofsky",
+      "title": "The Science Behind Your Reaction to Art",
+      "description": "The Honolulu Museum of Art is showing how art can influence thinking, perspective and mood, in an exhibition that is part of a trend by museums to mix science and art.",
+      "url": "https://www.nytimes.com/2026/10/26/arts/design/museums-mix-science-art.html",
+      "urlToImage": null,
+      "publishedAt": "2026-10-26T21:33:51Z",
+      "content": "The Honolulu Museum of Art is showing how art can influence thinking, perspective and mood, in an exhibition that is part of a trend by museums to mix science and art."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Katrina Miller",
+      "title": "Gaze at the Cosmic Dawn in Dizzying Detail",
+      "description": "A new simulation offers a highly immersive look at what happened during the first couple of billion years following the Big Bang.",
+      "url": "https://www.nytimes.com/2026/10/26/science/space/early-universe-simulation-lumina.html",
+      "urlToImage": null,
+      "publishedAt": "2026-10-26T21:14:48Z",
+      "content": "A new simulation offers a highly immersive look at what happened during the first couple of billion years following the Big Bang."
+    },
     {
       "source": {
         "id": "the-new-york-times",
@@ -60,6 +86,32 @@
       "urlToImage": "https://static01.nyt.com/images/2026/10/26/science/26SCI-UNKNOWNS-NEANDERTHALS/26SCI-UNKNOWNS-NEANDERTHALS-mediumSquareAt3X.jpg",
       "publishedAt": "2026-10-26T09:00:45Z",
       "content": "Scientists now know that they shared many of the sophisticated abilities of Homo sapiens. So why are we the only humans left standing?"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ScienceAlert"
+      },
+      "author": "Tessa Koumoundouros",
+      "title": "Scientists Discovered an Amazing Practical Use For The World's Leftover Coffee Grounds - ScienceAlert",
+      "description": "Charred coffee grounds could make concrete up to 30 percent stronger, scientists in Australia have found.",
+      "url": "https://www.sciencealert.com/scientists-discovered-an-amazing-practical-use-for-the-worlds-leftover-coffee-grounds",
+      "urlToImage": "https://www.sciencealert.com/images/2026/10/LeftoverCoffeeGrinds-1200x675.png",
+      "publishedAt": "2026-10-25T20:01:47Z",
+      "content": "Charred coffee grounds could make concrete up to 30 percent stronger, scientists in Australia have found.\r\nTheir clever recipe could solve multiple problems at once.\r\nEach year, the world produces ab… [+3964 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Phys.Org"
+      },
+      "author": null,
+      "title": "Supercurrent enables the reading of quantum information without destroying it - Phys.org",
+      "description": "One of the fundamental challenges of quantum computing is obtaining information from a quantum bit, or qubit. Unlike a conventional bit, which can be read repeatedly without altering its content, direct measurement of a quantum system typically causes the sta…",
+      "url": "https://phys.org/news/2026-10-supercurrent-enables-quantum-destroying.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/supercurrent-enables-t.jpg",
+      "publishedAt": "2026-10-25T19:00:20Z",
+      "content": "One of the fundamental challenges of quantum computing is obtaining information from a quantum bit, or qubit. Unlike a conventional bit, which can be read repeatedly without altering its content, dir… [+10802 chars]"
     },
     {
       "source": {
@@ -151,6 +203,19 @@
       "urlToImage": "https://s.yimg.com/lo/mysterio/api/17767289b3e196d27617cbf88b88a2c39a8c87b5cc3303471b2c57ca80fa4cd5/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbenzinga_79%2F387f43c16f867a17e48674a7285a010d.jpg",
       "publishedAt": "2026-10-25T00:30:00Z",
       "content": "Benzinga and Yahoo Finance LLC may earn commission or revenue on some items through the links below.\r\nElon Musk's ambition to establish a self-sustaining civilization of one million people on Mars fa… [+5705 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ScienceAlert"
+      },
+      "author": "Michelle Starr",
+      "title": "Physicists May Have Inadvertently Built a Qubit That Can Run Backward in Time - ScienceAlert",
+      "description": "In the classical Universe, the arrow of time flies one way – but in the quantum realm, where classical physics breaks down, could even time's direction be ripe for the tweaking? The ability to manipulate the direction of quantum evolution could offer new ways…",
+      "url": "https://www.sciencealert.com/physicists-may-have-inadvertently-built-a-qubit-that-can-run-backward-in-time",
+      "urlToImage": "https://www.sciencealert.com/images/2026/10/QubitBackward.png",
+      "publishedAt": "2026-10-24T21:02:47Z",
+      "content": "In the classical Universe, the arrow of time flies one way but in the quantum realm, where classical physics breaks down, could even time's direction be ripe for the tweaking?\r\nThe ability to manipul… [+5336 chars]"
     },
     {
       "source": {
@@ -365,19 +430,6 @@
         "id": null,
         "name": "Phys.Org"
       },
-      "author": "Paul Arnold",
-      "title": "Rare fossils reveal what ancient Denisovans may have looked like - Phys.org",
-      "description": "Whenever anything is written about the Denisovans, the word \"mysterious\" is almost guaranteed to appear. That is because we just don't know a lot about this extinct human group that may have lived in East Asia from at least 300,000 to 45,000 years ago and was…",
-      "url": "https://phys.org/news/2026-10-rare-fossils-reveal-ancient-denisovans.html",
-      "urlToImage": "https://scx2.b-cdn.net/gfx/news/2026/rare-fossils-reveal-wh.jpg",
-      "publishedAt": "2026-10-23T18:30:01Z",
-      "content": "Whenever anything is written about the Denisovans, the word \"mysterious\" is almost guaranteed to appear. That is because we just don't know a lot about this extinct human group that may have lived in… [+3688 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Phys.Org"
-      },
       "author": null,
       "title": "Black holes spinning near maximum rate could split in two, calculations suggest - Phys.org",
       "description": "Two black holes can collide and merge into one. But could the opposite happen: could a single black hole split into two smaller ones? That question is explored in a new theoretical study: \"When Black Holes Admit Pair-of-pants Topologies,\" published in the jou…",
@@ -493,19 +545,6 @@
     {
       "source": {
         "id": null,
-        "name": "IFLScience"
-      },
-      "author": "Stephen Luntz",
-      "title": "Voyager 1 Is About To Reach 1 Light-Day From Earth. What Do We Know About What's Out There? - IFLScience",
-      "description": "On November 18, 2026, Voyager 1 will become the first-ever human-made object to reach 1 light-day away.",
-      "url": "https://www.iflscience.com/voyager-1-is-about-to-reach-1-light-day-from-earth-what-do-we-know-about-whats-out-there-85014",
-      "urlToImage": "https://assets.iflscience.com/assets/articleNo/85014/aImg/93261/voyager-1-meta.png",
-      "publishedAt": "2026-10-23T15:20:12Z",
-      "content": "In less than a month, Voyager 1 will cross an imaginary, but psychologically important, line, the sphere marking a light-day from Earth. For the first time, the immensely weak radio signals the pluck… [+5819 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "Science Daily"
       },
       "author": null,
@@ -554,6 +593,19 @@
       "urlToImage": "https://images.theconversation.com/files/761221/original/file-20260921-60-pr752s.jpg?ixlib=rb-4.1.1&rect=0%2C561%2C6720%2C3360&q=45&auto=format&w=1356&h=668&fit=crop",
       "publishedAt": "2026-10-23T09:03:28Z",
       "content": "In September 2018, China Daily ran a story that found its way to my desk. It featured the photograph of a beautifully preserved fossil skull with huge brow-ridges, with a caption speculating wrongly,… [+15209 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Dailykos.com"
+      },
+      "author": "Besame",
+      "title": "Overnight Science News: Over 76% of Americans can’t name a living scientist - Daily Kos",
+      "description": "This week’s science news roundup begins with climate change drama then continues with (mostly) happier topics like dinosaurs, butterflies, and lizard tails in amber. Please add your contributions in a…",
+      "url": "http://www.dailykos.com/stories/2026/10/24/800117223/community/overnight-science-news/",
+      "urlToImage": "https://www.dailykos.com/wp-content/uploads/sites/2/images/1482647/original/madsci.jpg",
+      "publishedAt": "2026-10-23T07:00:00Z",
+      "content": "This week’s science news roundup begins with climate change drama then continues with (mostly) happier topics like dinosaurs, butterflies, and lizard tails in amber. Please add your contributions in … [+11478 chars]"
     },
     {
       "source": {
@@ -662,19 +714,6 @@
     {
       "source": {
         "id": null,
-        "name": "Phys.Org"
-      },
-      "author": null,
-      "title": "Quantum interference traps electron waves in metal for first time - Phys.org",
-      "description": "Ever since quantum mechanics first described particles, like electrons, as rippling waves, researchers have wondered if those waves could be trapped in place. Writing today in Science a century later, a team of Columbia University researchers reports waves of…",
-      "url": "https://phys.org/news/2026-10-quantum-electron-metal.html",
-      "urlToImage": "https://scx2.b-cdn.net/gfx/news/2026/quantum-interference-i.jpg",
-      "publishedAt": "2026-10-22T18:00:18Z",
-      "content": "Ever since quantum mechanics first described particles, like electrons, as rippling waves, researchers have wondered if those waves could be trapped in place. Writing today in Science a century later… [+5864 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "PEOPLE"
       },
       "author": "Moná Thomas",
@@ -778,6 +817,19 @@
     },
     {
       "source": {
+        "id": null,
+        "name": "Nature.com"
+      },
+      "author": null,
+      "title": "This is what the mysterious Denisovans looked like - Nature",
+      "description": "Archaeologists identified skull fragments from China as belonging to this group of ancient human relatives.",
+      "url": "https://www.nature.com/articles/d41586-026-03360-0",
+      "urlToImage": "https://media.nature.com/lw1200/magazine-assets/d41586-026-03360-0/d41586-026-03360-0_53887042.jpg",
+      "publishedAt": "2026-10-21T19:03:08Z",
+      "content": "Artist depiction of the heavy set facial features of a Denisovan.Credit: Institute of Vertebrate Paleontology and Paleoanthropology/Chinese Academy of Sciences\r\nA low, sloping forehead, a massive bro… [+2685 chars]"
+    },
+    {
+      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -801,19 +853,6 @@
       "urlToImage": null,
       "publishedAt": "2026-10-21T18:59:45Z",
       "content": "As several states report surges in animal cases, federal officials are warning about an apparent increase in human exposures."
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Phys.Org"
-      },
-      "author": null,
-      "title": "Keeping to warm climates may have helped crocodiles outlast the dinosaurs - Phys.org",
-      "description": "Keeping to warm climates throughout their 250-million-year history may have helped crocodiles and their relatives survive the asteroid that killed the dinosaurs, finds a new study led by UCL (University College London) researchers.",
-      "url": "https://phys.org/news/2026-10-climates-crocodiles-outlast-dinosaurs.html",
-      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2023/nile-crocodile.jpg",
-      "publishedAt": "2026-10-21T18:00:49Z",
-      "content": "Keeping to warm climates throughout their 250-million-year history may have helped crocodiles and their relatives survive the asteroid that killed the dinosaurs, finds a new study led by UCL (Univers… [+5662 chars]"
     },
     {
       "source": {
@@ -879,19 +918,6 @@
       "urlToImage": null,
       "publishedAt": "2026-10-20T16:48:15Z",
       "content": "Certain viruses attack bacteria and can sometimes clear antibiotic-resistant infections. Researchers said they had tailored a virus to attack one patient’s illness."
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "author": "Kenneth Chang",
-      "title": "Russian Satellite Makes a Menacing Approach to Another Craft in Orbit",
-      "description": "Although Kosmos 2612 is now backing away, the maneuver raised alarm bells for analysts who see it as part of a pattern of Russian aggression.",
-      "url": "https://www.nytimes.com/2026/10/19/science/russia-satellite-kosmos-2612.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/10/19/science/19SCI-SAT-STALKER/19SCI-SAT-STALKER-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-10-20T00:24:26Z",
-      "content": "Although Kosmos 2612 is now backing away, the maneuver raised alarm bells for analysts who see it as part of a pattern of Russian aggression."
     }
   ]
 }

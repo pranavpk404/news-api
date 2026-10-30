@@ -1,7 +1,20 @@
 {
   "status": "ok",
-  "totalResults": 88,
+  "totalResults": 86,
   "articles": [
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Cade Metz",
+      "title": "After Reinventing Mathematics, Can A.I. Eradicate Computer Bugs?",
+      "description": "Using the same techniques that allowed A.I. technologies to crack a million-dollar math problem, researchers are building new systems that aim to solve the world’s cybersecurity crisis.",
+      "url": "https://www.nytimes.com/2026/10/29/science/ai-eradicate-computer-bugs.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/10/29/multimedia/29SCI-AND-TRUTH-01-hvwz/29SCI-AND-TRUTH-01-hvwz-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-10-29T21:09:08Z",
+      "content": "Using the same techniques that allowed A.I. technologies to crack a million-dollar math problem, researchers are building new systems that aim to solve the world’s cybersecurity crisis."
+    },
     {
       "source": {
         "id": "the-new-york-times",
@@ -12,7 +25,7 @@
       "description": "Software known as STRmix was instrumental in identifying Mr. Bundy’s DNA in a decades-old sample.",
       "url": "https://www.nytimes.com/2026/10/29/science/dna-ted-bundy-cold-case.html",
       "urlToImage": "https://static01.nyt.com/images/2026/10/29/science/29sci-dna-bundy-01/29sci-dna-bundy-01-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-10-29T20:10:55Z",
+      "publishedAt": "2026-10-29T20:55:59Z",
       "content": "Software known as STRmix was instrumental in identifying Mr. Bundy’s DNA in a decades-old sample."
     },
     {
@@ -85,25 +98,12 @@
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
-      "author": "Cade Metz",
-      "title": "After Reinventing Mathematics, Can A.I. Eradicate Computer Bugs?",
-      "description": "Using the same techniques that allowed A.I. technologies to crack a million-dollar math problem, researchers are building new systems that aim to solve the world’s cybersecurity crisis.",
-      "url": "https://www.nytimes.com/2026/10/29/science/ai-eradicate-computer-bugs.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/10/29/multimedia/29SCI-AND-TRUTH-01-hvwz/29SCI-AND-TRUTH-01-hvwz-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-10-29T13:00:10Z",
-      "content": "Using the same techniques that allowed A.I. technologies to crack a million-dollar math problem, researchers are building new systems that aim to solve the world’s cybersecurity crisis."
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
       "author": "Christina Jewett",
       "title": "RFK Jr. to Allow Broad Use of Unapproved Peptide Injections",
       "description": "In a unilateral declaration by the health secretary, several injections promoted by online influencers will become widely available. The F.D.A. had advised against the move.",
       "url": "https://www.nytimes.com/2026/10/28/health/peptides-kennedy-fda.html",
       "urlToImage": "https://static01.nyt.com/images/2026/10/28/multimedia/00DC-Peptides-mpjh/00DC-Peptides-mpjh-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-10-29T12:42:20Z",
+      "publishedAt": "2026-10-29T12:42:21Z",
       "content": "In a unilateral declaration by the health secretary, several injections promoted by online influencers will become widely available. The F.D.A. had advised against the move."
     },
     {
@@ -121,6 +121,19 @@
     },
     {
       "source": {
+        "id": "the-washington-post",
+        "name": "The Washington Post"
+      },
+      "author": "Scott Nover",
+      "title": "Jezebel removed over 100 articles from its website, outraging former staff - The Washington Post",
+      "description": "The website’s publisher says that the articles — many with racy headlines — were not deleted, but temporarily unpublished.",
+      "url": "https://www.washingtonpost.com/business/2026/10/28/jezebel-removed-over-100-articles-its-website-outraging-former-staff/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/AY3636Y7EJBXDF4RS5LHDEQQPM_size-normalized.jpg&w=1440",
+      "publishedAt": "2026-10-28T21:17:37Z",
+      "content": "Jezebel, a women-focused website that launched in 2007 and became an edgy and often transgressive staple of feminist internet culture, has removed more than 100 articles from its website with racy wo… [+259 chars]"
+    },
+    {
+      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -131,6 +144,19 @@
       "urlToImage": "https://static01.nyt.com/images/2026/10/29/multimedia/26ST-NEUTRINO-Q-AND-A-1-pwhl/26ST-NEUTRINO-Q-AND-A-1-pwhl-mediumSquareAt3X.jpg",
       "publishedAt": "2026-10-28T20:38:51Z",
       "content": "Dr. Francis Halzen, the recipient of the Nobel Prize in Physics, sheds some light on the mysterious, subatomic particles that whiz through us every day."
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Matthew Phelan",
+      "title": "There Are 15,000 Ant Species on Earth. Blame the Asteroid That Killed the Dinosaurs - Gizmodo",
+      "description": "Our planet is covered in ants. Researchers now say their ascendance escalated 66 million years ago, powered by retrovirus-like “jumping genes.”",
+      "url": "https://gizmodo.com/there-are-15000-ant-species-on-earth-blame-the-asteroid-that-killed-the-dinosaurs-2000832019",
+      "urlToImage": "https://gizmodo.com/app/uploads/2026/10/ants-species-jumping-genes-evolution-1200x675.jpeg",
+      "publishedAt": "2026-10-28T19:35:01Z",
+      "content": "People typically think of the city-sized Chicxulub asteroids devastating collision with North America 66 million years ago as simply a mass extinction eventwhich, of course, it was for dinosaurs. But… [+4103 chars]"
     },
     {
       "source": {
@@ -186,6 +212,19 @@
     },
     {
       "source": {
+        "id": null,
+        "name": "Archaeologymag.com"
+      },
+      "author": "Dario Radley",
+      "title": "Denisovans had a distinctive look, protein and skull study suggests - Archaeology News Online Magazine",
+      "description": "Protein analysis of fossils from northern China and skull comparisons outline a distinctive Denisovan look, with a wide skull and heavy brow",
+      "url": "https://archaeologymag.com/2026/10/denisovans-had-distinctive-look-protein-study-suggests/",
+      "urlToImage": "https://archaeologymag.com/wp-content/uploads/denisovans-look-protein-study-1.jpg",
+      "publishedAt": "2026-10-28T16:28:22Z",
+      "content": "Scientists in China have pulled ancient proteins from two bones found at the Xujiayao site and learned the people who left them were Denisovans. The result changes how researchers sort a messy group … [+2990 chars]"
+    },
+    {
+      "source": {
         "id": "the-times-of-india",
         "name": "The Times of India"
       },
@@ -196,6 +235,19 @@
       "urlToImage": "https://static.toiimg.com/thumb/msid-135272221,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
       "publishedAt": "2026-10-28T16:27:00Z",
       "content": "<ul><li>News</li>\r\n<li>Science News</li>\r\n<li>Scientists have discovered a giant new fungus in China that grows up to 20 inches tall and weighs nearly five pounds, making it the largest known of its … [+2023 chars]"
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Jacopo Prisco",
+      "title": "‘It’s big’: Astronomers make startling discovery of a possible dwarf planet beyond Pluto - CNN",
+      "description": "ED138, a newly discovered dwarf planet candidate, could join a group of only five other recognized objects that includes our solar system’s former ninth planet.",
+      "url": "https://www.cnn.com/2026/10/28/science/ed138-dwarf-planet-candidate-beyond-pluto",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/noirlab2626f.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2026-10-28T15:56:33Z",
+      "content": "Astronomers have spotted a new dwarf planet candidate in the solar system, beyond the orbit of Pluto, which they provisionally named ED138.\r\nIf futureobservations confirm the discovery, ED138 will jo… [+5865 chars]"
     },
     {
       "source": {
@@ -252,28 +304,15 @@
     {
       "source": {
         "id": null,
-        "name": "A-z-animals.com"
+        "name": "Science Daily"
       },
-      "author": "Andrew Clemente",
-      "title": "Watch a Mother Bear Give a Wildlife Expert a Warning Bite Near Her Cub - Yahoo",
-      "description": "Gordon Buchanan had spent hours earning a wild black bear's trust, sitting just feet from her and her cub, when Lily suddenly grabbed his leg with her teeth....",
-      "url": "https://a-z-animals.com/blog/watch-the-intense-scene-when-a-bear-give-a-warning-bite-to-a-wildlife-expert-sitting-next-to-its-cub/",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/ab26ac3aec6a75aaf0286ad43c5b46d31a92dc00ba9ae74b92027fa9700178de/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fa_z_animals_articles_598%2F63f53f7ae6f01b886add657bf9522d62.jpg",
-      "publishedAt": "2026-10-28T13:00:00Z",
-      "content": "The post Watch a Mother Bear Give a Wildlife Expert a Warning Bite Near Her Cub appeared first on A-Z Animals.\r\nWildlife filmmaker Gordon Buchanan was enjoying the kind of close encounter most people… [+3871 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Space.com"
-      },
-      "author": "Mike Wall",
-      "title": "Astronomers found a mysterious object beyond Neptune, and it could be a new dwarf planet - Space",
-      "description": "“My first reaction was one of excited disbelief.\"",
-      "url": "https://www.space.com/astronomy/dwarf-planets/astronomers-found-a-mysterious-object-beyond-neptune-and-it-could-be-a-new-dwarf-planet",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/5UR38v6ujvUPE5EBEzvts3-1920-80.jpg",
-      "publishedAt": "2026-10-28T12:58:18Z",
-      "content": null
+      "author": null,
+      "title": "Smaller EV batteries, longer range? Scientists may have found a way - Science Daily",
+      "description": "Scientists have developed a new technology that could make electric vehicle batteries smaller, lighter, and longer-lasting, potentially allowing cars to travel farther on a single charge. By borrowing precision manufacturing techniques from computer chip prod…",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261027063708.htm",
+      "urlToImage": "https://www.sciencedaily.com/images/1920/smaller-and-lighter-ev-batteries.webp",
+      "publishedAt": "2026-10-28T12:27:40Z",
+      "content": "Researchers in South Korea have developed a new technology that could lead to smaller, lighter electric vehicle (EV) batteries capable of delivering longer driving ranges on a single charge. Scientis… [+7048 chars]"
     },
     {
       "source": {
@@ -430,19 +469,6 @@
       "urlToImage": "https://images.foxweather.com/static.foxweather.com/www.foxweather.com/content/uploads/2026/10/1024/512/swift_in_space_15_ac-1.jpg?ve=1&tl=1",
       "publishedAt": "2026-10-27T22:09:00Z",
       "content": "THE TAKEAWAY\r\n<ul><li>The Neil Gehrels Swift Observatory's final observation was on Oct. 20.</li><li>The telescope is currently orbiting less than 171 miles above Earths surface.</li><li>The telescop… [+4008 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Phys.Org"
-      },
-      "author": null,
-      "title": "Double debris disk orbiting a dead star hints at our solar system's future - Phys.org",
-      "description": "Astronomers using the European Southern Observatory's Very Large Telescope (ESO's VLT) have found a rare disk of debris around a dead star that provides a glimpse of what may happen to our solar system. Unlike in similar systems previously found, the debris—t…",
-      "url": "https://phys.org/news/2026-10-debris-disk-orbiting-dead-star.html",
-      "urlToImage": "https://scx2.b-cdn.net/gfx/news/2026/dead-star-and-planetar.jpg",
-      "publishedAt": "2026-10-27T22:00:12Z",
-      "content": "Astronomers using the European Southern Observatory's Very Large Telescope (ESO's VLT) have found a rare disk of debris around a dead star that provides a glimpse of what may happen to our solar syst… [+4306 chars]"
     },
     {
       "source": {
@@ -629,6 +655,19 @@
     {
       "source": {
         "id": null,
+        "name": "Whyevolutionistrue.com"
+      },
+      "author": null,
+      "title": "Nathaniel Comfort’s misguided take on The Selfish Gene at 50 - Why Evolution Is True",
+      "description": "Nathaniel Comfort is identified by Wikipedia as “an American historian specializing in the history of biology. He is an associate professor in the Institute of the History of Medicine at John…",
+      "url": "https://whyevolutionistrue.com/2026/10/27/nathaniel-comforts-wonky-take-on-the-selish-gene-at-50/",
+      "urlToImage": "https://whyevolutionistrue.com/wp-content/uploads/2026/10/Screenshot-2026-10-27-at-6.08.11-AM.png",
+      "publishedAt": "2026-10-27T14:52:21Z",
+      "content": "Nathaniel Comfort is identified by Wikipedia as “an American historian specializing in the history of biology. He is an associate professor in the Institute of the History of Medicine at Johns Hopkin… [+12588 chars]"
+    },
+    {
+      "source": {
+        "id": null,
         "name": "Esa.int"
       },
       "author": null,
@@ -719,19 +758,6 @@
     },
     {
       "source": {
-        "id": "wired",
-        "name": "Wired"
-      },
-      "author": "Meghan Bartels",
-      "title": "NASA’s Oldest Martian Spacecraft Have Been Running for Decades. Here’s How - WIRED",
-      "description": "Two orbiters have long outlasted their expected lifespans and completely reshaped our understanding of the Red Planet, all while operating 140 million miles from Earth.",
-      "url": "https://www.wired.com/story/how-nasa-oldest-martian-spacecraft-run-for-decades/",
-      "urlToImage": "https://media.wired.com/photos/6adf16c7cec2deb872010799/191:100/w_1280,c_limit/PIA04816~large.jpg",
-      "publishedAt": "2026-10-27T10:45:00Z",
-      "content": "NASAs Mars Odyssey spacecraft has been operating for so long, it can rent a car without any fees. The spacecraft arrived at the Red Planet on October 24, 2001. It, along with its 20-year-old sibling,… [+1923 chars]"
-    },
-    {
-      "source": {
         "id": null,
         "name": "Science Daily"
       },
@@ -784,32 +810,6 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "Sci.news"
-      },
-      "author": "Enrico de Lazaro",
-      "title": "Paleontologists Reconstruct Cretaceous Bird in Remarkable Detail - Sci.News",
-      "description": "Concornis lacustris, a small enantiornithine bird that lived alongside dinosaurs more than 100 million years ago, has received a life-size makeover, thanks to a reconstruction that combines fossil evidence, digital modeling and traditional sculpture.",
-      "url": "https://www.sci.news/paleontology/concornis-lacustris-15155.html",
-      "urlToImage": "https://cdn.sci.news/images/2026/10/image_15155f-Concornis-lacustris.jpg",
-      "publishedAt": "2026-10-27T00:02:50Z",
-      "content": "Concornis lacustris, a small enantiornithine bird that lived alongside dinosaurs more than 100 million years ago, has received a life-size makeover, thanks to a reconstruction that combines fossil ev… [+3493 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Phys.Org"
-      },
-      "author": null,
-      "title": "27 exoplanet targets for the world's first private space telescope - Phys.org",
-      "description": "The Lazuli Space Telescope will be the first private space telescope. It's the brainchild of Eric Schmidt, Google's former CEO. It will have a 3-meter mirror (9.8 feet), larger than Hubble's 2.4-meter mirror (7.9 feet), and will be launched by 2029.",
-      "url": "https://phys.org/news/2026-10-exoplanet-world-private-space-telescope.html",
-      "urlToImage": "https://scx2.b-cdn.net/gfx/news/2026/27-exoplanet-targets-f.jpg",
-      "publishedAt": "2026-10-27T00:00:06Z",
-      "content": "The Lazuli Space Telescope will be the first private space telescope. It's the brainchild of Eric Schmidt, Google's former CEO. It will have a 3-meter mirror (9.8 feet), larger than Hubble's 2.4-mete… [+5383 chars]"
-    },
-    {
-      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -846,19 +846,6 @@
       "urlToImage": "https://s7d1.scene7.com/is/image/CENODS/year-end-feature--molecules-of-the-year-2026---660150:Widescreen?$responsive$&qlt=90,0&resMode=sharp2&fmt=webp&op_sharpen=1",
       "publishedAt": "2026-10-26T19:03:33Z",
       "content": "Vote for your favorite molecule of 2026\r\nBoron buckyball\r\nThe possibility of a stable, 80-atom sphere made entirely of boron had been debated for nearly 2 decades; scientists finally created it this … [+429 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "SlashGear"
-      },
-      "author": "Eli Shayotovich",
-      "title": "How Long Does It Take For A Laser Beam To Reach The Moon? - SlashGear",
-      "description": "The distance between Earth and its moon is very long, and light is the fastest thing we know of, so how long would it take a laser to hit the moon?",
-      "url": "https://www.slashgear.com/2292360/how-long-for-laser-beam-to-reach-moon/",
-      "urlToImage": "https://www.slashgear.com/img/gallery/how-long-does-it-take-for-a-laser-beam-to-reach-the-moon/l-intro-1792529811.jpg",
-      "publishedAt": "2026-10-26T18:15:00Z",
-      "content": "On average, the Moon is around 238,855 miles from Earth. Depending on where it is in its orbit, it can be as close as 226,000 miles or as far away as 251,000 miles. With a radius of approximately 1,0… [+1330 chars]"
     },
     {
       "source": {
@@ -1093,19 +1080,6 @@
       "urlToImage": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/10/22/454934a5-d368-47db-85ee-fbe61de4c37f_43359785.jpg?itok=hCqTWtdD&v=1792631039",
       "publishedAt": "2026-10-23T01:00:06Z",
       "content": "In author and computer engineer Liu Cixins science fiction hit The Three-Body Problem, three suns throw a doomed world into chaos. Chinese astronomers say they have found a real three-star system tha… [+253 chars]"
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "author": "Raymond Zhong",
-      "title": "Heat Waves Killed an Estimated 50,000 in European Cities, a Likely Record",
-      "description": "This summer’s heat was the continent’s deadliest by far this century, according to new peer-reviewed estimates.",
-      "url": "https://www.nytimes.com/2026/10/22/climate/europe-summer-heat-deaths.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/10/22/multimedia/22cli-europe-heat-deaths-gfbw/22cli-europe-heat-deaths-gfbw-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-10-22T23:01:06Z",
-      "content": "This summer’s heat was the continent’s deadliest by far this century, according to new peer-reviewed estimates."
     },
     {
       "source": {

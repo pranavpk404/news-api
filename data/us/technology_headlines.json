@@ -6,9 +6,48 @@
     "newsapi",
     "rss"
   ],
-  "fetched_at": "2026-10-30T20:12:04.497647+00:00",
-  "articles_count": 88,
+  "fetched_at": "2026-10-31T01:06:16.112437+00:00",
+  "articles_count": 94,
   "articles": [
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Karen Weise",
+      "title": "Big Tech’s Data Center Blitz Is Burning Through Cash and Scaring Wall St.",
+      "description": "Amazon became the latest tech company to announce swelling investments in A.I. amid stumbling share prices.",
+      "url": "https://www.nytimes.com/2026/10/29/technology/amazon-earnings-tech-spending.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/10/29/multimedia/29biz-bigtech-spending-amazon-kltm/29biz-bigtech-spending-amazon-kltm-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-10-31T00:03:24Z",
+      "content": "Amazon became the latest tech company to announce swelling investments in A.I. amid stumbling share prices."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Rebecca Chao",
+      "title": "Hack Could Leave AO3, a Popular Fan Fiction Site, Offline for Weeks",
+      "description": "AO3, which hosts 18 million stories spun off from the likes of “Harry Potter” and “Heated Rivalry,” was taken offline after “an intrusion,” one of its founders said.",
+      "url": "https://www.nytimes.com/2026/10/30/arts/ao3-fan-fiction-site-down.html",
+      "urlToImage": null,
+      "publishedAt": "2026-10-30T23:39:37Z",
+      "content": "AO3, which hosts 18 million stories spun off from the likes of “Harry Potter” and “Heated Rivalry,” was taken offline after “an intrusion,” one of its founders said."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Stuart A. Thompson",
+      "title": "Polymarket and Kalshi Face a Major Accuracy Test: The Midterms",
+      "description": "Studies have shown that the betting sites can predict races correctly, but their ability to forecast U.S. midterm elections is an important proving ground.",
+      "url": "https://www.nytimes.com/2026/10/30/technology/polymarket-kalshi-midterm-elections.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/10/30/multimedia/30biz-prediction-pmzg/30biz-prediction-pmzg-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-10-30T22:46:05Z",
+      "content": "Studies have shown that the betting sites can predict races correctly, but their ability to forecast U.S. midterm elections is an important proving ground."
+    },
     {
       "source": {
         "id": "the-new-york-times",
@@ -19,8 +58,21 @@
       "description": "The largest cyber heist in history came as attackers increasingly use artificial intelligence and other advanced techniques to steal crypto and quickly launder the funds.",
       "url": "https://www.nytimes.com/2026/10/30/technology/binance-hack-ai-north-korea.html",
       "urlToImage": "https://static01.nyt.com/images/2026/10/30/multimedia/30biz-binance-lzht/30biz-binance-lzht-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-10-30T17:47:07Z",
+      "publishedAt": "2026-10-30T21:17:37Z",
       "content": "The largest cyber heist in history came as attackers increasingly use artificial intelligence and other advanced techniques to steal crypto and quickly launder the funds."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Karen Weise",
+      "title": "House Democrats Criticize Justice Dept. Support of OpenAI in Copyright Suit",
+      "description": "In a court filing, top Democrats on the Judiciary Committee indicated their support for publishers in a lawsuit led by The New York Times.",
+      "url": "https://www.nytimes.com/2026/10/30/technology/house-democrats-openai-copyright-lawsuit.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/10/30/multimedia/30biz-openai-filing-bkvf/30biz-openai-filing-bkvf-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-10-30T20:30:42Z",
+      "content": "In a court filing, top Democrats on the Judiciary Committee indicated their support for publishers in a lawsuit led by The New York Times."
     },
     {
       "source": {
@@ -40,19 +92,6 @@
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
-      "author": "Stuart A. Thompson",
-      "title": "Polymarket and Kalshi Face a Major Accuracy Test: The Midterms",
-      "description": "Studies have shown that the betting sites can predict races correctly, but their ability to forecast U.S. midterm elections is an important proving ground.",
-      "url": "https://www.nytimes.com/2026/10/30/technology/polymarket-kalshi-midterm-elections.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/10/30/multimedia/30biz-prediction-pmzg/30biz-prediction-pmzg-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-10-30T16:35:45Z",
-      "content": "Studies have shown that the betting sites can predict races correctly, but their ability to forecast U.S. midterm elections is an important proving ground."
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
       "author": "David Yaffe-Bellany and Ryan Mac",
       "title": "Binance Suspends Withdrawals After Crypto Hackers Steal $6.3 Billion",
       "description": "The crypto exchange said it was compromised in what could be the biggest crypto heist ever. One research lab attributed the theft to “North Korea’s elite hacking unit.”",
@@ -60,19 +99,6 @@
       "urlToImage": "https://static01.nyt.com/images/2026/10/29/multimedia/29biz-binance-cjwh/29biz-binance-cjwh-mediumSquareAt3X.jpg",
       "publishedAt": "2026-10-30T15:16:55Z",
       "content": "The crypto exchange said it was compromised in what could be the biggest crypto heist ever. One research lab attributed the theft to “North Korea’s elite hacking unit.”"
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "author": "Karen Weise",
-      "title": "Big Tech’s Data Center Blitz Is Burning Through Cash and Scaring Wall St.",
-      "description": "Amazon became the latest tech company to announce swelling investments in A.I. amid stumbling share prices.",
-      "url": "https://www.nytimes.com/2026/10/29/technology/amazon-earnings-tech-spending.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/10/29/multimedia/29biz-bigtech-spending-amazon-kltm/29biz-bigtech-spending-amazon-kltm-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-10-30T14:02:25Z",
-      "content": "Amazon became the latest tech company to announce swelling investments in A.I. amid stumbling share prices."
     },
     {
       "source": {
@@ -102,6 +128,32 @@
     },
     {
       "source": {
+        "id": null,
+        "name": "RPG Site"
+      },
+      "author": "Adam Vitale",
+      "title": "Resonance of Fate 4K/HD Edition to receive an 'Enhanced Remaster' DLC, adding HDR, 120FPS, 2x speed mode, & more (Update) - RPG Site",
+      "description": "The 2018 remaster gets a surprise remaster DLC.",
+      "url": "https://www.rpgsite.net/news/21645-resonance-fate-4khd-edition-to-receive-an-enhanced-remaster-dlc-adding-hdr-120fps-2x-speed-mode-more-update",
+      "urlToImage": "https://images.rpgsite.net/articles/thumbnail/a3ecf1c/21645/original/rmini.jpg",
+      "publishedAt": "2026-10-30T01:03:42Z",
+      "content": "Update (October 29)\r\nAdvertisement. Keep scrolling for more\r\nTri-Ace has officially announced Resonance of Fate Enhanced Remaster, now available for PlayStation 5 and PC (Steam). The PlayStation 5 ve… [+2902 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Julie Bort",
+      "title": "Andy Jassy says Prime Video is on track to earn ‘tens of billions of dollars’ - TechCrunch",
+      "description": "The success of blockbuster hits like Project Hail Mary and Verity is only part of the story, Amazon's CEO says.",
+      "url": "https://techcrunch.com/2026/10/29/andy-jassy-says-prime-video-is-on-track-to-earn-tens-of-billions-of-dollars/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/10/GettyImages-1242123707.jpg?resize=1200,767",
+      "publishedAt": "2026-10-29T23:44:56Z",
+      "content": "It’s been four years since Amazon bought MGM for $8.5 billion. But coming off the blockbuster success of this year’s hit movie Project Hail Mary, Hollywood has become a lucrative business for the e-c… [+1986 chars]"
+    },
+    {
+      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -123,8 +175,99 @@
       "description": "Betting markets like Polymarket and Kalshi have transformed America’s democracy into a new kind of casino.",
       "url": "https://www.nytimes.com/2026/10/29/technology/polymarket-kalshi-midterm-election-betting-wagers.html",
       "urlToImage": "https://static01.nyt.com/images/2026/11/01/multimedia/POLYMARKET-MONEY3-fbwc/POLYMARKET-MONEY-fbwc-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-10-29T21:08:30Z",
+      "publishedAt": "2026-10-29T21:08:31Z",
       "content": "Betting markets like Polymarket and Kalshi have transformed America’s democracy into a new kind of casino."
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "9to5Mac"
+      },
+      "author": "Chance Miller",
+      "title": "Apple VP talks new iPad mini: OLED without ProMotion, Acoustic Display, more - 9to5Mac",
+      "description": "Apple unveiled its “biggest update ever” for the iPad mini this week, introducing a thinner, lighter design and an OLED...",
+      "url": "https://9to5mac.com/2026/10/29/apple-vp-talks-new-ipad-mini-oled-without-promotion-acoustic-display-more/",
+      "urlToImage": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/Dave-Pakula-interview.jpeg?quality=82&strip=all&resize=1200,628",
+      "publishedAt": "2026-10-29T20:49:00Z",
+      "content": "Apple unveiled its biggest update ever for the iPad mini this week, introducing a thinner, lighter design and an OLED display.\r\nIn a pair of interviews, Dave Pakula, Apples vice president of Hardware… [+2562 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "9to5google.com"
+      },
+      "author": "Abner Li",
+      "title": "Android 17 QPR3 Beta 3 rolling out with 26 Pixel fixes - 9to5Google",
+      "description": "Following last week’s release, Google is rolling out Android 17 QPR3 Beta 3 to Pixel devices today. It’s another big...",
+      "url": "http://9to5google.com/2026/10/29/android-17-qpr3-beta-3-pixel/",
+      "urlToImage": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/Pixel-11-Pro-XL-and-9-Pro-XL-top-down.jpg?quality=82&strip=all&resize=1200,628",
+      "publishedAt": "2026-10-29T20:41:55Z",
+      "content": "Following last week’s release, Google is rolling out Android 17 QPR3 Beta 3 to Pixel devices today. It’s another big bug fixer.\r\nHeres everything new in Android 17 QPR3 Beta 3 [Gallery]\r\nBeta 3 addre… [+3870 chars]"
+    },
+    {
+      "source": {
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "author": "Nick Indge",
+      "title": "Windows 11 gets right-click menu improvements as PC revenue slides - Ars Technica",
+      "description": "The latest update also brings a cloud recovery option for PCs that won't boot.",
+      "url": "https://arstechnica.com/gadgets/2026/10/windows-11-gets-right-click-menu-improvements-as-pc-revenue-slides/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Hero-Bloom-Logo-1000x563_Windows_11_MS.jpg",
+      "publishedAt": "2026-10-29T20:18:49Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "9to5Mac"
+      },
+      "author": "Ryan Christoffel",
+      "title": "iOS 27.2 adds new video feature that’s perfect for iPhone Duo - 9to5Mac",
+      "description": "iOS 27.2 launched this week with many new features, including an Apple TV app upgrade that’s especially perfect for iPhone Duo: Multiview.",
+      "url": "https://9to5mac.com/2026/10/29/ios-27-2-adds-new-video-feature-thats-perfect-for-iphone-duo/",
+      "urlToImage": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-duo.jpg?quality=82&strip=all&resize=1200,628",
+      "publishedAt": "2026-10-29T19:00:00Z",
+      "content": "iOS 27.2 launched this week with many new features, including an upgrade for the Apple TV app thats especially perfect for iPhone Duo: Multiview.\r\nApple TVs growing lineup of sports content includes … [+1459 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Push Square"
+      },
+      "author": "Sammy Barker",
+      "title": "'It Hasn't Made Any Difference': Gears of War PS5 Cancellation Fails to Boost Xbox - Push Square",
+      "description": "\"In fact, it keeps getting worse\"",
+      "url": "https://www.pushsquare.com/news/2026/10/it-hasnt-made-any-difference-gears-of-war-ps5-cancellation-fails-to-boost-xbox",
+      "urlToImage": "https://images.pushsquare.com/0524c4c3fe9fe/1280x720.jpg",
+      "publishedAt": "2026-10-29T19:00:00Z",
+      "content": "During its summer livestream earlier in the year, Xbox CEO Asha Sharma made a big song and dance about her companys return to console exclusivity.\r\nMany first-party titles, like Halo: Campaign Evolve… [+2261 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "9to5google.com"
+      },
+      "author": "Abner Li",
+      "title": "Google Home and Nest speakers getting seven updates, including for Bluetooth & audio quality - 9to5Google",
+      "description": "In addition to Chromecast with Google TV and Nest Wifi Pro updates, Google detailed what new firmware for Nest and Home speakers brings.",
+      "url": "http://9to5google.com/2026/10/29/google-home-nest-speaker-updates/",
+      "urlToImage": "https://9to5google.com/wp-content/uploads/sites/4/2020/01/google_nest_mini_1.jpg?quality=82&strip=all&resize=1200,628",
+      "publishedAt": "2026-10-29T18:53:56Z",
+      "content": "In addition to Chromecast with Google TV and Nest Wifi Pro updates, Google detailed what new firmware for Nest and Home speakers brings.\r\nThe Google Home, Google Home Mini, and Nest Audio benefit fro… [+2424 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "MacRumors"
+      },
+      "author": "Joe Rossignol",
+      "title": "Apple Avoids Showing Pinched Fingers on iPad Mini Page in South Korea - MacRumors",
+      "description": "In the U.S. and most other countries, Apple's website shows the new iPad mini being held by pinched fingers, but this is not the case in South...",
+      "url": "https://www.macrumors.com/2026/10/29/apple-avoids-pinched-finges-for-ipad-mini-korea/",
+      "urlToImage": "https://images.macrumors.com/t/rTTakfNNe9wWFgyJebWjcZi-DoM=/1600x/article-new/2026/10/Pinched-iPad-Mini.jpg",
+      "publishedAt": "2026-10-29T18:52:30Z",
+      "content": "In the U.S. and most other countries, Apple's website shows the new iPad mini being held by pinched fingers, but this is not the case in South Korea.\r\nOn its South Korean website, Apple simply shows … [+361 chars]"
     },
     {
       "source": {
@@ -141,6 +284,19 @@
     },
     {
       "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Stevie Bonifield",
+      "title": "You can generate and edit Google Docs files directly in Gemini chats now - The Verge",
+      "description": "Now Google Gemini can directly preview and edit most office file formats, for PDFs, documents, spreadsheets, and slideshows inside the chat window itself on the web.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1022519/google-gemini-file-editing-documents-pdfs",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK255_Google_Gemini_B_474198.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2026-10-29T18:45:31Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nEditing files you generate with Gemini no longer requires leaving the app.\r\nEditing files you generate with Gemini no longer requires leaving the app.\r\nby\r\nStevi… [+2048 chars]"
+    },
+    {
+      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -154,29 +310,42 @@
     },
     {
       "source": {
-        "id": "ign",
-        "name": "IGN"
+        "id": null,
+        "name": "Rock Paper Shotgun"
       },
-      "author": "Jacqueline Thomas",
-      "title": "Assassins Creed Codename Hexe Gets Cryptic Update That Fans Will Surely Decode - IGN",
-      "description": "Assassin's Creed Codename Hexe was announced all the way back in 2022, but aside from a spooky teaser, we still don't know much about it. In a new blog post, Ubisoft has shared a cryptic clue that may shed some light on the project — if you're able to decode …",
-      "url": "https://www.ign.com/articles/ubisoft-shares-cryptic-assassins-creed-codename-hexe-update",
-      "urlToImage": "https://assets-prd.ignimgs.com/2022/09/10/hexe-1662841484669.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "publishedAt": "2026-10-29T17:32:17Z",
-      "content": "Assassin's Creed Codename Hexe was announced all the way back in 2022, but aside from a spooky teaser, we still don't know much about it. In a new blog post, Ubisoft has shared a cryptic clue that ma… [+2215 chars]"
+      "author": "Edwin Evans-Thirlwell",
+      "title": "Queen's Domain is a brilliant King's Field-alike RPG that forces you to walk so you can learn to fly - Rock Paper Shotgun",
+      "description": "Out this week on PC, Queen's Blade is a beautiful and accomplished King's Field-inspired RPG that combines stately combat with an upgradeable flying sword.",
+      "url": "https://www.rockpapershotgun.com/queens-domain-is-a-brilliant-kings-field-alike-rpg-that-forces-you-to-walk-so-you-can-learn-to-fly",
+      "urlToImage": "https://assetsio.gnwcdn.com/20261027213250_1.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "publishedAt": "2026-10-29T17:09:23Z",
+      "content": "FromSoftware's elderly King's Field games aren't really celebrated for their feeling of agility. They are glorious first-person trudgefests, a treacle-thick waltz of swinging and spellcraft, with pla… [+4415 chars]"
     },
     {
       "source": {
-        "id": "ign",
-        "name": "IGN"
+        "id": null,
+        "name": "Xbox.com"
       },
-      "author": "Cade Onder",
-      "title": "The Elder Scrolls 6 Will Reportedly Show the History of the Titular Artifacts - IGN",
-      "description": "A new report claims that the next Elder Scrolls game will be titled The Elder Scrolls 6: Sentinel, along with new story details.",
-      "url": "https://www.ign.com/articles/the-elder-scrolls-6-is-reportedly-subtitled-sentinel-new-story-details-revealed-ahead-of-rumored-announcement",
-      "urlToImage": "https://assets-prd.ignimgs.com/2026/08/11/tes6-1786479096622.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "publishedAt": "2026-10-29T16:56:41Z",
-      "content": "A new report claims the next Elder Scrolls game will be titled The Elder Scrolls 6: Sentinel, along with new story details.\r\nAccording to The Verge, The Elder Scrolls 6: Sentinel is the title of the … [+1812 chars]"
+      "author": "Will Fulton, XBOX Wire Editor",
+      "title": "METRO Redux Next-Gen Update Out Now for XBOX Series X|S - XBOX Wire",
+      "description": "The METRO Redux Next-Gen Update is out now on XBOX Series X|S, with an unprecedented degree of immersion, thanks to performance improvements, enhanced visuals, and control upgrades.",
+      "url": "https://news.xbox.com/en-us/2026/10/29/metro-redux-next-gen-update/",
+      "urlToImage": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/10/METRO-Redux-1-81be11dfea4d5d8f97e7.jpg",
+      "publishedAt": "2026-10-29T16:31:28Z",
+      "content": "The METRO Redux Next-Gen Update is out now on XBOX Series X|S consoles. Right now, you can experience both METRO 2033 &amp; Last Light Redux with an unprecedented degree of immersion, thanks to perfo… [+2817 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Kotaku"
+      },
+      "author": "Rebekah Valentine",
+      "title": "The Elder Scrolls 6 Title Reportedly Being Revealed Next Month, Just About Eight Years After It Was Announced - Kotaku",
+      "description": "Sounds like fans were right on the money",
+      "url": "https://kotaku.com/the-elder-scrolls-6-title-reportedly-being-revealed-next-month-just-about-eight-years-after-it-was-announced-2000751058",
+      "urlToImage": "https://kotaku.com/app/uploads/2021/11/748bdf4b3b363eafee1cb65be28ca53d.jpg",
+      "publishedAt": "2026-10-29T16:16:12Z",
+      "content": "A new report suggests that fan theories about the actual title of The Elder Scrolls 6 may be true after all, and that confirmation may be coming as soon as next month.\r\nThis comes from The Verge, whi… [+1923 chars]"
     },
     {
       "source": {
@@ -194,28 +363,15 @@
     {
       "source": {
         "id": null,
-        "name": "Pokebeach.com"
+        "name": "Cybernews.com"
       },
-      "author": "Water Pokémon Master",
-      "title": "\"Mega Rayquaza ex Premium Tournament Collection\" Revealed, Features Dragon Shield Products Instead of Ultra PRO! - PokeBeach",
-      "description": "A new \"Mega Rayquaza ex Premium Tournament Collection\" will release on February 12th! It will feature the full art version of Mega Rayquaza ex that was",
-      "url": "https://www.pokebeach.com/2026/10/mega-rayquaza-ex-premium-tournament-collection-revealed-features-dragon-shield-products-instead-of-ultra-pro",
-      "urlToImage": "https://www.pokebeach.com/news/2026/10/mega-rayquaza-ex-premium-tournament-collection-169-en-1.png",
-      "publishedAt": "2026-10-29T15:42:58Z",
-      "content": "Pokémon and its trademarks are ©1995-2026 Nintendo, Creatures, and GAMEFREAK. English card images appearing on this website are the property of The Pokémon Company International, Inc.\r\nPokeBeach.com … [+264 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "PCMag.com"
-      },
-      "author": "Joe Osborne",
-      "title": "Everything Apple Announced at Its 'Pro and Tell' Event: Touch-Screen MacBook Pro, M6 Macs, More - PCMag",
-      "description": "We've got all the details on Apple's week of MacBook, iMac, and iPad mini product announcements, including a MacBook Pro with an OLED touch screen.",
-      "url": "https://www.pcmag.com/news/pro-and-tell-apple-event-everything-announced-touchscreen-macbook-m6imac",
-      "urlToImage": "https://i.pcmag.com/imagery/articles/03vDW8je84ihkQZRyzJ6ZOZ-3.fit_lim.size_1200x630.v1793204896.jpg",
-      "publishedAt": "2026-10-29T15:36:36Z",
-      "content": null
+      "author": null,
+      "title": "Unlisted Chrome extensions with 13M+ installs are hijacking search queries - Cybernews",
+      "description": "13.4 million installs put Chrome searchjacking extensions in browsers, routing queries through proxy servers. See what the evidence shows",
+      "url": "https://cybernews.com/security/millions-of-chrome-users-installed-extensions-hijacking-searches/",
+      "urlToImage": "https://media.cybernews.com/images/featured-big/2026/10/chrome-extention.jpg",
+      "publishedAt": "2026-10-29T15:13:58Z",
+      "content": "<ol><li>01\r\n Researchers found 319 Chrome extensions that hijacked search settings and reached 13.4 million installs.\r\n </li><li>02\r\n The extensions route searches through operator-controlled proxy s… [+4463 chars]"
     },
     {
       "source": {
@@ -229,6 +385,32 @@
       "urlToImage": "https://www.gematsu.com/wp-content/uploads/2026/10/VFC-Lionel_10-29-26.jpg",
       "publishedAt": "2026-10-29T15:06:13Z",
       "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Xbox.com"
+      },
+      "author": "Kyle Ocean",
+      "title": "Free Play Days – WUCHANG: Fallen Feathers, Dead by Daylight, Darkwood, Spirittea, and EVERSPACE 2 - XBOX Wire",
+      "description": "Xbox Game Pass Ultimate, Premium, and Essential members can enjoy Subnautica this weekend, while Project Motor Racing, One Piece: Pirate Warriors 4, and Graveyard Keeper are free for all Xbox users. Discover how to participate, keep your progress, and take ad…",
+      "url": "https://news.xbox.com/en-us/2026/10/29/free-play-days-10-29-2026/",
+      "urlToImage": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/10/FY26-Social-FPD_29.10.26_1920x1080-d80c149b51007d843111.jpg",
+      "publishedAt": "2026-10-29T15:01:28Z",
+      "content": "Your weekend quest starts with Free Play Days! WUCHANG: Fallen Feathers, Darkwood, Spirittea, and EVERSPACE 2 are available this weekend for XBOX Game Pass Ultimate, Premium and Essential members to … [+3788 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "InsideEVs "
+      },
+      "author": "Iulian Dnistran",
+      "title": "Driving The Cheapest Lucid Air For 40,000 Miles Came With A Few Surprises - InsideEVs",
+      "description": "The most affordable Lucid doesn’t feel cheap, and it delivers all of the basics that the more expensive trims are known for.",
+      "url": "https://insideevs.com/news/813727/lucid-air-pure-ownership-review-video/",
+      "urlToImage": "https://cdn.motor1.com/images/mgl/3WB6mR/s1/2024-lucid-air-pure.jpg",
+      "publishedAt": "2026-10-29T14:46:00Z",
+      "content": "<ul><li>Car and Driver put 40,000 on its 2024 Lucid Air Pure.</li><li>Lucids most affordable EV went through two winters and several drivers.</li><li>It never stranded its drivers, but some niggles m… [+3267 chars]"
     },
     {
       "source": {
@@ -259,6 +441,19 @@
     {
       "source": {
         "id": null,
+        "name": "TrueAchievements"
+      },
+      "author": null,
+      "title": "The Wolf Among Us Remastered reveals list of easy Xbox achievements with a few new additions - TrueAchievements",
+      "description": "The Wolf Among Us Remastered has revealed its Xbox achievements, and if you've played this one before, it should feel very familiar, bar a few new additions.",
+      "url": "https://www.trueachievements.com/news/the-wolf-among-us-remastered-xbox-achievements-revealed",
+      "urlToImage": "https://www.trueachievements.com/imgs/180291/the-wolf-among-us-remastered-achievements.jpg",
+      "publishedAt": "2026-10-29T14:36:39Z",
+      "content": "The The Wolf Among Us Remastered achievements have dropped, giving you a look at what you'll be getting up to when the game launches today, on Thursday, October 29, 2026.The Wolf Among Us Remastered … [+5312 chars]"
+    },
+    {
+      "source": {
+        "id": null,
         "name": "GameSpot"
       },
       "author": "Eddie Makuch",
@@ -272,28 +467,54 @@
     {
       "source": {
         "id": null,
-        "name": "9to5Mac"
+        "name": "Theshortcut.com"
       },
-      "author": "Ryan Christoffel",
-      "title": "iOS 27.3 release date: Here’s when to expect new iPhone features - 9to5Mac",
-      "description": "Apple is already hard at work developing iOS 27.3, here’s when to expect the next big iPhone update in beta and a public release.",
-      "url": "https://9to5mac.com/2026/10/29/ios-27-3-release-date-heres-when-to-expect-new-iphone-features/",
-      "urlToImage": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/ios-27-3-iphone-fi.jpg?quality=82&strip=all&resize=1200,628",
-      "publishedAt": "2026-10-29T13:53:52Z",
-      "content": "Apple released iOS 27.2 this week with new features for Messages, Siri AI, and Photos, plus an Apple Music rebrand and more. But work on iOS 27.3 is already well underway, heres when to expect the ne… [+1624 chars]"
+      "author": "Adam Vjestica",
+      "title": "Zelda 40th Anniversary Switch 2 restock: Walmart and Target confirm exact release dates - The Shortcut | Matt Swider",
+      "description": "You’ll have to wait until November to get the Zelda Switch 2 console",
+      "url": "https://www.theshortcut.com/p/zelda-40th-anniversary-switch-2-restock-walmart-and-target-confirm-exact-release-dates",
+      "urlToImage": "https://substackcdn.com/image/fetch/$s_!hSi1!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F648d937c-8d8d-4bb3-ba1b-7b28ae7f23bd_1456x819.webp",
+      "publishedAt": "2026-10-29T14:32:10Z",
+      "content": "<ul><li> The Zelda 40th anniversary Switch 2 is out today, October 29, but Walmart and Target are planning online restocks for November 6\r\n</li><li> Our Zelda Switch 2 restock tracker @mattswider on … [+2899 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Cameron Faulkner",
+      "title": "There’s one week left to preorder the Ocarina of Time remake for $10 off - The Verge",
+      "description": "The deal will likely disappear on November 5th. We also found deals on Apple’s last-gen Mac Mini, Play-Doh Blooms, and Sharge’s versatile Disk Pro 2 dock.",
+      "url": "https://www.theverge.com/gadgets/1022103/ocarina-of-time-remake-apple-mac-mini-ssd-hdmi-dock-deal-sale",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Legend-of-Zelda-Ocarina-Switch2-roundup.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2026-10-29T14:24:45Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nWe also found deals on a versatile HDMI dock with an SSD slot, a fun Play-Doh Blooms kit, and the M4 Mac Mini.\r\nWe also found deals on a versatile HDMI dock with… [+3819 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Windows Central"
+        "name": "Rtings.com"
       },
-      "author": "Sean Endicott",
-      "title": "A crashed Windows 11 PC no longer means hunting for a USB recovery drive - Windows Central",
-      "description": "Cloud Rebuild can reinstall Windows 11 and device drivers directly from Windows Update. It can even work when the operating system fails to start.",
-      "url": "https://www.windowscentral.com/microsoft/windows-11/windows-11s-new-cloud-rebuild-can-resurrect-pcs-that-wont-boot",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/gqFhcrXYDcyjkpLkxECK75-1680-80.jpg",
-      "publishedAt": "2026-10-29T12:39:51Z",
-      "content": "<ul><li>Microsoft's new Cloud Rebuild feature can reinstall Windows 11 and your device drivers from Windows Update, even when the operating system won't boot.</li><li>The tool eliminates the need for… [+3818 chars]"
+      "author": null,
+      "title": "ASUS ROG Swift OLED PG32UCWM Review - RTINGS.com",
+      "description": "The ASUS ROG Swift OLED PG32UCWM is a high-end 4k, 32-inch OLED gaming monitor. Sitting alongside the smaller ASUS ROG Swift OLED PG27UCWM, it's an updated model...",
+      "url": "https://www.rtings.com/monitor/reviews/asus/rog-swift-oled-pg32ucwm",
+      "urlToImage": "https://i.rtings.com/assets/products/idNgwwUl/asus-rog-swift-oled-pg32ucwm/design-medium.jpg?format=auto",
+      "publishedAt": "2026-10-29T12:51:51Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "MacRumors"
+      },
+      "author": "Tim Hardwick",
+      "title": "How macOS Adapts Its Controls for Touch on the New MacBook Pro - MacRumors",
+      "description": "Apple announced a new MacBook Pro with PROLED XDR Display on Wednesday. It's Apple's first Mac with a screen that supports touch, and...",
+      "url": "https://www.macrumors.com/2026/10/29/macos-adapts-controls-touch-macbook-pro/",
+      "urlToImage": "https://images.macrumors.com/t/rFX6C1AQjEAFS1uiyX-sps9Iio8=/2260x/article-new/2026/10/macbook-pro-proled-touch.jpg",
+      "publishedAt": "2026-10-29T12:33:47Z",
+      "content": "Apple announced a new MacBook Pro with PROLED XDR Display on Wednesday. It's Apple's first Mac with a screen that supports touch, and demonstrations Apple gave to the media show how macOS reshapes it… [+2352 chars]"
     },
     {
       "source": {
@@ -336,16 +557,16 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "syracuse.com"
+        "id": "wired",
+        "name": "Wired"
       },
-      "author": "Syracuse.com",
-      "title": "For 112 years, a Central NY dairy farm family made milk and memories. Now they can sleep in - Syracuse.com",
-      "description": null,
-      "url": "https://www.syracuse.com/business/2026/10/for-112-years-a-central-ny-dairy-farm-family-made-milk-and-memories-now-they-can-sleep-in.html",
-      "urlToImage": null,
-      "publishedAt": "2026-10-29T10:00:00Z",
-      "content": null
+      "author": "Ben Dowsett",
+      "title": "A Hacker Targeted High-Stakes Poker Players With Malware That Exposed Their Cards - WIRED",
+      "description": "Illicit software on the computers of some of the world’s best online poker players allowed the accused cheater to see what cards were in the victims’ hands—and trounce them at the tables.",
+      "url": "https://www.wired.com/story/a-hacker-targeted-high-stakes-poker-players-with-malware-that-exposed-their-cards/",
+      "urlToImage": "https://media.wired.com/photos/6adfb9e14342ac0de5548666/191:100/w_1280,c_limit/Security_A%20Hacker%20Snuck%20Malware%20Onto%20Online%20Poker%20Players%E2%80%99%20Computers%20That%20Let%20Him%20See%20Their%20Cards_v1.jpg",
+      "publishedAt": "2026-10-29T10:30:00Z",
+      "content": "In a fitting sign of the times, the hackers carefully laid plans were foiled by an AI agent.\r\nIt was September 25, 2026, and Alex, a professional online poker player, was using his Claude AI agent to… [+2466 chars]"
     },
     {
       "source": {
@@ -363,15 +584,15 @@
     {
       "source": {
         "id": null,
-        "name": "Android Authority"
+        "name": "Omgubuntu.co.uk"
       },
-      "author": null,
-      "title": "Your Google Messages chats are getting a ChatGPT upgrade - Android Authority",
-      "description": "OpenAI now lets you text your ChatGPT Dot via RCS, with proactive updates and seamless conversations. Here's how it works and who can use it.",
-      "url": "https://www.androidauthority.com/chatgpt-dots-on-google-messages-3729446/",
-      "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2026/09/ChatGPT-Dots.jpg",
-      "publishedAt": "2026-10-29T06:59:00Z",
-      "content": "<ul><li>OpenAI now lets you text your ChatGPT Dot directly through Google Messages on Android or iMessage on iPhone.</li><li>Your Dot can proactively send updates, photos, and voice notes while retai… [+1827 chars]"
+      "author": "Joey Sneddon",
+      "title": "Ghostty 1.4 is out with big improvements on Linux - OMG! Ubuntu",
+      "description": "A major new release of Ghostty, the open-source terminal emulator, is out. Ghostty 1.4.0 brings a varied set of changes after seven months of development.",
+      "url": "https://www.omgubuntu.co.uk/2026/10/ghostty-1-4-released",
+      "urlToImage": "https://www.omgubuntu.co.uk/wp-content/uploads/2024/12/ghostty-logo.jpg",
+      "publishedAt": "2026-10-29T08:18:37Z",
+      "content": "A major new release of Ghostty, the open-source terminal emulator, is out.\r\nGhostty 1.4.0 brings a varied set of changes after seven months of development. There are welcome performance optimisations… [+3204 chars]"
     },
     {
       "source": {
@@ -391,13 +612,13 @@
         "id": null,
         "name": "Nintendo Life"
       },
-      "author": "Nintendo Life",
+      "author": "Liam Doolan",
       "title": "No Man's Sky Unveils Forsaken (Update 7.10), Here Are The Full Patch Notes - Nintendo Life",
-      "description": null,
+      "description": "New \"spooky new gameplay\" just in time for Halloween",
       "url": "https://www.nintendolife.com/news/2026/10/no-mans-sky-unveils-forsaken-update-7-10-here-are-the-full-patch-notes",
-      "urlToImage": null,
+      "urlToImage": "https://images.nintendolife.com/3bc1e6869b3a5/1280x720.jpg",
       "publishedAt": "2026-10-29T05:30:00Z",
-      "content": null
+      "content": "The space exploration title No Man's Sky didn't launch in the best state, but 10 years later, it's doing better than ever thanks to new features, content and regular game updates.\r\nWith this in mind,… [+8467 chars]"
     },
     {
       "source": {
@@ -415,15 +636,15 @@
     {
       "source": {
         "id": null,
-        "name": "Insider-gaming.com"
+        "name": "Cined.com"
       },
-      "author": "Mike Straw",
-      "title": "12 New GTA 6 Gameplay Screenshots Released - Insider Gaming",
-      "description": "Grand Theft Auto 6 launches on November 19, and 14 new screenshots have been released giving another look at the detail in the game.",
-      "url": "https://insider-gaming.com/12-new-gta-6-gameplay-screenshots-released/",
-      "urlToImage": "https://insider-gaming.com/wp-content/uploads/2026/10/GTA6Screen13.webp",
-      "publishedAt": "2026-10-29T02:10:51Z",
-      "content": "Grand Theft Auto 6 (GTA 6) releases in just three weeks’ time, and Rockstar has given players a bit more to enjoy as they wait for the chance to explore all Leonida has to offer. This time, it comes … [+1660 chars]"
+      "author": "Nino Leitner",
+      "title": "Sony RIALTO 65 Announced – 65mm Camera Extension for VENICE 2, 9.6K Open Gate, 16-bit X-OCN - CineD",
+      "description": "Sony RIALTO 65 brings a 65mm 1.5:1 sensor to VENICE 2, with 9.6K Open Gate, 16-bit X-OCN and a cable-mounted head.",
+      "url": "https://www.cined.com/sony-rialto-65-announced-65mm-camera-extension-for-venice-2-9-6k-open-gate-16-bit-x-ocn/",
+      "urlToImage": "https://www.cined.com/content/uploads/2026/10/RIALTO65_others_260901_08-Mid-featured.jpg",
+      "publishedAt": "2026-10-29T01:52:27Z",
+      "content": "Sony’s RIALTO 65 is now official, and it puts a 65mm format sensor into a compact head that connects to an existing VENICE 2 body, on a cable or attached directly. It reads out 9.6K Open Gate, record… [+5619 chars]"
     },
     {
       "source": {
@@ -450,6 +671,19 @@
       "urlToImage": "https://kotaku.com/app/uploads/2021/05/40aba6f00c5e80046d4eddd9ef2b7d85-1200x675.jpg",
       "publishedAt": "2026-10-29T00:43:49Z",
       "content": "We had options actually,” he said. We thought we chose the best option that was available to us at the time. The company had good possibilities going forward, but at the end of the day we felt, okay,… [+2173 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "GamesRadar+"
+      },
+      "author": "Simon Parkin",
+      "title": "Grand Theft Auto VI exclusive – The state that never sleeps - GamesRadar+",
+      "description": "How Rockstar has rewritten the rules with an escapade across Leonida in Grand Theft Auto VI",
+      "url": "https://www.gamesradar.com/edge/gtavi-cover/",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/fauxF3UVUEucerkpFVot2e-1920-80.jpg",
+      "publishedAt": "2026-10-29T00:01:00Z",
+      "content": null
     },
     {
       "source": {
@@ -480,28 +714,28 @@
     {
       "source": {
         "id": null,
-        "name": "New York Post"
+        "name": "Kotaku"
       },
-      "author": "Emily Fu",
-      "title": "Minecraft billionaire is latest California resident to flee state — as he offloads $70M Beverly Hills mansion - New York Post",
-      "description": "Markus Persson is selling his 22,300-square-foot Trousdale Estates property, complete with a private nightclub, a recording studio and two pools.",
-      "url": "https://nypost.com/2026/10/28/real-estate/minecraft-billionaire-seeks-70m-for-beverly-hills-mansion/",
-      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/10/146760548.jpg?quality=75&strip=all&w=1200",
-      "publishedAt": "2026-10-28T21:50:00Z",
-      "content": "Minecraft creator Markus Notch Persson is looking to unload his $70 million Beverly Hills megamansion, becoming the latest tech billionaire to loosen his ties to California as some of the state’s wea… [+4868 chars]"
+      "author": "Rebekah Valentine",
+      "title": "World Of Warcraft: Forever Had ‘The Largest Beta In Franchise History’ - Kotaku",
+      "description": "'The craziest numbers I've seen in 17 years'",
+      "url": "https://kotaku.com/world-of-warcraft-forever-had-the-largest-beta-in-franchise-history-2000750606",
+      "urlToImage": "https://kotaku.com/app/uploads/2026/09/WoW-forever-4-1200x675.jpg",
+      "publishedAt": "2026-10-28T22:09:47Z",
+      "content": "World of Warcraft: Forever just concluded “the largest beta in franchise history” according to Microsoft CEO Satya Nadella.\r\nNadella said this on today’s Microsoft Q1 earnings call, but did not provi… [+1992 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Kotaku"
+        "name": "Gematsu"
       },
-      "author": "Rebekah Valentine",
-      "title": "Xbox’s First Report Card Following Its Big ‘Reset’ Looks A Lot Like All The Others - Kotaku",
-      "description": "Hardware down",
-      "url": "https://kotaku.com/xboxs-first-report-card-following-its-big-reset-looks-a-lot-like-all-the-others-2000750607",
-      "urlToImage": "https://kotaku.com/app/uploads/2026/05/xbox-logo.jpg",
-      "publishedAt": "2026-10-28T21:13:31Z",
-      "content": "Today, Microsoft shared its earnings report for the first quarter of its fiscal year, which just so happens to also be the first almost-full quarter (minus just a couple of days) since Xbox head Asha… [+2834 chars]"
+      "author": "Sal Romano",
+      "title": "Solo Leveling: ARISE OVERDRIVE for PS5, Xbox Series launches November 3 - Gematsu",
+      "description": "Solo Leveling: ARISE OVERDRIVE will launch for PlayStation 5 and Xbox Series on November 3 at 4:00 p.m. PT / 7:00 p.m. ET, publisher Netmarble and developer Netmarble Neo announced.",
+      "url": "https://www.gematsu.com/2026/10/solo-leveling-arise-overdrive-for-ps5-xbox-series-launches-november-3",
+      "urlToImage": "https://www.gematsu.com/wp-content/uploads/2026/10/Solo-Leveling-Arise-Overdrive_10-28-26.jpg",
+      "publishedAt": "2026-10-28T21:22:26Z",
+      "content": "Solo Leveling: ARISE OVERDRIVE will launch for PlayStation 5 and Xbox Series on November 3 at 4:00 p.m. PT / 7:00 p.m. ET, publisher Netmarble and developer Netmarble Neoannounced. \r\nSolo Leveling: A… [+1922 chars]"
     },
     {
       "source": {
@@ -528,6 +762,19 @@
       "urlToImage": "https://static01.nyt.com/images/2026/10/29/business/00ai-bugs/00ai-bugs-mediumSquareAt3X.jpg",
       "publishedAt": "2026-10-28T19:14:53Z",
       "content": "A.I. has uncovered a horde of software flaws, which engineers are racing to fix before they can be exploited and abused by hackers."
+    },
+    {
+      "source": {
+        "id": "ign",
+        "name": "IGN"
+      },
+      "author": "Blythe Dujardin",
+      "title": "'We Wanted to Bring Back the Iconic See-Through Trend of the Late '90s' — Sony Reveals New Prism Collection of DualSense Controllers and PS5 Covers - IGN",
+      "description": "PlayStation is bringing back the '90s transparent trend with the Prism Collection, a spread of DualSense controllers and matching PS5 covers in three new colorways.",
+      "url": "https://www.ign.com/articles/playstation-channels-90s-transparent-trend-with-new-prism-collection-of-dualsense-controllers-and-ps5-covers",
+      "urlToImage": "https://assets-prd.ignimgs.com/2026/10/28/playstationprism-1-1793204500437.jpg?width=1280&format=jpg&auto=webp&quality=80",
+      "publishedAt": "2026-10-28T18:53:44Z",
+      "content": "PlayStation is bringing back the '90s transparent trend with the Prism Collection, a spread of DualSense controllers and matching PS5 covers in three new colorways. \r\nPreorders open on November 10 at… [+2570 chars]"
     },
     {
       "source": {
@@ -558,54 +805,28 @@
     {
       "source": {
         "id": null,
-        "name": "AppleInsider"
+        "name": "9to5google.com"
       },
-      "author": "Malcolm Owen",
-      "title": "Size matters: South Korea spared iPad mini image's potentially offensive gesture - AppleInsider",
-      "description": "Apple has chosen to use a different image in South Korea to promote the iPad mini in South Korea, likely over fears that the version used the rest of the world might resemble an offensive gesture mocking the size of someone's manhood.",
-      "url": "https://appleinsider.com/articles/26/10/28/size-matters-south-korea-spared-ipad-mini-images-potentially-offensive-gesture",
-      "urlToImage": "https://media.appleinsider.com/gallery/69575-146636-ipadminirowkorea-xl.jpg",
-      "publishedAt": "2026-10-28T17:20:08Z",
-      "content": "An iPad mini promotional image from Apple's website in most of the world [top], and the same image in South Korea [bottom]\r\nApple has chosen to use a different image in South Korea to promote the iPa… [+4917 chars]"
+      "author": "Abner Li",
+      "title": "Google Chrome rolling out ‘Suggested by Gemini’ autofill - 9to5Google",
+      "description": "As previewed in May, Google Chrome can now use Gemini and Personal Intelligence to autofill much more information.",
+      "url": "http://9to5google.com/2026/10/28/chrome-autofill-gemini/",
+      "urlToImage": "https://9to5google.com/wp-content/uploads/sites/4/2026/08/google-chrome-navigation-gemini-1.jpg?quality=82&strip=all&resize=1200,628",
+      "publishedAt": "2026-10-28T18:00:00Z",
+      "content": "As previewed in May, Google Chrome can now use Gemini and Personal Intelligence to autofill much more information.\r\nThis feature uses Gemini with Personal Intelligence to go beyond autofilling names,… [+742 chars]"
     },
     {
       "source": {
-        "id": "the-verge",
-        "name": "The Verge"
+        "id": null,
+        "name": "Video Games Chronicle"
       },
-      "author": "Sheena Vasani",
-      "title": "Here’s where you can preorder the new OLED-equipped iPad Mini - The Verge",
-      "description": "Apple’s latest slate hits stores on November 6th.",
-      "url": "https://www.theverge.com/gadgets/1019037/oled-ipad-mini-2026-preorder-price-how-to-buy-release-date",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/2026-iPad-Mini-Press-Image.jpg?quality=90&strip=all&crop=0%2C10.742998834307%2C100%2C78.514002331385&w=1200",
-      "publishedAt": "2026-10-28T17:12:47Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nApples newest iPad features an 8.5-inch OLED display, a thinner design, and improved performance.\r\nApples newest iPad features an 8.5-inch OLED display, a thinne… [+4076 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Jess Weatherbed",
-      "title": "Instagram doesn’t have a plan to pay long-form video creators - The Verge",
-      "description": "Instagram is testing long-form videos to lure in creatives from YouTube, but the platform hasn’t figured out how (or if) it’ll actually pay them.",
-      "url": "https://www.theverge.com/tech/1020806/instagram-long-form-video-creator-monetization",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STK070_INSTAGRAM__A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "publishedAt": "2026-10-28T17:10:46Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nCreators are asking why they should use Features if Instagram wont reward them like YouTube does\r\nCreators are asking why they should use Features if Instagram w… [+4426 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Andrew Liszewski",
-      "title": "Chrome’s enhanced autofill can now pull info from Gmail to help you fill out forms - The Verge",
-      "description": "Google is improving Chrome’s enhanced autofill capabilities in the US today by adding users’ Gmail accounts as another source of info.",
-      "url": "https://www.theverge.com/tech/1020626/chrome-enhanced-autofill-gmail-forms-gemini-personal-intelligence",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/chrome.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "publishedAt": "2026-10-28T17:00:00Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nUsing Gemini with Personal Intelligence, it can find details like order numbers, tracking, and travel bookings.\r\nUsing Gemini with Personal Intelligence, it can … [+2361 chars]"
+      "author": "Chris Scullion",
+      "title": "Here’s all 23 games shown during Nintendo’s latest Indie World presentation - Video Games Chronicle",
+      "description": "The 15-minute show gave viewers a look at new indie games coming to Switch and Switch 2",
+      "url": "https://www.videogameschronicle.com/news/heres-all-23-games-shown-during-nintendos-latest-indie-world-presentation/",
+      "urlToImage": "https://www.videogameschronicle.com/files/2026/10/indie-world.jpg",
+      "publishedAt": "2026-10-28T17:47:35Z",
+      "content": "Nintendo’s latest Indie World presentation has just finished, and we’ve got the full details below.\r\nThe show featured a total of 23 games over the course of its 15-minute runtime, showing a selectio… [+3812 chars]"
     },
     {
       "source": {
@@ -619,19 +840,6 @@
       "urlToImage": "https://pokemongohub.net/wp-content/uploads/2026/10/eternatus.jpg",
       "publishedAt": "2026-10-28T16:19:59Z",
       "content": "Pokémon GOs Dynamax Trails event runs from November 16 at 10:00 a.m. to November 23 at 8:00 p.m. local time, bringing a week of Max Battles and the return of Eternatus!\r\nExpect more Power Spots activ… [+4403 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Massivelyop.com"
-      },
-      "author": "https://massivelyop.com/author/justin-olivetti/",
-      "title": "Casually Classic: WoW Forever only gives you one chance to explore it fresh — so make it count - Massively Overpowered",
-      "description": "Just as Hunters have a dead zone where neither melee nor ranged attacks work, right now we're sitting in a dead zone where neither World of Warcraft Forever's beta or launch is operational. And if, like me, you've shunned the beta entirely, it's part of a lon…",
-      "url": "https://massivelyop.com/2026/10/28/casually-classic-wow-forever-only-gives-you-one-chance-to-explore-it-fresh-so-make-it-count/",
-      "urlToImage": "https://massivelyop.com/wp-content/uploads/2026/09/blizzcon2026-worldofwarcraftforever-08-1.jpg",
-      "publishedAt": "2026-10-28T16:00:05Z",
-      "content": "Just as Hunters have a dead zone where neither melee nor ranged attacks work, right now we’re sitting in a dead zone where neither World of Warcraft Forever’s beta or launch is operational. And if, l… [+4969 chars]"
     },
     {
       "source": {
@@ -649,67 +857,28 @@
     {
       "source": {
         "id": null,
-        "name": "Video Games Chronicle"
-      },
-      "author": "Chris Scullion",
-      "title": "November’s three ‘free’ PS Plus Essential monthly games include Dead Island 2 and Tomb Raider 4-6 Remastered - Video Games Chronicle",
-      "description": "There are three games available for subscribers to claim next month",
-      "url": "https://www.videogameschronicle.com/news/novembers-three-free-ps-plus-essential-monthly-games-include-dead-island-2-and-tomb-raider-4-6-remastered/",
-      "urlToImage": "https://www.videogameschronicle.com/files/2023/08/dead-island-2-a.jpg",
-      "publishedAt": "2026-10-28T15:46:55Z",
-      "content": "PlayStation has officially announced the three games coming to the PlayStation Plus Essential tier next month.\r\nNovember’s selection consists of three games, which will be available for players to cl… [+1026 chars]"
-    },
-    {
-      "source": {
-        "id": "ign",
-        "name": "IGN"
-      },
-      "author": "Wesley Yin-Poole",
-      "title": "Everything We Saw at Nintendo Indie World Showcase October 2026, Including Witchbrook Release Date - IGN",
-      "description": "Nintendo’s Indie World Showcase is over, and we’ve got a roundup of all the announcements right here.",
-      "url": "https://www.ign.com/articles/nintendo-indie-world-showcase-october-2026-switch-2",
-      "urlToImage": "https://assets-prd.ignimgs.com/2026/10/28/nintendo-indieworld-blogroll-1793194541587.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "publishedAt": "2026-10-28T15:34:42Z",
-      "content": "Nintendos Indie World Showcase is over, and weve got a roundup of all the announcements right here!\r\nWitchbrook release date\r\nIndie World Showcase kicked off with a big announcement: Chucklefish's Wi… [+11198 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Video Games Chronicle"
-      },
-      "author": "Chris Scullion",
-      "title": "Sony announces new Prism Collection of transparent PS5 DualSense controllers and console covers - Video Games Chronicle",
-      "description": "The see-through design comes in Flare Orange, Emerald Green and Graphite Gray",
-      "url": "https://www.videogameschronicle.com/news/sony-announces-new-prism-collection-of-transparent-ps5-dualsense-controllers-and-console-covers/",
-      "urlToImage": "https://www.videogameschronicle.com/files/2026/10/ps5-prism-collection.jpg",
-      "publishedAt": "2026-10-28T15:06:59Z",
-      "content": "Sony has announced a new collection of transparent PlayStation 5 DualSense controllers and console covers.\r\nThe Prism Collection consists of three DualSense controllers and three PS5 console covers, … [+1507 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "Gematsu"
       },
       "author": "Sal Romano",
-      "title": "Cronos: The New Dawn story DLC ‘Cronos: Lazarus’ launches December 3 - Gematsu",
-      "description": "Cronos: The New Dawn story downloadable content “Cronos: Lazarus” will launch on December 3, developer Bloober Team announced.",
-      "url": "https://www.gematsu.com/2026/10/cronos-the-new-dawn-story-dlc-cronos-lazarus-launches-december-3",
-      "urlToImage": "https://www.gematsu.com/wp-content/uploads/2026/10/Cronos-DLC_10-28-26.jpg",
-      "publishedAt": "2026-10-28T15:00:09Z",
-      "content": "About\r\nCronos: Lazarus is a brutal new chapter to the Cronos: The New Dawn story. Step into the boots of the Warden and experience a faster, more aggressive style of combat as you fight to complete a… [+2048 chars]"
+      "title": "PlayStation Plus Monthly Games lineup for November 2026 announced - Gematsu",
+      "description": "Sony Interactive Entertainment has announced the November  2026 Monthly Games lineup for PlayStation Plus Essential subscribers. All titles will be available from November 3.",
+      "url": "https://www.gematsu.com/2026/10/playstation-plus-monthly-games-lineup-for-november-2026-announced",
+      "urlToImage": "https://www.gematsu.com/wp-content/uploads/2026/10/PS-Plus-Monthly-Games_10-28-26.jpg",
+      "publishedAt": "2026-10-28T15:30:27Z",
+      "content": null
     },
     {
       "source": {
         "id": null,
-        "name": "Phoronix"
+        "name": "TheStreet"
       },
-      "author": null,
-      "title": "CachyOS vs. Fedora 45 vs. Ubuntu 26.10 Performance On AMD Ryzen 9 - Phoronix",
-      "description": "With the recently released Ubuntu 26.10 and the nearly-released Fedora Workstation 45, Phoronix readers have begun inquiring about fresh benchmarks looking at how they stack up against the performance-optimized, Arch Linux based CachyOS.",
-      "url": "https://www.phoronix.com/review/cachyos-ubuntu2610-fedora45",
-      "urlToImage": "https://www.phoronix.net/image.php?id=cachyos-ubuntu2610-fedora45&image=cachy_fedora_3",
-      "publishedAt": "2026-10-28T14:46:00Z",
-      "content": "With the recently released Ubuntu 26.10 and the nearly-released Fedora Workstation 45, Phoronix readers have begun inquiring about fresh benchmarks looking at how they stack up against the performanc… [+1346 chars]"
+      "author": "TheStreet",
+      "title": "T-Mobile introduces phone plans with new rules for customer perks - TheStreet",
+      "description": null,
+      "url": "https://www.thestreet.com/retail/t-mobile-introduces-t-mix-plans-customize-perks-with-picks",
+      "urlToImage": null,
+      "publishedAt": "2026-10-28T15:03:00Z",
+      "content": null
     },
     {
       "source": {
@@ -727,71 +896,6 @@
     {
       "source": {
         "id": null,
-        "name": "Theshortcut.com"
-      },
-      "author": "Adam Vjestica",
-      "title": "Nintendo joins Best Buy for midnight Zelda 40th Anniversary Switch 2 restock launch - The Shortcut | Matt Swider",
-      "description": "November 5 will be another opportunity to get the Zelda Switch 2",
-      "url": "https://www.theshortcut.com/p/nintendo-joins-best-buy-for-midnight-zelda-40th-anniversary-switch-2-restock-launch",
-      "urlToImage": "https://substackcdn.com/image/fetch/$s_!X0Pg!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3758783c-a6cf-4930-a36e-20b193f4da5e_1456x819.webp",
-      "publishedAt": "2026-10-28T14:33:59Z",
-      "content": "<ul><li> The Zelda 40th Anniversary Switch 2 releases on Thursday, October 27\r\n</li><li> Our Zelda Switch 2 restock tracker @mattswider on X will send out an alert when stock appears\r\n</li><li> Ninte… [+3278 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Gameinformer.com"
-      },
-      "author": "Eric Van Allen",
-      "title": "Everything Shown At The October 2026 Nintendo Indie World Showcase - Game Informer",
-      "description": "Nintendo's showing off a brand-new batch of indies heading for the Switch and Switch 2 systems in the coming months. Here's a round-up of what we saw today. - Game Informer",
-      "url": "https://gameinformer.com/recap/2026/10/28/everything-shown-at-the-october-2026-nintendo-indie-world-showcase",
-      "urlToImage": "https://gameinformer.com/sites/default/files/styles/og_image/public/2026/10/28/c278b7af/MyArmsAreLongerGILead.jpg.webp",
-      "publishedAt": "2026-10-28T14:30:00Z",
-      "content": "The year is nearing its conclusion, and the last big AAA titles are rolling out one-by-one. But today, it was all about the independent titles on Nintendo's latest Indie World Showcase, highlighting … [+5606 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Lauren Forristal",
-      "title": "TikTok expands into restaurant guides with ‘Must Eat’ feature - TechCrunch",
-      "description": "The move puts TikTok in more direct competition with platforms like Yelp and Google.",
-      "url": "https://techcrunch.com/2026/10/28/tiktok-expands-into-restaurant-guides-with-must-eat-feature/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/10/TikTok-MustEat.jpg?w=1200",
-      "publishedAt": "2026-10-28T14:26:36Z",
-      "content": "TikTok has long been a go-to place for discovering new spots, with viral videos helping local restaurants attract new customers. Now, TikTok is making it easier for users to find their next favorite … [+1347 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Gematsu"
-      },
-      "author": "Sal Romano",
-      "title": "TANUKI: Pon’s Summer adds PS5, Switch 2, and PS4 versions, launches November 10 - Gematsu",
-      "description": "Mail delivery adventure game TANUKI: Pon’s Summer will launch for PlayStation 5, Xbox Series, Switch 2, PlayStation 4, Xbox One, Switch, and PC via Steam on November 10, publisher CRITICAL RE…",
-      "url": "https://www.gematsu.com/2026/10/tanuki-pons-summer-adds-ps5-switch-2-and-ps4-versions-launches-november-10",
-      "urlToImage": "https://www.gematsu.com/wp-content/uploads/2026/10/TANUKI-Pons-Summer-Date_10-28-26.jpg",
-      "publishedAt": "2026-10-28T14:22:06Z",
-      "content": "Mail delivery adventure game TANUKI: Pon’s Summer will launch for PlayStation 5, Xbox Series, Switch 2, PlayStation 4, Xbox One, Switch, and PC via Steam on November 10, publisher CRITICAL REFLEX and… [+1463 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Techpowerup.com"
-      },
-      "author": null,
-      "title": "ASUS Republic of Gamers Announces Availability of ROG Swift OLED PG259QWS Ace and Strix OLED XG259QWPG Ace - TechPowerUp",
-      "description": "ASUS Republic of Gamers (ROG) today announced the availability of the Swift OLED PG259QWS Ace and Strix OLED XG259QWPG Ace, expanding the Ace esports monitor range with OLED options. Designed with direct input from professional players, these 24.5-inch monito…",
-      "url": "https://www.techpowerup.com/354212/asus-republic-of-gamers-announces-availability-of-rog-swift-oled-pg259qws-ace-and-strix-oled-xg259qwpg-ace",
-      "urlToImage": "https://www.techpowerup.com/img/m5Z3VwFpimElV9nC.jpg",
-      "publishedAt": "2026-10-28T14:14:27Z",
-      "content": "ASUS Republic of Gamers (ROG) today announced the availability of the Swift OLED PG259QWS Ace and Strix OLED XG259QWPG Ace, expanding the Ace esports monitor range with OLED options. Designed with di… [+4278 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "Gematsu"
       },
       "author": "Sal Romano",
@@ -801,32 +905,6 @@
       "urlToImage": "https://www.gematsu.com/wp-content/uploads/2026/10/Threads-Time-Switch_10-28-26.jpg",
       "publishedAt": "2026-10-28T14:08:48Z",
       "content": "Turn-based RPG Threads of Time will launch for Switch 2, Switch, Xbox Series, and PC via Steam in summer 2027, publisher Balor Games and developer Riyo Games announced. The Switch 2 and Switch versio… [+2203 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Gematsu"
-      },
-      "author": "Sal Romano",
-      "title": "Action adventure game Winds of Viridia announced for Switch 2, PC - Gematsu",
-      "description": "Shark Jump has announced Winds of Viridia, an action adventure game coming to Switch 2 and PC via Steam in early 2027. A demo is available now for both platforms.",
-      "url": "https://www.gematsu.com/2026/10/action-adventure-game-winds-of-viridia-announced-for-switch-2-pc",
-      "urlToImage": "https://www.gematsu.com/wp-content/uploads/2026/10/Winds-Viridia-Ann_10-28-26.jpg",
-      "publishedAt": "2026-10-28T14:02:58Z",
-      "content": "Shark Jump has announced Winds of Viridia, an action adventure game coming to Switch 2 and PC via Steam in early 2027. A demo is available now for both platforms. \r\nHere is an overview of the game, v… [+1412 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Kotaku"
-      },
-      "author": "Partner Content with Ganko",
-      "title": "Wordeex Challenges Your Vocabulary and Your Logic, But Does It for Free - Kotaku",
-      "description": "This challenging new word game available in 27 languages on iOS and Android is also playable offline.",
-      "url": "https://kotaku.com/wordeex-challenges-your-vocabulary-and-your-logic-but-does-it-for-free-2000749204",
-      "urlToImage": "https://kotaku.com/app/uploads/2026/10/article-1920x1280-1.jpg",
-      "publishedAt": "2026-10-28T14:00:09Z",
-      "content": "Most word puzzles are generous about what counts as a win. Find a word, score the word, move on. The board waits patiently for whatever you decide to play next. Wordeex is not going to let you off th… [+4710 chars]"
     },
     {
       "source": {
@@ -882,19 +960,6 @@
     },
     {
       "source": {
-        "id": "bloomberg",
-        "name": "Bloomberg"
-      },
-      "author": "Chris Welch",
-      "title": "Samsung Joins Cuff-Shaped Earbuds Trend With $229 Galaxy Buds On - Bloomberg.com",
-      "description": "Samsung Electronics Co. unveiled its first pair of cuff-style earbuds, adding to a growing category that includes products from Sony Group Corp., Bose Corp. and several Chinese brands.",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-28/samsung-unveils-galaxy-buds-on-clip-on-earbuds-for-229",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/imWX2D2SpIbQ/v1/1200x903.jpg",
-      "publishedAt": "2026-10-28T12:00:09Z",
-      "content": "Samsung Electronics Co. unveiled its first pair of cuff-style earbuds, adding to a growing category that includes products from Sony Group Corp., Bose Corp. and several Chinese brands. \r\nThe $229 Gal… [+423 chars]"
-    },
-    {
-      "source": {
         "id": null,
         "name": "MusicRadar"
       },
@@ -909,15 +974,28 @@
     {
       "source": {
         "id": null,
-        "name": "Nintendo Life"
+        "name": "GamesIndustry.biz"
       },
-      "author": "Jim Norman",
-      "title": "Minecraft Has Been Updated To Ver. 26.60 On Switch 2, Here Are The Full Patch Notes - Nintendo Life",
-      "description": "New experimental biomes! Blocks! Projectiles!",
-      "url": "https://www.nintendolife.com/news/2026/10/minecraft-has-been-updated-to-ver-26-60-on-switch-2-here-are-the-full-patch-notes",
-      "urlToImage": "https://images.nintendolife.com/b579897929652/1280x720.jpg",
-      "publishedAt": "2026-10-28T11:45:00Z",
-      "content": "Image: Mojang\r\nMinecraft launched on Switch 2 earlier this week, and Mojang was quick to release a new update to make sure that everything is running as it should.\r\nThe biggest additions this time ar… [+24283 chars]"
+      "author": "Sophie McEvoy",
+      "title": "Wardogs leads Newzoo's September PC revenue charts - GamesIndustry.biz",
+      "description": "Marvel's Wolverine ranks fourth in console revenue; Halloween: The Game and The Blood of the Dawnwalker feature in the Top 10 across platforms",
+      "url": "https://www.gamesindustry.biz/wardogs-leads-newzoos-september-pc-revenue-charts",
+      "urlToImage": "https://assetsio.gnwcdn.com/wardogs-preview-devourer-of-weekends-2266.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "publishedAt": "2026-10-28T11:54:35Z",
+      "content": "Bulkhead's Wardogs topped Newzoo's September PC revenue charts, surpassing EA Sports FC 27.\r\nThe first-person shooter, currently in Early Access, also reached No.11 on Newzoo's monthly active user (M… [+4150 chars]"
+    },
+    {
+      "source": {
+        "id": "ign",
+        "name": "IGN"
+      },
+      "author": "Wesley Yin-Poole",
+      "title": "You Need to Have Completed Crimson Desert's Main Storyline to Begin Kliff, Oongka, and Damiane's New DLC Stories - IGN",
+      "description": "You need to have completed Crimson Desert’s main storyline to begin Kliff, Oongka, and Damiane’s new DLC stories, Pearl Abyss has confirmed.",
+      "url": "https://www.ign.com/articles/you-need-to-have-completed-crimson-deserts-main-storyline-to-begin-kliff-oongka-and-damianes-new-dlc-stories",
+      "urlToImage": "https://assets-prd.ignimgs.com/2026/10/28/cd2-1793188035545.jpg?width=1280&format=jpg&auto=webp&quality=80",
+      "publishedAt": "2026-10-28T11:52:54Z",
+      "content": "You need to have completed Crimson Deserts main storyline to begin Kliff, Oongka, and Damianes new DLC stories, Pearl Abyss has confirmed.\r\nSpeaking on Dropped Frames, Pearl Abyss' Will Powers confir… [+2877 chars]"
     },
     {
       "source": {
@@ -934,29 +1012,16 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "Warhammer-community.com"
+        "id": "cnn",
+        "name": "CNN"
       },
-      "author": null,
-      "title": "Warhammer Age of Sigmar: October Update - Warhammer Community",
-      "description": "Rules changes for Khazalite Holds, Sons of Behemat, and more.",
-      "url": "https://www.warhammer-community.com/articles/iix3g22a/warhammer-age-of-sigmar-october-update",
-      "urlToImage": "https://assets.warhammer-community.com/articles/0-2026/october/wc26-10/aos_changes-oct28-2-share-i8uxy7vpjl.jpg",
-      "publishedAt": "2026-10-28T10:27:12Z",
-      "content": "© Copyright Games Workshop Limited 2026. GW, Games Workshop, Citadel, White Dwarf, Space Marine, 40K, Warhammer, Warhammer 40,000, the Aquila Double-headed Eagle logo, Warhammer Age of Sigmar, Battle… [+1391 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "TweakTown"
-      },
-      "author": "Jak Connor",
-      "title": "Valve responds to Steam devs getting extortion emails threatening AI clones of their games - TweakTown",
-      "description": "Valve told indie devs at Steam Indie Connect that it won't gatekeep AI tools, and asked devs hit by AI clone extortion emails to officially report them.",
-      "url": "https://www.tweaktown.com/news/114349/valve-responds-to-steam-devs-getting-extortion-emails-threatening-ai-clones-of-their-games/index.html",
-      "urlToImage": "https://static.tweaktown.com/news/1/1/114349_1_valve-responds-to-steam-devs-getting-extortion-emails-threatening-ai-clones-of-their-games_full.png",
-      "publishedAt": "2026-10-28T10:07:16Z",
-      "content": "Valve has responded to indie developers worried about AI slop and AI cloned games flooding Steam, with the company saying it won't act as a gatekeeper on which tools developers use, but it does want … [+3381 chars]"
+      "author": "Scottie Andrew",
+      "title": "The new frontier for ads is racist cartoon AI musical microdrama - CNN",
+      "description": "“I had sex with the wife of a Jewish billionaire heir, and I made her tell me the family secret of longevity,” a cartoon landscaper sings at the start of a recent online commercial for herbal supplements.",
+      "url": "https://www.cnn.com/2026/10/28/us/musical-cartoon-racist-ai-ads-cec",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/16x9-ai-generated-image-resiliaai-20261027160850248.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2026-10-28T10:00:15Z",
+      "content": "I had sex with the wife of a Jewish billionaire heir, and I made her tell me the familysecret oflongevity, a cartoon landscaper sings at the start of a recent online commercial for herbal supplements… [+9302 chars]"
     },
     {
       "source": {
@@ -973,16 +1038,29 @@
     },
     {
       "source": {
-        "id": "ign",
-        "name": "IGN"
+        "id": null,
+        "name": "TweakTown"
       },
-      "author": "Cade Onder",
-      "title": "One of Call of Duty's Most Iconic Maps Has Been Added to Modern Warfare 4 Nearly 20 Years After Its Initial Debut - IGN",
-      "description": "Shipment, one of Call of Duty's most iconic maps, has officially been added to Modern Warfare 4's multiplayer.",
-      "url": "https://www.ign.com/articles/call-of-duty-modern-warfare-4-adds-series-favorite-map-shipment-to-multiplayer",
-      "urlToImage": "https://assets-prd.ignimgs.com/2026/10/20/cod-oo-1792455882717.png?width=1280&format=jpg&auto=webp&quality=80",
-      "publishedAt": "2026-10-27T20:28:29Z",
-      "content": "Shipment, one of Call of Duty's most iconic maps, has officially been added to Modern Warfare 4's multiplayer.\r\nCall of Duty: Modern Warfare 4's Shipment is now available in the standard 6v6 map rota… [+2280 chars]"
+      "author": "Kosta Andreadis",
+      "title": "Acer's Predator Atlas 8 gaming handheld launches in the US at a much lower price than expected - TweakTown",
+      "description": "Acer's flagship Predator Atlas 8 gaming handheld powered by the Intel Arc G3 Extreme processor is launching in the US with a $1,299.99 price point.",
+      "url": "https://www.tweaktown.com/news/114342/acers-predator-atlas-8-gaming-handheld-launches-in-the-us-at-a-much-lower-price-than-expected/index.html",
+      "urlToImage": "https://static.tweaktown.com/news/1/1/114342_2_acers-predator-atlas-8-gaming-handheld-launch-price-in-the-us-is-lot-lower-than-expected_full.jpg",
+      "publishedAt": "2026-10-28T06:29:15Z",
+      "content": "What you need to know\r\nAcer's Predator Atlas 8 gaming handheld is listed in the US at $1,299.99, about $500 below the MSI Claw 8 EX AI+. It features the Intel Arc G3 Extreme processor, an 8-inch 120H… [+3688 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Responsiblestatecraft.org"
+      },
+      "author": "Hekmat Aboukhater",
+      "title": "Call of Duty 4: Injecting American empire right into the veins - Responsible Statecraft",
+      "description": "Next in the latest version of the first-person shooter classic: the US military must be everywhere, lest North Korea and Russia take over",
+      "url": "https://responsiblestatecraft.org/call-of-duty-4/",
+      "urlToImage": "https://responsiblestatecraft.org/media-library/call-of-duty-4-modern-warfare.jpg?id=68538451&width=1200&height=600&coordinates=0%2C5%2C0%2C233",
+      "publishedAt": "2026-10-28T04:05:56Z",
+      "content": "The good folks at Activision and Infinity Ward have outdone themselves this time.\r\nFor more than two decades, Call of Duty has dominated the world of first-person shooter games, selling more than500 … [+6491 chars]"
     },
     {
       "source": {

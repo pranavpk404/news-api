@@ -6,9 +6,48 @@
     "newsapi",
     "rss"
   ],
-  "fetched_at": "2026-10-30T20:12:04.497647+00:00",
-  "articles_count": 30,
+  "fetched_at": "2026-10-31T01:06:16.112437+00:00",
+  "articles_count": 32,
   "articles": [
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Karen Weise",
+      "title": "Big Tech’s Data Center Blitz Is Burning Through Cash and Scaring Wall St.",
+      "description": "Amazon became the latest tech company to announce swelling investments in A.I. amid stumbling share prices.",
+      "url": "https://www.nytimes.com/2026/10/29/technology/amazon-earnings-tech-spending.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/10/29/multimedia/29biz-bigtech-spending-amazon-kltm/29biz-bigtech-spending-amazon-kltm-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-10-31T00:03:24Z",
+      "content": "Amazon became the latest tech company to announce swelling investments in A.I. amid stumbling share prices."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Rebecca Chao",
+      "title": "Hack Could Leave AO3, a Popular Fan Fiction Site, Offline for Weeks",
+      "description": "AO3, which hosts 18 million stories spun off from the likes of “Harry Potter” and “Heated Rivalry,” was taken offline after “an intrusion,” one of its founders said.",
+      "url": "https://www.nytimes.com/2026/10/30/arts/ao3-fan-fiction-site-down.html",
+      "urlToImage": null,
+      "publishedAt": "2026-10-30T23:39:37Z",
+      "content": "AO3, which hosts 18 million stories spun off from the likes of “Harry Potter” and “Heated Rivalry,” was taken offline after “an intrusion,” one of its founders said."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Stuart A. Thompson",
+      "title": "Polymarket and Kalshi Face a Major Accuracy Test: The Midterms",
+      "description": "Studies have shown that the betting sites can predict races correctly, but their ability to forecast U.S. midterm elections is an important proving ground.",
+      "url": "https://www.nytimes.com/2026/10/30/technology/polymarket-kalshi-midterm-elections.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/10/30/multimedia/30biz-prediction-pmzg/30biz-prediction-pmzg-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-10-30T22:46:05Z",
+      "content": "Studies have shown that the betting sites can predict races correctly, but their ability to forecast U.S. midterm elections is an important proving ground."
+    },
     {
       "source": {
         "id": "the-new-york-times",
@@ -19,8 +58,21 @@
       "description": "The largest cyber heist in history came as attackers increasingly use artificial intelligence and other advanced techniques to steal crypto and quickly launder the funds.",
       "url": "https://www.nytimes.com/2026/10/30/technology/binance-hack-ai-north-korea.html",
       "urlToImage": "https://static01.nyt.com/images/2026/10/30/multimedia/30biz-binance-lzht/30biz-binance-lzht-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-10-30T17:47:07Z",
+      "publishedAt": "2026-10-30T21:17:37Z",
       "content": "The largest cyber heist in history came as attackers increasingly use artificial intelligence and other advanced techniques to steal crypto and quickly launder the funds."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Karen Weise",
+      "title": "House Democrats Criticize Justice Dept. Support of OpenAI in Copyright Suit",
+      "description": "In a court filing, top Democrats on the Judiciary Committee indicated their support for publishers in a lawsuit led by The New York Times.",
+      "url": "https://www.nytimes.com/2026/10/30/technology/house-democrats-openai-copyright-lawsuit.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/10/30/multimedia/30biz-openai-filing-bkvf/30biz-openai-filing-bkvf-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-10-30T20:30:42Z",
+      "content": "In a court filing, top Democrats on the Judiciary Committee indicated their support for publishers in a lawsuit led by The New York Times."
     },
     {
       "source": {
@@ -40,19 +92,6 @@
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
-      "author": "Stuart A. Thompson",
-      "title": "Polymarket and Kalshi Face a Major Accuracy Test: The Midterms",
-      "description": "Studies have shown that the betting sites can predict races correctly, but their ability to forecast U.S. midterm elections is an important proving ground.",
-      "url": "https://www.nytimes.com/2026/10/30/technology/polymarket-kalshi-midterm-elections.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/10/30/multimedia/30biz-prediction-pmzg/30biz-prediction-pmzg-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-10-30T16:35:45Z",
-      "content": "Studies have shown that the betting sites can predict races correctly, but their ability to forecast U.S. midterm elections is an important proving ground."
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
       "author": "David Yaffe-Bellany and Ryan Mac",
       "title": "Binance Suspends Withdrawals After Crypto Hackers Steal $6.3 Billion",
       "description": "The crypto exchange said it was compromised in what could be the biggest crypto heist ever. One research lab attributed the theft to “North Korea’s elite hacking unit.”",
@@ -60,19 +99,6 @@
       "urlToImage": "https://static01.nyt.com/images/2026/10/29/multimedia/29biz-binance-cjwh/29biz-binance-cjwh-mediumSquareAt3X.jpg",
       "publishedAt": "2026-10-30T15:16:55Z",
       "content": "The crypto exchange said it was compromised in what could be the biggest crypto heist ever. One research lab attributed the theft to “North Korea’s elite hacking unit.”"
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "author": "Karen Weise",
-      "title": "Big Tech’s Data Center Blitz Is Burning Through Cash and Scaring Wall St.",
-      "description": "Amazon became the latest tech company to announce swelling investments in A.I. amid stumbling share prices.",
-      "url": "https://www.nytimes.com/2026/10/29/technology/amazon-earnings-tech-spending.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/10/29/multimedia/29biz-bigtech-spending-amazon-kltm/29biz-bigtech-spending-amazon-kltm-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-10-30T14:02:25Z",
-      "content": "Amazon became the latest tech company to announce swelling investments in A.I. amid stumbling share prices."
     },
     {
       "source": {
@@ -123,7 +149,7 @@
       "description": "Betting markets like Polymarket and Kalshi have transformed America’s democracy into a new kind of casino.",
       "url": "https://www.nytimes.com/2026/10/29/technology/polymarket-kalshi-midterm-election-betting-wagers.html",
       "urlToImage": "https://static01.nyt.com/images/2026/11/01/multimedia/POLYMARKET-MONEY3-fbwc/POLYMARKET-MONEY-fbwc-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-10-29T21:08:30Z",
+      "publishedAt": "2026-10-29T21:08:31Z",
       "content": "Betting markets like Polymarket and Kalshi have transformed America’s democracy into a new kind of casino."
     },
     {
